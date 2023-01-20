@@ -99,7 +99,7 @@
     },
     {
         "name":"Overrun",
-        "effect":"Trigger: Your Mount with Run Up makes a Damage Roll for a Dash or Pass Move\\nEffect: Your Pokémon adds their Speed Stat in addition to their normal attacking Stat to their Damage Roll. The target gains Damage Reduction against this attack equal to their own Speed Stat.",
+        "effect":"Trigger: Your Mount with Rock Head makes a Damage Roll for a Dash or Pass Move\\nEffect: Your Pokémon adds their Speed Stat in addition to their normal attacking Stat to their Damage Roll. The target gains Damage Reduction against this attack equal to their own Speed Stat.",
         "prerequisites":"Conqueror's March, Expert Acrobatics or Athletics",
         "frequency":"Scene x2 – Free Action",
         "tags":"[+Speed]"
@@ -253,7 +253,7 @@
     },
     {
         "name":"Rock Power Rank 2",
-        "effect":"Each Rank, choose one of Sturdy, Rock Head, Run Up, or Sand Veil. You gain the chosen Ability. If you choose Sand Veil, you may consider sand a “solid surface” for the purposes of Stone Stance.",
+        "effect":"Each Rank, choose one of Sturdy, Rock Head, or Sand Veil. You gain the chosen Ability. If you choose Sand Veil, you may consider sand a “solid surface” for the purposes of Stone Stance.",
         "prerequisites":"Expert Combat or Survival",
         "frequency":"Static",
         "tags":"[Ranked 2] [+Defense]"
@@ -333,7 +333,7 @@
         "effect":"Target: An Arcane Weapon \\nEffect: You create a Soul Bond with the target Weapon. You may make a Soul Bond with only one weapon at a time. If you create a new Soul Bond, previously Soul Bound weapons lose the Bond. Soul Bound Weapons gain the following benefits:\\n»» Increase the Damage Base and Effect Range of Struggle Attacks and Arcane Weapon Moves made with your Soul Bonded Weapon by +1 for each Occult Education Rank you have above Novice, up to a maximum of +3 at Master Rank.\\n»» As a Shift Action, you may beckon your Soul Bonded Weapon to your hands if it is within 10 meters. If it is being held by someone else who does not want to let go of the weapon, make an Occult vs Athletics Opposed Check. If you win, they their lose grip on your Weapon and it flies to your hand as normal.",
         "prerequisites":"Arcane Training",
         "frequency":"At-Will – Extended Action",
-        "tags":"[Class][+Special Attack]"
+        "tags":"[Class] [+Special Attack] [Weapon]"
     },
     {
         "name":"Man of Steel",
@@ -610,9 +610,9 @@
     },
     {
         "name":"Cute Cuddle Rank 2",
-        "effect":"Your Pokémon with at least 3d6 in their Cute Stat from Poffins may activate Cute Cuddle as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves. X is the Rank of the chosen Move.\\nRank 2: Teeter Dance, Attract",
+        "effect":"Your Pokémon with at least 3d6 in their Cute Stat from Poffins may activate Cute Cuddle as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves.\\nRank 2: Teeter Dance, Attract",
         "prerequisites":"Expert Charm",
-        "frequency":"X AP – Special",
+        "frequency":"1 AP – Special",
         "tags":"[Ranked 2]"
     },
     {
@@ -835,7 +835,7 @@
     {
         "name":"Athlete",
         "effect":"After an hour of exercise, an Athlete may choose two different Stats besides HP; both of those stats become Trained Stats. The default State of Trained Stats is +1 Combat Stages instead of 0. An Athlete may have two Trained Stats at a time.",
-        "prerequisites":"Novice Athletics, One of Athletic Prowess, Mounted Prowess, Power Boost, Stamina, or Swimmer",
+        "prerequisites":"Novice Athletics, One of Athletic Initiative, Mounted Prowess, Power Boost, Stamina, or Swimmer",
         "frequency":"At-Will – Extended Action",
         "tags":"[Class] [+HP]"
     },
@@ -1011,7 +1011,7 @@
         "name":"Endurance",
         "effect":"Trigger: Your Pokémon takes falling damage, begins to suffocate, or is Heavily Injured:  \\nYour Pokémon can ignore up to X meters of falling when calculating falling damage, act without beginning to suffocate for X additional rounds, or ignore the Hit Point loss effects from acting while Heavily Injured for X rounds. X is equal to half its number of Tough Dice from Poffins.",
         "prerequisites":"Tough Tumble Rank 1",
-        "frequency":"Daily/10 – Free Action",
+        "frequency":"Scene – Free Action",
         "tags":"-"
     },
     {
@@ -1261,7 +1261,7 @@
     },
     {
         "name":"Rock Power Rank 1",
-        "effect":"Each Rank, choose one of Sturdy, Rock Head, Run Up, or Sand Veil. You gain the chosen Ability. If you choose Sand Veil, you may consider sand a “solid surface” for the purposes of Stone Stance.",
+        "effect":"Each Rank, choose one of Sturdy, Rock Head, or Sand Veil. You gain the chosen Ability. If you choose Sand Veil, you may consider sand a “solid surface” for the purposes of Stone Stance.",
         "prerequisites":"Adept Combat or Survival",
         "frequency":"Static",
         "tags":"[Ranked 2] [+Defense]"
@@ -1415,7 +1415,7 @@
     },
     {
         "name":"Deadly Gambit",
-        "effect":"Trigger: Your Pokémon is the target of a foe’s damaging melee attack\\nEffect: The triggering attack automatically hits as if it was a Critical Hit. Before damage resolves, your Pokémon may use a 1-Target damaging attack on the foe making the triggering attack as an Interrupt, Frequency allowing, and also automatically hits as a Critical Hit. Damage for both attacks then resolve at the same time.",
+        "effect":"Trigger: Your Pokémon is the target of a foe’s damaging melee attack\\nEffect: The triggering attack automatically hits as if it was a Critical Hit. Before damage resolves, your Pokémon may use a 1-Target damaging attack on the foe making the triggering attack as an Interrupt, Frequency allowing, and also automatically hits as a Critical Hit. Damage for both attacks then resolve at the same time.\nThis effect bypasses immunity to Critical Hits on your own Pokémon, but not on the target. Though both attacks hit automatically and are Critical Hits, you may still roll to activate effects.",
         "prerequisites":"5 Taskmaster Features, Master Intimidate",
         "frequency":"Scene – Free Action",
         "tags":"-"
@@ -1450,7 +1450,7 @@
     },
     {
         "name":"Dumplings",
-        "effect":"Ingredient 1: Leftovers, Preserves, or a Snack made with Chef\\nIngredient 2: Leftovers or Preserves\\nEffect: You mix the two ingredients into one Snack that has the same effect as its ingredients. The two ingredients must be different items.\\nMay Playtest Errata: Dumplings cannot be used to make other Dumpling items.",
+        "effect":"Ingredient 1: Leftovers, Preserves, or a Snack made with Chef\\nIngredient 2: Leftovers or Preserves\\nEffect: You mix the two ingredients into one Snack that has the same effect as its ingredients. The two ingredients must be different items.\\nDumplings cannot be used to make other Dumpling items.",
         "prerequisites":"4 Chef Features, Master Intuition",
         "frequency":"At-Will – Extended Action",
         "tags":"-"
@@ -1635,7 +1635,7 @@
         "effect":"For one full round, whenever a Channeled Pokémon successfully hits a foe, all Channeled Pokémon gain +1 Accuracy and +1 Evasion against that foe for the duration of this Feature.",
         "prerequisites":"Channeler",
         "frequency":"Scene x3 – Standard Action",
-        "tags":"-"
+        "tags":"[Orders]"
     },
     {
         "name":"Defense Mastery",
@@ -1765,9 +1765,9 @@
     },
     {
         "name":"Cool Conduct Rank 1",
-        "effect":"Your Pokémon with at least 3d6 in their Cool Stat from Poffins may activate Cool Conduct as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves. X is the Rank of the chosen Move.\\nRank 1: Focus Energy, Noble Roar",
+        "effect":"Your Pokémon with at least 3d6 in their Cool Stat from Poffins may activate Cool Conduct as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves.\\nRank 1: Focus Energy, Noble Roar",
         "prerequisites":"Style Expert, Cool as Chosen Stat, Novice Command",
-        "frequency":"X AP – Special",
+        "frequency":"1 AP – Special",
         "tags":"[Ranked 2]"
     },
     {
@@ -1830,7 +1830,7 @@
         "name":"Action Hero Stunt",
         "effect":"Trigger: Your Pokémon makes a Skill Check for a dramatic, high risk action:  \\nInstead of using a Skill for this Check, your Pokémon rolls their Cool Dice from Poffins and adds their number of Cool Dice from Stats as a modifier. For example, a Pokémon with 5d6 Cool from Poffins and 2d6 from Attack rolls 5d6+2. An example trigger is charging into a burning building for a heroic rescue. Skill Checks invoked by Intercepting attacks, Combat Maneuvers, Moves, and Abilities don’t trigger this Feature.",
         "prerequisites":"Cool Conduct Rank 1",
-        "frequency":"Daily/10 – Free Action",
+        "frequency":"Daily x2 – Free Action",
         "tags":"-"
     },
     {
@@ -2030,13 +2030,6 @@
         "tags":"-"
     },
     {
-        "name":"Breadth of Knowledge",
-        "effect":"You gain three Skill Edges for which you qualify. These Edges must be used to gain a Skill Edge with an Education Skill, or to gain an Edge that has an Education Skill as a Prerequisite that you meet.",
-        "prerequisites":"Novice General Education",
-        "frequency":"Static",
-        "tags":"[General Research Field] [Branch]"
-    },
-    {
         "name":"Thought Detection",
         "effect":"You become aware of the number of living Humans or Pokémon within X meters of yourself; X is equal to your Focus Rank tripled. Pokémon or Trainers with the Mindlock Capability are not detected by this Ability. You may only use Thought Detection as long as you have the Telepathy Capability.",
         "prerequisites":"Telepathic Awareness",
@@ -2171,7 +2164,7 @@
     },
     {
         "name":"Conqueror’s March",
-        "effect":"Target: Your Pokémon with Run Up\\nEffect: This round, if being used as a Mount, the target may use Dash, Burst, Blast, Cone, or Line range Moves with a range of Pass instead of their usual range.",
+        "effect":"Target: Your Pokémon with Rock Head\\nEffect: This round, if being used as a Mount, the target may use Dash, Burst, Blast, Cone, or Line range Moves with a range of Pass instead of their usual range.",
         "prerequisites":"Ramming Speed, Adept Acrobatics or Athletics",
         "frequency":"At-Will – Standard Action",
         "tags":"[Orders] [+Speed]"
@@ -2444,9 +2437,9 @@
     },
     {
         "name":"Cute Cuddle Rank 1",
-        "effect":"Your Pokémon with at least 3d6 in their Cute Stat from Poffins may activate Cute Cuddle as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves. X is the Rank of the chosen Move.\\nRank 1: Charm, Block",
+        "effect":"Your Pokémon with at least 3d6 in their Cute Stat from Poffins may activate Cute Cuddle as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves.\\nRank 1: Charm, Block",
         "prerequisites":"Style Expert, Cute as Chosen Stat, Novice Charm",
-        "frequency":"X AP – Special",
+        "frequency":"1 AP – Special",
         "tags":"[Ranked 2]"
     },
     {
@@ -2479,7 +2472,7 @@
     },
     {
         "name":"Accentuated Taste",
-        "effect":"Whenever you create a Snack with a Chef Feature, you may assign it a Taste chosen from Salty, Sour, Spicy, Dry, and Sweet. Tasty Snacks must be assigned their corresponding Taste. Whenever a Pokémon trades in a Digestion/Food Buff from a Snack with an assigned Taste they do not dislike, they gain one of the following bonuses based on the assigned Taste:\\r\\n»» Salty: The user gains 5 Temporary Hit Points. This stacks with any Temporary Hit Points gained through Chef Features, the Lunchbox Ability, and the Digestion/Food Buff.\\r\\n»» Spicy: Increase the user’s Critical Hit Range by 1.\\r\\n»» Sour: Increase the user’s Evasion against damaging attacks by 1.\\r\\n»» Dry: Increase the user’s Effect Range of all attacks by 1.\\r\\n»» Bitter: The user gets a +1 Bonus to all Save Checks.\\r\\n»» Sweet: Increase the user’s Initiative by 5.\\r\\nMay Playtest Errata: This bonus can only be gained once per item, even if Complex Aftertaste is used to give an additional Digestion/Food Buff for the item.\\r\\nRecipe - Preserves",
+        "effect":"Whenever you create a Snack with a Chef Feature, you may assign it a Taste chosen from Salty, Sour, Spicy, Dry, and Sweet. Tasty Snacks must be assigned their corresponding Taste. Whenever a Pokémon trades in a Food Buff from a Snack with an assigned Taste they do not dislike, they gain one of the following bonuses based on the assigned Taste:\\r\\n»» Salty: The user gains 5 Temporary Hit Points. This stacks with any Temporary Hit Points gained through Chef Features, the Lunchbox Ability, and the Food Buff.\\r\\n»» Spicy: Increase the user’s Critical Hit Range by 1.\\r\\n»» Sour: Increase the user’s Evasion against damaging attacks by 1.\\r\\n»» Dry: Increase the user’s Effect Range of all attacks by 1.\\r\\n»» Bitter: The user gets a +1 Bonus to all Save Checks.\\r\\n»» Sweet: Increase the user’s Initiative by 5.\\r\\nMay Playtest Errata: This bonus can only be gained once per item, even if Complex Aftertaste is used to give an additional Food Buff for the item.\\r\\nRecipe - Preserves",
         "prerequisites":"Chef, Adept Intuition",
         "frequency":"Static",
         "tags":"-"
@@ -2584,7 +2577,7 @@
     },
     {
         "name":"Ramming Speed",
-        "effect":"Target: Your Pokémon with at least 2 Tutor Points\\nEffect: The target loses 2 Tutor Points and gains the Run Up Ability.",
+        "effect":"Target: Your Pokémon with at least 2 Tutor Points\\nEffect: The target loses 2 Tutor Points and gains the Rock Head Ability.",
         "prerequisites":"Rider",
         "frequency":"At-Will - Extended Action",
         "tags":"[+Speed]"
@@ -2688,17 +2681,10 @@
         "tags":"[Ranked 2][+Special Attack]"
     },
     {
-        "name":"Echoes of the Future",
-        "effect":"Trigger: You or your Pokémon make a roll\\nEffect: You may roll twice and keep the best result.",
-        "prerequisites":"Master General Education",
-        "frequency":"Daily x2 – Free Action",
-        "tags":"[General Research Field] [Branch]"
-    },
-    {
         "name":"Enticing Beauty",
         "effect":"Target: Your Pokémon\\nThe target acts as a Bait item as if it had the Alluring Capability. Add its number of Beauty Dice from Poffins as a Bonus to all d20 lure rolls.",
         "prerequisites":"Beautiful Ballet Rank 1",
-        "frequency":"Daily/10 – Free Action",
+        "frequency":"Scene – Free Action",
         "tags":"-"
     },
     {
@@ -2727,7 +2713,7 @@
         "effect":"Target: Your Chic Pokémon\\nEffect: Your Pokémon gains the effect of all items in extra slots granted by Versatile Wardrobe for one full round. Dress to Impress may only target a Pokémon once per Scene.",
         "prerequisites":"Versatile Wardrobe, two Fashionista Skills at Expert",
         "frequency":"Scene x2 – Standard Action",
-        "tags":"-"
+        "tags":"[Orders]"
     },
     {
         "name":"Aura Reader",
@@ -2871,7 +2857,7 @@
     },
     {
         "name":"Dashing Makeover",
-        "effect":"Target: A Trainer or Pokémon\\nEffect: When you activate Dashing Makeover, choose one Equipment or Held Item you can create. While this Feature is Bound, the target gains the effects of the chosen item, as long as they would normally be able to equip it (e.g.: Trainers cannot equip Incense Items).They do not need to take up an Equipment or Held Item slot to gain this benefit. A target may only be affected by one instance of Dashing Makeover at a time.\\nRecipe - Practical Fashion",
+        "effect":"Target: A Trainer or Pokémon\\nEffect: When you activate Dashing Makeover, choose one Equipment or Held Item you can create via Fashionista. While this Feature is Bound, the target gains the effects of the chosen item, as long as they would normally be able to equip it (e.g.: Trainers cannot equip Incense Items).They do not need to take up an Equipment or Held Item slot to gain this benefit. A target may only be affected by one instance of Dashing Makeover at a time.\\nRecipe - Practical Fashion",
         "prerequisites":"Fashionista",
         "frequency":"Bind 2 AP – Extended Action",
         "tags":"-"
@@ -3119,7 +3105,7 @@
         "effect":"Target: A willing Pokémon with one of the Capabilities listed below\\nEffect: Choose one of the Capabilities below which the target Pokémon has. You create a consumable item with the effect below, depending on the chosen Capability. All unused items created with Enhanced Capsules are rendered inert after an Extended Rest (including modifications to other items).\\n\\n»» Glow: This item may be attached to a Wonder Launcher as a Standard Action to give the following effect for the rest of the Scene: Whenever you apply an Item to a target using this Wonder Launcher, that target gains the Illuminate Ability for one full round.\\n»» Magnetic: This item may be loaded into a Cap Cannon to provide two Bean Cap Ammo. When fired, these Bean Caps cannot miss.\\n»» Threaded: This item may be loaded into a Cap Cannon to provide two Glue Cap Ammo. When fired, they affect a Blast 2 instead of a single target.\\n»» Zapper: This item may be loaded into a Cap Cannon as a single Net Cap Ammo. Targets trapped by this Net Cap are Suppressed while trapped. Targets immune to Electric-Type attacks are immune to this effect.",
         "prerequisites":"Capsule Science, Master Technology Education",
         "frequency":"Daily x3 – Extended Action",
-        "tags":"[Gadgeteer Research Field] [Branch] [5-15 Playtest]"
+        "tags":"[Gadgeteer Research Field] [Branch]"
     },
     {
         "name":"Cutthroat",
@@ -3375,7 +3361,7 @@
     },
     {
         "name":"Disruption Order",
-        "effect":"Trigger: Your Pokémon hits with a Bug-Type Move\\nEffect: Until the end of user’s next turn, all targets hit by the Move are Slowed, suffer a -X to Accuracy Rolls, and are Flinched by Damaging Attacks on 16+.",
+        "effect":"Trigger: Your Pokémon hits with a Bug-Type Move\\nEffect: Until the end of user’s next turn, all targets hit by the Move are Slowed, suffer a -X to Accuracy Rolls, and are Flinched by Damaging Attacks on 16+.: X is equal to half your type-linked skill rank.",
         "prerequisites":"Insectoid Utility, Type-Linked Skill at Master",
         "frequency":"Daily x3 – Free Action",
         "tags":"-"
@@ -3570,11 +3556,11 @@
         "tags":"[Class][+Special Attack]"
     },
     {
-        "name":"Echoes of the Future [Playtest]",
+        "name":"Echoes of the Future",
         "effect":"Trigger: You or your Pokémon make a roll\\nEffect: You may roll twice and keep the best result.",
         "prerequisites":"Breadth of Knowledge, Master General Education",
         "frequency":"Daily x2 – Free Action",
-        "tags":"[General Research Field] [Branch] [5-15 Playtest]"
+        "tags":"[General Research Field] [Branch]"
     },
     {
         "name":"Command Versatility",
@@ -3631,13 +3617,6 @@
         "prerequisites":"Savage Strike, Expert Intimidate",
         "frequency":"Scene x2 – Free Action",
         "tags":"-"
-    },
-    {
-        "name":"Cheerleader",
-        "effect":"Trigger: You use [Orders]\\nEffect: Choose Cheered, Excited, or Motivated. All allies affected by the triggering effect gain the chosen condition.  This Feature costs 0 AP if the triggering effect affects only one ally, and costs 1 AP if it affects two or more.  See Extras - Class Mechanics for details.",
-        "prerequisites":"Inspired Training, Novice Charm",
-        "frequency":"X AP – Free Action",
-        "tags":"[Class]"
     },
     {
         "name":"Call the Current Rank 2",
@@ -3753,7 +3732,7 @@
     },
     {
         "name":"Extreme Weather",
-        "effect":"Trigger: You or your Pokémon create a Weather Condition\\nEffect: The Weather is particularly intense and has additional effects.\\n»» Hail: All Trainers and Pokémon that take Hail Damage take a -5 Penalty to all Damage Rolls.\\n»» Rain: All Trainers and Pokémon that are not Water or Grass typed are Slowed.\\n»» Sandstorm: All Trainers and Pokémon that take Sandstorm damage take a -2 Penalty to Accuracy Rolls.\\n»» Sun: Trainers and Pokémon that are not Fire or Grass Typed are Suppressed.",
+        "effect":"Trigger: You or your Pokémon create a Weather Condition\\nEffect: The Weather is particularly intense and has additional effects.\\n»» Hail: All Trainers and Pokémon that take Hail Damage take a -5 Penalty to all Damage Rolls.\\n»» Rain: All Trainers and Pokémon that are not Water or Grass typed can only take Standard OR Shift Action during their turns, but not both.\\n»» Sandstorm: All Trainers and Pokémon that take Sandstorm damage take a -2 Penalty to Accuracy Rolls.\\n»» Sun: Trainers and Pokémon that are not Fire or Grass Typed can only use At-Will and EOT Frequency Moves.",
         "prerequisites":"Climate Control, Master Survival",
         "frequency":"Daily x3 – Free Action",
         "tags":"[Climatology Research Field] [Branch]"
@@ -4089,7 +4068,7 @@
     },
     {
         "name":"Complex Aftertaste",
-        "effect":"Trigger: You or an ally trades in a Digestion/Food Buff from an item with a Taste\\nEffect: The target gains a Digestion/Food Buff according to the Taste of the Snack granting the Buff. This Digestion/Food Buff matches that of the corresponding basic Tasty Snack recipe.\\nRecipe - Leftovers",
+        "effect":"Trigger: You or an ally trades in a Food Buff from an item with a Taste\\nEffect: The target gains a Food Buff according to the Taste of the Snack granting the Buff. This Food Buff matches that of the corresponding basic Tasty Snack recipe.\\nRecipe - Leftovers",
         "prerequisites":"Accentuated Taste",
         "frequency":"1 AP – Free Action",
         "tags":"-"
@@ -4246,7 +4225,7 @@
         "effect":"You may make two Struggle Attacks with a -2 penalty to Accuracy, each targeting the same foe. If the first attack gains the benefit of Aiming Down the Sights or Clear Shot, the second attack also gains the same benefits for free.",
         "prerequisites":"Marksman, Adept Combat",
         "frequency":"1 AP – Standard Action",
-        "tags":"[+Attack][Weapon]"
+        "tags":"[+Attack] [Weapon]"
     },
     {
         "name":"Tough Tumble Tank 2",
@@ -4278,7 +4257,7 @@
     },
     {
         "name":"Hits the Spot",
-        "effect":"Trigger: You or your Pokémon trade in a Digestion/Food Buff\\nEffect: The target gains Temporary Hit Points equal to your Intuition Rank doubled. These Temporary Hit Points stack from any Temporary Hit Points granted by Accentuated Taste, the Digestion/Food Buff or by the Lunchbox Ability.\\nRecipe - Hearty Meal",
+        "effect":"Trigger: You or your Pokémon trade in a Food Buff\\nEffect: The target gains Temporary Hit Points equal to your Intuition Rank doubled. These Temporary Hit Points stack from any Temporary Hit Points granted by Accentuated Taste, the Food Buff or by the Lunchbox Ability.\\nRecipe - Hearty Meal",
         "prerequisites":"Chef",
         "frequency":"1 AP – Free Action",
         "tags":"-"
@@ -4513,13 +4492,6 @@
         "prerequisites":"Improvised Gadgets, Expert Technology Education",
         "frequency":"Static",
         "tags":"[Gadgeteer Research Field] [Branch] [5-15 Playtest]"
-    },
-    {
-        "name":"Cheer Brigade",
-        "effect":"Target: Your Pokémon with at least 2 Tutor Points remaining\\nEffect: Your Pokémon loses 2 Tutor Points and gains the Friend Guard Ability.",
-        "prerequisites":"Cheerleader",
-        "frequency":"At-Will – Extended Action",
-        "tags":"-"
     },
     {
         "name":"Encore Performance",
@@ -4824,9 +4796,9 @@
     },
     {
         "name":"Cool Conduct Rank 2",
-        "effect":"Your Pokémon with at least 3d6 in their Cool Stat from Poffins may activate Cool Conduct as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves. X is the Rank of the chosen Move.\\nRank 2: Roar, Double Team",
+        "effect":"Your Pokémon with at least 3d6 in their Cool Stat from Poffins may activate Cool Conduct as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves.\\nRank 2: Roar, Double Team",
         "prerequisites":"Expert Command",
-        "frequency":"X AP – Special",
+        "frequency":"1 AP – Special",
         "tags":"[Ranked 2]"
     },
     {
@@ -4848,7 +4820,7 @@
         "effect":"Trigger: You use a Antidote, Burn Heal, Ice Heal, or Paralyze Heal\\nEffect: If the target successfully cures the target of its linked Status Affliction, the item has additional effects.\\n»» Antidote: The target gains +1 Special Defense Combat Stage.\\n»» Burn Heal: The target gains +1 Defense Combat Stage.\\n»» Ice Heal: The target gains +1 Attack or Special Attack Combat Stage\\n»» Paralyze Heal: The target gains +1 Speed Combat Stage.",
         "prerequisites":"Patch Cure, Expert Medicine Education",
         "frequency":"1 AP – Free Action",
-        "tags":"[Apothecary Research Field] [Branch] [9-15 Playtest]"
+        "tags":"[Apothecary Research Field] [Branch]"
     },
     {
         "name":"Equipment Savant",
