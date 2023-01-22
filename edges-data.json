@@ -5,13 +5,13 @@
         "prerequisites":"Novice Medicine Education"
     },
     {
-        "name":"Field Clinic [9-15 Playtest]",
+        "name":"Field Clinic",
         "effect":"Whenever your party Sets Up Camp, you may spend $200 worth of Medical Scrap to set up a Field Clinic. While using the Field Clinic, all members gain the following benefits;\\n»» You may spend $300 of Medical Scrap to create and apply a Bandage or use a First Aid Kit\\n»» If you have the Nurse Feature, you may spend $300 to activate it without Draining AP.\\n»» Potions, Super Potions, Hyper Potions, Full Restores, Revives, Energy Powders, and Energy Roots used in this area heal their target an additional 5 Hit Points.",
         "prerequisites":"Adept Medicine Education"
     },
     {
         "name":"Charmer",
-        "effect":"You learn the move Baby-Doll Eyes.",
+        "effect":"You learn the Move Baby-Doll Eyes.",
         "prerequisites":"Novice Charm"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
         "name":"Athletic Initiative",
-        "effect":"You learn the move Agility.",
+        "effect":"You learn the Move Agility.",
         "prerequisites":"Adept Athletics"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
         "name":"Confidence Artist",
-        "effect":"You learn the move Confide.",
+        "effect":"You learn the Move Confide.",
         "prerequisites":"Novice Guile"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
         "name":"Work Up",
-        "effect":"You learn the move Work Up.",
+        "effect":"You learn the Move Work Up.",
         "prerequisites":"Adept Focus"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
         "name":"Basic Martial Arts",
-        "effect":"You learn the move Rock Smash.",
+        "effect":"You learn the Move Rock Smash.",
         "prerequisites":"Novice Combat"
     },
     {
@@ -161,7 +161,7 @@
     },
     {
         "name":"Tag Scribe",
-        "effect":"You create a Cleanse Tag. This may be used a number of times each day equal to half your Occult Education Rank.",
+        "effect":"Special - Extended Action.\nYou create a Cleanse Tag. This may be used a number of times each day equal to half your Occult Education Rank.",
         "prerequisites":"Novice Occult Education"
     },
     {
@@ -182,11 +182,11 @@
     {
         "name":"Psychic Navigator",
         "effect":"You gain the Psychic Navigator Capability.",
-        "prerequisites":"Elemental Connection (Psychic)"
+        "prerequisites":"Elemental Connection (Psychic), Adept Perception or Focus"
     },
     {
         "name":"Survival Drive",
-        "effect":"You learn the move Bulk Up.",
+        "effect":"You learn the Move Bulk Up.",
         "prerequisites":"Adept Survival"
     },
     {
@@ -202,7 +202,7 @@
     {
         "name":"Virtuoso",
         "effect":"Choose a Skill at Master Rank. Consider that Skill to be effectively “Rank 8” for any Features or effects that depend on Skill Rank. Virtuoso may be taken multiple times, but you must choose a different Skill each time.",
-        "prerequisites":"A skill at Master rank, Level 20"
+        "prerequisites":"A Skill at Master Rank, Level 20"
     },
     {
         "name":"Emergency Repairs",
@@ -251,7 +251,7 @@
     },
     {
         "name":"Sneak's Tricks",
-        "effect":"You learn the move Astonish.",
+        "effect":"You learn the Move Astonish.",
         "prerequisites":"Adept Stealth"
     },
     {
@@ -276,7 +276,7 @@
     },
     {
         "name":"Basic Psionics",
-        "effect":"You learn the move Confusion.",
+        "effect":"You learn the Move Confusion.",
         "prerequisites":"Elemental Connection (Psychic)"
     },
     {
@@ -306,7 +306,7 @@
     },
     {
         "name":"Leader",
-        "effect":"You learn the move After You.",
+        "effect":"You learn the Move After You.",
         "prerequisites":"Adept Command"
     },
     {
@@ -321,7 +321,7 @@
     },
     {
         "name":"Intimidating Presence",
-        "effect":"You learn the move Leer.",
+        "effect":"You learn the Move Leer.",
         "prerequisites":"Novice Intimidate"
     },
     {
@@ -362,12 +362,12 @@
     {
         "name":"Weapon of Choice",
         "effect":"Choose a specific weapon type. You gain a +2 Bonus on Opposed Rolls to prevent being disarmed while wielding weapons of your chosen type. If you would be disarmed anyway, you may pay 1 AP to prevent yourself from being Disarmed.",
-        "prerequisites":"A feature with the [Weapon] tag"
+        "prerequisites":"A Feature with the [Weapon] tag"
     },
     {
         "name":"Skill Stunt",
         "effect":"Choose a Skill you have at Novice Rank or higher. Choose a specific use of that Skill; when rolling that skill under those circumstances, you may choose to roll one less dice, and instead add +6 to the result. You may take this Edge multiple times, choosing a different circumstance each time.",
-        "prerequisites":"A skill at Novice rank or higher"
+        "prerequisites":"A Skill at Novice Rank or higher"
     },
     {
         "name":"Iron Mind",

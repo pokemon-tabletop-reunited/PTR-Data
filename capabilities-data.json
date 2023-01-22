@@ -1,11 +1,11 @@
 [
     {
         "name":"Zapper",
-        "effect":"The user’s struggle Attacks may be Electric-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish."
+        "effect":"The user’s struggle Attacks may be Electric-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. Multiple Electric-Type Moves grant Zapper."
     },
     {
         "name":"Magnetic",
-        "effect":"Magnetic Pokémon can lightly manipulate magnetic fields. With this, they can repel or attract iron and/or steel, holding it to their body or pushing it away. Through this magnetic manipulation, they can also feel magnetic fields and discern magnetic north."
+        "effect":"Magnetic Pokémon can lightly manipulate magnetic fields. With this, they can repel or attract iron and/or steel, holding it to their body or pushing it away. Through this magnetic manipulation, they can also feel magnetic fields and discern magnetic north. If a Pokémon learns the Move Magnet Rise or Magnet Bomb, or gains the Magnet Pull Ability, and does not have the Magnetic Capability, they gain Magnetic."
     },
     {
         "name":"Mushroom Harvest",
@@ -13,7 +13,7 @@
     },
     {
         "name":"Threaded",
-        "effect":"Pokémon with the Threaded Capability may make a Threaded Shift as a Shift Action. A Threaded Shift is when a Pokémon targets an object and shoots a strong, thin line of silk, or extends a vine from themselves, and then quickly retracts that silk, or vine, pulling itself towards the object if the Pokémon is lighter than the object, or pulling the object towards the Pokémon if it is lighter than the user. Threaded has a range of 4 meters. If you target an unwilling Pokémon or Trainer with threaded, Threaded requires an AC 6 Status Attack to use."
+        "effect":"Pokémon with the Threaded Capability may make a Threaded Shift as a Shift Action. A Threaded Shift is when a Pokémon targets an object and shoots a strong, thin line of silk, or extends a vine from themselves, and then quickly retracts that silk, or vine, pulling itself towards the object if the Pokémon is lighter than the object, or pulling the object towards the Pokémon if it is lighter than the user. Threaded has a range of 4 meters. If you target an unwilling Pokémon or Trainer with threaded, Threaded requires an AC 6 Status Attack to use. If a Pokémon learns the Move Spider Web, String Shot, Vine Whip, Power Whip, or Toxic Thread and does not have the Threaded Capability, they gain Threaded."
     },
     {
         "name":"Wired",
@@ -33,7 +33,7 @@
     },
     {
         "name":"Materializer",
-        "effect":"The Pokémon’s struggle Attacks may be Rock-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish."
+        "effect":"The Pokémon’s struggle Attacks may be Rock-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. Multiple Rock-Type Moves grant Materializer."
     },
     {
         "name":"Juicer",
@@ -61,7 +61,7 @@
     },
     {
         "name":"Telekinetic",
-        "effect":"Telekinetic Pokémon and Trainers can move objects with their mind. They can lift things with Telekinesis as if they were using a Power Capability equal to their Focus Rank. When lifting Staggering Weights with Telekinesis, they roll Focus instead of Athletics, and the DC is 10 instead of 4. They can target objects up to 8 meters away. Count the combined weight of all objects when determining whether they can lift all of them. Using this Capability to lift the user’s Drag Weight or greater leaves discoverable psychic residue. Additionally, the user may use Struggle Attacks at a range of X, where X is the user’s Focus Rank. These Struggle Attacks deal Normal-Type Damage as usual, but the user may add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. The user may perform the Disarm, Trip, and Push Maneuvers at the range of your Telekinetic Capability and using the Focus Skill for all opposed rolls. When the Push Maneuver is used this way, the user does not repeat the Push but instead Pushes the target a number of meters equal to half their Focus Rank."
+        "effect":"Telekinetic Pokémon and Trainers can move objects with their mind. They can lift things with Telekinesis as if they were using a Power Capability equal to their Focus Rank. When lifting Staggering Weights with Telekinesis, they roll Focus instead of Athletics, and the DC is 10 instead of 4. They can target objects up to 8 meters away. Count the combined weight of all objects when determining whether they can lift all of them. Using this Capability to lift the user’s Drag Weight or greater leaves discoverable psychic residue. Additionally, the user may use Struggle Attacks at a range of X, where X is the user’s Focus Rank. These Struggle Attacks deal Normal-Type Damage as usual, but the user may add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. The user may perform the Disarm, Trip, and Push Maneuvers at the range of your Telekinetic Capability and using the Focus Skill for all opposed rolls. When the Push Maneuver is used this way, the user does not repeat the Push but instead Pushes the target a number of meters equal to half their Focus Rank.  If a Pokémon learns the Move Psychic or Telekinesis and does not have the Telekinetic Capability, they gain Telekinetic."
     },
     {
         "name":"Vacuum Tolerance",
@@ -69,7 +69,7 @@
     },
     {
         "name":"Inflatable",
-        "effect":"A Pokémon with the capability Inflatable can expand its size up to 125% of its normal size as a Standard Action. While Inflated, a Pokémon does not change its weight. When Inflated, Pokémon gain a -1 Penalty to Evasion, but become Blocking Terrain; you may not target through an Inflated Pokémon. Returning to normal size is a Shift Action."
+        "effect":"A Pokémon with the capability Inflatable can expand its size up to 125% of its normal size as a Standard Action. While Inflated, a Pokémon does not change its weight. When Inflated, Pokémon gain a -1 Penalty to Evasion, but become Blocking Terrain; you may not target through an Inflated Pokémon. Returning to normal size is a Shift Action. If a Pokémon learns the Move Growth or Stockpile and does not have the Inflatable Capability, they gain Inflatable. A Pokémon under the effects of Minimize may not become Inflated, and an Inflated Pokémon may not use the Move Minimize."
     },
     {
         "name":"Heater",
@@ -93,15 +93,15 @@
     },
     {
         "name":"Reach",
-        "effect":"A Pokémon with Reach has the Range of their Melee attacks increased based on their size category; Small and Medium Pokémon may make Melee attacks from up to 2 meters away, and Large and bigger Pokémon may make Melee attacks from up to 3 meters away. Pokémon with Reach are either really large or have a stretchy limb with which they can strike foes from a distance."
+        "effect":"A Pokémon with Reach has the Range of their Melee attacks increased based on their size category; Small and Medium Pokémon may make Melee attacks from up to 2 meters away, and Large and bigger Pokémon may make Melee attacks from up to 3 meters away. Pokémon with Reach are either really large or have a stretchy limb with which they can strike foes from a distance. While Grappling a foe, that foe may still make melee range attacks against this Pokémon, even if they may be otherwise out of range."
     },
     {
         "name":"Split Evolution",
-        "effect":"Wurmple evolves based on its Nature; if it has a Nature that raises Attack, Special Attack, or Speed, it evolves into Silcoon. If it has a Nature that raises HP, Defense, or Special Defense, it evolves into Cascoon."
+        "effect":" This Pokémon has more than one Evolution. When it evolves, it may choose which of its immediate evolutions it wants to evolve into provided it meets any other requirements."
     },
     {
         "name":"Tracker",
-        "effect":"Pokémon with the Tracker Capability have a strong sense of smell that they can use to follow other Pokémon or people. If the Pokémon has smelt whom they want to track in the past day, or one of their personal belongings, they can pursue that prey with a Perception check of 8 or better. To pick-up a random scent from nothing, a Perception check of 14 or better will allow the Pokémon to follow that scent. To pick-up a specific scent from nothing, a Perception check of 20 will allow the Pokémon to follow that scent. A Pokémon may only make these checks once per hour."
+        "effect":"Pokémon with the Tracker Capability have a strong sense of smell that they can use to follow other Pokémon or people. If the Pokémon has smelt whom they want to track in the past day, or one of their personal belongings, they can pursue that prey with a Perception check of 8 or better. To pick-up a random scent from nothing, a Perception check of 14 or better will allow the Pokémon to follow that scent. To pick-up a specific scent from nothing, a Perception check of 20 will allow the Pokémon to follow that scent. A Pokémon may only make these checks once per hour. If a Pokémon learns the Move Odor Sleuth and does not have the Tracker Capability, they gain Tracker."
     },
     {
         "name":"Herb Growth",
@@ -113,7 +113,7 @@
     },
     {
         "name":"Illusionist",
-        "effect":"Pokémon with the Illusionist Capability can create minor visual Illusions as a Standard Action. These may be no more than half a meter in any dimension and produce no sensory sensations outside of sight. Any physical contact noticeably disrupts an Illusion, and all other effects that see through Illusions can do so. Otherwise, the Illusion appears life-like and can be made to move, though it cannot move further than the user’s Focus Rank in meters away from the user. Actively manipulating the Illusion requires constant attention from the user. For minor effects such as making an illusionary flame dance, this requires the user to constantly spend its Swift Actions. For more major effects such as animating an illusionary skeleton, the user must constantly spend Standard Actions."
+        "effect":"Pokémon with the Illusionist Capability can create minor visual Illusions as a Standard Action. These may be no more than half a meter in any dimension and produce no sensory sensations outside of sight. Any physical contact noticeably disrupts an Illusion, and all other effects that see through Illusions can do so. Otherwise, the Illusion appears life-like and can be made to move, though it cannot move further than the user’s Focus Rank in meters away from the user.\n Actively manipulating the Illusion requires constant attention from the user. For minor effects such as making an illusionary flame dance, this requires the user to constantly spend its Swift Actions. For more major effects such as animating an illusionary skeleton, the user must constantly spend Standard Actions. If a Pokémon gains the Illusion Ability and does not have the Illusionist Capability, they gain Illusionist."
     },
     {
         "name":"Volatile Bomb",
@@ -125,7 +125,7 @@
     },
     {
         "name":"Guster",
-        "effect":"The Pokémon’s Struggle Attacks may be Flying-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish."
+        "effect":"The Pokémon’s Struggle Attacks may be Flying-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. Multiple Flying-Type Moves grant Guster."
     },
     {
         "name":"Bloom",
@@ -141,11 +141,11 @@
     },
     {
         "name":"Naturewalk",
-        "effect":"Naturewalk is always listed with Terrain types in parentheses, such as Naturewalk (Forest and Grassland). Pokémon with Naturewalk treat all listed terrains as Basic Terrain."
+        "effect":"Naturewalk is always listed with Terrain types in parentheses, such as Naturewalk (Forest, Grassland). Pokémon with Naturewalk treat all listed Slow and Rough terrains as Basic Terrain."
     },
     {
         "name":"Shapeshifter",
-        "effect":"Pokémon with this Capability can change their shape at will, taking on different forms as a Standard Action. When using this Capability, the user cannot increase or decrease its total mass by more than 50%, and they cannot replicate complex machines such as computers or phones. They may take on the appearance of these devices, but they will appear simplified in comparison. They can, however, transform into other moving forms such as acting as someone’s prosthetic limb, a living lever or pulley system, or a Pokémon comparable in size. Note in this last case that the Shapeshifter doesn’t gain any qualities of that Pokémon without actually using the Move Transform! Anyone closely examining a Shapeshifter Pokémon may determine its true nature with a Perception Check opposed by the Pokémon’s Stealth."
+        "effect":"Pokémon with this Capability can change their shape at will, taking on different forms as a Standard Action. When using this Capability, the user cannot increase or decrease its total mass by more than 50%, and they cannot replicate complex machines such as computers or phones. They may take on the appearance of these devices, but they will appear simplified in comparison. They can, however, transform into other moving forms such as acting as someone’s prosthetic limb, a living lever or pulley system, or a Pokémon comparable in size. Note in this last case that the Shapeshifter doesn’t gain any qualities of that Pokémon without actually using the Move Transform! Anyone closely examining a Shapeshifter Pokémon may determine its true nature with a Perception Check opposed by the Pokémon’s Stealth. If a Pokémon learns the Move Transform and does not have the Shapeshifter Capability, they gain Shapeshifter."
     },
     {
         "name":"Zygarde Cells",
@@ -177,7 +177,7 @@
     },
     {
         "name":"Fountain",
-        "effect":"The Pokémon’s Struggle Attacks may be Water-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish."
+        "effect":"The Pokémon’s Struggle Attacks may be Water-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. Multiple Water-Type Moves grant Fountain."
     },
     {
         "name":"Shrinkable",
@@ -213,7 +213,7 @@
     },
     {
         "name":"Firestarter",
-        "effect":"The Pokémon’s Struggle Attacks may be Fire-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish."
+        "effect":"The Pokémon’s Struggle Attacks may be Fire-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. Multiple Fire-Type moves grant Firestarter."
     },
     {
         "name":"Dream Reader",
@@ -221,8 +221,12 @@
     },
     {
         "name":"Pokébot",
-        "effect":"Pokémon and Trainer with the this Capability resist Electric, Ground and Fire Type moves one step less."
+        "effect":"Pokébots can gain Injuries but are immune to all Status Effects except for Burn, Frozen, Paralysis, Disabled, Suppressed, Trapped, Slowed and Flinch. Pokébots are Typeless and Genderless but count as Steel Type for the purposes of Magnet Pull and take Super-Effective damage from Fire, Electric, and Ground Moves. Pokébots are capable of using most Held Items, though not consumables."
     },
+    {
+        "name":"Pokebot",
+        "effect":"Pokébots can gain Injuries but are immune to all Status Effects except for Burn, Frozen, Paralysis, Disabled, Suppressed, Trapped, Slowed and Flinch. Pokébots are Typeless and Genderless but count as Steel Type for the purposes of Magnet Pull and take Super-Effective damage from Fire, Electric, and Ground Moves. Pokébots are capable of using most Held Items, though not consumables."
+    },   
     {
         "name":"Honey Gather",
         "effect":"Once a day, Pokémon with this Capability can find a Honey item as an Extended Action if they are allowed time in an environment with abundant plant life. Honey may be collected with a Collection Jar."
@@ -249,7 +253,7 @@
     },
     {
         "name":"Glow",
-        "effect":"A Pokémon with the Glow Capability can emit light from a part of its body. Depending on the variety of wild Pokémon nearby, it might attract Pokémon or ward them away."
+        "effect":"A Pokémon with the Glow Capability can emit light from a part of its body. Depending on the variety of wild Pokémon nearby, it might attract Pokémon or ward them away. If a Pokémon learns Flash, Eerie Impulse, Spotlight, or Tail Glow and does not have the Glow Capability, they gain Glow."
     },
     {
         "name":"Marsupial",
@@ -277,7 +281,7 @@
     },
     {
         "name":"Freezer",
-        "effect":"The Pokémon’s struggle Attacks may be Ice-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish."
+        "effect":"The Pokémon’s struggle Attacks may be Ice-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. Multiple Ice-Type Moves grant Freezer."
     },
     {
         "name":"X-Ray Vision",
@@ -309,15 +313,11 @@
     },
     {
         "name":"Alluring",
-        "effect":"Pokémon who are Alluring smell very pleasant. Once per day, they may act as if they were a Bait Item."
+        "effect":"Pokémon who are Alluring smell very pleasant. Once per day, they may act as if they were a Bait Item. If a Pokémon learns the Move Sweet Scent and does not have the Alluring Capability, they gain the Alluring Capability."
     },
     {
         "name":"Gilled",
         "effect":"A Gilled Pokémon can breathe underwater. It never needs to come up for air and can remain underwater for as long as it wants to."
-    },
-    {
-        "name":"Storm Charge",
-        "effect":"When a Mega Evolved Pokémon with Storm Charge (Delta Typhlosion), is in a New Moon or Rainy weather it transforms; changing its appearance to have electricity crackling over its body and throughout its ambient cloud."
     },
     {
         "name":"Sticky Hold",
@@ -326,5 +326,9 @@
     {
         "name": "As One",
         "effect": "This Pokémon is an adept rider, and is capable of transferring some of the power of its mount to itself while also protecting those it rides.\nThis Pokémon may Mount any willing, Mountable Pokémon (or other Pokémon that the GM deems suitable) as an Extended Action. While Mounted, the other Pokémon is unable to be commanded, targeted separately, or use any Moves or Abilities. It is treated as part of this Pokémon in all respects, including able to fit inside the same Pokéball and Fainting at the same time, and the rider may not be knocked off. While Mounting, this Pokemon may not Mount any further Pokemon until it dismounts.\nWhile Mounting a Pokémon, the user’s Movement Capabilities and Naturewalk are replaced with the Mount’s, the user’s Secondary Type (second listed) is replaced by the Mount’s Primary Type (first listed). The user also gains the Size of the Mount, and counts as the Mount’s Weight Class if the mount’s is higher. In addition, the user gains one Basic Ability of the Mount. Wonder Guard may not be gained in this way. If Mounting Spectrier, this Pokémon may use Astral Barrage. If Mounting Glastrier, this Pokémon may use Glacial Lance.\nThis Pokémon may stop Mounting as an Extended Action."
-    }  
+    },
+    {
+        "name": "Line Charge",
+        "effect": "The user can only shift in cardinal directions on the grid. However, they do not provoke attacks of opportunity from Shifting."
+    }     
 ]
