@@ -133,7 +133,7 @@
     },
     {
         "name":"Aura Wheel",
-        "effect":"The user’s Speed is increased 1 CS. \\nSpecial: If the user is in Hangry Mode, Aura Wheel is Dark-Typed.",
+        "effect":"The user’s Speed is increased 1 CS. \\nSpecial - If the user is in Hangry Mode, Aura Wheel is Dark-Typed.",
         "type":"Electric",
         "category":"Physical",
         "damageBase":11,
@@ -155,7 +155,7 @@
     },
     {
         "name":"Hidden Power",
-        "effect":"When a Pokémon first obtains the Move Hidden Power, roll 1d20. Hidden Power’s Elemental Type will be changed from Normal to Bug on a result of 1; Dark on 2; Dragon on 3; Electric on 4; Fairy on 5; Fighting on 6; Fire on 7; Flying on 8; Ghost on 9; Grass on 10; Ground on 11; Ice on 12; Normal on 13; Poison on 14; Psychic on 15; Rock on 16; Steel on 17; Water on 18; and on 19 or 20, reroll until you roll another number. This effect is permanent – if Hidden Power is forgotten and relearned, the chosen Type remains the same.",
+        "effect":"When a Pokémon first obtains the Move Hidden Power, roll 1d20. Hidden Power’s Elemental Type will be changed from Normal to Bug on a result of 1; Dark on 2; Dragon on 3; Electric on 4; Fairy on 5; Fighting on 6; Fire on 7; Flying on 8; Ghost on 9; Grass on 10; Ground on 11; Ice on 12; Normal on 13; Poison on 14; Psychic on 15; Rock on 16; Steel on 17; Water on 18; and on 19 or 20, reroll until you roll another number. This effect is permanent - if Hidden Power is forgotten and relearned, the chosen Type remains the same.",
         "type":"Normal",
         "category":"Special",
         "damageBase":6,
@@ -419,7 +419,7 @@
     },
     {
         "name":"Light Screen",
-        "effect":"Blessing – Any user affected by Light Screen may activate it when receiving Special Damage to resist the Damage one step. Light Screen may be activated 2 times, and then disappears.",
+        "effect":"Blessing - Any user affected by Light Screen may activate it when receiving Special Damage to resist the Damage one step. Light Screen may be activated 2 times, and then disappears.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
@@ -2156,7 +2156,7 @@
     },
     {
         "name":"Safeguard",
-        "effect":"Blessing – Any user affected by Safeguard may activate it when receiving a Status Affliction to ignore the effect of that Status Affliction on their next turn. Safeguard may be activated 3 times, and then disappears.",
+        "effect":"Blessing - Any user affected by Safeguard may activate it when receiving a Status Affliction to ignore the effect of that Status Affliction on their next turn. Safeguard may be activated 3 times, and then disappears.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -2860,7 +2860,7 @@
     },
     {
         "name":"Belch",
-        "effect":"Belch cannot be used if the user has not traded in a Digestion/Food Buff during this Scene.",
+        "effect":"Belch cannot be used if the user has not traded in a Food Buff during this Scene.",
         "type":"Poison",
         "category":"Special",
         "damageBase":12,
@@ -4334,7 +4334,7 @@
     },
     {
         "name":"Intercept Melee",
-        "effect":"Trigger: An ally within Movement range is hit by an adjacent foe.\\nEffect: You must make an Acrobatics or Athletics Check, with a DC equal to three times the number of meters they have to move to reach the triggering Ally; If you succeed, you Push the triggering Ally 1 Meter away from you, and Shift to occupy their space, and are hit by the triggering attack. On Failure to make the Check, the user still Shifts a number of meters equal a third of their check result.\\n\\nNote: If the target that was Intercepted was hit by an Area of Effect Move, and the 1 meter push does not remove them from the Area of Effect, the Intercept has no effect since they are still in the area of the attack – it would cause the Interceptor to be hit by the Move however.\\n\\nSpecial: Pokemon must have a Loyalty of 3 or greater to make Intercept Melee and Intercept range Maneuvers and may only Intercept attacks against their Trainer. At Loyalty 6, Pokemon may Intercept for any Ally.\\n\\nAdditional Rules\\n»» Pokémon and Trainers may only Intercept against Priority and Interrupt Moves if they are faster than the user of those Moves.\\n»» Moves that cannot miss (such as Aura Sphere or Swift) cannot be Intercepted.\\n»» Pokémon and Trainers cannot attempt Intercepts if they are Asleep, Confused, Enraged, Frozen, Stuck, Paralyzed, or otherwise unable to move.\\n»» Intercepts may not be used to move the Intercepting Pokémon or Trainer OUT of the way of an attack. They will always be hit, regardless.",
+        "effect":"Trigger - An ally within Movement range is hit by an adjacent foe.\\nEffect: You must make an Acrobatics or Athletics Check, with a DC equal to three times the number of meters they have to move to reach the triggering Ally; If you succeed, you Push the triggering Ally 1 Meter away from you, and Shift to occupy their space, and are hit by the triggering attack. On Failure to make the Check, the user still Shifts a number of meters equal a third of their check result.\\n\\nNote: If the target that was Intercepted was hit by an Area of Effect Move, and the 1 meter push does not remove them from the Area of Effect, the Intercept has no effect since they are still in the area of the attack - it would cause the Interceptor to be hit by the Move however.\\n\\nSpecial - Pokemon must have a Loyalty of 3 or greater to make Intercept Melee and Intercept range Maneuvers and may only Intercept attacks against their Trainer. At Loyalty 6, Pokemon may Intercept for any Ally.\\n\\nAdditional Rules\\n»» Pokémon and Trainers may only Intercept against Priority and Interrupt Moves if they are faster than the user of those Moves.\\n»» Moves that cannot miss (such as Aura Sphere or Swift) cannot be Intercepted.\\n»» Pokémon and Trainers cannot attempt Intercepts if they are Asleep, Confused, Enraged, Frozen, Stuck, Paralyzed, or otherwise unable to move.\\n»» Intercepts may not be used to move the Intercepting Pokémon or Trainer OUT of the way of an attack. They will always be hit, regardless.",
         "type":"",
         "category":"Status",
         "damageBase":"",
@@ -5049,7 +5049,7 @@
     },
     {
         "name":"Natural Gift",
-        "effect":"Refer to the Move Keywords Berry list. Natural Gift deals damage according to the Berry list and Natural Gift’s Type is also defined there. The Berry’s Digestion/Food Buff is nullified and is not used.",
+        "effect":"Refer to the Move Keywords Berry list. Natural Gift deals damage according to the Berry list and Natural Gift’s Type is also defined there. The Berry’s Food Buff is nullified and is not used.",
         "type":"Normal",
         "category":"Special",
         "damageBase":"See Effect",
@@ -5423,7 +5423,7 @@
     },
     {
         "name":"Aurora Veil",
-        "effect":"Blessing – Any user affected by Aurora Veil may activate it when receiving Damage to resist the Damage one step. Aurora Veil may be activated 2 times, and then disappears. Special: Auora Veil can only be used when the user is in Hailing Weather. The Blessings persist even after Hailing Weather has ended, however.",
+        "effect":"Blessing - Any user affected by Aurora Veil may activate it when receiving Damage to resist the Damage one step. Aurora Veil may be activated 2 times, and then disappears. Special - Auora Veil can only be used when the user is in Hailing Weather. The Blessings persist even after Hailing Weather has ended, however.",
         "type":"Ice",
         "category":"Status",
         "damageBase":"--",
@@ -5742,7 +5742,7 @@
     },
     {
         "name":"Riposte",
-        "effect":"Trigger: Your Target misses you with a melee Attack.\\nLimitations: Melee or Short-Ranged Weapons Only",
+        "effect":"Trigger - Your Target misses you with a melee Attack.\\nLimitations: Melee or Short-Ranged Weapons Only",
         "type":"Normal",
         "category":"Physical",
         "damageBase":12,
@@ -6259,7 +6259,7 @@
     },
     {
         "name":"Intercept Ranged",
-        "effect":"Trigger: A Ranged X-Target attack passes within your Movement Range.\\nEffect: Select a Square within your Movement Range that lies directly between the source of the attack and the target of the attack. Make an Acrobatics or Athletics Check; you may Shift a number of Meters equal to half the result towards the chosen square. If you succeed, you take the attack instead of its intended target. If you fail, you still Shift a number of Meters equal to half the result.\\n\\nSpecial: Pokemon must have a Loyalty of 3 or greater to make Intercept Melee and Intercept range Maneuvers and may only Intercept attacks against their Trainer. At Loyalty 6, Pokemon may Intercept for any Ally.\\n\\nAdditional Rules\\n»» Pokémon and Trainers may only Intercept against Priority and Interrupt Moves if they are faster than the user of those Moves.\\n»» Moves that cannot miss (such as Aura Sphere or Swift) cannot be Intercepted.\\n»» Pokémon and Trainers cannot attempt Intercepts if they are Asleep, Confused, Enraged, Frozen, Stuck, Paralyzed, or otherwise unable to move.\\n»» Intercepts may not be used to move the Intercepting Pokémon or Trainer OUT of the way of an attack. They will always be hit, regardless.",
+        "effect":"Trigger - A Ranged X-Target attack passes within your Movement Range.\\nEffect: Select a Square within your Movement Range that lies directly between the source of the attack and the target of the attack. Make an Acrobatics or Athletics Check; you may Shift a number of Meters equal to half the result towards the chosen square. If you succeed, you take the attack instead of its intended target. If you fail, you still Shift a number of Meters equal to half the result.\\n\\nSpecial - Pokemon must have a Loyalty of 3 or greater to make Intercept Melee and Intercept range Maneuvers and may only Intercept attacks against their Trainer. At Loyalty 6, Pokemon may Intercept for any Ally.\\n\\nAdditional Rules\\n»» Pokémon and Trainers may only Intercept against Priority and Interrupt Moves if they are faster than the user of those Moves.\\n»» Moves that cannot miss (such as Aura Sphere or Swift) cannot be Intercepted.\\n»» Pokémon and Trainers cannot attempt Intercepts if they are Asleep, Confused, Enraged, Frozen, Stuck, Paralyzed, or otherwise unable to move.\\n»» Intercepts may not be used to move the Intercepting Pokémon or Trainer OUT of the way of an attack. They will always be hit, regardless.",
         "type":"",
         "category":"Status",
         "damageBase":"",
@@ -7667,7 +7667,7 @@
     },
     {
         "name":"Bug Bite",
-        "effect":"If the target has a stored Digestion/Food Buff or has traded in a Digestion/Food Buff this Scene, the user may gain the effect of the Digestion/Food Buff. This does no count towards the Usual limit on the user's Digestion/Food Buffs.",
+        "effect":"If the target has a stored Food Buff or has traded in a Food Buff this Scene, the user may gain the effect of the Food Buff. This does no count towards the Usual limit on the user's Food Buffs.",
         "type":"Bug",
         "category":"Physical",
         "damageBase":6,
@@ -7920,7 +7920,7 @@
     },
     {
         "name":"Reflect",
-        "effect":"Blessing – Any user affected by Reflect may activate it when receiving Physical Damage to resist the Damage one step. Reflect may be activated 2 times, and then disappears.",
+        "effect":"Blessing - Any user affected by Reflect may activate it when receiving Physical Damage to resist the Damage one step. Reflect may be activated 2 times, and then disappears.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",

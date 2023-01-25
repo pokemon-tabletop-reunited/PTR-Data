@@ -1,7 +1,7 @@
 [
     {
         "name":"Basic Ranged Attacks (Firestarter)",
-        "prerequisites":"Level 20, Firestarter",
+        "prerequisites":"Firestarter",
         "effect":"Struggle Attacks modified by Firestarter may now be made at a range of up to 6 meters.",
         "cost":"1 TP"
     },
@@ -29,7 +29,7 @@
     },
     {
         "name":"Basic Ranged Attacks (Fountain)",
-        "prerequisites":"Level 20, Fountain",
+        "prerequisites":"Fountain",
         "effect":"Struggle Attacks modified by Fountain may now be made at a range of up to 6 meters.",
         "cost":"1 TP"
     },
@@ -69,7 +69,7 @@
     },
     {
         "name":"Basic Ranged Attacks (Guster)",
-        "prerequisites":"Level 20, Guster",
+        "prerequisites":"Guster",
         "effect":"Struggle Attacks modified by Guster may now be made at a range of up to 6 meters.",
         "cost":"1 TP"
     },
@@ -102,12 +102,6 @@
         "cost":"1 TP"
     },
     {
-        "name":"Mixed Sweeper Rank 2",
-        "prerequisites":"Level 20, Invested at least 10 Level-Up Stat Points into both Attack and Special Attack",
-        "effect":"The user gains 3 Stat Points to distribute freely between HP, Defense, Special Defense, or Speed. These bonus points are treated as if they were \"Level Up\" points and do not alter Base Stats.",
-        "cost":"1 TP"
-    },
-    {
         "name":"Skill Improvement (Guile)",
         "effect":"Rank up Guile if it is at or below its default level for the species. May not be selected again for Guile.",
         "cost":"1 TP"
@@ -137,12 +131,6 @@
         "cost":"1 TP"
     },
     {
-        "name":"Mixed Sweeper Rank 3",
-        "prerequisites":"Level 40, Invested at least 15 Level-Up Stat Points into both Attack and Special Attack",
-        "effect":"The user gains 3 Stat Points to distribute freely between HP, Defense, Special Defense, or Speed. These bonus points are treated as if they were \"Level Up\" points and do not alter Base Stats.",
-        "cost":"1 TP"
-    },
-    {
         "name":"Capability Training (High Jump)",
         "prerequisites":"Level 20",
         "effect":"Increase High Jump Capability by 1. Capability Training may not be taken again for High Jump.",
@@ -150,13 +138,13 @@
     },
     {
         "name":"Aura Pulse",
-        "prerequisites":"Level 30, Aura Reading, owned by a Trainer with Aura Pulse",
+        "prerequisites":"Level 30, Aura Reading",
         "effect":"The Pokémon gains the Aura Pulse Capability.",
         "cost":"2 TP"
     },
     {
         "name":"Basic Ranged Attacks (Freezer)",
-        "prerequisites":"Level 20, Freezer",
+        "prerequisites":"Freezer",
         "effect":"Struggle Attacks modified by Freezer may now be made at a range of up to 6 meters.",
         "cost":"1 TP"
     },
@@ -223,14 +211,8 @@
         "cost":"1 TP"
     },
     {
-        "name":"Mixed Sweeper Rank 1",
-        "prerequisites":"Level 10, Invested at least 5 Level-Up Stat Points into both Attack and Special Attack",
-        "effect":"The user gains 3 Stat Points to distribute freely between HP, Defense, Special Defense, or Speed. These bonus points are treated as if they were \"Level Up\" points and do not alter Base Stats.",
-        "cost":"1 TP"
-    },
-    {
         "name":"Basic Ranged Attacks (Zapper)",
-        "prerequisites":"Level 20, Zapper",
+        "prerequisites":"Zapper",
         "effect":"Struggle Attacks modified by Zapper may now be made at a range of up to 6 meters.",
         "cost":"1 TP"
     },
@@ -263,7 +245,7 @@
     },
     {
         "name":"Basic Ranged Attacks",
-        "prerequisites":"Level 20, Firestarter, Fountain, Freezer, Guster, Materializer, or Zapper",
+        "prerequisites":"Firestarter, Fountain, Freezer, Guster, Materializer, or Zapper",
         "effect":"Choose one of Firestarter, Fountain, Freezer, Guster, Materializer, or Zapper. Struggle Attacks modified by that Capability may now be made at a range of up to 6 meters. This Poké Edge may be taken multiple times, selecting a different Capability each time.",
         "cost":"1 TP"
     },
@@ -334,7 +316,7 @@
     },
     {
         "name":"Basic Ranged Attacks (Materializer)",
-        "prerequisites":"Level 20, Materializer",
+        "prerequisites":"Materializer",
         "effect":"Struggle Attacks modified by Materializer may now be made at a range of up to 6 meters.",
         "cost":"1 TP"
     }
