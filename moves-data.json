@@ -78,7 +78,7 @@
     },
     {
         "name":"Double Team",
-        "effect":"The user gains 3 activations of Double Team. The user may either activate Double Team when being targeted by an attack to increase their Evasion by +2 against that attack or when making an attack to increase their Accuracy by +2 for that attack.",
+        "effect":"The user gains 3 activations of Double Team. The user may either activate Double Team when being targeted by an attack to increase their Evasion by 2 against that attack or when making an attack to increase their Accuracy by 2 for that attack.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -1035,7 +1035,7 @@
     },
     {
         "name":"Splash",
-        "effect":"Shift Action - The user may make a single Jump, adding +1 to their Long Jump and High Jump values, and gains +2 Evasion until the end of their next turn. *Grants +1 Long Jump",
+        "effect":"Shift Action - The user may make a single Jump, adding +1 to their Long Jump and High Jump values, and gains a +2 Bonus to Evasion until the end of their next turn. *Grants +1 Long Jump",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -1189,7 +1189,7 @@
     },
     {
         "name":"Acupressure",
-        "effect":"Roll 1d6. On a result of 1, raise the target’s Attack by 2 Combat Stages. On a result of 2, raise the target’s Defense by 2 Combat Stages. On a result of 3, raise the target’s Special Attack by 2 Combat Stages. On a result of 4, raise the target’s Special Defense by 2 Combat Stages. On a result of 5, raise the target’s Speed by 2 Combat Stages. On a result of 6, raise the target’s Accuracy by +2.",
+        "effect":"Roll 1d6. On a result of 1, raise the target’s Attack by 2 Combat Stages. On a result of 2, raise the target’s Defense by 2 Combat Stages. On a result of 3, raise the target’s Special Attack by 2 Combat Stages. On a result of 4, raise the target’s Special Defense by 2 Combat Stages. On a result of 5, raise the target’s Speed by 2 Combat Stages. On a result of 6, raise the target’s Accuracy by 2.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -1420,7 +1420,7 @@
     },
     {
         "name":"Hone Claws",
-        "effect":"Raise the user's Attack by 1 Combat Stage and Accuracy by +1.",
+        "effect":"Raise the user's Attack by 1 Combat Stage and Accuracy by 1.",
         "type":"Dark",
         "category":"Status",
         "damageBase":"--",
@@ -3025,7 +3025,7 @@
     },
     {
         "name":"Leaf Tornado",
-        "effect":"Small or Medium targets in the central square of the blast are not hit. On 15+, all legal targets have their Accuracy lowered by -1.",
+        "effect":"Small or Medium targets in the central square of the blast are not hit. On 15+, all legal targets have their Accuracy lowered by 1.",
         "type":"Grass",
         "category":"Special",
         "damageBase":7,
@@ -3102,7 +3102,7 @@
     },
     {
         "name":"Night Daze",
-        "effect":"Night Daze lowers the target's Accuracy by -1 on 13+.",
+        "effect":"Night Daze lowers the target's Accuracy by 1 on 13+.",
         "type":"Dark",
         "category":"Special",
         "damageBase":9,
@@ -3619,7 +3619,7 @@
     },
     {
         "name":"Lunar Blessing",
-        "effect":"The user regains hit points equal to 50% of its Hit Point total, cures all of its Status conditions, and gains +2 Evasion.",
+        "effect":"The user regains hit points equal to 50% of its Hit Point total, cures all of its Status conditions, and gains 2 Evasion.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"",
@@ -4444,7 +4444,7 @@
     },
     {
         "name":"Submission",
-        "effect":"On an accuracy roll of 15+, the target is Tripped.",
+        "effect":"On an Accuracy roll of 15+, the target is Tripped.",
         "type":"Fighting",
         "category":"Physical",
         "damageBase":8,
@@ -5885,7 +5885,7 @@
     },
     {
         "name":"Cone of Force",
-        "effect":"Cone of Force Pushes all targets 2 meters, and lowers their Evasion by -2 for 1 full round..\\nLimitation: Melee Weapons Only",
+        "effect":"Cone of Force Pushes all targets 2 meters, and lowers their Evasion by 2 for 1 full round.\\nLimitation: Melee Weapons Only",
         "type":"Normal",
         "category":"Special",
         "damageBase":6,
@@ -6127,7 +6127,7 @@
     },
     {
         "name":"Mirror Shot",
-        "effect":"All Legal Targets have their Accuracy lowered by -2 on 16+.",
+        "effect":"All Legal Targets have their Accuracy lowered by 2 on 16+.",
         "type":"Steel",
         "category":"Special",
         "damageBase":7,
@@ -7084,7 +7084,7 @@
     },
     {
         "name":"Razor Wind",
-        "effect":"Set-Up Effect: The user may not shift this round. The user whips up a whirlwind around themselves, granting +2 Evasion until the end of their next turn and destroying any Smokescreen or Hazards on any squares it is standing on and in all squares adjacent to it. Resolution Effect: The user attacks with Razor Wind. Razor Wind is a Critical Hit on 18+.",
+        "effect":"Set-Up Effect: The user may not shift this round. The user whips up a whirlwind around themselves, granting a +2 Bonus to Evasion until the end of their next turn and destroying any Smokescreen or Hazards on any squares it is standing on and in all squares adjacent to it. Resolution Effect: The user attacks with Razor Wind. Razor Wind is a Critical Hit on 18+.",
         "type":"Normal",
         "category":"Special",
         "damageBase":8,
@@ -7403,7 +7403,7 @@
     },
     {
         "name":"Defense Curl",
-        "effect":"The user becomes Curled Up. While Curled Up, the user becomes immune to Critical Hits and gains 10 Damage Reduction. However, while Curled Up, the user is Slowed and their Accuracy is lowered by -4. The user may stop being Curled Up as a Swift Action. If the user has Rollout or Ice Ball in their Move List, they do not become Slowed while Curled Up. Furthermore, when using the Moves Rollout or Ice Ball while Curled Up, the user gains a +10 bonus to the damage rolls of those Moves and does not suffer Accuracy Penalties from being Curled Up.\\nSeptember Playtest: The user’s Defense is raised 1 Combat Stage and they become Curled Up until the end of the Scene or they are Recalled or Take a Breather. When using the Moves Rollout or Ice Ball while Curled Up, the user gains a +10 bonus to the damage rolls of those Moves.",
+        "effect":"The user becomes Curled Up. While Curled Up, the user becomes immune to Critical Hits and gains 10 Damage Reduction. However, while Curled Up, the user is Slowed and their Accuracy is lowered by 4. The user may stop being Curled Up as a Swift Action. If the user has Rollout or Ice Ball in their Move List, they do not become Slowed while Curled Up. Furthermore, when using the Moves Rollout or Ice Ball while Curled Up, the user gains a +10 bonus to the damage rolls of those Moves and does not suffer Accuracy Penalties from being Curled Up.\\nSeptember Playtest: The user’s Defense is raised 1 Combat Stage and they become Curled Up until the end of the Scene or they are Recalled or Take a Breather. When using the Moves Rollout or Ice Ball while Curled Up, the user gains a +10 bonus to the damage rolls of those Moves.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -8030,7 +8030,7 @@
     },
     {
         "name":"Flash",
-        "effect":"Lower the Accuracy of all legal targets by -1. *Grants Glow",
+        "effect":"Lower the Accuracy of all legal targets by 1. *Grants Glow",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -8437,7 +8437,7 @@
     },
     {
         "name":"Mud Bomb",
-        "effect":"The target's Accuracy is lowered by -1 on 16+.",
+        "effect":"The target's Accuracy is lowered by 1 on 16+.",
         "type":"Ground",
         "category":"Special",
         "damageBase":7,
@@ -8459,7 +8459,7 @@
     },
     {
         "name":"Mud-Slap",
-        "effect":"The target's Accuracy is lowered by -1.",
+        "effect":"The target's Accuracy is lowered by 1.",
         "type":"Ground",
         "category":"Special",
         "damageBase":2,
@@ -8503,7 +8503,7 @@
     },
     {
         "name":"Octazooka",
-        "effect":"Octazooka lowers the target's Accuracy by -1 on an Even-Numbered Roll.",
+        "effect":"Octazooka lowers the target's Accuracy by 1 on an Even-Numbered Roll.",
         "type":"Water",
         "category":"Special",
         "damageBase":7,
@@ -9108,7 +9108,7 @@
     },
     {
         "name":"Shelter",
-        "effect":"The user gains 1 Combat Stage in Defense and Special Defense, and +2 Evasion.",
+        "effect":"The user gains 1 Combat Stage in Defense and Special Defense, and 2 Evasion.",
         "type":"Steel",
         "category":"Status",
         "damageBase":"",
@@ -9174,7 +9174,7 @@
     },
     {
         "name":"Minimize",
-        "effect":"The user gains +4 Evasion, and the user's size is lowered to Small for the remainder of the encounter. *Grants Shrinkable",
+        "effect":"The user gains 4 Evasion, and the user's size is lowered to Small for the remainder of the encounter. *Grants Shrinkable",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -9405,7 +9405,7 @@
     },
     {
         "name":"Take Aim",
-        "effect":"Raise the user’s Accuracy by +1. If the user performs an Weapon Move on their next turn that deals damage, add its Damage Dice Roll an extra time to the damage.",
+        "effect":"Raise the user’s Accuracy by 1. If the user performs an Weapon Move on their next turn that deals damage, add its Damage Dice Roll an extra time to the damage.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -9449,7 +9449,7 @@
     },
     {
         "name":"Coil",
-        "effect":"Raise the user’s Attack and Defense by 1 Combat Stage, and the user gains +1 Accuracy.",
+        "effect":"Raise the user’s Attack and Defense by 1 Combat Stage, and the user gains 1 Accuracy.",
         "type":"Poison",
         "category":"Status",
         "damageBase":"--",
