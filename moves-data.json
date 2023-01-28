@@ -1639,17 +1639,6 @@
         "contestType":"Smart - Catching Up"
     },
     {
-        "name":"Ancient Power P+",
-        "effect":"The user has each of its stats raised by 1 Combat Stage on 18+.",
-        "type":"Rock",
-        "category":"Physical",
-        "damageBase":6,
-        "frequency":"EOT",
-        "ac":2,
-        "range":"6, 1 Target, Spirit Surge",
-        "contestType":"Tough - Desperation"
-    },
-    {
         "name":"Astonish",
         "effect":"Astonish Flinches the target on 15+. Once per Scene, if the target is unaware of the user's presence, Astonish automatically Flinches.",
         "type":"Ghost",
@@ -6608,17 +6597,6 @@
         "ac":"--",
         "range":"Self",
         "contestType":"Cool - Get Ready!"
-    },
-    {
-        "name":"Ancient Power+",
-        "effect":"The user has each of its stats raised by 1 Combat Stage on 18+.",
-        "type":"Rock",
-        "category":"Special",
-        "damageBase":"6",
-        "frequency":"EOT",
-        "ac":"2",
-        "range":"6, 1 Target, Spirit Surge",
-        "contestType":"Tough - Desperation"
     },
     {
         "name":"Wood Hammer",
