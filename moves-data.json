@@ -1585,7 +1585,7 @@
     },
     {
         "name":"Agility",
-        "effect":"Raise the user’s Speed 2 Combat Stages.",
+        "effect":"Raise the user’s Speed by 2 Combat Stages.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
@@ -6497,7 +6497,7 @@
         "frequency":"EOT",
         "ac":2,
         "range":"Melee, 1 Target",
-        "contestType":"--"
+        "contestType":"Tough - Catching Up"
     },
     {
         "name":"Burn Up",
