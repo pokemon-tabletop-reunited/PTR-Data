@@ -1,7 +1,7 @@
 [
     {
         "name":"Play Rough",
-        "effect":"Play Rough lowers the target’s Attack by -1 CS on 17+.",
+        "effect":"Play Rough lowers the target’s Attack by 1 Combat Stage on 17+.",
         "type":"Fairy",
         "category":"Physical",
         "damageBase":9,
@@ -78,7 +78,7 @@
     },
     {
         "name":"Double Team",
-        "effect":"The user gains 3 activations of Double Team. The user may either activate Double Team when being targeted by an attack to increase their Evasion by +2 against that attack or when making an attack to increase their Accuracy by +2 for that attack.",
+        "effect":"The user gains 3 activations of Double Team. The user may either activate Double Team when being targeted by an attack to increase their Evasion by 2 against that attack or when making an attack to increase their Accuracy by 2 for that attack.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -89,7 +89,7 @@
     },
     {
         "name":"Stuff Cheeks",
-        "effect":"The user immediately consumes one of its Food Buffs, regardless of any conditions that need to be met, gaining its benefit if applicable. If a Buff is consumed, the user’s Defense CS is raised by 2.",
+        "effect":"The user immediately consumes one of its Food Buffs, regardless of any conditions that need to be met, gaining its benefit if applicable. If a Buff is consumed, the user’s Defense Combat Stage is raised by 2.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -100,7 +100,7 @@
     },
     {
         "name":"Stockpile",
-        "effect":"The user adds 1 to their Stockpiled count to a maximum of 3. For each number a Stockpiled count is above 0, raise the user’s Defense and Special Defense by +1 CS each. If a Stockpiled count is set to 0, any Combat Stages gained from the Stockpiled count are removed.",
+        "effect":"The user adds 1 to their Stockpiled count to a maximum of 3. For each number a Stockpiled count is above 0, raise the user’s Defense and Special Defense by 1 Combat Stage each. If a Stockpiled count is set to 0, any Combat Stages gained from the Stockpiled count are removed.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -133,7 +133,7 @@
     },
     {
         "name":"Aura Wheel",
-        "effect":"The user’s Speed is increased 1 CS. \\nSpecial - If the user is in Hangry Mode, Aura Wheel is Dark-Typed.",
+        "effect":"The user’s Speed is increased 1 Combat Stage. \\nSpecial - If the user is in Hangry Mode, Aura Wheel is Dark-Typed.",
         "type":"Electric",
         "category":"Physical",
         "damageBase":11,
@@ -177,7 +177,7 @@
     },
     {
         "name":"Ominous Wind",
-        "effect":"The user has each of its stats raised by +1 CS on a 19+.",
+        "effect":"The user has each of its stats raised by 1 Combat Stage on a 19+.",
         "type":"Ghost",
         "category":"Special",
         "damageBase":6,
@@ -287,7 +287,7 @@
     },
     {
         "name":"Power Trip",
-        "effect":"This Move gains +2 to its Damage Base for every positive Combat Stage held by the user, to a maximum of DB20.",
+        "effect":"This Move gains 2 to its Damage Base for every positive Combat Stage held by the user, to a maximum of Damage Base 20.",
         "type":"Dark",
         "category":"Physical",
         "damageBase":2,
@@ -331,7 +331,7 @@
     },
     {
         "name":"Charge",
-        "effect":"If the user performs an Electric Attack on its next turn, add its Damage Dice Roll an extra time to the damage. Raise the user's Special Defense by +1 CS.",
+        "effect":"If the user performs an Electric Attack on its next turn, add its Damage Dice Roll an extra time to the damage. Raise the user's Special Defense by 1 Combat Stage.",
         "type":"Electric",
         "category":"Status",
         "damageBase":"--",
@@ -353,7 +353,7 @@
     },
     {
         "name":"Play Nice",
-        "effect":"Play Nice lowers the target’s Attack by -1 CS.",
+        "effect":"Play Nice lowers the target’s Attack by 1 Combat Stage.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -452,7 +452,7 @@
     },
     {
         "name":"Grav Apple",
-        "effect":"The target’s Defense is lowered by 1 CS.",
+        "effect":"The target’s Defense is lowered by 1 Combat Stage.",
         "type":"Grass",
         "category":"Physical",
         "damageBase":8,
@@ -518,7 +518,7 @@
     },
     {
         "name":"Snarl",
-        "effect":"Lower the Special Attack of all legal targets by -1 CS.",
+        "effect":"Lower the Special Attack of all legal targets by 1 Combat Stage.",
         "type":"Dark",
         "category":"Special",
         "damageBase":6,
@@ -650,7 +650,7 @@
     },
     {
         "name":"Shell Smash",
-        "effect":"Raise the user's Attack, Special Attack, and Speed by +2 CS each. Lower the user's Defense and Special Defense by -1 CS each.",
+        "effect":"Raise the user's Attack, Special Attack, and Speed by 2 Combat Stages each. Lower the user's Defense and Special Defense by 1 Combat Stage each.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -716,7 +716,7 @@
     },
     {
         "name":"Work Up",
-        "effect":"Raise the user’s Attack and Special Attack by +1 CS each.",
+        "effect":"Raise the user’s Attack and Special Attack by 1 Combat Stage each.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -804,7 +804,7 @@
     },
     {
         "name":"Shadow Bone",
-        "effect":"Lower the target's Defense by -1 CS on a 17+. Counts as a Bone Move for Cubone/Marowak’s Abilities, etc.",
+        "effect":"Lower the target's Defense by 1 Combat Stage on a 17+. Counts as a Bone Move for Cubone/Marowak’s Abilities, etc.",
         "type":"Ghost",
         "category":"Physical",
         "damageBase":9,
@@ -870,7 +870,7 @@
     },
     {
         "name":"Rock Tomb",
-        "effect":"Rock Tomb lowers the target's Speed by -1 CS. *Grants Materializer",
+        "effect":"Rock Tomb lowers the target's Speed by 1 Combat Stage. *Grants Materializer",
         "type":"Rock",
         "category":"Physical",
         "damageBase":6,
@@ -1035,7 +1035,7 @@
     },
     {
         "name":"Splash",
-        "effect":"Shift Action - The user may make a single Jump, adding +1 to their Long Jump and High Jump values, and gains +2 Evasion until the end of their next turn. *Grants +1 Long Jump",
+        "effect":"Shift Action - The user may make a single Jump, adding +1 to their Long Jump and High Jump values, and gains a +2 Bonus to Evasion until the end of their next turn. *Grants +1 Long Jump",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -1079,7 +1079,7 @@
     },
     {
         "name":"Razor Shell",
-        "effect":"Razor Shell lowers the target's Defense by -1 CS on an Even-Numbered Roll.",
+        "effect":"Razor Shell lowers the target's Defense by 1 Combat Stage on an Even-Numbered Roll.",
         "type":"Water",
         "category":"Physical",
         "damageBase":8,
@@ -1101,7 +1101,7 @@
     },
     {
         "name":"Stored Power",
-        "effect":"For every Combat Stage the user has above 0, add +2 to Stored Power’s Damage Base, up to a maximum of Damage Base 20.",
+        "effect":"For every Combat Stage the user has above 0, add 2 to Stored Power’s Damage Base, up to a maximum of Damage Base 20.",
         "type":"Psychic",
         "category":"Special",
         "damageBase":2,
@@ -1145,7 +1145,7 @@
     },
     {
         "name":"Bulk Up",
-        "effect":"Raise the user’s Attack and Defense by +1 CS each.",
+        "effect":"Raise the user’s Attack and Defense by 1 Combat Stage each.",
         "type":"Fighting",
         "category":"Status",
         "damageBase":"--",
@@ -1156,7 +1156,7 @@
     },
     {
         "name":"Round",
-        "effect":"Round's Damage Base is equal to 6, plus +2 more for each use of Round by any Trainer or Pokémon this round, up to a maximum of DB 12 (3d12+10 / 30).",
+        "effect":"Round's Damage Base is equal to 6, plus 2 more for each use of Round by any Trainer or Pokémon this round, up to a maximum of Damage Base 12 (3d12+10 / 30).",
         "type":"Normal",
         "category":"Special",
         "damageBase":"X, See Effect",
@@ -1167,7 +1167,7 @@
     },
     {
         "name":"Luster Purge",
-        "effect":"Luster Purge lowers the target's Special Defense by -1 CS on an Even-Numbered Roll.",
+        "effect":"Luster Purge lowers the target's Special Defense by 1 Combat Stage on an Even-Numbered Roll.",
         "type":"Psychic",
         "category":"Special",
         "damageBase":7,
@@ -1189,7 +1189,7 @@
     },
     {
         "name":"Acupressure",
-        "effect":"Roll 1d6. On a result of 1, raise the target’s Attack by +2 CS. On a result of 2, raise the target’s Defense by +2 CS. On a result of 3, raise the target’s Special Attack by +2 CS. On a result of 4, raise the target’s Special Defense by +2 CS. On a result of 5, raise the target’s Speed by +2 CS. On a result of 6, raise the target’s Accuracy by +2.",
+        "effect":"Roll 1d6. On a result of 1, raise the target’s Attack by 2 Combat Stages. On a result of 2, raise the target’s Defense by 2 Combat Stages. On a result of 3, raise the target’s Special Attack by 2 Combat Stages. On a result of 4, raise the target’s Special Defense by 2 Combat Stages. On a result of 5, raise the target’s Speed by 2 Combat Stages. On a result of 6, raise the target’s Accuracy by 2.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -1233,7 +1233,7 @@
     },
     {
         "name":"Tail Glow",
-        "effect":"Raise the user’s Special Attack by +3 CS. *Grants Glow",
+        "effect":"Raise the user’s Special Attack by 3 Combat Stages. *Grants Glow",
         "type":"Bug",
         "category":"Status",
         "damageBase":"--",
@@ -1288,7 +1288,7 @@
     },
     {
         "name":"Belly Drum",
-        "effect":"The user gains +6 Attack CS and loses HP equal to 1/2 of their Max HP.",
+        "effect":"The user gains 6 Attack Combat Stages and loses HP equal to 1/2 of their Max HP.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -1299,7 +1299,7 @@
     },
     {
         "name":"Triple Arrows",
-        "effect":"Targets hit by Triple Arrows lose 1 CS in both Defense and Special Defense.\\nAfter attacking with Triple Arrows, hit or miss, the user may Disengage 2m and attack a different target with Triple Arrows. This effect may be repeated a second time, targeting a creature that has not been targeted by either prior attack. Before making each attack roll, the user can elect to give up triggering all remaining additional shifts and attacks. Triple Arrows gains +1 Accuracy and +1 DB for each attack that is given up. Triple Arrows always benefits from the Technician Ability.\\n Once Daily, after all attacks with Triple Arrows have been resolved, the user becomes Pumped. While Pumped, the userâ€™s Critical Range is extended by 2, or 18+ if the Critical Range is not otherwise extended. Being switched will cause this effect to end.",
+        "effect":"Targets hit by Triple Arrows lose 1 Combat Stage in both Defense and Special Defense.\\nAfter attacking with Triple Arrows, hit or miss, the user may Disengage 2m and attack a different target with Triple Arrows. This effect may be repeated a second time, targeting a creature that has not been targeted by either prior attack. Before making each attack roll, the user can elect to give up triggering all remaining additional shifts and attacks. Triple Arrows gains 1 Accuracy and 1 Damage Base for each attack that is given up. Triple Arrows always benefits from the Technician Ability.\\n Once Daily, after all attacks with Triple Arrows have been resolved, the user becomes Pumped. While Pumped, the userâ€™s Critical Range is extended by 2, or 18+ if the Critical Range is not otherwise extended. Being switched will cause this effect to end.",
         "type":"Fighting",
         "category":"Physical",
         "damageBase":5,
@@ -1310,7 +1310,7 @@
     },
     {
         "name":"Drum Beating",
-        "effect":"The target’s Speed is lowered by 1 CS.",
+        "effect":"The target’s Speed is lowered by 1 Combat Stage.",
         "type":"Grass",
         "category":"Physical",
         "damageBase":8,
@@ -1365,7 +1365,7 @@
     },
     {
         "name":"Growth",
-        "effect":"Raise the user's Attack and Special Attack by +1 CS each. If it is Sunny, double the amount of Combat Stages gained. *Grants Inflatable",
+        "effect":"Raise the user's Attack and Special Attack by 1 Combat Stage each. If it is Sunny, double the amount of Combat Stages gained. *Grants Inflatable",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -1420,7 +1420,7 @@
     },
     {
         "name":"Hone Claws",
-        "effect":"Raise the user's Attack by +1 CS and Accuracy by +1.",
+        "effect":"Raise the user's Attack by 1 Combat Stage and Accuracy by 1.",
         "type":"Dark",
         "category":"Status",
         "damageBase":"--",
@@ -1519,7 +1519,7 @@
     },
     {
         "name":"Bubble",
-        "effect":"Bubble lowers the target's Speed by -1 CS on 16+..",
+        "effect":"Bubble lowers the target's Speed by 1 Combat Stage on 16+.",
         "type":"Water",
         "category":"Special",
         "damageBase":4,
@@ -1541,7 +1541,7 @@
     },
     {
         "name":"Rapid Spin",
-        "effect":"Rapid Spin destroys all Hazards within 5 meters, removes Leech Seeds, and removes the user’s Trapped or Stuck status. If Rapid Spin hits, the user’s speed raises 1 CS.",
+        "effect":"Rapid Spin destroys all Hazards within 5 meters, removes Leech Seeds, and removes the user’s Trapped or Stuck status. If Rapid Spin hits, the user’s speed is increased by 1 Combat Stage.",
         "type":"Normal",
         "category":"Physical",
         "damageBase":5,
@@ -1585,7 +1585,7 @@
     },
     {
         "name":"Agility",
-        "effect":"Raise the user’s Speed 2 Combat Stages.",
+        "effect":"Raise the user’s Speed by 2 Combat Stages.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
@@ -1639,17 +1639,6 @@
         "contestType":"Smart - Catching Up"
     },
     {
-        "name":"Ancient Power P+",
-        "effect":"The user has each of its stats raised by +1 CS on 18+.",
-        "type":"Rock",
-        "category":"Physical",
-        "damageBase":6,
-        "frequency":"EOT",
-        "ac":2,
-        "range":"6, 1 Target, Spirit Surge",
-        "contestType":"Tough - Desperation"
-    },
-    {
         "name":"Astonish",
         "effect":"Astonish Flinches the target on 15+. Once per Scene, if the target is unaware of the user's presence, Astonish automatically Flinches.",
         "type":"Ghost",
@@ -1662,7 +1651,7 @@
     },
     {
         "name":"Venom Drench",
-        "effect":"All Poisoned targets have their Attack, Special Attack, and Speed lowered by -1 CS. Venom Drench cannot miss.",
+        "effect":"All Poisoned targets have their Attack, Special Attack, and Speed lowered by 1 Combat Stage. Venom Drench cannot miss.",
         "type":"Poison",
         "category":"Status",
         "damageBase":"--",
@@ -1673,7 +1662,7 @@
     },
     {
         "name":"Liquidation",
-        "effect":"The target's Defense is lowered by -1 CS on 17+.",
+        "effect":"The target's Defense is lowered by 1 Combat Stage on 17+.",
         "type":"Water",
         "category":"Physical",
         "damageBase":9,
@@ -1749,7 +1738,7 @@
     },
     {
         "name":"Octolock",
-        "effect":"The user initiates a Grapple Maneuver with the target, which automatically hits. If successful, until the user no longer has Dominance in the grapple, the target is Trapped and loses 1 CS in Defense and Special Defense at the end of each of their turns.",
+        "effect":"The user initiates a Grapple Maneuver with the target, which automatically hits. If successful, until the user no longer has Dominance in the grapple, the target is Trapped and loses 1 Combat Stage in Defense and Special Defense at the end of each of their turns.",
         "type":"Fighting",
         "category":"Status",
         "damageBase":"--",
@@ -1782,7 +1771,7 @@
     },
     {
         "name":"Low Sweep",
-        "effect":"Lower the target’s Speed by -1 CS.",
+        "effect":"Lower the target’s Speed by 1 Combat Stage.",
         "type":"Fighting",
         "category":"Physical",
         "damageBase":7,
@@ -1815,7 +1804,7 @@
     },
     {
         "name":"Constrict",
-        "effect":"Lower the target’s Speed by -1 CS. Constrict may be used as a Swift Action against targets the user is Grappling and automatically hits when performed this way.",
+        "effect":"Lower the target’s Speed by 1 Combat Stage. Constrict may be used as a Swift Action against targets the user is Grappling and automatically hits when performed this way.",
         "type":"Normal",
         "category":"Physical",
         "damageBase":1,
@@ -1881,7 +1870,7 @@
     },
     {
         "name":"Spit Up",
-        "effect":"For each Stockpiled Count the user has, Spit Up’s Damage Base is increased by +8. If the user has no Stockpiled count, Spit Up cannot be used.",
+        "effect":"For each Stockpiled Count the user has, Spit Up’s Damage Base is increased by 8. If the user has no Stockpiled count, Spit Up cannot be used.",
         "type":"Normal",
         "category":"Special",
         "damageBase":"X, See Effect",
@@ -1947,7 +1936,7 @@
     },
     {
         "name":"Iron Defense",
-        "effect":"Raise the user's Defense by +2 CS.",
+        "effect":"Raise the user's Defense by 2 Combat Stages.",
         "type":"Steel",
         "category":"Status",
         "damageBase":"--",
@@ -1980,7 +1969,7 @@
     },
     {
         "name":"Mud Shot",
-        "effect":"The target's Speed is lowed by -1 Combat Stage.",
+        "effect":"The target's Speed is lowed by 1 Combat Stage.",
         "type":"Ground",
         "category":"Special",
         "damageBase":6,
@@ -1991,7 +1980,7 @@
     },
     {
         "name":"Acid",
-        "effect":"Acid lowers the target’s Special Defense by -1 Combat Stage on 18+.",
+        "effect":"Acid lowers the target’s Special Defense by 1 Combat Stage on 18+.",
         "type":"Poison",
         "category":"Special",
         "damageBase":4,
@@ -2013,7 +2002,7 @@
     },
     {
         "name":"Return",
-        "effect":"Return's DB is equal to 3 plus the user's Loyalty Value.",
+        "effect":"Return's Damage Base is equal to 3 plus the user's Loyalty Value.",
         "type":"Normal",
         "category":"Physical",
         "damageBase":"X, See Effect",
@@ -2024,7 +2013,7 @@
     },
     {
         "name":"Sharpen",
-        "effect":"Raise the user’s Attack by +1 CS.",
+        "effect":"Raise the user’s Attack by 1 Combat Stage.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -2046,7 +2035,7 @@
     },
     {
         "name":"Flower Shield",
-        "effect":"Raise the Defense of all Grass-Type legal targets by +2 CS.",
+        "effect":"Raise the Defense of all Grass-Type legal targets by 2 Combat Stages.",
         "type":"Fairy",
         "category":"Status",
         "damageBase":"--",
@@ -2057,7 +2046,7 @@
     },
     {
         "name":"Infernal Parade",
-        "effect":"Legal targets hit by Infernal Parade are Burned on a 17+.\\nOnce a Scene, if at least one of Infernal Paradeâ€™s targets has a Status Condition, you may have Infernal Paradeâ€™s Damage Base by 12 instead (3d12+10 / 30).",
+        "effect":"Legal targets hit by Infernal Parade are Burned on a 17+.\\nOnce a Scene, if at least one of Infernal Paradeâ€™s targets has a Status Condition, you may increase Infernal Parade's Damage Base to 12 instead (3d12+10 / 30).",
         "type":"Ghost",
         "category":"Special",
         "damageBase":6,
@@ -2079,7 +2068,7 @@
     },
     {
         "name":"Tail Whip",
-        "effect":"All legal targets have their Defense lowered by -1 CS.",
+        "effect":"All legal targets have their Defense lowered by 1 Combat Stage.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -2112,7 +2101,7 @@
     },
     {
         "name":"Clangorous Soul",
-        "effect":"The user loses 1/3rd of their Max Hit Points and has each of its stats raised by +1 Combat Stage.",
+        "effect":"The user loses 1/3rd of their Max Hit Points and has each of its stats raised by 1 Combat Stage.",
         "type":"Dragon",
         "category":"Status",
         "damageBase":"--",
@@ -2123,7 +2112,7 @@
     },
     {
         "name":"Heavy Slam",
-        "effect":"For each weight class the user is above the target, increase Heavy Slam's Damage Base by +2.",
+        "effect":"For each weight class the user is above the target, increase Heavy Slam's Damage Base by 2.",
         "type":"Steel",
         "category":"Physical",
         "damageBase":4,
@@ -2145,7 +2134,7 @@
     },
     {
         "name":"Diamond Storm",
-        "effect":"Diamond Storm raises the User’s Defense by +1 CS on an Even-Numbered Roll.",
+        "effect":"Diamond Storm raises the User’s Defense by 1 Combat Stage on an Even-Numbered Roll.",
         "type":"Rock",
         "category":"Physical",
         "damageBase":10,
@@ -2178,7 +2167,7 @@
     },
     {
         "name":"Struggle Bug",
-        "effect":"Lower the Special Attack of all legal targets by -1 CS.",
+        "effect":"Lower the Special Attack of all legal targets by 1 Combat Stage.",
         "type":"Bug",
         "category":"Special",
         "damageBase":5,
@@ -2233,7 +2222,7 @@
     },
     {
         "name":"Draco Meteor",
-        "effect":"Lower the user's Special Attack by -2 CS after damage.",
+        "effect":"Lower the user's Special Attack by 2 Combat Stages after damage.",
         "type":"Dragon",
         "category":"Special",
         "damageBase":13,
@@ -2244,7 +2233,7 @@
     },
     {
         "name":"Eerie Impulse",
-        "effect":"Lower the target's Special Attack by -2 CS. *Grants Glow.",
+        "effect":"Lower the target's Special Attack by 2 Combat Stages. *Grants Glow.",
         "type":"Electric",
         "category":"Status",
         "damageBase":"--",
@@ -2266,7 +2255,7 @@
     },
     {
         "name":"Fury Cutter",
-        "effect":"If Fury Cutter is used successfully and consecutively on the same target, the Damage Base is increased by +4; the first hit has a DB of 4; the second hit a DB of 8, the third hit a DB of 12, and the fourth and all further hits have a DB of 16. If Fury Cutter misses or fails to damage its target, its Damage Base resets.",
+        "effect":"If Fury Cutter is used successfully and consecutively on the same target, the Damage Base is increased by +4; the first hit has a Damage Base of 4; the second hit a Damage Base of 8, the third hit a Damage Base of 12, and the fourth and all further hits have a Damage Base of 16. If Fury Cutter misses or fails to damage its target, its Damage Base resets.",
         "type":"Bug",
         "category":"Physical",
         "damageBase":4,
@@ -2310,7 +2299,7 @@
     },
     {
         "name":"Metal Sound",
-        "effect":"All Legal Targets have their Special Defense lowered by -2 CS.",
+        "effect":"All Legal Targets have their Special Defense lowered by 2 Combat Stages.",
         "type":"Steel",
         "category":"Status",
         "damageBase":"--",
@@ -2332,7 +2321,7 @@
     },
     {
         "name":"Crush Claw",
-        "effect":"Crush Claw lowers the target’s Defense by -1 CS on Even-Numbered Rolls.",
+        "effect":"Crush Claw lowers the target’s Defense by 1 Combat Stage on Even-Numbered Rolls.",
         "type":"Normal",
         "category":"Physical",
         "damageBase":7,
@@ -2343,7 +2332,7 @@
     },
     {
         "name":"Magnetic Flux [OG2]",
-        "effect":"Raise the Defense and Special Defense of all legal targets with the Minus or Plus Abilities by +1 CS.",
+        "effect":"Raise the Defense and Special Defense of all legal targets with the Minus or Plus Abilities by 1 Combat Stage.",
         "type":"Electric",
         "category":"Status",
         "damageBase":"--",
@@ -2420,7 +2409,7 @@
     },
     {
         "name":"Bubblebeam",
-        "effect":"Bubblebeam lowers the target's Speed by -1 CS on 18+.",
+        "effect":"Bubblebeam lowers the target's Speed by 1 Combat Stage on 18+.",
         "type":"Water",
         "category":"Special",
         "damageBase":8,
@@ -2475,7 +2464,7 @@
     },
     {
         "name":"Harden",
-        "effect":"Raise the user’s Defense by +1 CS.",
+        "effect":"Raise the user’s Defense by 1 Combat Stage.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -2574,7 +2563,7 @@
     },
     {
         "name":"Reversal",
-        "effect":"For each Injury the user has, Reversal's Damage Base is increased by +1.",
+        "effect":"For each Injury the user has, Reversal's Damage Base is increased by 1.",
         "type":"Fighting",
         "category":"Physical",
         "damageBase":7,
@@ -2585,7 +2574,7 @@
     },
     {
         "name":"Ancient Power",
-        "effect":"The user has each of its stats raised by +1 CS on 19+.",
+        "effect":"The user has each of its stats raised by 1 Combat Stage on 19+.",
         "type":"Rock",
         "category":"Special",
         "damageBase":6,
@@ -2607,7 +2596,7 @@
     },
     {
         "name":"Behemoth Blade",
-        "effect":"The DB of Behemoth Blade increases by +2 for each positive CS the target has, to a maximum of DB 20.",
+        "effect":"The Damage Base of Behemoth Blade increases by 2 for each positive Combat Stage the target has, to a maximum of Damage Base 20.",
         "type":"Steel",
         "category":"Physical",
         "damageBase":10,
@@ -2640,7 +2629,7 @@
     },
     {
         "name":"Fusion Bolt",
-        "effect":"Fusion Bolt has its Damage Base increased by +3 if Fusion Flare was used this round or last round by any participant of the encounter.",
+        "effect":"Fusion Bolt has its Damage Base increased by 3 if Fusion Flare was used this round or last round by any participant of the encounter.",
         "type":"Electric",
         "category":"Physical",
         "damageBase":10,
@@ -2926,7 +2915,7 @@
     },
     {
         "name":"Dynamax Cannon",
-        "effect":"The DB of Dynamax Cannon increases by +2 for each positive CS the target has, to a maximum of DB 20.",
+        "effect":"The Damage Base of Dynamax Cannon increases by 2 for each positive Combat Stage the target has, to a maximum of Damage Base 20.",
         "type":"Dragon",
         "category":"Special",
         "damageBase":10,
@@ -2948,7 +2937,7 @@
     },
     {
         "name":"Meteor Mash",
-        "effect":"Raise the user's Attack by +1 CS on 15+.",
+        "effect":"Raise the user's Attack by 1 Combat Stage on 15+.",
         "type":"Steel",
         "category":"Physical",
         "damageBase":9,
@@ -3025,7 +3014,7 @@
     },
     {
         "name":"Leaf Tornado",
-        "effect":"Small or Medium targets in the central square of the blast are not hit. On 15+, all legal targets have their Accuracy lowered by -1.",
+        "effect":"Small or Medium targets in the central square of the blast are not hit. On 15+, all legal targets have their Accuracy lowered by 1.",
         "type":"Grass",
         "category":"Special",
         "damageBase":7,
@@ -3080,7 +3069,7 @@
     },
     {
         "name":"Electroweb",
-        "effect":"Lower the Speed of all legal targets by -1 CS.",
+        "effect":"Lower the Speed of all legal targets by 1 Combat Stage.",
         "type":"Electric",
         "category":"Special",
         "damageBase":6,
@@ -3091,7 +3080,7 @@
     },
     {
         "name":"Acid Spray",
-        "effect":"Acid Spray lowers the target’s Special Defense by -2 CS.",
+        "effect":"Acid Spray lowers the target’s Special Defense by 2 Combat Stages.",
         "type":"Poison",
         "category":"Special",
         "damageBase":4,
@@ -3102,7 +3091,7 @@
     },
     {
         "name":"Night Daze",
-        "effect":"Night Daze lowers the target's Accuracy by -1 on 13+.",
+        "effect":"Night Daze lowers the target's Accuracy by 1 on 13+.",
         "type":"Dark",
         "category":"Special",
         "damageBase":9,
@@ -3124,7 +3113,7 @@
     },
     {
         "name":"King's Shield",
-        "effect":"If the user is hit by an attack, the user may use King’s Shield. The user is instead not hit by the Move. You do not take any damage nor are you affected by any of the Move’s effect. In addition, if the triggering attack was Melee ranged, the attacker’s Attack is lowered by -2 CS.",
+        "effect":"If the user is hit by an attack, the user may use King’s Shield. The user is instead not hit by the Move. You do not take any damage nor are you affected by any of the Move’s effect. In addition, if the triggering attack was Melee ranged, the attacker’s Attack is lowered by 2 Combat Stages.",
         "type":"Steel",
         "category":"Status",
         "damageBase":"--",
@@ -3157,7 +3146,7 @@
     },
     {
         "name":"Psycho Boost",
-        "effect":"Lower the user's Special Attack by -2 Combat Stages after damage is resolved.",
+        "effect":"Lower the user's Special Attack by 2 Combat Stages after damage is resolved.",
         "type":"Psychic",
         "category":"Special",
         "damageBase":14,
@@ -3322,7 +3311,7 @@
     },
     {
         "name":"Close Combat",
-        "effect":"Lower the user’s Defense and Special Defense by -1 CS each after damage.",
+        "effect":"Lower the user’s Defense and Special Defense by 1 Combat Stage each after damage.",
         "type":"Fighting",
         "category":"Physical",
         "damageBase":12,
@@ -3366,7 +3355,7 @@
     },
     {
         "name":"Shift Gear",
-        "effect":"Raise the user’s Attack by +1 CS and Speed by +2 CS.",
+        "effect":"Raise the user’s Attack by 1 Combat Stage and Speed by 2 Combat Stages.",
         "type":"Steel",
         "category":"Status",
         "damageBase":"--",
@@ -3465,7 +3454,7 @@
     },
     {
         "name":"Swagger",
-        "effect":"Raise the target's Attack by +2 CS. The target is Confused.",
+        "effect":"Raise the target's Attack by 2 Combat Stages. The target is Confused.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -3564,7 +3553,7 @@
     },
     {
         "name":"Scary Face",
-        "effect":"Lower the target’s Speed by -2 CS.",
+        "effect":"Lower the target’s Speed by 2 Combat Stages.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -3608,7 +3597,7 @@
     },
     {
         "name":"Tar Shot",
-        "effect":"The target gains a Coat that is automatically expended upon being hit with a Fire Type attack in order to make them one step more vulnerable to that attack. In addition, the target’s Speed is lowered by 1 CS.",
+        "effect":"The target gains a Coat that is automatically expended upon being hit with a Fire Type attack in order to make them one step more vulnerable to that attack. In addition, the target’s Speed is lowered by 1 Combat Stage.",
         "type":"Rock",
         "category":"Status",
         "damageBase":"--",
@@ -3619,7 +3608,7 @@
     },
     {
         "name":"Lunar Blessing",
-        "effect":"The user regains hit points equal to 50% of its Hit Point total, cures all of its Status conditions, and gains +2 Evasion.",
+        "effect":"The user regains hit points equal to 50% of its Hit Point total, cures all of its Status conditions, and gains 2 Evasion.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"",
@@ -3663,7 +3652,7 @@
     },
     {
         "name":"Swagger [OG]",
-        "effect":"Raise the target's Attack by +2 CS. The target is Confused.",
+        "effect":"Raise the target's Attack by 2 Combat Stages. The target is Confused.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -3696,7 +3685,7 @@
     },
     {
         "name":"Triple Kick",
-        "effect":"After attacking with Triple Kick, hit or miss, the user may Disengage 2m and attack a different target with Triple Kick. This effect may be repeated a second time, targeting a creature that has not been targeted by either prior attack. Before making each attack roll, the user can elect to give up triggering all remaining additional shifts and attacks. Triple Kick gains +1 Accuracy and +1 DB for each attack that is given up. Triple Kick always benefits from the Technician Ability.",
+        "effect":"After attacking with Triple Kick, hit or miss, the user may Disengage 2m and attack a different target with Triple Kick. This effect may be repeated a second time, targeting a creature that has not been targeted by either prior attack. Before making each attack roll, the user can elect to give up triggering all remaining additional shifts and attacks. Triple Kick gains 1 Accuracy and 1 Damage Base for each attack that is given up. Triple Kick always benefits from the Technician Ability.",
         "type":"Fighting",
         "category":"Physical",
         "damageBase":4,
@@ -3883,7 +3872,7 @@
     },
     {
         "name":"Hammer Arm",
-        "effect":"The user lowers their Speed by -1 CS.",
+        "effect":"The user lowers their Speed by 1 Combat Stage.",
         "type":"Fighting",
         "category":"Physical",
         "damageBase":10,
@@ -3894,7 +3883,7 @@
     },
     {
         "name":"Skull Bash",
-        "effect":"Set-Up Effect: Raise the user's Defense by +1 CS. Resolution Effect: The user may attack with Skull Bash. The target is pushed 3 meters.",
+        "effect":"Set-Up Effect: Raise the user's Defense by 1 Combat Stage. Resolution Effect: The user may attack with Skull Bash. The target is pushed 3 meters.",
         "type":"Normal",
         "category":"Physical",
         "damageBase":13,
@@ -3982,7 +3971,7 @@
     },
     {
         "name":"Hyperspace Fury",
-        "effect":"Interrupts may not be triggered against Hyperspace Fury. The user's Defense is lowered by -1 Combat Stage.",
+        "effect":"Interrupts may not be triggered against Hyperspace Fury. The user's Defense is lowered by 1 Combat Stage.",
         "type":"Dark",
         "category":"Physical",
         "damageBase":10,
@@ -4059,7 +4048,7 @@
     },
     {
         "name":"Headlong Rush",
-        "effect":"The user's Defense and Special Defense are each lowered by -1 Combat Stage.\\nHeadlong Rush may be used as a Free Action at the end of a Sprit Maneuver taken as a Standard Action, as long as the user Shifted as least 3 meters in a straight line towards the target. When used this way, Headlong Rush Trips the target on a hit",
+        "effect":"The user's Defense and Special Defense are each lowered by 1 Combat Stage.\\nHeadlong Rush may be used as a Free Action at the end of a Sprit Maneuver taken as a Standard Action, as long as the user Shifted as least 3 meters in a straight line towards the target. When used this way, Headlong Rush Trips the target on a hit",
         "type":"Ground",
         "category":"Physical",
         "damageBase":10,
@@ -4246,7 +4235,7 @@
     },
     {
         "name":"Rock Polish",
-        "effect":"Raise the user's Speed by +2 CS.",
+        "effect":"Raise the user's Speed by 2 Combat Stages.",
         "type":"Rock",
         "category":"Status",
         "damageBase":"--",
@@ -4378,7 +4367,7 @@
     },
     {
         "name":"Shadow Ball",
-        "effect":"Shadow Ball lowers the target's Special Defense by -1 CS on 17+.",
+        "effect":"Shadow Ball lowers the target's Special Defense by 1 Combat Stage on 17+.",
         "type":"Ghost",
         "category":"Special",
         "damageBase":8,
@@ -4411,7 +4400,7 @@
     },
     {
         "name":"Fire Lash",
-        "effect":"The target's Defense is lowered by -1 CS.",
+        "effect":"The target's Defense is lowered by 1 Combat Stage.",
         "type":"Fire",
         "category":"Physical",
         "damageBase":8,
@@ -4444,7 +4433,7 @@
     },
     {
         "name":"Submission",
-        "effect":"On an accuracy roll of 15+, the target is Tripped.",
+        "effect":"On an Accuracy roll of 15+, the target is Tripped.",
         "type":"Fighting",
         "category":"Physical",
         "damageBase":8,
@@ -4499,7 +4488,7 @@
     },
     {
         "name":"Tickle",
-        "effect":"Lower the target’s Attack and Defense by -1 CS each.",
+        "effect":"Lower the target’s Attack and Defense by 1 Combat Stage each.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -4532,7 +4521,7 @@
     },
     {
         "name":"Mystical Power",
-        "effect":"The user receives +1 Combat Stage in their highest non-HP stat.",
+        "effect":"Increase the user's highest non-HP stat by 1 Combat Stage in their highest non-HP stat.",
         "type":"Psychic",
         "category":"Special",
         "damageBase":7,
@@ -4565,7 +4554,7 @@
     },
     {
         "name":"Fake Tears",
-        "effect":"Lower the target's Special Defense by -2 CS.",
+        "effect":"Lower the target's Special Defense by 2 Combat Stages.",
         "type":"Dark",
         "category":"Status",
         "damageBase":"--",
@@ -4675,7 +4664,7 @@
     },
     {
         "name":"Apple Acid",
-        "effect":"The target’s Special Defense is lowered by 1 CS.",
+        "effect":"The target’s Special Defense is lowered by 1 Combat Stage.",
         "type":"Grass",
         "category":"Special",
         "damageBase":8,
@@ -4807,7 +4796,7 @@
     },
     {
         "name":"Baby-Doll Eyes",
-        "effect":"Lower the target's Attack by -1 CS.",
+        "effect":"Lower the target's Attack by 1 Combat Stage.",
         "type":"Fairy",
         "category":"Status",
         "damageBase":"--",
@@ -4862,7 +4851,7 @@
     },
     {
         "name":"Ice Ball",
-        "effect":"The user continues to use Ice Ball on each of its turns until they miss any target with Ice Ball or are not able to hit any target with Ice Ball during their turn. Each successive use of Ice Ball increases Ice Ball's Damage Base by +3 to a maximum of DB 15.",
+        "effect":"The user continues to use Ice Ball on each of its turns until they miss any target with Ice Ball or are not able to hit any target with Ice Ball during their turn. Each successive use of Ice Ball increases Ice Ball's Damage Base by 3 to a maximum of Damage Base 15.",
         "type":"Ice",
         "category":"Physical",
         "damageBase":3,
@@ -4917,7 +4906,7 @@
     },
     {
         "name":"Water Spout",
-        "effect":"For each 10% of HP the user is missing, Water Spout's Damage Base is reduced by -1. Water Spout creates a 1 meter burst, but also affects an area 10 meters tall straight up.",
+        "effect":"For each 10% of HP the user is missing, Water Spout's Damage Base is reduced by 1. Water Spout creates a 1 meter burst, but also affects an area 10 meters tall straight up.",
         "type":"Water",
         "category":"Special",
         "damageBase":15,
@@ -4939,7 +4928,7 @@
     },
     {
         "name":"Charge Beam",
-        "effect":"If Charge Beam successfully hits a target, roll 1d20. On a roll of 7+, the user's Special Attack is raised by +1 Combat Stage.",
+        "effect":"If Charge Beam successfully hits a target, roll 1d20. On a roll of 7+, the user's Special Attack is raised by 1 Combat Stage.",
         "type":"Electric",
         "category":"Special",
         "damageBase":5,
@@ -4983,7 +4972,7 @@
     },
     {
         "name":"Autotomize",
-        "effect":"For the remainder of the Encounter, the user’s Weight Class is one value lower, to a minimum of 1. If the user can, the user’s Speed is raised by +2 Combat Stages.",
+        "effect":"For the remainder of the Encounter, the user’s Weight Class is one value lower, to a minimum of 1. If the user can, the user’s Speed is raised by 2 Combat Stages.",
         "type":"Steel",
         "category":"Status",
         "damageBase":"--",
@@ -5071,7 +5060,7 @@
     },
     {
         "name":"Flail",
-        "effect":"For each Injury the user has, Flail's Damage Base is increased by +1.",
+        "effect":"For each Injury the user has, Flail's Damage Base is increased by 1.",
         "type":"Normal",
         "category":"Physical",
         "damageBase":7,
@@ -5280,7 +5269,7 @@
     },
     {
         "name":"Bug Buzz",
-        "effect":"Bug Buzz lowers the Special Defense of all legal targets by -1 CS on 19+.",
+        "effect":"Bug Buzz lowers the Special Defense of all legal targets by 1 Combat Stage on 19+.",
         "type":"Bug",
         "category":"Special",
         "damageBase":9,
@@ -5291,7 +5280,7 @@
     },
     {
         "name":"Flash Cannon",
-        "effect":"Flash Cannon lowers the target's Special Defense by -1 CS on 17+.",
+        "effect":"Flash Cannon lowers the target's Special Defense by 1 Combat Stage on 17+.",
         "type":"Steel",
         "category":"Special",
         "damageBase":8,
@@ -5445,7 +5434,7 @@
     },
     {
         "name":"Spirit Break",
-        "effect":"The target’s Special Attack stat is lowered 1 CS.",
+        "effect":"The target’s Special Attack stat is lowered 1 Combat Stage.",
         "type":"Fairy",
         "category":"Physical",
         "damageBase":8,
@@ -5511,7 +5500,7 @@
     },
     {
         "name":"String Shot",
-        "effect":"Lower the Speed of all legal targets by -1 CS. If this lowers their Speed CS to -6, or if their Speed CS was already at -6, they are instead Stuck. *Grants Threaded",
+        "effect":"Lower the Speed of all legal targets by 1 Combat Stage. If this lowers their Speed Combat Stage to -6, or if their Speed Combat Stage was already at -6, they are instead Stuck. *Grants Threaded",
         "type":"Bug",
         "category":"Status",
         "damageBase":"--",
@@ -5566,7 +5555,7 @@
     },
     {
         "name":"Swords Dance",
-        "effect":"Raise the user's Attack by +2 CS.",
+        "effect":"Raise the user's Attack by 2 Combat Stages.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -5577,7 +5566,7 @@
     },
     {
         "name":"Trump Card",
-        "effect":"Whenever the user uses Trump Card, the user gains a Trump Count after the attack is resolved. Trump Card's DB is increased by +2 for each Trump Count.",
+        "effect":"Whenever the user uses Trump Card, the user gains a Trump Count after the attack is resolved. Trump Card's Damage Base is increased by 2 for each Trump Count.",
         "type":"Normal",
         "category":"Special",
         "damageBase":6,
@@ -5621,7 +5610,7 @@
     },
     {
         "name":"No Retreat",
-        "effect":"The user gains +1 CS in each stat. In addition, the user may not be recalled or switched out until the end of the Scene, and counts as Slowed for the purposes of any movement that would end further away from the nearest enemy than the user started.",
+        "effect":"The user gains 1 Combat Stage in each stat. In addition, the user may not be recalled or switched out until the end of the Scene, and counts as Slowed for the purposes of any movement that would end further away from the nearest enemy than the user started.",
         "type":"Fighting",
         "category":"Status",
         "damageBase":"--",
@@ -5709,7 +5698,7 @@
     },
     {
         "name":"Wring Out",
-        "effect":"For every 10% the target is below their full HP, Wring Out's Damage Base is reduced by -1.",
+        "effect":"For every 10% the target is below their full HP, Wring Out's Damage Base is reduced by 1.",
         "type":"Normal",
         "category":"Special",
         "damageBase":12,
@@ -5841,7 +5830,7 @@
     },
     {
         "name":"Silver Wind",
-        "effect":"Silver Wind raises each of the user's stats by +1 CS on 19+.",
+        "effect":"Silver Wind raises each of the user's stats by 1 Combat Stage on 19+.",
         "type":"Bug",
         "category":"Special",
         "damageBase":6,
@@ -5885,7 +5874,7 @@
     },
     {
         "name":"Cone of Force",
-        "effect":"Cone of Force Pushes all targets 2 meters, and lowers their Evasion by -2 for 1 full round..\\nLimitation: Melee Weapons Only",
+        "effect":"Cone of Force Pushes all targets 2 meters, and lowers their Evasion by 2 for 1 full round.\\nLimitation: Melee Weapons Only",
         "type":"Normal",
         "category":"Special",
         "damageBase":6,
@@ -5907,7 +5896,7 @@
     },
     {
         "name":"Moonblast",
-        "effect":"Moonblast lowers the target’s Special Attack by -1 CS on 15+.",
+        "effect":"Moonblast lowers the target’s Special Attack by 1 Combat Stage on 15+.",
         "type":"Fairy",
         "category":"Special",
         "damageBase":10,
@@ -5984,7 +5973,7 @@
     },
     {
         "name":"Nasty Plot",
-        "effect":"Raise the user's Special Attack by +2 CS.",
+        "effect":"Raise the user's Special Attack by 2 Combat Stages.",
         "type":"Dark",
         "category":"Status",
         "damageBase":"--",
@@ -6072,7 +6061,7 @@
     },
     {
         "name":"Tearful Look",
-        "effect":"All legal targets lose -1 Attack and Special Attack CS each.",
+        "effect":"All legal targets have their Attack and Special Attack lowered by 1 Combat Stage.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -6094,7 +6083,7 @@
     },
     {
         "name":"Growl",
-        "effect":"Lower the Attack of all legal targets by -1 CS.",
+        "effect":"Lower the Attack of all legal targets by 1 Combat Stage.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -6127,7 +6116,7 @@
     },
     {
         "name":"Mirror Shot",
-        "effect":"All Legal Targets have their Accuracy lowered by -2 on 16+.",
+        "effect":"All Legal Targets have their Accuracy lowered by 2 on 16+.",
         "type":"Steel",
         "category":"Special",
         "damageBase":7,
@@ -6149,7 +6138,7 @@
     },
     {
         "name":"Howl",
-        "effect":"The user and all allies in the Burst have their Attack CS raised by 1.",
+        "effect":"The user and all allies in the Burst have their Attack Combat Stage raised by 1.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -6182,7 +6171,7 @@
     },
     {
         "name":"Stomping Tantrum",
-        "effect":"If the user’s last attack failed or missed, Stomping Tantrum is DB15 instead.",
+        "effect":"If the user’s last attack failed or missed, Stomping Tantrum is Damage Base 15 instead.",
         "type":"Ground",
         "category":"Physical",
         "damageBase":8,
@@ -6204,7 +6193,7 @@
     },
     {
         "name":"Leer",
-        "effect":"All legal targets have their Defense lowered by -1 CS.",
+        "effect":"All legal targets have their Defense lowered by 1 Combat Stage.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -6215,7 +6204,7 @@
     },
     {
         "name":"Punishment",
-        "effect":"Punishment's Damage Base is raised by +1 for each Combat Stage the target has, to a maximum of DB 12.",
+        "effect":"Punishment's Damage Base is raised by 1 for each Combat Stage the target has, to a maximum of Damage Base 12.",
         "type":"Dark",
         "category":"Physical",
         "damageBase":6,
@@ -6497,7 +6486,7 @@
         "frequency":"EOT",
         "ac":2,
         "range":"Melee, 1 Target",
-        "contestType":"--"
+        "contestType":"Tough - Catching Up"
     },
     {
         "name":"Burn Up",
@@ -6545,7 +6534,7 @@
     },
     {
         "name":"Crunch",
-        "effect":"Crunch lowers the target’s Defense by -1 CS on 17+.",
+        "effect":"Crunch lowers the target’s Defense by 1 Combat Stage on 17+.",
         "type":"Dark",
         "category":"Physical",
         "damageBase":8,
@@ -6600,7 +6589,7 @@
     },
     {
         "name":"Quiver Dance",
-        "effect":"Raise the user's Special Attack, Special Defense, and Speed by +1 CS each.",
+        "effect":"Raise the user's Special Attack, Special Defense, and Speed by 1 Combat Stage each.",
         "type":"Bug",
         "category":"Status",
         "damageBase":"--",
@@ -6608,17 +6597,6 @@
         "ac":"--",
         "range":"Self",
         "contestType":"Cool - Get Ready!"
-    },
-    {
-        "name":"Ancient Power+",
-        "effect":"The user has each of its stats raised by +1 CS on 18+.",
-        "type":"Rock",
-        "category":"Special",
-        "damageBase":"6",
-        "frequency":"EOT",
-        "ac":"2",
-        "range":"6, 1 Target, Spirit Surge",
-        "contestType":"Tough - Desperation"
     },
     {
         "name":"Wood Hammer",
@@ -6695,11 +6673,11 @@
         "frequency":"At-Will",
         "ac":2,
         "range":"Melee, 1 Target, Priority",
-        "contestType":"--"
+        "contestType":"Tough - Saving Grace"
     },
     {
         "name":"Aromatic Mist",
-        "effect":"Raise the Special Defense of all allied legal targets by +1 CS.",
+        "effect":"Raise the Special Defense of all allied legal targets by 1 Combat Stage.",
         "type":"Fairy",
         "category":"Status",
         "damageBase":"--",
@@ -6732,7 +6710,7 @@
     },
     {
         "name":"Dragon Dance",
-        "effect":"Raise the user’s Attack and Speed by +1 CS.",
+        "effect":"Raise the user’s Attack and Speed by 1 Combat Stage.",
         "type":"Dragon",
         "category":"Status",
         "damageBase":"--",
@@ -6765,7 +6743,7 @@
     },
     {
         "name":"Breaking Swipe",
-        "effect":"The target’s Attack is lowered 1 CS.",
+        "effect":"The target’s Attack is lowered 1 Combat Stage.",
         "type":"Dragon",
         "category":"Physical",
         "damageBase":6,
@@ -6831,7 +6809,7 @@
     },
     {
         "name":"Captivate",
-        "effect":"Captivate lowers the target's Special Attack by -2 CS. Captivate may not affect something that is the same gender as the user or something that is genderless.",
+        "effect":"Captivate lowers the target's Special Attack by 2 Combat Stages. Captivate may not affect something that is the same gender as the user or something that is genderless.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -7007,7 +6985,7 @@
     },
     {
         "name":"Memento",
-        "effect":"Memento may be used as a Free Action that does not consume a Command action when the user becomes Fainted. Lower each of the target's stats by -2 CS.",
+        "effect":"Memento may be used as a Free Action that does not consume a Command action when the user becomes Fainted. Lower each of the target's stats by 2 Combat Stages.",
         "type":"Dark",
         "category":"Status",
         "damageBase":"--",
@@ -7040,7 +7018,7 @@
     },
     {
         "name":"Retaliate",
-        "effect":"Retaliate's DB is doubled to DB 14 (4d10+15 / 40) if an ally has been Fainted by a Damaging Move used by the Target in the last 2 rounds of Combat.",
+        "effect":"Retaliate's Damage Base is doubled to Damage Base 14 (4d10+15 / 40) if an ally has been Fainted by a Damaging Move used by the Target in the last 2 rounds of Combat.",
         "type":"Normal",
         "category":"Physical",
         "damageBase":7,
@@ -7062,7 +7040,7 @@
     },
     {
         "name":"Present",
-        "effect":"Roll 1d6; Present has a DB equal to twice the result. On a result of 1, instead of taking damage the target gains 20 HP.",
+        "effect":"Roll 1d6; Present has a Damage Base equal to twice the result. On a result of 1, instead of taking damage the target gains 20 HP.",
         "type":"Normal",
         "category":"Physical",
         "damageBase":"X, See Effect",
@@ -7084,7 +7062,7 @@
     },
     {
         "name":"Razor Wind",
-        "effect":"Set-Up Effect: The user may not shift this round. The user whips up a whirlwind around themselves, granting +2 Evasion until the end of their next turn and destroying any Smokescreen or Hazards on any squares it is standing on and in all squares adjacent to it. Resolution Effect: The user attacks with Razor Wind. Razor Wind is a Critical Hit on 18+.",
+        "effect":"Set-Up Effect: The user may not shift this round. The user whips up a whirlwind around themselves, granting a +2 Bonus to Evasion until the end of their next turn and destroying any Smokescreen or Hazards on any squares it is standing on and in all squares adjacent to it. Resolution Effect: The user attacks with Razor Wind. Razor Wind is a Critical Hit on 18+.",
         "type":"Normal",
         "category":"Special",
         "damageBase":8,
@@ -7161,7 +7139,7 @@
     },
     {
         "name":"V-Create",
-        "effect":"Lowers the user's Defense, Special Defense, and Speed by -1 CS each.",
+        "effect":"Lowers the user's Defense, Special Defense, and Speed by 1 Combat Stage each.",
         "type":"Fire",
         "category":"Physical",
         "damageBase":18,
@@ -7293,7 +7271,7 @@
     },
     {
         "name":"Fell Stinger [OG]",
-        "effect":"If the user successfully knocks out the target with Fell Stinger, raise the user's Attack by +2 CS.",
+        "effect":"If the user successfully knocks out the target with Fell Stinger, raise the user's Attack by 2 Combat Stages.",
         "type":"Bug",
         "category":"Physical",
         "damageBase":3,
@@ -7326,7 +7304,7 @@
     },
     {
         "name":"Noble Roar",
-        "effect":"Noble Roar lowers all legal targets’ Attack and Special Attack by +1 CS.",
+        "effect":"Noble Roar lowers all legal targets’ Attack and Special Attack by 1 Combat Stage.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -7348,7 +7326,7 @@
     },
     {
         "name":"Echoed Voice",
-        "effect":"If Echoed Voice was used by any Pokémon or Trainer in the Encounter on the previous round, increase its Damage Base by +4. If Echoed Voice was used by any Pokémon or Trainers during both the previous two rounds, increase its Damage Base by +8.",
+        "effect":"If Echoed Voice was used by any Pokémon or Trainer in the Encounter on the previous round, increase its Damage Base by 4. If Echoed Voice was used by any Pokémon or Trainers during both the previous two rounds, increase its Damage Base by 8.",
         "type":"Normal",
         "category":"Special",
         "damageBase":4,
@@ -7392,7 +7370,7 @@
     },
     {
         "name":"Façade",
-        "effect":"If the user is afflicted with a Persistent Status Affliction, Façade’s Damage Base is doubled to DB 14 (4d10+15 / 40).",
+        "effect":"If the user is afflicted with a Persistent Status Affliction, Façade’s Damage Base is doubled to Damage Base 14 (4d10+15 / 40).",
         "type":"Normal",
         "category":"Physical",
         "damageBase":7,
@@ -7403,7 +7381,7 @@
     },
     {
         "name":"Defense Curl",
-        "effect":"The user becomes Curled Up. While Curled Up, the user becomes immune to Critical Hits and gains 10 Damage Reduction. However, while Curled Up, the user is Slowed and their Accuracy is lowered by -4. The user may stop being Curled Up as a Swift Action. If the user has Rollout or Ice Ball in their Move List, they do not become Slowed while Curled Up. Furthermore, when using the Moves Rollout or Ice Ball while Curled Up, the user gains a +10 bonus to the damage rolls of those Moves and does not suffer Accuracy Penalties from being Curled Up.\\nSeptember Playtest: The user’s Defense is raised 1 Combat Stage and they become Curled Up until the end of the Scene or they are Recalled or Take a Breather. When using the Moves Rollout or Ice Ball while Curled Up, the user gains a +10 bonus to the damage rolls of those Moves.",
+        "effect":"The user becomes Curled Up. While Curled Up, the user becomes immune to Critical Hits and gains 10 Damage Reduction. However, while Curled Up, the user is Slowed and their Accuracy is lowered by 4. The user may stop being Curled Up as a Swift Action. If the user has Rollout or Ice Ball in their Move List, they do not become Slowed while Curled Up. Furthermore, when using the Moves Rollout or Ice Ball while Curled Up, the user gains a +10 bonus to the damage rolls of those Moves and does not suffer Accuracy Penalties from being Curled Up.\\nSeptember Playtest: The user’s Defense is raised 1 Combat Stage and they become Curled Up until the end of the Scene or they are Recalled or Take a Breather. When using the Moves Rollout or Ice Ball while Curled Up, the user gains a +10 bonus to the damage rolls of those Moves.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -7436,7 +7414,7 @@
     },
     {
         "name":"Fell Stinger",
-        "effect":"If the user successfully knocks out the target with Fell Stinger, raise the user's Attack by +2 CS.",
+        "effect":"If the user successfully knocks out the target with Fell Stinger, raise the user's Attack by 2 Combat Stages.",
         "type":"Bug",
         "category":"Physical",
         "damageBase":5,
@@ -7579,7 +7557,7 @@
     },
     {
         "name":"Springtide Storm",
-        "effect":"If the user is not in Therian Forme, the user has each of its stats raised by +1 CS on a 16+. If the user is in Therian Forme, the target has each of its stats lowered by -1 CS on a 16+.",
+        "effect":"If the user is not in Therian Forme, the user has each of its stats raised by 1 Combat Stage on a 16+. If the user is in Therian Forme, the target has each of its stats lowered by 1 Combat Stage on a 16+.",
         "type":"Fairy",
         "category":"Special",
         "damageBase":10,
@@ -7634,7 +7612,7 @@
     },
     {
         "name":"Decorate",
-        "effect":"The target gains +2 CS in both Attack and Special Attack.",
+        "effect":"The target gains 2 Combat Stages in both Attack and Special Attack.",
         "type":"Fairy",
         "category":"Status",
         "damageBase":"--",
@@ -7744,7 +7722,7 @@
     },
     {
         "name":"Behemoth Bash",
-        "effect":"The DB of Behemoth Bash increases by +2 for each positive CS the target has, to a maximum of DB 20.",
+        "effect":"The Damage Base of Behemoth Bash increases by 2 for each positive Combat Stage the target has, to a maximum of Damage Base 20.",
         "type":"Steel",
         "category":"Physical",
         "damageBase":10,
@@ -7766,7 +7744,7 @@
     },
     {
         "name":"Power-Up Punch",
-        "effect":"If Power-Up Punch successfully hits a target, the user's Attack is raised by +1 Combat Stage",
+        "effect":"If Power-Up Punch successfully hits a target, the user's Attack is raised by 1 Combat Stage",
         "type":"Fighting",
         "category":"Physical",
         "damageBase":4,
@@ -7788,7 +7766,7 @@
     },
     {
         "name":"Defend Order",
-        "effect":"Raise the user's Defense and Special Defense by +1 CS each.",
+        "effect":"Raise the user's Defense and Special Defense by 1 Combat Stage each.",
         "type":"Bug",
         "category":"Status",
         "damageBase":"--",
@@ -7799,7 +7777,7 @@
     },
     {
         "name":"Ice Hammer",
-        "effect":"Lower the user's Speed by -1 CS.",
+        "effect":"Lower the user's Speed by 1 Combat Stage.",
         "type":"Ice",
         "category":"Physical",
         "damageBase":10,
@@ -7854,7 +7832,7 @@
     },
     {
         "name":"Parting Shot",
-        "effect":"If Parting Shot successfully hits, the target's Attack and Special Attack stats are lowered by one CS and the user is immediately recalled in the same turn. A new Pokemon may immediately be sent out. using Parting Shot lets a Trapped user be recalled.",
+        "effect":"If Parting Shot successfully hits, the target's Attack and Special Attack stats are lowered by 1 Combat Stage and the user is immediately recalled in the same turn. A new Pokemon may immediately be sent out. using Parting Shot lets a Trapped user be recalled.",
         "type":"Dark",
         "category":"Status",
         "damageBase":"--",
@@ -7909,7 +7887,7 @@
     },
     {
         "name":"Howl [OG]",
-        "effect":"Raise the user’s Attack by +1 CS.",
+        "effect":"Raise the user’s Attack by 1 Combat Stage.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -7964,7 +7942,7 @@
     },
     {
         "name":"Confide",
-        "effect":"Lower the target's Special Attack by -1 CS.",
+        "effect":"Lower the target's Special Attack by 1 Combat Stage.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -8008,7 +7986,7 @@
     },
     {
         "name":"Sticky Web",
-        "effect":"Set 8 square meters of Sticky Web hazards within your range such that all 8 meters are adjacent with at least one other space of Sticky Web. Sticky Web causes Terrain to become Slow Terrain, and a grounded foe that runs into the hazard has its Speed lowered by -1 CS and becomes Slowed until the end of their next turn. Flying-type Pokemon and Pokemon and Trainers with Levitate are not affected by Sticky Web. Bug-type Pokemon may move over Sticky Web harmlessly, destroying theHazards as they do so. *Grants Threaded",
+        "effect":"Set 8 square meters of Sticky Web hazards within your range such that all 8 meters are adjacent with at least one other space of Sticky Web. Sticky Web causes Terrain to become Slow Terrain, and a grounded foe that runs into the hazard has its Speed lowered by 1 Combat Stage and becomes Slowed until the end of their next turn. Flying-type Pokemon and Pokemon and Trainers with Levitate are not affected by Sticky Web. Bug-type Pokemon may move over Sticky Web harmlessly, destroying theHazards as they do so. *Grants Threaded",
         "type":"Bug",
         "category":"Status",
         "damageBase":"--",
@@ -8030,7 +8008,7 @@
     },
     {
         "name":"Flash",
-        "effect":"Lower the Accuracy of all legal targets by -1. *Grants Glow",
+        "effect":"Lower the Accuracy of all legal targets by 1. *Grants Glow",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -8041,7 +8019,7 @@
     },
     {
         "name":"Bubblebeam",
-        "effect":"Bubblebeam lowers the target's Speed by -1 CS on 18+.",
+        "effect":"Bubblebeam lowers the target's Speed by 1 Combat Stage on 18+.",
         "type":"Water",
         "category":"Special",
         "damageBase":"8",
@@ -8052,7 +8030,7 @@
     },
     {
         "name":"Flatter",
-        "effect":"Raise the target's Special Attack by +1 CS. Flatter Confuses the target.",
+        "effect":"Raise the target's Special Attack by 1 Combat Stage. Flatter Confuses the target.",
         "type":"Dark",
         "category":"Status",
         "damageBase":"--",
@@ -8140,7 +8118,7 @@
     },
     {
         "name":"Iron Tail",
-        "effect":"Iron Tail lowers the target’s Defense by -1 CS on 19+.",
+        "effect":"Iron Tail lowers the target’s Defense by 1 Combat Stage on 19+.",
         "type":"Steel",
         "category":"Physical",
         "damageBase":10,
@@ -8151,7 +8129,7 @@
     },
     {
         "name":"Acid Armor",
-        "effect":"Set-Up Effect: The user becomes Liquefied. While Liquefied, the user is Slowed and cannot take Standard Actions except to Resolve the effect of Acid Armor, the user's Movement is never obstructed by rough or slow terrain, and the user can shift even through the smallest openings. Furthermore, while Liquefied, the user is completely immune to all Physical damage and becomes completely invisible if fully submerged in any liquid. Resolution Effect: The user gains +1 Defense CS, then stops being liquified.",
+        "effect":"Set-Up Effect: The user becomes Liquefied. While Liquefied, the user is Slowed and cannot take Standard Actions except to Resolve the effect of Acid Armor, the user's Movement is never obstructed by rough or slow terrain, and the user can shift even through the smallest openings. Furthermore, while Liquefied, the user is completely immune to all Physical damage and becomes completely invisible if fully submerged in any liquid. Resolution Effect: The user gains 1 Defense Combat Stage, then stops being liquified.",
         "type":"Poison",
         "category":"Status",
         "damageBase":"--",
@@ -8228,7 +8206,7 @@
     },
     {
         "name":"Screech",
-        "effect":"Lower the Defense of all legal targets by -2 CS.",
+        "effect":"Lower the Defense of all legal targets by 2 Combat Stages.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -8294,7 +8272,7 @@
     },
     {
         "name":"Rollout",
-        "effect":"The user continues to use Rollout on each of its turns until they miss any target with Rollout, or are not able to hit any target with Rollout during their turn. Each successive use of Rollout increases Rollout’s Damage Base by +4 to a maximum of DB 15.",
+        "effect":"The user continues to use Rollout on each of its turns until they miss any target with Rollout, or are not able to hit any target with Rollout during their turn. Each successive use of Rollout increases Rollout’s Damage Base by 4 to a maximum of Damage Base 15.",
         "type":"Rock",
         "category":"Physical",
         "damageBase":3,
@@ -8437,7 +8415,7 @@
     },
     {
         "name":"Mud Bomb",
-        "effect":"The target's Accuracy is lowered by -1 on 16+.",
+        "effect":"The target's Accuracy is lowered by 1 on 16+.",
         "type":"Ground",
         "category":"Special",
         "damageBase":7,
@@ -8459,7 +8437,7 @@
     },
     {
         "name":"Mud-Slap",
-        "effect":"The target's Accuracy is lowered by -1.",
+        "effect":"The target's Accuracy is lowered by 1.",
         "type":"Ground",
         "category":"Special",
         "damageBase":2,
@@ -8470,7 +8448,7 @@
     },
     {
         "name":"Heat Crash",
-        "effect":"For each weight class the user is above the target, increase Heavy Crash's damage base by +2.",
+        "effect":"For each weight class the user is above the target, increase Heat Crash's Damage Base by 2.",
         "type":"Fire",
         "category":"Physical",
         "damageBase":4,
@@ -8503,7 +8481,7 @@
     },
     {
         "name":"Octazooka",
-        "effect":"Octazooka lowers the target's Accuracy by -1 on an Even-Numbered Roll.",
+        "effect":"Octazooka lowers the target's Accuracy by 1 on an Even-Numbered Roll.",
         "type":"Water",
         "category":"Special",
         "damageBase":7,
@@ -8723,7 +8701,7 @@
     },
     {
         "name":"Magnetic Flux [OG]",
-        "effect":"Raise the Defense and Special Defense of all legal targets with the Minus or Plus Abilities by +1 CS.",
+        "effect":"Raise the Defense and Special Defense of all legal targets with the Minus or Plus Abilities by 1 Combat Stage.",
         "type":"Electric",
         "category":"Status",
         "damageBase":"--",
@@ -8734,7 +8712,7 @@
     },
     {
         "name":"Steel Wing",
-        "effect":"Steel Wing raises the user's Defense by +1 CS on 15+.",
+        "effect":"Steel Wing raises the user's Defense by 1 Combat Stage on 15+.",
         "type":"Steel",
         "category":"Physical",
         "damageBase":7,
@@ -8789,7 +8767,7 @@
     },
     {
         "name":"Metal Claw",
-        "effect":"Raise the user's Attack by +1 CS on 18+.",
+        "effect":"Raise the user's Attack by 1 Combat Stage on 18+.",
         "type":"Steel",
         "category":"Physical",
         "damageBase":5,
@@ -8800,7 +8778,7 @@
     },
     {
         "name":"Geomancy",
-        "effect":"Set-Up Effect: The user may not shift this round. The user may create as many squares of Rough Terrain as it wants within a Burst 3 as plants burst through the ground, regardless of the surface material. Resolution Effect: Geomancy raises the user's Special Attack, Special Defense, and Speed by +2 CS.",
+        "effect":"Set-Up Effect: The user may not shift this round. The user may create as many squares of Rough Terrain as it wants within a Burst 3 as plants burst through the ground, regardless of the surface material. Resolution Effect: Geomancy raises the user's Special Attack, Special Defense, and Speed by 2 Combat Stages.",
         "type":"Fairy",
         "category":"Status",
         "damageBase":"--",
@@ -8877,7 +8855,7 @@
     },
     {
         "name":"Facade",
-        "effect":"If the user is afflicted with a Persistent Status Affliction, Facade's Damage Base is doubled to DB 14 (4d10+15 / 40).",
+        "effect":"If the user is afflicted with a Persistent Status Affliction, Facade's Damage Base is doubled to Damage Base 14 (4d10+15 / 40).",
         "type":"Normal",
         "category":"Physical",
         "damageBase":7,
@@ -8921,7 +8899,7 @@
     },
     {
         "name":"Solar Blade",
-        "effect":"Set-Up Effect: If the weather is not Sunny, the user’s gains +1 Attack CS and +1 Special Defense CS. If it is Sunny, immediately Resolve. Resolution Effect: Attack with Solar Blade. Half damage in Sandstorm, Hail, or Rain.",
+        "effect":"Set-Up Effect: If the weather is not Sunny, the user’s gains 1 Attack Combat Stage and 1 Special Defense Combat Stage. If it is Sunny, immediately Resolve. Resolution Effect: Attack with Solar Blade. Half damage in Sandstorm, Hail, or Rain.",
         "type":"Grass",
         "category":"Physical",
         "damageBase":13,
@@ -8943,7 +8921,7 @@
     },
     {
         "name":"Electro Ball",
-        "effect":"When determining the damage dealt by Electro Ball, the user adds its Speed Stat (including CS) in addition to their Special Attack Stat. The target in turn subtracts both its Speed and Special Defense Stats from the damage dealt before applying Type Effectiveness.",
+        "effect":"When determining the damage dealt by Electro Ball, the user adds its Speed Stat (including Combat Stages) in addition to their Special Attack Stat. The target in turn subtracts both its Speed and Special Defense Stats from the damage dealt before applying Type Effectiveness.",
         "type":"Electric",
         "category":"Special",
         "damageBase":6,
@@ -9020,7 +8998,7 @@
     },
     {
         "name":"Retrograde",
-        "effect":"The target has all of its CS reset, and all Coats removed. If the target is under the effect of Mega Evolution, the move Transform, or any Moves, Capabilities, Abilities or Features that change a targets Form(e) or Type, those effects immediately end.",
+        "effect":"The target has all of its Combat Stages reset, and all Coats removed. If the target is under the effect of Mega Evolution, the move Transform, or any Moves, Capabilities, Abilities or Features that change a targets Form(e) or Type, those effects immediately end.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"-",
@@ -9064,7 +9042,7 @@
     },
     {
         "name":"Strength Sap",
-        "effect":"The user gains Hit Points equal to the higher of the target's Attack or Special Attack; the target then loses -1 CS in that Stat.",
+        "effect":"The user gains Hit Points equal to the higher of the target's Attack or Special Attack; the target then loses 1 Combat Stage in that Stat.",
         "type":"Grass",
         "category":"Status",
         "damageBase":"--",
@@ -9086,7 +9064,7 @@
     },
     {
         "name":"Bitter Malice",
-        "effect":"Legal targets hit by Bitter Malice are Stuck and Trapped until the end of their next turn on a 19+.\\nOnce a Scene, if Bitter Maliceâ€™s target has a Status Condition, you may have Bitter Maliceâ€™s Damage Base by 12 instead (3d12+10 /30).",
+        "effect":"Legal targets hit by Bitter Malice are Stuck and Trapped until the end of their next turn on a 19+.\\nOnce a Scene, if Bitter Malice's target has a Status Condition, you may double Bitter Malice's Damage Base to 12 instead (3d12+10 /30).",
         "type":"Ghost",
         "category":"Special",
         "damageBase":6,
@@ -9097,7 +9075,7 @@
     },
     {
         "name":"Fusion Flare",
-        "effect":"If Fusion Bolt was used this round or last round by any participant of the encounter, Fusion Flare has its Damage Base increased by +3.",
+        "effect":"If Fusion Bolt was used this round or last round by any participant of the encounter, Fusion Flare has its Damage Base increased by 3.",
         "type":"Fire",
         "category":"Special",
         "damageBase":10,
@@ -9108,7 +9086,7 @@
     },
     {
         "name":"Shelter",
-        "effect":"The user gains +1 CS in Defense and Special Defense, and +2 Evasion.",
+        "effect":"The user gains 1 Combat Stage in Defense and Special Defense, and 2 Evasion.",
         "type":"Steel",
         "category":"Status",
         "damageBase":"",
@@ -9130,7 +9108,7 @@
     },
     {
         "name":"Charm",
-        "effect":"Lower the target’s Attack by -2 CS.",
+        "effect":"Lower the target’s Attack by 2 Combat Stages.",
         "type":"Fairy",
         "category":"Status",
         "damageBase":"--",
@@ -9152,7 +9130,7 @@
     },
     {
         "name":"Clanging Scales",
-        "effect":"The user adds half their Defense Stat to Clanging Scale's Damage Roll. After the Move is resolved, the user's Defense is lowered by 1 CS.",
+        "effect":"The user adds half their Defense Stat to Clanging Scale's Damage Roll. After the Move is resolved, the user's Defense is lowered by 1 Combat Stage.",
         "type":"Dragon",
         "category":"Special",
         "damageBase":11,
@@ -9174,7 +9152,7 @@
     },
     {
         "name":"Minimize",
-        "effect":"The user gains +4 Evasion, and the user's size is lowered to Small for the remainder of the encounter. *Grants Shrinkable",
+        "effect":"The user gains 4 Evasion, and the user's size is lowered to Small for the remainder of the encounter. *Grants Shrinkable",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -9207,7 +9185,7 @@
     },
     {
         "name":"Take Heart",
-        "effect":"The user gains +1 CS in all its stats and cures all of its Status conditions.",
+        "effect":"The user gains 1 Combat Stage in all its stats and cures all of its Status conditions.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"",
@@ -9273,7 +9251,7 @@
     },
     {
         "name":"Focus Blast",
-        "effect":"Focus Blast lowers the target's Special Defense by -1 CS on 18+.",
+        "effect":"Focus Blast lowers the target's Special Defense by 1 Combat Stage on 18+.",
         "type":"Fighting",
         "category":"Special",
         "damageBase":12,
@@ -9361,7 +9339,7 @@
     },
     {
         "name":"Curse",
-        "effect":"If the user is not a Ghost Type, Curse has a Frequency of EOT, and when used the user lowers its Speed by -1 Combat Stage, but raises Attack and Defense by +1 Combat Stage each. If the user is a Ghost Type, Curse has a Frequency of Scene, and when used the user loses 1/3 of their Max Hit Points and a target Pokémon or Trainer within 8 meters of the user becomes Cursed. This Hit Point loss cannot be prevented in any way.",
+        "effect":"If the user is not a Ghost Type, Curse has a Frequency of EOT, and when used the user lowers its Speed by 1 Combat Stage, but raises Attack and Defense by 1 Combat Stage each. If the user is a Ghost Type, Curse has a Frequency of Scene, and when used the user loses 1/3 of their Max Hit Points and a target Pokémon or Trainer within 8 meters of the user becomes Cursed. This Hit Point loss cannot be prevented in any way.",
         "type":"Ghost",
         "category":"Status",
         "damageBase":"--",
@@ -9405,7 +9383,7 @@
     },
     {
         "name":"Take Aim",
-        "effect":"Raise the user’s Accuracy by +1. If the user performs an Weapon Move on their next turn that deals damage, add its Damage Dice Roll an extra time to the damage.",
+        "effect":"Raise the user’s Accuracy by 1. If the user performs an Weapon Move on their next turn that deals damage, add its Damage Dice Roll an extra time to the damage.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -9449,7 +9427,7 @@
     },
     {
         "name":"Coil",
-        "effect":"Raise the user’s Attack and Defense by +1 CS, and the user gains +1 Accuracy.",
+        "effect":"Raise the user’s Attack and Defense by 1 Combat Stage, and the user gains 1 Accuracy.",
         "type":"Poison",
         "category":"Status",
         "damageBase":"--",
@@ -9482,7 +9460,7 @@
     },
     {
         "name":"Skitter Smack",
-        "effect":"The user Shifts up to its Overland Capability, ignoring Attacks of Opportunity, before attacking with Skitter Smack. On a hit, the target's Special Attack is lowered 1 CS.",
+        "effect":"The user Shifts up to its Overland Capability, ignoring Attacks of Opportunity, before attacking with Skitter Smack. On a hit, the target's Special Attack is lowered 1 Combat Stage.",
         "type":"Bug",
         "category":"Physical",
         "damageBase":7,
@@ -9504,7 +9482,7 @@
     },  
     {
         "name":"Lash Out",
-        "effect":"If the user has lost CS from a source other than itself since the end of its last turn, Lash Out is instead DB 15 (4d10 + 20 / 45). Any given foe may be the target of this increased damage only once per Scene.",
+        "effect":"If the user has lost Combat Stages from a source other than itself since the end of its last turn, Lash Out is instead Damage Base 15 (4d10 + 20 / 45). Any given foe may be the target of this increased damage only once per Scene.",
         "type":"Dark",
         "category":"Physical",
         "damageBase":8,
@@ -9537,7 +9515,7 @@
     }, 
     {
         "name":"Scale Shot",
-        "effect":"The user's Speed is raised by 1 CS, and the user's Defense is lowered 1 CS.",
+        "effect":"The user's Speed is raised by 1 Combat Stage, and the user's Defense is lowered by 1 Combat Stage.",
         "type":"Dragon",
         "category":"Physical",
         "damageBase":3,
@@ -9581,7 +9559,7 @@
     }, 
     {
         "name":"Coaching",
-        "effect":"The user and any allies in the Burst have their Attack and Defense raised by 1 CS.",
+        "effect":"The user and any allies in the Burst have their Attack and Defense raised by 1 Combat Stage.",
         "type":"Fighting",
         "category":"Status",
         "damageBase":10,
@@ -9603,7 +9581,7 @@
     },  
     {
         "name":"Burning Jealousy",
-        "effect": "After Burning Jealousy has resolved, the user may choose to Burn foes within 5m that have had any CS raised since the beginning of that foe's last turn. This Effect may trigger only once per Scene.",
+        "effect": "After Burning Jealousy has resolved, the user may choose to Burn foes within 5m that have had any Combat Stages raised since the beginning of that foe's last turn. This Effect may trigger only once per Scene.",
         "type":"Fire",
         "category":"Special",
         "damageBase":7,
@@ -9680,7 +9658,7 @@
     },
     {
         "name":"Triple Axel",
-        "effect": "After attacking with Tripel Axel, hit or miss, the user may Disengage 2m and attack a different target with Triple Axel. This effect may be repeated a second time, targeting a creature that has not been targeted by either prior attack. Before making each attack roll, the user can elect to give up triggering all remaining additional shifts and attacks. Triple Axel gains +1 Accuracy and +1 DB for each attack that is given up. Triple Axel always benefits from the Technician Ability.",
+        "effect": "After attacking with Tripel Axel, hit or miss, the user may Disengage 2m and attack a different target with Triple Axel. This effect may be repeated a second time, targeting a creature that has not been targeted by either prior attack. Before making each attack roll, the user can elect to give up triggering all remaining additional shifts and attacks. Triple Axel gains 1 Accuracy and 1 Damage Base for each attack that is given up. Triple Axel always benefits from the Technician Ability.",
         "type":"Ice",
         "category":"Physical",
         "damageBase":6,
@@ -9757,7 +9735,7 @@
     },  
     {
         "name":"Meteor Beam",
-        "effect": "Set Up Effect: The user's Special Attack is raised by +1 Combat Stage.\nResolution Effect: The user attacks with Meteor Beam.",
+        "effect": "Set Up Effect: The user's Special Attack is raised by 1 Combat Stage.\nResolution Effect: The user attacks with Meteor Beam.",
         "type":"Rock",
         "category":"Special",
         "damageBase":12,
@@ -9790,7 +9768,7 @@
     },   
     {
         "name":"Surging Strikes",
-        "effect": "If Surging Strikes hits, it is a Critical Hit. After attacking with Surging Strikes, hit or miss, the user may Shift 2m, ignoring Attacks of Opportunity from their target. It may then make an additional attack with this Move on a different target. This effect may be repeated a second time, the third attack targeting a creature that has not yet been targeted by either prior attack. Before making each attack roll, the user can elect to give up triggering all remaining additional shifts and attacks. Surging Strikes gains +3 DB for each attack that is given up.",
+        "effect": "If Surging Strikes hits, it is a Critical Hit. After attacking with Surging Strikes, hit or miss, the user may Shift 2m, ignoring Attacks of Opportunity from their target. It may then make an additional attack with this Move on a different target. This effect may be repeated a second time, the third attack targeting a creature that has not yet been targeted by either prior attack. Before making each attack roll, the user can elect to give up triggering all remaining additional shifts and attacks. Increase Surging Strikes' Damage Base by 3 for each attack that is given up.",
         "type":"Water",
         "category":"Physical",
         "damageBase":3,
