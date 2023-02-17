@@ -63,7 +63,7 @@
         "tags":"[Class]"
     },
     {
-        "name":"Reactive Armour",
+        "name":"Reactive Armor",
         "effect":"Trigger: You gain an Injury or take a Critical Hit while wearing metallic Armor\\nEffect: All foes within a Burst 1 lose Hit Points equal to double your Athletics or Focus Rank, and you gain Damage Reduction equal to double your Athletics or Focus Rank for one full round.",
         "prerequisites":"Steelheart, Adept Athletics or Focus",
         "frequency":"Scene x2 – Free Action",
@@ -207,7 +207,7 @@
         "effect":"You gain the Sniper Ability.",
         "prerequisites":"Novice Combat, Novice Perception",
         "frequency":"Static",
-        "tags":"[Class][+Attack][Weapon]"
+        "tags":"[Class] [+Attack] [Weapon]"
     },
     {
         "name":"Critical Moment",
@@ -274,9 +274,9 @@
     },
     {
         "name":"Smart Scheme Rank 1",
-        "effect":"Your Pokémon with at least 3d6 in their Smart Stat from Poffins may activate Smart Scheme as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves. X is the Rank of the chosen Move.\\nRank 1: Fake Tears, Calm Mind",
+        "effect":"Your Pokémon with at least 3d6 in their Smart Stat from Poffins may activate Smart Scheme as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves.\\nRank 1: Fake Tears, Calm Mind",
         "prerequisites":"Style Expert, Smart as Chosen Stat, Novice Guile",
-        "frequency":"X AP – Special",
+        "frequency":"1 AP – Special",
         "tags":"[Ranked 2]"
     },
     {
@@ -424,7 +424,7 @@
         "effect":"You gain two Blessings in the form of Signs, marked Rank 3 or lower. You must additionally meet any Prerequisites of the Blessing.\\nRank 3 Blessings: Blessed Resilience, Insight of the Great Ones",
         "prerequisites":"A Pact Gift, GM Permission\\nOR\\nAll your Patron's Major Gifts, GM Permission (if no Pact Gift)",
         "frequency":"Static",
-        "tags":"[Ranked 4][Patron Stat]"
+        "tags":"[Ranked 4] [Patron Stat]"
     },
     {
         "name":"Speed Stratagem",
@@ -543,7 +543,7 @@
         "effect":"You are always considered to have access to a First Aid Manual and a Combat Medic’s Primer, and are\\n always considered to be Binding their Rank 1 Effects without actually using any AP.",
         "prerequisites":"Novice Medicine Education",
         "frequency":"Static",
-        "tags":"[Class] [9-15 Playtest]"
+        "tags":"[Class]"
     },
     {
         "name":"Press On!",
@@ -578,7 +578,7 @@
         "effect":"Target: Your Soul Bonded Weapon\\nEffect: Choose one Novice and one Expert Arcane Weapon Move. Your Soul Bonded Weapon adds those Moves to your Move List as long as this Feature is Bound. You may only Bind one instance of this Feature at a time, and you may not have multiple instances of the same Move in your Move List.",
         "prerequisites":"Arcanist, Master Occult Education",
         "frequency":"Bind 2 AP – Extended Action",
-        "tags":"[+Special Attack][Weapon]"
+        "tags":"[+Special Attack] [Weapon]"
     },
     {
         "name":"Brightest Flame",
@@ -606,7 +606,7 @@
         "effect":"You gain two Blessings in the form of Signs, marked Rank 2 or lower. You must additionally meet any Prerequisites of the Blessing.\\nRank 2 Blessings: Blessed Power, Luck of the Gods, Soul Mending",
         "prerequisites":"A Major Gift, GM Permission",
         "frequency":"Static",
-        "tags":"[Ranked 4][Patron Stat]"
+        "tags":"[Ranked 4] [Patron Stat]"
     },
     {
         "name":"Cute Cuddle Rank 2",
@@ -620,7 +620,7 @@
         "effect":"Learn two Martial Artist Moves. You may choose any Move marked with the Martial Training Rank you are taking or lower. Moves marked with an Ability require that Ability to be chosen.\\nRank 1 Moves: Acupressure(Limber), Arm Thrust(Technician), Double Kick, Focus Energy, Karate Chop(inner Focus), Low Sweep, Mach Punch(Iron Fist), Rolling Kick(Reckless), Vital Throw(Guts)",
         "prerequisites":"Martial Artist",
         "frequency":"Static",
-        "tags":"[Ranked 3] [Special]"
+        "tags":"[Ranked 3]"
     },
     {
         "name":"Slow or Steady",
@@ -669,7 +669,7 @@
         "effect":"Choose one of the following abilities: Guts [+HP], Inner Focus [+Speed], Iron Fist [+Defense], Limber [+Speed], Reckless [+Attack], Technician [+Speed]. You gain the chosen Ability and its associated tag. Whenever you gain any Martial Artist Feature, you also gain the associated tag.",
         "prerequisites":"Basic Martial Arts, Novice Combat",
         "frequency":"Static",
-        "tags":"[Class] [Special]"
+        "tags":"[Class]"
     },
     {
         "name":"Arcane Training",
@@ -858,7 +858,7 @@
         "effect":"You may learn two Moves from the list below.\\nRank 1 Moves: Aerial Ace, Air Cutter, Gust, Tailwind",
         "prerequisites":"Wind Runner",
         "frequency":"Static",
-        "tags":"[Ranked 3][+Speed]"
+        "tags":"[Ranked 3] [+Speed]"
     },
     {
         "name":"Telepathic Awareness",
@@ -956,7 +956,7 @@
         "effect":"You may also wield weapons and items with your Telekinesis capability, as long as you are able to lift them. This means you may use Items and Melee Weapons that normally require you to be adjacent to your target at a range limited only by your Telekinesis. When wielding Weapons with your Telekinesis, you qualify for Moves using Focus instead of Combat and may add your Special Attack instead of your Attack Stat. The Attacks remain Physical, however.",
         "prerequisites":"Telekinetic, Adept Focus",
         "frequency":"Bind 1 AP – Standard Action",
-        "tags":"[+Special Attack][Weapon]"
+        "tags":"[+Special Attack] [Weapon]"
     },
     {
         "name":"Maelstrom",
@@ -1194,7 +1194,7 @@
         "effect":"You learn 2 Moves chosen from the list below, marked with the Rank of this Feature you are gaining or lower.  Moves marked with an Oath require that Oath to be chosen.\\nRank 2 Moves: Aromatherapy(Flower), Energy Ball, Giga Drain(Fungal), Magical Leaf, Seed Bomb, Spiky Shield(Wood)",
         "prerequisites":"Adept Survival or General Education",
         "frequency":"Static",
-        "tags":"[Special] [Ranked 3]"
+        "tags":"[Ranked 3]"
     },
     {
         "name":"Top Tier Berries",
@@ -1242,8 +1242,8 @@
         "name":"Nurse",
         "effect":"Trigger: You take an Extended Rest\\nEffect: During this Extended Rest, Pokémon and Trainers in your care gain the benefits listed below. The AP Drain cost from triggering this Feature is applied after the Extended Rest is completed and AP Drain has otherwise been restored.\\n»» They heal 1/8th of their Max Hit Points per half hour of rest instead of 1/16th (does not stack with Bandages).\\n»» If the Extended Rest lasts at least 6 hours, they may remove 1 Injury.",
         "prerequisites":"Expert Medicine Education",
-        "frequency":"Drain 2 AP – Free Action",
-        "tags":"[9-15 Playtest]"
+        "frequency":"Drain 2 AP – Extended Action",
+        "tags":"-"
     },
     {
         "name":"Attack Training",
@@ -1472,7 +1472,7 @@
     {
         "name":"Proper Care",
         "effect":"You gain additional bonuses to using Restoratives and Features while in a Field Clinic, Poke Center, Hospital, or other dedicated healing space that lets you access supplies.\\n»» When you trigger First Aid Expertise here, the injury that is Removed does not count towards the total number of Injuries that may be removed each day.\\n»» When you trigger Nurse here, Bandages cure 1 Injury after three hours, in addition the injury healed after 6 hours.\\n»» All Restoratives heal an additional 5 Hit Points. This stacks with the bonus granted by Field Clinic.",
-        "prerequisites":"I'm a Doctor, Field Clinic, Expert Medicine Education",
+        "prerequisites":"I'm a Doctor Rank 1, Field Clinic, Expert Medicine Education",
         "frequency":"Static",
         "tags":"-"
     },
@@ -1481,7 +1481,7 @@
         "effect":"Target: Your Pokémon\\nEffect: While this Feature is Bound, increase the damage rolls of the target’s damaging melee attacks by +8, and these attacks Trip targets on Accuracy Rolls of 18+. When the target of Reckless Advance hits with a damaging melee attack, they become Vulnerable for one full round.",
         "prerequisites":"Ravager Orders",
         "frequency":"Bind 2 AP – Standard Action",
-        "tags":"[Orders][Stratagem]"
+        "tags":"[Orders] [Stratagem]"
     },
     {
         "name":"Cavalier's Reprisal",
@@ -1509,7 +1509,7 @@
         "effect":"Trigger: An Ally is hit by an attack\\nEffect: You must be able to Shift to your target to use this Feature. If you can, you immediately do so, and may apply a Potion, Super Potion, Hyper Potion, Energy Powder, or Energy Root. Though damage, injuries, and all other effects of the triggering attack are finalized before this Feature is applied, do not determine if the target has been Fainted, Killed, or gained Injuries from Hit Point Markers until after the effects of the action chosen through use of this Feature has been resolved.",
         "prerequisites":"Front Line Healer, Master Medicine Education",
         "frequency":"Daily x3 – Full Action, Reaction",
-        "tags":"[9-15 Playtest]"
+        "tags":"-"
     },
     {
         "name":"Cruel Gaze",
@@ -1565,7 +1565,7 @@
         "effect":"Learn two Martial Artist Moves. You may choose any Move marked with the Martial Training Rank you are taking or lower. Moves marked with an Ability require that Ability to be chosen.\\nRank 3 Moves: Cross Chop(Inner Focus), Close Combat, Triple Kick(Technician), High Jump Kick(Reckless), Sky Uppercut(Iron Fist), Storm Throw(Guts)",
         "prerequisites":"Martial Artist, Master Combat",
         "frequency":"Static",
-        "tags":"[Ranked 3] [Special]"
+        "tags":"[Ranked 3]"
     },
     {
         "name":"Defense Maneuver",
@@ -1810,7 +1810,7 @@
         "effect":"You gain the Pickup Ability.",
         "prerequisites":"Mystic Senses, Novice Perception",
         "frequency":"Static",
-        "tags":"[Class][+Special Defense]"
+        "tags":"[Class] [+Special Defense]"
     },
     {
         "name":"Action Hero Stunt",
@@ -1824,7 +1824,7 @@
         "effect":"You may create Fine Weapons for $2,000, Helmets for $1,125, Heavy Shields for $2,250 and Heavy Armor for $5,000.",
         "prerequisites":"Adept Focus, Adept Athletics",
         "frequency":"Static",
-        "tags":"[Ranked 2][+Attack]"
+        "tags":"[Ranked 2] [+Attack]"
     },
     {
         "name":"Special Attack Ace",
@@ -1934,7 +1934,7 @@
     {
         "name":"Observation Party",
         "effect":"While they are in a Location in your Travel Archive, your Pokémon have the Ability you chose when gaining Travel Archive and gain a +2 bonus to Perception Checks to notice the environment.",
-        "prerequisites":"Travel Album, Adept Perception",
+        "prerequisites":"Travel Archive, Adept Perception",
         "frequency":"Static",
         "tags":"-"
     },
@@ -2118,7 +2118,7 @@
         "effect":"Learn two Martial Artist Moves. You may choose any Move marked with the Martial Training Rank you are taking or lower. Moves marked with an Ability require that Ability to be chosen.\\nRank 2 Moves: Brick Break, Circle Throw(Guts), Comet Punch(Iron Fist), Counter(Limber), Low Kick(Inner Focus), Jump Kick(Reckless), Power Trick(Limber), Quick Guard(Technician)",
         "prerequisites":"Martial Artist, Expert Combat",
         "frequency":"Static",
-        "tags":"[Ranked 3] [Special]"
+        "tags":"[Ranked 3]"
     },
     {
         "name":"Hero's Journey Rank 2",
@@ -2227,7 +2227,7 @@
     },
     {
         "name":"Natural Fighter",
-        "effect":"You and your Pokémon become adept at using the environment to your advantage in battle. You or your Pokémon may activate Natural Fighter as a Standard Action to use the Move below corresponding to the current terrain. You and your Pokémon must still follow all Frequency limitations for the Move.\\n»» Grassland: Cotton Spore\\n»» Forest: Grass Whistle\\n»» Wetlands: Mud Slap\\n»» Ocean: Aqua Ring\\n»» Tundra: Haze\\n»» Mountain: Smack Down\\n»» Cave: Astonish\\n»» Urban: Fling\\n»» Desert: Sand Attack\\nMay Playtest Errata: Urban terrains allow you and your Pokémon to use the Move Spikes instead of Fling.",
+        "effect":"You and your Pokémon become adept at using the environment to your advantage in battle. You or your Pokémon may activate Natural Fighter as a Standard Action to use the Move below corresponding to the current terrain. You and your Pokémon must still follow all Frequency limitations for the Move.\\n»» Grassland: Cotton Spore\\n»» Forest: Grass Whistle\\n»» Wetlands: Mud Slap\\n»» Ocean: Aqua Ring\\n»» Tundra: Haze\\n»» Mountain: Smack Down\\n»» Cave: Astonish\\n»» Urban: Spikes\\n»» Desert: Sand Attack.",
         "prerequisites":"Survivalist",
         "frequency":"1 AP – Special",
         "tags":"[+HP]"
@@ -2548,13 +2548,6 @@
         "tags":"[+Attack or Special Attack] [Ranked 2]"
     },
     {
-        "name":"Moment of Action",
-        "effect":"Target: Up to two Allied Trainers\\nEffect: Each target gains 1 Temporary Action Point. These Action Points disappear after one full Round.",
-        "prerequisites": "Cheerleader",
-        "frequency":"At-Will – Standard Action",
-        "tags":"[Orders]"
-    },
-    {
         "name":"Ramming Speed",
         "effect":"Target: Your Pokémon with at least 2 Tutor Points\\nEffect: The target loses 2 Tutor Points and gains the Rock Head Ability.",
         "prerequisites":"Rider",
@@ -2594,7 +2587,7 @@
         "effect":"Target: Your Pokémon\\nEffect: Increase the Accuracy and Effect Range of the target’s damaging attacks by +2. These attacks deal 5 less damage, before applying weakness and resistance.",
         "prerequisites":"Precision Orders",
         "frequency":"Bind 2 AP – Standard Action",
-        "tags":"[Orders][Stratagem]"
+        "tags":"[Orders] [Stratagem]"
     },
     {
         "name":"Shocking Speed",
@@ -2657,7 +2650,7 @@
         "effect":"Select a Rank 1 Power Manipulation. This Manipulation may be used twice per Scene without spending AP to activate.",
         "prerequisites":"Metamagic",
         "frequency":"Static",
-        "tags":"[Ranked 2][+Special Attack]"
+        "tags":"[Ranked 2] [+Special Attack]"
     },
     {
         "name":"Enticing Beauty",
@@ -2706,14 +2699,14 @@
         "effect":"Choose two Researcher Fields of Study. You may take Features from those Fields with this instance of Researcher. Gain one Feature from a chosen Researcher Field for which you qualify. Note: Researcher is broken up into multiple Fields of Study. You may not take Features from a Field of Study you haven’t chosen with the base Researcher Feature. You may take Researcher any number of times, each time choosing two different Fields of Study.",
         "prerequisites":"An Education Skill at Novice Rank",
         "frequency":"Static",
-        "tags":"[Class][Branch]"
+        "tags":"[Class] [Branch]"
     },
     {
         "name":"Sign Mastery Rank 1",
         "effect":"You acquire two Rank 1 Blessings in the form of Signs.\\nRank 1 Blessings: Ancient Wisdom, Blessed Strike, Paragon, Spirit Mending",
         "prerequisites":"Signer, GM Permission",
         "frequency":"Static",
-        "tags":"[Ranked 4][Patron Stat]"
+        "tags":"[Ranked 4] [Patron Stat]"
     },
     {
         "name":"Type Sync",
@@ -2769,7 +2762,7 @@
         "effect":"Trigger: You hit a foe with an Attack\\nEffect: The foe loses a Combat Stage in the Stat of your choice.",
         "prerequisites":"Novice Athletics, Intimidating Presence",
         "frequency":"1 AP – Swift Action",
-        "tags":"[Class][+Defense]"
+        "tags":"[Class] [+Defense]"
     },
     {
         "name":"Gift of Command",
@@ -2818,7 +2811,7 @@
         "effect":"You may learn two Moves from the list below.\\nRank 1 Moves: Charge Beam, Eerie Impulse, Shock Wave, Spark",
         "prerequisites":"Spark Master",
         "frequency":"Static",
-        "tags":"[+Speed]"
+        "tags":"[+Speed] [Ranked 3]"
     },
     {
         "name":"Fabulous Max",
@@ -2870,11 +2863,11 @@
         "tags":"[+Attack or Special Attack]"
     },
     {
-        "name":"Medical Techniques [Medic]",
+        "name":"Medical Techniques",
         "effect":"Trigger: You apply a Restorative Item\\nEffect: The target of the triggering action gains a Tick of Hit Points, plus an additional amount of Hit Points equal to your Medicine Education Rank.",
         "prerequisites":"Medic, Adept Medicine Education",
         "frequency":"1 AP – Free Action",
-        "tags":"[9-15 Playtest]"
+        "tags":"-"
     },
     {
         "name":"Speed Training",
@@ -3000,14 +2993,14 @@
         "effect":"Create a Line X, and place a Blast 3 with at least three meters overlapping the Line’s area. X is equal to your Weapon’s Range. For one full round, if a foe moves in or out of that area, you may make a Ranged Weapon attack, Frequency allowing, against that foe as a Free Action. You may not attack a specific foe more than once per round this way. While this is in effect, if you Move from your current location, Overwatch’s effect is lost.",
         "prerequisites":"Marksman, Adept Perception or Combat",
         "frequency":"At-Will – Standard Action",
-        "tags":"[+Attack][Weapon]"
+        "tags":"[+Attack] [Weapon]"
     },
     {
         "name":"Overgrowth",
         "effect":"Trigger: You hit with a Druid Move\\nEffect: One target of the triggering Move is afflicted with Overgrowth. As long as the target is afflicted, they are one step less Resistant to Grass-Type attacks, to a maximum of neutral damage, and they cannot recover Hit Points or gain Temporary Hit Points. Whenever they would do so, you gain those Hit Points or Temporary Hit Points instead. Overgrowth is removed when the target Takes a Breather or is hit by a damaging Fire, Ice, Poison, Flying, or Bug-Type attack. Overgrowth may only affect a target once per Scene.",
         "prerequisites":"Nature's Embrace Rank 3",
         "frequency":"2 AP – Swift Action",
-        "tags":"[Special]"
+        "tags":"-"
     },
     {
         "name":"Giftsapper",
@@ -3042,7 +3035,7 @@
         "effect":"You gain access to your Legendary Form’s Abilities while in your Avatar form.",
         "prerequisites":"Pokemon Form Level 20",
         "frequency":"Static",
-        "tags":"[Ranked 3][Patron Stat]"
+        "tags":"[Ranked 3] [Patron Stat]"
     },
     {
         "name":"Blazing Inferno",
@@ -3109,10 +3102,10 @@
     },
     {
         "name":"Provocateur",
-        "effect":"Static Effect: You learn the Moves Sweet Kiss and Taunt.\\nNote: Provocateur Skills are Charm, Guile, and Intimidate.",
+        "effect":"Effect: You learn the Moves Sweet Kiss and Taunt.\\nNote: Provocateur Skills are Charm, Guile, and Intimidate.",
         "prerequisites":"One of Confidence Artist, Intimidating Presence, or Charmer",
-        "frequency":"",
-        "tags":"[Class][+Speed]"
+        "frequency":"Static",
+        "tags":"[Class] [+Speed]"
     },
     {
         "name":"Effective Methods",
@@ -3129,7 +3122,7 @@
         "tags":"-"
     },
     {
-        "name":"Moment of Action [Playtest]",
+        "name":"Moment of Action",
         "effect":"Target: Up to two Allied Trainers\\nEffect: Each target gains 1 Temporary Action Point.\\n These Action Points disappear after one full Round.",
         "prerequisites":"Cheerleader",
         "frequency":"At-Will – Standard Action",
@@ -3441,7 +3434,7 @@
         "effect":"Your Pokémon gain +2d6 to your chosen Contest Stat. These dice are counted as if coming from Poffins.\\n\\nNote: When you take Style Expert, choose from Beauty, Cool, Cute, Smart, or Tough. This becomes your Chosen Contest Stat. You may take Style Expert multiple times, each time choosing a different Contest Stat",
         "prerequisites":"3 Pokémon with 3d6 in a specific certain Contest Stat from Poffins\\nOr\\nCoordinator, 1 Pokemon with 3d6 in a specific certain Constat Stat from Poffins",
         "frequency":"Static",
-        "tags":"[Class][Branch]"
+        "tags":"[Class] [Branch]"
     },
     {
         "name":"Arcane Favor",
@@ -3518,7 +3511,7 @@
         "effect":"You gain a Martial Achievement based on your chosen Ability.\\n»» Guts: Wrestlemania\\n»» Inner Focus: Heightened Intensity\\n»» Iron Fist: Pummeling Momentum\\n»» Limber: Bend Like the Willow\\n»» Reckless: Soft Landing\\n»» Technician: Whirlwind Strikes",
         "prerequisites":"Martial Artist",
         "frequency":"Static",
-        "tags":"[Special]"
+        "tags":"[-]"
     },
     {
         "name":"Ground Out",
@@ -4001,7 +3994,7 @@
         "effect":"You learn 2 Moves chosen from the list below, marked with the Rank of this Feature you are gaining or lower.  Moves marked with an Oath require that Oath to be chosen.\\nRank 3 Moves: Leech Seed, Petal Blizzard(Wood), Petal Dance(Flower), Power Whip, Solar Beam, Spore(Fungal)",
         "prerequisites":"Expert Survival or General Education",
         "frequency":"Static",
-        "tags":"[Special] [Ranked 3]"
+        "tags":"[Ranked 3]"
     },
     {
         "name":"Clear Shot",
@@ -4015,7 +4008,7 @@
         "effect":"You may learn two Moves from the list below, marked with the Storm Wizard Rank you are gaining or lower.\\nRank 3 Moves: Discharge, Thunder, Thunder Wave, Volt Tackle",
         "prerequisites":"Master Acrobatics or Focus",
         "frequency":"Static",
-        "tags":"[+Speed]"
+        "tags":"[+Speed] [Ranked 3]"
     },
     {
         "name":"Apparition",
@@ -4036,7 +4029,7 @@
         "effect":"Trigger: A foe provokes an Attack of Opportunity\\nEffect: You may use Rock Smash instead of an unarmed Struggle Attack. If you do, Rock Smash’s Effect Range is increased by +2.",
         "prerequisites":"Martial Training Rank 1",
         "frequency":"At-Will – Free Action",
-        "tags":"[Special]"
+        "tags":"-"
     },
     {
         "name":"Complex Aftertaste",
@@ -4295,7 +4288,7 @@
         "effect":"You gain two Blessings in the form of Signs, marked Rank 3 or lower. You must additionally meet any Prerequisites of the Blessing.\\nRank 3 Blessings: Blessed Resilience, Insight of the Great Ones",
         "prerequisites":"All your Patron’s Major Gifts, GM Permission",
         "frequency":"Static",
-        "tags":"[Ranked 4][Patron Stat]"
+        "tags":"[Ranked 4] [Patron Stat]"
     },
     {
         "name":"Seed Bag Rank 2",
@@ -4309,7 +4302,7 @@
         "effect":"You may learn two Moves from the list below, marked with the Storm Wizard Rank you are gaining or lower.\\nRank 2 Moves: Charge, Thunder Punch, Thunderbolt",
         "prerequisites":"Expert Acrobatics or Focus",
         "frequency":"Static",
-        "tags":"[+Speed]"
+        "tags":"[+Speed] [Ranked 3]"
     },
     {
         "name":"Cacophony",
@@ -4393,7 +4386,7 @@
         "effect":"You may craft an Antidote, Smoke Ball, Caltrops, or Toxic Caltrops for $100.",
         "prerequisites":"Ninja",
         "frequency":"At-Will – Extended Action",
-        "tags":"-"
+        "tags":"[+Speed]"
     },
     {
         "name":"Flourish",
@@ -4617,14 +4610,14 @@
         "effect":"Trigger: You attempt to use a Grapple, Push, Trip, or Disarm Combat Maneuver but fail the Opposed Roll\\nEffect: You may immediately use Rock Smash or a Struggle Attack against your target as a Free Action.",
         "prerequisites":"Martial Training Rank 1, Expert Combat",
         "frequency":"At-Will – Free Action",
-        "tags":"[Special]"
+        "tags":"-"
     },
     {
         "name":"Nature's Embrace Rank 1",
         "effect":"You learn 2 Moves chosen from the list below.  Moves marked with an Oath require that Oath to be chosen.\\nRank 1 Moves: Cotton Spore, Ingrain(Wood), Mega Drain, Razor Leaf, Stun Spore(Fungal), Sweet Scent(Flower)",
         "prerequisites":"Druid",
         "frequency":"Static",
-        "tags":"[Special] [Ranked 3]"
+        "tags":"[Ranked 3]"
     },
     {
         "name":"Tip the Scales",
