@@ -1826,7 +1826,7 @@
     },
     {
         "name":"Baton Pass",
-        "effect":"The user is replaced with another Pokémon from their trainer’s roster. All Combat Stage, Coats, and [Stratagems] on Baton Pass’ user are transferred to the replacement. Baton Pass may be used to switch even if the user is Trapped.",
+        "effect":"The user is replaced with another Pokémon from their trainer’s roster. All Combat Stage, Coats, and [Stratagems] on Baton Pass’ user are transferred to the replacement. Baton Pass may be used to switch even if the user is Trapped. [Stratagems] that transfer to an ineligible target immediately become unbound",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -2372,7 +2372,7 @@
         "frequency":"Scene x2",
         "ac":2,
         "range":"6, 1 Target, Priority",
-        "contestType":"--"
+        "contestType":"Cool - Special Attention"
     },
     {
         "name":"Covet",
@@ -2398,7 +2398,7 @@
     },
     {
         "name":"Avalanche",
-        "effect":"When declaring Avalanche, the user does nothing and may not Shift. At the end of the round, the user may Shift and use Avalanche. If the target damaged the user this round, Avalanche has a Damage Base of 12 (4d10+15 / 40).",
+        "effect":"When declaring Avalanche, the user does nothing and may not Shift. At the end of the round, the user may Shift and use Avalanche on any legal target. If the target damaged the user this round, Avalanche has a Damage Base of 12 (4d10+15 / 40).",
         "type":"Ice",
         "category":"Physical",
         "damageBase":6,
@@ -3637,7 +3637,7 @@
         "frequency":"Scene",
         "ac":"--",
         "range":"Self, Interrupt, Shield, Trigger",
-        "contestType":"--"
+        "contestType":"Smart - Inversed Appeal"
     },
     {
         "name":"Sand Tomb",
@@ -4972,7 +4972,7 @@
     },
     {
         "name":"Autotomize",
-        "effect":"For the remainder of the Encounter, the user’s Weight Class is one value lower, to a minimum of 1. If the user can, the user’s Speed is raised by 2 Combat Stages.",
+        "effect":"For the remainder of the Encounter, the user’s Weight Class is one value lower, to a minimum of 1. If the user was able to reduce their Weight Class, the user’s Speed is raised by 2 Combat Stages.",
         "type":"Steel",
         "category":"Status",
         "damageBase":"--",
@@ -5192,7 +5192,7 @@
     },
     {
         "name":"Attack of Opportunity",
-        "effect":"You may make a Struggle Attack against the triggering foe as an Interrupt. You may use Attack of Opportunity only once per round. Attacks of Opportunity cannot be made by Sleeping, Flinched, or Paralyzed targets. Attacks of Opportunity can be triggered in multiple ways:\\n»» An adjacent foe uses a Push, Grapple, Disarm, Trip, or Dirty Trick Maneuver that does not target you.\\n»» An adjacent foe stands up.\\n»» An adjacent foe uses a Ranged Attack that does not target someone adjacent to it.\\n»» An adjacent foe uses a Standard Action to pick up or retrieve an item.\\n»» An adjacent foe Shifts out of a Square adjacent to you.",
+        "effect":"You may make a Struggle Attack against the triggering foe as an Interrupt. You may use Attack of Opportunity only once per round. Attacks of Opportunity cannot be made by Sleeping, Flinched, or Paralyzed targets. Attacks of Opportunity can be triggered in multiple ways: \\n»» An adjacent foe uses a Push, Grapple, Disarm, Trip, or Dirty Trick Maneuver that does not target you. \\n»» An adjacent foe stands up. \\n»» An adjacent foe uses a Ranged Attack that does not target someone adjacent to it. \\n»» An adjacent foe uses a Standard Action to pick up or retrieve an item. \\n»» An adjacent foe Shifts out of a Square adjacent to you.",
         "type":"",
         "category":"--",
         "damageBase":"",
@@ -5412,14 +5412,14 @@
     },
     {
         "name":"Aurora Veil",
-        "effect":"Blessing - Any user affected by Aurora Veil may activate it when receiving Damage to resist the Damage one step. Aurora Veil may be activated 2 times, and then disappears. Special - Auora Veil can only be used when the user is in Hailing Weather. The Blessings persist even after Hailing Weather has ended, however.",
+        "effect":"Blessing - Any user affected by Aurora Veil may activate it when receiving Damage to resist the Damage one step. Aurora Veil may be activated 2 times, and then disappears. \\nSpecial - Auora Veil can only be used when the user is in Hailing Weather. The Blessings persist even after Hailing Weather has ended, however.",
         "type":"Ice",
         "category":"Status",
         "damageBase":"--",
         "frequency":"Scene",
         "ac":"--",
         "range":"Blessing",
-        "contestType":"--"
+        "contestType":"Beauty - Excitement"
     },
     {
         "name":"Dragon Ascent",
@@ -6270,13 +6270,13 @@
     },
     {
         "name":"Bestow",
-        "effect":"The user gives its held item to the target, unless the target is already holding an item. Using Bestow is a Swift Action.",
+        "effect":"The user gives its held item to the target, unless the target is already holding an item.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
         "frequency":"At-Will",
         "ac":"--",
-        "range":"Melee, 1 Target",
+        "range":"Melee, 1 Target, Swift Action  ",
         "contestType":"Cute - Attention Grabber"
     },
     {
@@ -7601,7 +7601,7 @@
     },
     {
         "name":"Bide",
-        "effect":"The user may use Bide as a Reaction Move upon being Hit by a Damaging Move. During their next available turn, the user may Shift and then use Bide, causing all Adjacent foes to lose X HP, where X is the amount of Damage taken since declaring use of Bide (Loss of life through effect such as Poison is not ‘Damage’).",
+        "effect":"The user may use Bide as a Reaction Move upon being Hit by a Damaging Move, using up their next Standard Action as Normal. During the next turn where they have an available Standard Action, the user may Shift and then use Bide, causing all Adjacent foes to lose X HP, where X is the amount of Damage taken since declaring use of Bide (Loss of life through effects such as Poison is not 'Damage'). Until Bide is released, the user may not voluntarily trigger any other effects that would use a Standard Action or prevent a Standard Action from being used.",
         "type":"Normal",
         "category":"Physical",
         "damageBase":"See Effect",
