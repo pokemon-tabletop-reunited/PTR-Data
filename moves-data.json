@@ -1,7 +1,7 @@
 [
     {
         "name":"Play Rough",
-        "effect":"Play Rough lowers the target’s Attack by 1 Combat Stage on 17+.",
+        "effect":"Play Rough lowers the target's Attack by 1 Combat Stage on 17+.",
         "type":"Fairy",
         "category":"Physical",
         "damageBase":9,
@@ -89,7 +89,7 @@
     },
     {
         "name":"Stuff Cheeks",
-        "effect":"The user immediately consumes one of its Food Buffs, regardless of any conditions that need to be met, gaining its benefit if applicable. If a Buff is consumed, the user’s Defense Combat Stage is raised by 2.",
+        "effect":"The user immediately consumes one of its Food Buffs, regardless of any conditions that need to be met, gaining its benefit if applicable. If a Buff is consumed, the user's Defense Combat Stage is raised by 2.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -100,7 +100,7 @@
     },
     {
         "name":"Stockpile",
-        "effect":"The user adds 1 to their Stockpiled count to a maximum of 3. For each number a Stockpiled count is above 0, raise the user’s Defense and Special Defense by 1 Combat Stage each. If a Stockpiled count is set to 0, any Combat Stages gained from the Stockpiled count are removed.",
+        "effect":"The user adds 1 to their Stockpiled count to a maximum of 3. For each number a Stockpiled count is above 0, raise the user's Defense and Special Defense by 1 Combat Stage each. If a Stockpiled count is set to 0, any Combat Stages gained from the Stockpiled count are removed.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -133,7 +133,7 @@
     },
     {
         "name":"Aura Wheel",
-        "effect":"The user’s Speed is increased 1 Combat Stage. \\nSpecial - If the user is in Hangry Mode, Aura Wheel is Dark-Typed.",
+        "effect":"The user's Speed is increased 1 Combat Stage. \\nSpecial - If the user is in Hangry Mode, Aura Wheel is Dark-Typed.",
         "type":"Electric",
         "category":"Physical",
         "damageBase":11,
@@ -155,7 +155,7 @@
     },
     {
         "name":"Hidden Power",
-        "effect":"When a Pokémon first obtains the Move Hidden Power, roll 1d20. Hidden Power’s Elemental Type will be changed from Normal to Bug on a result of 1; Dark on 2; Dragon on 3; Electric on 4; Fairy on 5; Fighting on 6; Fire on 7; Flying on 8; Ghost on 9; Grass on 10; Ground on 11; Ice on 12; Normal on 13; Poison on 14; Psychic on 15; Rock on 16; Steel on 17; Water on 18; and on 19 or 20, reroll until you roll another number. This effect is permanent - if Hidden Power is forgotten and relearned, the chosen Type remains the same.",
+        "effect":"When a Pokémon first obtains the Move Hidden Power, roll 1d20. Hidden Power's Elemental Type will be changed from Normal to Bug on a result of 1; Dark on 2; Dragon on 3; Electric on 4; Fairy on 5; Fighting on 6; Fire on 7; Flying on 8; Ghost on 9; Grass on 10; Ground on 11; Ice on 12; Normal on 13; Poison on 14; Psychic on 15; Rock on 16; Steel on 17; Water on 18; and on 19 or 20, reroll until you roll another number. This effect is permanent - if Hidden Power is forgotten and relearned, the chosen Type remains the same.",
         "type":"Normal",
         "category":"Special",
         "damageBase":6,
@@ -166,7 +166,7 @@
     },
     {
         "name":"Obstruct",
-        "effect":"If the user is hit by a Move, the user may use Obstruct. The user is instead not hit by the Move. You do not take any damage nor are you affected by any of the Move’s effect. In addition, if the triggering attack was Melee ranged, the attacker’s Defense is lowered by 2 Combat Stages.",
+        "effect":"If the user is hit by a Move, the user may use Obstruct. The user is instead not hit by the Move. You do not take any damage nor are you affected by any of the Move's effect. In addition, if the triggering attack was Melee ranged, the attacker's Defense is lowered by 2 Combat Stages.",
         "type":"Dark",
         "category":"Status",
         "damageBase":"--",
@@ -221,7 +221,7 @@
     },
     {
         "name":"Heal Pulse",
-        "effect":"Restores 50% of the target’s max Hit Points. Heal Pulse’s user may not target itself with Heal Pulse.",
+        "effect":"Restores 50% of the target's max Hit Points. Heal Pulse's user may not target itself with Heal Pulse.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
@@ -309,7 +309,7 @@
     },
     {
         "name":"Assist",
-        "effect":"Randomly select another Pokémon on the user’s roster and then randomly select a Move that Pokémon knows. Assist’s user uses that Move immediately.",
+        "effect":"Randomly select another Pokémon on the user's roster and then randomly select a Move that Pokémon knows. Assist's user uses that Move immediately.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -353,7 +353,7 @@
     },
     {
         "name":"Play Nice",
-        "effect":"Play Nice lowers the target’s Attack by 1 Combat Stage.",
+        "effect":"Play Nice lowers the target's Attack by 1 Combat Stage.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -452,7 +452,7 @@
     },
     {
         "name":"Grav Apple",
-        "effect":"The target’s Defense is lowered by 1 Combat Stage.",
+        "effect":"The target's Defense is lowered by 1 Combat Stage.",
         "type":"Grass",
         "category":"Physical",
         "damageBase":8,
@@ -485,7 +485,7 @@
     },
     {
         "name":"Swallow",
-        "effect":"If the user’s Stockpiled count is 1, they are healed 25% of their full Hit Point value; if their Stockpiled count is 2, they are healed half of their full Hit Point value; if their Stockpiled count is 3, they are healed back to full Hit Points. After using Swallow, the user’s Stockpiled count is set to 0. If the user has no Stockpiled count, Swallow does nothing.",
+        "effect":"If the user's Stockpiled count is 1, they are healed 25% of their full Hit Point value; if their Stockpiled count is 2, they are healed half of their full Hit Point value; if their Stockpiled count is 3, they are healed back to full Hit Points. After using Swallow, the user's Stockpiled count is set to 0. If the user has no Stockpiled count, Swallow does nothing.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -540,7 +540,7 @@
     },
     {
         "name":"Perish Song",
-        "effect":"Perish Song cannot miss. All targets, including the user, receive a Perish Count of 3. At the beginning of each of the target’s turns, their Perish count is lowered by 1. Once a Perish Count reaches 0, set the Pokémon’s Hit Points to 0. A Perish Count disappears if a target returns to their Poké Ball, Takes a Breather, or is knocked out. Perish Song never causes Massive Damage.",
+        "effect":"Perish Song cannot miss. All targets, including the user, receive a Perish Count of 3. At the beginning of each of the target's turns, their Perish count is lowered by 1. Once a Perish Count reaches 0, set the Pokémon's Hit Points to 0. A Perish Count disappears if a target returns to their Poké Ball, Takes a Breather, or is knocked out. Perish Song never causes Massive Damage.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -716,7 +716,7 @@
     },
     {
         "name":"Work Up",
-        "effect":"Raise the user’s Attack and Special Attack by 1 Combat Stage each.",
+        "effect":"Raise the user's Attack and Special Attack by 1 Combat Stage each.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -760,7 +760,7 @@
     },
     {
         "name":"Worry Seed",
-        "effect":"You choose one of the target’s Abilities. Worry Seed changes that Ability to Insomnia for the remainder of the encounter.",
+        "effect":"You choose one of the target's Abilities. Worry Seed changes that Ability to Insomnia for the remainder of the encounter.",
         "type":"Grass",
         "category":"Status",
         "damageBase":"--",
@@ -804,7 +804,7 @@
     },
     {
         "name":"Shadow Bone",
-        "effect":"Lower the target's Defense by 1 Combat Stage on a 17+. Counts as a Bone Move for Cubone/Marowak’s Abilities, etc.",
+        "effect":"Lower the target's Defense by 1 Combat Stage on a 17+. Counts as a Bone Move for Cubone/Marowak's Abilities, etc.",
         "type":"Ghost",
         "category":"Physical",
         "damageBase":9,
@@ -1101,7 +1101,7 @@
     },
     {
         "name":"Stored Power",
-        "effect":"For every Combat Stage the user has above 0, add 2 to Stored Power’s Damage Base, up to a maximum of Damage Base 20.",
+        "effect":"For every Combat Stage the user has above 0, add 2 to Stored Power's Damage Base, up to a maximum of Damage Base 20.",
         "type":"Psychic",
         "category":"Special",
         "damageBase":2,
@@ -1145,7 +1145,7 @@
     },
     {
         "name":"Bulk Up",
-        "effect":"Raise the user’s Attack and Defense by 1 Combat Stage each.",
+        "effect":"Raise the user's Attack and Defense by 1 Combat Stage each.",
         "type":"Fighting",
         "category":"Status",
         "damageBase":"--",
@@ -1189,7 +1189,7 @@
     },
     {
         "name":"Acupressure",
-        "effect":"Roll 1d6. On a result of 1, raise the target’s Attack by 2 Combat Stages. On a result of 2, raise the target’s Defense by 2 Combat Stages. On a result of 3, raise the target’s Special Attack by 2 Combat Stages. On a result of 4, raise the target’s Special Defense by 2 Combat Stages. On a result of 5, raise the target’s Speed by 2 Combat Stages. On a result of 6, raise the target’s Accuracy by 2.",
+        "effect":"Roll 1d6. On a result of 1, raise the target's Attack by 2 Combat Stages. On a result of 2, raise the target's Defense by 2 Combat Stages. On a result of 3, raise the target's Special Attack by 2 Combat Stages. On a result of 4, raise the target's Special Defense by 2 Combat Stages. On a result of 5, raise the target's Speed by 2 Combat Stages. On a result of 6, raise the target's Accuracy by 2.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -1233,7 +1233,7 @@
     },
     {
         "name":"Tail Glow",
-        "effect":"Raise the user’s Special Attack by 3 Combat Stages. *Grants Glow",
+        "effect":"Raise the user's Special Attack by 3 Combat Stages. *Grants Glow",
         "type":"Bug",
         "category":"Status",
         "damageBase":"--",
@@ -1255,7 +1255,7 @@
     },
     {
         "name":"Muddy Water",
-        "effect":"As a Shift Action, the user may Move to any open square in Muddy Water’s area of effect without provoking any Attacks of Opportunity. On 16+, the Accuracy of all targets is lowered by 1.",
+        "effect":"As a Shift Action, the user may Move to any open square in Muddy Water's area of effect without provoking any Attacks of Opportunity. On 16+, the Accuracy of all targets is lowered by 1.",
         "type":"Water",
         "category":"Special",
         "damageBase":9,
@@ -1266,7 +1266,7 @@
     },
     {
         "name":"Amnesia",
-        "effect":"Raise the user’s Special Defense 2 Combat Stages.",
+        "effect":"Raise the user's Special Defense 2 Combat Stages.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
@@ -1310,7 +1310,7 @@
     },
     {
         "name":"Drum Beating",
-        "effect":"The target’s Speed is lowered by 1 Combat Stage.",
+        "effect":"The target's Speed is lowered by 1 Combat Stage.",
         "type":"Grass",
         "category":"Physical",
         "damageBase":8,
@@ -1442,7 +1442,7 @@
     },
     {
         "name":"Energy Ball",
-        "effect":"Energy Ball lowers the foe’s Special Defense 1 Combat Stage on 17+.",
+        "effect":"Energy Ball lowers the foe's Special Defense 1 Combat Stage on 17+.",
         "type":"Grass",
         "category":"Special",
         "damageBase":9,
@@ -1453,7 +1453,7 @@
     },
     {
         "name":"Odor Sleuth",
-        "effect":"Odor Sleuth may be activated as a Swift Action on the user’s turn. For the rest of the turn, the user’s Normal-Type and Fighting-Type Moves can hit and affect Ghost-Type targets, and the user can see through the Illusion Ability, Moves with the Illusion keyword, and effect created by the Illusionist Capability, ignoring all effect from those.",
+        "effect":"Odor Sleuth may be activated as a Swift Action on the user's turn. For the rest of the turn, the user's Normal-Type and Fighting-Type Moves can hit and affect Ghost-Type targets, and the user can see through the Illusion Ability, Moves with the Illusion keyword, and effect created by the Illusionist Capability, ignoring all effect from those.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -1508,7 +1508,7 @@
     },
     {
         "name":"Magic Coat",
-        "effect":"If the user is about to get a hit by a Move that does not have a Damage Dice Roll, they may use Magic Coat as an Interrupt. The Interrupted Move’s user is treated as if they were the target of their own Move, with the user of Magic Coat as the user.",
+        "effect":"If the user is about to get a hit by a Move that does not have a Damage Dice Roll, they may use Magic Coat as an Interrupt. The Interrupted Move's user is treated as if they were the target of their own Move, with the user of Magic Coat as the user.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
@@ -1541,7 +1541,7 @@
     },
     {
         "name":"Rapid Spin",
-        "effect":"Rapid Spin destroys all Hazards within 5 meters, removes Leech Seeds, and removes the user’s Trapped or Stuck status. If Rapid Spin hits, the user’s speed is increased by 1 Combat Stage.",
+        "effect":"Rapid Spin destroys all Hazards within 5 meters, removes Leech Seeds, and removes the user's Trapped or Stuck status. If Rapid Spin hits, the user's speed is increased by 1 Combat Stage.",
         "type":"Normal",
         "category":"Physical",
         "damageBase":5,
@@ -1585,7 +1585,7 @@
     },
     {
         "name":"Agility",
-        "effect":"Raise the user’s Speed by 2 Combat Stages.",
+        "effect":"Raise the user's Speed by 2 Combat Stages.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
@@ -1717,7 +1717,7 @@
     },
     {
         "name":"Magic Burst",
-        "effect":"Foes hit by Magic Burst can’t make Attacks of Opportunity for 1 full round.\\nLimitation: Melee Weapons Only",
+        "effect":"Foes hit by Magic Burst can't make Attacks of Opportunity for 1 full round.\\nLimitation: Melee Weapons Only",
         "type":"Normal",
         "category":"Special",
         "damageBase":6,
@@ -1771,7 +1771,7 @@
     },
     {
         "name":"Low Sweep",
-        "effect":"Lower the target’s Speed by 1 Combat Stage.",
+        "effect":"Lower the target's Speed by 1 Combat Stage.",
         "type":"Fighting",
         "category":"Physical",
         "damageBase":7,
@@ -1793,7 +1793,7 @@
     },
     {
         "name":"Cosmic Power",
-        "effect":"Raise the user’s Defense 1 Combat Stage and raise the user’s Special Defense 1 Combat Stage.",
+        "effect":"Raise the user's Defense 1 Combat Stage and raise the user's Special Defense 1 Combat Stage.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
@@ -1804,7 +1804,7 @@
     },
     {
         "name":"Constrict",
-        "effect":"Lower the target’s Speed by 1 Combat Stage. Constrict may be used as a Swift Action against targets the user is Grappling and automatically hits when performed this way.",
+        "effect":"Lower the target's Speed by 1 Combat Stage. Constrict may be used as a Swift Action against targets the user is Grappling and automatically hits when performed this way.",
         "type":"Normal",
         "category":"Physical",
         "damageBase":1,
@@ -1826,7 +1826,7 @@
     },
     {
         "name":"Baton Pass",
-        "effect":"The user is replaced with another Pokémon from their trainer’s roster. All Combat Stage, Coats, and [Stratagems] on Baton Pass’ user are transferred to the replacement. Baton Pass may be used to switch even if the user is Trapped. [Stratagems] that transfer to an ineligible target immediately become unbound",
+        "effect":"The user is replaced with another Pokémon from their trainer's roster. All Combat Stage, Coats, and [Stratagems] on Baton Pass' user are transferred to the replacement. Baton Pass may be used to switch even if the user is Trapped. [Stratagems] that transfer to an ineligible target immediately become unbound",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -1870,7 +1870,7 @@
     },
     {
         "name":"Spit Up",
-        "effect":"For each Stockpiled Count the user has, Spit Up’s Damage Base is increased by 8. If the user has no Stockpiled count, Spit Up cannot be used.",
+        "effect":"For each Stockpiled Count the user has, Spit Up's Damage Base is increased by 8. If the user has no Stockpiled count, Spit Up cannot be used.",
         "type":"Normal",
         "category":"Special",
         "damageBase":"X, See Effect",
@@ -1914,7 +1914,7 @@
     },
     {
         "name":"Topsy-Turvy",
-        "effect":"The target’s Combat Stages are inverted; +1 Stage becomes -1 Stage, -3 Stages becomes +3 Stages, etc.",
+        "effect":"The target's Combat Stages are inverted; +1 Stage becomes -1 Stage, -3 Stages becomes +3 Stages, etc.",
         "type":"Dark",
         "category":"Status",
         "damageBase":"--",
@@ -1980,7 +1980,7 @@
     },
     {
         "name":"Acid",
-        "effect":"Acid lowers the target’s Special Defense by 1 Combat Stage on 18+.",
+        "effect":"Acid lowers the target's Special Defense by 1 Combat Stage on 18+.",
         "type":"Poison",
         "category":"Special",
         "damageBase":4,
@@ -2013,7 +2013,7 @@
     },
     {
         "name":"Sharpen",
-        "effect":"Raise the user’s Attack by 1 Combat Stage.",
+        "effect":"Raise the user's Attack by 1 Combat Stage.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -2134,7 +2134,7 @@
     },
     {
         "name":"Diamond Storm",
-        "effect":"Diamond Storm raises the User’s Defense by 1 Combat Stage on an Even-Numbered Roll.",
+        "effect":"Diamond Storm raises the User's Defense by 1 Combat Stage on an Even-Numbered Roll.",
         "type":"Rock",
         "category":"Physical",
         "damageBase":10,
@@ -2321,7 +2321,7 @@
     },
     {
         "name":"Crush Claw",
-        "effect":"Crush Claw lowers the target’s Defense by 1 Combat Stage on Even-Numbered Rolls.",
+        "effect":"Crush Claw lowers the target's Defense by 1 Combat Stage on Even-Numbered Rolls.",
         "type":"Normal",
         "category":"Physical",
         "damageBase":7,
@@ -2343,7 +2343,7 @@
     },
     {
         "name":"Ally Switch",
-        "effect":"Ally Switch may be declared during a foe’s turn as an Interrupt. The user chooses one willing ally within 6 meters; the target and the user switch places. If the ally was a target of a Move, the user is now the target; If the user was a target of a Move, the ally is now the target.",
+        "effect":"Ally Switch may be declared during a foe's turn as an Interrupt. The user chooses one willing ally within 6 meters; the target and the user switch places. If the ally was a target of a Move, the user is now the target; If the user was a target of a Move, the ally is now the target.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
@@ -2376,7 +2376,7 @@
     },
     {
         "name":"Covet",
-        "effect":"Covet takes the target’s Held Item or Accessory Slot Item and attaches it to Covet’s user, if the user is not holding anything.",
+        "effect":"Covet takes the target's Held Item or Accessory Slot Item and attaches it to Covet's user, if the user is not holding anything.",
         "type":"Normal",
         "category":"Physical",
         "damageBase":6,
@@ -2464,7 +2464,7 @@
     },
     {
         "name":"Harden",
-        "effect":"Raise the user’s Defense by 1 Combat Stage.",
+        "effect":"Raise the user's Defense by 1 Combat Stage.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -2475,7 +2475,7 @@
     },
     {
         "name":"Revelation Dance",
-        "effect":"Revelation Dance is the same Type as the user’s primary Type (aka the first one in its Pokedex listing). Revelation Dance deals +5 Bonus Damage for every other Dance Move used by the user this round, to a maximum of +15.",
+        "effect":"Revelation Dance is the same Type as the user's primary Type (aka the first one in its Pokedex listing). Revelation Dance deals +5 Bonus Damage for every other Dance Move used by the user this round, to a maximum of +15.",
         "type":"Normal",
         "category":"Special",
         "damageBase":9,
@@ -2497,7 +2497,7 @@
     },
     {
         "name":"Brine",
-        "effect":"If the target’s Hit Points are under 50%, Brine’s Damage Base is increased to Damage Base 13 (4d10+10 / 35).",
+        "effect":"If the target's Hit Points are under 50%, Brine's Damage Base is increased to Damage Base 13 (4d10+10 / 35).",
         "type":"Water",
         "category":"Special",
         "damageBase":7,
@@ -2618,7 +2618,7 @@
     },
     {
         "name":"Bolt Beak",
-        "effect":"Against targets with a lower initiative that have not yet acted this round, Bolt Beak deals +10 damage.",
+        "effect":"Bolt Beak deals +10 damage against targets with a lower initiative that have not yet acted this round.",
         "type":"Electric",
         "category":"Physical",
         "damageBase":9,
@@ -2662,7 +2662,7 @@
     },
     {
         "name":"Disarm",
-        "effect":"You and the target each make opposed Combat or Stealth Checks. If you win, the target’s Held Item (Main Hand or Off-Hand for humans) falls to the ground.",
+        "effect":"You and the target each make opposed Combat or Stealth Checks. If you win, the target's Held Item (Main Hand or Off-Hand for humans) falls to the ground.",
         "type":"",
         "category":"Status",
         "damageBase":"",
@@ -2761,7 +2761,7 @@
     },
     {
         "name":"Darkest Lariat",
-        "effect":"This Move ignores the target’s positive Defense Combat Stages and all Damage Reduction.",
+        "effect":"This Move ignores the target's positive Defense Combat Stages and all Damage Reduction.",
         "type":"Dark",
         "category":"Physical",
         "damageBase":9,
@@ -2893,7 +2893,7 @@
     },
     {
         "name":"Foresight",
-        "effect":"Foresight may be activated as a Swift Action on the user’s turn. For the rest of the turn, the user’s Normal-Type and Fighting-Type Moves can hit and affect Ghost-Type targets, and the user can see through the Illusion Ability, Moves with the Illusion keyword, and effect created by the Illusionist Capability, ignoring all effect from those.",
+        "effect":"Foresight may be activated as a Swift Action on the user's turn. For the rest of the turn, the user's Normal-Type and Fighting-Type Moves can hit and affect Ghost-Type targets, and the user can see through the Illusion Ability, Moves with the Illusion keyword, and effect created by the Illusionist Capability, ignoring all effect from those.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -3025,7 +3025,7 @@
     },
     {
         "name":"Psychic",
-        "effect":"The target is Pushed 1 meter in any direction. Psychic lowers the target’s Special Defense 1 Combat Stage on 17+.  Grants Telekinetic.",
+        "effect":"The target is Pushed 1 meter in any direction. Psychic lowers the target's Special Defense 1 Combat Stage on 17+.  Grants Telekinetic.",
         "type":"Psychic",
         "category":"Special",
         "damageBase":9,
@@ -3080,7 +3080,7 @@
     },
     {
         "name":"Acid Spray",
-        "effect":"Acid Spray lowers the target’s Special Defense by 2 Combat Stages.",
+        "effect":"Acid Spray lowers the target's Special Defense by 2 Combat Stages.",
         "type":"Poison",
         "category":"Special",
         "damageBase":4,
@@ -3113,7 +3113,7 @@
     },
     {
         "name":"King's Shield",
-        "effect":"If the user is hit by an attack, the user may use King’s Shield. The user is instead not hit by the Move. You do not take any damage nor are you affected by any of the Move’s effect. In addition, if the triggering attack was Melee ranged, the attacker’s Attack is lowered by 2 Combat Stages.",
+        "effect":"If the user is hit by an attack, the user may use King's Shield. The user is instead not hit by the Move. You do not take any damage nor are you affected by any of the Move's effect. In addition, if the triggering attack was Melee ranged, the attacker's Attack is lowered by 2 Combat Stages.",
         "type":"Steel",
         "category":"Status",
         "damageBase":"--",
@@ -3124,7 +3124,7 @@
     },
     {
         "name":"Surf",
-        "effect":"As a Shift Action, the user may Move to any open square in Surf ’s area of effect without provoking any Attacks of Opportunity.",
+        "effect":"As a Shift Action, the user may Move to any open square in Surf 's area of effect without provoking any Attacks of Opportunity.",
         "type":"Water",
         "category":"Special",
         "damageBase":9,
@@ -3234,7 +3234,7 @@
     },
     {
         "name":"Oblivion Wing",
-        "effect":"The user gains HP equal to Oblivion Wing’s Damage Roll.",
+        "effect":"The user gains HP equal to Oblivion Wing's Damage Roll.",
         "type":"Flying",
         "category":"Special",
         "damageBase":8,
@@ -3311,7 +3311,7 @@
     },
     {
         "name":"Close Combat",
-        "effect":"Lower the user’s Defense and Special Defense by 1 Combat Stage each after damage.",
+        "effect":"Lower the user's Defense and Special Defense by 1 Combat Stage each after damage.",
         "type":"Fighting",
         "category":"Physical",
         "damageBase":12,
@@ -3333,7 +3333,7 @@
     },
     {
         "name":"Spotlight",
-        "effect":"Until the end of the user’s next turn, the target is Blinded and Vulnerable.",
+        "effect":"Until the end of the user's next turn, the target is Blinded and Vulnerable.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -3355,7 +3355,7 @@
     },
     {
         "name":"Shift Gear",
-        "effect":"Raise the user’s Attack by 1 Combat Stage and Speed by 2 Combat Stages.",
+        "effect":"Raise the user's Attack by 1 Combat Stage and Speed by 2 Combat Stages.",
         "type":"Steel",
         "category":"Status",
         "damageBase":"--",
@@ -3465,7 +3465,7 @@
     },
     {
         "name":"Attract",
-        "effect":"Attract Infatuates the target if its gender is the opposite of the user’s. Attract fails when used by or against Genderless targets.",
+        "effect":"Attract Infatuates the target if its gender is the opposite of the user's. Attract fails when used by or against Genderless targets.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -3553,7 +3553,7 @@
     },
     {
         "name":"Scary Face",
-        "effect":"Lower the target’s Speed by 2 Combat Stages.",
+        "effect":"Lower the target's Speed by 2 Combat Stages.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -3564,7 +3564,7 @@
     },
     {
         "name":"Gyro Ball",
-        "effect":"The target reveals their Speed Stat (including Combat Stages). If it is higher than the user’s (including Combat Stages), subtract the user’s Speed Stat from the target’s and apply the difference as Bonus Damage.",
+        "effect":"The target reveals their Speed Stat (including Combat Stages). If it is higher than the user's (including Combat Stages), subtract the user's Speed Stat from the target's and apply the difference as Bonus Damage.",
         "type":"Steel",
         "category":"Physical",
         "damageBase":6,
@@ -3597,7 +3597,7 @@
     },
     {
         "name":"Tar Shot",
-        "effect":"The target gains a Coat that is automatically expended upon being hit with a Fire Type attack in order to make them one step more vulnerable to that attack. In addition, the target’s Speed is lowered by 1 Combat Stage.",
+        "effect":"The target gains a Coat that is automatically expended upon being hit with a Fire Type attack in order to make them one step more vulnerable to that attack. In addition, the target's Speed is lowered by 1 Combat Stage.",
         "type":"Rock",
         "category":"Status",
         "damageBase":"--",
@@ -3630,7 +3630,7 @@
     },
     {
         "name":"Baneful Bunker",
-        "effect":"If the user is hit by an attack, the user may use Baneful Bunker. The user is instead not hit by the Move. You do not take any damage nor are you affected by any of the Move’s effect. In addition, if the triggering attack was Melee ranged, the attacker is Poisoned.",
+        "effect":"If the user is hit by an attack, the user may use Baneful Bunker. The user is instead not hit by the Move. You do not take any damage nor are you affected by any of the Move's effect. In addition, if the triggering attack was Melee ranged, the attacker is Poisoned.",
         "type":"Poison",
         "category":"Status",
         "damageBase":"--",
@@ -3707,7 +3707,7 @@
     },
     {
         "name":"Rock Smash",
-        "effect":"Rock Smash lowers the target’s Defense 1 Combat Stage on 17+.",
+        "effect":"Rock Smash lowers the target's Defense 1 Combat Stage on 17+.",
         "type":"Fighting",
         "category":"Physical",
         "damageBase":4,
@@ -3762,7 +3762,7 @@
     },
     {
         "name":"Phantom Force",
-        "effect":"Set-Up Effect: The user is removed from the field, and their turn ends. Resolution Effect: Phantom Force’s user appears adjacent to any legal target on the field, ignoring Movement Capabilities, and then uses Phantom Force’s attack. Phantom Force cannot be avoided by Moves with the Shield Keyword, the Dodge Ability, or similar effect, and Intercepts may not be attempted in response.",
+        "effect":"Set-Up Effect: The user is removed from the field, and their turn ends. Resolution Effect: Phantom Force's user appears adjacent to any legal target on the field, ignoring Movement Capabilities, and then uses Phantom Force's attack. Phantom Force cannot be avoided by Moves with the Shield Keyword, the Dodge Ability, or similar effect, and Intercepts may not be attempted in response.",
         "type":"Ghost",
         "category":"Physical",
         "damageBase":9,
@@ -3861,7 +3861,7 @@
     },
     {
         "name":"Body Press",
-        "effect":"The user’s Defense Stat is added to the damage roll instead of the Attack Stat.",
+        "effect":"The user's Defense Stat is added to the damage roll instead of the Attack Stat.",
         "type":"Fighting",
         "category":"Physical",
         "damageBase":8,
@@ -4015,7 +4015,7 @@
     },
     {
         "name":"Dragon Rage",
-        "effect":"Ignore any Armor, Damage Reduction, or changes in the target’s Defense or Special Defense (such as from Combat Stages) when calculating damage. Dragon Rage may be used as either a Physical or Special Move.",
+        "effect":"Ignore any Armor, Damage Reduction, or changes in the target's Defense or Special Defense (such as from Combat Stages) when calculating damage. Dragon Rage may be used as either a Physical or Special Move.",
         "type":"Dragon",
         "category":"Special",
         "damageBase":5,
@@ -4037,7 +4037,7 @@
     },
     {
         "name":"Mind Reader",
-        "effect":"The target becomes Read to the user until the end of the user’s next turn. The user may end this effect when making an Attack on the user, causing that attack to automatically hit; OR when the Read target uses an Attack against the user, causing that attack to automatically miss. If the user has the Telepathy Capability, the user automatically succeeds on a mindreading attempt against the target, and may listen to the target’s surface thoughts as long as they remain Read. Mind Reader automatically misses against targets with the Mindlock Capability.",
+        "effect":"The target becomes Read to the user until the end of the user's next turn. The user may end this effect when making an Attack on the user, causing that attack to automatically hit; OR when the Read target uses an Attack against the user, causing that attack to automatically miss. If the user has the Telepathy Capability, the user automatically succeeds on a mindreading attempt against the target, and may listen to the target's surface thoughts as long as they remain Read. Mind Reader automatically misses against targets with the Mindlock Capability.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -4169,7 +4169,7 @@
     },
     {
         "name":"Smelling Salts",
-        "effect":"If the target is Paralyzed, Smelling Salt’s Damage Base is doubled to 14 (4d10+15 / 40), and cures the target of Paralysis.",
+        "effect":"If the target is Paralyzed, Smelling Salt's Damage Base is doubled to 14 (4d10+15 / 40), and cures the target of Paralysis.",
         "type":"Normal",
         "category":"Physical",
         "damageBase":7,
@@ -4488,7 +4488,7 @@
     },
     {
         "name":"Tickle",
-        "effect":"Lower the target’s Attack and Defense by 1 Combat Stage each.",
+        "effect":"Lower the target's Attack and Defense by 1 Combat Stage each.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -4543,7 +4543,7 @@
     },
     {
         "name":"Substitute",
-        "effect":"The user loses 1/4 of their maximum Hit Points. This Hit Point loss cannot be prevented in any way. The user creates an Illusory Substitute Coat, which has Hit Points equal to 1/4th of the user’s full Hit Points +1. If the user would be hit by a Move or attack, instead the Substitute gets hit. Apply weakness, resistance and stats to the Substitute. The Substitute is immune to Status Afflictions and Status Moves. Moves with the Social or Sonic keywords completely ignore and bypass the Substitute. Once the Substitute has been destroyed, the user may be hit as normal. Substitute cannot be used if the user has less than 1/4 of their full Hit Points.",
+        "effect":"The user loses 1/4 of their maximum Hit Points. This Hit Point loss cannot be prevented in any way. The user creates an Illusory Substitute Coat, which has Hit Points equal to 1/4th of the user's full Hit Points +1. If the user would be hit by a Move or attack, instead the Substitute gets hit. Apply weakness, resistance and stats to the Substitute. The Substitute is immune to Status Afflictions and Status Moves. Moves with the Social or Sonic keywords completely ignore and bypass the Substitute. Once the Substitute has been destroyed, the user may be hit as normal. Substitute cannot be used if the user has less than 1/4 of their full Hit Points.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -4587,7 +4587,7 @@
     },
     {
         "name":"Snipe Shot",
-        "effect":"Snipe Shot is a Critical Hit on 18+. This Move may not be Intercepted, nor may any Abilities, Moves, or Features be activated to change this Move’s target. Any of those existing effect (such as Follow Me) fail.",
+        "effect":"Snipe Shot is a Critical Hit on 18+. This Move may not be Intercepted, nor may any Abilities, Moves, or Features be activated to change this Move's target. Any of those existing effect (such as Follow Me) fail.",
         "type":"Water",
         "category":"Special",
         "damageBase":8,
@@ -4664,7 +4664,7 @@
     },
     {
         "name":"Apple Acid",
-        "effect":"The target’s Special Defense is lowered by 1 Combat Stage.",
+        "effect":"The target's Special Defense is lowered by 1 Combat Stage.",
         "type":"Grass",
         "category":"Special",
         "damageBase":8,
@@ -4730,7 +4730,7 @@
     },
     {
         "name":"Cotton Guard",
-        "effect":"Raise the user’s Defense 3 Combat Stages.",
+        "effect":"Raise the user's Defense 3 Combat Stages.",
         "type":"Grass",
         "category":"Status",
         "damageBase":"--",
@@ -4774,7 +4774,7 @@
     },
     {
         "name":"Sleep Talk",
-        "effect":"Select another of the user’s Moves at random; this turn, the user may Shift and use that Move despite being Asleep. Sleep Talk can be only be used by Sleeping targets.",
+        "effect":"Select another of the user's Moves at random; this turn, the user may Shift and use that Move despite being Asleep. Sleep Talk can be only be used by Sleeping targets.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -4818,7 +4818,7 @@
     },
     {
         "name":"Assurance",
-        "effect":"If Assurance’s target has already been damaged by a Move on the same round Assurance is being used, Assurance has a Damage Base of 12 (3d12+10 / 30) instead. This effect may trigger only once per Scene per Target.",
+        "effect":"If Assurance's target has already been damaged by a Move on the same round Assurance is being used, Assurance has a Damage Base of 12 (3d12+10 / 30) instead. This effect may trigger only once per Scene per Target.",
         "type":"Dark",
         "category":"Physical",
         "damageBase":6,
@@ -4895,7 +4895,7 @@
     },
     {
         "name":"Mist Ball",
-        "effect":"Mist Ball lowers the target’s Special Attack by 1 Combat Stage on an Even-Numbered Roll.",
+        "effect":"Mist Ball lowers the target's Special Attack by 1 Combat Stage on an Even-Numbered Roll.",
         "type":"Psychic",
         "category":"Special",
         "damageBase":7,
@@ -4972,7 +4972,7 @@
     },
     {
         "name":"Autotomize",
-        "effect":"For the remainder of the Encounter, the user’s Weight Class is one value lower, to a minimum of 1. If the user was able to reduce their Weight Class, the user’s Speed is raised by 2 Combat Stages.",
+        "effect":"For the remainder of the Encounter, the user's Weight Class is one value lower, to a minimum of 1. If the user was able to reduce their Weight Class, the user's Speed is raised by 2 Combat Stages.",
         "type":"Steel",
         "category":"Status",
         "damageBase":"--",
@@ -4983,7 +4983,7 @@
     },
     {
         "name":"Reflect Type",
-        "effect":"Reflect Type changes one of the user’s Types into one Type of your choice that the target has for the rest of the scene.",
+        "effect":"Reflect Type changes one of the user's Types into one Type of your choice that the target has for the rest of the scene.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -5038,7 +5038,7 @@
     },
     {
         "name":"Natural Gift",
-        "effect":"Refer to the Move Keywords Berry list. Natural Gift deals damage according to the Berry list and Natural Gift’s Type is also defined there. The Berry’s Food Buff is nullified and is not used.",
+        "effect":"Refer to the Move Keywords Berry list. Natural Gift deals damage according to the Berry list and Natural Gift's Type is also defined there. The Berry's Food Buff is nullified and is not used.",
         "type":"Normal",
         "category":"Special",
         "damageBase":"See Effect",
@@ -5258,7 +5258,7 @@
     },
     {
         "name":"Me First",
-        "effect":"If an opponent declares a Damaging Attack against the user, and Me First’s user has a higher Speed stat then the target, the user may use Me First as an Interrupt. The User will then use the same Move the triggering foe was about to use on that foe.",
+        "effect":"If an opponent declares a Damaging Attack against the user, and Me First's user has a higher Speed stat then the target, the user may use Me First as an Interrupt. The User will then use the same Move the triggering foe was about to use on that foe.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -5291,7 +5291,7 @@
     },
     {
         "name":"Flirt",
-        "effect":"Make a Charm Check, opposed by the target’s Charm or Focus. If you win, the target is Infatuated with you for one full round. The target automatically fails their Save Check.",
+        "effect":"Make a Charm Check, opposed by the target's Charm or Focus. If you win, the target is Infatuated with you for one full round. The target automatically fails their Save Check.",
         "type":"",
         "category":"Status",
         "damageBase":"",
@@ -5379,7 +5379,7 @@
     },
     {
         "name":"Miracle Eye",
-        "effect":"Miracle Eye may be activated as a Swift Action on the user’s turn. For the rest of the turn, the user’s Psychic-Type Moves can hit and affect Dark-Type targets, and the user can see through the Illusion Ability, Moves with the Illusion keyword, and effect created by the Illusionist Capability, ignoring all effect from those.",
+        "effect":"Miracle Eye may be activated as a Swift Action on the user's turn. For the rest of the turn, the user's Psychic-Type Moves can hit and affect Dark-Type targets, and the user can see through the Illusion Ability, Moves with the Illusion keyword, and effect created by the Illusionist Capability, ignoring all effect from those.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
@@ -5423,7 +5423,7 @@
     },
     {
         "name":"Dragon Ascent",
-        "effect":"The user’s Defense and Special Defense are each lowered by -1 Combat Stage.",
+        "effect":"The user's Defense and Special Defense are each lowered by -1 Combat Stage.",
         "type":"Flying",
         "category":"Physical",
         "damageBase":12,
@@ -5434,7 +5434,7 @@
     },
     {
         "name":"Spirit Break",
-        "effect":"The target’s Special Attack stat is lowered 1 Combat Stage.",
+        "effect":"The target's Special Attack stat is lowered 1 Combat Stage.",
         "type":"Fairy",
         "category":"Physical",
         "damageBase":8,
@@ -5533,7 +5533,7 @@
     },
     {
         "name":"Wear Down",
-        "effect":"Wear Down lowers the target’s Defense by 1 Combat Stage on Even-Numbered Rolls.",
+        "effect":"Wear Down lowers the target's Defense by 1 Combat Stage on Even-Numbered Rolls.",
         "type":"Normal",
         "category":"Physical",
         "damageBase":5,
@@ -5676,7 +5676,7 @@
     },
     {
         "name":"Bon Mot",
-        "effect":"Make a Guile Check, opposed by the target’s Guile or Focus. If you win, the target is Enraged and cannot spend AP for one full round. The target does not gain a Save Check against this effect.",
+        "effect":"Make a Guile Check, opposed by the target's Guile or Focus. If you win, the target is Enraged and cannot spend AP for one full round. The target does not gain a Save Check against this effect.",
         "type":"",
         "category":"Status",
         "damageBase":"",
@@ -5687,7 +5687,7 @@
     },
     {
         "name":"Bounce",
-        "effect":"The user first Shifts, gaining a +1 Bonus to Movement Speed and to their Jump Capabilities. After the user Shifts, they may attack with Bounce. The target becomes Vulnerable, and is Paralyzed on 16+. Grants High Jump +1",
+        "effect":"The user first Shifts, gaining a +1 Bonus to Movement Speed and to their Jump Capabilities. After the user Shifts, they may attack with Bounce. The target becomes Vulnerable, and is Paralyzed on 16+. Grants +1 to High Jump.",
         "type":"Flying",
         "category":"Physical",
         "damageBase":9,
@@ -5885,7 +5885,7 @@
     },
     {
         "name":"Bash!",
-        "effect":"Bash! lowers the target’s Initiative to 0 for 1 full round on 15+.",
+        "effect":"Bash! lowers the target's Initiative to 0 for 1 full round on 15+.",
         "type":"Normal",
         "category":"Physical",
         "damageBase":7,
@@ -5896,7 +5896,7 @@
     },
     {
         "name":"Moonblast",
-        "effect":"Moonblast lowers the target’s Special Attack by 1 Combat Stage on 15+.",
+        "effect":"Moonblast lowers the target's Special Attack by 1 Combat Stage on 15+.",
         "type":"Fairy",
         "category":"Special",
         "damageBase":10,
@@ -6149,7 +6149,7 @@
     },
     {
         "name":"Grapple",
-        "effect":"You and the target each make opposed Combat or Athletics Checks. If you win, you and the target each become Grappled, and you gain Dominance in the Grapple.\\n\\nPokémon and Trainers that are Grappled\\n»» Are Vulnerable\\n»» Cannot take Shift Actions, or any actions that would cause them to Shift.\\n»» Gain a -6 penalty to Accuracy Rolls if targeting anyone outside of the Grapple.\\n»» Additionally, Grapple has other effect on whether the target has or doesn’t have Dominance.\\n\\nIf a target begins their turn as a part of a Grapple but with no Dominance, they may choose to contest the Grapple as a Full Action. If they do, all participants make opposed Combat or Athletics Check. Whoever wins then may choose to either continue the Grapple and gain Dominance, or to end the Grapple.\\n\\nIf a target has the Phasing or Teleporter Capability, they may also use those to escape from a Grapple on their turn with no check required.\\n\\nIf a target begins their turn as part of a Grapple and has Dominance, they may take one of the following actions as a Full Action.\\n»» End the Grapple.\\n»» Secure: They gain a +3 Bonus to the next opposed check they make in the Grapple.\\n»» Attack: They may automatically hit with an Unarmed Struggle Attack.\\n»» Move: They Shift, dragging the other person in the grapple with them. The user’s Movement Capability is lowered by the other grappler’s Weight Class.",
+        "effect":"You and the target each make opposed Combat or Athletics Checks. If you win, you and the target each become Grappled, and you gain Dominance in the Grapple.\\n\\nPokémon and Trainers that are Grappled\\n»» Are Vulnerable\\n»» Cannot take Shift Actions, or any actions that would cause them to Shift.\\n»» Gain a -6 penalty to Accuracy Rolls if targeting anyone outside of the Grapple.\\n»» Additionally, Grapple has other effect on whether the target has or doesn't have Dominance.\\n\\nIf a target begins their turn as a part of a Grapple but with no Dominance, they may choose to contest the Grapple as a Full Action. If they do, all participants make opposed Combat or Athletics Check. Whoever wins then may choose to either continue the Grapple and gain Dominance, or to end the Grapple.\\n\\nIf a target has the Phasing or Teleporter Capability, they may also use those to escape from a Grapple on their turn with no check required.\\n\\nIf a target begins their turn as part of a Grapple and has Dominance, they may take one of the following actions as a Full Action.\\n»» End the Grapple.\\n»» Secure: They gain a +3 Bonus to the next opposed check they make in the Grapple.\\n»» Attack: They may automatically hit with an Unarmed Struggle Attack.\\n»» Move: They Shift, dragging the other person in the grapple with them. The user's Movement Capability is lowered by the other grappler's Weight Class.",
         "type":"",
         "category":"Status",
         "damageBase":"",
@@ -6171,7 +6171,7 @@
     },
     {
         "name":"Stomping Tantrum",
-        "effect":"If the user’s last attack failed or missed, Stomping Tantrum is Damage Base 15 instead.",
+        "effect":"If the user's last attack failed or missed, Stomping Tantrum is Damage Base 15 instead.",
         "type":"Ground",
         "category":"Physical",
         "damageBase":8,
@@ -6244,7 +6244,7 @@
         "frequency":"EOT",
         "ac":2,
         "range":"Burst 1",
-        "contestType":"--"
+        "contestType":"Tough - Steady Performance"
     },
     {
         "name":"Intercept Ranged",
@@ -6292,7 +6292,7 @@
     },
     {
         "name":"Rage",
-        "effect":"The user becomes Enraged. Until the end of the user’s next turn, if the user is Enraged, the user gains +1 Attack Combat Stage whenever they are damaged by an Damaging Move or Attack.",
+        "effect":"The user becomes Enraged. Until the end of the user's next turn, if the user is Enraged, the user gains +1 Attack Combat Stage whenever they are damaged by an Damaging Move or Attack.",
         "type":"Normal",
         "category":"Physical",
         "damageBase":2,
@@ -6369,7 +6369,7 @@
     },
     {
         "name":"Secret Force",
-        "effect":"When calculating damage, the target subtracts their Defense from Secret Force’s damage instead of their Special Defense. Secret Force is still otherwise Special.\\nLimitation: Melee Weapons Only",
+        "effect":"When calculating damage, the target subtracts their Defense from Secret Force's damage instead of their Special Defense. Secret Force is still otherwise Special.\\nLimitation: Melee Weapons Only",
         "type":"Normal",
         "category":"Special",
         "damageBase":4,
@@ -6446,7 +6446,7 @@
     },
     {
         "name":"Multi-Attack [OG]",
-        "effect":"Multi-Attack’s Type is determined by the Memory Disc, Plate, or Drive Item held.",
+        "effect":"Multi-Attack's Type is determined by the Memory Disc, Plate, or Drive Item held.",
         "type":"Normal",
         "category":"Physical",
         "damageBase":9,
@@ -6457,7 +6457,7 @@
     },
     {
         "name":"Mystical Fire",
-        "effect":"Mystical Fire lowers the target’s Special Attack by 1 Combat Stage.",
+        "effect":"Mystical Fire lowers the target's Special Attack by 1 Combat Stage.",
         "type":"Fire",
         "category":"Special",
         "damageBase":7,
@@ -6501,7 +6501,7 @@
     },
     {
         "name":"Fleur Cannon",
-        "effect":"Lower the user’s Special Attack 2 Combat Stages after damage.",
+        "effect":"Lower the user's Special Attack 2 Combat Stages after damage.",
         "type":"Fairy",
         "category":"Special",
         "damageBase":13,
@@ -6512,7 +6512,7 @@
     },
     {
         "name":"Photon Geyser",
-        "effect":"This attack uses the highest of the user’s Attack or Special Attack Stat, though it remains a Special Move. This Move ignores any Abilities that would cause it to fail or miss, such as Dodge or Wonder Guard; those Abilities cannot be activated in response to Photon Geyser.",
+        "effect":"This attack uses the highest of the user's Attack or Special Attack Stat, though it remains a Special Move. This Move ignores any Abilities that would cause it to fail or miss, such as Dodge or Wonder Guard; those Abilities cannot be activated in response to Photon Geyser.",
         "type":"Psychic",
         "category":"Special",
         "damageBase":10,
@@ -6534,7 +6534,7 @@
     },
     {
         "name":"Crunch",
-        "effect":"Crunch lowers the target’s Defense by 1 Combat Stage on 17+.",
+        "effect":"Crunch lowers the target's Defense by 1 Combat Stage on 17+.",
         "type":"Dark",
         "category":"Physical",
         "damageBase":8,
@@ -6710,7 +6710,7 @@
     },
     {
         "name":"Dragon Dance",
-        "effect":"Raise the user’s Attack and Speed by 1 Combat Stage.",
+        "effect":"Raise the user's Attack and Speed by 1 Combat Stage.",
         "type":"Dragon",
         "category":"Status",
         "damageBase":"--",
@@ -6743,7 +6743,7 @@
     },
     {
         "name":"Breaking Swipe",
-        "effect":"The target’s Attack is lowered 1 Combat Stage.",
+        "effect":"The target's Attack is lowered 1 Combat Stage.",
         "type":"Dragon",
         "category":"Physical",
         "damageBase":6,
@@ -6765,7 +6765,7 @@
     },
     {
         "name":"Arcane Fury",
-        "effect":"Arcane Fury’s Targets become Vulnerable on 19+.",
+        "effect":"Arcane Fury's Targets become Vulnerable on 19+.",
         "type":"Normal",
         "category":"Special",
         "damageBase":3,
@@ -6875,7 +6875,7 @@
     },
     {
         "name":"Hyperspace Hole",
-        "effect":"Make and resolve of Hyperspace Hole’s attacks separately. In between each attack, the user may Shift using their Teleporter capability, ending the Shift next to a legal target. Interrupts may not be triggered against Hyperspace Hole..",
+        "effect":"Make and resolve of Hyperspace Hole's attacks separately. In between each attack, the user may Shift using their Teleporter capability, ending the Shift next to a legal target. Interrupts may not be triggered against Hyperspace Hole..",
         "type":"Psychic",
         "category":"Special",
         "damageBase":10,
@@ -7211,7 +7211,7 @@
         "damageBase":5,
         "frequency":"EOT",
         "ac":3,
-        "range":"6, 1 Target, Doublestrike",
+        "range":"6, 1 Target, Double Strike",
         "contestType":"Tough - Reliable"
     },
     {
@@ -7304,7 +7304,7 @@
     },
     {
         "name":"Noble Roar",
-        "effect":"Noble Roar lowers all legal targets’ Attack and Special Attack by 1 Combat Stage.",
+        "effect":"Noble Roar lowers all legal targets' Attack and Special Attack by 1 Combat Stage.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -7348,7 +7348,7 @@
     },
     {
         "name":"Withdraw",
-        "effect":"The user becomes Withdrawn. While Withdrawn, the user becomes immune to Critical Hits and gain 15 Damage Reduction. However, while Withdrawn, the user cannot Shift, and may only use self-targeting Moves. The user may stop being Withdrawn as a Shift Action.\\nSeptember Playtest: The user’s Defense is raised 1 Combat Stage.",
+        "effect":"The user becomes Withdrawn. While Withdrawn, the user becomes immune to Critical Hits and gain 15 Damage Reduction. However, while Withdrawn, the user cannot Shift, and may only use self-targeting Moves. The user may stop being Withdrawn as a Shift Action.\\nSeptember Playtest: The user's Defense is raised 1 Combat Stage.",
         "type":"Water",
         "category":"Status",
         "damageBase":"--",
@@ -7359,7 +7359,7 @@
     },
     {
         "name":"Steel Beam",
-        "effect":"The user’s Hit Points are reduced by 50% of their full Hit Point value. This Hit Point loss cannot be prevented or reduced in any way.",
+        "effect":"The user's Hit Points are reduced by 50% of their full Hit Point value. This Hit Point loss cannot be prevented or reduced in any way.",
         "type":"Steel",
         "category":"Special",
         "damageBase":14,
@@ -7370,7 +7370,7 @@
     },
     {
         "name":"Façade",
-        "effect":"If the user is afflicted with a Persistent Status Affliction, Façade’s Damage Base is doubled to Damage Base 14 (4d10+15 / 40).",
+        "effect":"If the user is afflicted with a Persistent Status Affliction, Façade's Damage Base is doubled to Damage Base 14 (4d10+15 / 40).",
         "type":"Normal",
         "category":"Physical",
         "damageBase":7,
@@ -7381,7 +7381,7 @@
     },
     {
         "name":"Defense Curl",
-        "effect":"The user becomes Curled Up. While Curled Up, the user becomes immune to Critical Hits and gains 10 Damage Reduction. However, while Curled Up, the user is Slowed and their Accuracy is lowered by 4. The user may stop being Curled Up as a Swift Action. If the user has Rollout or Ice Ball in their Move List, they do not become Slowed while Curled Up. Furthermore, when using the Moves Rollout or Ice Ball while Curled Up, the user gains a +10 bonus to the damage rolls of those Moves and does not suffer Accuracy Penalties from being Curled Up.\\nSeptember Playtest: The user’s Defense is raised 1 Combat Stage and they become Curled Up until the end of the Scene or they are Recalled or Take a Breather. When using the Moves Rollout or Ice Ball while Curled Up, the user gains a +10 bonus to the damage rolls of those Moves.",
+        "effect":"The user becomes Curled Up. While Curled Up, the user becomes immune to Critical Hits and gains 10 Damage Reduction. However, while Curled Up, the user is Slowed and their Accuracy is lowered by 4. The user may stop being Curled Up as a Swift Action. If the user has Rollout or Ice Ball in their Move List, they do not become Slowed while Curled Up. Furthermore, when using the Moves Rollout or Ice Ball while Curled Up, the user gains a +10 bonus to the damage rolls of those Moves and does not suffer Accuracy Penalties from being Curled Up.\\nSeptember Playtest: The user's Defense is raised 1 Combat Stage and they become Curled Up until the end of the Scene or they are Recalled or Take a Breather. When using the Moves Rollout or Ice Ball while Curled Up, the user gains a +10 bonus to the damage rolls of those Moves.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -7469,7 +7469,7 @@
     },
     {
         "name":"Flame Charge",
-        "effect":"Raise the user’s Speed 1 Combat Stage.",
+        "effect":"Raise the user's Speed 1 Combat Stage.",
         "type":"Fire",
         "category":"Physical",
         "damageBase":5,
@@ -7623,7 +7623,7 @@
     },
     {
         "name":"Magnitude",
-        "effect":"When you use Magnitude, roll 1d6. Magnitude’s Damage Base is equal to 5+X, where X is the value of the d6. Magnitude can hit targets that are underground, including those using the Move Dig. *Grants: Groundshaper",
+        "effect":"When you use Magnitude, roll 1d6. Magnitude's Damage Base is equal to 5+X, where X is the value of the d6. Magnitude can hit targets that are underground, including those using the Move Dig. *Grants: Groundshaper",
         "type":"Ground",
         "category":"Physical",
         "damageBase":"X, See Effect",
@@ -7755,7 +7755,7 @@
     },
     {
         "name":"Skill Swap",
-        "effect":"The user loses one of their Abilities, selected by the user, and gains one the target’s Abilities, selected at random, for the remainder of encounter. The target loses the copied Ability, and gains the user’s lost Ability. This effect ends if either the target or the user is Switched out or Fainted, but only for that Pokémon or Trainer.",
+        "effect":"The user loses one of their Abilities, selected by the user, and gains one the target's Abilities, selected at random, for the remainder of encounter. The target loses the copied Ability, and gains the user's lost Ability. This effect ends if either the target or the user is Switched out or Fainted, but only for that Pokémon or Trainer.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
@@ -7810,7 +7810,7 @@
     },
     {
         "name":"Multi-Attack",
-        "effect":"Multi-Attack’s Type is determined by the Memory Disc, Plate, or Drive Item held.",
+        "effect":"Multi-Attack's Type is determined by the Memory Disc, Plate, or Drive Item held.",
         "type":"Normal",
         "category":"Physical",
         "damageBase":12,
@@ -7876,7 +7876,7 @@
     },
     {
         "name":"Wide Guard",
-        "effect":"If an Ally adjacent to Wide Guard’s user is hit by a Move, you may use Wide Guard as an Interrupt. All targets adjacent to Wide Guard’s user, including the user, are instead not hit by the triggering Move and do not suffer any of its effect.",
+        "effect":"If an Ally adjacent to Wide Guard's user is hit by a Move, you may use Wide Guard as an Interrupt. All targets adjacent to Wide Guard's user, including the user, are instead not hit by the triggering Move and do not suffer any of its effect.",
         "type":"Rock",
         "category":"Status",
         "damageBase":"--",
@@ -7887,7 +7887,7 @@
     },
     {
         "name":"Howl [OG]",
-        "effect":"Raise the user’s Attack by 1 Combat Stage.",
+        "effect":"Raise the user's Attack by 1 Combat Stage.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -7997,7 +7997,7 @@
     },
     {
         "name":"Mimic",
-        "effect":"Choose a Move that the target has used during the encounter. For the remainder of the encounter, that Move replaces Mimic on the user’s Move List. Mimic cannot miss.",
+        "effect":"Choose a Move that the target has used during the encounter. For the remainder of the encounter, that Move replaces Mimic on the user's Move List. Mimic cannot miss.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -8018,8 +8018,8 @@
         "contestType":"Beauty - Unsettling"
     },
     {
-        "name":"Bubblebeam",
-        "effect":"Bubblebeam lowers the target's Speed by 1 Combat Stage on 18+.",
+        "name":"Bubble Beam",
+        "effect":"Bubble Beam lowers the target's Speed by 1 Combat Stage on 18+.",
         "type":"Water",
         "category":"Special",
         "damageBase":"8",
@@ -8118,7 +8118,7 @@
     },
     {
         "name":"Iron Tail",
-        "effect":"Iron Tail lowers the target’s Defense by 1 Combat Stage on 19+.",
+        "effect":"Iron Tail lowers the target's Defense by 1 Combat Stage on 19+.",
         "type":"Steel",
         "category":"Physical",
         "damageBase":10,
@@ -8195,7 +8195,7 @@
     },
     {
         "name":"Meditate",
-        "effect":"Raise the user’s Attack 1 Combat Stage.",
+        "effect":"Raise the user's Attack 1 Combat Stage.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
@@ -8261,7 +8261,7 @@
     },
     {
         "name":"Shadow Force",
-        "effect":"Set-Up Effect: The user is removed from the field, and their turn ends. Resolution Effect: Shadow Force’s user appears adjacent to any legal target on the field, ignoring Movement Capabilities, and then uses Shadow Force’s attack. Shadow Force cannot be avoided by Moves with the Shield Keyword, the Dodge Ability, or similar effect, and Intercepts may not be attempted in response.",
+        "effect":"Set-Up Effect: The user is removed from the field, and their turn ends. Resolution Effect: Shadow Force's user appears adjacent to any legal target on the field, ignoring Movement Capabilities, and then uses Shadow Force's attack. Shadow Force cannot be avoided by Moves with the Shield Keyword, the Dodge Ability, or similar effect, and Intercepts may not be attempted in response.",
         "type":"Ghost",
         "category":"Physical",
         "damageBase":12,
@@ -8272,7 +8272,7 @@
     },
     {
         "name":"Rollout",
-        "effect":"The user continues to use Rollout on each of its turns until they miss any target with Rollout, or are not able to hit any target with Rollout during their turn. Each successive use of Rollout increases Rollout’s Damage Base by 4 to a maximum of Damage Base 15.",
+        "effect":"The user continues to use Rollout on each of its turns until they miss any target with Rollout, or are not able to hit any target with Rollout during their turn. Each successive use of Rollout increases Rollout's Damage Base by 4 to a maximum of Damage Base 15.",
         "type":"Rock",
         "category":"Physical",
         "damageBase":3,
@@ -8305,7 +8305,7 @@
     },
     {
         "name":"Brick Break",
-        "effect":"Light Screen and Reflect may not be activated in response to Brick Break.",
+        "effect":"Light Screen, Reflect, and Aurora Veil may not be activated in response to Brick Break.",
         "type":"Fighting",
         "category":"Physical",
         "damageBase":8,
@@ -8492,7 +8492,7 @@
     },
     {
         "name":"Metronome",
-        "effect":"Metronome randomly uses any other Move except for After You, Assist, Bestow, Copycat, Counter, Covet, Crafty Shield, Destiny Bond, Detect, Endure, Feint, Focus Punch, Follow Me, Helping Hand, King’s Shield, Metronome, Me First, Mimic, Mirror Coat, Mirror Move, Protect, Quash, Quick Guard, Rage Powder, Sketch, Sleep Talk, Snatch, Snore, Spiky Shield, Switcheroo, Thief, Transform, Trick, and Wide Guard. The GM helps to pick the random Move.",
+        "effect":"Metronome randomly uses any other Move except for After You, Assist, Bestow, Copycat, Counter, Covet, Crafty Shield, Destiny Bond, Detect, Endure, Feint, Focus Punch, Follow Me, Helping Hand, King's Shield, Metronome, Me First, Mimic, Mirror Coat, Mirror Move, Protect, Quash, Quick Guard, Rage Powder, Sketch, Sleep Talk, Snatch, Snore, Spiky Shield, Switcheroo, Thief, Transform, Trick, and Wide Guard. The GM helps to pick the random Move.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -8536,7 +8536,7 @@
     },
     {
         "name":"Techno Blast",
-        "effect":"Techno Blast’s Type can be any Type while holding the appropriate Drive item or Plate item.",
+        "effect":"Techno Blast's Type can be any Type while holding the appropriate Drive item or Plate item.",
         "type":"Normal",
         "category":"Special",
         "damageBase":12,
@@ -8569,7 +8569,7 @@
     },
     {
         "name":"Sonic Boom",
-        "effect":"Ignore any Armor, Damage Reduction, or changes in the target’s Defense or Special Defense (such as from Combat Stages) when calculating damage. Sonic Boom Flinches the target on a 15+.",
+        "effect":"Ignore any Armor, Damage Reduction, or changes in the target's Defense or Special Defense (such as from Combat Stages) when calculating damage. Sonic Boom Flinches the target on a 15+.",
         "type":"Normal",
         "category":"Special",
         "damageBase":4,
@@ -8800,7 +8800,7 @@
     },
     {
         "name":"Calm Mind",
-        "effect":"Raise the user’s Special Attack 1 Combat Stage and raise the user’s Special Defense 1 Combat Stage.",
+        "effect":"Raise the user's Special Attack 1 Combat Stage and raise the user's Special Defense 1 Combat Stage.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
@@ -8899,7 +8899,7 @@
     },
     {
         "name":"Solar Blade",
-        "effect":"Set-Up Effect: If the weather is not Sunny, the user’s gains 1 Attack Combat Stage and 1 Special Defense Combat Stage. If it is Sunny, immediately Resolve. Resolution Effect: Attack with Solar Blade. Half damage in Sandstorm, Hail, or Rain.",
+        "effect":"Set-Up Effect: If the weather is not Sunny, the user's gains 1 Attack Combat Stage and 1 Special Defense Combat Stage. If it is Sunny, immediately Resolve. Resolution Effect: Attack with Solar Blade. Half damage in Sandstorm, Hail, or Rain.",
         "type":"Grass",
         "category":"Physical",
         "damageBase":13,
@@ -9064,7 +9064,7 @@
     },
     {
         "name":"Bitter Malice",
-        "effect":"Legal targets hit by Bitter Malice are Stuck and Trapped until the end of their next turn on a 19+.\\nOnce a Scene, if Bitter Malice's target has a Status Condition, you may double Bitter Malice's Damage Base to 12 instead (3d12+10 /30).",
+        "effect":"Legal targets hit by Bitter Malice are Stuck and Trapped until the end of their next turn on a 19+. Once a Scene, if Bitter Malice's target has a Status Condition, you may double Bitter Malice's Damage Base to 12 instead (3d12+10 /30).",
         "type":"Ghost",
         "category":"Special",
         "damageBase":6,
@@ -9108,7 +9108,7 @@
     },
     {
         "name":"Charm",
-        "effect":"Lower the target’s Attack by 2 Combat Stages.",
+        "effect":"Lower the target's Attack by 2 Combat Stages.",
         "type":"Fairy",
         "category":"Status",
         "damageBase":"--",
@@ -9141,7 +9141,7 @@
     },
     {
         "name":"Leaf Storm",
-        "effect":"Lower the user’s Special Attack 2 Combat Stages after damage.",
+        "effect":"Lower the user's Special Attack 2 Combat Stages after damage.",
         "type":"Grass",
         "category":"Special",
         "damageBase":13,
@@ -9273,7 +9273,7 @@
     },
     {
         "name":"Mirror Coat",
-        "effect":"Mirror Coat may be used as a Reaction when the user is hit by a damaging Special Attack. Resolve the Triggering Attack, with Mirror Coat’s user resisting the attack one step further. After the attack is resolved, if Mirror Coat’s user was not Fainted, the triggering foe then loses Hit Points equal to twice the amount of Hit Points lost by the user from the triggering attack. Note that Mirror Coat is Special, and while it cannot miss, it cannot hit targets immune to Psychic-Type Moves.",
+        "effect":"Mirror Coat may be used as a Reaction when the user is hit by a damaging Special Attack. Resolve the Triggering Attack, with Mirror Coat's user resisting the attack one step further. After the attack is resolved, if Mirror Coat's user was not Fainted, the triggering foe then loses Hit Points equal to twice the amount of Hit Points lost by the user from the triggering attack. Note that Mirror Coat is Special, and while it cannot miss, it cannot hit targets immune to Psychic-Type Moves.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
@@ -9372,7 +9372,7 @@
     },
     {
         "name":"Terrorize",
-        "effect":"Make an Intimidate Check, opposed by the target’s Intimidate or Focus. If you win, the target loses all Temporary Hit Points and can only use At-Will Frequency Moves for one full round.",
+        "effect":"Make an Intimidate Check, opposed by the target's Intimidate or Focus. If you win, the target loses all Temporary Hit Points and can only use At-Will Frequency Moves for one full round.",
         "type":"",
         "category":"Status",
         "damageBase":"",
@@ -9383,7 +9383,7 @@
     },
     {
         "name":"Take Aim",
-        "effect":"Raise the user’s Accuracy by 1. If the user performs an Weapon Move on their next turn that deals damage, add its Damage Dice Roll an extra time to the damage.",
+        "effect":"Raise the user's Accuracy by 1. If the user performs an Weapon Move on their next turn that deals damage, add its Damage Dice Roll an extra time to the damage.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -9394,7 +9394,7 @@
     },
     {
         "name":"Spiky Shield",
-        "effect":"If the user is hit by an attack, the user may use Spiky Shield. The user is instead not hit by the Move. You do not take any damage nor are you affected by any of the Move’s effect. In addition, if the triggering attack was Melee-ranged, the attacker loses Hit Points equal to 1/10th of their Max Hit Points.",
+        "effect":"If the user is hit by an attack, the user may use Spiky Shield. The user is instead not hit by the Move. You do not take any damage nor are you affected by any of the Move's effect. In addition, if the triggering attack was Melee-ranged, the attacker loses Hit Points equal to 1/10th of their Max Hit Points.",
         "type":"Grass",
         "category":"Status",
         "damageBase":"--",
@@ -9427,7 +9427,7 @@
     },
     {
         "name":"Coil",
-        "effect":"Raise the user’s Attack and Defense by 1 Combat Stage, and the user gains 1 Accuracy.",
+        "effect":"Raise the user's Attack and Defense by 1 Combat Stage, and the user gains 1 Accuracy.",
         "type":"Poison",
         "category":"Status",
         "damageBase":"--",
@@ -9449,7 +9449,7 @@
     },
     {
         "name":"Solar Beam",
-        "effect":"Set-Up Effect: If the weather is not Sunny, the user’s turn ends. If the weather is Sunny, immediately proceed to the Resolution Effect instead and this Move loses the Set-Up keyword. Resolution Effect: The user attacks with Solar Beam. If the weather is Rainy, Sandstorming, or Hailing, Solar Beam’s Damage Base is lowered to 6 (2d6+8 / 15).",
+        "effect":"Set-Up Effect: If the weather is not Sunny, the user's turn ends. If the weather is Sunny, immediately proceed to the Resolution Effect instead and this Move loses the Set-Up keyword. Resolution Effect: The user attacks with Solar Beam. If the weather is Rainy, Sandstorming, or Hailing, Solar Beam's Damage Base is lowered to 6 (2d6+8 / 15).",
         "type":"Grass",
         "category":"Special",
         "damageBase":12,
