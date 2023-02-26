@@ -97,7 +97,7 @@
     },
     {
         "name":"TM52 - Focus Blast",
-        "effect":"Scene x2 - 6, 1 Target, Smite, Aura - Fighting - Special - DB12 - AC7 - Focus Blast lowers the target's Special Defense by -1 CS on 18+.",
+        "effect":"Scene x2 - 6, 1 Target, Smite, Aura - Fighting - Special - DB12 - AC7 - Focus Blast lowers the target's Special Defense by -1 Combat Stage on 18+.",
         "consumable":true,
         "cost":4400
     },
@@ -847,7 +847,7 @@
     },
     {
         "name":"TM100 - Confide",
-        "effect":"At-Will - 4, 1 Target, Social - Normal - Status - AC2 - Lower the target's Special Attack by -1 CS.",
+        "effect":"At-Will - 4, 1 Target, Social - Normal - Status - AC2 - Lower the target's Special Attack by -1 Combat Stage.",
         "consumable":true,
         "cost":1000
     },
@@ -907,7 +907,7 @@
     },
     {
         "name":"Kee Berry",
-        "effect":"+1 Defense CS. Activates as a Free Action when hit by a Physical Move. Tier 3.",
+        "effect":"+1 Defense Combat Stage. Activates as a Free Action when hit by a Physical Move. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -1129,7 +1129,7 @@
     },
     {
         "name":"TM47 - Low Sweep",
-        "effect":"EOT - Melee, 1 Target - Fighting - Physical - DB7 - AC2 - Lower the target’s Speed by -1 CS.",
+        "effect":"EOT - Melee, 1 Target - Fighting - Physical - DB7 - AC2 - Lower the target’s Speed by -1 Combat Stage.",
         "consumable":true,
         "cost":2400
     },
@@ -1225,7 +1225,7 @@
     },
     {
         "name":"TM91 - Flash Cannon",
-        "effect":"EOT - 6, 1 Target - Steel - Special - DB8 - AC2 - Flash Cannon lowers the target's Special Defense by -1 CS on 17+.",
+        "effect":"EOT - 6, 1 Target - Steel - Special - DB8 - AC2 - Flash Cannon lowers the target's Special Defense by -1 Combat Stage on 17+.",
         "consumable":true,
         "cost":2700
     },
@@ -1399,7 +1399,7 @@
     },
     {
         "name":"Starf Berry",
-        "effect":"+2 CS to a random Stat. May be used only at 25% HP or lower. Tier 2.",
+        "effect":"+2 Combat Stage to a random Stat. May be used only at 25% HP or lower. Tier 2.",
         "consumable":true,
         "cost":250
     },
@@ -1729,7 +1729,7 @@
     },
     {
         "name":"Maranga Berry",
-        "effect":"+1 Special Defense CS. Activates as a Free Action when hit by a Special Move. Tier 3.",
+        "effect":"+1 Special Defense Combat Stage. Activates as a Free Action when hit by a Special Move. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -1921,7 +1921,7 @@
     },
     {
         "name":"TM39 - Rock Tomb",
-        "effect":"At-Will - 6, 1 Target - Rock - Physical - DB6 - AC5 - Rock Tomb lowers the target's Speed by -1 CS. *Grants Materializer",
+        "effect":"At-Will - 6, 1 Target - Rock - Physical - DB6 - AC5 - Rock Tomb lowers the target's Speed by -1 Combat Stage. *Grants Materializer",
         "consumable":true,
         "cost":2800
     },
@@ -1963,7 +1963,7 @@
     },
     {
         "name":"TM30 - Shadow Ball",
-        "effect":"EOT - 8, 1 Target - Ghost - Special - DB8 - AC2 - Shadow Ball lowers the target's Special Defense by -1 CS on 17+.",
+        "effect":"EOT - 8, 1 Target - Ghost - Special - DB8 - AC2 - Shadow Ball lowers the target's Special Defense by -1 Combat Stage on 17+.",
         "consumable":true,
         "cost":2700
     },
@@ -2017,7 +2017,7 @@
     },
     {
         "name":"TM01 - Work Up",
-        "effect":"EOT - Self - Normal - Status - Raise the user’s Attack and Special Attack by +1 CS each.",
+        "effect":"EOT - Self - Normal - Status - Raise the user’s Attack and Special Attack by +1 Combat Stage each.",
         "consumable":true,
         "cost":1200
     },
@@ -2077,7 +2077,7 @@
     },
     {
         "name":"Ganlon Berry",
-        "effect":"+1 Defense CS. Tier 2.",
+        "effect":"+1 Defense Combat Stage. Tier 2.",
         "consumable":true,
         "cost":250
     },
@@ -2185,7 +2185,7 @@
     },
     {
         "name":"Salac Berry",
-        "effect":"+1 Speed CS. Tier 2.",
+        "effect":"+1 Speed Combat Stage. Tier 2.",
         "consumable":true,
         "cost":250
     },
@@ -2371,7 +2371,7 @@
     },
     {
         "name":"TM69 - Rock Polish",
-        "effect":"EOT - Self - Rock - Status - Raise the user's Speed by +2 CS.",
+        "effect":"EOT - Self - Rock - Status - Raise the user's Speed by +2 Combat Stage.",
         "consumable":true,
         "cost":1200
     },
@@ -2671,7 +2671,7 @@
     },
     {
         "name":"Liechi Berry",
-        "effect":"+1 Attack CS. Tier 2.",
+        "effect":"+1 Attack Combat Stage. Tier 2.",
         "consumable":true,
         "cost":250
     },
@@ -2737,7 +2737,7 @@
     },
     {
         "name":"TM75 - Swords Dance",
-        "effect":"EOT - Self - Normal - Status - Raise the user's Attack by +2 CS.",
+        "effect":"EOT - Self - Normal - Status - Raise the user's Attack by +2 Combat Stage.",
         "consumable":true,
         "cost":1200
     },
@@ -3199,7 +3199,7 @@
     },
     {
         "name":"TM95 - Snarl",
-        "effect":"EOT - Cone 2, Sonic - Dark - Special - DB6 - AC3 - Lower the Special Attack of all legal targets by -1 CS.",
+        "effect":"EOT - Cone 2, Sonic - Dark - Special - DB6 - AC3 - Lower the Special Attack of all legal targets by -1 Combat Stage.",
         "consumable":true,
         "cost":2400
     },
@@ -3349,7 +3349,7 @@
     },
     {
         "name":"TM87 - Swagger",
-        "effect":"EOT - 6, 1 Target, Social - Normal - Status - AC5 - Raise the target's Attack by +2 CS. The target is Confused.",
+        "effect":"EOT - 6, 1 Target, Social - Normal - Status - AC5 - Raise the target's Attack by +2 Combat Stage. The target is Confused.",
         "consumable":true,
         "cost":1000
     },
@@ -3433,7 +3433,7 @@
     },
     {
         "name":"TM51 - Steel Wing",
-        "effect":"At-Will - Melee, Pass, Spirit Surge - Steel - Physical - DB7 - AC3 - Steel Wing raises the user's Defense by +1 CS on 15+.",
+        "effect":"At-Will - Melee, Pass, Spirit Surge - Steel - Physical - DB7 - AC3 - Steel Wing raises the user's Defense by +1 Combat Stage on 15+.",
         "consumable":true,
         "cost":2200
     },
@@ -3463,7 +3463,7 @@
     },
     {
         "name":"Petaya Berry",
-        "effect":"+1 Special Attack CS. Tier 2.",
+        "effect":"+1 Special Attack Combat Stage. Tier 2.",
         "consumable":true,
         "cost":250
     },
@@ -3487,7 +3487,7 @@
     },
     {
         "name":"Apicot Berry",
-        "effect":"+1 Special Defense CS. Tier 2.",
+        "effect":"+1 Special Defense Combat Stage. Tier 2.",
         "consumable":true,
         "cost":250
     },
@@ -3841,7 +3841,7 @@
     },
     {
         "name":"TM08 - Bulk Up",
-        "effect":"EOT - Self - Fighting - Status - Raise the user’s Attack and Defense by +1 CS each.",
+        "effect":"EOT - Self - Fighting - Status - Raise the user’s Attack and Defense by +1 Combat Stage each.",
         "consumable":true,
         "cost":1200
     },
