@@ -130,7 +130,7 @@
         "effect":"You gain access to your Legendary Form’s Move List while in your Avatar Form.",
         "prerequisites":"True Power, Pokemon Form Level 50",
         "frequency":"Static",
-        "tags":"[Ranked 3] [Patron Stat]"
+        "tags":"[Ranked 3][Patron Stat]"
     },
     {
         "name":"Mental Assault",
@@ -207,7 +207,7 @@
         "effect":"You gain the Sniper Ability.",
         "prerequisites":"Novice Combat, Novice Perception",
         "frequency":"Static",
-        "tags":"[Class] [+Attack] [Weapon]"
+        "tags":"[Class][+Attack][Weapon]"
     },
     {
         "name":"Critical Moment",
@@ -333,7 +333,7 @@
         "effect":"Target: An Arcane Weapon \\nEffect: You create a Soul Bond with the target Weapon. You may make a Soul Bond with only one weapon at a time. If you create a new Soul Bond, previously Soul Bound weapons lose the Bond. Soul Bound Weapons gain the following benefits:\\n»» Increase the Damage Base and Effect Range of Struggle Attacks and Arcane Weapon Moves made with your Soul Bonded Weapon by +1 for each Occult Education Rank you have above Novice, up to a maximum of +3 at Master Rank.\\n»» As a Shift Action, you may beckon your Soul Bonded Weapon to your hands if it is within 10 meters. If it is being held by someone else who does not want to let go of the weapon, make an Occult vs Athletics Opposed Check. If you win, they their lose grip on your Weapon and it flies to your hand as normal.",
         "prerequisites":"Arcane Training",
         "frequency":"At-Will – Extended Action",
-        "tags":"[Class] [+Special Attack] [Weapon]"
+        "tags":"[Class][+Special Attack][Weapon]"
     },
     {
         "name":"Man of Steel",
@@ -403,7 +403,7 @@
         "effect":"You gain the Levitate Ability. You have a total Levitate Speed equal to 4 plus half of the higher of your Acrobatics or Perception Rank.",
         "prerequisites":"Elemental Connection (Flying), Novice Acrobatics, Novice Perception",
         "frequency":"Static",
-        "tags":"[Class] [+Speed]"
+        "tags":"[Class][+Speed]"
     },
     {
         "name":"Stacked Deck",
@@ -424,7 +424,7 @@
         "effect":"You gain two Blessings in the form of Signs, marked Rank 3 or lower. You must additionally meet any Prerequisites of the Blessing.\\nRank 3 Blessings: Blessed Resilience, Insight of the Great Ones",
         "prerequisites":"A Pact Gift, GM Permission\\nOR\\nAll your Patron's Major Gifts, GM Permission (if no Pact Gift)",
         "frequency":"Static",
-        "tags":"[Ranked 4] [Patron Stat]"
+        "tags":"[Ranked 4][Patron Stat]"
     },
     {
         "name":"Speed Stratagem",
@@ -578,7 +578,7 @@
         "effect":"Target: Your Soul Bonded Weapon\\nEffect: Choose one Novice and one Expert Arcane Weapon Move. Your Soul Bonded Weapon adds those Moves to your Move List as long as this Feature is Bound. You may only Bind one instance of this Feature at a time, and you may not have multiple instances of the same Move in your Move List.",
         "prerequisites":"Arcanist, Master Occult Education",
         "frequency":"Bind 2 AP – Extended Action",
-        "tags":"[+Special Attack] [Weapon]"
+        "tags":"[+Special Attack][Weapon]"
     },
     {
         "name":"Brightest Flame",
@@ -606,7 +606,7 @@
         "effect":"You gain two Blessings in the form of Signs, marked Rank 2 or lower. You must additionally meet any Prerequisites of the Blessing.\\nRank 2 Blessings: Blessed Power, Luck of the Gods, Soul Mending",
         "prerequisites":"A Major Gift, GM Permission",
         "frequency":"Static",
-        "tags":"[Ranked 4] [Patron Stat]"
+        "tags":"[Ranked 4][Patron Stat]"
     },
     {
         "name":"Cute Cuddle Rank 2",
@@ -662,7 +662,7 @@
         "effect":"Learn two Fire Breather Moves from the list below. You may choose any Move marked with the Fire Breather Rank you are taking or lower.\\nRank 2 Moves: Blaze Kick, Fiery Dance, Flare Blitz, Heat Wave",
         "prerequisites":"Master Focus or Combat",
         "frequency":"Static",
-        "tags":"[Ranked 2] [+Special Attack or Attack]"
+        "tags":"[Ranked 2][+Special Attack or Attack]"
     },
     {
         "name":"Martial Artist",
@@ -830,7 +830,7 @@
         "effect":"After an hour of exercise, an Athlete may choose two different Stats besides HP; both of those stats become Trained Stats. The default State of Trained Stats is +1 Combat Stages instead of 0. An Athlete may have two Trained Stats at a time.",
         "prerequisites":"Novice Athletics, One of Athletic Initiative, Mounted Prowess, Power Boost, Stamina, or Swimmer",
         "frequency":"At-Will – Extended Action",
-        "tags":"[Class] [+HP]"
+        "tags":"[Class][+HP]"
     },
     {
         "name":"Flood!",
@@ -858,7 +858,7 @@
         "effect":"You may learn two Moves from the list below.\\nRank 1 Moves: Aerial Ace, Air Cutter, Gust, Tailwind",
         "prerequisites":"Wind Runner",
         "frequency":"Static",
-        "tags":"[Ranked 3] [+Speed]"
+        "tags":"[Ranked 3][+Speed]"
     },
     {
         "name":"Telepathic Awareness",
@@ -910,11 +910,11 @@
         "tags":"[Ranked 3][+Speed]"
     },
     {
-        "name":"Bookworm [Playtest]",
+        "name":"Bookworm",
         "effect":"You gain X Study Points, where X is equal to 2 plus one more for every other General Research Feature you have. You may Drain Study Points to benefit from studying Books, instead of Draining your Action Points. Study Points are restored to your maximum after an Extended Rest, just like Action Points.",
         "prerequisites":"Breadth of Knowledge",
         "frequency":"Static",
-        "tags":"[General Research Field][Branch][5-15 Playtest]"
+        "tags":"[General Research Field][Branch]"
     },
     {
         "name":"Force of Will",
@@ -935,7 +935,7 @@
         "effect":"Target: Your Pokémon\\nEffect: The target regains one use of a Scene-Frequency Move of your Chosen Type, and refreshes the Frequency of all EOT-Frequency Moves of your chosen Type. A Target can be affected by Type Refresh only once per Scene.",
         "prerequisites":"Type Ace",
         "frequency":"2 AP - Standard Acrion",
-        "tags":"[Branch] [Orders]"
+        "tags":"[Branch][Orders]"
     },
     {
         "name":"Strike Again!",
@@ -949,14 +949,14 @@
         "effect":"You gain two Terrain Talents, chosen from the Terrains for which you gained Naturewalk from Survivalist.\\n»» Grassland: Plains Runner\\n»» Forest: Forest Ranger\\n»» Wetlands: Marsh Stomper\\n»» Ocean: Deep Diver\\n»» Tundra: Arctic Pilgrim\\n»» Mountain: Surefooted\\n»» Cave: Cave Dweller\\n»» Urban: Traceur\\n»» Desert: Dune Walker",
         "prerequisites":"Survivalist, 2 Mastered Terrains",
         "frequency":"Static",
-        "tags":"[Ranked 2] [+HP]"
+        "tags":"[Ranked 2][+HP]"
     },
     {
         "name":"PK Combat",
         "effect":"You may also wield weapons and items with your Telekinesis capability, as long as you are able to lift them. This means you may use Items and Melee Weapons that normally require you to be adjacent to your target at a range limited only by your Telekinesis. When wielding Weapons with your Telekinesis, you qualify for Moves using Focus instead of Combat and may add your Special Attack instead of your Attack Stat. The Attacks remain Physical, however.",
         "prerequisites":"Telekinetic, Adept Focus",
         "frequency":"Bind 1 AP – Standard Action",
-        "tags":"[+Special Attack] [Weapon]"
+        "tags":"[+Special Attack][Weapon]"
     },
     {
         "name":"Maelstrom",
@@ -984,7 +984,7 @@
         "effect":"Learn two Hex Maniac Moves. You may choose any Move marked with the Hex Maniac Studies Rank you are taking or lower.  Use Curse as if you were a Ghost-type Pokemon.\\nRank 1 Moves: Confuse Ray, Curse, Hypnosis, Spite, Will-O-Wisp",
         "prerequisites":"Hex Maniac",
         "frequency":"Static",
-        "tags":"[+HP] [Ranked 3]"
+        "tags":"[+HP][Ranked 3]"
     },
     {
         "name":"Enduring Bloom",
@@ -1183,11 +1183,11 @@
         "tags":"-"
     },
     {
-        "name":"Incandescence [Playtest]",
+        "name":"Incandescence",
         "effect":"Trigger - Your Fire-Type Pokémon\\nEffect: While this Feature is Bound, the target gains the Mixed Power Poké Edge effect when using damaging Fire-Type Attacks. If the target already has Mixed Power, they instead add their entire Attack and Special Attack Stats to all damaging Fire-Type Attacks, instead of one or the other. This does not stack with Twisted Power.",
         "prerequisites":"Brightest Flame, Type-Linked Skill at Expert",
         "frequency":"Bind 2 AP – Standard Action",
-        "tags":"[Orders] [Stratagem]"
+        "tags":"[Orders][Stratagem]"
     },
     {
         "name":"Nature's Embrace Rank 2",
@@ -1229,14 +1229,14 @@
         "effect":"Each Rank, you may gain two Backpacker Talents for which you qualify.",
         "prerequisites":"Backpacker, Expert Survival",
         "frequency":"Static",
-        "tags":"[Ranked 4] [+Speed]"
+        "tags":"[Ranked 4][+Speed]"
     },
     {
         "name":"Weather Systems",
         "effect":"Target: Your Pokemon with at least 2 Tutor Point\\nEffect: Your Pokemon loses 2 Tutor Points, and learns your choice of Hail, Rain Dance, Sandstorm, or Sunny Day. The target must be able to learn the chosen Move through Level-Up, TM, or Tutor Moves. If the target has the chosen Move in their Level-Up List, Weather Systems costs no Tutor Points.",
         "prerequisites":"Climatology, Expert Survival",
         "frequency":"At-Will - Extended Action",
-        "tags":"[Climatology Research Field] [Branch]"
+        "tags":"[Climatology Research Field][Branch]"
     },
     {
         "name":"Nurse",
@@ -1278,7 +1278,7 @@
         "effect":"The target becomes Inspired until the end of the effect duration. Inspired Pokémon gain a +1 bonus to Evasion and +2 to Save Checks.",
         "prerequisites":"Novice Charm, Untrained Command",
         "frequency":"At-Will – Special",
-        "tags":"[Training] [Orders]"
+        "tags":"[Training][Orders]"
     },
     {
         "name":"Rogue",
@@ -1348,7 +1348,7 @@
         "effect":"Target: A hatching egg.\\nEffect: The Pokémon is born with special qualities, determined by the GM. This Feature may be activated one time per Pokémon Education Rank above Untrained.",
         "prerequisites":"Pusher",
         "frequency":"Special - Free Action",
-        "tags":"[Pokemon Caretaking Research Field] [Branch]"
+        "tags":"[Pokemon Caretaking Research Field][Branch]"
     },
     {
         "name":"Attack Maneuver",
@@ -1369,14 +1369,14 @@
         "effect":"Choose Teamwork or Pack Hunt. You gain the Chosen Ability.",
         "prerequisites":"Novice Survival, Novice Stealth",
         "frequency":"Static",
-        "tags":"[Class] [+Speed]"
+        "tags":"[Class][+Speed]"
     },
     {
         "name":"Signature Manipulations Rank 2",
         "effect":"Select a Power Manipulation marked Rank 2 or lower. For Rank 1 Manipulations, this Manipulation may be used twice per Scene without spending AP to activate. For Rank 2 Manipulations, this Manipulation may be used once per Scene without activating Authentic Thaumaturgy’s Frequency.",
         "prerequisites":"Authentic Thaumaturgy",
         "frequency":"Static",
-        "tags":"[Ranked 2] [+Special Attack]"
+        "tags":"[Ranked 2][+Special Attack]"
     },
     {
         "name":"Street Fighter",
@@ -1411,7 +1411,7 @@
         "effect":"You gain the Telepathy Capability for the rest of the scene.",
         "prerequisites":"Elemental Connection (Psychic), Iron Mind, Novice Intuition",
         "frequency":"2 AP - Swift Action",
-        "tags":"[Class] [+Special Defense]"
+        "tags":"[Class][+Special Defense]"
     },
     {
         "name":"Weightless Step",
@@ -1446,7 +1446,7 @@
         "effect":"Choose a Terrain in which you have spent at least three nights. You gain Naturewalk for that terrain and a +2 bonus to Athletics, Acrobatics, Stealth, Perception, and Survival Checks in that terrain. When you have 2 Survivalist Features, you may choose a second Terrain. When you have 4 Survivalist Features, you may choose a third terrain. When you have 6 Survivalist Features, you may choose a fourth terrain. The terrains are: Grassland, Forest, Wetlands, Ocean, Tundra, Mountain, Cave, Urban, Desert",
         "prerequisites":"Novice Survival",
         "frequency":"One Time Use - Extended Action",
-        "tags":"[Class] [+HP]"
+        "tags":"[Class][+HP]"
     },
     {
         "name":"Speed Mastery",
@@ -1481,7 +1481,7 @@
         "effect":"Target: Your Pokémon\\nEffect: While this Feature is Bound, increase the damage rolls of the target’s damaging melee attacks by +8, and these attacks Trip targets on Accuracy Rolls of 18+. When the target of Reckless Advance hits with a damaging melee attack, they become Vulnerable for one full round.",
         "prerequisites":"Ravager Orders",
         "frequency":"Bind 2 AP – Standard Action",
-        "tags":"[Orders] [Stratagem]"
+        "tags":"[Orders][Stratagem]"
     },
     {
         "name":"Cavalier's Reprisal",
@@ -1586,14 +1586,14 @@
         "effect":"Each Rank, choose a Type of which you know at least 3 Moves. You gain STAB for the chosen Type. STAB is never applied to Struggle Attacks.",
         "prerequisites":"Level 9, 3 Moves of the Chosen Type in your Move List",
         "frequency":"Static",
-        "tags":"[Ranked 2] [+Any]"
+        "tags":"[Ranked 2][+Any]"
     },
     {
         "name":"Type Expertise Rank 2",
         "effect":"Each Rank, choose a Type of which you know at least 3 Moves. You gain STAB for the chosen Type. STAB is never applied to Struggle Attacks.",
         "prerequisites":"Level 9, 3 Moves of the Chosen Type in your Move List",
         "frequency":"Static",
-        "tags":"[Ranked 2] [+Any]"
+        "tags":"[Ranked 2][+Any]"
     },
     {
         "name":"Noblesse Oblige",
@@ -1607,7 +1607,7 @@
         "effect":"Target: Your Rock-Type Pokémon\\nEffect: While this Feature is Bound, allied Stealth Rock Hazards within 4 meters of your Pokémon are not used when a foe triggers them unless you want them to be. Whenever the target takes Super-Effective Damage from a Water, Grass, Ground, Fighting, or Steel Type Attack, they may consume an allied Stealth Rock Hazard within 4 meters to create temporary armor that grants them Damage Reduction equal to your Type-Linked Skill Rank for one full round.",
         "prerequisites":"Gravel Before Me, Type-Linked Skill at Expert",
         "frequency":"Bind 2 AP - Standard Action",
-        "tags":"[Orders] [Stratagem]"
+        "tags":"[Orders][Stratagem]"
     },
     {
         "name":"Fossil Restoration",
@@ -1768,7 +1768,7 @@
         "effect":"Learn two Hex Maniac Moves. You may choose any Move marked with the Hex Maniac Studies Rank you are taking or lower.\\nRank 3 Move: Hex",
         "prerequisites":"Hex Maniac, Expert Occult Education",
         "frequency":"Static",
-        "tags":"[+HP] [Ranked 3]"
+        "tags":"[+HP][Ranked 3]"
     },
     {
         "name":"Call the Current Rank 1",
@@ -1817,7 +1817,7 @@
         "effect":"You gain the Pickup Ability.",
         "prerequisites":"Mystic Senses, Novice Perception",
         "frequency":"Static",
-        "tags":"[Class] [+Special Defense]"
+        "tags":"[Class][+Special Defense]"
     },
     {
         "name":"Action Hero Stunt",
@@ -1831,7 +1831,7 @@
         "effect":"You may create Fine Weapons for $2,000, Helmets for $1,125, Heavy Shields for $2,250 and Heavy Armor for $5,000.",
         "prerequisites":"Adept Focus, Adept Athletics",
         "frequency":"Static",
-        "tags":"[Ranked 2] [+Attack]"
+        "tags":"[Ranked 2][+Attack]"
     },
     {
         "name":"Special Attack Ace",
@@ -1894,7 +1894,7 @@
         "effect":"You learn the Moves Dragon Claw and Dragon Tail. You may use these Moves as Weapon Attacks when wielding Melee Weapons.",
         "prerequisites":"Herald of Pride, Adept Command or Intimidate",
         "frequency":"Static",
-        "tags":"[+Attack] [Weapon]"
+        "tags":"[+Attack][Weapon]"
     },
     {
         "name":"Experimental AI",
@@ -1922,7 +1922,7 @@
         "effect":"You may learn two Moves from the list below.\\nRank 1 Moves: Freeze-Dry, Ice Punch, Ice Beam, Icicle Crash",
         "prerequisites":"Expert Athletics or Survival",
         "frequency":"Static",
-        "tags":"[Ranked 2] [+Attack or Special Attack]"
+        "tags":"[Ranked 2][+Attack or Special Attack]"
     },
     {
         "name":"Adaptive Geography",
@@ -1936,7 +1936,7 @@
         "effect":"Target: Your Pokémon\\nEffect: While this Stratagem is bound, your Pokémon may activate Moves and Abilities as if they were in Sunny Weather.",
         "prerequisites":"Foiling Foliage, Type-Linked Skill at Adept",
         "frequency":"Bind 2 AP - Standard Action",
-        "tags":"[Orders] [Stratagem]"
+        "tags":"[Orders][Stratagem]"
     },
     {
         "name":"Observation Party",
@@ -1971,7 +1971,7 @@
         "effect":"Each Rank, you may gain two Backpacker Talents for which you qualify.\\nTalents: Call to Adventure, Hat Trick, Frisk, Handyman, Movement Mastery, Sole Power, Wayfarer, Wear It Better",
         "prerequisites":"Backpacker",
         "frequency":"Static",
-        "tags":"[Ranked 4] [+Speed]"
+        "tags":"[Ranked 4][+Speed]"
     },
     {
         "name":"Move Sync",
@@ -1992,7 +1992,7 @@
         "effect":"You gain whichever Ability you did not choose for Rank 1.",
         "prerequisites":"Aura Guardian, Expert Intuition",
         "frequency":"Static",
-        "tags":"[+Attack or Special Attack] [Ranked 2]"
+        "tags":"[+Attack or Special Attack][Ranked 2]"
     },
     {
         "name":"Musical Ability",
@@ -2132,7 +2132,7 @@
         "effect":"Each Rank, you may gain two Backpacker Talents for which you qualify.",
         "prerequisites":"Backpacker, Adept Survival",
         "frequency":"Static",
-        "tags":"[Ranked 4] [+Speed]"
+        "tags":"[Ranked 4][+Speed]"
     },
     {
         "name":"Psionic Analysis",
@@ -2265,7 +2265,7 @@
         "effect":"Choose Cursed Body or Omen. You gain the Chosen Ability.",
         "prerequisites":"Novice Occult Education",
         "frequency":"Static",
-        "tags":"[Class] [+HP]"
+        "tags":"[Class][+HP]"
     },
     {
         "name":"Complex Orders",
@@ -2398,7 +2398,7 @@
         "effect":"Target: A willing Pokémon with the Magnetic, Zapper, or Threaded Capability\\nEffect: Choose one of the Capabilities listed in the Target line that the target Pokémon has. You create a Main or Off-Hand Equipment Item usable by Trainers that grants the user the chosen Capability. Whenever a Trainer makes Struggle Attacks using Zapper through this Item, they may choose to use your Technology Education Rank tripled in place of an offensive Stat. When this Feature is Unbound, the Equipment Item breaks and cannot be repaired. You may only have X instances of this Feature Bound at once, where X is equal to half your Technology Education Rank.",
         "prerequisites":"Novice Technology Education",
         "frequency":"Bind 2 AP – Extended Action",
-        "tags":"[Gadgeteer Research Field] [Branch]"
+        "tags":"[Gadgeteer Research Field][Branch]"
     },
     {
         "name":"Gale Strike",
@@ -2531,7 +2531,7 @@
         "effect":"You may learn two Moves from the list below, marked with the Rank of Winter’s Herald you are gaining or lower.\\nRank 2 Moves: Avalanche, Blizzard, Frost Breath, Icicle Spear",
         "prerequisites":"Master Athletics or Survival",
         "frequency":"Static",
-        "tags":"[Ranked 2] [+Attack or Special Attack]"
+        "tags":"[Ranked 2][+Attack or Special Attack]"
     },
     {
         "name":"Lay on Hands",
@@ -2552,7 +2552,7 @@
         "effect":"Choose Scrappy or Aura Storm. You gain the Chosen Ability.",
         "prerequisites":"Aura Guardian",
         "frequency":"Static",
-        "tags":"[+Attack or Special Attack] [Ranked 2]"
+        "tags":"[+Attack or Special Attack][Ranked 2]"
     },
     {
         "name":"Ramming Speed",
@@ -2594,7 +2594,7 @@
         "effect":"Target: Your Pokémon\\nEffect: Increase the Accuracy and Effect Range of the target’s damaging attacks by +2. These attacks deal 5 less damage, before applying weakness and resistance.",
         "prerequisites":"Precision Orders",
         "frequency":"Bind 2 AP – Standard Action",
-        "tags":"[Orders] [Stratagem]"
+        "tags":"[Orders][Stratagem]"
     },
     {
         "name":"Shocking Speed",
@@ -2622,7 +2622,7 @@
         "effect":"You gain two Terrain Talents, chosen from the Terrains for which you gained Naturewalk from Survivalist.",
         "prerequisites":"Survivalist, Master Survival, 4 Mastered Terrains",
         "frequency":"Static",
-        "tags":"[Ranked 2] [+HP]"
+        "tags":"[Ranked 2][+HP]"
     },
     {
         "name":"Chronicler",
@@ -2657,7 +2657,7 @@
         "effect":"Select a Rank 1 Power Manipulation. This Manipulation may be used twice per Scene without spending AP to activate.",
         "prerequisites":"Metamagic",
         "frequency":"Static",
-        "tags":"[Ranked 2] [+Special Attack]"
+        "tags":"[Ranked 2][+Special Attack]"
     },
     {
         "name":"Enticing Beauty",
@@ -2706,14 +2706,14 @@
         "effect":"Choose two Researcher Fields of Study. You may take Features from those Fields with this instance of Researcher. Gain one Feature from a chosen Researcher Field for which you qualify. Note: Researcher is broken up into multiple Fields of Study. You may not take Features from a Field of Study you haven’t chosen with the base Researcher Feature. You may take Researcher any number of times, each time choosing two different Fields of Study.",
         "prerequisites":"An Education Skill at Novice Rank",
         "frequency":"Static",
-        "tags":"[Class] [Branch]"
+        "tags":"[Class][Branch]"
     },
     {
         "name":"Sign Mastery Rank 1",
         "effect":"You acquire two Rank 1 Blessings in the form of Signs.\\nRank 1 Blessings: Ancient Wisdom, Blessed Strike, Paragon, Spirit Mending",
         "prerequisites":"Signer, GM Permission",
         "frequency":"Static",
-        "tags":"[Ranked 4] [Patron Stat]"
+        "tags":"[Ranked 4][Patron Stat]"
     },
     {
         "name":"Type Sync",
@@ -2769,7 +2769,7 @@
         "effect":"Trigger - You hit a foe with an Attack\\nEffect: The foe loses a Combat Stage in the Stat of your choice.",
         "prerequisites":"Novice Athletics, Intimidating Presence",
         "frequency":"1 AP – Swift Action",
-        "tags":"[Class] [+Defense]"
+        "tags":"[Class][+Defense]"
     },
     {
         "name":"Gift of Command",
@@ -2818,7 +2818,7 @@
         "effect":"You may learn two Moves from the list below.\\nRank 1 Moves: Charge Beam, Eerie Impulse, Shock Wave, Spark",
         "prerequisites":"Spark Master",
         "frequency":"Static",
-        "tags":"[+Speed] [Ranked 3]"
+        "tags":"[+Speed][Ranked 3]"
     },
     {
         "name":"Fabulous Max",
@@ -3000,7 +3000,7 @@
         "effect":"Create a Line X, and place a Blast 3 with at least three meters overlapping the Line’s area. X is equal to your Weapon’s Range. For one full round, if a foe moves in or out of that area, you may make a Ranged Weapon attack, Frequency allowing, against that foe as a Free Action. You may not attack a specific foe more than once per round this way. While this is in effect, if you Move from your current location, Overwatch’s effect is lost.",
         "prerequisites":"Marksman, Adept Perception or Combat",
         "frequency":"At-Will – Standard Action",
-        "tags":"[+Attack] [Weapon]"
+        "tags":"[+Attack][Weapon]"
     },
     {
         "name":"Overgrowth",
@@ -3042,7 +3042,7 @@
         "effect":"You gain access to your Legendary Form’s Abilities while in your Avatar form.",
         "prerequisites":"Pokemon Form Level 20",
         "frequency":"Static",
-        "tags":"[Ranked 3] [Patron Stat]"
+        "tags":"[Ranked 3][Patron Stat]"
     },
     {
         "name":"Blazing Inferno",
@@ -3084,7 +3084,7 @@
         "effect":"Target: A willing Pokémon with one of the Capabilities listed below\\nEffect: Choose one of the Capabilities below which the target Pokémon has. You create a consumable item with the effect below, depending on the chosen Capability. All unused items created with Enhanced Capsules are rendered inert after an Extended Rest (including modifications to other items).\\n\\n»» Glow: This item may be attached to a Wonder Launcher as a Standard Action to give the following effect for the rest of the Scene: Whenever you apply an Item to a target using this Wonder Launcher, that target gains the Illuminate Ability for one full round.\\n»» Magnetic: This item may be loaded into a Cap Cannon to provide two Bean Cap Ammo. When fired, these Bean Caps cannot miss.\\n»» Threaded: This item may be loaded into a Cap Cannon to provide two Glue Cap Ammo. When fired, they affect a Blast 2 instead of a single target.\\n»» Zapper: This item may be loaded into a Cap Cannon as a single Net Cap Ammo. Targets trapped by this Net Cap are Suppressed while trapped. Targets immune to Electric-Type attacks are immune to this effect.",
         "prerequisites":"Capsule Science, Master Technology Education",
         "frequency":"Daily x3 – Extended Action",
-        "tags":"[Gadgeteer Research Field] [Branch]"
+        "tags":"[Gadgeteer Research Field][Branch]"
     },
     {
         "name":"Cutthroat",
@@ -3112,7 +3112,7 @@
         "effect":"Effect: You learn the Moves Sweet Kiss and Taunt.\\nNote: Provocateur Skills are Charm, Guile, and Intimidate.",
         "prerequisites":"One of Confidence Artist, Intimidating Presence, or Charmer",
         "frequency":"Static",
-        "tags":"[Class] [+Speed]"
+        "tags":"[Class][+Speed]"
     },
     {
         "name":"Effective Methods",
@@ -3371,14 +3371,14 @@
         "effect":"You gain three Edges for which you qualify. These Edges must be used to gain a Skill Edge with an Education Skill, or to gain an Edge that has an Education Skill as a Prerequisite that you meet.",
         "prerequisites":"Novice General Education",
         "frequency":"Static",
-        "tags":"[General Research Field] [Branch]"
+        "tags":"[General Research Field][Branch]"
     },
     {
         "name":"Fire Breather Rank 1",
         "effect":"Learn two Fire Breather Moves from the list below.\\nRank 1 Moves: Flamethrower, Fire Punch, Fire Spin, Sunny Day",
         "prerequisites":"Expert Focus or Combat",
         "frequency":"Static",
-        "tags":"[Ranked 2] [+Special Attack or Attack]"
+        "tags":"[Ranked 2][+Special Attack or Attack]"
     },
     {
         "name":"Awareness",
@@ -3441,7 +3441,7 @@
         "effect":"Your Pokémon gain +2d6 to your chosen Contest Stat. These dice are counted as if coming from Poffins.\\n\\nNote: When you take Style Expert, choose from Beauty, Cool, Cute, Smart, or Tough. This becomes your Chosen Contest Stat. You may take Style Expert multiple times, each time choosing a different Contest Stat",
         "prerequisites":"3 Pokémon with 3d6 in a specific certain Contest Stat from Poffins\\nOr\\nCoordinator, 1 Pokemon with 3d6 in a specific certain Constat Stat from Poffins",
         "frequency":"Static",
-        "tags":"[Class] [Branch]"
+        "tags":"[Class][Branch]"
     },
     {
         "name":"Arcane Favor",
@@ -3539,7 +3539,7 @@
         "effect":"Trigger: You or your Pokémon make a roll\\nEffect: You may roll twice and keep the best result.",
         "prerequisites":"Breadth of Knowledge, Master General Education",
         "frequency":"Daily x2 – Free Action",
-        "tags":"[General Research Field] [Branch]"
+        "tags":"[General Research Field][Branch]"
     },
     {
         "name":"Command Versatility",
@@ -3609,7 +3609,7 @@
         "effect":"You gain the Skill Enhancement Edge. You then gain an instance of the Skill Stunt Edge for each of the two Skills you chose with Skill Enhancement.",
         "prerequisites":"Traveler",
         "frequency":"Static",
-        "tags":"[Class][+Speed][5-15 Playtest]"
+        "tags":"[Class][+Speed]"
     },
     {
         "name":"Sage",
@@ -3749,7 +3749,7 @@
         "effect":"The target becomes Focused until the end of the effect duration. Focused Pokémon gain a +1 bonus to Accuracy Rolls and +2 to Skill Checks.",
         "prerequisites":"Novice Command",
         "frequency":"At-Will – Special",
-        "tags":"[Training] [Orders]"
+        "tags":"[Training][Orders]"
     },
     {
         "name":"Highly Responsive to Prayers",
@@ -3833,7 +3833,7 @@
         "effect":"Target: Your Pokémon\\nEffect: While this Feature is Bound, decrease the Accuracy Roll of the target’s damaging ranged attacks by -2. The Critical Hit range of those attacks is increased by +3. This Feature does not affect Moves without an AC value.",
         "prerequisites":"Marksman Orders",
         "frequency":"Bind 2 AP - Standard Action",
-        "tags":"[Orders] [Stratagem]"
+        "tags":"[Orders][Stratagem]"
     },
     {
         "name":"Special Defense Mastery",
@@ -3882,7 +3882,7 @@
         "effect":"Condition: You must have at least one Equipment Item you created with Improvised Gadgets equipped to use this Feature.\\nEffect: Choose one of your equipped items you created with Improved Gadgets. It is destroyed and cannot be repaired, and that instance of Improvised Gadgets is immediately Unbound. Use the effect below corresponding to the Capability granted by the chosen item.\\n\\n»» Magnetic: You may activate this effect as a Standard Action Interrupt whenever a Steel or Electric-Type attack or an attack with a metal Weapon would hit a target within 5 meters. The attack instead misses all targets within 5 meters.\\n»» Threaded: Choose up to 3 targets within 4 meters and perform an AC 4 Status Attack against them as a Standard Acion. All hit targets become Stuck and Trapped for one full round.\\n»» Zapper: You may activate this effect as a Swift Action upon hitting a foe with a Zapper-modified Struggle Attack. The foe is Paralyzed.",
         "prerequisites":"Improvised Gadgets, Adept Technology Education",
         "frequency":"At-Will – Special",
-        "tags":"[Gadgeteer Research Field] [Branch]"
+        "tags":"[Gadgeteer Research Field][Branch]"
     },
     {
         "name":"Expend Momentum",
@@ -4015,7 +4015,7 @@
         "effect":"You may learn two Moves from the list below, marked with the Storm Wizard Rank you are gaining or lower.\\nRank 3 Moves: Discharge, Thunder, Thunder Wave, Volt Tackle",
         "prerequisites":"Master Acrobatics or Focus",
         "frequency":"Static",
-        "tags":"[+Speed] [Ranked 3]"
+        "tags":"[+Speed][Ranked 3]"
     },
     {
         "name":"Apparition",
@@ -4071,7 +4071,7 @@
         "effect":"Learn two Hex Maniac Moves. You may choose any Move marked with the Hex Maniac Studies Rank you are taking or lower.",
         "prerequisites":"Hex Maniac",
         "frequency":"Static",
-        "tags":"[+HP] [Ranked 3]"
+        "tags":"[+HP][Ranked 3]"
     },
     {
         "name":"Malediction",
@@ -4176,7 +4176,7 @@
         "effect":"Each Rank, you may gain two Backpacker Talents for which you qualify.",
         "prerequisites":"Backpacker, Expert Survival",
         "frequency":"Static",
-        "tags":"[Ranked 4] [+Speed]"
+        "tags":"[Ranked 4][+Speed]"
     },
     {
         "name":"Defense Embodiment",
@@ -4197,7 +4197,7 @@
         "effect":"You may make two Struggle Attacks with a -2 penalty to Accuracy, each targeting the same foe. If the first attack gains the benefit of Aiming Down the Sights or Clear Shot, the second attack also gains the same benefits for free.",
         "prerequisites":"Marksman, Adept Combat",
         "frequency":"1 AP – Standard Action",
-        "tags":"[+Attack] [Weapon]"
+        "tags":"[+Attack][Weapon]"
     },
     {
         "name":"Tough Tumble Tank 2",
@@ -4295,7 +4295,7 @@
         "effect":"You gain two Blessings in the form of Signs, marked Rank 3 or lower. You must additionally meet any Prerequisites of the Blessing.\\nRank 3 Blessings: Blessed Resilience, Insight of the Great Ones",
         "prerequisites":"All your Patron’s Major Gifts, GM Permission",
         "frequency":"Static",
-        "tags":"[Ranked 4] [Patron Stat]"
+        "tags":"[Ranked 4][Patron Stat]"
     },
     {
         "name":"Seed Bag Rank 2",
@@ -4309,7 +4309,7 @@
         "effect":"You may learn two Moves from the list below, marked with the Storm Wizard Rank you are gaining or lower.\\nRank 2 Moves: Charge, Thunder Punch, Thunderbolt",
         "prerequisites":"Expert Acrobatics or Focus",
         "frequency":"Static",
-        "tags":"[+Speed] [Ranked 3]"
+        "tags":"[+Speed][Ranked 3]"
     },
     {
         "name":"Cacophony",
@@ -4383,10 +4383,10 @@
     },
     {
         "name":"Unconquerable",
-        "effect":"While this Feature is Bound, the target may roll a Save Check at the end of their turn. On 17+, they are cured of one of Burn, Confusion, Curse, Infatuation, Sleep, Paralysis, or Poison.",
+        "effect":"Target: Your Dragon-Type Pokémon Effect: While this Feature is Bound, the target may roll a Save Check at the end of their turn. On 17+, they are cured of one of Burn, Confusion, Curse, Infatuation, Sleep, Paralysis, or Poison.",
         "prerequisites":"Tyrant's Roar, Type-Linked Skill at Expert",
         "frequency":"Bind 2 AP - Free Action",
-        "tags":"[Orders] [Stratagem]"
+        "tags":"[Orders][Stratagem]"
     },
     {
         "name":"Ninja's Arsenal",
@@ -4463,7 +4463,7 @@
         "effect":"You learn the Cap Cannon, Cap Ammo, and Wonder Launcher recipes, and you gain the following additional effects when using those items.\\n\\n»» Bean Caps: You gain a +10 Damage Bonus when using Bean Caps.\\n»» Glue Caps: Your Effect Range when using Glue Caps is increased by +3.\\n»» Nets Caps: Targets affected by your Net Caps gain a -X penalty to all Damage Rolls, where X is your Technology Education Rank.\\n»» Wonder Launcher: Whenever you apply an item to a target using the Wonder Launcher, they gain Temporary Hit Points equal to your Technology Education Rank.",
         "prerequisites":"Improvised Gadgets, Expert Technology Education",
         "frequency":"Static",
-        "tags":"[Gadgeteer Research Field][Branch][5-15 Playtest]"
+        "tags":"[Gadgeteer Research Field][Branch]"
     },
     {
         "name":"Encore Performance",
@@ -4491,7 +4491,7 @@
         "effect":"You gain the Run Away Ability.",
         "prerequisites":"Acrobat",
         "frequency":"Static",
-        "tags":"[Class] [+Speed]"
+        "tags":"[Class][+Speed]"
     },
     {
         "name":"Dilettante Rank 2",
@@ -4729,7 +4729,7 @@
         "effect":"You may use your General Education Rank to qualify for Books, instead of the Book’s usual Skill Prerequisites, provided you have the normal Prerequisite at at least Novice Rank.",
         "prerequisites":"Bookworm, Expert General Education",
         "frequency":"Static",
-        "tags":"[General Research Field] [Branch]"
+        "tags":"[General Research Field][Branch]"
     },
     {
         "name":"Glitch Bender",
@@ -4743,14 +4743,14 @@
         "effect":"While this Feature is Bound, your Struggle Attacks and Weapon Attacks deal Ghost-Type Damage, and you gain the Dead Silent Capability.",
         "prerequisites":"Apparition, Adept Intimidate or Occult Education",
         "frequency":"Bind 2 AP - Standard Action",
-        "tags":"[+Attack] [Weapon]"
+        "tags":"[+Attack][Weapon]"
     },
     {
         "name":"Crash and Smash",
         "effect":"You learn the Moves Double Edge and Thrash. You may use these moves as a Weapon Attack when wielding Melee Weapons.",
         "prerequisites":"Frenzy, Expert Combat",
         "frequency":"Static",
-        "tags":"[+HP] [Weapon]"
+        "tags":"[+HP][Weapon]"
     },
     {
         "name":"Cool Conduct Rank 2",
@@ -4778,14 +4778,14 @@
         "effect":"Trigger - You use a Antidote, Burn Heal, Ice Heal, or Paralyze Heal\\nEffect: If the target successfully cures the target of its linked Status Affliction, the item has additional effects.\\n»» Antidote: The target gains +1 Special Defense Combat Stage.\\n»» Burn Heal: The target gains +1 Defense Combat Stage.\\n»» Ice Heal: The target gains +1 Attack or Special Attack Combat Stage\\n»» Paralyze Heal: The target gains +1 Speed Combat Stage.",
         "prerequisites":"Patch Cure, Expert Medicine Education",
         "frequency":"1 AP – Free Action",
-        "tags":"[Apothecary Research Field] [Branch]"
+        "tags":"[Apothecary Research Field][Branch]"
     },
     {
         "name":"Equipment Savant",
         "effect":"Use or Equip an Item or piece of Equipment which would normally require a Standard Action to use or equip. You may not make an Attack with a Weapon this way - using other Items or Equipment that requires “Attacks” (such as Cap Cannons or Poké Balls) is acceptable.",
         "prerequisites":"Backpacker, Expert Survival",
         "frequency":"2 AP - Swift Action",
-        "tags":"[+Speed][5-15 Playtest]"
+        "tags":"[+Speed]"
     },
     {
         "name":"Iterative Evolution",
