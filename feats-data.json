@@ -130,7 +130,7 @@
         "effect":"You gain access to your Legendary Form’s Move List while in your Avatar Form.",
         "prerequisites":"True Power, Pokemon Form Level 50",
         "frequency":"Static",
-        "tags":"[Ranked 3][Patron Stat]"
+        "tags":"[Ranked 3] [Patron Stat]"
     },
     {
         "name":"Mental Assault",
@@ -403,7 +403,7 @@
         "effect":"You gain the Levitate Ability. You have a total Levitate Speed equal to 4 plus half of the higher of your Acrobatics or Perception Rank.",
         "prerequisites":"Elemental Connection (Flying), Novice Acrobatics, Novice Perception",
         "frequency":"Static",
-        "tags":"[Class][+Speed]"
+        "tags":"[Class] [+Speed]"
     },
     {
         "name":"Stacked Deck",
@@ -841,9 +841,9 @@
     },
     {
         "name":"Tough Tumble Rank 1",
-        "effect":"Your Pokémon with at least 3d6 in their Tough Stat from Poffins may activate Tough Tumble as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves. X is the Rank of the chosen Move.\\nRank 1: Scary Face, Spite",
+        "effect":"Your Pokémon with at least 3d6 in their Tough Stat from Poffins may activate Tough Tumble as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves.\\nRank 1: Scary Face, Spite",
         "prerequisites":"Style Expert, Tough as Chosen Stat, Novice Intimidate",
-        "frequency":"X AP - Special",
+        "frequency":"1 AP - Special",
         "tags":"[Ranked 2]"
     },
     {
@@ -935,7 +935,7 @@
         "effect":"Target: Your Pokémon\\nEffect: The target regains one use of a Scene-Frequency Move of your Chosen Type, and refreshes the Frequency of all EOT-Frequency Moves of your chosen Type. A Target can be affected by Type Refresh only once per Scene.",
         "prerequisites":"Type Ace",
         "frequency":"2 AP - Standard Acrion",
-        "tags":"[Branch][Orders]"
+        "tags":"[Branch] [Orders]"
     },
     {
         "name":"Strike Again!",
@@ -949,7 +949,7 @@
         "effect":"You gain two Terrain Talents, chosen from the Terrains for which you gained Naturewalk from Survivalist.\\n»» Grassland: Plains Runner\\n»» Forest: Forest Ranger\\n»» Wetlands: Marsh Stomper\\n»» Ocean: Deep Diver\\n»» Tundra: Arctic Pilgrim\\n»» Mountain: Surefooted\\n»» Cave: Cave Dweller\\n»» Urban: Traceur\\n»» Desert: Dune Walker",
         "prerequisites":"Survivalist, 2 Mastered Terrains",
         "frequency":"Static",
-        "tags":"[Ranked 2][+HP]"
+        "tags":"[Ranked 2] [+HP]"
     },
     {
         "name":"PK Combat",
@@ -1236,7 +1236,7 @@
         "effect":"Target: Your Pokemon with at least 2 Tutor Point\\nEffect: Your Pokemon loses 2 Tutor Points, and learns your choice of Hail, Rain Dance, Sandstorm, or Sunny Day. The target must be able to learn the chosen Move through Level-Up, TM, or Tutor Moves. If the target has the chosen Move in their Level-Up List, Weather Systems costs no Tutor Points.",
         "prerequisites":"Climatology, Expert Survival",
         "frequency":"At-Will - Extended Action",
-        "tags":"[Climatology Research Field][Branch]"
+        "tags":"[Climatology Research Field] [Branch]"
     },
     {
         "name":"Nurse",
@@ -1348,7 +1348,7 @@
         "effect":"Target: A hatching egg.\\nEffect: The Pokémon is born with special qualities, determined by the GM. This Feature may be activated one time per Pokémon Education Rank above Untrained.",
         "prerequisites":"Pusher",
         "frequency":"Special - Free Action",
-        "tags":"[Pokemon Caretaking Research Field][Branch]"
+        "tags":"[Pokemon Caretaking Research Field] [Branch]"
     },
     {
         "name":"Attack Maneuver",
@@ -1411,7 +1411,7 @@
         "effect":"You gain the Telepathy Capability for the rest of the scene.",
         "prerequisites":"Elemental Connection (Psychic), Iron Mind, Novice Intuition",
         "frequency":"2 AP - Swift Action",
-        "tags":"[Class][+Special Defense]"
+        "tags":"[Class] [+Special Defense]"
     },
     {
         "name":"Weightless Step",
@@ -1446,7 +1446,7 @@
         "effect":"Choose a Terrain in which you have spent at least three nights. You gain Naturewalk for that terrain and a +2 bonus to Athletics, Acrobatics, Stealth, Perception, and Survival Checks in that terrain. When you have 2 Survivalist Features, you may choose a second Terrain. When you have 4 Survivalist Features, you may choose a third terrain. When you have 6 Survivalist Features, you may choose a fourth terrain. The terrains are: Grassland, Forest, Wetlands, Ocean, Tundra, Mountain, Cave, Urban, Desert",
         "prerequisites":"Novice Survival",
         "frequency":"One Time Use - Extended Action",
-        "tags":"[Class][+HP]"
+        "tags":"[Class] [+HP]"
     },
     {
         "name":"Speed Mastery",
@@ -1582,11 +1582,18 @@
         "tags":"[Artificer Research Field][Branch]"
     },
     {
-        "name":"Type Expertise",
+        "name":"Type Expertise Rank 1",
         "effect":"Each Rank, choose a Type of which you know at least 3 Moves. You gain STAB for the chosen Type. STAB is never applied to Struggle Attacks.",
         "prerequisites":"Level 9, 3 Moves of the Chosen Type in your Move List",
         "frequency":"Static",
-        "tags":"[Ranked 2][+Any]"
+        "tags":"[Ranked 2] [+Any]"
+    },
+    {
+        "name":"Type Expertise Rank 2",
+        "effect":"Each Rank, choose a Type of which you know at least 3 Moves. You gain STAB for the chosen Type. STAB is never applied to Struggle Attacks.",
+        "prerequisites":"Level 9, 3 Moves of the Chosen Type in your Move List",
+        "frequency":"Static",
+        "tags":"[Ranked 2] [+Any]"
     },
     {
         "name":"Noblesse Oblige",
@@ -1600,7 +1607,7 @@
         "effect":"Target: Your Rock-Type Pokémon\\nEffect: While this Feature is Bound, allied Stealth Rock Hazards within 4 meters of your Pokémon are not used when a foe triggers them unless you want them to be. Whenever the target takes Super-Effective Damage from a Water, Grass, Ground, Fighting, or Steel Type Attack, they may consume an allied Stealth Rock Hazard within 4 meters to create temporary armor that grants them Damage Reduction equal to your Type-Linked Skill Rank for one full round.",
         "prerequisites":"Gravel Before Me, Type-Linked Skill at Expert",
         "frequency":"Bind 2 AP - Standard Action",
-        "tags":"[Orders][Stratagem]"
+        "tags":"[Orders] [Stratagem]"
     },
     {
         "name":"Fossil Restoration",
@@ -1915,7 +1922,7 @@
         "effect":"You may learn two Moves from the list below.\\nRank 1 Moves: Freeze-Dry, Ice Punch, Ice Beam, Icicle Crash",
         "prerequisites":"Expert Athletics or Survival",
         "frequency":"Static",
-        "tags":"[Ranked 2][+Attack or Special Attack]"
+        "tags":"[Ranked 2] [+Attack or Special Attack]"
     },
     {
         "name":"Adaptive Geography",
@@ -1929,7 +1936,7 @@
         "effect":"Target: Your Pokémon\\nEffect: While this Stratagem is bound, your Pokémon may activate Moves and Abilities as if they were in Sunny Weather.",
         "prerequisites":"Foiling Foliage, Type-Linked Skill at Adept",
         "frequency":"Bind 2 AP - Standard Action",
-        "tags":"[Orders][Stratagem]"
+        "tags":"[Orders] [Stratagem]"
     },
     {
         "name":"Observation Party",
@@ -1985,7 +1992,7 @@
         "effect":"You gain whichever Ability you did not choose for Rank 1.",
         "prerequisites":"Aura Guardian, Expert Intuition",
         "frequency":"Static",
-        "tags":"[+Attack or Special Attack][Ranked 2]"
+        "tags":"[+Attack or Special Attack] [Ranked 2]"
     },
     {
         "name":"Musical Ability",
@@ -2409,7 +2416,7 @@
     },
     {
         "name":"Versatile Wardrobe",
-        "effect":"Target: Your Pokémon with at least 2 Tutor Points remaining\\nEffect: The target loses 2 Tutor Points and then becomes Chic. Chic Pokémon gain two extra Held Item slots with which they can carry Held Items. However, the items in these slots have no effect and are not treated as equipped. As a Swift Action on their turn, Chic Pokémon may swap a currently active Held Item with an item stored in these slots. Chic Pokémon may not carry multiple items of the same type or with repeated effects.",
+        "effect":"Target: Your Pokémon with at least 2 Tutor Points remaining\\nEffect: The target loses 2 Tutor Points and then becomes Chic. Chic Pokémon gain two extra Held Item slots with which they can carry Held Items. However, the items in these slots have no effect and are not treated as equipped. As a Swift Action on their turn, Chic Pokémon may swap a currently active Held Item with an item stored in these slots. Chic Pokémon may not carry multiple items of the same type or with repeated effects.\\n A Chic Pokémon does not become Suppressed until they switch a Choice Item into their active Held Item slot, but even if they then switch the Choice Item out, they remain Suppressed for the remainder of combat. A Mega-Evolved Chic Pokémon remains MegaEvolved even if they switch their active Held Item.",
         "prerequisites":"Fashionista, two Fashionista Skills at Adept",
         "frequency":"At-Will - Extended Action",
         "tags":"-"
@@ -2524,7 +2531,7 @@
         "effect":"You may learn two Moves from the list below, marked with the Rank of Winter’s Herald you are gaining or lower.\\nRank 2 Moves: Avalanche, Blizzard, Frost Breath, Icicle Spear",
         "prerequisites":"Master Athletics or Survival",
         "frequency":"Static",
-        "tags":"[Ranked 2][+Attack or Special Attack]"
+        "tags":"[Ranked 2] [+Attack or Special Attack]"
     },
     {
         "name":"Lay on Hands",
@@ -2545,7 +2552,7 @@
         "effect":"Choose Scrappy or Aura Storm. You gain the Chosen Ability.",
         "prerequisites":"Aura Guardian",
         "frequency":"Static",
-        "tags":"[+Attack or Special Attack][Ranked 2]"
+        "tags":"[+Attack or Special Attack] [Ranked 2]"
     },
     {
         "name":"Ramming Speed",
@@ -2615,7 +2622,7 @@
         "effect":"You gain two Terrain Talents, chosen from the Terrains for which you gained Naturewalk from Survivalist.",
         "prerequisites":"Survivalist, Master Survival, 4 Mastered Terrains",
         "frequency":"Static",
-        "tags":"[Ranked 2][+HP]"
+        "tags":"[Ranked 2] [+HP]"
     },
     {
         "name":"Chronicler",
@@ -2712,7 +2719,7 @@
         "name":"Type Sync",
         "effect":"The Target gains the Type of your Elemental Connection as an additional Type, or has one of their Types replaced by that Type. See the Type Changes section (page 436) for more information and suggestions. A Pokémon may be targeted by Type Sync only once. This Feature may be performed One Time for each Rank above Untrained you have of your highest of Medicine, Occult, or Tech Education, up to a maximum of 4 times at Master Rank.\\n\\n*Type-Linked Classes include Type Ace and all Elementalist Classes, all of which are linked to their respective Types. Additionally, Aura Guardian is linked to Fighting; and Telekinetic, Telepath, and Warper are linked to Psychic. Obviously, your Type Linked Class must match your Elemental Connection to apply for Type Sync!",
         "prerequisites":"Elemental Connection, a Type-Linked Class*, Adept Medicine, Occult, or Tech Education.",
-        "frequency":"Static",
+        "frequency":"Special - Extended Action",
         "tags":"-"
     },
     {
@@ -3067,7 +3074,7 @@
     },
     {
         "name":"Surprise!",
-        "effect":"Trigger - You make an attack against a foe that does not anticipate an attack or is adjacent to your Pokémon with Pack Hunt or Teamwork\\nEffect: Make two attack rolls for the triggering action, and use the better result to finalize the attack. If both attacks would hit, the target is Flinched. Surprise! may be used only once per Scene per target. If the triggering attack was a Poké Ball, Hand Net, Weighted Net, Glue Cannon, or Struggle Attack, Surprise! costs 1 AP to activate; otherwise, it costs 2 AP.\\nMay Playtest Errata: If the triggering attack was a Cap Cannon, Surprise! costs 1 AP to activate.",
+        "effect":"Trigger - You make an attack against a foe that does not anticipate an attack or is adjacent to your Pokémon with Pack Hunt or Teamwork\\nEffect: Make two attack rolls for the triggering action, and use the better result to finalize the attack. If both attacks would hit, the target is Flinched. Surprise! may be used only once per Scene per target. If the triggering attack was a Poké Ball, Hand Net, Weighted Net, Glue Cannon, or Struggle Attack, Surprise! costs 1 AP to activate; otherwise, it costs 2 AP. If the triggering attack was a Cap Cannon, Surprise! costs 1 AP to activate.",
         "prerequisites":"Hunter, Adept Stealth or Survival",
         "frequency":"X AP - Swift Action",
         "tags":"[+Speed]"
@@ -3826,7 +3833,7 @@
         "effect":"Target: Your Pokémon\\nEffect: While this Feature is Bound, decrease the Accuracy Roll of the target’s damaging ranged attacks by -2. The Critical Hit range of those attacks is increased by +3. This Feature does not affect Moves without an AC value.",
         "prerequisites":"Marksman Orders",
         "frequency":"Bind 2 AP - Standard Action",
-        "tags":"[Orders][Stratagem]"
+        "tags":"[Orders] [Stratagem]"
     },
     {
         "name":"Special Defense Mastery",
@@ -4194,9 +4201,9 @@
     },
     {
         "name":"Tough Tumble Tank 2",
-        "effect":"Your Pokémon with at least 3d6 in their Tough Stat from Poffins may activate Tough Tumble as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves. X is the Rank of the chosen Move.\\nRank 2: Glare, Bide",
+        "effect":"Your Pokémon with at least 3d6 in their Tough Stat from Poffins may activate Tough Tumble as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves.\\nRank 2: Glare, Bide",
         "prerequisites":"Expert Intimidate",
-        "frequency":"X AP - Special",
+        "frequency":"1 AP - Special",
         "tags":"[Ranked 2]"
     },
     {
@@ -4278,9 +4285,9 @@
     },
     {
         "name":"This Will Not Stand",
-        "effect":"Trigger - Your Dragon-Type Pokémon takes a Critical Hit or Massive Damage\\nEffect: Your Pokémon gains +1 Combat Stage in each of Attack, Special Attack, and Speed. This Will Not Stand may trigger only once per Scene per Pokémon.",
+        "effect":"Trigger: Your Dragon-Type Pokémon is reduced to 50% of their Maximum HP or below, from above 50% Max HP \nEffect: Your Pokémon becomes Enraged, and gains +1 Combat Stage in each of Attack, Special Attack, and Speed. This Will Not Stand may trigger only once per Scene per Pokémon.",
         "prerequisites":"Tyrant's Roar, Type-Linked Skill at Master",
-        "frequency":"At-Will - Free Action",
+        "frequency":"Scene x2 - Free Action",
         "tags":"-"
     },
     {
@@ -4376,10 +4383,10 @@
     },
     {
         "name":"Unconquerable",
-        "effect":"Trigger - Your Pokémon uses a Dragon-Type Move while they have 3 or more Status Afflictions\\nEffect: Your Pokémon is cured of up to three Status Afflictions.",
+        "effect":"While this Feature is Bound, the target may roll a Save Check at the end of their turn. On 17+, they are cured of one of Burn, Confusion, Curse, Infatuation, Sleep, Paralysis, or Poison.",
         "prerequisites":"Tyrant's Roar, Type-Linked Skill at Expert",
-        "frequency":"Daily x3 - Free Action",
-        "tags":"-"
+        "frequency":"Bind 2 AP - Free Action",
+        "tags":"[Orders] [Stratagem]"
     },
     {
         "name":"Ninja's Arsenal",
@@ -4484,7 +4491,7 @@
         "effect":"You gain the Run Away Ability.",
         "prerequisites":"Acrobat",
         "frequency":"Static",
-        "tags":"[Class][+Speed]"
+        "tags":"[Class] [+Speed]"
     },
     {
         "name":"Dilettante Rank 2",
@@ -4718,11 +4725,11 @@
         "tags":"-"
     },
     {
-        "name":"Well Read [Playtest]",
+        "name":"Well Read",
         "effect":"You may use your General Education Rank to qualify for Books, instead of the Book’s usual Skill Prerequisites, provided you have the normal Prerequisite at at least Novice Rank.",
         "prerequisites":"Bookworm, Expert General Education",
         "frequency":"Static",
-        "tags":"[General Research Field][Branch][5-15 Playtest]"
+        "tags":"[General Research Field] [Branch]"
     },
     {
         "name":"Glitch Bender",
@@ -4736,14 +4743,14 @@
         "effect":"While this Feature is Bound, your Struggle Attacks and Weapon Attacks deal Ghost-Type Damage, and you gain the Dead Silent Capability.",
         "prerequisites":"Apparition, Adept Intimidate or Occult Education",
         "frequency":"Bind 2 AP - Standard Action",
-        "tags":"[+Attack][Weapon]"
+        "tags":"[+Attack] [Weapon]"
     },
     {
         "name":"Crash and Smash",
         "effect":"You learn the Moves Double Edge and Thrash. You may use these moves as a Weapon Attack when wielding Melee Weapons.",
         "prerequisites":"Frenzy, Expert Combat",
         "frequency":"Static",
-        "tags":"[+HP][Weapon]"
+        "tags":"[+HP] [Weapon]"
     },
     {
         "name":"Cool Conduct Rank 2",
