@@ -13,7 +13,7 @@
     },
     {
         "name":"Tanga Berry",
-        "effect":"Weakens foe’s super effective Bug-type move. Tier 3.",
+        "effect":"Grants a Food Buff which, when traded in, grants one step of resistance versus a foe's super effective Bug-type move. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -21,7 +21,7 @@
         "name":"Air Ball",
         "effect":"-20 Modifier if the target is Flying or Ice type.",
         "consumable":true,
-        "cost":null
+        "cost":300
     },
     {
         "name":"Altarianite",
@@ -30,7 +30,7 @@
         "cost":null
     },
     {
-        "name":"Dark Brace",
+        "name":"Type Brace (Dark)",
         "effect":"Grants the holder 15 Damage Reduction against all direct-damage Dark Moves. Accessory Item for Trainers.",
         "consumable":false,
         "cost":2000
@@ -48,7 +48,7 @@
         "cost":100
     },
     {
-        "name":"Electric Booster",
+        "name":"Type Booster (Electric)",
         "effect":"Grants a +5 Damage Bonus to all direct-damage Electric Moves used by the holder. Accessory Item for Trainers.",
         "consumable":false,
         "cost":1800
@@ -66,7 +66,7 @@
         "cost":3000
     },
     {
-        "name":"Dragon Brace",
+        "name":"Type Brace (Dragon)",
         "effect":"Grants the holder 15 Damage Reduction against all direct-damage Dragon Moves. Accessory Item for Trainers.",
         "consumable":false,
         "cost":2000
@@ -79,7 +79,7 @@
     },
     {
         "name":"Luxury Ball",
-        "effect":"A caught Pokémon is easily pleased and starts with a raised happiness.",
+        "effect":"A caught Pokémon is easily pleased and starts with a raised happiness. -5 modifier.",
         "consumable":true,
         "cost":800
     },
@@ -121,7 +121,7 @@
     },
     {
         "name":"Super Repel",
-        "effect":"Lasts 2 hours; causes Pokémon of level 25 or lower to flee.",
+        "effect":"Lasts 2 hours; causes Pokémon of level 25 or lower to flee.\\n\\nSpraying a wild Pokémon directly with Repel will cause that Pokémon, if the Repel can affect Pokémon of that level, to immediately shift away from the user as far as the Pokémon is able as an Interrupt, forfeiting their next Shift Action. Spraying a Pokémon with a Repel is an AC6 Status Attack.",
         "consumable":true,
         "cost":300
     },
@@ -145,19 +145,19 @@
     },
     {
         "name":"Rad Fashion",
-        "effect":"The holder may activate this item once a Scene as a Free Action to gain a +4 bonus to a single Save Check.",
+        "effect":"Fashionista Skill: Command\\nThe holder may activate this item once a Scene as a Free Action to gain a +4 bonus to a single Save Check.",
         "consumable":false,
         "cost":500
     },
     {
-        "name":"Choice Band",
+        "name":"Choice Item (Attack)",
         "effect":"The default state of the holder's Attack Stat is +2 Combat Stages. However, the holder is Suppressed and cannot be cured until the end of Combat, even if the item is removed. Cannot be used by Trainers.",
         "consumable":false,
         "cost":3000
     },
     {
         "name":"Thermal Goggles",
-        "effect":"Allows you to see in the IR spectrum, enabling you to easily pick out a person or Pokémon in camouflage or to identify sources of heat.",
+        "effect":"Allows you to see in the IR spectrum, enabling you to easily pick out a person or Pokémon in camouflage or to identify sources of heat. Head equipment slot.",
         "consumable":false,
         "cost":1000
     },
@@ -174,7 +174,7 @@
         "cost":150
     },
     {
-        "name":"Splash Plate",
+        "name":"Type Plate (Water)",
         "effect":"Acts as both a Water Booster and a Water Brace. Accessory Slot Item for Trainers.",
         "consumable":false,
         "cost":null
@@ -193,7 +193,7 @@
     },
     {
         "name":"Reaper Cloth",
-        "effect":"Evolves Dusclops",
+        "effect":"Evolves Dusclops.",
         "consumable":true,
         "cost":3000
     },
@@ -205,7 +205,7 @@
     },
     {
         "name":"Rowap Berry",
-        "effect":"Foe dealing Special Damage to the user loses 1/8 of their Maximum HP. Tier 2.",
+        "effect":"The foe dealing Special Damage to the user loses 1/8 of their Maximum HP. Tier 2.",
         "consumable":true,
         "cost":250
     },
@@ -216,7 +216,7 @@
         "cost":900
     },
     {
-        "name":"Ground Brace",
+        "name":"Type Brace (Ground)",
         "effect":"Grants the holder 15 Damage Reduction against all direct-damage Ground Moves. Accessory Item for Trainers.",
         "consumable":false,
         "cost":2000
@@ -229,7 +229,7 @@
     },
     {
         "name":"Grepa Berry",
-        "effect":"Lowers Special Defense stat by 1 with trainer permission. Tier 3.",
+        "effect":"Lowers Special Defense Base Stat by 1 when consumed, only if Pokémon’s trainer wishes it to. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -288,19 +288,19 @@
         "cost":null
     },
     {
-        "name":"Sky Plate",
+        "name":"Type Plate (Flying)",
         "effect":"Acts as both a Flying Booster and a Flying Brace. Accessory Slot Item for Trainers.",
         "consumable":false,
         "cost":null
     },
     {
-        "name":"The Joy of Cooking [5-15 Playtest]",
+        "name":"The Joy of Cooking",
         "effect":"A cookbook for novice and experienced chefs alike.\\n\\nRank 1 - Novice General Education: Your material costs for crafting Food Items of any variety are reduced by 10%.\\nRank 2 - Expert General Education: Meal and Refreshment Items you create cause whoever eats them to gain a Tick of Hit Points.",
         "consumable":false,
         "cost":1000
     },
     {
-        "name":"Pokémon Daycare Licensing Guide [5-15 Playtest]",
+        "name":"Pokémon Daycare Licensing Guide",
         "effect":"This book teaches advanced Pokémon Breeding techniques.\\n\\nRank 1 - Adept Pokémon Education: When Breeding Pokémon of this Book’s Egg Group, you may choose which parent’s species the Egg is of.\\nRank 2 - Master Pokémon Education: When hatching Eggs of Pokémon of this Book’s Egg Group, the hatched Pokémon learns their first Inheritance Move at Level 10 instead of Level 20.",
         "consumable":false,
         "cost":1000
@@ -319,7 +319,7 @@
     },
     {
         "name":"Adorable Fashion",
-        "effect":"The holder may activate this item once a Scene as a Free Action to gain +2 Evasion for one full round.",
+        "effect":"Fashionista Skill: Charm\\nThe holder may activate this item once a Scene as a Free Action to gain +2 Evasion for one full round.",
         "consumable":false,
         "cost":500
     },
@@ -343,13 +343,13 @@
     },
     {
         "name":"Zygarde Cube",
-        "effect":"Cube required for collecting Zygarde Cells and Cores",
+        "effect":"Using a Zygarde Cube, as an Extended Action, 10 Cells may be formed into a 10% Zygarde, and 50 Cells may be formed into a 50% Zygarde. These may be disassembled into the number of Cells that they were created from as an Extended Action. 100 Cells may form either a 10% or 50% Zygarde with the Power Construct Ability as a Bonus Ability. The resulting Zygarde may not be disassembled, but may be changed between 10% and 50% Formes as an Extended Action using the Cube. The GM determines the Nature and Level of any Zygarde formed. As an Extended Action, a Cube may Tutor Zygarde available Cube moves for 1 TP each.",
         "consumable":false,
         "cost":null
     },
     {
         "name":"Revival Herb",
-        "effect":"Revives Pokémon and sets to 50% Hit Points - Repulsive",
+        "effect":"Revives Pokémon and sets to 50% Hit Points - Herbal Restorative.",
         "consumable":true,
         "cost":350
     },
@@ -378,7 +378,7 @@
         "cost":5100
     },
     {
-        "name":"Psychic Brace",
+        "name":"Type Brace (Psychic)",
         "effect":"Grants the holder 15 Damage Reduction against all direct-damage Psychic Moves. Accessory Item for Trainers.",
         "consumable":false,
         "cost":2000
@@ -397,12 +397,12 @@
     },
     {
         "name":"Super Soda Pop",
-        "effect":"Heals 30 Hit Points",
+        "effect":"Heals 30 Hit Points. A Pokémon or Trainer can only consume one refreshment per half hour, unless they have the Gluttony Ability.",
         "consumable":true,
         "cost":125
     },
     {
-        "name":"Fire Brace",
+        "name":"Type Brace (Fire)",
         "effect":"Grants the holder 15 Damage Reduction against all direct-damage Fire Moves. Accessory Item for Trainers.",
         "consumable":false,
         "cost":2000
@@ -426,8 +426,8 @@
         "cost":12000
     },
     {
-        "name":"DIY Engineering [5-15 Playtest]",
-        "effect":"Duct tape not included.\\n\\nRank 1 - Novice Technology Education: Your material costs for crafting items crafted from Mechanical Scrap are reduced by 10%.\\nRank 2 - Expert Technology Education: Whenever you Scrap an Item you created, you gain Scrap worth 75% of its monetary cost instead of only 50%.",
+        "name":"DIY Engineering",
+        "effect":"For those who like the homemade touch, and aren't afraid to learn by doing.\\n\\nRank 1 - Novice Technology Education: Your material costs for crafting items crafted from Mechanical Scrap are reduced by 10%.\\nRank 2 - Expert Technology Education: Whenever you Scrap an Item you created, you gain Scrap worth 75% of its monetary cost instead of only 50%.",
         "consumable":false,
         "cost":1000
     },
@@ -440,7 +440,7 @@
     {
         "name":"Anti-Radiation Pills",
         "effect":"An advanced version of the real life potassium iodide pills. These not only protect the thyroid but instead guard against all forms of radiation poisoning, granting the user Hazard Immunity for radioactive environments only for 24 hours.",
-        "consumable":false,
+        "consumable":true,
         "cost":400
     },
     {
@@ -457,7 +457,7 @@
     },
     {
         "name":"Treecko Gear",
-        "effect":"Grants the Wallclimber capability.",
+        "effect":"Grants the Wallclimber capability. Main Hand, Off Hand and Feet equipment slots.",
         "consumable":false,
         "cost":3500
     },
@@ -486,14 +486,14 @@
         "cost":null
     },
     {
-        "name":"Type Boosters",
-        "effect":"These items come in a variety of each of the Elemental Types, and grants a +5 Damage Bonus to all direct damage Moves of its Specific Type when performed by the user. Accessory Item for Trainers.",
+        "name":"Type Booster",
+        "effect":"Type Boosters come in a variety of each of the Elemental Types, and grants a +5 Damage Bonus to all direct damage Moves of its Specific Type when performed by the user. Accessory Item for Trainers.",
         "consumable":false,
         "cost":1800
     },
     {
         "name":"Antidote",
-        "effect":"Cures Poison",
+        "effect":"Cures Poison.",
         "consumable":true,
         "cost":200
     },
@@ -517,7 +517,7 @@
     },
     {
         "name":"Oval Stone",
-        "effect":"Evolves Happiny",
+        "effect":"Evolves Happiny.",
         "consumable":true,
         "cost":3000
     },
@@ -535,7 +535,7 @@
     },
     {
         "name":"Protein",
-        "effect":"Raise the user’s Attack Base Stat 1.",
+        "effect":"Raise the user’s Attack Base Stat 1. You may only get use out of up to five Vitamins per Pokémon.",
         "consumable":true,
         "cost":4900
     },
@@ -558,7 +558,7 @@
         "cost":800
     },
     {
-        "name":"Fire Booster",
+        "name":"Type Booster (Fire)",
         "effect":"Grants a +5 Damage Bonus to all direct-damage Fire Moves used by the holder. Accessory Item for Trainers.",
         "consumable":false,
         "cost":1800
@@ -576,7 +576,7 @@
         "cost":800
     },
     {
-        "name":"Pester Ball: Rage",
+        "name":"Pester Ball (Rage)",
         "effect":"Inflicts Rage on the target. After being hit by any Pester Ball, a target becomes immune to the effects of further Pester Balls for 1 hour. Throwing and hitting with Pester Balls is the same as with Poké Balls.",
         "consumable":true,
         "cost":350
@@ -588,14 +588,14 @@
         "cost":2000
     },
     {
-        "name":"Fairy Booster",
+        "name":"Type Booster (Fairy)",
         "effect":"Grants a +5 Damage Bonus to all direct-damage Fairy Moves used by the holder. Accessory Item for Trainers.",
         "consumable":false,
         "cost":1800
     },
     {
         "name":"Good Rod",
-        "effect":"A better fishing rod.",
+        "effect":"A better fishing rod. May catch unevolved Pokémon of a Level to your GM's discretion.",
         "consumable":false,
         "cost":5000
     },
@@ -619,7 +619,7 @@
     },
     {
         "name":"Haban Berry",
-        "effect":"Weakens foe’s super effective Dragon-type move. Tier 3.",
+        "effect":"Grants a Food Buff which, when traded in, grants one step of resistance versus a foe's super effective Dragon-type move. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -636,7 +636,7 @@
         "cost":250
     },
     {
-        "name":"Fist Plate",
+        "name":"Type Plate (Fighting)",
         "effect":"Acts as both a Fighting Booster and a Fighting Brace. Accessory Slot Item for Trainers.",
         "consumable":false,
         "cost":null
@@ -660,7 +660,7 @@
         "cost":200
     },
     {
-        "name":"Steel Gem",
+        "name":"Type Gem (Steel)",
         "effect":"Can be consumed as a Free Action to give a +3 DB bonus to one Steel-Type attack. Off-hand or Accessory Slot Item for Trainers.",
         "consumable":true,
         "cost":null
@@ -691,7 +691,7 @@
     },
     {
         "name":"Rough Fashion",
-        "effect":"The holder may activate this item once a Scene as a Free Action to cause a foe within 5 meters to take a -2 penalty to all rolls for one full round.",
+        "effect":"Fashionista Skill: Intimidate\\nThe holder may activate this item once a Scene as a Free Action to cause a foe within 5 meters to take a -2 penalty to all rolls for one full round.",
         "consumable":false,
         "cost":500
     },
@@ -703,43 +703,43 @@
     },
     {
         "name":"Thermal Dampening Suit",
-        "effect":"The user is invisible to thermal imaging gear.",
+        "effect":"The user is invisible to thermal imaging gear. Body equipment slot.",
         "consumable":false,
         "cost":2000
     },
     {
-        "name":"Special Defense Suppressant",
-        "effect":"Lowers Special Defense stat by 1 if trainer allows it.",
-        "consumable":false,
+        "name":"Stat Suppressant (Special Defense)",
+        "effect":"Lowers Special Defense stat by 1 if Trainer allows it.",
+        "consumable":true,
         "cost":500
     },
     {
-        "name":"Steel Booster",
+        "name":"Type Booster (Steel)",
         "effect":"Grants a +5 Damage Bonus to all direct-damage Steel Moves used by the holder. Accessory Item for Trainers.",
         "consumable":false,
         "cost":1800
     },
     {
         "name":"Mago Berry",
-        "effect":"Sweet Treat, Cute Poffin Ingredient. Tier 2.",
+        "effect":"Sweet Treat. Heals 1/8th of the Pokémon’s Max HP. If the user likes the Treat’s flavor, it heals 1/6th instead. If the user dislikes the treat’s flavor, the user is Confused. Cute Poffin Ingredient. Tier 2.",
         "consumable":true,
         "cost":250
     },
     {
-        "name":"Poison Booster",
+        "name":"Type Booster (Poison)",
         "effect":"Grants a +5 Damage Bonus to all direct-damage Poison Moves used by the holder. Accessory Item for Trainers.",
         "consumable":false,
         "cost":1800
     },
     {
-        "name":"Electric Gem",
-        "effect":"Can be consumed as a Free Action to give a +3 DB bonus to one Electric-Type attack. Off-hand or Accessory Slot Item for Trainers.",
+        "name":"Type Gem (Electric)",
+        "effect":"Can be consumed as a Free Action to give a +3 Damage Base bonus to one Electric-Type attack. Off-hand or Accessory Slot Item for Trainers.",
         "consumable":true,
         "cost":null
     },
     {
         "name":"Zinc",
-        "effect":"Raise the user’s Special Defense Base Stat 1.",
+        "effect":"Raise the user’s Special Defense Base Stat 1. You may only get use out of up to five Vitamins per Pokémon.",
         "consumable":true,
         "cost":4900
     },
@@ -756,7 +756,7 @@
         "cost":null
     },
     {
-        "name":"Psychic Gem",
+        "name":"Type Gem (Psychic)",
         "effect":"Can be consumed as a Free Action to give a +3 DB bonus to one Psychic-Type attack. Off-hand or Accessory Slot Item for Trainers.",
         "consumable":true,
         "cost":null
@@ -793,7 +793,7 @@
     },
     {
         "name":"Max Repel",
-        "effect":"Lasts 5 hours; causes Pokémon of level 35 or lower to flee.",
+        "effect":"Lasts 5 hours; causes Pokémon of level 35 or lower to flee.\\n\\nSpraying a wild Pokémon directly with Repel will cause that Pokémon, if the Repel can affect Pokémon of that level, to immediately shift away from the user as far as the Pokémon is able as an Interrupt, forfeiting their next Shift Action. Spraying a Pokémon with a Repel is an AC6 Status Attack.",
         "consumable":true,
         "cost":400
     },
@@ -823,7 +823,7 @@
     },
     {
         "name":"Lifting Frame",
-        "effect":"A mechanized frame worn over each arm with motorized muscles. Grants +2 to Power Capability. The frames are too unwieldy to use other equipment such as weapons while wearing them.",
+        "effect":"A mechanized frame worn over each arm with motorized muscles. Grants +2 to Power Capability. The frames are too unwieldy to use other equipment such as weapons while wearing them. Main and Off Hand equipment slots.",
         "consumable":false,
         "cost":3000
     },
@@ -834,7 +834,7 @@
         "cost":null
     },
     {
-        "name":"Water Brace",
+        "name":"Type Brace (Water)",
         "effect":"Grants the holder 15 Damage Reduction against all direct-damage Water Moves. Accessory Item for Trainers.",
         "consumable":false,
         "cost":2000
@@ -870,7 +870,7 @@
         "cost":750
     },
     {
-        "name":"Ice Booster",
+        "name":"Type Booster (Ice)",
         "effect":"Grants a +5 Damage Bonus to all direct-damage Ice Moves used by the holder. Accessory Item for Trainers.",
         "consumable":false,
         "cost":1800
@@ -882,22 +882,16 @@
         "cost":250
     },
     {
-        "name":"Rock Booster",
+        "name":"Type Booster (Rock)",
         "effect":"Grants a +5 Damage Bonus to all direct-damage Rock Moves used by the holder. Accessory Item for Trainers.",
         "consumable":false,
         "cost":1800
     },
     {
-        "name":"Ground Booster",
+        "name":"Type Booster (Ground)",
         "effect":"Grants a +5 Damage Bonus to all direct-damage Ground Moves used by the holder. Accessory Item for Trainers.",
         "consumable":false,
         "cost":1800
-    },
-    {
-        "name":"Glue Cannon Charge Packet",
-        "effect":"A charge packet for Glue Cannons.",
-        "consumable":true,
-        "cost":100
     },
     {
         "name":"Latiosite",
@@ -912,7 +906,7 @@
         "cost":500
     },
     {
-        "name":"Lagging Item (Def)",
+        "name":"Lagging Item (Defense)",
         "effect":"The holder's Defense Stat is set to -4 Combat Stages. Cannot be used by Trainers. Standard Action to drop.",
         "consumable":false,
         "cost":900
@@ -943,13 +937,13 @@
     },
     {
         "name":"Blue Shard",
-        "effect":"Associated with Water, Ice, & Flying.  With Gem Lore, 4 can be combined into a Water Stone.",
+        "effect":"Associated with Water, Ice, & Flying. With Gem Lore, 4 can be combined into a Water Stone.",
         "consumable":false,
         "cost":null
     },
     {
         "name":"X Special",
-        "effect":"Increases the Pokémon’s Special Attack by two Combat Stages",
+        "effect":"Increases the Pokémon’s Special Attack by two Combat Stages.",
         "consumable":true,
         "cost":350
     },
@@ -967,9 +961,9 @@
     },
     {
         "name":"Reanimation Machine",
-        "effect":"Can be used to revive Fossils. Reanimation Machines also come in a smaller but more expensive Portable variety. Prices are up to GM discretion, often upwards of $10,000. See the Pokémon Fossils section for more details (page 216).",
+        "effect":"Can be used to revive Fossils. Reanimation Machines also come in a smaller but more expensive Portable variety. Prices are up to GM discretion, often upwards of $10,000.",
         "consumable":false,
-        "cost":null
+        "cost":10000
     },
     {
         "name":"EMP Grenade",
@@ -979,44 +973,38 @@
     },
     {
         "name":"Up-Grade",
-        "effect":"Evolves Porygon",
+        "effect":"Evolves Porygon.",
         "consumable":true,
         "cost":3000
     },
     {
-        "name":"Pester Ball: Sleep",
+        "name":"Pester Ball (Sleep)",
         "effect":"Causes the target to fall asleep. After being hit by any Pester Ball, a target becomes immune to the effects of further Pester Balls for 1 hour. Throwing and hitting with Pester Balls is the same as with Poké Balls.",
         "consumable":true,
         "cost":350
     },
     {
-        "name":"Poison Brace",
+        "name":"Type Brace (Poison)",
         "effect":"Grants the holder 15 Damage Reduction against all direct-damage Poison Moves. Accessory Item for Trainers.",
         "consumable":false,
         "cost":2000
     },
     {
-        "name":"Heavy Armor [9-15 Playtest]",
-        "effect":"+5 Damage Reduction against all Damage.",
-        "consumable":false,
-        "cost":12000
-    },
-    {
-        "name":"Dragon Gem",
-        "effect":"Can be consumed as a Free Action to give a +3 DB bonus to one Dragon-Type attack. Off-hand or Accessory Slot Item for Trainers.",
+        "name":"Type Gem (Dragon)",
+        "effect":"Can be consumed as a Free Action to give a +3 Damage Base bonus to one Dragon-Type attack. Off-hand or Accessory Slot Item for Trainers.",
         "consumable":true,
         "cost":null
     },
     {
         "name":"MooMoo Milk",
-        "effect":"Heals 80 Hit Points",
+        "effect":"Heals 80 Hit Points. A Pokémon or Trainer can only consume one refreshment per half hour, unless they have the Gluttony Ability.",
         "consumable":true,
         "cost":500
     },
     {
-        "name":"Bean Cap [5-15 Playtest]",
-        "effect":"AC: (6 minus Tech Edu Rank, Min 2)\\nRange: 10 meters\\nEffect: The target takes 20 Physical, Normal-Type Damage. On 18+, the target is Tripped and loses a Tick of Hit Points.",
-        "consumable":false,
+        "name":"Bean Cap",
+        "effect":"AC: (6 minus Tech Edu Rank, Min 2)\\nRange: 10 meters\\nEffect: The target takes 20 Physical, Normal-Type Damage. On 18+, the target is Tripped and loses a Tick of Hit Points.\\nBean Caps shoot as a small cloth projectile filed with beads, which explodes upon contact.",
+        "consumable":true,
         "cost":50
     },
     {
@@ -1029,7 +1017,7 @@
         "name":"Earth Ball",
         "effect":"-20 Modifier if the target is Grass or Ground type.",
         "consumable":true,
-        "cost":null
+        "cost":300
     },
     {
         "name":"Flame Retardant Armor",
@@ -1045,7 +1033,7 @@
     },
     {
         "name":"Sleeping Bag",
-        "effect":"A standard sleeping bag.  Holds one person.",
+        "effect":"A standard sleeping bag. Holds one person.",
         "consumable":false,
         "cost":1000
     },
@@ -1074,14 +1062,14 @@
         "cost":300
     },
     {
-        "name":"Iron Plate",
+        "name":"Type Plate (Steel)",
         "effect":"Acts as both a Steel Booster and a Steel Brace. Accessory Slot Item for Trainers.",
         "consumable":false,
         "cost":null
     },
     {
         "name":"Babiri Berry",
-        "effect":"Weakens foe’s super effective Steel-type move. Tier 3.",
+        "effect":"Grants a Food Buff which, when traded in, grants one step of resistance versus a foe's super effective Steel-type move. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -1093,12 +1081,12 @@
     },
     {
         "name":"Dragon Scale",
-        "effect":"Evolves Seadra",
+        "effect":"Evolves Seadra.",
         "consumable":true,
         "cost":3000
     },
     {
-        "name":"Glue Cap [5-15 Playtest]",
+        "name":"Glue Cap",
         "effect":"AC: (8 minus Tech Edu Rank, Min 2)\\nRange: 8 meters\\nEffect: Cause the target to become Slowed, and their Initiative is lowered by 5. On 18+, the target is also Stuck and Trapped.",
         "consumable":true,
         "cost":100
@@ -1123,7 +1111,7 @@
     },
     {
         "name":"X Accuracy",
-        "effect":"Increases Accuracy by +2",
+        "effect":"Increases Accuracy by +2.",
         "consumable":true,
         "cost":600
     },
@@ -1135,26 +1123,26 @@
     },
     {
         "name":"Rindo Berry",
-        "effect":"Weakens foe’s super effective Grass-type move. Tier 3.",
+        "effect":"Grants a Food Buff which, when traded in, grants one step of resistance versus a foe's super effective Grass-type move. Tier 3.",
         "consumable":true,
         "cost":500
     },
     {
         "name":"Hondew Berry",
-        "effect":"Lowers Special Attack stat by 1 with trainer permission. Tier 3.",
+        "effect":"Lowers Special Attack Base Stat by 1 when consumed, only if Pokémon’s trainer wishes it to. Tier 3.",
         "consumable":true,
         "cost":500
     },
     {
-        "name":"Pester Ball: Paralysis",
+        "name":"Pester Ball (Paralysis)",
         "effect":"Inflicts Paralysis on the target. After being hit by any Pester Ball, a target becomes immune to the effects of further Pester Balls for 1 hour. Throwing and hitting with Pester Balls is the same as with Poké Balls.",
         "consumable":true,
         "cost":350
     },
     {
-        "name":"Attack Suppressant",
-        "effect":"Lowers Attack stat by 1 if trainer allows it.",
-        "consumable":false,
+        "name":"Stat Suppressant (Attack)",
+        "effect":"Lowers the user's Attack Base Stat by 1. Only functions if the Trainer wants it to.",
+        "consumable":true,
         "cost":500
     },
     {
@@ -1183,7 +1171,7 @@
     },
     {
         "name":"Roseli Berry",
-        "effect":"Weakens foe’s supereffective Fairy-type move. Tier 3.",
+        "effect":"Grants a Food Buff which, when traded in, grants one step of resistance versus a foe's super effective Fairy-type move. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -1200,7 +1188,7 @@
         "cost":null
     },
     {
-        "name":"Lagging Item (Atk)",
+        "name":"Lagging Item (Attack)",
         "effect":"The holder's Attack Stat is set to -4 Combat Stages. Cannot be used by Trainers. Standard Action to drop.",
         "consumable":false,
         "cost":900
@@ -1213,15 +1201,15 @@
     },
     {
         "name":"Super Rod",
-        "effect":"The best fishing rod.",
+        "effect":"The best fishing rod. May catch Pokémon of any size and evolutionary stage, to your GM's discretion.",
         "consumable":false,
         "cost":15000
     },
     {
         "name":"Tent",
-        "effect":"Standard outdoor tents. Provide protection from the elements of nature. A small one person tent would be about 1m x 1.5m x 1.5m, or 2.25 cubic meters– meaning 900 in price.",
+        "effect":"Standard outdoor tents. Provide protection from the elements of nature. A small one person tent would be about 1m x 1.5m x 1.5m, or 2.25 cubic meters – meaning 900 in price.",
         "consumable":false,
-        "cost":null
+        "cost":900
     },
     {
         "name":"TM91 - Flash Cannon",
@@ -1231,9 +1219,9 @@
     },
     {
         "name":"Fabulous Ball",
-        "effect":"The captured Pokémon gains +2 dice in the Contest Stat that corresponds to the Stat boosted by their Nature. If the Stat boosted is HP, choose any two Contest Stats except the one corresponding to the lowered Stat and raise them by 1 die each. As a reminder, Beauty=SpAtk, Cool=Attack, Cute=Speed, Smart=SpDef, Tough=Def.",
+        "effect":"The captured Pokémon gains +2 dice in the Contest Stat that corresponds to the Stat boosted by their Nature. If the Stat boosted is HP, choose any two Contest Stats except the one corresponding to the lowered Stat and raise them by 1 die each. As a reminder, Beauty = Special Attack, Cool = Attack, Cute = Speed, Smart = Special Defense, and Tough = Defense.",
         "consumable":true,
-        "cost":null
+        "cost":250
     },
     {
         "name":"Old Amber Shard",
@@ -1261,18 +1249,18 @@
     },
     {
         "name":"Revive",
-        "effect":"Revives fainted Pokémon and sets to 20 Hit Points",
+        "effect":"Revives fainted Pokémon and sets to 20 Hit Points.",
         "consumable":true,
         "cost":300
     },
     {
         "name":"Shuca Berry",
-        "effect":"Weakens foe’s super effective Ground-type move. Tier 3.",
+        "effect":"Grants a Food Buff which, when traded in, grants one step of resistance versus a foe's super effective Ground-type move. Tier 3.",
         "consumable":true,
         "cost":500
     },
     {
-        "name":"Beauty Fashion",
+        "name":"Contest Fashion (Beauty)",
         "effect":"Once per Contest the holder may re-roll any 1's made when using a Beauty Move. Cannot be used by Trainers.",
         "consumable":false,
         "cost":1000
@@ -1291,19 +1279,19 @@
     },
     {
         "name":"HP Up",
-        "effect":"Raise the user’s HP Base Stat 1.",
+        "effect":"Raise the user’s HP Base Stat 1. You may only get use out of up to five Vitamins per Pokémon.",
         "consumable":true,
         "cost":4900
     },
     {
-        "name":"Ground Gem",
+        "name":"Type Gem (Ground)",
         "effect":"Can be consumed as a Free Action to give a +3 DB bonus to one Ground-Type attack. Off-hand or Accessory Slot Item for Trainers.",
         "consumable":true,
         "cost":null
     },
     {
         "name":"Coba Berry",
-        "effect":"Weakens foe’s super effective Flying-type move. Tier 3.",
+        "effect":"Grants a Food Buff which, when traded in, grants one step of resistance versus a foe's super effective Flying-type move. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -1314,7 +1302,7 @@
         "cost":null
     },
     {
-        "name":"Cute Fashion",
+        "name":"Contest Fashion (Cute)",
         "effect":"Once per Contest the holder may re-roll any 1's made when using a Cute Move. Cannot be used by Trainers.",
         "consumable":false,
         "cost":1000
@@ -1326,7 +1314,7 @@
         "cost":3500
     },
     {
-        "name":"Tinfoil Gospel: Your Primer on Thwarting the Conspiracies of the New World Order [5-15 Playtest]",
+        "name":"Tinfoil Gospel: Your Primer on Thwarting the Conspiracies of the New World Order",
         "effect":"An even more questionable tome, filled with laughable conspiracy theories. Its mental exercises are strangely effective, however.\\n\\nRank 1 - Novice Occult Education: You gain the Iron Mind Edge and the Skill Stunt - Focus (resisting Telepathy).\\nRank 2 - Expert Occult Education: Your Aura becomes muddled and difficult to read. Pokémon and Trainers with the Aura Reader Capability cannot discern the tint of your Aura and must succeed on an opposed Intuition or Focus Check vs your Occult Education or Focus in order to read the hue of your Aura. Upon failure, they may not attempt to read your Aura again for the remainder of the Scene.",
         "consumable":false,
         "cost":1000
@@ -1339,7 +1327,7 @@
     },
     {
         "name":"Kasib Berry",
-        "effect":"Weakens foe’s super effective Ghost-type move. Tier 3.",
+        "effect":"Grants a Food Buff which, when traded in, grants one step of resistance versus a foe's super effective Ghost-type move. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -1351,7 +1339,7 @@
     },
     {
         "name":"Chople Berry",
-        "effect":"Weakens foe’s super effective Fighting-type move. Tier 3.",
+        "effect":"Grants a Food Buff which, when traded in, grants one step of resistance versus a foe's super effective Fighting-type move. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -1393,7 +1381,7 @@
     },
     {
         "name":"Friend Ball",
-        "effect":"A caught Pokémon will start with +1 Loyalty.  -5 Modifier.",
+        "effect":"A caught Pokémon will start with +1 Loyalty. -5 Modifier.",
         "consumable":true,
         "cost":800
     },
@@ -1410,7 +1398,7 @@
         "cost":3000
     },
     {
-        "name":"Shield [9-15 Playtest]",
+        "name":"Shield",
         "effect":"A Shield is an Off-Hand defensive item held in one hand or braced to an arm. Shields grant +1 Evasion. They may be readied as a Standard Action to instead grant +4 Evasion and 10 Damage Reduction until the end of your next turn, but also cause you to become Slowed for that duration. If used Two-Handed, shields can also function as a Small Melee Weapon.",
         "consumable":false,
         "cost":3000
@@ -1429,7 +1417,7 @@
     },
     {
         "name":"Chilan Berry",
-        "effect":"Weakens foe’s Normal-type move. Tier 3.",
+        "effect":"Grants a Food Buff which, when traded in, grants one step of resistance versus a foe's Normal-type move. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -1446,14 +1434,14 @@
         "cost":250
     },
     {
-        "name":"Speed Suppressant",
-        "effect":"Lowers Speed stat by 1 if trainer allows it.",
-        "consumable":false,
+        "name":"Stat Suppressant (Speed)",
+        "effect":"Lowers Speed stat by 1 if Trainer allows it.",
+        "consumable":true,
         "cost":500
     },
     {
         "name":"Energy Root",
-        "effect":"Heals 70 Hit Points - Repulsive",
+        "effect":"Heals 70 Hit Points - Herbal Restorative.",
         "consumable":true,
         "cost":500
     },
@@ -1465,19 +1453,19 @@
     },
     {
         "name":"Universal Translator",
-        "effect":"You understand any spoken language recognized by the Universal Translator and can speak into it and have your words translated immediately. Usually programmed with all of the major human languages. Can be used to speak with Pokémon.",
+        "effect":"You understand any spoken language recognized by the Universal Translator and can speak into it and have your words translated immediately. Usually programmed with all of the major human languages. Can be used to speak with Pokémon. Head equipment slot.",
         "consumable":false,
         "cost":10000
     },
     {
-        "name":"Stone Plate",
+        "name":"Type Plate (Rock)",
         "effect":"Acts as both a Rock Booster and a Rock Brace. Accessory Slot Item for Trainers.",
         "consumable":false,
         "cost":null
     },
     {
         "name":"X Sp. Def.",
-        "effect":"Increases the Pokémon’s Special Defense by two Combat Stages",
+        "effect":"Increases the Pokémon’s Special Defense by two Combat Stages.",
         "consumable":true,
         "cost":350
     },
@@ -1489,7 +1477,7 @@
     },
     {
         "name":"Iron",
-        "effect":"Raise the user’s Defense Base Stat 1.",
+        "effect":"Raise the user’s Defense Base Stat 1. You may only get use out of up to five Vitamins per Pokémon.",
         "consumable":true,
         "cost":4900
     },
@@ -1524,8 +1512,8 @@
         "cost":null
     },
     {
-        "name":"Fighting Gem",
-        "effect":"Can be consumed as a Free Action to give a +3 DB bonus to one Fighting-Type attack. Off-hand or Accessory Slot Item for Trainers.",
+        "name":"Type Gem (Fighting)",
+        "effect":"Can be consumed as a Free Action to give a +3 Damage Base bonus to one Fighting-Type attack. Off-hand or Accessory Slot Item for Trainers.",
         "consumable":true,
         "cost":null
     },
@@ -1537,7 +1525,7 @@
     },
     {
         "name":"Jaboca Berry",
-        "effect":"Foe dealing Physical Damage to the user loses 1/8 of their Maximum HP. Tier 2.",
+        "effect":"The foe dealing Physical Damage to the user loses 1/8 of their Maximum HP. Tier 2.",
         "consumable":true,
         "cost":250
     },
@@ -1549,7 +1537,7 @@
     },
     {
         "name":"Shuckle's Berry Juice",
-        "effect":"Heals 30 Hit Points",
+        "effect":"Heals 30 Hit Points. A Pokémon or Trainer can only consume one refreshment per half hour, unless they have the Gluttony Ability.",
         "consumable":true,
         "cost":null
     },
@@ -1561,13 +1549,13 @@
     },
     {
         "name":"Hazmat Suit",
-        "effect":"Acts as a Gas Mask but also grants the Hazard Immunity capability and immunity to non-damaging Poison Type Moves.",
+        "effect":"Acts as a Gas Mask but also grants the Hazard Immunity capability and immunity to non-damaging Poison Type Moves. Body and Head equipment slots.",
         "consumable":false,
         "cost":3500
     },
     {
-        "name":"Combat Medic's Primer [9-15 Playtest]",
-        "effect":"Rank 1 – Novice Medicine Education: After taking a Sprint Maneuver, you may apply a Restorative Item on an adjacent target as a Swift Action.\\nRank 2 – Expert Medicine Education: Once per Scene as a Standard Action, you may target an adjacent ally. The target may immediately Take a Breather as a Full-Action Interrupt if they wish. They do not Shift and do not become Tripped as part of this action. If the target is Confused or Enraged, you must make a Medicine Education Check with a DC of 12 for them to be able to Take a Breather.",
+        "name":"Combat Medic's Primer",
+        "effect":"An invaluable guide to patient care, praised by rangers and others who need to administer first-aid on the job.\\nRank 1 – Novice Medicine Education: After taking a Sprint Maneuver, you may apply a Restorative Item on an adjacent target as a Swift Action.\\nRank 2 – Expert Medicine Education: Once per Scene as a Standard Action, you may target an adjacent ally. The target may immediately Take a Breather as a Full-Action Interrupt if they wish. They do not Shift and do not become Tripped as part of this action. If the target is Confused or Enraged, you must make a Medicine Education Check with a DC of 12 for them to be able to Take a Breather.",
         "consumable":false,
         "cost":1000
     },
@@ -1585,7 +1573,7 @@
     },
     {
         "name":"Whipped Dream",
-        "effect":"Evolves Swirlix",
+        "effect":"Evolves Swirlix.",
         "consumable":true,
         "cost":3000
     },
@@ -1609,30 +1597,30 @@
     },
     {
         "name":"Wiki Berry",
-        "effect":"Dry Treat, Beauty Poffin Ingredient. Tier 2.",
+        "effect":"Dry Treat. Heals 1/8th of the Pokémon’s Max HP. If the user likes the Treat’s flavor, it heals 1/6th instead. If the user dislikes the treat’s flavor, the user is Confused. Beauty Poffin Ingredient. Tier 2.",
         "consumable":true,
         "cost":250
     },
     {
-        "name":"Normal Brace",
+        "name":"Type Brace (Normal)",
         "effect":"Grants the holder 15 Damage Reduction against all direct-damage Normal Moves. Accessory Item for Trainers.",
         "consumable":false,
         "cost":2000
     },
     {
-        "name":"Special Attack Suppressant",
-        "effect":"Lowers Special Attack stat by 1 if trainer allows it.",
-        "consumable":false,
+        "name":"Stat Suppressant (Special Attack)",
+        "effect":"Lowers Special Attack stat by 1 if Trainer allows it.",
+        "consumable":true,
         "cost":500
     },
     {
-        "name":"Fighting Brace",
+        "name":"Type Brace (Fighting)",
         "effect":"Grants the holder 15 Damage Reduction against all direct-damage Fighting Moves. Accessory Item for Trainers.",
         "consumable":false,
         "cost":2000
     },
     {
-        "name":"Normal Booster",
+        "name":"Type Booster (Normal)",
         "effect":"Grants a +5 Damage Bonus to all direct-damage Normal Moves used by the holder. Accessory Item for Trainers.",
         "consumable":false,
         "cost":1800
@@ -1644,13 +1632,13 @@
         "cost":800
     },
     {
-        "name":"Water Booster",
+        "name":"Type Booster (Water)",
         "effect":"Grants a +5 Damage Bonus to all direct-damage Water Moves used by the holder. Accessory Item for Trainers.",
         "consumable":false,
         "cost":1800
     },
     {
-        "name":"Pester Ball: Poison",
+        "name":"Pester Ball (Poison)",
         "effect":"Inflicts Poison on the target. After being hit by any Pester Ball, a target becomes immune to the effects of further Pester Balls for 1 hour. Throwing and hitting with Pester Balls is the same as with Poké Balls.",
         "consumable":true,
         "cost":350
@@ -1662,7 +1650,7 @@
         "cost":2200
     },
     {
-        "name":"A Field Guide to Fungi [5-15 Playtest]",
+        "name":"A Field Guide to Fungi",
         "effect":"This book tells you which mushrooms are good to eat and which ones will give you a bad trip.\\n\\nRank 1 - Novice Survival: You automatically identify all Tiny Mushrooms, Big Mushrooms, and Balm Mushrooms you pick. Whenever you or your Pokémon consume one of those Mushrooms, they ignore the negative effect of the Mushroom (Hit Point loss, Poison, Combat Stage loss).\\nRank 2 - Adept Survival: You can create the Hearty Meal Chef Recipe as an Extended Action but only by using Mushrooms as ingredients.",
         "consumable":false,
         "cost":1000
@@ -1687,7 +1675,7 @@
     },
     {
         "name":"Qualot Berry",
-        "effect":"Lowers Defense stat by 1 with trainer permission. Tier 3.",
+        "effect":"Lowers Defense Base Stat by 1 when consumed, only if Pokémon’s trainer wishes it to. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -1704,7 +1692,7 @@
         "cost":10000
     },
     {
-        "name":"Traditional Medicine Reference [5-15 Playtest]",
+        "name":"Traditional Medicine Reference",
         "effect":"A volume dedicated to properly preparing herbal medications. See PTU May 2015 Playtest Packet - Miscellaneous Errata for Herbal Restorative errata.\\n\\nRank 1 - Adept Medicine Education: Targets you administer Herbal Restoratives to do not lose Combat Stages no matter how many Herbal Restoratives they’ve had in the same day.\\nRank 2 - Expert Medicine Education: Whenever you administer an Herbal Restorative to a target, they may choose to gain the Food Buff associated with Herbal Restoratives, regardless of how many Herbal Restoratives they’ve used this day.",
         "consumable":false,
         "cost":1000
@@ -1717,12 +1705,12 @@
     },
     {
         "name":"Gravity Modulation Suit",
-        "effect":"You may treat the local gravity as if it were 1 lower or 1 higher. Changing the setting on the suit is an At-Will Extended Action requiring time for the suit to adjust to the new settings.",
+        "effect":"You may treat the local gravity as if it were 1 lower or 1 higher. Changing the setting on the suit is an At-Will Extended Action requiring time for the suit to adjust to the new settings. Body equipment slot.",
         "consumable":false,
         "cost":4000
     },
     {
-        "name":"Icicle Plate",
+        "name":"Type Plate (Ice)",
         "effect":"Acts as both an Ice Booster and an Ice Brace. Accessory Slot Item for Trainers.",
         "consumable":false,
         "cost":null
@@ -1734,7 +1722,7 @@
         "cost":500
     },
     {
-        "name":"Study Manual [5-15 Playtest]",
+        "name":"Study Manual",
         "effect":"A Study Manual is always assigned to a single Skill and covers a specific narrow field that can be taken as a Skill Stunt.\\n\\nRank 1 - Novice General Education: You gain a Skill Stunt in the associated Skill of the Study Manual covering the narrow field specified by the Study Manual.\\nRank 2 - Expert General Education: You gain a general +2 Bonus to the associated Skill. This Bonus does not stack with other bonuses from Books or Equipment to the same Skill.",
         "consumable":false,
         "cost":1000
@@ -1746,13 +1734,13 @@
         "cost":2000
     },
     {
-        "name":"Smart Fashion",
+        "name":"Contest Fashion (Smart)",
         "effect":"Once per Contest the holder may re-roll any 1's made when using a Smart Move. Cannot be used by Trainers.",
         "consumable":false,
         "cost":1000
     },
     {
-        "name":"How To Avoid Being Spooked [5-15 Playtest]",
+        "name":"How To Avoid Being Spooked",
         "effect":"A questionable old tome filled with Ghost-related esoterica.\\n\\nRank 1 - Adept Occult Education: While holding a Cleanse Tag in your Main or Off-Hand Equipment Slot, you can see Pokémon and Trainers using the Invisibility Capability.\\nRank 2 - Expert Occult Education: While holding a Cleanse Tag in your Main or Off-Hand Equipment Slot, you are immune to the Cursed Status Affliction.",
         "consumable":false,
         "cost":1000
@@ -1783,7 +1771,7 @@
     },
     {
         "name":"Extendable Grabby Arm",
-        "effect":"A dexterous and flexible arm with a hand at the end. Can be used to grab and manipulate objects from 3 meters away.",
+        "effect":"Equipment Slot: Main Hand.\\nA dexterous and flexible arm with a hand at the end. Can be used to grab and manipulate objects from 3 meters away.",
         "consumable":false,
         "cost":750
     },
@@ -1801,7 +1789,7 @@
     },
     {
         "name":"Heal Powder",
-        "effect":"Cure all Persistent Status Afflictions – Repulsive",
+        "effect":"Cure all Persistent Status Afflictions – Herbal Restorative",
         "consumable":true,
         "cost":350
     },
@@ -1818,13 +1806,13 @@
         "cost":3000
     },
     {
-        "name":"Ghost Brace",
+        "name":"Type Brace (Ghost)",
         "effect":"Grants the holder 15 Damage Reduction against all direct-damage Ghost Moves. Accessory Item for Trainers.",
         "consumable":false,
         "cost":2000
     },
     {
-        "name":"Spooky Plate",
+        "name":"Type Plate (Ghost)",
         "effect":"Acts as both a Ghost Booster and a Ghost Brace. Accessory Slot Item for Trainers.",
         "consumable":false,
         "cost":null
@@ -1836,19 +1824,19 @@
         "cost":null
     },
     {
-        "name":"Type Study Manual [5-15 Playtest]",
+        "name":"Type Study Manual",
         "effect":"These Books focus on one particular Pokemon Type.\\n\\nRank 1 - Novice Pokémon Education: You gain a -5 Bonus on Capture Checks against the studied Type.\\nRank 2 - Expert Pokémon Education: When you apply Experience Training, you may choose to give one of your Pokémon of the studied Type +10 Bonus Experience. The same Pokémon cannot be chosen two days in a row.",
         "consumable":false,
         "cost":1000
     },
     {
         "name":"Paralyze Heal",
-        "effect":"Cures Paralysis",
+        "effect":"Cures Paralysis.",
         "consumable":true,
         "cost":200
     },
     {
-        "name":"Normal Plate",
+        "name":"Type Plate (Normal)",
         "effect":"Acts as both a Normal Booster and a Normal Brace. Accessory Slot Item for Trainers.",
         "consumable":false,
         "cost":null
@@ -1866,7 +1854,7 @@
         "cost":150
     },
     {
-        "name":"Flying Booster",
+        "name":"Type Booster (Flying)",
         "effect":"Grants a +5 Damage Bonus to all direct-damage Flying Moves used by the holder. Accessory Item for Trainers.",
         "consumable":false,
         "cost":1800
@@ -1881,7 +1869,7 @@
         "name":"Master Ball",
         "effect":"Incredibly Rare. Worth at least $300,000. Sold nowhere. -100 Modifier.",
         "consumable":true,
-        "cost":null
+        "cost":300000
     },
     {
         "name":"Leaf Stone",
@@ -1893,7 +1881,7 @@
         "name":"Solid Ball",
         "effect":"-20 Modifier if the target is Rock or Steel type.",
         "consumable":true,
-        "cost":null
+        "cost":300
     },
     {
         "name":"Lucarionite",
@@ -1915,7 +1903,7 @@
     },
     {
         "name":"Wacan Berry",
-        "effect":"Weakens foe’s super effective Electric-type move. Tier 3.",
+        "effect":"Grants a Food Buff which, when traded in, grants one step of resistance versus a foe's super effective Electric-type move. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -1926,8 +1914,8 @@
         "cost":2800
     },
     {
-        "name":"Bug Gem",
-        "effect":"Can be consumed as a Free Action to give a +3 DB bonus to one Bug-Type attack. Off-hand or Accessory Slot Item for Trainers.",
+        "name":"Type Gem (Bug)",
+        "effect":"Can be consumed as a Free Action to give a +3 Damage Base bonus to one Bug-Type attack. Off-hand or Accessory Slot Item for Trainers.",
         "consumable":true,
         "cost":null
     },
@@ -1938,20 +1926,20 @@
         "cost":1500
     },
     {
-        "name":"Accuracy Booster",
+        "name":"Stat Booster (Accuracy)",
         "effect":"Grants the holder +1 Accuracy. Accessory Item for Trainers.",
         "consumable":false,
         "cost":4000
     },
     {
-        "name":"First Aid Manual [5-15 Playtest]",
+        "name":"First Aid Manual",
         "effect":"A training manual given to all EMTs.\\n\\nRank 1 - Novice Medicine Education: You gain a +10 Bonus to Medicine Education Checks made to use a First Aid Kit.\\nRank 2 - Expert Medicine Education: You may use the First Aid Expertise Feature once per day.",
         "consumable":false,
         "cost":1000
     },
     {
         "name":"Sachet",
-        "effect":"Evolves Spritzee",
+        "effect":"Evolves Spritzee.",
         "consumable":true,
         "cost":3000
     },
@@ -1980,13 +1968,13 @@
         "cost":null
     },
     {
-        "name":"Ghost Gem",
+        "name":"Type Gem (Ghost)",
         "effect":"Can be consumed as a Free Action to give a +3 DB bonus to one Ghost-Type attack. Off-hand or Accessory Slot Item for Trainers.",
         "consumable":true,
         "cost":null
     },
     {
-        "name":"Pixie Plate",
+        "name":"Type Plate (Fairy)",
         "effect":"Acts as both a Fairy Booster and a Fairy Brace. Accessory Slot Item for Trainers.",
         "consumable":false,
         "cost":null
@@ -1998,13 +1986,13 @@
         "cost":null
     },
     {
-        "name":"Net Cap [5-15 Playtest]",
+        "name":"Net Cap",
         "effect":"AC: (10 minus Tech Edu Rank)\\nRange: 6 Meters\\nEffect: Targets hit by a Net Cap gain all the effects below while the net remains on them. Targets may attempt to remove the Net as a Standard Action; if they do, they make a Save Check with a DC of 15, adding their Power Capability as a bonus to their Roll. Targets may automatically remove the Net as an Extended Action.\\n\\n» If the target is a Wild Pokémon, Capture Rate is increased by +20\\n» If the target is Large Size or smaller, they take a -3 penalty to Accuracy Rolls\\n» If the target is Medium Size or smaller, they are Slowed and Vulnerable\\n» Sky and Levitate Speeds cannot be used; the target is forced to lower themselves to the ground (without taking fall damage).",
         "consumable":false,
         "cost":200
     },
     {
-        "name":"Caretaker's Manual [5-15 Playtest]",
+        "name":"Caretaker's Manual",
         "effect":"An invaluable guide to patient care with wide appeal and praised by both nurses and rangers.\\n\\nRank 1 - Adept Medicine Education: Once per Scene, you may assist an adjacent ally in Taking a Breather as a Standard Action, and they do not Shift or become Tripped as part of this action. If the target is Confused or Enraged, you may roll Medicine Education instead of Command to assist them.\\nRank 2 - Master Medicine Education: This effect can only be bound while taking an Extended Rest and Drains AP for the next day. During this Extended Rest, Pokémon and Trainers in your care heal twice as many Hit Points while resting, heal Injuries twice as quickly, and may heal an additional Injury per day. This stacks with use of Bandages.",
         "consumable":false,
         "cost":1000
@@ -2013,7 +2001,7 @@
         "name":"Mold Ball",
         "effect":"-20 Modifier if the target is Poison or Fighting type.",
         "consumable":true,
-        "cost":null
+        "cost":300
     },
     {
         "name":"TM01 - Work Up",
@@ -2034,8 +2022,8 @@
         "cost":1800
     },
     {
-        "name":"Deepseascale",
-        "effect":"Evolves Clamperl",
+        "name":"Deep Sea Scale",
+        "effect":"Evolves Clamperl.",
         "consumable":true,
         "cost":3000
     },
@@ -2059,7 +2047,7 @@
     },
     {
         "name":"Enriched Water",
-        "effect":"Heals 20 Hit Points",
+        "effect":"Heals 20 Hit Points. A Pokémon or Trainer can only consume one refreshment per half hour, unless they have the Gluttony Ability.",
         "consumable":true,
         "cost":75
     },
@@ -2070,7 +2058,7 @@
         "cost":800
     },
     {
-        "name":"Pester Ball: Burn",
+        "name":"Pester Ball (Burn)",
         "effect":"Inflicts Burn on the target. After being hit by any Pester Ball, a target becomes immune to the effects of further Pester Balls for 1 hour. Throwing and hitting with Pester Balls is the same as with Poké Balls.",
         "consumable":true,
         "cost":350
@@ -2094,14 +2082,14 @@
         "cost":2000
     },
     {
-        "name":"Poké Ball Technical Manual [5-15 Playtest]",
+        "name":"Poké Ball Technical Manual",
         "effect":"Your all-in-one guide to balls.\\n\\nRank 1 - Novice Technology Education: Your material costs for crafting Poke Balls of any variety are reduced by 10%.\\nRank 2 - Expert Technology Education: Poke Balls you craft gain a +2 Bonus to Accuracy Rolls.",
         "consumable":false,
         "cost":1000
     },
     {
-        "name":"Deepseatooth",
-        "effect":"Evolves Clamperl",
+        "name":"Deep Sea Tooth",
+        "effect":"Evolves Clamperl.",
         "consumable":true,
         "cost":3000
     },
@@ -2109,7 +2097,7 @@
         "name":"Heat Ball",
         "effect":"-20 Modifier if the target is Electric or Fire type.",
         "consumable":true,
-        "cost":null
+        "cost":300
     },
     {
         "name":"TM56 - Fling",
@@ -2125,7 +2113,7 @@
     },
     {
         "name":"Figy Berry",
-        "effect":"Spicy Treat, Cool Poffin Ingredient. Tier 2.",
+        "effect":"Spicy Treat. Heals 1/8th of the Pokémon’s Max HP. If the user likes the Treat’s flavor, it heals 1/6th instead. If the user dislikes the treat’s flavor, the user is Confused. Cool Poffin Ingredient. Tier 2.",
         "consumable":true,
         "cost":250
     },
@@ -2155,7 +2143,7 @@
     },
     {
         "name":"X-Ray Goggles",
-        "effect":"Grants the user the X-Ray Vision Capability.",
+        "effect":"Grants the user the X-Ray Vision Capability. Head equipment slot.",
         "consumable":false,
         "cost":8000
     },
@@ -2167,7 +2155,7 @@
     },
     {
         "name":"Heal Ball",
-        "effect":"A caught Pokémon will heal to Max HP immediately upon capture.  -5 Modifier.",
+        "effect":"A caught Pokémon will heal to Max HP immediately upon capture. -5 Modifier.",
         "consumable":true,
         "cost":800
     },
@@ -2181,7 +2169,7 @@
         "name":"Mystic Ball",
         "effect":"-20 Modifier if the target is Dragon or Psychic type.",
         "consumable":true,
-        "cost":null
+        "cost":300
     },
     {
         "name":"Salac Berry",
@@ -2233,7 +2221,7 @@
     },
     {
         "name":"Charti Berry",
-        "effect":"Weakens foe’s super effective Rock-type move. Tier 3.",
+        "effect":"Grants a Food Buff which, when traded in, grants one step of resistance versus a foe's super effective Rock-type move. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -2250,7 +2238,7 @@
         "cost":2800
     },
     {
-        "name":"Lagging Item (SDef)",
+        "name":"Lagging Item (Special Defense)",
         "effect":"The holder's Special Defense Stat is set to -4 Combat Stages. Cannot be used by Trainers. Standard Action to drop.",
         "consumable":false,
         "cost":900
@@ -2260,12 +2248,6 @@
         "effect":"A Focus grants +5 Bonus to a Stat, chosen when crafted. This Bonus is applied AFTER Combat Stages. Focuses are often Accessory-Slot Items, but may be crafted as Head-Slot, Hand or Off-Hand Slot Items as well; a Trainer may only benefit from one Focus at a time, regardless of the Equipment Slot. Focuses are not usually found in stores, but may sometimes be found for $6000 at your GM’s discretion.",
         "consumable":false,
         "cost":6000
-    },
-    {
-        "name":"Glue Cannon",
-        "effect":"Glue Cannons are exactly what you expect; This two-handed Equipment piece is a hand-held cannon that launches globs of glue. Attacking with a Glue Cannon expends a charge, which must be purchased. The attack is an AC8 Status Attack. If it hits, the target is Slowed. On a critical hit, the target is instead Stuck and Trapped. The Glue Cannon and three charge packets cost $3000, and additional charge packets costs $100.",
-        "consumable":false,
-        "cost":3000
     },
     {
         "name":"Helmet",
@@ -2298,7 +2280,7 @@
         "cost":7500
     },
     {
-        "name":"How Berries?? [5-15 Playtest]",
+        "name":"How Berries??",
         "effect":"A beginner’s guide to the proper care of berry plants.\\n\\nRank 1 - Adept General Education: Once per day when making a Yield Roll, add +1 to the result.\\nRank 2 - Expert General Education: You may create Mulch from Food Scrap.",
         "consumable":false,
         "cost":1000
@@ -2334,38 +2316,32 @@
         "cost":4600
     },
     {
-        "name":"Water Gem",
-        "effect":"Can be consumed as a Free Action to give a +3 DB bonus to one Water-Type attack. Off-hand or Accessory Slot Item for Trainers.",
+        "name":"Type Gem (Water)",
+        "effect":"Can be consumed as a Free Action to give a +3 Damage Base bonus to one Water-Type attack. Off-hand or Accessory Slot Item for Trainers.",
         "consumable":true,
         "cost":null
     },
     {
         "name":"Fire Stone",
-        "effect":"Evolves Vulpix, Growlithe, Eevee, Pansear",
+        "effect":"Evolves Vulpix, Growlithe, Eevee, Pansear.",
         "consumable":true,
         "cost":3000
     },
     {
-        "name":"Defense Booster",
+        "name":"Stat Booster (Defense)",
         "effect":"The default state of the holder's Defense Stat is +1 Combat Stage. Accessory Item for Trainers.",
         "consumable":false,
         "cost":4000
     },
     {
-        "name":"Light Shield",
-        "effect":"A Shield is an Off-Hand defensive item held in one hand or braced to an arm. Light Shields grant +2 Evasion. They may be readied as a Standard Action to instead grant +4 Evasion and 10 Damage Reduction until the end of your next turn, but also cause you to become Slowed for that duration. If used Two-Handed, light shields can also function as a Small Melee Weapon.",
-        "consumable":false,
-        "cost":3000
-    },
-    {
         "name":"Caltrops",
-        "effect":"Lets the user use the move Spikes as a Standard Action.  The item is then consumed.",
-        "consumable":false,
+        "effect":"Lets the user use the move Spikes as a Standard Action. The item is then consumed.",
+        "consumable":true,
         "cost":500
     },
     {
         "name":"Spacesuit",
-        "effect":"Grants Vacuum Immunity and Free Floating 4. Weighs 200 pounds and is thus difficult for most Trainers to use in normal gravity. A Robotic Age upgraded version costing an extra $2000 confers Hazard Immunity too and weighs only 100 pounds instead.",
+        "effect":"Grants Vacuum Immunity and Free Floating 4. Weighs 200 pounds and is thus difficult for most Trainers to use in normal gravity. A Robotic Age upgraded version costing an extra $2000 confers Hazard Immunity too and weighs only 100 pounds instead. Body and Head equipment slots.",
         "consumable":false,
         "cost":8000
     },
@@ -2382,8 +2358,8 @@
         "cost":300
     },
     {
-        "name":"Fairy Gem",
-        "effect":"Can be consumed as a Free Action to give a +3 DB bonus to one Fairy-Type attack. Off-hand or Accessory Slot Item for Trainers.",
+        "name":"Type Gem (Fairy)",
+        "effect":"Can be consumed as a Free Action to give a +3 Damage Base bonus to one Fairy-Type attack. Off-hand or Accessory Slot Item for Trainers.",
         "consumable":true,
         "cost":null
     },
@@ -2401,7 +2377,7 @@
     },
     {
         "name":"Heavy Armor",
-        "effect":"Heavy Armor grants +10 Damage Reduction. Heavy Armor causes the wearer’s Speed’s Default Combat Stage to be -1.",
+        "effect":"Heavy Armor grants +5 Damage Reduction. Heavy Armor causes the wearer’s Speed’s Default Combat Stage to be -1.",
         "consumable":false,
         "cost":12000
     },
@@ -2419,7 +2395,7 @@
     },
     {
         "name":"Sonic Filter",
-        "effect":"Creates a portable field of directed white noise with a 2 meter radius when activated. Anyone within can hold a conversation normally, but anyone outside the field just hears static coming from the direction of the wearer. Moves with the Sonic Keyword aimed at a target within the field require 2 more on Accuracy Roll to hit.",
+        "effect":"Creates a portable field of directed white noise with a 2 meter radius when activated. Anyone within can hold a conversation normally, but anyone outside the field just hears static coming from the direction of the wearer. Moves with the Sonic Keyword aimed at a target within the field require 2 more on Accuracy Roll to hit. Accessory equipment slot.",
         "consumable":false,
         "cost":2500
     },
@@ -2437,12 +2413,12 @@
     },
     {
         "name":"Magmarizer",
-        "effect":"Evolves Magmar",
+        "effect":"Evolves Magmar.",
         "consumable":true,
         "cost":3000
     },
     {
-        "name":"Cap Cannon [5-15 Playtest]",
+        "name":"Cap Cannon",
         "effect":"Capsule Cannons - or Cap Cannons for short - are two-handed pieces of Equipment which can be loaded with different types of Capsules (Caps) and fired. They can be fired as a Standard Action, and the range and effect of the Cannon depends on the Cap used. A Cap Cannon may have up to five Caps loaded in it at once, and they do not have to be fired in any particular order. You may load up to two Caps into a Cannon as a Standard Action. There are three types of Caps: Bean Caps, Glue Caps, and Net Caps. In addition to Caps, Capsule Cannons can also be loaded with Smoke Bombs, Pester Balls, and Poke Balls. When fired this way, these items behave normally but have a Range of 10 meters.",
         "consumable":false,
         "cost":5000
@@ -2454,13 +2430,13 @@
         "cost":3000
     },
     {
-        "name":"Rock Brace",
+        "name":"Type Brace (Rock)",
         "effect":"Grants the holder 15 Damage Reduction against all direct-damage Rock Moves. Accessory Item for Trainers.",
         "consumable":false,
         "cost":2000
     },
     {
-        "name":"Fishing 101 [5-15 Playtest]",
+        "name":"Fishing 101",
         "effect":"A good way to waste an afternoon sitting at the side of a boat.\\n\\nRank 1 - Novice Survival: You gain the Snare Capture Technique, but it only applies to Pokémon you have fished up.\\nRank 2 - Adept Survival: Whenever you fish up a Pokémon, choose two Combat Stats. That Pokémon becomes Flinched and loses 1 Combat Stage in each of the chosen Stats.",
         "consumable":false,
         "cost":1000
@@ -2484,14 +2460,14 @@
         "cost":null
     },
     {
-        "name":"Meadow Plate",
+        "name":"Type Plate (Grass)",
         "effect":"Acts as both a Grass Booster and a Grass Brace. Accessory Slot Item for Trainers.",
         "consumable":false,
         "cost":null
     },
     {
         "name":"Kebia Berry",
-        "effect":"Weakens foe’s super effective Poison-type move. Tier 3.",
+        "effect":"Grants a Food Buff which, when traded in, grants one step of resistance versus a foe's super effective Poison-type move. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -2509,12 +2485,12 @@
     },
     {
         "name":"Electirizer",
-        "effect":"Evolves Electabuzz",
+        "effect":"Evolves Electabuzz.",
         "consumable":true,
         "cost":3000
     },
     {
-        "name":"Grass Booster",
+        "name":"Type Booster (Grass)",
         "effect":"Grants a +5 Damage Bonus to all direct-damage Grass Moves used by the holder. Accessory Item for Trainers.",
         "consumable":false,
         "cost":1800
@@ -2526,8 +2502,8 @@
         "cost":null
     },
     {
-        "name":"Stat Boosters",
-        "effect":"These items have a chosen Stat, either Attack, Defense, Special Attack, Special Defense, Speed, Evasion, or Accuracy. These items cause the default Stage of their linked Stat to be +1 Combat Stage instead of 0, or simply +1 for Accuracy and Evasion. Accessory Item for Trainers.",
+        "name":"Stat Booster",
+        "effect":"Stat Boosters have a chosen Stat, either Attack, Defense, Special Attack, Special Defense, Speed, Evasion, or Accuracy. These items cause the default Stage of their linked Stat to be +1 Combat Stage instead of 0, or simply +1 for Accuracy and Evasion. Accessory Item for Trainers.",
         "consumable":false,
         "cost":4000
     },
@@ -2545,12 +2521,12 @@
     },
     {
         "name":"Burn Heal",
-        "effect":"Cures Burns",
+        "effect":"Cures Burns.",
         "consumable":true,
         "cost":200
     },
     {
-        "name":"Psychic Booster",
+        "name":"Type Booster (Psychic)",
         "effect":"Grants a +5 Damage Bonus to all direct-damage Psychic Moves used by the holder. Accessory Item for Trainers.",
         "consumable":false,
         "cost":1800
@@ -2575,14 +2551,14 @@
     },
     {
         "name":"Iapapa Berry",
-        "effect":"Sour Treat, Tough Poffin Ingredient. Tier 2.",
+        "effect":"Sour Treat. Heals 1/8th of the Pokémon’s Max HP. If the user likes the Treat’s flavor, it heals 1/6th instead. If the user dislikes the treat’s flavor, the user is Confused. Tough Poffin Ingredient. Tier 2.",
         "consumable":true,
         "cost":250
     },
     {
         "name":"Rambo Roids",
         "effect":"The user treats their Power Capability as increased by 2 for the next hour. However, each time they lift an object or perform a feat of strength beyond their normal means, they must make an Athletics check with a DC of 12. If they fail, they take an Injury immediately. Each such feat of strength induces a cumulative -1 penalty to these Athletics checks.",
-        "consumable":false,
+        "consumable":true,
         "cost":750
     },
     {
@@ -2598,7 +2574,7 @@
         "cost":1500
     },
     {
-        "name":"Dark Booster",
+        "name":"Type Booster (Dark)",
         "effect":"Grants a +5 Damage Bonus to all direct-damage Dark Moves used by the holder. Accessory Item for Trainers.",
         "consumable":false,
         "cost":1800
@@ -2611,13 +2587,13 @@
     },
     {
         "name":"Old Rod",
-        "effect":"A basic fishing rod.",
+        "effect":"A basic fishing rod. Only capable of fishing up small, unevolved Pokémon at level 10 or under.",
         "consumable":false,
         "cost":1000
     },
     {
         "name":"Waterproof Flashlight",
-        "effect":"For, you know, seeing. In the dark. Yes.  Waterproof.",
+        "effect":"For seeing in the dark. Waterproof.",
         "consumable":false,
         "cost":600
     },
@@ -2631,7 +2607,7 @@
         "name":"Sand Ball",
         "effect":"-20 Modifier if the weather is a sandstorm when used.",
         "consumable":true,
-        "cost":null
+        "cost":300
     },
     {
         "name":"Cheri Berry",
@@ -2641,7 +2617,7 @@
     },
     {
         "name":"Payapa Berry",
-        "effect":"Weakens foe’s super effective Psychic-type move. Tier 3.",
+        "effect":"Grants a Food Buff which, when traded in, grants one step of resistance versus a foe's super effective Psychic-type move. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -2652,7 +2628,7 @@
         "cost":200
     },
     {
-        "name":"Dragon Booster",
+        "name":"Type Booster (Dragon)",
         "effect":"Grants a +5 Damage Bonus to all direct-damage Dragon Moves used by the holder. Accessory Item for Trainers.",
         "consumable":false,
         "cost":1800
@@ -2676,9 +2652,9 @@
         "cost":250
     },
     {
-        "name":"HP Suppressant",
-        "effect":"Lowers HP stat by 1 if trainer allows it.",
-        "consumable":false,
+        "name":"Stat Suppressant (HP)",
+        "effect":"Lowers HP stat by 1 if Trainer allows it.",
+        "consumable":true,
         "cost":500
     },
     {
@@ -2713,19 +2689,19 @@
     },
     {
         "name":"X Defend",
-        "effect":"Increases the Pokémon’s Defense by two Combat Stages",
+        "effect":"Increases the Pokémon’s Defense by two Combat Stages.",
         "consumable":true,
         "cost":350
     },
     {
         "name":"Sleeping Bag (Double)",
-        "effect":"A standard sleeping bag.  Holds two people.",
+        "effect":"A standard sleeping bag. Holds two people.",
         "consumable":false,
         "cost":1800
     },
     {
-        "name":"Special Armor [9-15 Playtest]",
-        "effect":"+5 Damage Reduction against Special Damage.",
+        "name":"Special Armor",
+        "effect":"Grants 5 Damage Reduction against Special Damage.",
         "consumable":false,
         "cost":8000
     },
@@ -2748,7 +2724,7 @@
         "cost":null
     },
     {
-        "name":"The Anarchist Cookbook [5-15 Playtest]",
+        "name":"The Anarchist Cookbook",
         "effect":"The simple act of owning this book isn’t illegal, but carrying out its suggestions might be.\\n\\nRank 1 - Novice Technology Education: Whenever you apply a Repel to a target, they become Blinded until the end of their next turn. This may only affect a target once per Scene.\\nRank 2 - Expert Technology Education: Whenever you hit a target with a Repel or Pester Ball, they lose Hit Points equal to your Technology Education Rank.",
         "consumable":false,
         "cost":1000
@@ -2790,13 +2766,13 @@
         "cost":2500
     },
     {
-        "name":"Tough Fashion",
+        "name":"Contest Fashion (Tough)",
         "effect":"Once per Contest the holder may re-roll any 1's made when using a Tough Move. Cannot be used by Trainers.",
         "consumable":false,
         "cost":1000
     },
     {
-        "name":"Bug Brace",
+        "name":"Type Brace (Bug)",
         "effect":"Grants the holder 15 Damage Reduction against all direct-damage Bug Moves. Accessory Item for Trainers.",
         "consumable":false,
         "cost":2000
@@ -2809,7 +2785,7 @@
     },
     {
         "name":"Colbur Berry",
-        "effect":"Weakens foe’s super effective Dark-type move. Tier 3.",
+        "effect":"Weakens foe’s super effective Dark-type move. Tier 3. Grants a Food Buff which, when traded in, grants one step of resistance versus a foe's super effective Dark-type move. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -2820,8 +2796,8 @@
         "cost":null
     },
     {
-        "name":"Fire Gem",
-        "effect":"Can be consumed as a Free Action to give a +3 DB bonus to one Fire-Type attack. Off-hand or Accessory Slot Item for Trainers.",
+        "name":"Type Gem (Fire)",
+        "effect":"Can be consumed as a Free Action to give a +3 Damage Base bonus to one Fire-Type attack. Off-hand or Accessory Slot Item for Trainers.",
         "consumable":true,
         "cost":null
     },
@@ -2832,13 +2808,13 @@
         "cost":3700
     },
     {
-        "name":"Pester Ball: Confusion",
+        "name":"Pester Ball (Confusion)",
         "effect":"Inflicts Confusion on the target. After being hit by any Pester Ball, a target becomes immune to the effects of further Pester Balls for 1 hour. Throwing and hitting with Pester Balls is the same as with Poké Balls.",
         "consumable":true,
         "cost":350
     },
     {
-        "name":"Flame Plate",
+        "name":"Type Plate (Fire)",
         "effect":"Acts as both a Fire Booster and a Fire Brace. Accessory Slot Item for Trainers.",
         "consumable":false,
         "cost":null
@@ -2851,12 +2827,12 @@
     },
     {
         "name":"Repel",
-        "effect":"Lasts 1 hour; causes Pokémon of level 15 or lower to flee.",
+        "effect":"Lasts 1 hour; causes Pokémon of level 15 or lower to flee.\\n\\nSpraying a wild Pokémon directly with Repel will cause that Pokémon, if the Repel can affect Pokémon of that level, to immediately shift away from the user as far as the Pokémon is able as an Interrupt, forfeiting their next Shift Action. Spraying a Pokémon with a Repel is an AC6 Status Attack.",
         "consumable":true,
         "cost":200
     },
     {
-        "name":"Ice Gem",
+        "name":"Type Gem (Ice)",
         "effect":"Can be consumed as a Free Action to give a +3 DB bonus to one Ice-Type attack. Off-hand or Accessory Slot Item for Trainers.",
         "consumable":true,
         "cost":null
@@ -2868,7 +2844,7 @@
         "cost":450
     },
     {
-        "name":"Electric Brace",
+        "name":"Type Brace (Electric)",
         "effect":"Grants the holder 15 Damage Reduction against all direct-damage Electric Moves. Accessory Item for Trainers.",
         "consumable":false,
         "cost":2000
@@ -2880,7 +2856,7 @@
         "cost":200
     },
     {
-        "name":"Ice Brace",
+        "name":"Type Brace (Ice)",
         "effect":"Grants the holder 15 Damage Reduction against all direct-damage Ice Moves. Accessory Item for Trainers.",
         "consumable":false,
         "cost":2000
@@ -2890,12 +2866,6 @@
         "effect":"Lets the user use the move Toxic Spikes as a Standard Action.  The item is then consumed.",
         "consumable":true,
         "cost":500
-    },
-    {
-        "name":"Hoopa's Ring",
-        "effect":"Required to use for any Gift's from Hoopa.",
-        "consumable":false,
-        "cost":null
     },
     {
         "name":"Lock Case",
@@ -2922,26 +2892,20 @@
         "cost":1500
     },
     {
-        "name":"Pester Balls",
+        "name":"Pester Ball",
         "effect":"Pester Balls are small balls full of chemicals that come in six varieties, each of which inflicts a different Status Affliction when they hit a target. The Status Afflictions they can cause are: Rage, Confusion, Burn, Poison, Paralysis, and Sleep.\\n\\nAfter being hit by any Pester Ball, a target becomes immune to the effects of further Pester Balls for 1 hour. Throwing and hitting with Pester Balls is the same as with Poké Balls.",
         "consumable":true,
         "cost":350
     },
     {
         "name":"PP Up",
-        "effect":"Raise one of the user’s Move’s Frequency one level. Use only one per Pokémon.",
+        "effect":"Raise one of the user’s Move’s Frequency one level. Use only one per Pokémon.\\n\\nAt-Will Moves cannot have their Frequency increased further. EOT Moves become At-Will. Daily and Scene Moves gain an additional use in their Frequency’s unit of time. For example, a Daily Move becomes Daily x2, and a Scene x2 Move becomes Scene x3.",
         "consumable":true,
         "cost":9800
     },
     {
-        "name":"Light Armor [9-15 Playtest]",
-        "effect":"+5 Damage Reduction against Physical Damage.",
-        "consumable":false,
-        "cost":8000
-    },
-    {
-        "name":"Lagging Items",
-        "effect":"The Lagging Items are tied to a specific Stat. When held, they set that Stat to -4 Combat Stages. Cannot be used by Trainers. Standard Action to drop.",
+        "name":"Lagging Item",
+        "effect":"Lagging Items are tied to a specific Stat. When held, they set that Stat to -4 Combat Stages. Cannot be used by Trainers. Standard Action to drop.",
         "consumable":false,
         "cost":900
     },
@@ -2952,7 +2916,7 @@
         "cost":800
     },
     {
-        "name":"Fighting Booster",
+        "name":"Type Booster (Fighting)",
         "effect":"Grants a +5 Damage Bonus to all direct-damage Fighting Moves used by the holder. Accessory Item for Trainers.",
         "consumable":false,
         "cost":1800
@@ -2971,13 +2935,13 @@
     },
     {
         "name":"Yache Berry",
-        "effect":"Weakens foe’s super effective Ice-type move. Tier 3.",
+        "effect":"Grants a Food Buff which, when traded in, grants one step of resistance versus a foe's super effective Ice-type move. Tier 3.",
         "consumable":true,
         "cost":500
     },
     {
         "name":"Scrubbing Spray",
-        "effect":"Sprays a chemical agent over an area that destroys most forensic evidence, such as trace biomatter. Perception checks to track someone or to search for forensic evidence take a -6 penalty. Requires a Scrub Cartridge to use. Comes with 1 Cartridge. More can be bought for 300 apiece.",
+        "effect":"Sprays a chemical agent over an area that destroys most forensic evidence, such as trace biomatter. Perception checks to track someone or to search for forensic evidence take a -6 penalty. Requires a Scrub Cartridge to use. Comes with 1 Cartridge. Off Hand equipment slot.",
         "consumable":false,
         "cost":3500
     },
@@ -3000,13 +2964,13 @@
         "cost":800
     },
     {
-        "name":"Lagging Item (SAtk)",
+        "name":"Lagging Item (Special Attack)",
         "effect":"The holder's Special Attack Stat is set to -4 Combat Stages. Cannot be used by Trainers. Standard Action to drop.",
         "consumable":false,
         "cost":900
     },
     {
-        "name":"Insect Plate",
+        "name":"Type Plate (Bug)",
         "effect":"Acts as both a Bug Booster and a Bug Brace. Accessory Slot Item for Trainers.",
         "consumable":false,
         "cost":null
@@ -3014,7 +2978,7 @@
     {
         "name":"Inferno Cannon",
         "effect":"Uses the Move Inferno once.",
-        "consumable":false,
+        "consumable":true,
         "cost":1000
     },
     {
@@ -3024,14 +2988,14 @@
         "cost":2000
     },
     {
-        "name":"Dark Gem",
+        "name":"Type Gem (Dark)",
         "effect":"Can be consumed as a Free Action to give a +3 DB bonus to one Dark-Type attack. Off-hand or Accessory Slot Item for Trainers.",
         "consumable":true,
         "cost":null
     },
     {
         "name":"Pheromone Cartridge",
-        "effect":"A cartridge for the Pheromone Emitter.",
+        "effect":"A cartridge for the Pheromone Emitter. Accessory equipment slot.",
         "consumable":true,
         "cost":250
     },
@@ -3056,12 +3020,12 @@
     {
         "name":"Berserker Bolus",
         "effect":"A combat drug used by street gangs. Immediately inflicts 1 injury on the user upon taking it, but for the duration of the Scene, the user is immune to Flinch effects, gains a +2 bonus to Save Rolls, and adds 5 to all Damage Rolls. However, they are Enraged and may not make Save Rolls to end the effect until all combat ceases for at least a few minutes.",
-        "consumable":false,
+        "consumable":true,
         "cost":500
     },
     {
         "name":"Poké Ball Cannon",
-        "effect":"Increases Poké Ball and Pester Ball accuracy by +1 and range to 15 meters. Balls deal 2d6 unreducible damage upon hitting a target. Balls take a Shift Action to ready in the Poké Ball Cannon.",
+        "effect":"Increases Poké Ball and Pester Ball accuracy by +1 and range to 15 meters. Balls deal 2d6 unreducible damage upon hitting a target. Balls take a Shift Action to ready in the Poké Ball Cannon. Main and Off Hand equipment slots.",
         "consumable":false,
         "cost":4500
     },
@@ -3091,7 +3055,7 @@
     },
     {
         "name":"Pomeg Berry",
-        "effect":"Lowers HP stat by 1 with trainer permission. Tier 3.",
+        "effect":"Lowers HP Base Stat by 1 when consumed, only if Pokémon’s trainer wishes it to. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -3114,7 +3078,7 @@
         "cost":1000
     },
     {
-        "name":"Speed Booster",
+        "name":"Stat Booster (Speed)",
         "effect":"The default state of the holder's Speed Stat is +1 Combat Stage. Accessory Item for Trainers.",
         "consumable":false,
         "cost":4000
@@ -3127,7 +3091,7 @@
     },
     {
         "name":"Power Ball",
-        "effect":"-20 Modifier if the target is under level 10.  Target gains 1d4 levels upon capture.",
+        "effect":"-20 Modifier if the target is under level 10. Target gains 1d4 levels upon capture.",
         "consumable":true,
         "cost":null
     },
@@ -3145,7 +3109,7 @@
     },
     {
         "name":"Pokéradar",
-        "effect":"Contrary to its name, this handheld device actually detects both human and Pokémon lifesigns in a 20 meter radius and can display their relative location to you on a screen. No information is given about specific species.",
+        "effect":"Contrary to its name, this handheld device actually detects both human and Pokémon lifesigns in a 20 meter radius and can display their relative location to you on a screen. No information is given about specific species. Off Hand equipment slot.",
         "consumable":false,
         "cost":5000
     },
@@ -3162,7 +3126,7 @@
         "cost":250
     },
     {
-        "name":"Choice Scarf",
+        "name":"Choice Item (Speed)",
         "effect":"The default state of the holder's Speed Stat is +2 Combat Stages. However, the holder is Suppressed and cannot be cured until the end of Combat, even if the item is removed. Cannot be used by Trainers.",
         "consumable":false,
         "cost":3000
@@ -3170,7 +3134,7 @@
     {
         "name":"Zap Blaster",
         "effect":"Uses the Move Zap Cannon once.",
-        "consumable":false,
+        "consumable":true,
         "cost":1000
     },
     {
@@ -3187,15 +3151,9 @@
     },
     {
         "name":"Cherish Ball",
-        "effect":"A decorative Poké Ball often given out during special events.",
+        "effect":"-5 modifier to catch. A decorative Poké Ball often given out during special events.",
         "consumable":true,
         "cost":800
-    },
-    {
-        "name":"Weighted Nets",
-        "effect":"Weighted Nets are foldable nets used for trapping Pokémon. These two-handed nets, when Equipped, can be thrown at a target as a Standard Action, as a Status Attack with an AC of 8. While a Pokémon is netted, you may pull on the rope attached to the Net to pull the Pokémon 1 Meter towards you as a Standard Action. Pokémon hit by a weighted net become Slowed as long as the net remains and cannot use Sky or Levitate Speeds except to safely lower themselves back to the ground. A Pokémon may attack the Net to attempt to break free. Capture Rolls against Pokémon in a net receive a -20 bonus.\\n\\nWeighted Nets with 50 Hit Points cost $500; 80 Hit Points cost $850; and 150 Hit Points cost $1200.",
-        "consumable":false,
-        "cost":null
     },
     {
         "name":"TM95 - Snarl",
@@ -3213,7 +3171,7 @@
         "name":"Gossamer Ball",
         "effect":"-20 Modifier if the target is Normal or Fairy type.",
         "consumable":true,
-        "cost":null
+        "cost":300
     },
     {
         "name":"Toxic Orb",
@@ -3222,7 +3180,7 @@
         "cost":4800
     },
     {
-        "name":"Fairy Brace",
+        "name":"Type Brace (Fairy)",
         "effect":"Grants the holder 15 Damage Reduction against all direct-damage Fairy Moves. Accessory Item for Trainers.",
         "consumable":false,
         "cost":2000
@@ -3230,17 +3188,17 @@
     {
         "name":"Puissance Pellet",
         "effect":"This painkiller and adrenaline injection lets the user temporarily ignore their debilitating injuries. A user with 5 or more injuries does not suffer Hit Point loss equal to their number of injuries when taking Standard Actions. If you are using the optional rule to decrease combat stages for each Injury, the user ignores these combat stage losses. This effect lasts for 5 turns, and at the end of the effect, the user automatically takes another injury.",
-        "consumable":false,
+        "consumable":true,
         "cost":450
     },
     {
-        "name":"Zap Plate",
+        "name":"Type Plate (Electric)",
         "effect":"Acts as both an Electric Booster and an Electric Brace. Accessory Slot Item for Trainers.",
         "consumable":false,
         "cost":null
     },
     {
-        "name":"Choice Item (Def)",
+        "name":"Choice Item (Defense)",
         "effect":"The default state of the holder's Defense Stat is +2 Combat Stages. However, the holder is Suppressed and cannot be cured until the end of Combat, even if the item is removed. Cannot be used by Trainers.",
         "consumable":false,
         "cost":3000
@@ -3277,7 +3235,7 @@
     },
     {
         "name":"Aguav Berry",
-        "effect":"Bitter Treat, Smart Poffin Ingredient. Tier 2.",
+        "effect":"Bitter Treat. Heals 1/8th of the Pokémon’s Max HP. If the user likes the Treat’s flavor, it heals 1/6th instead. If the user dislikes the treat’s flavor, the user is Confused. Smart Poffin Ingredient. Tier 2.",
         "consumable":true,
         "cost":250
     },
@@ -3291,10 +3249,10 @@
         "name":"Hail Ball",
         "effect":"-20 Modifier if the weather is hailing when used.",
         "consumable":true,
-        "cost":null
+        "cost":300
     },
     {
-        "name":"Travel Guide [5-15 Playtest]",
+        "name":"Travel Guide",
         "effect":"A Travel Guide covers a specific location, such as a mountain or a pair of routes in the wilderness. Travel Guides are usually written for the more popular destinations in a region, but they might not necessarily exist for more obscure and out of the way locations.\\n\\nRank 1 - Novice Survival: You gain the following Skill Stunts while traveling in the studied location: Survival (Foraging) and Survival (Navigation).\\nRank 2 - Expert Survival: You and your Pokémon do not take damage from naturally occurring Weather effects in the studied location.",
         "consumable":false,
         "cost":1000
@@ -3313,7 +3271,7 @@
     },
     {
         "name":"Tamato Berry",
-        "effect":"Lowers Speed stat by 1 with trainer permission. Tier 3.",
+        "effect":"Lowers Speed Base Stat by 1 when consumed, only if Pokémon’s trainer wishes it to. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -3325,7 +3283,7 @@
     },
     {
         "name":"Carbos",
-        "effect":"Raise the user’s Speed Base Stat 1.",
+        "effect":"Raise the user’s Speed Base Stat 1. You may only get use out of up to five Vitamins per Pokémon.",
         "consumable":true,
         "cost":4900
     },
@@ -3390,13 +3348,13 @@
         "cost":500
     },
     {
-        "name":"Choice Items",
+        "name":"Choice Item",
         "effect":"Choice Items are tied to a Specific Stat. While worn, the default state of the Stat is +2 Combat Stages instead of 0. However, the user is Suppressed and cannot be cured until the end of Combat, even if the item is removed. Cannot be used by Trainers.",
         "consumable":false,
         "cost":3000
     },
     {
-        "name":"Flying Brace",
+        "name":"Type Brace (Flying)",
         "effect":"Grants the holder 15 Damage Reduction against all direct-damage Flying Moves. Accessory Item for Trainers.",
         "consumable":false,
         "cost":2000
@@ -3408,20 +3366,20 @@
         "cost":9800
     },
     {
-        "name":"Grass Gem",
+        "name":"Type Gem (Grass)",
         "effect":"Can be consumed as a Free Action to give a +3 DB bonus to one Grass-Type attack. Off-hand or Accessory Slot Item for Trainers.",
         "consumable":true,
         "cost":null
     },
     {
         "name":"X Attack",
-        "effect":"Increases the Pokémon’s Attack by two Combat Stages",
+        "effect":"Increases the Pokémon’s Attack by two Combat Stages.",
         "consumable":true,
         "cost":350
     },
     {
         "name":"Handheld Propellor",
-        "effect":"Increases Swim speed by +3.",
+        "effect":"Increases Swim speed by +3. Off Hand equipment slot.",
         "consumable":false,
         "cost":3500
     },
@@ -3429,7 +3387,7 @@
         "name":"Rain Ball",
         "effect":"-20 Modifier if the weather is rainy when used.",
         "consumable":true,
-        "cost":null
+        "cost":300
     },
     {
         "name":"TM51 - Steel Wing",
@@ -3439,13 +3397,13 @@
     },
     {
         "name":"Elegant Fashion",
-        "effect":"The holder may activate this item once a Scene as a Free Action when losing Combat Stages from a foe’s effect to instead not lose those Combat Stages.",
+        "effect":"Fashionista Skill: Intuition\\nThe holder may activate this item once a Scene as a Free Action when losing Combat Stages from a foe’s effect to instead not lose those Combat Stages.",
         "consumable":false,
         "cost":500
     },
     {
-        "name":"Normal Gem",
-        "effect":"Can be consumed as a Free Action to give a +3 DB bonus to one Normal-Type attack. Off-hand or Accessory Slot Item for Trainers.",
+        "name":"Type Gem (Normal)",
+        "effect":"Can be consumed as a Free Action to give a +3 Damage Base bonus to one Normal-Type attack. Off-hand or Accessory Slot Item for Trainers.",
         "consumable":true,
         "cost":null
     },
@@ -3459,7 +3417,7 @@
         "name":"Learning Ball",
         "effect":"The captured Pokémon immediately learns their next level-up Move, as long as it is within 8 levels of their current level.",
         "consumable":true,
-        "cost":null
+        "cost":500
     },
     {
         "name":"Petaya Berry",
@@ -3474,8 +3432,8 @@
         "cost":1200
     },
     {
-        "name":"Poison Gem",
-        "effect":"Can be consumed as a Free Action to give a +3 DB bonus to one Poison-Type attack. Off-hand or Accessory Slot Item for Trainers.",
+        "name":"Type Gem (Poison)",
+        "effect":"Can be consumed as a Free Action to give a +3 Damage Bonus bonus to one Poison-Type attack. Off-hand or Accessory Slot Item for Trainers.",
         "consumable":true,
         "cost":null
     },
@@ -3495,7 +3453,7 @@
         "name":"Sun Ball",
         "effect":"-20 Modifier if the weather is sunny when used.",
         "consumable":true,
-        "cost":null
+        "cost":300
     },
     {
         "name":"Mawilite",
@@ -3504,14 +3462,14 @@
         "cost":null
     },
     {
-        "name":"Earth Plate",
+        "name":"Type Plate (Ground)",
         "effect":"Acts as both a Ground Booster and a Ground Brace. Accessory Slot Item for Trainers.",
         "consumable":false,
         "cost":null
     },
     {
         "name":"Slick Fashion",
-        "effect":"The holder may activate this item once a Scene as a Free Action when provoking an Attack of Opportunity to instead not provoke one.",
+        "effect":"Fashionista Skill: Guile\\nThe holder may activate this item once a Scene as a Free Action when provoking an Attack of Opportunity to instead not provoke one.",
         "consumable":false,
         "cost":500
     },
@@ -3541,7 +3499,7 @@
     },
     {
         "name":"Heart Scale",
-        "effect":"Can be used to make Heart Boosters.",
+        "effect":"This tiny rainbow scale from a Luvdisc is valued by Apothecary Researchers, because it can be used to create the Heart Booster vitamin. Luvdiscs will produce them occasionally; they can be found along sandy beaches, and ancient ones can be found in desert, caves, or underground.",
         "consumable":false,
         "cost":null
     },
@@ -3564,7 +3522,7 @@
         "cost":150
     },
     {
-        "name":"Dread Plate",
+        "name":"Type Plate (Dark)",
         "effect":"Acts as both a Dark Booster and a Dark Brace. Accessory Slot Item for Trainers.",
         "consumable":false,
         "cost":null
@@ -3576,7 +3534,7 @@
         "cost":250
     },
     {
-        "name":"Cool Fashion",
+        "name":"Contest Fashion (Cool)",
         "effect":"Once per Contest the holder may re-roll any 1's made when using a Cool Move. Cannot be used by Trainers.",
         "consumable":false,
         "cost":1000
@@ -3595,12 +3553,12 @@
     },
     {
         "name":"Calcium",
-        "effect":"Raise the user’s Special Attack Base Stat 1.",
+        "effect":"Raise the user’s Special Attack Base Stat 1. You may only get use out of up to five Vitamins per Pokémon.",
         "consumable":true,
         "cost":4900
     },
     {
-        "name":"Bug Booster",
+        "name":"Type Booster (Bug)",
         "effect":"Grants a +5 Damage Bonus to all direct-damage Bug Moves used by the holder. Accessory Item for Trainers.",
         "consumable":false,
         "cost":1800
@@ -3618,13 +3576,7 @@
         "cost":3000
     },
     {
-        "name":"Heavy Shield",
-        "effect":"A Shield is an Off-Hand defensive item held in one hand or braced to an arm. Heavy Shields grant +2 Evasion and may be readied as a Standard Action to grant +6 Evasion and 15 Damage Reduction until the end of your next turn, but also cause you to become Slowed for that duration. If used Two-Handed, shields can also function as a Small Melee Weapon.",
-        "consumable":false,
-        "cost":4500
-    },
-    {
-        "name":"Ghost Booster",
+        "name":"Type Booster (Ghost)",
         "effect":"Grants a +5 Damage Bonus to all direct-damage Ghost Moves used by the holder. Accessory Item for Trainers.",
         "consumable":false,
         "cost":1800
@@ -3649,12 +3601,12 @@
     },
     {
         "name":"Protector",
-        "effect":"Evolves Rhydon",
+        "effect":"Evolves Rhydon.",
         "consumable":true,
         "cost":3000
     },
     {
-        "name":"Attack Booster",
+        "name":"Stat Booster (Attack)",
         "effect":"The default state of the holder's Attack Stat is +1 Combat Stage. Accessory Item for Trainers.",
         "consumable":false,
         "cost":4000
@@ -3673,19 +3625,19 @@
     },
     {
         "name":"Sparkling Lemonade",
-        "effect":"Heals 50 Hit Points",
+        "effect":"Heals 50 Hit Points. A Pokémon or Trainer can only consume one refreshment per half hour, unless they have the Gluttony Ability.",
         "consumable":true,
         "cost":250
     },
     {
-        "name":"Steel Brace",
+        "name":"Type Brace (Steel)",
         "effect":"Grants the holder 15 Damage Reduction against all direct-damage Steel Moves. Accessory Item for Trainers.",
         "consumable":false,
         "cost":2000
     },
     {
         "name":"Yellow Shard",
-        "effect":"Associated with Electric, Rock, & Steel.  With Gem Lore, 4 can be combined into a Thunder Stone.",
+        "effect":"Associated with Electric, Rock, & Steel. With Gem Lore, 4 can be combined into a Thunder Stone.",
         "consumable":false,
         "cost":null
     },
@@ -3696,7 +3648,7 @@
         "cost":null
     },
     {
-        "name":"Draco Plate",
+        "name":"Type Plate (Dragon)",
         "effect":"Acts as both a Dragon Booster and a Dragon Brace. Accessory Slot Item for Trainers.",
         "consumable":false,
         "cost":null
@@ -3756,9 +3708,9 @@
         "cost":4200
     },
     {
-        "name":"Stat Suppressants",
+        "name":"Stat Suppressant",
         "effect":"These medicines have an identical effect to the Suppressant Berries – they lower one of the user’s Base Stats by 1 point and only function if the Trainer of the Pokémon wants them to.",
-        "consumable":false,
+        "consumable":true,
         "cost":500
     },
     {
@@ -3774,13 +3726,13 @@
         "cost":4700
     },
     {
-        "name":"Flying Gem",
-        "effect":"Can be consumed as a Free Action to give a +3 DB bonus to one Flying-Type attack. Off-hand or Accessory Slot Item for Trainers.",
+        "name":"Type Gem (Flying)",
+        "effect":"Can be consumed as a Free Action to give a +3 Damage Base bonus to one Flying-Type attack. Off-hand or Accessory Slot Item for Trainers.",
         "consumable":true,
         "cost":null
     },
     {
-        "name":"Toxic Plate",
+        "name":"Type Plate (Poison)",
         "effect":"Acts as both a Poison Booster and a Poison Brace. Accessory Slot Item for Trainers.",
         "consumable":false,
         "cost":null
@@ -3792,7 +3744,7 @@
         "cost":5000
     },
     {
-        "name":"Lagging Tail",
+        "name":"Lagging Item (Speed)",
         "effect":"The holder's Speed Stat is set to -4 Combat Stages. Cannot be used by Trainers. Standard Action to drop.",
         "consumable":false,
         "cost":900
@@ -3835,7 +3787,7 @@
     },
     {
         "name":"Energy Powder",
-        "effect":"Heals 25 Hit Points - Repulsive",
+        "effect":"Heals 25 Hit Points - Herbal Restorative.",
         "consumable":true,
         "cost":150
     },
@@ -3864,14 +3816,14 @@
         "cost":2800
     },
     {
-        "name":"Defense Suppressant",
-        "effect":"Lowers Defense stat by 1 if trainer allows it.",
-        "consumable":false,
+        "name":"Stat Suppressant (Defense)",
+        "effect":"Lowers Defense stat by 1 if Trainer allows it.",
+        "consumable":true,
         "cost":500
     },
     {
         "name":"X Speed",
-        "effect":"Increases the Pokémon’s Speed by two Combat Stages",
+        "effect":"Increases the Pokémon’s Speed by two Combat Stages.",
         "consumable":true,
         "cost":350
     },
@@ -3888,14 +3840,14 @@
         "cost":null
     },
     {
-        "name":"Dubious Disk",
-        "effect":"Evolves Porygon2",
+        "name":"Dubious Disc",
+        "effect":"Evolves Porygon2.",
         "consumable":true,
         "cost":3000
     },
     {
         "name":"Glitch Detection Crystal",
-        "effect":"A crystal necklace which begins to display pixelated effects and static when near Glitch phenomena. Pixellation and static effects intensify proportionally to proximity to the phenomena.",
+        "effect":"A crystal necklace which begins to display pixelated effects and static when near Glitch phenomena. Pixellation and static effects intensify proportionally to proximity to the phenomena. Accessory equipment slot.",
         "consumable":false,
         "cost":800
     },
@@ -3907,7 +3859,7 @@
     },
     {
         "name":"Metal Coat",
-        "effect":"Evolves Onix, Scyther",
+        "effect":"Evolves Onix, Scyther.",
         "consumable":true,
         "cost":3000
     },
@@ -3918,13 +3870,13 @@
         "cost":null
     },
     {
-        "name":"Grass Brace",
+        "name":"Type Brace (Grass)",
         "effect":"Grants the holder 15 Damage Reduction against all direct-damage Grass Moves. Accessory Item for Trainers.",
         "consumable":false,
         "cost":2000
     },
     {
-        "name":"Mind Plate",
+        "name":"Type Plate (Psychic)",
         "effect":"Acts as both a Psychic Booster and a Psychic Brace. Accessory Slot Item for Trainers.",
         "consumable":false,
         "cost":null
@@ -3936,7 +3888,7 @@
         "cost":3000
     },
     {
-        "name":"S Defense Booster",
+        "name":"Stat Booster (Special Defense)",
         "effect":"The default state of the holder's Special Defense Stat is +1 Combat Stage. Accessory Item for Trainers.",
         "consumable":false,
         "cost":4000
@@ -3967,31 +3919,31 @@
     },
     {
         "name":"Waterproof Lighter",
-        "effect":"For creating flames in a hurry.  Waterproof.",
+        "effect":"For creating flames in a hurry. Waterproof.",
         "consumable":false,
         "cost":1000
     },
     {
         "name":"Passho Berry",
-        "effect":"Weakens foe’s super effective Water-type move. Tier 3.",
+        "effect":"Grants a Food Buff which, when traded in, grants one step of resistance versus a foe's super effective Water-type move. Tier 3.",
         "consumable":true,
         "cost":500
     },
     {
-        "name":"Rock Gem",
-        "effect":"Can be consumed as a Free Action to give a +3 DB bonus to one Rock-Type attack. Off-hand or Accessory Slot Item for Trainers.",
+        "name":"Type Gem (Rock)",
+        "effect":"Can be consumed as a Free Action to give a +3 Damage Base bonus to one Rock-Type attack. Off-hand or Accessory Slot Item for Trainers.",
         "consumable":true,
         "cost":null
     },
     {
-        "name":"Type Plates",
+        "name":"Type Plate",
         "effect":"These Rare items come in a variety of each of the Elemental Types, and act as both a Type Booster and a Type Brace. Accessory Slot Item for Trainers.",
         "consumable":false,
         "cost":null
     },
     {
         "name":"Kelpsy Berry",
-        "effect":"Lowers Attack stat by 1 with trainer permission. Tier 3.",
+        "effect":"Lowers Attack Base Stat by 1 when consumed, only if the Pokémon’s trainer wishes it to. Tier 3.",
         "consumable":true,
         "cost":500
     },
@@ -4005,23 +3957,23 @@
         "name":"Haunt Ball",
         "effect":"-20 Modifier if the target is Dark or Ghost type.",
         "consumable":true,
-        "cost":null
+        "cost":300
     },
     {
-        "name":"S Attack Booster",
+        "name":"Stat Booster (Special Attack)",
         "effect":"The default state of the holder's Special Attack Stat is +1 Combat Stage. Accessory Item for Trainers.",
         "consumable":false,
         "cost":4000
     },
     {
         "name":"Occa Berry",
-        "effect":"Weakens foe’s super effective Fire-type move. Tier 3.",
+        "effect":"Grants a Food Buff which, when traded in, grants one step of resistance versus a foe's super effective Fire-type move. Tier 3.",
         "consumable":true,
         "cost":500
     },
     {
         "name":"Light Armor",
-        "effect":"Grants 5 Damage Reduction.",
+        "effect":"Grants 5 Damage Reduction against Physical Damage.",
         "consumable":false,
         "cost":8000
     },
@@ -4032,13 +3984,13 @@
         "cost":1450
     },
     {
-        "name":"Choice Specs",
+        "name":"Choice Item (Special Attack)",
         "effect":"The default state of the holder's Special Attack Stat is +2 Combat Stages. However, the holder is Suppressed and cannot be cured until the end of Combat, even if the item is removed. Cannot be used by Trainers.",
         "consumable":false,
         "cost":3000
     },
     {
-        "name":"Evasion Booster",
+        "name":"Stat Booster (Evasion)",
         "effect":"Grants the holder +1 Evasion. Accessory Item for Trainers.",
         "consumable":false,
         "cost":4000
@@ -4062,7 +4014,7 @@
         "cost":30000
     },
     {
-        "name":"Choice Item (SDef)",
+        "name":"Choice Item (Special Defense)",
         "effect":"The default state of the holder's Special Defense Stat is +2 Combat Stages. However, the holder is Suppressed and cannot be cured until the end of Combat, even if the item is removed. Cannot be used by Trainers.",
         "consumable":false,
         "cost":3000
@@ -4090,5 +4042,17 @@
         "effect":"Braided Utility Rope. Has a tensile strength of 80 kg or 176 lbs. It has 20 Hit Points and 10 Damage Reduction.\\n\\nRope can only be damaged by Fire-Type attacks, attacks made with sharp objects(knives, swords, sharp teeth), and moves like Scratch, Slash, Leaf Blade, Razor Leaf, etc. The Move Cut ignores all Damage Reduction against Rope. Rope can be bought in any length of 25 ft up to 300.",
         "consumable":false,
         "cost":200
-    }
+    },
+    {
+        "name":"Ice Stone",
+        "effect":"Evolves Eevee, Alolan Sandshrew, Alolan Vulpix.",
+        "consumable":true,
+        "cost":3000
+    },
+    {
+        "name":"Prism Scale",
+        "effect":"Evolves Feebas.",
+        "consumable":true,
+        "cost":3000
+    },   
 ]
