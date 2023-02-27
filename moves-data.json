@@ -4840,7 +4840,7 @@
     },
     {
         "name":"Chatter",
-        "effect":"Chatter confuses all targets on 16+.",
+        "effect":"Chatter confuses the target on 16+.",
         "type":"Flying",
         "category":"Special",
         "damageBase":7,
@@ -8602,7 +8602,7 @@
     },
     {
         "name":"Camouflage",
-        "effect":"The user changes their Type to match the field. Pick one type from the following table. If two or more rows are relevant (such as because of Weather), pick one:\\n-Beach: Ground or Water\\n-Cave: Rock or Dark\\n-Desert: Ground or Rock\\n-Forest: Grass\\n-Fresh Water / Ocean: Water\\n-Grassland: Normal or Grass\\n-Marsh: Water or Poison\\n-Mountain: Rock or Ground\\n-Rainforest: Grass or Poison\\n-Taiga: Ice or Grass\\n-Tundra: Ice\\n-Urban: Normal or Steel\\n-Sunny: Fire\\n-Rainy: Water\\n-Hailing: Ice\\n-Sandstorming: Rock\\nYour GM may provide additional options should they choose (for instance, an Ethereal Forest may provide Psychic and Fairy options.) *Grants Blender",
+        "effect":"The user changes their Type to match the field. Forests and grassy areas change the user into Grass-Type. Watery areas change the user into Water-Type. Caves and Mountains could change the user into Rock-Type or Ground-Type. An icy terrain would turn the user into Ice-Type. A building may change the user into Steel-Type or Normal-Type. Weather affects what Type the user becomes. Use common sense, if you are having difficult determining what type the user should become, consult the GM. *Grants Blender",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -8800,7 +8800,7 @@
     },
     {
         "name":"Calm Mind",
-        "effect":"Raise the user's Special Attack 1 Combat Stage and raise the user's Special Defense 1 Combat Stage.",
+        "effect":"Raise the user's Special Attack and Special Defense by 1 Combat Stage each.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
@@ -9137,7 +9137,7 @@
         "frequency":"Scene x2",
         "ac":2,
         "range":"6, 1 Target or Burst 1, Sonic",
-        "contestType":"--"
+        "contestType":"Cool - Good Show"
     },
     {
         "name":"Leaf Storm",
