@@ -1793,7 +1793,7 @@
     },
     {
         "name":"Cosmic Power",
-        "effect":"Raise the user's Defense 1 Combat Stage and raise the user's Special Defense 1 Combat Stage.",
+        "effect":"Raise the user's Defense and Special Defense by 1 Combat Stage each.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
@@ -2064,7 +2064,7 @@
         "frequency":"Daily x2",
         "ac":2,
         "range":"6, Ranged Blast 3, Spirit Surge",
-        "contestType":"--"
+        "contestType":"Cool - Unsettling"
     },
     {
         "name":"Tail Whip",
@@ -2879,17 +2879,6 @@
         "ac":2,
         "range":"4, 1 Target",
         "contestType":"Beauty - Steady Performance"
-    },
-    {
-        "name":"Crystal Rush",
-        "effect":"Prior to using this move, the user changes into the Crystal Type for the remainder of the Scene. Crystal Type moves always deal neutral damage. All non-Sonic attacks on Crystal Type Pokémon deal neutral damage. Sonic attacks instead deal super-effective damage.",
-        "type":"Crystal",
-        "category":"Physical",
-        "damageBase":"5",
-        "frequency":"Scene",
-        "ac":"2",
-        "range":"Melee, 1 Target, Priority",
-        "contestType":""
     },
     {
         "name":"Foresight",
@@ -4840,7 +4829,7 @@
     },
     {
         "name":"Chatter",
-        "effect":"Chatter confuses all targets on 16+.",
+        "effect":"Chatter confuses the target on 16+.",
         "type":"Flying",
         "category":"Special",
         "damageBase":7,
@@ -5445,7 +5434,7 @@
     },
     {
         "name":"Court Change",
-        "effect":"All Blessings and Hazards swap which side that they belong to.",
+        "effect":"All Blessings and Hazards swap which side they belong to.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -8514,7 +8503,7 @@
     },
     {
         "name":"Crafty Shield",
-        "effect":"If the user or an Ally within 2 meters of Crafty Shield's user is hit by a Status Move, you may use Crafty Shield as an Interrupt. All targets in Crafty Shield's area-of-effect including the user, are instead not hit by the triggering Move and do not suffer any of its effect.",
+        "effect":"If the user or an Ally within 2 meters of Crafty Shield's user is hit by a Status Move, you may use Crafty Shield as an Interrupt. All targets in Crafty Shield's area-of-effect, including the user, are instead not hit by the triggering Move and do not suffer any of its effect.",
         "type":"Fairy",
         "category":"Status",
         "damageBase":"--",
@@ -8602,7 +8591,7 @@
     },
     {
         "name":"Camouflage",
-        "effect":"The user changes their Type to match the field. Pick one type from the following table. If two or more rows are relevant (such as because of Weather), pick one:\\n-Beach: Ground or Water\\n-Cave: Rock or Dark\\n-Desert: Ground or Rock\\n-Forest: Grass\\n-Fresh Water / Ocean: Water\\n-Grassland: Normal or Grass\\n-Marsh: Water or Poison\\n-Mountain: Rock or Ground\\n-Rainforest: Grass or Poison\\n-Taiga: Ice or Grass\\n-Tundra: Ice\\n-Urban: Normal or Steel\\n-Sunny: Fire\\n-Rainy: Water\\n-Hailing: Ice\\n-Sandstorming: Rock\\nYour GM may provide additional options should they choose (for instance, an Ethereal Forest may provide Psychic and Fairy options.) *Grants Blender",
+        "effect":"The user changes their Type to match the field. Forests and grassy areas change the user into Grass-Type. Watery areas change the user into Water-Type. Caves and Mountains could change the user into Rock-Type or Ground-Type. An icy terrain would turn the user into Ice-Type. A building may change the user into Steel-Type or Normal-Type. Weather affects what Type the user becomes. Use common sense, if you are having difficult determining what type the user should become, consult the GM. *Grants Blender",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -8643,17 +8632,6 @@
         "ac":2,
         "range":"6, 1 Target",
         "contestType":"--"
-    },
-    {
-        "name":"Corrode",
-        "effect":"When calculating Weakness and Resistance for Corrode, Steel-Typed targets calculate damage as if Steel was weak to Poison.",
-        "type":"Poison",
-        "category":"Special",
-        "damageBase":"7",
-        "frequency":"EoT",
-        "ac":"2",
-        "range":"6, 1 Target",
-        "contestType":""
     },
     {
         "name":"Karate Chop",
@@ -8800,7 +8778,7 @@
     },
     {
         "name":"Calm Mind",
-        "effect":"Raise the user's Special Attack 1 Combat Stage and raise the user's Special Defense 1 Combat Stage.",
+        "effect":"Raise the user's Special Attack and Special Defense by 1 Combat Stage each.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
@@ -9137,7 +9115,7 @@
         "frequency":"Scene x2",
         "ac":2,
         "range":"6, 1 Target or Burst 1, Sonic",
-        "contestType":"--"
+        "contestType":"Cool - Good Show"
     },
     {
         "name":"Leaf Storm",
@@ -9339,7 +9317,7 @@
     },
     {
         "name":"Curse",
-        "effect":"If the user is not a Ghost Type, Curse has a Frequency of EOT, and when used the user lowers its Speed by 1 Combat Stage, but raises Attack and Defense by 1 Combat Stage each. If the user is a Ghost Type, Curse has a Frequency of Scene, and when used the user loses 1/3 of their Max Hit Points and a target Pokémon or Trainer within 8 meters of the user becomes Cursed. This Hit Point loss cannot be prevented in any way.",
+        "effect":"If the user is not a Ghost Type, Curse has a Frequency of EOT, and when used the user lowers its Speed by 1 Combat Stage, but raises its Attack and Defense by 1 Combat Stage each. If the user is a Ghost Type, Curse has a Frequency of Scene, and when used the user loses 1/3rd of their Max Hit Points and a target Pokémon or Trainer within 8 meters of the user becomes Cursed. This Hit Point loss cannot be prevented in any way.",
         "type":"Ghost",
         "category":"Status",
         "damageBase":"--",
@@ -9427,7 +9405,7 @@
     },
     {
         "name":"Coil",
-        "effect":"Raise the user's Attack and Defense by 1 Combat Stage, and the user gains 1 Accuracy.",
+        "effect":"Raise the user's Attack and Defense by 1 Combat Stage each, and the user gains 1 Accuracy.",
         "type":"Poison",
         "category":"Status",
         "damageBase":"--",
