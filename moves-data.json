@@ -2064,7 +2064,7 @@
         "frequency":"Daily x2",
         "ac":2,
         "range":"6, Ranged Blast 3, Spirit Surge",
-        "contestType":"--"
+        "contestType":"Cool - Unsettling"
     },
     {
         "name":"Tail Whip",
@@ -8645,17 +8645,6 @@
         "contestType":"--"
     },
     {
-        "name":"Corrode",
-        "effect":"When calculating Weakness and Resistance for Corrode, Steel-Typed targets calculate damage as if Steel was weak to Poison.",
-        "type":"Poison",
-        "category":"Special",
-        "damageBase":"7",
-        "frequency":"EoT",
-        "ac":"2",
-        "range":"6, 1 Target",
-        "contestType":""
-    },
-    {
         "name":"Karate Chop",
         "effect":"Karate Chop is a Critical Hit on 17+.",
         "type":"Fighting",
@@ -9427,7 +9416,7 @@
     },
     {
         "name":"Coil",
-        "effect":"Raise the user's Attack and Defense by 1 Combat Stage, and the user gains 1 Accuracy.",
+        "effect":"Raise the user's Attack and Defense by 1 Combat Stage each, and the user gains 1 Accuracy.",
         "type":"Poison",
         "category":"Status",
         "damageBase":"--",
