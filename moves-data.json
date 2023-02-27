@@ -1793,7 +1793,7 @@
     },
     {
         "name":"Cosmic Power",
-        "effect":"Raise the user's Defense 1 Combat Stage and raise the user's Special Defense 1 Combat Stage.",
+        "effect":"Raise the user's Defense and Special Defense by 1 Combat Stage each.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
@@ -2879,17 +2879,6 @@
         "ac":2,
         "range":"4, 1 Target",
         "contestType":"Beauty - Steady Performance"
-    },
-    {
-        "name":"Crystal Rush",
-        "effect":"Prior to using this move, the user changes into the Crystal Type for the remainder of the Scene. Crystal Type moves always deal neutral damage. All non-Sonic attacks on Crystal Type Pokémon deal neutral damage. Sonic attacks instead deal super-effective damage.",
-        "type":"Crystal",
-        "category":"Physical",
-        "damageBase":"5",
-        "frequency":"Scene",
-        "ac":"2",
-        "range":"Melee, 1 Target, Priority",
-        "contestType":""
     },
     {
         "name":"Foresight",
@@ -5445,7 +5434,7 @@
     },
     {
         "name":"Court Change",
-        "effect":"All Blessings and Hazards swap which side that they belong to.",
+        "effect":"All Blessings and Hazards swap which side they belong to.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -8514,7 +8503,7 @@
     },
     {
         "name":"Crafty Shield",
-        "effect":"If the user or an Ally within 2 meters of Crafty Shield's user is hit by a Status Move, you may use Crafty Shield as an Interrupt. All targets in Crafty Shield's area-of-effect including the user, are instead not hit by the triggering Move and do not suffer any of its effect.",
+        "effect":"If the user or an Ally within 2 meters of Crafty Shield's user is hit by a Status Move, you may use Crafty Shield as an Interrupt. All targets in Crafty Shield's area-of-effect, including the user, are instead not hit by the triggering Move and do not suffer any of its effect.",
         "type":"Fairy",
         "category":"Status",
         "damageBase":"--",
@@ -9328,7 +9317,7 @@
     },
     {
         "name":"Curse",
-        "effect":"If the user is not a Ghost Type, Curse has a Frequency of EOT, and when used the user lowers its Speed by 1 Combat Stage, but raises Attack and Defense by 1 Combat Stage each. If the user is a Ghost Type, Curse has a Frequency of Scene, and when used the user loses 1/3 of their Max Hit Points and a target Pokémon or Trainer within 8 meters of the user becomes Cursed. This Hit Point loss cannot be prevented in any way.",
+        "effect":"If the user is not a Ghost Type, Curse has a Frequency of EOT, and when used the user lowers its Speed by 1 Combat Stage, but raises its Attack and Defense by 1 Combat Stage each. If the user is a Ghost Type, Curse has a Frequency of Scene, and when used the user loses 1/3rd of their Max Hit Points and a target Pokémon or Trainer within 8 meters of the user becomes Cursed. This Hit Point loss cannot be prevented in any way.",
         "type":"Ghost",
         "category":"Status",
         "damageBase":"--",
