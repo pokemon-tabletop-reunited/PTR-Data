@@ -2251,7 +2251,7 @@
         "frequency":"Scene",
         "ac":2,
         "range":"6, 1 Target",
-        "contestType":"--"
+        "contestType":"Tough - Steady Performance"
     },
     {
         "name":"Fury Cutter",
@@ -2804,17 +2804,6 @@
         "contestType":"--"
     },
     {
-        "name":"Water Shuriken [OG]",
-        "effect":"--",
-        "type":"Water",
-        "category":"Physical",
-        "damageBase":2,
-        "frequency":"EOT",
-        "ac":2,
-        "range":"6, 1 Target, Five Strike, Priority",
-        "contestType":"Cool - Reliable"
-    },
-    {
         "name":"Will-O-Wisp",
         "effect":"The target is Burned.",
         "type":"Fire",
@@ -3296,7 +3285,7 @@
         "frequency":"At-Will",
         "ac":2,
         "range":"Melee, 1 Target, Spirit Surge",
-        "contestType":"Cool - Exhausting Act"
+        "contestType":"Cool - Tease"
     },
     {
         "name":"Close Combat",
@@ -5290,13 +5279,13 @@
         "contestType":""
     },
     {
-        "name":"Thunder Wave [OG]",
-        "effect":"Thunder Wave cannot miss. Thunder Wave Paralyzes the target. Pokémon immune to Electric Attacks are immune to Thunder Wave's effect.",
+        "name":"Thunder Wave",
+        "effect":"Thunder Wave Paralyzes the target. Pokémon immune to Electric Attacks are immune to Thunder Wave's effect.",
         "type":"Electric",
         "category":"Status",
         "damageBase":"--",
         "frequency":"Scene x2",
-        "ac":"--",
+        "ac":"4",
         "range":"6, 1 Target",
         "contestType":"Cool - Excitement"
     },
@@ -5331,7 +5320,7 @@
         "frequency":"EOT",
         "ac":2,
         "range":"Melee, 1 Target",
-        "contestType":"--"
+        "contestType":"Tough - Double TIme"
     },
     {
         "name":"Doom Desire",
@@ -5758,7 +5747,7 @@
         "category":"Physical",
         "damageBase":"5",
         "frequency":"At-Will",
-        "ac":"4",
+        "ac":"3",
         "range":"Melee, 1 Target",
         "contestType":"--"
     },
@@ -5899,8 +5888,8 @@
         "effect":"All Pokémon and Trainers within 5 meters of the user are cured of Sleep.",
         "type":"Normal",
         "category":"Special",
-        "damageBase":5,
-        "frequency":"EOT",
+        "damageBase":9,
+        "frequency":"Scene x2",
         "ac":2,
         "range":"Burst 1, Spirit Surge, Sonic",
         "contestType":"Cute - Unsettling"
@@ -5972,7 +5961,7 @@
         "contestType":"Cute - Get Ready!"
     },
     {
-        "name":"Toxic Threads",
+        "name":"Toxic Thread",
         "effect":"The target is Poisoned and receives -1 Speed Combat Stage. If the target is already Poisoned, they instead lose a Tick of Hit Points and receive -2 Speed Combat Stages.",
         "type":"Poison",
         "category":"Status",
@@ -5980,7 +5969,7 @@
         "frequency":"Scene x2",
         "ac":2,
         "range":"6, 1 Target",
-        "contestType":"--"
+        "contestType":"Smart - Excitement"
     },
     {
         "name":"Beat Up",
@@ -7337,7 +7326,7 @@
     },
     {
         "name":"Withdraw",
-        "effect":"The user becomes Withdrawn. While Withdrawn, the user becomes immune to Critical Hits and gain 15 Damage Reduction. However, while Withdrawn, the user cannot Shift, and may only use self-targeting Moves. The user may stop being Withdrawn as a Shift Action.\\nSeptember Playtest: The user's Defense is raised 1 Combat Stage.",
+        "effect":"The user's Defense is raised 1 Combat Stage.",
         "type":"Water",
         "category":"Status",
         "damageBase":"--",
@@ -7831,17 +7820,6 @@
         "contestType":"Smart - Catching Up"
     },
     {
-        "name":"Thunder Wave",
-        "effect":"Thunder Wave cannot miss. Thunder Wave Paralyzes the target. Pokémon immune to Electric Attacks are immune to Thunder Wave's effect.",
-        "type":"Electric",
-        "category":"Status",
-        "damageBase":"--",
-        "frequency":"Scene x2",
-        "ac":4,
-        "range":"6, 1 Target",
-        "contestType":"Cool - Excitement"
-    },
-    {
         "name":"Firestarter",
         "effect":"--",
         "type":"Fire",
@@ -8279,7 +8257,7 @@
         "frequency":"Scene",
         "ac":2,
         "range":"Burst 1, Groundsource",
-        "contestType":"--"
+        "contestType":"Tough - Tease"
     },
     {
         "name":"Toxic Spikes",
@@ -8337,7 +8315,7 @@
         "contestType":"--"
     },
     {
-        "name":"Vicegrip",
+        "name":"Vice Grip",
         "effect":"--",
         "type":"Normal",
         "category":"Physical",
@@ -8651,7 +8629,7 @@
         "category":"Physical",
         "damageBase":"5",
         "frequency":"At-Will",
-        "ac":"4",
+        "ac":"3",
         "range":"Focus Rank Range, 1 Target",
         "contestType":"--"
     },
@@ -9082,7 +9060,7 @@
         "frequency":"EOT",
         "ac":2,
         "range":"Melee, 1 Target",
-        "contestType":"--"
+        "contestType":"Tough - Unsettling"
     },
     {
         "name":"Charm",
