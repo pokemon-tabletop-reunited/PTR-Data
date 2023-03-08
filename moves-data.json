@@ -341,17 +341,6 @@
         "contestType":"Smart - Get Ready!"
     },
     {
-        "name":"Medusa Ray",
-        "effect":"The target gains the Rock Type in addition to its other Types for 5 turns.",
-        "type":"Rock",
-        "category":"Status",
-        "damageBase":"-",
-        "frequency":"Daily",
-        "ac":"2",
-        "range":"5, 1 Target",
-        "contestType":""
-    },
-    {
         "name":"Play Nice",
         "effect":"Play Nice lowers the target's Attack by 1 Combat Stage.",
         "type":"Normal",
@@ -405,17 +394,6 @@
         "ac":2,
         "range":"Burst 1",
         "contestType":"Tough - Exhausting Act"
-    },
-    {
-        "name":"Lunar Cannon",
-        "effect":"If the weather is not a New Moon, the user's turn ends. If the weather is a New Moon, immediately proceed to the resolution effect instead and this move loses the Set-Up keyword.\\r\\nResolution Effect: The user attacks with Lunar Cannon",
-        "type":"Dark",
-        "category":"Special",
-        "damageBase":"10",
-        "frequency":"Scene x2",
-        "ac":"2",
-        "range":"Line 6, Set-Up",
-        "contestType":""
     },
     {
         "name":"Light Screen",
@@ -592,17 +570,6 @@
         "ac":2,
         "range":"6, 1 Target, Double Strike; or 6, 2 Targets",
         "contestType":"Smart - Double TIme"
-    },
-    {
-        "name":"Leech Life [OG]",
-        "effect":"After the target takes damage, the user gains HP equal to half of the damage they dealt to the target.",
-        "type":"Bug",
-        "category":"Physical",
-        "damageBase":2,
-        "frequency":"At-Will",
-        "ac":2,
-        "range":"Melee, 1 Target",
-        "contestType":"Smart - Good Show!"
     },
     {
         "name":"Energy Blast",
@@ -1054,17 +1021,6 @@
         "ac":3,
         "range":"Melee, Dash, Set-Up",
         "contestType":"Smart - Special Attention"
-    },
-    {
-        "name":"MH Expert",
-        "effect":"--",
-        "type":"--",
-        "category":"--",
-        "damageBase":"--",
-        "frequency":"--",
-        "ac":"--",
-        "range":"--",
-        "contestType":"--"
     },
     {
         "name":"Wonder Room",
@@ -1617,17 +1573,6 @@
         "contestType":"Beauty - Desperation"
     },
     {
-        "name":"OH Adept",
-        "effect":"--",
-        "type":"--",
-        "category":"--",
-        "damageBase":"--",
-        "frequency":"--",
-        "ac":"--",
-        "range":"--",
-        "contestType":"--"
-    },
-    {
         "name":"Hidden Power Poison",
         "effect":"--",
         "type":"Poison",
@@ -2023,17 +1968,6 @@
         "contestType":"Cute - Get Ready!"
     },
     {
-        "name":"Flying Press [OG]",
-        "effect":"Flying Press may deal Flying Type damage if the user wishes. NOTE: If Flying Press is Move Sync'd, it only changes the Fighting Type portion of the Move. You can still only choose between that Type and Flying Type; you cannot shift Flying Press to change the Flying part to another Type.",
-        "type":"Fighting",
-        "category":"Physical",
-        "damageBase":8,
-        "frequency":"EOT",
-        "ac":3,
-        "range":"Melee, Dash, 1 Target",
-        "contestType":"Tough - Big Show"
-    },
-    {
         "name":"Flower Shield",
         "effect":"Raise the Defense of all Grass-Type legal targets by 2 Combat Stages.",
         "type":"Fairy",
@@ -2331,17 +2265,6 @@
         "contestType":"Cool - Steady Performance"
     },
     {
-        "name":"Magnetic Flux [OG2]",
-        "effect":"Raise the Defense and Special Defense of all legal targets with the Minus or Plus Abilities by 1 Combat Stage.",
-        "type":"Electric",
-        "category":"Status",
-        "damageBase":"--",
-        "frequency":"Scene x2",
-        "ac":"--",
-        "range":"Burst 4",
-        "contestType":"Smart - Incentives"
-    },
-    {
         "name":"Ally Switch",
         "effect":"Ally Switch may be declared during a foe's turn as an Interrupt. The user chooses one willing ally within 6 meters; the target and the user switch places. If the ally was a target of a Move, the user is now the target; If the user was a target of a Move, the ally is now the target.",
         "type":"Psychic",
@@ -2485,17 +2408,6 @@
         "contestType":"--"
     },
     {
-        "name":"Maneuver",
-        "effect":"effect",
-        "type":"",
-        "category":"Category",
-        "damageBase":"",
-        "frequency":"Action",
-        "ac":"AC",
-        "range":"Range",
-        "contestType":""
-    },
-    {
         "name":"Brine",
         "effect":"If the target's Hit Points are under 50%, Brine's Damage Base is increased to Damage Base 13 (4d10+10 / 35).",
         "type":"Water",
@@ -2527,17 +2439,6 @@
         "ac":2,
         "range":"Melee, 1 Target, Dash",
         "contestType":"Cute - Safe Option"
-    },
-    {
-        "name":"EW Adept",
-        "effect":"--",
-        "type":"--",
-        "category":"--",
-        "damageBase":"--",
-        "frequency":"--",
-        "ac":"--",
-        "range":"--",
-        "contestType":"--"
     },
     {
         "name":"Signal Beam",
@@ -2692,17 +2593,6 @@
         "ac":2,
         "range":"Burst 1",
         "contestType":"Cool - Steady Performance"
-    },
-    {
-        "name":"Ancient Roar",
-        "effect":"-",
-        "type":"Rock",
-        "category":"Special",
-        "damageBase":"8",
-        "frequency":"EoT",
-        "ac":"2",
-        "range":"Burst 1, Sonic",
-        "contestType":""
     },
     {
         "name":"Blue Flare",
@@ -2923,17 +2813,6 @@
         "ac":4,
         "range":"Melee, 1 Target, Dash, Spirit Surge",
         "contestType":"Cool - Desperation"
-    },
-    {
-        "name":"Morph",
-        "effect":"THe user uses the move Transform. After resolving the effects of Transform, the user copies the target's Type(s). If the user is now single typed, it may either change that type, or add a second type of its choice. If the user is now double typed, it may remove one of those types, or change one of those types. These changes last until the end of the Scene, or the user changes Types again.",
-        "type":"Normal",
-        "category":"Status",
-        "damageBase":"-",
-        "frequency":"Daily",
-        "ac":"-",
-        "range":"Self",
-        "contestType":""
     },
     {
         "name":"Crush Grip",
@@ -3277,17 +3156,6 @@
         "contestType":"--"
     },
     {
-        "name":"Rapid Spin [OG]",
-        "effect":"Rapid Spin destroys all Hazards within 5 meters, removes Leech Seeds, and removes the user's Trapped or Stuck status.",
-        "type":"Normal",
-        "category":"Physical",
-        "damageBase":2,
-        "frequency":"At-Will",
-        "ac":2,
-        "range":"Melee, 1 Target, Spirit Surge",
-        "contestType":"Cool - Tease"
-    },
-    {
         "name":"Close Combat",
         "effect":"Lower the user's Defense and Special Defense by 1 Combat Stage each after damage.",
         "type":"Fighting",
@@ -3497,17 +3365,6 @@
         "contestType":"Smart - Good Show!"
     },
     {
-        "name":"Parabolic Charge [OG]",
-        "effect":"The user gains HP equal to half of the total damage the user dealt to all legal targets.",
-        "type":"Electric",
-        "category":"Special",
-        "damageBase":5,
-        "frequency":"Scene",
-        "ac":4,
-        "range":"Cone 2",
-        "contestType":"Cool - Desperation"
-    },
-    {
         "name":"Special Telekinetic",
         "effect":"--",
         "type":"Normal",
@@ -3627,17 +3484,6 @@
         "ac":4,
         "range":"5, 1 Target",
         "contestType":"Smart - Safe Option"
-    },
-    {
-        "name":"Swagger [OG]",
-        "effect":"Raise the target's Attack by 2 Combat Stages. The target is Confused.",
-        "type":"Normal",
-        "category":"Status",
-        "damageBase":"--",
-        "frequency":"EOT",
-        "ac":4,
-        "range":"6, 1 Target, Social",
-        "contestType":"Cute - Excitement"
     },
     {
         "name":"Bleakwind Storm",
@@ -4113,17 +3959,6 @@
         "contestType":""
     },
     {
-        "name":"MH Adept",
-        "effect":"--",
-        "type":"--",
-        "category":"--",
-        "damageBase":"--",
-        "frequency":"--",
-        "ac":"--",
-        "range":"--",
-        "contestType":"--"
-    },
-    {
         "name":"Electrify",
         "effect":"Until the end of the user's next turn, the target's damaging Water-Type attacks and Melee attacks of any Type deal Electric-Type Damage instead of their usual Type.",
         "type":"Electric",
@@ -4353,17 +4188,6 @@
         "ac":2,
         "range":"8, 1 Target",
         "contestType":"Smart - Exhausting Act"
-    },
-    {
-        "name":"Dark Void [OG]",
-        "effect":"The target falls Asleep. Once per Scene, Dark Void may be used as if its range were “Burst 5, Friendly” instead.",
-        "type":"Dark",
-        "category":"Status",
-        "damageBase":"--",
-        "frequency":"EOT",
-        "ac":4,
-        "range":"Melee, 1 Target",
-        "contestType":"Smart - Excitement"
     },
     {
         "name":"Pay Day",
@@ -4991,17 +4815,6 @@
         "ac":2,
         "range":"WR, 1 Target",
         "contestType":"--"
-    },
-    {
-        "name":"Gear Up [OG]",
-        "effect":"All targets with the Plus or Minus Abilities receive +1 Attack and Special Attack Combat Stages.",
-        "type":"Steel",
-        "category":"Status",
-        "damageBase":"--",
-        "frequency":"Scene x2",
-        "ac":"--",
-        "range":"Burst 4",
-        "contestType":"Smart - Get Ready!"
     },
     {
         "name":"Trick",
@@ -5994,17 +5807,6 @@
         "contestType":"--"
     },
     {
-        "name":"EW Expert",
-        "effect":"--",
-        "type":"--",
-        "category":"--",
-        "damageBase":"--",
-        "frequency":"--",
-        "ac":"--",
-        "range":"--",
-        "contestType":"--"
-    },
-    {
         "name":"Mirror Move",
         "effect":"Use the Move the target has used on their last turn. You may choose new targets for the Move. Mirror Move cannot miss.",
         "type":"Flying",
@@ -6258,17 +6060,6 @@
         "contestType":"Cute - Attention Grabber"
     },
     {
-        "name":"Tackle [OG]",
-        "effect":"The target is Pushed 2 Meters.",
-        "type":"Normal",
-        "category":"Physical",
-        "damageBase":5,
-        "frequency":"At-Will",
-        "ac":2,
-        "range":"Melee, 1 Target, Dash, Push",
-        "contestType":"Tough - Steady Performance"
-    },
-    {
         "name":"Rage",
         "effect":"The user becomes Enraged. Until the end of the user's next turn, if the user is Enraged, the user gains +1 Attack Combat Stage whenever they are damaged by an Damaging Move or Attack.",
         "type":"Normal",
@@ -6421,17 +6212,6 @@
         "ac":2,
         "range":"Burst 1, Spirit Surge",
         "contestType":"Tough - Exhausting Act"
-    },
-    {
-        "name":"Multi-Attack [OG]",
-        "effect":"Multi-Attack's Type is determined by the Memory Disc, Plate, or Drive Item held.",
-        "type":"Normal",
-        "category":"Physical",
-        "damageBase":9,
-        "frequency":"EOT",
-        "ac":2,
-        "range":"Melee, 1 Target",
-        "contestType":"--"
     },
     {
         "name":"Mystical Fire",
@@ -6806,17 +6586,6 @@
         "ac":"--",
         "range":"Burst 1, Healing",
         "contestType":"Beauty - Saving Grace"
-    },
-    {
-        "name":"New Moon",
-        "effect":"The Weather becomes a New Moon for 5 rounds.\\r\\n\\r\\nWhile a New Moon, Dark-Type and Ghost-Type attacks gain a +5 bonus to Damage Rolls, and Fairy-Type Attacks suffer a -5 Damage penalty.\\r\\n\\r\\nMorning Sun, Synthesis, and Moonlight cause the user to regain only 1/4 of their full hit points",
-        "type":"Dark",
-        "category":"Status",
-        "damageBase":"-",
-        "frequency":"Daily x2",
-        "ac":"-",
-        "range":"Field, Weather",
-        "contestType":""
     },
     {
         "name":"Thunder Shock",
@@ -7246,17 +7015,6 @@
         "ac":2,
         "range":"4, 1 Target",
         "contestType":"Cool - Exhausting Act"
-    },
-    {
-        "name":"Fell Stinger [OG]",
-        "effect":"If the user successfully knocks out the target with Fell Stinger, raise the user's Attack by 2 Combat Stages.",
-        "type":"Bug",
-        "category":"Physical",
-        "damageBase":3,
-        "frequency":"At-Will",
-        "ac":2,
-        "range":"Melee, 1 Target",
-        "contestType":"Smart - Desperation"
     },
     {
         "name":"Self-Destruct",
@@ -7851,17 +7609,6 @@
         "ac":"--",
         "range":"Burst 1, Interrupt, Shield, Trigger",
         "contestType":"Tough - Inversed Appeal"
-    },
-    {
-        "name":"Howl [OG]",
-        "effect":"Raise the user's Attack by 1 Combat Stage.",
-        "type":"Normal",
-        "category":"Status",
-        "damageBase":"--",
-        "frequency":"At-Will",
-        "ac":"--",
-        "range":"Self",
-        "contestType":"Cool - Get Ready!"
     },
     {
         "name":"Reflect",
@@ -8656,17 +8403,6 @@
         "contestType":"Tough - Desperation"
     },
     {
-        "name":"Magnetic Flux [OG]",
-        "effect":"Raise the Defense and Special Defense of all legal targets with the Minus or Plus Abilities by 1 Combat Stage.",
-        "type":"Electric",
-        "category":"Status",
-        "damageBase":"--",
-        "frequency":"Scene",
-        "ac":"--",
-        "range":"Burst 4",
-        "contestType":"Smart - Incentives"
-    },
-    {
         "name":"Steel Wing",
         "effect":"Steel Wing raises the user's Defense by 1 Combat Stage on 15+.",
         "type":"Steel",
@@ -8953,17 +8689,6 @@
         "contestType":"Beauty - Sabotage"
     },
     {
-        "name":"Retrograde",
-        "effect":"The target has all of its Combat Stages reset, and all Coats removed. If the target is under the effect of Mega Evolution, the move Transform, or any Moves, Capabilities, Abilities or Features that change a targets Form(e) or Type, those effects immediately end.",
-        "type":"Normal",
-        "category":"Status",
-        "damageBase":"-",
-        "frequency":"Scene",
-        "ac":"2",
-        "range":"10, 1 Target",
-        "contestType":""
-    },
-    {
         "name":"Crabhammer",
         "effect":"Crabhammer is a Critical Hit on 18+.",
         "type":"Water",
@@ -9116,17 +8841,6 @@
         "ac":"--",
         "range":"Self",
         "contestType":"Cute - Sabotage"
-    },
-    {
-        "name":"Sucker Punch [OG]",
-        "effect":"If an adjacent foe targets the user with a Damaging Attack, Sucker Punch may be used as an Interrupt Move against the triggering foe.",
-        "type":"Dark",
-        "category":"Physical",
-        "damageBase":8,
-        "frequency":"At-Will",
-        "ac":2,
-        "range":"Melee, 1 Target, Trigger, Interrupt",
-        "contestType":"Smart - Saving Grace"
     },
     {
         "name":"Comet Punch",
