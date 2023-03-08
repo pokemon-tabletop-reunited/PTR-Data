@@ -37,7 +37,7 @@
         "effect":"--",
         "type":"Rock",
         "category":"Special",
-        "damageBase":"4",
+        "damageBase":4,
         "frequency":"At-Will",
         "ac":"3",
         "range":"Melee, 1 Target",
@@ -294,14 +294,14 @@
         "frequency":"EOT",
         "ac":2,
         "range":"Melee, 1 Target",
-        "contestType":"--"
+        "contestType":"Tough - Incentives"
     },
     {
         "name":"Special Guster",
         "effect":"--",
         "type":"Flying",
         "category":"Special",
-        "damageBase":"4",
+        "damageBase":4,
         "frequency":"At-Will",
         "ac":"3",
         "range":"Melee, 1 Target",
@@ -331,7 +331,7 @@
     },
     {
         "name":"Charge",
-        "effect":"If the user performs an Electric Attack on its next turn, add its Damage Dice Roll an extra time to the damage. Raise the user's Special Defense by 1 Combat Stage.",
+        "effect":"If the user performs an Electric Move on their next turn that deals damage, add its Damage Dice Roll an extra time to the damage. Raise the user’s Special Defense 1 Combat Stage.",
         "type":"Electric",
         "category":"Status",
         "damageBase":"--",
@@ -359,7 +359,7 @@
         "damageBase":25,
         "frequency":"Daily",
         "ac":2,
-        "range":"Burst 2",
+        "range":"Burst 2, Smite",
         "contestType":"Beauty - Big Show"
     },
     {
@@ -382,7 +382,7 @@
         "frequency":"Scene x2",
         "ac":3,
         "range":"Burst 1",
-        "contestType":"Beauty - Good Show"
+        "contestType":"Beauty - Good Show!"
     },
     {
         "name":"Lava Plume",
@@ -412,9 +412,9 @@
         "type":"Ghost",
         "category":"Status",
         "damageBase":"--",
-        "frequency":"EOT",
+        "frequency":"Scene",
         "ac":"--",
-        "range":"Burst 10, Friendly",
+        "range":"Burst 10, Friendly, Swift Action",
         "contestType":"Smart - Big Show"
     },
     {
@@ -491,7 +491,7 @@
         "damageBase":"--",
         "frequency":"Scene",
         "ac":"--",
-        "range":"Trigger",
+        "range":"Self, Trigger, Free Action",
         "contestType":"Beauty - Inversed Appeal"
     },
     {
@@ -510,7 +510,7 @@
         "effect":"You may perform any of the following Manipulations: Bon Mot, Flirt, or Terrorize. You may use each Manipulation only once each Scene per target. Manipulate can only be performed by Trainers. Input each Manipulation for details.",
         "type":"",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Standard",
         "ac":2,
         "range":"6, 1 Target",
@@ -532,7 +532,7 @@
         "effect":"You and the target make Opposed Acrobatics Checks. If you win, the target is Vulnerable and has their Initiative set to 0 until the end of your next turn.",
         "type":"",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Standard",
         "ac":2,
         "range":"Melee, 1 Target",
@@ -609,7 +609,7 @@
         "effect":"Stone Axe is a critical hit on an 18+. Once per scene, on a hit, the target may be put in a Vortex.",
         "type":"Rock",
         "category":"Physical",
-        "damageBase":"7",
+        "damageBase":7,
         "frequency":"EOT",
         "ac":"4",
         "range":"Melee, 1 Target",
@@ -778,7 +778,7 @@
         "frequency":"EOT",
         "ac":2,
         "range":"Melee, 1 Target",
-        "contestType":"--"
+        "contestType":"Tough - Steady Performance"
     },
     {
         "name":"Spectral Thief",
@@ -842,7 +842,7 @@
         "category":"Physical",
         "damageBase":6,
         "frequency":"At-Will",
-        "ac":5,
+        "ac":3,
         "range":"6, 1 Target",
         "contestType":"Smart - Desperation"
     },
@@ -884,7 +884,7 @@
         "effect":"You may Shift 1 Meter. Shifting this way does not provoke an Attack of Opportunity.",
         "type":"",
         "category":"--",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Shift",
         "ac":"--",
         "range":"--",
@@ -1008,7 +1008,7 @@
         "damageBase":"--",
         "frequency":"At-Will",
         "ac":"--",
-        "range":"Self",
+        "range":"Self, Shift Action",
         "contestType":"Cute - Inversed Appeal"
     },
     {
@@ -1019,7 +1019,7 @@
         "damageBase":8,
         "frequency":"At-Will",
         "ac":3,
-        "range":"Melee, Dash, Set-Up",
+        "range":"Melee, 1 Target, Dash, Set-Up",
         "contestType":"Smart - Special Attention"
     },
     {
@@ -1129,7 +1129,7 @@
         "damageBase":7,
         "frequency":"Scene x2",
         "ac":2,
-        "range":"8, 1 Target",
+        "range":"12, 1 Target",
         "contestType":"Smart - Seen Nothing Yet"
     },
     {
@@ -1189,7 +1189,7 @@
     },
     {
         "name":"Tail Glow",
-        "effect":"Raise the user's Special Attack by 3 Combat Stages. *Grants Glow",
+        "effect":"Raise the user's Special Attack by 3 Combat Stages.",
         "type":"Bug",
         "category":"Status",
         "damageBase":"--",
@@ -1216,7 +1216,7 @@
         "category":"Special",
         "damageBase":9,
         "frequency":"EOT",
-        "ac":5,
+        "ac":2,
         "range":"Close Blast 2",
         "contestType":"Tough - Desperation"
     },
@@ -1236,7 +1236,7 @@
         "effect":"You may perform any of the following Dirty Tricks: Hinder, Blind, or Low Blow. You may use each trick only once each Scene per target. Input each Dirty Trick for details.",
         "type":"",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Standard",
         "ac":2,
         "range":"Melee, 1 Target",
@@ -1302,7 +1302,7 @@
         "effect":"You and the target each make opposed Combat or Acrobatics Checks. If you win, the target is knocked over and Tripped.",
         "type":"",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Standard",
         "ac":6,
         "range":"Melee, 1 Target",
@@ -1404,7 +1404,7 @@
         "damageBase":9,
         "frequency":"EOT",
         "ac":2,
-        "range":"8, 1 Target",
+        "range":"4, 1 Target",
         "contestType":"Beauty - Exhausting Act"
     },
     {
@@ -1493,7 +1493,7 @@
         "frequency":"Scene x2",
         "ac":2,
         "range":"Line 6",
-        "contestType":"--"
+        "contestType":"Smart - Good Show!"
     },
     {
         "name":"Rapid Spin",
@@ -1559,7 +1559,7 @@
         "frequency":"Scene",
         "ac":3,
         "range":"Close Blast 3, Smite",
-        "contestType":"--"
+        "contestType":"Cool - Seen Nothing Yet"
     },
     {
         "name":"Origin Pulse",
@@ -1614,7 +1614,7 @@
         "frequency":"EOT",
         "ac":2,
         "range":"Melee, 1 Target",
-        "contestType":"--"
+        "contestType":"Beauty - Steady Performance"
     },
     {
         "name":"Fire Pledge",
@@ -1782,11 +1782,11 @@
     },
     {
         "name":"Shock Wave",
-        "effect":"Shock Wave cannot miss. *Grants Zapper",
+        "effect":"Shock Wave cannot miss.",
         "type":"Electric",
         "category":"Special",
         "damageBase":6,
-        "frequency":"At-Will",
+        "frequency":"EOT",
         "ac":"--",
         "range":"6, 1 Target",
         "contestType":"Cool - Exhausting Act"
@@ -1826,7 +1826,7 @@
     },
     {
         "name":"Mat Block",
-        "effect":"If the user or an adjacent ally is hit by a damagin attack, the user may use Mat Block. The attack instead does not hit any targets, and it deals no damage and has no effect. You may only use Mat Block during the first round of an encounter",
+        "effect":"If the user or an adjacent ally is hit by a damaging attack, the user may use Mat Block. The attack instead does not hit any targets, and it deals no damage and has no effect. You may only use Mat Block during the first round of an encounter",
         "type":"Fighting",
         "category":"Status",
         "damageBase":"--",
@@ -1873,7 +1873,7 @@
         "effect":"You and the target make Opposed Athletics Checks. If you win, the target is Slowed and takes a -2 penalty to all Skill Checks for one full round.",
         "type":"",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Standard",
         "ac":2,
         "range":"Melee, 1 Target",
@@ -1947,11 +1947,11 @@
     },
     {
         "name":"Return",
-        "effect":"Return's Damage Base is equal to 3 plus the user's Loyalty Value.",
+        "effect":"Return’s Damage Base is equal to 4 plus two times the number of allies that have hit the target since the end of this Pokémon’s last turn (to a maximum of DB 12).",
         "type":"Normal",
         "category":"Physical",
         "damageBase":"X, See Effect",
-        "frequency":"At-Will",
+        "frequency":"EOT",
         "ac":2,
         "range":"Melee, 1 Target",
         "contestType":"Cute - Exhausting Act"
@@ -2283,8 +2283,8 @@
         "damageBase":9,
         "frequency":"EOT",
         "ac":2,
-        "range":"Melee, 2 Targets",
-        "contestType":"--"
+        "range":"Cone 2, Sonic",
+        "contestType":"Beauty - Attention Grabber"
     },
     {
         "name":"Beak Blast",
@@ -2335,7 +2335,7 @@
         "effect":"Bubblebeam lowers the target's Speed by 1 Combat Stage on 18+.",
         "type":"Water",
         "category":"Special",
-        "damageBase":8,
+        "damageBase":7,
         "frequency":"At-Will",
         "ac":2,
         "range":"4, 1 Target",
@@ -2376,7 +2376,7 @@
     },
     {
         "name":"Sky Uppercut",
-        "effect":"Sky Uppercut may be used as an Interrupt when against a target initiating Bounce, Fly, or Sky Drop. If Sky Uppercut successfully hits its target, the Triggering Move fails (though the target may take their next turn normally.)",
+        "effect":"Sky Uppercut may be used as an Interrupt when against a target initiating Bounce, Fly, or Sky Drop to allow the user to Shift and use Sky Uppercut. If Sky Uppercut successfully hits its target, the triggering Move fails (though the target may take their next turn normally).",
         "type":"Fighting",
         "category":"Physical",
         "damageBase":9,
@@ -2456,7 +2456,7 @@
         "effect":"--",
         "type":"Water",
         "category":"Physical",
-        "damageBase":"5",
+        "damageBase":5,
         "frequency":"At-Will",
         "ac":"4",
         "range":"Melee, 1 Target",
@@ -2504,7 +2504,7 @@
         "frequency":"Scene x2",
         "ac":2,
         "range":"Melee, 1 Target",
-        "contestType":"Cool - Good Show"
+        "contestType":"Cool - Good Show!"
     },
     {
         "name":"Earth Power",
@@ -2558,7 +2558,7 @@
         "damageBase":"--",
         "frequency":"Scene",
         "ac":"--",
-        "range":"Field, Hazard",
+        "range":"6, Hazard",
         "contestType":"Cool - Sabotage"
     },
     {
@@ -2566,7 +2566,7 @@
         "effect":"You and the target each make opposed Combat or Stealth Checks. If you win, the target's Held Item (Main Hand or Off-Hand for humans) falls to the ground.",
         "type":"",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Standard",
         "ac":6,
         "range":"Melee, 1 Target",
@@ -2647,7 +2647,7 @@
         "frequency":"Daily x2",
         "ac":"--",
         "range":"Self",
-        "contestType":"Tough - Big Show"
+        "contestType":"Tough - Reflective Appeal"
     },
     {
         "name":"Darkest Lariat",
@@ -2658,7 +2658,7 @@
         "frequency":"EOT",
         "ac":2,
         "range":"Melee, 1 Target",
-        "contestType":"--"
+        "contestType":"Tough - Inversed Appeal"
     },
     {
         "name":"Spore",
@@ -2722,7 +2722,7 @@
         "category":"Physical",
         "damageBase":8,
         "frequency":"EOT",
-        "ac":2,
+        "ac":3,
         "range":"Burst 1, Set-Up, Full Action, Groundsource",
         "contestType":"Smart - Special Attention"
     },
@@ -2959,14 +2959,14 @@
     },
     {
         "name":"First Impression",
-        "effect":"You may only use First Impression with Priority upon joining an encounter; if you do, First Impression Flinches the target. Switching out resets the requirement of joining an encounter. .",
+        "effect":"You may only use First Impression with Priority upon joining an encounter; if you do, First Impression Flinches the target. Switching out resets the requirement of joining an encounter.",
         "type":"Bug",
         "category":"Physical",
         "damageBase":9,
         "frequency":"EOT",
         "ac":2,
         "range":"Melee, 1 Target, Priority",
-        "contestType":"--"
+        "contestType":"Smart - Exhausting Act"
     },
     {
         "name":"King's Shield",
@@ -3149,7 +3149,7 @@
         "effect":"Zing Zap Flinches the target on 15+.",
         "type":"Electric",
         "category":"Physical",
-        "damageBase":"8",
+        "damageBase":8,
         "frequency":"EOT",
         "ac":"2",
         "range":"Melee, 1 Target",
@@ -3171,7 +3171,7 @@
         "effect":"--",
         "type":"Ice",
         "category":"Special",
-        "damageBase":"5",
+        "damageBase":5,
         "frequency":"At-Will",
         "ac":"3",
         "range":"Melee, 1 Target",
@@ -3186,7 +3186,7 @@
         "frequency":"Daily",
         "ac":"--",
         "range":"6, 1 Target, Priority",
-        "contestType":"--"
+        "contestType":"Smart - Attention Grabber"
     },
     {
         "name":"Detect",
@@ -3270,7 +3270,7 @@
         "effect":"--",
         "type":"Fire",
         "category":"Special",
-        "damageBase":"4",
+        "damageBase":4,
         "frequency":"At-Will",
         "ac":"3",
         "range":"Melee, 1 Target",
@@ -3358,7 +3358,7 @@
         "effect":"After the target takes damage, the user gains HP equal to half of the damage they dealt to the target.",
         "type":"Grass",
         "category":"Special",
-        "damageBase":"2",
+        "damageBase":2,
         "frequency":"At-Will",
         "ac":"2",
         "range":"4, 1 Target",
@@ -3369,7 +3369,7 @@
         "effect":"--",
         "type":"Normal",
         "category":"Special",
-        "damageBase":"4",
+        "damageBase":4,
         "frequency":"At-Will",
         "ac":"3",
         "range":"Focus Rank Range, 1 Target",
@@ -3446,7 +3446,7 @@
         "effect":"The user regains hit points equal to 50% of its Hit Point total, cures all of its Status conditions, and gains 2 Evasion.",
         "type":"Psychic",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Daily",
         "ac":"",
         "range":"Self",
@@ -3630,14 +3630,14 @@
     },
     {
         "name":"Ion Deluge",
-        "effect":"An ion cloud is dispersed in the targeted area. All Normal-Type Moves targeting into or originating from the area become Electric-Type Moves.",
+        "effect":"An Ion Cloud Hazard is dispersed in the targeted area. All Normal-Type Moves targeting into or originating from the Ion Cloud become Electric-Typed Moves.",
         "type":"Electric",
         "category":"Status",
         "damageBase":"--",
         "frequency":"Scene",
         "ac":"--",
         "range":"5, Ranged Blast 3, Interrupt",
-        "contestType":"Smart - Attention Grabber"
+        "contestType":"Smart - Incentives"
     },
     {
         "name":"Bolt Strike",
@@ -3701,7 +3701,7 @@
         "category":"Physical",
         "damageBase":10,
         "frequency":"EOT",
-        "ac":3,
+        "ac":2,
         "range":"Melee, 1 Target",
         "contestType":"Cool - Desperation"
     },
@@ -3747,18 +3747,18 @@
         "frequency":"Daily x2",
         "ac":4,
         "range":"Line 8, Smite, Exhaust",
-        "contestType":"--"
+        "contestType":"Cool - Exhausting Act"
     },
     {
         "name":"Nature's Madness",
-        "effect":"The target loses half of their current Hit Points.",
+        "effect":"The target loses 1/2 of their current Hit Points.",
         "type":"Fairy",
         "category":"Special",
         "damageBase":"--",
         "frequency":"Scene",
         "ac":4,
-        "range":"4, 1 Target, HP Loss",
-        "contestType":"--"
+        "range":"4, 1 Target",
+        "contestType":"Tough - Steady Performance"
     },
     {
         "name":"Switcheroo",
@@ -3802,7 +3802,7 @@
         "frequency":"Daily",
         "ac":2,
         "range":"Burst 2",
-        "contestType":"--"
+        "contestType":"Tough - Double Time"
     },
     {
         "name":"Gastro Acid",
@@ -3812,7 +3812,7 @@
         "damageBase":"--",
         "frequency":"Scene",
         "ac":2,
-        "range":"4. 1 Target",
+        "range":"4, 1 Target",
         "contestType":"Beauty - Sabotage"
     },
     {
@@ -3912,7 +3912,7 @@
         "frequency":"Scene x2",
         "ac":2,
         "range":"Close Blast 2",
-        "contestType":"--"
+        "contestType":"Cool - Big Show"
     },
     {
         "name":"Powder Snow",
@@ -3952,7 +3952,7 @@
         "effect":"You and the target each make opposed Combat or Athletics Checks. If you win, the target is Pushed back 1 Meter directly away from you. If you have Movement remaining this round, you may then Move into the newly occupied Space, and Push the target again. This continues until you choose to stop, or have no Movement remaining for the round. Push may only be used against a target whose weight is no heavier than your Heavy Lifting rating.",
         "type":"",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Standard",
         "ac":4,
         "range":"Melee, 1 Target",
@@ -4110,7 +4110,7 @@
         "frequency":"At-Will",
         "ac":2,
         "range":"6, 1 Target",
-        "contestType":"--"
+        "contestType":"Beauty - Steady Performance"
     },
     {
         "name":"After You",
@@ -4120,7 +4120,7 @@
         "damageBase":"--",
         "frequency":"Scene x2",
         "ac":"--",
-        "range":"6, 1 Target",
+        "range":"6, 1 Target, Swift Action",
         "contestType":"Smart - Desperation"
     },
     {
@@ -4139,7 +4139,7 @@
         "effect":"Trigger - An ally within Movement range is hit by an adjacent foe.\\nEffect: You must make an Acrobatics or Athletics Check, with a DC equal to three times the number of meters they have to move to reach the triggering Ally; If you succeed, you Push the triggering Ally 1 Meter away from you, and Shift to occupy their space, and are hit by the triggering attack. On Failure to make the Check, the user still Shifts a number of meters equal a third of their check result.\\n\\nNote: If the target that was Intercepted was hit by an Area of Effect Move, and the 1 meter push does not remove them from the Area of Effect, the Intercept has no effect since they are still in the area of the attack - it would cause the Interceptor to be hit by the Move however.\\n\\nSpecial - Pokemon must have a Loyalty of 3 or greater to make Intercept Melee and Intercept range Maneuvers and may only Intercept attacks against their Trainer. At Loyalty 6, Pokemon may Intercept for any Ally.\\n\\nAdditional Rules\\n»» Pokémon and Trainers may only Intercept against Priority and Interrupt Moves if they are faster than the user of those Moves.\\n»» Moves that cannot miss (such as Aura Sphere or Swift) cannot be Intercepted.\\n»» Pokémon and Trainers cannot attempt Intercepts if they are Asleep, Confused, Enraged, Frozen, Stuck, Paralyzed, or otherwise unable to move.\\n»» Intercepts may not be used to move the Intercepting Pokémon or Trainer OUT of the way of an attack. They will always be hit, regardless.",
         "type":"",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Full Action, Interrupt",
         "ac":"--",
         "range":"--",
@@ -4209,7 +4209,7 @@
         "frequency":"EOT",
         "ac":2,
         "range":"2, 1 Target",
-        "contestType":"--"
+        "contestType":"Cool - Safe Option"
     },
     {
         "name":"Spike Cannon",
@@ -4317,9 +4317,9 @@
         "category":"Special",
         "damageBase":8,
         "frequency":"EOT",
-        "ac":3,
+        "ac":2,
         "range":"6, 1 Target",
-        "contestType":"Cool - Exhausting Act"
+        "contestType":"Cool - Exhausting Performance"
     },
     {
         "name":"Mystical Power",
@@ -4330,7 +4330,7 @@
         "frequency":"Scene x2",
         "ac":4,
         "range":"6, 2 Targets, Spirit Surge",
-        "contestType":"Smart - Get Ready"
+        "contestType":"Smart - Get Ready!"
     },
     {
         "name":"Slice",
@@ -4414,7 +4414,7 @@
         "effect":"--",
         "type":"Fire",
         "category":"Special",
-        "damageBase":"5",
+        "damageBase":5,
         "frequency":"At-Will",
         "ac":"3",
         "range":"Melee, 1 Target",
@@ -4524,7 +4524,7 @@
         "effect":"--",
         "type":"Rock",
         "category":"Physical",
-        "damageBase":"5",
+        "damageBase":5,
         "frequency":"At-Will",
         "ac":"4",
         "range":"Melee, 1 Target",
@@ -4594,7 +4594,7 @@
         "frequency":"Daily x2",
         "ac":"--",
         "range":"Field",
-        "contestType":"Beauty - Get Ready"
+        "contestType":"Beauty - Get Ready!"
     },
     {
         "name":"Baby-Doll Eyes",
@@ -4659,7 +4659,7 @@
         "damageBase":3,
         "frequency":"At-Will",
         "ac":4,
-        "range":"Melee, 1 Target",
+        "range":"4, 1 Target",
         "contestType":"Beauty - Reliable"
     },
     {
@@ -4681,7 +4681,7 @@
         "damageBase":"--",
         "frequency":"Daily x2",
         "ac":"--",
-        "range":"Self",
+        "range":"Self, Healing",
         "contestType":"Smart - Reflective Appeal"
     },
     {
@@ -4719,11 +4719,11 @@
     },
     {
         "name":"Frustration",
-        "effect":"Frustration's Damage Base is equal to 9 minus the user's Loyalty Value. Using Frustration may make your Pokémon dislike you.",
+        "effect":"Frustration’s Damage Base is equal to 6 plus two times the number of times this Pokémon has been hit since the end of this Pokémon’s last turn (to a maximum of DB 12).",
         "type":"Normal",
         "category":"Physical",
         "damageBase":"X, See Effect",
-        "frequency":"At-Will",
+        "frequency":"EOT",
         "ac":2,
         "range":"Melee, 1 Target",
         "contestType":"Cute - Desperation"
@@ -4831,7 +4831,7 @@
         "name":"Natural Gift",
         "effect":"Refer to the Move Keywords Berry list. Natural Gift deals damage according to the Berry list and Natural Gift's Type is also defined there. The Berry's Food Buff is nullified and is not used.",
         "type":"Normal",
-        "category":"Special",
+        "category":"Physical",
         "damageBase":"See Effect",
         "frequency":"Scene",
         "ac":2,
@@ -4909,7 +4909,7 @@
         "effect":"You and the target make Opposed Stealth Checks. If you win, the target is Blinded for one full round.",
         "type":"",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Standard",
         "ac":2,
         "range":"Melee, 1 Target",
@@ -4961,22 +4961,22 @@
     },
     {
         "name":"Instruct",
-        "effect":"The target immediately reuses the attack it performed last, ignoring frequency, as a Free Action. They may choose new targets for the copied attack. Instruct may not be used if the Target's last Move was Instruct.",
+        "effect":"The target immediately reuses the attack it performed last, ignoring frequency, as a Free Action. They may choose new targets for the copied attack. Instruct may not be used if the Target’s last Move was a Set-Up Move, a Trigger Move, or Instruct, or if the Target is currently affected by Exhaust.",
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
         "frequency":"Scene x2",
         "ac":"--",
         "range":"Melee, 1 Target",
-        "contestType":"--"
+        "contestType":"Smart - Catching Up"
     },
     {
         "name":"Power Shift",
         "effect":"The user's Attack stat and Defense stat are switched and the user's Special Attack stat and Special Defense stat are switched. These changes last for the remainder of the scene, or until the user is switched out or Fainted.",
         "type":"Normal",
         "category":"Status",
-        "damageBase":"",
-        "frequency":"EOT",
+        "damagebase":"--",
+        "frequency":"Scene",
         "ac":"--",
         "range":"Self",
         "contestType":"Cool - Inversed Appeal"
@@ -4986,7 +4986,7 @@
         "effect":"You may make a Struggle Attack against the triggering foe as an Interrupt. You may use Attack of Opportunity only once per round. Attacks of Opportunity cannot be made by Sleeping, Flinched, or Paralyzed targets. Attacks of Opportunity can be triggered in multiple ways: \\n»» An adjacent foe uses a Push, Grapple, Disarm, Trip, or Dirty Trick Maneuver that does not target you. \\n»» An adjacent foe stands up. \\n»» An adjacent foe uses a Ranged Attack that does not target someone adjacent to it. \\n»» An adjacent foe uses a Standard Action to pick up or retrieve an item. \\n»» An adjacent foe Shifts out of a Square adjacent to you.",
         "type":"",
         "category":"--",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Free",
         "ac":"--",
         "range":"--",
@@ -5001,7 +5001,7 @@
         "frequency":"Scene",
         "ac":"--",
         "range":"Melee, 1 Target",
-        "contestType":"--"
+        "contestType":"Smart - Reflective Appeal"
     },
     {
         "name":"Water Sport",
@@ -5085,7 +5085,7 @@
         "effect":"Make a Charm Check, opposed by the target's Charm or Focus. If you win, the target is Infatuated with you for one full round. The target automatically fails their Save Check.",
         "type":"",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Standard",
         "ac":2,
         "range":"6, 1 Target",
@@ -5408,7 +5408,7 @@
         "frequency":"Scene",
         "ac":"--",
         "range":"Self",
-        "contestType":"Tough - Get Ready"
+        "contestType":"Tough - Get Ready!"
     },
     {
         "name":"Future Sight",
@@ -5470,7 +5470,7 @@
         "effect":"Make a Guile Check, opposed by the target's Guile or Focus. If you win, the target is Enraged and cannot spend AP for one full round. The target does not gain a Save Check against this effect.",
         "type":"",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Standard",
         "ac":2,
         "range":"6, 1 Target",
@@ -5536,7 +5536,7 @@
         "effect":"--",
         "type":"Water",
         "category":"Special",
-        "damageBase":"4",
+        "damageBase":4,
         "frequency":"At-Will",
         "ac":"3",
         "range":"Melee, 1 Target",
@@ -5558,7 +5558,7 @@
         "effect":"--",
         "type":"Electric",
         "category":"Physical",
-        "damageBase":"5",
+        "damageBase":5,
         "frequency":"At-Will",
         "ac":"3",
         "range":"Melee, 1 Target",
@@ -5694,7 +5694,7 @@
         "frequency":"EOT",
         "ac":2,
         "range":"6, 1 Target",
-        "contestType":"Beauty - Reflective Apeal"
+        "contestType":"Beauty - Reflective Appeal"
     },
     {
         "name":"Uproar",
@@ -5742,13 +5742,13 @@
     },
     {
         "name":"Pursuit",
-        "effect":"If the foe is fleeing or being switched out, Pursuit may be used as an Interrupt, targeting the triggering foe. When used as an Interrupt, Pursuit grants the user a +5 bonus to all Movement Speeds, and has a Damage Base of 8 (2d8+10/19).",
+        "effect":"If an adjacent foe Shifts away without Disengaging, or a foe attempts to leave the Scene, Pursuit may be triggered as a Full Action Reaction. If a foe is Recalled or Switched Out, Pursuit may be triggered as a Full Action Interrupt. When triggered, the user may Shift with a +5 bonus to all movement speeds, ending adjacent to the triggering foe. The user may then attack with Pursuit, with a Damage Base of 8 (2d8+10 / 19).",
         "type":"Dark",
         "category":"Physical",
         "damageBase":4,
         "frequency":"At-Will",
         "ac":2,
-        "range":"Melee, 1 Target",
+        "range":"Melee, 1 Target, Special",
         "contestType":"Smart - Good Show!"
     },
     {
@@ -5826,7 +5826,7 @@
         "frequency":"Scene x2",
         "ac":"--",
         "range":"Self",
-        "contestType":"--"
+        "contestType":"Smart - Get Ready!"
     },
     {
         "name":"Shadow Punch",
@@ -5848,7 +5848,7 @@
         "frequency":"EOT",
         "ac":2,
         "range":"Burst 1, Social, Friendly",
-        "contestType":"--"
+        "contestType":"Cute - Sabotage"
     },
     {
         "name":"Taunt",
@@ -5914,7 +5914,7 @@
         "frequency":"Daily",
         "ac":2,
         "range":"6, Ranged Blast 3, Smite",
-        "contestType":"Tough - Reliable"
+        "contestType":"Beauty - Big Show"
     },
     {
         "name":"Howl",
@@ -5932,7 +5932,7 @@
         "effect":"You and the target each make opposed Combat or Athletics Checks. If you win, you and the target each become Grappled, and you gain Dominance in the Grapple.\\n\\nPokémon and Trainers that are Grappled\\n»» Are Vulnerable\\n»» Cannot take Shift Actions, or any actions that would cause them to Shift.\\n»» Gain a -6 penalty to Accuracy Rolls if targeting anyone outside of the Grapple.\\n»» Additionally, Grapple has other effect on whether the target has or doesn't have Dominance.\\n\\nIf a target begins their turn as a part of a Grapple but with no Dominance, they may choose to contest the Grapple as a Full Action. If they do, all participants make opposed Combat or Athletics Check. Whoever wins then may choose to either continue the Grapple and gain Dominance, or to end the Grapple.\\n\\nIf a target has the Phasing or Teleporter Capability, they may also use those to escape from a Grapple on their turn with no check required.\\n\\nIf a target begins their turn as part of a Grapple and has Dominance, they may take one of the following actions as a Full Action.\\n»» End the Grapple.\\n»» Secure: They gain a +3 Bonus to the next opposed check they make in the Grapple.\\n»» Attack: They may automatically hit with an Unarmed Struggle Attack.\\n»» Move: They Shift, dragging the other person in the grapple with them. The user's Movement Capability is lowered by the other grappler's Weight Class.",
         "type":"",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Standard",
         "ac":4,
         "range":"Melee, 1 Target",
@@ -5958,7 +5958,7 @@
         "frequency":"EOT",
         "ac":2,
         "range":"Melee, 1 Target",
-        "contestType":"--"
+        "contestType":"Tough - Unsettling"
     },
     {
         "name":"Soak",
@@ -6009,7 +6009,7 @@
         "effect":"--",
         "type":"Ice",
         "category":"Special",
-        "damageBase":"4",
+        "damageBase":4,
         "frequency":"At-Will",
         "ac":"3",
         "range":"Melee, 1 Target",
@@ -6031,7 +6031,7 @@
         "effect":"Trigger - A Ranged X-Target attack passes within your Movement Range.\\nEffect: Select a Square within your Movement Range that lies directly between the source of the attack and the target of the attack. Make an Acrobatics or Athletics Check; you may Shift a number of Meters equal to half the result towards the chosen square. If you succeed, you take the attack instead of its intended target. If you fail, you still Shift a number of Meters equal to half the result.\\n\\nSpecial - Pokemon must have a Loyalty of 3 or greater to make Intercept Melee and Intercept range Maneuvers and may only Intercept attacks against their Trainer. At Loyalty 6, Pokemon may Intercept for any Ally.\\n\\nAdditional Rules\\n»» Pokémon and Trainers may only Intercept against Priority and Interrupt Moves if they are faster than the user of those Moves.\\n»» Moves that cannot miss (such as Aura Sphere or Swift) cannot be Intercepted.\\n»» Pokémon and Trainers cannot attempt Intercepts if they are Asleep, Confused, Enraged, Frozen, Stuck, Paralyzed, or otherwise unable to move.\\n»» Intercepts may not be used to move the Intercepting Pokémon or Trainer OUT of the way of an attack. They will always be hit, regardless.",
         "type":"",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Full Action, Interrupt",
         "ac":"--",
         "range":"--",
@@ -6079,7 +6079,7 @@
         "frequency":"EOT",
         "ac":2,
         "range":"Melee, 1 Target or Line 3",
-        "contestType":"--"
+        "contestType":"Cool - Big Show"
     },
     {
         "name":"High Jump Kick",
@@ -6101,7 +6101,7 @@
         "frequency":"EOT",
         "ac":2,
         "range":"Melee, 1 Target",
-        "contestType":"--"
+        "contestType":"Smart - Steady Performance"
     },
     {
         "name":"Flamethrower",
@@ -6163,7 +6163,7 @@
         "effect":"Increase your Movement Speeds by 50% for the rest of your turn.",
         "type":"",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Standard",
         "ac":"--",
         "range":"Self",
@@ -6255,7 +6255,7 @@
         "frequency":"Daily x2",
         "ac":2,
         "range":"Burst 1, Smite",
-        "contestType":"--"
+        "contestType":"Beauty - Attention Grabber"
     },
     {
         "name":"Fleur Cannon",
@@ -6266,7 +6266,7 @@
         "frequency":"Scene",
         "ac":4,
         "range":"Line 9, Smite",
-        "contestType":"--"
+        "contestType":"Beauty - Seen Nothing Yet"
     },
     {
         "name":"Photon Geyser",
@@ -6277,7 +6277,7 @@
         "frequency":"Scene",
         "ac":2,
         "range":"Burst 2",
-        "contestType":"--"
+        "contestType":"Smart - Seen Nothing Yet"
     },
     {
         "name":"Fairy Lock",
@@ -6394,11 +6394,11 @@
         "effect":"If the user performs a Fighting Move on their next turn that deals damage, add its Damage Dice Roll an extra time to the damage. Raise the userâ€™s Defense 1 Combat Stage.",
         "type":"Fighting",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"EOT",
         "ac":"",
         "range":"Self, Dance",
-        "contestType":"Cool - Get Ready"
+        "contestType":"Cool - Get Ready!"
     },
     {
         "name":"Triple Threat",
@@ -6571,7 +6571,7 @@
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
-        "frequency":"EOT",
+        "frequency":"Scene",
         "ac":2,
         "range":"Cone 2, Friendly, Social",
         "contestType":"Beauty - Excitement"
@@ -6625,11 +6625,11 @@
         "effect":"Make and resolve of Hyperspace Hole's attacks separately. In between each attack, the user may Shift using their Teleporter capability, ending the Shift next to a legal target. Interrupts may not be triggered against Hyperspace Hole..",
         "type":"Psychic",
         "category":"Special",
-        "damageBase":10,
+        "damageBase":8,
         "frequency":"Daily",
         "ac":2,
         "range":"Melee, 3 Targets",
-        "contestType":"--"
+        "contestType":"Smart - Gamble"
     },
     {
         "name":"Sky Attack",
@@ -6720,6 +6720,17 @@
         "contestType":"Beauty - Steady Performance"
     },
     {
+        "name":"Glacial Lance",
+        "effect":"Legal targets hit by Glacial Lance are Stuck and Trapped until the end of their next turn.",
+        "type":"Ice",
+        "category":"Physical",
+        "damageBase":13,
+        "frequency":"Daily",
+        "ac":2,
+        "range":"Line 8, Smite",
+        "contestType":"Smart - Special Attention"
+    },
+    {
         "name":"Tackle",
         "effect":"The target is Pushed 2 Meters.",
         "type":"Normal",
@@ -6760,8 +6771,8 @@
         "damageBase":"--",
         "frequency":"Daily",
         "ac":"--",
-        "range":"Self, Reaction, Trigger",
-        "contestType":"Tough - Sabotage"
+        "range":"Self, Reaction, Trigger, Free Action",
+        "contestType":"Smart - Attention Grabber"
     },
     {
         "name":"Retaliate",
@@ -6838,7 +6849,7 @@
         "frequency":"Daily x2",
         "ac":"--",
         "range":"Field",
-        "contestType":"--"
+        "contestType":"Smart - Sabotage"
     },
     {
         "name":"Weather Ball",
@@ -6858,9 +6869,9 @@
         "category":"Physical",
         "damageBase":7,
         "frequency":"EOT",
-        "ac":2,
+        "ac":"--",
         "range":"Melee, 1 Target",
-        "contestType":"--"
+        "contestType":"Smart - Safe Option"
     },
     {
         "name":"Snatch",
@@ -6925,7 +6936,7 @@
         "damageBase":6,
         "frequency":"EOT",
         "ac":2,
-        "range":"Melee, 1 Target",
+        "range":"Melee, 1 Target, Priority (Limited)",
         "contestType":"Tough - Double TIme"
     },
     {
@@ -6992,7 +7003,7 @@
         "frequency":"Daily x2",
         "ac":"--",
         "range":"Melee, 1 Target, Healing",
-        "contestType":"--"
+        "contestType":"Beauty - Reflective Appeal"
     },
     {
         "name":"Dazzling Gleam",
@@ -7024,7 +7035,7 @@
         "damageBase":20,
         "frequency":"Daily",
         "ac":2,
-        "range":"Burst 3",
+        "range":"Burst 3, Smite",
         "contestType":"Beauty - Big Show"
     },
     {
@@ -7134,7 +7145,7 @@
         "damageBase":"--",
         "frequency":"Scene",
         "ac":"--",
-        "range":"Blessing",
+        "range":"Field",
         "contestType":"Smart - Saving Grace"
     },
     {
@@ -7304,7 +7315,7 @@
     },
     {
         "name":"Hold Hands",
-        "effect":"Both the user and the target become Cheered. They may give up the Cheered condition when making a Save Check to roll twice and take the best result.\\nSeptember Playtest: The target and the user each gain three Ticks of Temporary Hit Points, and a +2 Bonus to Save Checks for 1 full round.",
+        "effect":"The target and the user each gain three Ticks of Temporary Hit Points, and a +2 Bonus to Save Checks for 1 full round.",
         "type":"Normal",
         "category":"Status",
         "damageBase":"--",
@@ -7474,7 +7485,7 @@
         "category":"Special",
         "damageBase":4,
         "frequency":"Scene x2",
-        "ac":4,
+        "ac":2,
         "range":"3, 1 Target",
         "contestType":"Beauty - Safe Option"
     },
@@ -7484,7 +7495,7 @@
         "type":"Fighting",
         "category":"Physical",
         "damageBase":4,
-        "frequency":"EOT",
+        "frequency":"At-Will",
         "ac":2,
         "range":"Melee, 1 Target",
         "contestType":"Tough - Catching Up"
@@ -7520,7 +7531,7 @@
         "frequency":"EOT",
         "ac":4,
         "range":"Melee, 1 Target",
-        "contestType":"--"
+        "contestType":"Cool - Good Show!"
     },
     {
         "name":"Lunge",
@@ -7685,7 +7696,7 @@
         "frequency":"EOT",
         "ac":4,
         "range":"Melee, 1 Target",
-        "contestType":"Smart - Good Show"
+        "contestType":"Smart - Good Show!"
     },
     {
         "name":"Magic Room",
@@ -7736,7 +7747,7 @@
         "effect":"Bubble Beam lowers the target's Speed by 1 Combat Stage on 18+.",
         "type":"Water",
         "category":"Special",
-        "damageBase":"8",
+        "damageBase":7,
         "frequency":"At-Will",
         "ac":"2",
         "range":"4, 1 Target",
@@ -7781,7 +7792,7 @@
         "type":"Ice",
         "category":"Physical",
         "damageBase":8,
-        "frequency":"EOT",
+        "frequency":"At-Will",
         "ac":4,
         "range":"6, 1 Target",
         "contestType":"Tough - Steady Performance"
@@ -7936,9 +7947,9 @@
         "category":"Physical",
         "damageBase":10,
         "frequency":"Scene",
-        "ac":5,
+        "ac":2,
         "range":"Melee, 1 Target, Smite",
-        "contestType":"--"
+        "contestType":"Cool - Special Attention"
     },
     {
         "name":"Flame Burst",
@@ -8055,7 +8066,7 @@
         "effect":"--",
         "type":"Ice",
         "category":"Physical",
-        "damageBase":"5",
+        "damageBase":5,
         "frequency":"At-Will",
         "ac":"4",
         "range":"Melee, 1 Target",
@@ -8110,7 +8121,7 @@
         "effect":"--",
         "type":"Normal",
         "category":"Physical",
-        "damageBase":"5",
+        "damageBase":5,
         "frequency":"At-Will",
         "ac":"3",
         "range":"Melee, 1 Target",
@@ -8267,7 +8278,7 @@
         "damageBase":"--",
         "frequency":"Scene",
         "ac":"--",
-        "range":"Burst 5, Social",
+        "range":"Burst 5, Social, Friendly",
         "contestType":"Cute - Tease"
     },
     {
@@ -8356,7 +8367,7 @@
         "frequency":"EOT",
         "ac":2,
         "range":"6, 1 Target",
-        "contestType":"--"
+        "contestType":"Beauty - Reflective Appeal"
     },
     {
         "name":"Karate Chop",
@@ -8374,7 +8385,7 @@
         "effect":"--",
         "type":"Normal",
         "category":"Physical",
-        "damageBase":"5",
+        "damageBase":5,
         "frequency":"At-Will",
         "ac":"3",
         "range":"Focus Rank Range, 1 Target",
@@ -8485,7 +8496,7 @@
         "type":"Grass",
         "category":"Physical",
         "damageBase":8,
-        "frequency":"At-Will",
+        "frequency":"EOT",
         "ac":2,
         "range":"8, 1 Target",
         "contestType":"Smart - Steady Performance"
@@ -8583,7 +8594,7 @@
         "effect":"--",
         "type":"Flying",
         "category":"Physical",
-        "damageBase":"5",
+        "damageBase":5,
         "frequency":"At-Will",
         "ac":"4",
         "range":"Melee, 1 Target",
@@ -8598,7 +8609,7 @@
         "frequency":"Scene x2",
         "ac":2,
         "range":"Melee, 1 Target, Set-Up",
-        "contestType":"--"
+        "contestType":"Cool - Special Attention"
     },
     {
         "name":"Fury Swipes",
@@ -8606,7 +8617,7 @@
         "type":"Normal",
         "category":"Physical",
         "damageBase":3,
-        "frequency":"EOT",
+        "frequency":"At-Will",
         "ac":5,
         "range":"Melee, 1 Target, Five Strike",
         "contestType":"Tough - Reliable"
@@ -8730,7 +8741,7 @@
         "frequency":"Daily x2",
         "ac":2,
         "range":"Melee, 1 Target",
-        "contestType":"--"
+        "contestType":"Smart - Incentives"
     },
     {
         "name":"Psyshock",
@@ -8770,7 +8781,7 @@
         "effect":"The user gains 1 Combat Stage in Defense and Special Defense, and 2 Evasion.",
         "type":"Steel",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Scene",
         "ac":"",
         "range":"Self",
@@ -8803,7 +8814,7 @@
         "effect":"--",
         "type":"Electric",
         "category":"Special",
-        "damageBase":"5",
+        "damageBase":5,
         "frequency":"At-Will",
         "ac":"3",
         "range":"Melee, 1 Target",
@@ -8818,7 +8829,7 @@
         "frequency":"Scene x2",
         "ac":2,
         "range":"6, 1 Target or Burst 1, Sonic",
-        "contestType":"Cool - Good Show"
+        "contestType":"Cool - Good Show!"
     },
     {
         "name":"Leaf Storm",
@@ -8858,7 +8869,7 @@
         "effect":"The user gains 1 Combat Stage in all its stats and cures all of its Status conditions.",
         "type":"Psychic",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Daily x2",
         "ac":"",
         "range":"Self",
@@ -8947,7 +8958,7 @@
         "type":"Psychic",
         "category":"Status",
         "damageBase":"--",
-        "frequency":"Scene",
+        "frequency":"Scene x2",
         "ac":"--",
         "range":"Any, 1 Target, Reaction",
         "contestType":"Beauty - Double Time"
@@ -8968,7 +8979,7 @@
         "effect":"--",
         "type":"Fire",
         "category":"Physical",
-        "damageBase":"5",
+        "damageBase":5,
         "frequency":"At-Will",
         "ac":"4",
         "range":"Melee, 1 Target",
@@ -9045,7 +9056,7 @@
         "effect":"Make an Intimidate Check, opposed by the target's Intimidate or Focus. If you win, the target loses all Temporary Hit Points and can only use At-Will Frequency Moves for one full round.",
         "type":"",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Standard",
         "ac":2,
         "range":"6, 1 Target",
@@ -9064,14 +9075,14 @@
     },
     {
         "name":"Spiky Shield",
-        "effect":"If the user is hit by an attack, the user may use Spiky Shield. The user is instead not hit by the Move. You do not take any damage nor are you affected by any of the Move's effect. In addition, if the triggering attack was Melee-ranged, the attacker loses Hit Points equal to 1/10th of their Max Hit Points.",
+        "effect":"If the user is hit by an attack, the user may use Spiky Shield. The user is instead not hit by the Move. You do not take any damage nor are you affected by any of the Move's effect. In addition, if the triggering attack was Melee-ranged, the attacker loses a Tick of Hit Points",
         "type":"Grass",
         "category":"Status",
         "damageBase":"--",
         "frequency":"Scene",
         "ac":"--",
         "range":"Self, Interrupt, Shield, Trigger",
-        "contestType":"Tough - Inversed Appeal"
+        "contestType":"Smart - Incentives"
     },
     {
         "name":"Guard Split",
@@ -9089,7 +9100,7 @@
         "effect":"--",
         "type":"Electric",
         "category":"Special",
-        "damageBase":"4",
+        "damageBase":4,
         "frequency":"At-Will",
         "ac":"3",
         "range":"Melee, 1 Target",
@@ -9101,7 +9112,7 @@
         "type":"Poison",
         "category":"Status",
         "damageBase":"--",
-        "frequency":"Scene x2",
+        "frequency":"Scene",
         "ac":"--",
         "range":"Self",
         "contestType":"Cute - Get Ready!"
@@ -9232,11 +9243,11 @@
         "effect":"The user and any allies in the Burst have their Attack and Defense raised by 1 Combat Stage.",
         "type":"Fighting",
         "category":"Status",
-        "damageBase":10,
+        "damageBase":"--",
         "frequency":"EOT",
         "ac":"--",
         "range":"Burst 1",
-        "contestType":"Tough - Get Ready"
+        "contestType":"Tough - Get Ready!"
     }, 
     {
         "name":"Thunderous Kick",
@@ -9247,7 +9258,7 @@
         "frequency":"EOT",
         "ac":2,
         "range":"Melee, 1 Target",
-        "contestType":"Tough - Good Show"
+        "contestType":"Tough - Good Show!"
     },  
     {
         "name":"Burning Jealousy",
@@ -9309,7 +9320,7 @@
         "effect": "The user and any allies in the burst gain Hit Points equal to 1/4 of their Maximum Hit Point Value, and are cured of any Persistent or Volatile Status Conditions.",
         "type":"Grass",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"Daily x2",
         "ac":"--",
         "range":"Burst 1",
@@ -9353,7 +9364,7 @@
         "effect": "Targets hit have their current Held Item(s) unable to be used for the remainder of the Scene. In addition, Steel-Type targets hit lose their immunity to Poison until they Faint or Take A Breather; Poison instead counts as neutral against Steel.",
         "type":"Poison",
         "category":"Status",
-        "damageBase":"",
+        "damagebase":"--",
         "frequency":"EOT",
         "ac":2,
         "range":"Burst 1",
