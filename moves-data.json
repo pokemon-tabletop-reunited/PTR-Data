@@ -2404,8 +2404,8 @@
         "damageBase":9,
         "frequency":"EOT",
         "ac":2,
-        "range":"6, 1 Target",
-        "contestType":"--"
+        "range":"6, 1 Target, Dance",
+        "contestType":"Beauty - Reliable"
     },
     {
         "name":"Brine",
@@ -2679,7 +2679,7 @@
         "damageBase":"--",
         "frequency":"Scene",
         "ac":2,
-        "range":"Burst 1",
+        "range":"Burst 1, Dance",
         "contestType":"Cute - Tease"
     },
     {
@@ -3229,7 +3229,7 @@
         "damageBase":"--",
         "frequency":"Daily x2",
         "ac":"--",
-        "range":"Field, Weather",
+        "range":"Field, Weather, Dance",
         "contestType":"Tough - Sabotage"
     },
     {
@@ -3278,7 +3278,7 @@
     },
     {
         "name":"Twineedle",
-        "effect":"Twineedle Poisons the target on 18+.",
+        "effect":"Twineedle Poisons the target on an Accuracy Check of 18+.",
         "type":"Bug",
         "category":"Physical",
         "damageBase":3,
@@ -4043,7 +4043,7 @@
         "damageBase":"--",
         "frequency":"EOT",
         "ac":2,
-        "range":"Burst 1, Friendly",
+        "range":"Burst 1, Friendly, Dance",
         "contestType":"Beauty - Excitement"
     },
     {
@@ -5352,7 +5352,7 @@
         "damageBase":"--",
         "frequency":"EOT",
         "ac":"--",
-        "range":"Self",
+        "range":"Self, Dance",
         "contestType":"Beauty - Get Ready!"
     },
     {
@@ -5583,7 +5583,7 @@
         "damageBase":8,
         "frequency":"EOT",
         "ac":2,
-        "range":"4, 1 Target",
+        "range":"4, 1 Target, Dance",
         "contestType":"Cool - Desperation"
     },
     {
@@ -6309,7 +6309,7 @@
         "damageBase":12,
         "frequency":"Scene x2",
         "ac":3,
-        "range":"Melee, All Adjacent Foes, Smite",
+        "range":"Melee, All Adjacent Foes, Smite, Dance",
         "contestType":"Beauty - Safe Option"
     },
     {
@@ -6353,7 +6353,7 @@
         "damageBase":"--",
         "frequency":"Scene x2",
         "ac":"--",
-        "range":"Self",
+        "range":"Self, Dance",
         "contestType":"Cool - Get Ready!"
     },
     {
@@ -6386,7 +6386,7 @@
         "damageBase":"--",
         "frequency":"Daily",
         "ac":"--",
-        "range":8,
+        "range":"8, 1 Target, Healing, Dance",
         "contestType":"Beauty - Safe Option"
     },
     {
@@ -6397,7 +6397,7 @@
         "damageBase":"",
         "frequency":"EOT",
         "ac":"",
-        "range":"Self",
+        "range":"Self, Dance",
         "contestType":"Cool - Get Ready"
     },
     {
@@ -6474,7 +6474,7 @@
         "damageBase":"--",
         "frequency":"EOT",
         "ac":"--",
-        "range":"Self",
+        "range":"Self, Dance",
         "contestType":"Cool - Get Ready!"
     },
     {
