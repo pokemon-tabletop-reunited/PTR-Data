@@ -334,5 +334,41 @@
     {
         "name": "Stealth",
         "effect": "Pokémon with the Stealth Capability are excellent at approaching the enemy for an up close assault. While Shifting, unless they purposely want to, Stealth Pokémon do not make any noise. Unless a Pokémon with Stealth has used a Ranged Move during the current round or the round previous, Ranged Moves may not target them if the line of sight drawn goes through Rough Terrain or if the Pokémon is on Rough Terrain."
-    }     
+    },
+    {
+        "name": "Confined",
+        "effect": "If this Pokémon’s Confined Form is exposed to its Prison Bottle and the bottle is uncorked, the dark spirit within the bottle will change it to its Unbound Forme for three full days. After that, the Prison Bottle cannot be activated again for three days. If the Prison Bottle is destroyed, this Pokémon becomes permanently Unbound until a new Prison Bottle is created and used to seal the dark power controlling this Pokémon.\\n While Unbound, this Pokémon is always Enraged and cannot be cured of this condition.\\n This Pokémon has a different set of Moves for each Forme. However, some of this Pokémon’s Moves in one Forme are linked to other moves in its other Forme, as listed in its statblock. If one of this Pokémon’s Formes learns one of the linked moves, the other Forme automatically learns the associated Move, replacing another Move if necessary. If one of the linked Moves is forgotten, the associated Move on the other Forme is also forgotten."
+    },
+    {
+        "name": "Dragon Fusion",
+        "effect": "Normal Forme Kyurem can merge with a willing Zekrom as an Extended Action to turn into Black Fusion Forme, or with a willing Reshiram to turn into White Fusion Forme. The respective Zekrom or Reshiram are absorbed and disappear while Fused. The user may unmerge as an Extended Action, and its partner then reappears. All XP earned while Fused is split evenly between Kyurem and its partner. This Pokémon has a different set of Moves for each Forme."
+    },
+    {
+        "name": "Linked Evolution",
+        "effect": "This Capability is always listed with one or more species of Pokémon in parenthesis, such as Linked Evolution (Shelmet). This Pokémon may treat members of the listed species as being a (non-consumable) Evolution Stone."
+    }, 
+    {
+        "name": "Multiform",
+        "effect": "This Pokémon may change into its different forms at-will as an Extended Action outside of battle. This Pokémon has a different set of Moves for each Forme."
+    },
+    {
+        "name": "Nectar Dancer",
+        "effect": "When an Oricorio hatches, it takes the form of its mother, or father if the other parent was a Ditto. Oricorio may change forms by consuming Nectar as an Extended Action. This determines Oricorio's primary type. The standard Nectars are as follows:\\n Red Nectar: Baile (Fire)\\n Yellow Nectar: Pom Pom (Electric)\\n Pink Nectar: Pa’u (Psychic)\\n Purple Nectar: Sensu (Ghost)"
+    },
+    {
+        "name": "Origin Folme",
+        "effect": "This Pokémon is in its Origin Forme when in the Reverse World, or when it holds part of Reverse World with it outside of the Reverse World. Otherwise, it changes into its Altered Forme."
+    },  
+    {
+        "name": "Shed Evolution",
+        "effect": "When Nincada evolves into Ninjask, a Shedinja is created that is treated as having evolved from the Nincada in every way, including (but not limited to) Nature, Moves, Abilities, and TP expenditures. If the Nincada had a loyalty higher than 1, it is not immediately hostile."
+    },
+    {
+        "name": "Sky Forme",
+        "effect": "This Pokémon can transform into its Sky Forme as a Full Action in sunlight when it has Gracidea, a rare type of flower, nearby. It will be forced to revert into its normal form if it is hit by an Ice Type Move, if it touches ice, or if the sun is no longer shining. This Pokémon may have a different set of Moves for each Forme."
+    },
+    {
+        "name": "Therian Forme",
+        "effect": "This Pokémon changes to its Therian Forme if holding a Reveal Glass, otherwise it uses its Incarnate Forme."
+    }       
 ]
