@@ -3319,7 +3319,7 @@
     },
     {
         "name":"Hobbyist",
-        "effect":"Effect: You gain three Skill Edges for which you qualify.\\nThese Skill Edges must Rank Up a Skill.",
+        "effect":"Effect: You gain three Skill Edges for which you qualify.\\nThese Skill Edges must Rank Up a Skill.\\nSpecial: Hobbyist Features count as 'General Features' for the puroses of any effect that would grant you a General Feature.",
         "prerequisites":"Novice General Education, Novice Perception",
         "frequency":"Static",
         "tags":"[Class]"
