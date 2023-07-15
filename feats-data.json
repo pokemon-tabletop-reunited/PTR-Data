@@ -4,7 +4,7 @@
     "effect": "You may Release a Pokémon as an Interrupt.",
     "prerequisites": "Juggler, Expert Acrobatics or Guile",
     "frequency": "2 AP - Shift Action",
-    "class": "",
+    "class": "Juggler",
     "tags": "[+Speed]"
   },
   {
@@ -60,7 +60,7 @@
     "effect": "Whenever your Pokémon with the Exploit or Tolerance Ability are targeted by [Orders], deal Super- Effective Damage, or take Super-Effective Damage, they gain +1 Momentum after all effects of the Move or Order are resolved.",
     "prerequisites": "Effective Methods",
     "frequency": "Static",
-    "class": "",
+    "class": "Duelist",
     "tags": "-"
   },
   {
@@ -116,7 +116,7 @@
     "effect": "Trigger: Your Mount with Rock Head makes a Damage Roll for a Dash or Pass Move\\nEffect: Your Pokémon adds their Speed Stat in addition to their normal attacking Stat to their Damage Roll. The target gains Damage Reduction against this attack equal to their own Speed Stat.",
     "prerequisites": "Conqueror's March, Expert Acrobatics or Athletics",
     "frequency": "Scene x2 - Free Action",
-    "class": "",
+    "class": "Rider",
     "tags": "[+Speed]"
   },
   {
@@ -308,7 +308,7 @@
     "effect": "While you are Mounted, you and your Mount each use the highest of each other’s Speed Evasion. If both you and your Mount have the same Speed Evasion, you instead each receive a +1 bonus to Speed Evasion. Whenever one of you receives Initiative, either of you may take your turn. When the next person would receive initiative, the person that did not take their turn then takes it.",
     "prerequisites": "Rider",
     "frequency": "Static",
-    "class": "",
+    "class": "Rider",
     "tags": "[+Speed]"
   },
   {
@@ -396,7 +396,7 @@
     "effect": "Target: Your Pokémon with at least 2 Tutor Points\\nEffect: You spend an hour with the target. The target loses 2 Tutor Points, and gains the Vigor Ability. Vim and Vigor may target a Pokémon only once",
     "prerequisites": "Shrug Off, Master Athletics or Focus",
     "frequency": "At-Will - Extended Action",
-    "class": "",
+    "class": "Enduring Soul",
     "tags": "-"
   },
   {
@@ -468,7 +468,7 @@
     "effect": "Trigger - Your Pokémon hits a foe suffering from a Status Affliction or one of the other conditions in the table on page 108 of the Core handbook\\nEffect: Choose a Status Affliction or condition the triggering target is suffering from; the target suffers an additional effect according to the table. Stacked Deck may only affect a foe once per Scene.",
     "prerequisites": "Trickster, Adept Guile",
     "frequency": "1 AP - Free Action",
-    "class": "",
+    "class": "Trickster",
     "tags": "-"
   },
   {
@@ -628,7 +628,7 @@
     "effect": "Your Hardened Pokemon gain the following benefits, based on your Intimidate Rank\\n»» Expert: When your Pokemon Faints, you may pay 1 AP. If you do, your Pokemon Faints at -30% Hit Points instead.\\n»» Master: While acting at 0 Hit Points or less, your Pokemon’s Critical Hit, Effect Range, Evasion, Initiative, Damage Reduction, and Resistance Bonuses from being Hardened are doubled.",
     "prerequisites": "Taskmaster, Expert Intimidate",
     "frequency": "Static",
-    "class": "",
+    "class": "Taskmaster",
     "tags": "-"
   },
   {
@@ -812,7 +812,7 @@
     "effect": "Trigger - You recall a Pokémon\\nEffect: The next Pokémon you send out is treated as if the recalled Pokémon had used Baton Pass on it.",
     "prerequisites": "Round Trip, Expert Acrobatics or Guile",
     "frequency": "1 AP - Free Action",
-    "class": "",
+    "class": "Juggler",
     "tags": "[+Speed]"
   },
   {
@@ -1004,7 +1004,7 @@
     "effect": "Trigger - You use Press\\nEffect: You may apply 1 or more of the following effects to the Pokémon hit by Press:\\n»» Give the target 1 Injury and a Tick of Temporary Hit Points.\\n»» Spend 1 AP and cure the target of Confusion, Infatuation, Rage, and Suppression.\\n»» Use an [Orders] with targets you have on the target as a Free Action.",
     "prerequisites": "Taskmaster, Press",
     "frequency": "At-Will - Swift Action",
-    "class": "",
+    "class": "Taskmaster",
     "tags": "-"
   },
   {
@@ -1324,7 +1324,7 @@
     "effect": "Your Pokémon may activate Sleight as an Interrupt to immediately take their turn and use a Status-Class Move as a Standard Action. If this Move targets a foe, it ignores Substitute and Defensive Abilities, and Blessings may not be activated against the Move.",
     "prerequisites": "4 Trickster Features, Master Guile",
     "frequency": "Scene x2 - Free Action",
-    "class": "",
+    "class": "Trickster",
     "tags": "-"
   },
   {
@@ -1388,7 +1388,7 @@
     "effect": "Once per day, each of your Pokémon may spend Shift Action to remove 1 Injury from themselves; this may also be activated as a Free Action whenever your Pokémon Take a Breather.",
     "prerequisites": "Staying Power",
     "frequency": "Static",
-    "class": "",
+    "class": "Enduring Soul",
     "tags": "-"
   },
   {
@@ -1484,7 +1484,7 @@
     "effect": "Trigger - You throw a Poké Ball\\nEffect: After hitting its mark or landing, your Poké Ball bounces 3 meters in any direction. You may have your Poké Ball trigger captures or releases before or after the bounce.",
     "prerequisites": "Juggler",
     "frequency": "At-Will - Free Action",
-    "class": "",
+    "class": "Juggler",
     "tags": "[+Speed]"
   },
   {
@@ -1604,7 +1604,7 @@
     "effect": "Trigger: Your Pokémon is the target of a foe’s damaging melee attack\\nEffect: The triggering attack automatically hits as if it was a Critical Hit. Before damage resolves, your Pokémon may use a 1-Target damaging attack on the foe making the triggering attack as an Interrupt, Frequency allowing, and also automatically hits as a Critical Hit. Damage for both attacks then resolve at the same time.\\nThis effect bypasses immunity to Critical Hits on your own Pokémon, but not on the target. Though both attacks hit automatically and are Critical Hits, you may still roll to activate effects.",
     "prerequisites": "5 Taskmaster Features, Master Intimidate",
     "frequency": "Scene - Free Action",
-    "class": "",
+    "class": "Taskmaster",
     "tags": "-"
   },
   {
@@ -1700,7 +1700,7 @@
     "effect": "Trigger - An adjacent foe hits your Mount with an attack\\nEffect: You may make a Struggle Attack against the triggering foe.",
     "prerequisites": "Ride as One, Expert Acrobatics or Athletics",
     "frequency": "1 AP - Free Action",
-    "class": "",
+    "class": "Rider",
     "tags": "[+Speed]"
   },
   {
@@ -1708,7 +1708,7 @@
     "effect": "Trigger - You release a Pokémon from its Poké Ball\\nEffect: If you have a Pokémon turn available this round or next, your Pokémon may use a Move as an Interrupt as soon as it is sent out. This consumes your Pokémon turn for the round (or the following round) as normal.",
     "prerequisites": "Tag In, Master Acrobatics or Guile",
     "frequency": "Scene - Free Action",
-    "class": "",
+    "class": "Juggler",
     "tags": "[+Speed]"
   },
   {
@@ -1916,7 +1916,7 @@
     "effect": "Whenever your Pokémon with Friend Guard targets an Ally with an Ability or Status Move, the targeted Ally becomes Cheered.",
     "prerequisites": "Cheers, Adept Charm",
     "frequency": "Static",
-    "class": "",
+    "class": "Cheerleader",
     "tags": "[-]"
   },
   {
@@ -2108,7 +2108,7 @@
     "effect": "Trigger - Your Pokémon or an Ally Trainer with over 1 Hit Point is reduced to 0 Hit Points or lower: \\nEffect: That Ally’s Hit Point count is reduced to 1 instead, and then gains Temporary Hit Points equal to your charm rank doubled.",
     "prerequisites": "5 Cheerleader Features, Master Charm",
     "frequency": "Daily x2 - Free Action",
-    "class": "",
+    "class": "Cheerleader",
     "tags": "-"
   },
   {
@@ -2268,7 +2268,7 @@
     "effect": "Trigger - Your Pokémon is Fainted, but is not at less than -100% Hit Points\\nEffect: Before fainting, the targeted Pokémon gains an Injury, and may then use a Move as an Interrupt. When the Move is resolved, the Pokémon then immediately faints. This consumes a Command as normal. This cannot be used with the Move Explosion, Flail, Pain Split, Reversal or Selfdestruct.",
     "prerequisites": "Enduring Soul, Expert Athletics or Focus",
     "frequency": "Scene - Free Action",
-    "class": "",
+    "class": "Enduring Soul",
     "tags": "-"
   },
   {
@@ -2356,7 +2356,7 @@
     "effect": "You may roll an additional Xd6 during the Introduction Stage of a Contest, where X is half of your Acrobatics Rank. You may choose any Contest Stat to attempt to gain Dice for with this roll.",
     "prerequisites": "Juggler",
     "frequency": "Static",
-    "class": "",
+    "class": "Juggler",
     "tags": "[+Speed]"
   },
   {
@@ -2460,7 +2460,7 @@
     "effect": "Target: Your Pokémon with Rock Head\\nEffect: This round, if being used as a Mount, the target may use Dash, Burst, Blast, Cone, or Line range Moves with a range of Pass instead of their usual range.",
     "prerequisites": "Ramming Speed, Adept Acrobatics or Athletics",
     "frequency": "At-Will - Standard Action",
-    "class": "",
+    "class": "Rider",
     "tags": "[Orders][+Speed]"
   },
   {
@@ -2828,7 +2828,7 @@
     "effect": "You may trigger Cheerleader as a Free Action when your Pokémon with Friend Guard activate an Ability or Status Move that affects only allies.",
     "prerequisites": "Cheers, Adept Charm",
     "frequency": "Static",
-    "class": "",
+    "class": "Cheerleader",
     "tags": "-"
   },
   {
@@ -2876,7 +2876,7 @@
     "effect": "Effects depend on whether your Pokémon has the Tolerance or Exploit ability.\\n»» Whenever your Pokémon with Tolerance takes Super-Effective damage from a Tagged foe, your Pokémon may lose 2 Momentum to Resist that attack one step.\\n»» Whenever your Pokémon with Exploit deals Resisted damage to a Tagged foe, your Pokémon may lose 2 Momentum to increase the effectiveness of the attack one step.",
     "prerequisites": "Effective Methods, Adept Focus",
     "frequency": "Scene x2 - Free Action",
-    "class": "",
+    "class": "Duelist",
     "tags": "-"
   },
   {
@@ -2924,7 +2924,7 @@
     "effect": "Target: Your Pokémon with at least 2 Tutor Points\\nEffect: The target loses 2 Tutor Points and gains the Rock Head Ability.",
     "prerequisites": "Rider",
     "frequency": "At-Will - Extended Action",
-    "class": "",
+    "class": "Rider",
     "tags": "[+Speed]"
   },
   {
@@ -3180,7 +3180,7 @@
     "effect": "Trigger - You and your Mount both take Damage from a Burst, Blast, Cone, or Line\\nEffect: Both you and your Mount Resist the attack one step further.",
     "prerequisites": "Ride as One",
     "frequency": "Scene x2 - Free Action",
-    "class": "",
+    "class": "Rider",
     "tags": "[+Speed]"
   },
   {
@@ -3324,7 +3324,7 @@
     "effect": "You gain two Trickster Techniques of your choice.\\nTrickster Techniques: Mind Games, Escape Artist, Shell Game, Impromptu Trick",
     "prerequisites": "Trickster",
     "frequency": "Static",
-    "class": "",
+    "class": "Trickster",
     "tags": "[Ranked 2]"
   },
   {
@@ -3364,7 +3364,7 @@
     "effect": "Your Hardened Pokémon may use Quick Healing to remove up to three injuries, and gains two Ticks of Hit Points for each Injury removed this way.",
     "prerequisites": "Taskmaster",
     "frequency": "At-Will - Extended Action",
-    "class": "",
+    "class": "Taskmaster",
     "tags": "-"
   },
   {
@@ -3452,7 +3452,7 @@
     "effect": "Trigger - Your Pokémon with 1 or more injuries takes Damage\\nEffect: Your Pokémon gains X Damage Reduction against the triggering attack, where X is its Tick Value multiplied by the number of Injuries it has. This may be triggered once per Scene per Pokémon.",
     "prerequisites": "Taskmaster, Adept Intimidate",
     "frequency": "1 AP - Free Action",
-    "class": "",
+    "class": "Taskmaster",
     "tags": "-"
   },
   {
@@ -3500,7 +3500,7 @@
     "effect": "Target: Your Pokémon with at least 2 Tutor Points\\nEffect: The target loses 2 Tutor Points, and gains the Cruelty Ability.",
     "prerequisites": "Taskmaster",
     "frequency": "At-Will - Extended Action",
-    "class": "",
+    "class": "Taskmaster",
     "tags": "-"
   },
   {
@@ -3564,7 +3564,7 @@
     "effect": "Target: Your Pokémon with at least 2 Tutor Points remaining\\nEffect: Your Pokémon loses 2 Tutor Points and gains your choice of the Exploit or Tolerance Ability. You may only target a Pokémon once with Effective Methods.",
     "prerequisites": "Duelist",
     "frequency": "At-Will - Extended Action",
-    "class": "",
+    "class": "Duelist",
     "tags": "-"
   },
   {
@@ -3580,7 +3580,7 @@
     "effect": "Target: Up to two Allied Trainers\\nEffect: Each target gains 1 Temporary Action Point.\\n These Action Points disappear after one full Round.",
     "prerequisites": "Cheerleader",
     "frequency": "At-Will – Standard Action",
-    "class": "",
+    "class": "Cheerleader",
     "tags": "[Orders]"
   },
   {
@@ -3716,7 +3716,7 @@
     "effect": "Trigger - Your Pokémon Takes a Breather\\nEffect: Your Pokémon may “Take a Breather” even if it is Confused or Enraged, and it does not Trip or have to Shift away from enemies as part of the action. You may choose whether or not your Pokémon resets their Combat Stages to default.",
     "prerequisites": "Enduring Soul",
     "frequency": "Scene - Free Action",
-    "class": "",
+    "class": "Enduring Soul",
     "tags": "-"
   },
   {
@@ -3804,7 +3804,7 @@
     "effect": "Trigger - Your Pokémon would gain Momentum while already at 6 Momentum\\nEffect: Your Pokémon loses 6 Momentum, and then gains +1 Momentum. Your Pokémon may immediately make an attack as an Interrupt, but this attack must target only a Tagged Foe. If the attack misses, it still deals damage as if it had the Smite keyword. If the attack hits, it’s automatically a Critical Hit. If it would have already been a Critical Hit, your Pokémon gains Hit Points equal to half of its maximum Hit Points. May be used only once per Scene per Pokémon .",
     "prerequisites": "Duelist, Master Focus",
     "frequency": "Scene x2 - Free Action",
-    "class": "",
+    "class": "Duelist",
     "tags": "-"
   },
   {
@@ -3868,7 +3868,7 @@
     "effect": "Your Pokémon add +2 to all Save Checks.",
     "prerequisites": "Enduring Soul, 3 Pokémon with a\\nDefensive Ability*",
     "frequency": "Static",
-    "class": "",
+    "class": "Enduring Soul",
     "tags": "-"
   },
   {
@@ -4092,7 +4092,7 @@
     "effect": "Trigger: You use [Orders]\\nEffect: The target or targets of the triggering [Orders] are Cheered for 1 full round. While Cheered, the target’s Combat Stages cannot be lowered by foe’s attacks, features, or abilities. This Feature costs 0 AP if the triggering effect affects only one ally, and costs 1 AP if it affects two or more.",
     "prerequisites": "Cheerleader",
     "frequency": "X AP – Swift Action",
-    "class": "",
+    "class": "Cheerleader",
     "tags": "[-]"
   },
   {
@@ -4100,7 +4100,7 @@
     "effect": "Trigger - Your Pokémon triggers Cruelty, or scores a Critical Hit with damaging attack.\\nEffect: Your Pokemon may apply the effects of Cruelty to the attack without expending Cruelty’s Frequency. Cruelty’s effects may be purchased as if the foe had additional injuries equal to the number of injuries on the user. Desperate Strike may be used once per Scene per Pokémon.",
     "prerequisites": "Savage Strike, Expert Intimidate",
     "frequency": "Scene x2 - Free Action",
-    "class": "",
+    "class": "Taskmaster",
     "tags": "-"
   },
   {
@@ -4196,7 +4196,7 @@
     "effect": "Trigger - Your Pokémon is hit by a Critical Hit or gains a Status Affliction (or both)\\nEffect: Your Pokémon does not gain a Status Affliction, and the triggering attack does damage as if it was not a Critical Hit. Resilience may only be used once per target per Scene.",
     "prerequisites": "Awareness, Expert Athletics or Focus",
     "frequency": "2 AP - Free Action",
-    "class": "",
+    "class": "Enduring Soul",
     "tags": "-"
   },
   {
@@ -4220,7 +4220,7 @@
     "effect": "Target: Your Pokémon under the effects of Focused Training\\nEffect: Apply one of the following effects. To choose an effect, your Pokémon must have a certain amount of Momentum. (Duelist’s Manual does not spend Momentum).\\n»» 1 Momentum: Your Pokémon doubles their bonuses from Tolerance or Exploit until the end of their next turn and may change their Tolerance Ability into Exploit, or vice versa, until the end of their next turn.\\n»» 2 Momentum: Your Pokémon’s next Pass, Cone, Close Blast, or Burst attack becomes a single target Melee attack, or their next Line or Ranged Blast attack becomes a single target Ranged attack. If this attack hits, the target becomes Vulnerable for one full round and has their Initiative set to 0 until the end of their next turn.\\n»» 3 Momentum: Your Pokémon may act while ignoring the Confused, Rage, Infatuation, and Suppressed Volatile Status on their next turn as long as they attempt to attack a Tagged foe. May only be used once per Scene per Pokémon.",
     "prerequisites": "Expend Momentum, Effective Methods, Expert Focus",
     "frequency": "2 AP - Standard Action",
-    "class": "",
+    "class": "Duelist",
     "tags": "[Orders]"
   },
   {
@@ -4308,7 +4308,7 @@
     "effect": "You gain two Trickster Techniques of your choice.\\nTrickster Techniques: Mind Games, Escape Artist, Shell Game, Impromptu Trick",
     "prerequisites": "Trickster",
     "frequency": "Static",
-    "class": "",
+    "class": "Trickster",
     "tags": "[Ranked 2]"
   },
   {
@@ -4444,7 +4444,7 @@
     "effect": "Target: Your Pokémon under the effects of Focused Training\\nEffect: Apply one of the following effects on the target by spending that much Momentum.\\n»» Spend 1 Momentum: Your Pokémon regains use of a EOT Frequency Move.\\n»» Spend 2 Momentum: Your Pokémon automatically rolls an 11 on one d20 Roll of your choice on their next turn.\\n»» Spend 3 Momentum: Your Pokémon regains a use of Scene Frequency Move. May be chosen only once per Scene per Pokémon.",
     "prerequisites": "Duelist",
     "frequency": "At-Will - Standard Action",
-    "class": "",
+    "class": "Duelist",
     "tags": "[Orders]"
   },
   {
@@ -4948,7 +4948,7 @@
     "effect": "Effect: You may trigger Bring It On! whenever\\n»» A Cheered Ally takes Damage, to grant them 5\\n Damage Reduction agains the triggering Damage.\\n»» A Cheered Ally makes a Save Check, to grant them\\n a +2 Bonus on that check.\\n»» A Cheered Ally Takes a Breather, to grant them\\n Temporary Hit Points equal to your Charm Rank.\\nA target may benefit from each “Bring It On!” effect\\n only once per Scene.",
     "prerequisites": "Cheers, Adept Charm",
     "frequency": "1 AP – Free Action",
-    "class": "",
+    "class": "Cheerleader",
     "tags": "[-]"
   },
   {
@@ -4972,7 +4972,7 @@
     "effect": "Trigger - Your Pokémon uses a Move\\nEffect: You may immediately switch your Pokémon that just performed a Move for another of your Pokémon. This effect lets Pokémon with the Trapped condition switch out.",
     "prerequisites": "Juggler, Adept Acrobatics or Guile",
     "frequency": "1 AP - Free Action",
-    "class": "",
+    "class": "Juggler",
     "tags": "[+Speed]"
   },
   {
@@ -5028,7 +5028,7 @@
     "effect": "Your Pokémon’s Status-Class Moves that affect foes ignore non-Stat Evasion. They may Critically Hit like damaging Moves on a roll of 20. Upon such a Critical Hit, choose one effect from the list below. This Critical Hit rate may be modified as normal.\\n»» If the Move inflicts a Status Affliction with a Save Check, all affected targets get a -4 penalty to their first Save Check.\\n»» If the Move lowers Combat Stages, then pick a Stat that the Move lowers and lower it by 1 additional Combat Stage.\\n»» Your Pokémon gains a Tick of Temporary Hit Points.",
     "prerequisites": "Trickster",
     "frequency": "Static",
-    "class": "",
+    "class": "Trickster",
     "tags": "-"
   },
   {
@@ -5108,7 +5108,7 @@
     "effect": "Trigger - Your Pokémon uses a Status-Class move that does not target foes.\\nEffect: Choose one of the following.\\n»» Your Pokémon gains +1 Combat Stage in any Stat in which they haven’t gained a Combat Stage this turn.\\n»» Your Pokémon gains a second Standard Action this round that must be used to make an At-Will action that does not trigger Encore Performance.\\n»» If your Pokémon is placing Hazards, they may place an additional two units.\\n»» If your Pokémon is activating a Weather Effect, it lasts an additional two turns.\\n»» If your Pokémon is activating a Blessing, it gains one additional use.",
     "prerequisites": "3 Trickster Features, Expert Guile",
     "frequency": "Daily x3 - Free Action",
-    "class": "",
+    "class": "Trickster",
     "tags": "-"
   },
   {
