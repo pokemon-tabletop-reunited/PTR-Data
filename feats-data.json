@@ -12,7 +12,7 @@
     "effect": "You gain the following Ability based on your Embrace.\\nArachnid’s Embrace: Tinted Lens\\nMonarch’s Embrace: Compound Eyes",
     "prerequisites": "Enhanced Embrace Rank 2, Expert Command or Survival",
     "frequency": "Static",
-    "class": "Bug Elementalist - Swarmlord",
+    "class": "Swarmlord",
     "tags": "-"
   },
   {
@@ -37,14 +37,14 @@
     "prerequisites": "You have slain a God and through occult ritual or technology have absorbed its essence.",
     "frequency": "Static",
     "class": "Usurper",
-    "tags": "[Patron Stat]"
+    "tags": "[Class][Patron Stat]"
   },
   {
     "name": "Let's Be Friends!",
     "effect": "Target: Your Pokémon:\\nThe target may attempt to improve the disposition of a Wild Pokémon as if making a Charm Check. They roll their Cute Dice from Poffins and add their number of Cute Dice from Stats as a modifier. For example, a Pokémon with 4d6 Cute from Poffins and 3d6 Cute from Speed rolls 4d6+3 in place of a Charm Check.",
     "prerequisites": "Cute Cuddle Rank 1",
     "frequency": "Scene – Free Action",
-    "class": "Cute Style Expert",
+    "class": "Style Expert (Cute)",
     "tags": "-"
   },
   {
@@ -52,7 +52,7 @@
     "effect": "Choose Starlight or Sunglow. You gain the Chosen Ability.",
     "prerequisites": "Blinding Brightness, Adept Charm or General Education",
     "frequency": "Static",
-    "class": "Normal Elementalist - Prism",
+    "class": "Prism",
     "tags": "[+Special Attack]"
   },
   {
@@ -68,7 +68,7 @@
     "effect": "Trigger - You apply Brutal Training as a Training action\\nEffect: You may grant your Pokémon up to three injuries. If your Pokémon has at least one Injury, it becomes Hardened.  See Extras - Class Mechanics for Hardened details.",
     "prerequisites": "Brutal Training, Novice Intimidate",
     "frequency": "At-Will - Free Action",
-    "class": "Taskmaster",
+    "class": "",
     "tags": "[Class]"
   },
   {
@@ -76,7 +76,7 @@
     "effect": "Trigger: You gain an Injury or take a Critical Hit while wearing metallic Armor\\nEffect: All foes within a Burst 1 lose Hit Points equal to double your Athletics or Focus Rank, and you gain Damage Reduction equal to double your Athletics or Focus Rank for one full round.",
     "prerequisites": "Steelheart, Adept Athletics or Focus",
     "frequency": "Scene x2 - Free Action",
-    "class": "Steel Elementalist - Steelheart",
+    "class": "Steelheart",
     "tags": "[+Defense]"
   },
   {
@@ -92,7 +92,7 @@
     "effect": "Trigger - You use a damaging single target Water-Type Move\\nEffect: Hydro Jet’s effect depends on if the triggering Move was Melee or Ranged.\\n\\n»» If Melee, the Move gains the Pass keyword and you may change direction during the four meters of Pass (but may still only target any given Pokémon or Trainer once).\\n»» If Ranged, the Move becomes a Line 4 instead of its usual range.",
     "prerequisites": "Call the Current Rank 1",
     "frequency": "1 AP - Free Action",
-    "class": "Water Elementalist - Mealstrom",
+    "class": "Mealstrom",
     "tags": "[+Speed]"
   },
   {
@@ -100,7 +100,7 @@
     "effect": "Trigger - Your Rock-Type Pokémon misses all targets with a Rock-Type attack, receives an Injury, suffers a Critical Hit, or Faints.\\nEffect: Create a Stealth Rock Hazard adjacent to your Pokémon.",
     "prerequisites": "Type Ace, Rock as Chosen Type",
     "frequency": "At-Will - Free Action",
-    "class": "Rock Type Ace",
+    "class": "Type Ace (Rock)",
     "tags": "-"
   },
   {
@@ -108,7 +108,7 @@
     "effect": "You learn the Moves Dazzling Gleam and Draining Kiss.",
     "prerequisites": "Glamour Weaver, Expert Charm or Occult Education",
     "frequency": "Static",
-    "class": "Fairy Elementalist - Glamour Weaver",
+    "class": "Glamour Weaver",
     "tags": "[+Special Attack]"
   },
   {
@@ -132,7 +132,7 @@
     "effect": "Your Psychic-Type Pokémon may activate Psychic Sponge as a Shift Action to add a Psychic Type Move known by an ally within X meters to their Move List until the end of their turn. This does not allow them to have duplicate Moves in their Move List. This Feature may only be used once per Pokémon per Scene, and X is equal to your Type-Linked Skill Rank.",
     "prerequisites": "Type Ace, Psychic as Chosen Type",
     "frequency": "At-Will - Special",
-    "class": "Psychic Type Ace",
+    "class": "Type Ace (Psychic)",
     "tags": "-"
   },
   {
@@ -172,7 +172,7 @@
     "effect": "Target: Your Normal-Type Pokémon with Last Chance or Normal Strategist\\nEffect: Your Pokémon gains the Last Chance or Normal Strategist Ability, whichever one they do not already have. Extra Ordinary can target a Pokémon only once.",
     "prerequisites": "Type Ace, Normal as Chosen Type",
     "frequency": "At-Will - Extended Action",
-    "class": "Normal Type Ace",
+    "class": "Type Ace (Normal)",
     "tags": "-"
   },
   {
@@ -180,7 +180,7 @@
     "effect": "Target: Your Pokémon\\nEffect: While this Feature is bound, the target gains a Curse Token each time they use a Ghost-Type Move or Ghost Step. Ghost-Type Moves with a Set-Up and Resolution Phase give a Curse Token for each Phase. As a Standard Action during their turn, or as Free Action upon Fainting, the target may spend their Curse Tokens to apply conditions to a foe within 6 meters.\\n»» 1 Curse Token: The target loses a Combat Stage of your choice.\\n»» 2 Curse Tokens: The target becomes Cursed.\\n»» 3 Curse Tokens: The target becomes Suppressed.\\n»» 4 Curse Tokens: The target falls Asleep and gains Bad Sleep.",
     "prerequisites": "Ghost Step, Type-Linked Skill at Adept",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Ghost Type Ace",
+    "class": "Type Ace (Ghost)",
     "tags": "[Orders][Stratagem]"
   },
   {
@@ -204,7 +204,7 @@
     "effect": "Trigger - Your Pokémon misses all targets with a Dark-Type attack on their turn\\nEffect: Your Pokémon may apply two of the effects below after the triggering attack is resolved. Your Pokémon may also take a Standard Action to trigger this Feature. This Feature may be triggered only once per round.\\n»» They gain +4 Evasion for one full round.\\n»» Their attacks ignore Evasion from Stats until the end of their next turn.\\n»» They may immediately Disengage as a Free Action.",
     "prerequisites": "Type Ace, Dark as Chosen Type",
     "frequency": "At-Will - Free Action",
-    "class": "Dark Type Ace",
+    "class": "Type Ace (Dark)",
     "tags": "-"
   },
   {
@@ -212,7 +212,7 @@
     "effect": "Trigger - Your Pokémon’s Damaging Electric Attack would inflict Paralysis on an already Paralyzed foe\\nEffect: For 1 full round, that foe is instead Stuck and may only use At-Will Frequency Moves.",
     "prerequisites": "Type Ace, Electric as Chosen Type",
     "frequency": "At-Will - Free Action",
-    "class": "Electric Type Ace",
+    "class": "Type Ace (Electric)",
     "tags": "-"
   },
   {
@@ -252,7 +252,7 @@
     "effect": "You gain two Capture Techniques of your choice. You must meet any prerequisites of the Technique.\\nCapture Techniques: Capture Skills, Curve Ball, Devitalizing Throw, Fast Pitch, Snare, Tools of the Trade, Catch Combo, False Strike, Relentless Pursuit",
     "prerequisites": "Acrobatics, Athletics, Stealth, or Survival at Novice; Guile, or Perception at Novice",
     "frequency": "Static",
-    "class": "Capture Specialist",
+    "class": "",
     "tags": "[Class][+Speed]"
   },
   {
@@ -260,7 +260,7 @@
     "effect": "Your Pokémon with the following Capabilities have the upgrades below applied to them.\\n»» Threaded: Your Pokémon may use its Threaded attack to perform Combat Maneuvers, including Grapple and Push.\\n»» Wallclimber: Your Pokémon becomes Immune to Push and Trip effects.\\n»» Naturewalk: Your Pokémon cannot be Slowed or Stuck in its appropriate Terrains.\\n»» Sky: Your Pokémon has a +1 bonus to its Speed Evasion.",
     "prerequisites": "Type Ace, Bug as Chosen Type",
     "frequency": "Static",
-    "class": "Bug Elementalist - Swarmlord",
+    "class": "Type Ace (Bug)",
     "tags": "-"
   },
   {
@@ -268,7 +268,7 @@
     "effect": "Your Fairy-Type Pokémon may activate Fairy Rite as a Standard Action to lose any number of Hit Points, up to a maximum equal to your Pokémon’s Level, and heal an adjacent Ally by that many Hit Points. Then, if your Fairy-Type Pokémon has any Fairy Lights, they may immediately expend any Fairy Lights to gain a Tick of Hit Points, or cause an ally within 6 meters to gain a Tick of Hit Points.",
     "prerequisites": "Fairy Lights, Type-Linked Skill at Master",
     "frequency": "Daily x3 - Special",
-    "class": "Fairy Type Ace",
+    "class": "Type Ace (Fairy)",
     "tags": "-"
   },
   {
@@ -276,7 +276,7 @@
     "effect": "Target: You or your Pokémon with Augmentations\\nEffect: Choose an Augmentation the target has and apply the upgrade below. Experimental Designs may affect a target twice.\\n»» Enhanced Sight: The user gains the X-Ray Vision Capability.\\n»» Smart Vision: The user learns the Move Feint without taking a Move Slot.\\n»» Synthetic Muscle: The user recovers from Injuries twice as fast and heals one more Injury per day.\\n»» Embedded Weaponry: The weapon is Fine and gains Deadly Strike as a Master Move.\\n»» Wired Reflexes: The user gains one more Reflex Point per Scene and may also spend Reflex Points to gain +2 Critical Hit Range for one full round.\\n»» Medical Nanobots: Once a Scene, the user may cure themselves of all Persistent Status Afflictions as a Standard Action.\\n»» Dermal Plating: The user may also activate Dermal Plating to resist Special Damage.\\n»» Thermal-Optic Camo: While active, the user is invisible to Aura Reading and Thought Detection.\\nRecipe - Dermal Augments",
     "prerequisites": "Upgrader, Master Technology Education",
     "frequency": "At-Will - Extended Action",
-    "class": "Upgrader",
+    "class": "Researcher (Upgrader)",
     "tags": "[Upgrader Research Field]"
   },
   {
@@ -292,7 +292,7 @@
     "effect": "Each Rank, choose one of Sturdy, Rock Head, or Sand Veil. You gain the chosen Ability. If you choose Sand Veil, you may consider sand a “solid surface” for the purposes of Stone Stance.",
     "prerequisites": "Expert Combat or Survival",
     "frequency": "Static",
-    "class": "Rock Elementalist - Stone Warrior",
+    "class": "Stone Warrior",
     "tags": "[Ranked 2][+Defense]"
   },
   {
@@ -316,7 +316,7 @@
     "effect": "Your Pokémon with at least 3d6 in their Smart Stat from Poffins may activate Smart Scheme as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves.\\nRank 1: Fake Tears, Calm Mind",
     "prerequisites": "Style Expert, Smart as Chosen Stat, Novice Guile",
     "frequency": "1 AP – Special",
-    "class": "Smart Style Expert",
+    "class": "Style Expert (Smart)",
     "tags": "[Ranked 2]"
   },
   {
@@ -332,7 +332,7 @@
     "effect": "You learn the Moves Flash and Swift.",
     "prerequisites": "Elemental Connection (Normal), Novice General Education, Novice Charm",
     "frequency": "Static",
-    "class": "Normal Elementalist - Prism",
+    "class": "Prism",
     "tags": "[Class][+Special Attack]"
   },
   {
@@ -388,7 +388,7 @@
     "effect": "You learn the Moves Meteor Mash and King’s Shield. You may use these Moves as Weapon Attacks when wielding Melee Weapons.",
     "prerequisites": "Steelheart, Master Athletics or Focus",
     "frequency": "Static",
-    "class": "Steel Elementalist - Steelheart",
+    "class": "Steelheart",
     "tags": "[+Defense][Weapon]"
   },
   {
@@ -412,7 +412,7 @@
     "effect": "You may craft any Fashionista Recipe for which you qualify. \\nSpecial - When you take Fashionista, choose two of Charm, Command, Guile, Intimidate, or Intuition to become your Fashionista Skills. The Skills you choose must be at Novice Rank or higher.\\nRecipes - Contest Trends, Adorable Fashion(Charm), Elegant Fashion(Intuition), Rad Fashion(Command), Rough Fashion(Intimidate), Slick Fashion(Guile)",
     "prerequisites": "Two of Charm, Command, Guile, Intuition, or Intimidate at Novice",
     "frequency": "At-Will - Extended Action",
-    "class": "Fashonista",
+    "class": "",
     "tags": "[Class]"
   },
   {
@@ -420,7 +420,7 @@
     "effect": "Pick two of Earthquake, Earth Power, or Sand Tomb. You learn the chosen Moves",
     "prerequisites": "Ground Out, Master Focus or Intuition",
     "frequency": "Static",
-    "class": "Ground Elementalist - Earth Shaker",
+    "class": "Earth Shaker",
     "tags": "[+Defense]"
   },
   {
@@ -436,7 +436,7 @@
     "effect": "Trigger - Your Pokémon hits with a damaging Rock-Type Move\\nEffect: All targets hit by the triggering Move are pushed a number of meters equal to half your Type-Linked Skill Rank or less, and they become Vulnerable for one full round. Create a Stealth Rock Hazard adjacent to each foe hit this way.",
     "prerequisites": "Gravel Before Me, Type-Linked Skill at Adept",
     "frequency": "Scene x2 - Free Action",
-    "class": "Rock Type Ace",
+    "class": "Type Ace (Rock)",
     "tags": "-"
   },
   {
@@ -452,7 +452,7 @@
     "effect": "You learn the Moves Hyper Beam and Morning Sun.",
     "prerequisites": "Sparkle, Master Charm or General Education",
     "frequency": "Static",
-    "class": "Normal Elementalist - Prism",
+    "class": "Prism",
     "tags": "[+Special Attack]"
   },
   {
@@ -460,7 +460,7 @@
     "effect": "You gain the Levitate Ability. You have a total Levitate Speed equal to 4 plus half of the higher of your Acrobatics or Perception Rank.",
     "prerequisites": "Elemental Connection (Flying), Novice Acrobatics, Novice Perception",
     "frequency": "Static",
-    "class": "Flying Elementalist - Wind Runner",
+    "class": "Wind Runner",
     "tags": "[Class][+Speed]"
   },
   {
@@ -508,7 +508,7 @@
     "effect": "Target: Your Pokémon with a Grass-Type Status Move\\nEffect: Pick a Grass-Type Status-Class Move known by the target. The chosen Move no longer takes up a Move Slot. A Pokémon may have only one Move bypass the Move Limit at a time; if a new Move is chosen for a Pokémon, the previous Move loses this effect.",
     "prerequisites": "Type Ace, Grass as Chosen Type",
     "frequency": "At-Will - Extended Action",
-    "class": "Grass Type Ace",
+    "class": "Type Ace (Grass)",
     "tags": "-"
   },
   {
@@ -516,7 +516,7 @@
     "effect": "Target: Your Pokémon\\nEffect: While this Stratagem is bound, your Pokémon may activate Moves and Abilities as if they were in Hail.",
     "prerequisites": "Glacial Ice, Type-Linked Skill at Adept",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Ice Type Ace",
+    "class": "Type Ace (Ice)",
     "tags": "[Orders][Stratagem]"
   },
   {
@@ -532,7 +532,7 @@
     "effect": "Target: Your Pokémon\\nEffect: While this Stratagem is bound, your Pokémon may activate Moves and Abilities as if they were in Rainy Weather.",
     "prerequisites": "Flood!, Type-Linked Skill at Adept",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Water Type Ace",
+    "class": "Type Ace (Water)",
     "tags": "[Orders][Stratagem]"
   },
   {
@@ -556,7 +556,7 @@
     "effect": "You and your Pokémon gain a +2 boost to their maximum Augmentation Capacity and count their used Capacity as 2 lower for the purposes of Augmentation Shock. You and your Pokémon can install multiple Augmentations in the same Slot.\\nRecipe - Body Augments",
     "prerequisites": "Upgrader, Expert Technology Education",
     "frequency": "Static",
-    "class": "Upgrader",
+    "class": "Researcher (Upgrader)",
     "tags": "[Upgrader Research Field]"
   },
   {
@@ -580,7 +580,7 @@
     "effect": "Your Pokémon's Dragon-Type Attacks ignore Evasion against targets that have no other comnbatants besides yourself within 2 meters, and on 18+ cause the target to become Slowed for 1 full round.",
     "prerequisites": "Tyrant's Roar, Type-Linked Skill at Adept",
     "frequency": "Static",
-    "class": "Dragon Type Ace",
+    "class": "Type Ace (Draogn)",
     "tags": "[-]"
   },
   {
@@ -596,7 +596,7 @@
     "effect": "You learn the Moves Shadow Punch and Shadow Sneak. You may use these as Weapon Attacks when wielding Melee Weapons.",
     "prerequisites": "Apparition",
     "frequency": "Static",
-    "class": "Ghost Elementalist - Apparition",
+    "class": "Apparition",
     "tags": "[+Attack][Weapon]"
   },
   {
@@ -604,7 +604,7 @@
     "effect": "You gain the Overcoat Ability.",
     "prerequisites": "Novice Survival",
     "frequency": "Static",
-    "class": "Climatology",
+    "class": "Researcher (Climatology)",
     "tags": "[Climatology Research Field][Branch]"
   },
   {
@@ -612,7 +612,7 @@
     "effect": "Your Ground-Type Pokémon may activate Earthroil as a Shift Action to use a damaging Ground-Type Move as it had a range of Line 4 or Burst 1 instead of its usual range, and as if it had the Groundsource keyword. 1-Target Moves performed this way take a -5 penalty to their Damage Rolls.",
     "prerequisites": "Mold the Earth, Type-Linked Skill at Expert",
     "frequency": "At-Will - Free Action",
-    "class": "Ground Type Ace",
+    "class": "Type Ace (Ground)",
     "tags": "-"
   },
   {
@@ -636,7 +636,7 @@
     "effect": "Trigger - You’re hit by a Psychic-, Ghost-, or Dark-Type Move\\nEffect: If the triggering Move was a Status-Class Move, the Move fails. If the Triggering Move was a Damaging Move with a Secondary Effect that triggers on a certain roll, you are immune to the secondary effect.",
     "prerequisites": "Mental Resistance, Expert Occult Education",
     "frequency": "Scene - Free Action",
-    "class": "Occultism",
+    "class": "Researcher (Occultism)",
     "tags": "[Occultism Research Field][Branch]"
   },
   {
@@ -644,7 +644,7 @@
     "effect": "You gain the Threaded and Wallclimber Capabilities.",
     "prerequisites": "Swarmlord",
     "frequency": "Static",
-    "class": "Bug Elementalist - Swarmlord",
+    "class": "Swarmlord",
     "tags": "[Embrace Stat]"
   },
   {
@@ -652,7 +652,7 @@
     "effect": "You learn 2 Moves chosen from the list below, marked with the Rank of this Feature you are gaining or lower.\\nRank 3 Moves: Aqua Tail, Rain Dance, Surf",
     "prerequisites": "Expert Athletics or Acrobatics",
     "frequency": "Static",
-    "class": "",
+    "class": "Mealstrom",
     "tags": "[Ranked 3][+Speed]"
   },
   {
@@ -668,7 +668,7 @@
     "effect": "Your Pokémon’s damaging Fire-Type Moves Burn their target on a roll of 18+. If a Move already has a chance to Burn a target, this Effect Range is instead increased by +3. Additionally, your Pokémon’s damaging Fire-Type Moves deal additional damage equal to your Type-Linked Skill Rank against Burned targets.",
     "prerequisites": "Type Ace, Fire as Chosen Type",
     "frequency": "Static",
-    "class": "Fire Type Ace",
+    "class": "Type Ace (Fire)",
     "tags": "-"
   },
   {
@@ -676,7 +676,7 @@
     "effect": "Target: The remains of a Fossil you revived\\nEffect: You also produce a Held Item from the remnants of the Fossil. The effect of this Held Item is based on the highest Base Stat of the individual Pokémon being Revived, counting the effects of Nature but no other effects that alter Base Stats. If there is a tie, the GM decides which Base Stat is used. This Held Item may only be used by Pokémon revived from Fossils.\\nHP - Relic Crown: The holder gains a +2 Bonus to all Save Checks.\\nAttack - Primal Frame: The holder’s damaging attacks have their Critical Hit Range extended by +1.\\nDefense - Prehistoric Razors: When a foe hits the holder with a damaging Melee Attack, the holder may cause them to lose a Tick of Hit Points as a Reaction.\\nSpecial Attack - Primal Cloak: The holder’s damaging attacks have their Effect Range extended by +1.\\nSpecial Defense - Prehistoric Aegis: The holder gains 5 Damage Reduction against Ranged Attacks.\\nSpeed - Relic Sash: The holder gains +2 Evasion against Status Moves.",
     "prerequisites": "Fossil Restoration, Expert Pokemon Education",
     "frequency": "At-Will - Extended Action",
-    "class": "Paleontology",
+    "class": "Researcher (Paleontology)",
     "tags": "[Paleontology Research Field][Branch]"
   },
   {
@@ -684,7 +684,7 @@
     "effect": "You gain the Twisted Power Ability.",
     "prerequisites": "Shade Caller",
     "frequency": "Static",
-    "class": "Dark Elementalist - Shade Caller",
+    "class": "Shade Caller",
     "tags": "[+Attack or Special Attack]"
   },
   {
@@ -700,7 +700,7 @@
     "effect": "Your Pokémon with at least 3d6 in their Cute Stat from Poffins may activate Cute Cuddle as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves.\\nRank 2: Teeter Dance, Attract",
     "prerequisites": "Expert Charm",
     "frequency": "1 AP – Special",
-    "class": "Cute Style Expert",
+    "class": "Style Expert (Cute)",
     "tags": "[Ranked 2]"
   },
   {
@@ -732,7 +732,7 @@
     "effect": "Target: Your Dark-Type Pokémon\\nEffect: While this Feature is bound, when attacking foes that are Fainted, Flanked, Flinched, Sleeping, Stuck, Tripped, unaware of your Pokémon’s presence, or otherwise do not expect an attack, the target gains a +2 bonus to Accuracy Rolls and a bonus to Damage Rolls equal to your Type-Linked Skill Rank.",
     "prerequisites": "Clever Ruse, Type-Linked Skill at Adept",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Dark Type Ace",
+    "class": "Type Ace (Dark)",
     "tags": "[Orders][Stratagem]"
   },
   {
@@ -740,7 +740,7 @@
     "effect": "Trigger - You or your Pokémon miss with an attack, fail a Skill Check, or fail a Save Check\\nEffect: Add half of your General Education Rank to the next roll of the same type that the triggering user makes.",
     "prerequisites": "Adept General Education",
     "frequency": "Daily x3 - Free Action",
-    "class": "General Researcher",
+    "class": "Researcher (General)",
     "tags": "[General Research Field][Branch]"
   },
   {
@@ -748,7 +748,7 @@
     "effect": "Your Fire-Type Moves Burn Targets on a roll of 19+. If a move already has a chance of Burning foes, Firebrand increases the effect range by +2.",
     "prerequisites": "Fire Bringer, Adept Focus or Combat",
     "frequency": "Static",
-    "class": "Fire Elementalist - Fire Bringer",
+    "class": "Fire Bringer",
     "tags": "[+Special Attack or Attack]"
   },
   {
@@ -756,7 +756,7 @@
     "effect": "Learn two Fire Breather Moves from the list below. You may choose any Move marked with the Fire Breather Rank you are taking or lower.\\nRank 2 Moves: Blaze Kick, Fiery Dance, Flare Blitz, Heat Wave",
     "prerequisites": "Master Focus or Combat",
     "frequency": "Static",
-    "class": "Fire Elementalist - Fire Bringer",
+    "class": "Fire Bringer",
     "tags": "[Ranked 2][+Special Attack or Attack]"
   },
   {
@@ -764,7 +764,7 @@
     "effect": "Choose one of the following abilities: Guts [+HP], Inner Focus [+Speed], Iron Fist [+Defense], Limber [+Speed], Reckless [+Attack], Technician [+Speed]. You gain the chosen Ability and its associated tag. Whenever you gain any Martial Artist Feature, you also gain the associated tag.",
     "prerequisites": "Basic Martial Arts, Novice Combat",
     "frequency": "Static",
-    "class": "Martial Artist",
+    "class": "",
     "tags": "[Class]"
   },
   {
@@ -796,7 +796,7 @@
     "effect": "You learn Faint Attack and Snarl.",
     "prerequisites": "Elemental Connection (Dark), Novice Guile, Novice Stealth",
     "frequency": "Static",
-    "class": "Dark Elementalist - Shade Caller",
+    "class": "Shade Caller",
     "tags": "[Class][+Attack or Special Attack]"
   },
   {
@@ -836,7 +836,7 @@
     "effect": "Trigger - Your Pokémon uses a 1-Target Fire-Type Move\\nEffect: Instead of its usual range, the attack may be performed as if it had a range of Burst 1 if melee, or Cone 2 if ranged.",
     "prerequisites": "Brightest Flame, Type-Linked Skill at Master",
     "frequency": "Scene x2 - Free Action",
-    "class": "Fire Type Ace",
+    "class": "Type Ace (Fire)",
     "tags": "-"
   },
   {
@@ -844,7 +844,7 @@
     "effect": "Choose two of Flame Burst, Flame Wheel, Flame Charge, or Will-O-Wisp. You learn the chosen Moves",
     "prerequisites": "Elemental Connection (Fire), Novice Combat",
     "frequency": "Static",
-    "class": "Fire Elementalist - Fire Bringer",
+    "class": "Fire Bringer",
     "tags": "[Class][+Special Attack or Attack]"
   },
   {
@@ -868,7 +868,7 @@
     "effect": "Trigger - You or your Pokémon suffer Augmentation Shock\\nEffect: The triggering user does not suffer Augmentation Shock and their Augmentations are not disabled. This Feature may affect a target only once per Scene.\\nRecipe - Limb Augments",
     "prerequisites": "Upgrader, Adept Technology Education",
     "frequency": "1 AP - Free Action",
-    "class": "Upgrader",
+    "class": "Researcher (Upgrader)",
     "tags": "[Upgrader Research Field]"
   },
   {
@@ -876,15 +876,15 @@
     "effect": "Choose a Rank 1 Blessing. You gain this Blessing in the form of a Sign. Signs store the energy of the Divine, and may be activated as a Swift Action. Signs can be used once per Scene, and cost 1 AP to activate.\\nRank 1 Blessings: Ancient Wisdom, Blessed Strike, Paragon, Spirit Mending",
     "prerequisites": "Touched, GM Permission",
     "frequency": "Static",
-    "class": "Signer",
-    "tags": "[Patron Stat]"
+    "class": "",
+    "tags": "[Blessed][Patron Stat]"
   },
   {
     "name": "Polished Shine",
     "effect": "The Effect Range of your Pokémon’s Steel-Type Moves is increased by +2.",
     "prerequisites": "Type Ace, Steel as Chosen Type",
     "frequency": "Static",
-    "class": "Steel Type Ace",
+    "class": "Type Ace (Steel)",
     "tags": "-"
   },
   {
@@ -900,7 +900,7 @@
     "effect": "You may craft any Poké Ball Case Recipe for which you qualify.\\nRecipe - Basic Cases",
     "prerequisites": "Basic Balls",
     "frequency": "At-Will - Extended Action",
-    "class": "Jailbreaker",
+    "class": "",
     "tags": "[Jailbreaker Research Field]"
   },
   {
@@ -924,7 +924,7 @@
     "effect": "You gain the Mindlock Capability and 10 Damage Reduction against Special Psychic, Ghost, and Dark-Type damage.",
     "prerequisites": "Witch Hunter",
     "frequency": "Static",
-    "class": "Occultism",
+    "class": "Researcher (Occultism)",
     "tags": "[Occultism Research Field][Branch]"
   },
   {
@@ -948,7 +948,7 @@
     "effect": "After an hour of exercise, an Athlete may choose two different Stats besides HP; both of those stats become Trained Stats. The default State of Trained Stats is +1 Combat Stages instead of 0. An Athlete may have two Trained Stats at a time.",
     "prerequisites": "Novice Athletics, One of Athletic Initiative, Mounted Prowess, Power Boost, Stamina, or Swimmer",
     "frequency": "At-Will – Extended Action",
-    "class": "Athlete",
+    "class": "",
     "tags": "[Class][+HP]"
   },
   {
@@ -956,7 +956,7 @@
     "effect": "Your Water-Type Pokemon may activate Flood! as a Shift Action to use a damaging Water-Type Move as if had a range of Line 4 or Close Blast 2 instead of its usual range.",
     "prerequisites": "Type Ace, Water as Chosen Type",
     "frequency": "At-Will - Free Action",
-    "class": "Water Type Ace",
+    "class": "Type Ace (Water)",
     "tags": "-"
   },
   {
@@ -964,7 +964,7 @@
     "effect": "Your Pokémon with at least 3d6 in their Tough Stat from Poffins may activate Tough Tumble as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves.\\nRank 1: Scary Face, Spite",
     "prerequisites": "Style Expert, Tough as Chosen Stat, Novice Intimidate",
     "frequency": "1 AP - Special",
-    "class": "Tough Style Expert",
+    "class": "Style Expert (Tough)",
     "tags": "[Ranked 2]"
   },
   {
@@ -972,7 +972,7 @@
     "effect": "You perform a magical transformation on yourself. While this Feature is Bound, you gain +5 Damage Resistance against Dragon, Fighting, Dark, and Bug-Typed attacks and your Glamour Weaver Moves have the additional effects below.\\n\\n»» Sweet Kiss: Sweet Kiss ignores Speed Evasion.\\n»» Disarming Voice: You may also choose to use Disarming Voice as a Line 4 or Cone 2.\\n»» Dazzling Gleam: On Even-Numbered rolls, targets hit by Dazzling Gleam have their Accuracy Lowered by 1.\\n»» Draining Kiss: You gain an additional Tick of Hit Points when gaining Hit Points from Draining Kiss.\\n»» Moonblast: Whenever Moonblast misses a target, they lose a Tick of Hit Points.\\n»» Aromatic Mist: All allies affected by Aromatic Mist gain a +2 bonus to their next Save Check.",
     "prerequisites": "Glamour Weaver",
     "frequency": "Bind 2 AP - Shift Action",
-    "class": "Fairy Elementalist - Glamour Weaver",
+    "class": "Glamour Weaver",
     "tags": "[+Special Attack]"
   },
   {
@@ -980,7 +980,7 @@
     "effect": "You may learn two Moves from the list below.\\nRank 1 Moves: Aerial Ace, Air Cutter, Gust, Tailwind",
     "prerequisites": "Wind Runner",
     "frequency": "Static",
-    "class": "Flying Elementalist - Wind Runner",
+    "class": "Wind Runner",
     "tags": "[Ranked 3][+Speed]"
   },
   {
@@ -996,8 +996,8 @@
     "effect": "You gain one of the Domains and its corresponding Legendary Aura associated with your Legendary Form. This Feature may be taken multiple times, but with the second time at Pokemon Form Level 60, and the third at Pokemon Form level 75.",
     "prerequisites": "Shared Strengths Rank 2, Pokemon Form Level 40",
     "frequency": "Static",
-    "class": "Usurper",
-    "tags": "[Patron Stat]"
+    "class": "",
+    "tags": "[Blssed[[Patron Stat]"
   },
   {
     "name": "Strike of the Whip",
@@ -1036,7 +1036,7 @@
     "effect": "You may learn two Moves from the list below, marked with the Raging Winds Rank you are gaining or lower.\\nRank 3 Moves: Brave Bird, Hurricane, Mirror Move, Sky Attack",
     "prerequisites": "Master Acrobatics or Perception",
     "frequency": "Static",
-    "class": "Flying Elementalist - Wind Runner",
+    "class": "Wind Runner",
     "tags": "[Ranked 3][+Speed]"
   },
   {
@@ -1044,7 +1044,7 @@
     "effect": "You gain X Study Points, where X is equal to 2 plus one more for every other General Research Feature you have. You may Drain Study Points to benefit from studying Books, instead of Draining your Action Points. Study Points are restored to your maximum after an Extended Rest, just like Action Points.",
     "prerequisites": "Breadth of Knowledge",
     "frequency": "Static",
-    "class": "General Researcher",
+    "class": "Researcher (General)",
     "tags": "[General Research Field][Branch]"
   },
   {
@@ -1052,7 +1052,7 @@
     "effect": "Trigger - Your Pokémon uses a Psychic-Type Status Move with a range of Blessing, Field, Hazard, or Self.\\nEffect: Your Pokémon may immediately use another Psychic-Type Status Move from its Move List with a range of Blessing, Field, Hazard, or Self.",
     "prerequisites": "Psionic Sponge, Type-Linked Skill at Master",
     "frequency": "Daily x3 - Free Action",
-    "class": "Psychic Type Ace",
+    "class": "Type Ace (Psychic)",
     "tags": "-"
   },
   {
@@ -1100,7 +1100,7 @@
     "effect": "You gain the Gilled Capability, and a +2 bonus to your Swim speed. Whenever your Water-Type Moves miss all targets, you gain a Tick of Temporary Hit Points.",
     "prerequisites": "Elemental Connection (Water), Novice Athletics, Novice Acrobatics",
     "frequency": "Static",
-    "class": "Water Elementalist - Mealstrom",
+    "class": "Mealstrom",
     "tags": "[Class][+Speed]"
   },
   {
@@ -1132,7 +1132,7 @@
     "effect": "Trigger - Your Grass-Type Pokémon is hit by a damaging Bug, Fire, Flying, Ice, or Poison attack that deals Super-Effective Damage\\nEffect: Your Pokémon gains Temporary Hit Points equal to twice your Type-Linked Skill Rank, and gains +1 Combat Stage in the Stat of your choice. If it is Sunny, they may gain +1 Combat Stage in a second, different Stat. You may activate Enduring Bloom only once per Scene per Pokémon.",
     "prerequisites": "Foiling Foliage, Type-Linked Skill at Expert",
     "frequency": "Scene x2 - Free Action",
-    "class": "Grass Type Ace",
+    "class": "Type Ace (Grass)",
     "tags": "-"
   },
   {
@@ -1148,7 +1148,7 @@
     "effect": "Trigger - Your Pokémon takes falling damage, begins to suffocate, or is Heavily Injured:  \\nYour Pokémon can ignore up to X meters of falling when calculating falling damage, act without beginning to suffocate for X additional rounds, or ignore the Hit Point loss effects from acting while Heavily Injured for X rounds. X is equal to half its number of Tough Dice from Poffins.",
     "prerequisites": "Tough Tumble Rank 1",
     "frequency": "Scene – Free Action",
-    "class": "Tough Style Expert",
+    "class": "Style Expert (Tough)",
     "tags": "-"
   },
   {
@@ -1156,7 +1156,7 @@
     "effect": "You learn the Moves Stone Edge and Head Smash",
     "prerequisites": "Shards of Stone, Master Combat or Survival",
     "frequency": "Static",
-    "class": "Rock Elementalist - Stone Warrior",
+    "class": "Stone Warrior",
     "tags": "[+Defense]"
   },
   {
@@ -1172,7 +1172,7 @@
     "effect": "Trigger - You hit with a Pester Ball or apply a Repel to a Pokémon\\nEffect: Make a Technology Education Roll. All targets affected by this Feature’s trigger lose Hit Points equal to your roll. This may only affect a target once per Scene.\\nRecipe - Pester Balls: Shut Down",
     "prerequisites": "Chemist, Expert Technology Education",
     "frequency": "1 AP - Swift Action",
-    "class": "Chemistry",
+    "class": "Researcher (Chemistry)",
     "tags": "[Chemistry Research Field][Branch]"
   },
   {
@@ -1180,7 +1180,7 @@
     "effect": "Trigger - Your Pokémon hits an adjacent foe with a Ghost-Type Move\\nEffect: Choose a Stat. The triggering foe loses a Tick of Hit Points and a Combat Stage in that Stat. Your Pokémon gains 1 Combat Stage in the chosen Stat, and a Tick of Temporary Hit Points.",
     "prerequisites": "Ghost Step, Type-Linked Skill at Expert",
     "frequency": "Scene x2 - Free Action",
-    "class": "Ghost Type Ace",
+    "class": "Type Ace (Ghost)",
     "tags": "-"
   },
   {
@@ -1196,7 +1196,7 @@
     "effect": "You may craft any Augmentation Recipe for which you qualify and install them on yourself and willing Pokémon and Trainers.\\nRecipes - Datajack, Eye Augments",
     "prerequisites": "Novice Medicine Education, Novice Technology Education",
     "frequency": "At-Will - Extended Action",
-    "class": "Upgrader",
+    "class": "",
     "tags": "[Upgrader Research Field]"
   },
   {
@@ -1204,7 +1204,7 @@
     "effect": "You may use Musician Songs. See Extras - Class Mechanics for details.",
     "prerequisites": "Novice Charm, Novice Focus",
     "frequency": "Static",
-    "class": "Musician",
+    "class": "",
     "tags": "[Class][+Special Attack]"
   },
   {
@@ -1228,7 +1228,7 @@
     "effect": "Trigger - Your Pokémon uses a Cool-Type Move\\nContest Effect: Treat the Move as if it were one step more aligned with the Contest Type. If the Move would be opposing the Contest Type, it is instead neutral. If it is neutral, it is instead matching. You may activate this effect only once per Contest.\\nBattle Effect: The triggering Move’s Crit Range is increased by 3, and the Moves with the Priority or Interrupt Keywords may not be activated in reaction to this Move. You may activate Rule of Cool only once per Pokémon per Scene.",
     "prerequisites": "Cool Conduct Rank 1",
     "frequency": "At-Will - Free Action",
-    "class": "Cool Style Expert",
+    "class": "Style Expert (Cool)",
     "tags": "-"
   },
   {
@@ -1236,7 +1236,7 @@
     "effect": "While you are Mounted on a Pokemon under the effects of Agility Training, the bonuses from Agility Training are doubled.",
     "prerequisites": "Mounted Prowess, Agility Training, Novice Acrobatics or Athletics",
     "frequency": "Static",
-    "class": "Rider",
+    "class": "",
     "tags": "[Class][+Speed]"
   },
   {
@@ -1244,7 +1244,7 @@
     "effect": "Your Pokémon with at least 3d6 in their Smart Stat from Poffins may activate Smart Scheme as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves. X is the Rank of the chosen Move.\\nRank 2: Taunt, Flatter",
     "prerequisites": "Expert Guile",
     "frequency": "X AP - Special",
-    "class": "Smart Style Expert",
+    "class": "Style Expert (Smart)",
     "tags": "[Ranked 2]"
   },
   {
@@ -1260,7 +1260,7 @@
     "effect": "Your Ghost-Type Pokémon may activate this Feature by spending a Shift Action to remove themselves from the field. They may not be targeted in any way during this time. At the beginning of their next turn, they reappear in any square of their choice that they could have Shifted to from their previous location. Each Pokémon may activate Ghost Step only once per Scene.",
     "prerequisites": "Type Ace, Ghost as Chosen Type",
     "frequency": "At-Will - Free Action",
-    "class": "Ghost Type Ace",
+    "class": "Type Ace (Ghost)",
     "tags": "-"
   },
   {
@@ -1284,7 +1284,7 @@
     "effect": "Target: Your Pokemon\\nEffect: While this Feature is bound, whenever the target uses a 1-Target Move with the Social Keyword or a Fairy-Type Status Move, the foe hit by the triggering Move becomes Infatuated with your Pokemon, and immediately Shifts towards your Pokemon, forfeiting their next Shift Action. This may affect a specific foe only once per Scene.",
     "prerequisites": "Fairy Lights, Type-Linked Skill at Expert",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Fairy Type Ace",
+    "class": "Type Ace (Fairy)",
     "tags": "[Orders][Stratagem]"
   },
   {
@@ -1300,7 +1300,7 @@
     "effect": "Trigger - You hit with Acid, Clear Smog, Sludge Bomb, Sludge Wave, or Toxic; or use Acid Armor:  \\nThe Effect of this feature depends on the triggering move.\\nAcid:  Instead of its usual effect, Acid lowers the Special Defense of all targets hit by -2 Combat Stages.\\nClear Smog:  Clear Smog’s target loses 5 HP for each combat stage lost.\\nSludge Bomb:  The Target receives a -3 penalty to Accuracy Rolls until the end of your next turn.\\nSludge Wave:  All targets in Sludge Wave's Burst are Slowed until the end of their next turn.\\nToxic:  The target's Badly Poison Hit Point Loss begins at 10 instead of 5.\\nAcid Armor:  You are not slowed while liquefied and resist all special damage one step.",
     "prerequisites": "Miasma’s Call, Master Stealth or Guile",
     "frequency": "2 AP - Swift Action",
-    "class": "Poison Elementalist - Miasmic",
+    "class": "Miasmic",
     "tags": "[+Defense]"
   },
   {
@@ -1348,7 +1348,7 @@
     "effect": "Trigger - Your Pokémon makes a Struggle Attack\\nEffect: This Struggle Attack has a range of Burst 1, Friendly instead of the usual range, and deals Fighting-Type Damage.",
     "prerequisites": "Close Quarters Mastery, Type-Linked Skill at Adept",
     "frequency": "Scene x2 - Free Action",
-    "class": "Fighting Type Ace",
+    "class": "Type Ace (Fighting)",
     "tags": "-"
   },
   {
@@ -1356,7 +1356,7 @@
     "effect": "Trigger - Your Fire-Type Pokémon\\nEffect: While this Feature is Bound, the target gains the Mixed Power Poké Edge effect when using damaging Fire-Type Attacks. If the target already has Mixed Power, they instead add their entire Attack and Special Attack Stats to all damaging Fire-Type Attacks, instead of one or the other. This does not stack with Twisted Power.",
     "prerequisites": "Brightest Flame, Type-Linked Skill at Expert",
     "frequency": "Bind 2 AP – Standard Action",
-    "class": "Fire Type Ace",
+    "class": "Type Ace (Fire)",
     "tags": "[Orders][Stratagem]"
   },
   {
@@ -1364,7 +1364,7 @@
     "effect": "You learn 2 Moves chosen from the list below, marked with the Rank of this Feature you are gaining or lower.  Moves marked with an Oath require that Oath to be chosen.\\nRank 2 Moves: Aromatherapy(Flower), Energy Ball, Giga Drain(Fungal), Magical Leaf, Seed Bomb, Spiky Shield(Wood)",
     "prerequisites": "Adept Survival or General Education",
     "frequency": "Static",
-    "class": "Grass Elementalist - Druid",
+    "class": "Druid",
     "tags": "[Ranked 3]"
   },
   {
@@ -1372,7 +1372,7 @@
     "effect": "You may grow additional Berries and Herbs, depending on the higher of your General Education or Survival Rank.\\n»» Novice: You may grow Tier 2 Berries\\n»» Adept: You may grow Mental Herbs, Power Herbs, White Herbs, and Tiny Mushrooms.\\n»» Expert: You may grow Revival Herbs, Energy Roots, Big Mushrooms, and Tier 3 Berries\\n»» Master: Increase the Soil Quality of all your plants by +1.",
     "prerequisites": "Green Thumb",
     "frequency": "Static",
-    "class": "Botany",
+    "class": "Researcher (Botany)",
     "tags": "[Botany Research Field][Branch]"
   },
   {
@@ -1380,7 +1380,7 @@
     "effect": "Target: A Flying-Type Pokémon, or a Pokémon with a Sky or Levitate Speed\\nEffect: While this Feature is Bound, add your Type-Linked Skill to the target’s Initiative. Additionally, if the Target uses a Disengage Maneuver, they may Shift as if Slowed instead of shifting only 1 Meter.",
     "prerequisites": "Type Ace, Flying as Chosen Type",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Flying Type Ace",
+    "class": "Type Ace (Flying)",
     "tags": "[Orders][Stratagem]"
   },
   {
@@ -1396,7 +1396,7 @@
     "effect": "Learn two Moves from the list below at the Rank of Enhanced Embrace you are taking or lower. Moves marked with an Embrace require that Embrace to be chosen.\\nRank 3 Moves: Bug Buzz, Mega Horn, Quiver Dance(Monarch), Spider Web(Arachnid)",
     "prerequisites": "Expert Command or Survival",
     "frequency": "Static",
-    "class": "Bug Elementalist - Swarmlord",
+    "class": "Swarmlord",
     "tags": "[Ranked 3]"
   },
   {
@@ -1412,7 +1412,7 @@
     "effect": "Target: Your Pokemon with at least 2 Tutor Point\\nEffect: Your Pokemon loses 2 Tutor Points, and learns your choice of Hail, Rain Dance, Sandstorm, or Sunny Day. The target must be able to learn the chosen Move through Level-Up, TM, or Tutor Moves. If the target has the chosen Move in their Level-Up List, Weather Systems costs no Tutor Points.",
     "prerequisites": "Climatology, Expert Survival",
     "frequency": "At-Will - Extended Action",
-    "class": "Climatology",
+    "class": "Researcher (Climatology)",
     "tags": "[Climatology Research Field][Branch]"
   },
   {
@@ -1436,7 +1436,7 @@
     "effect": "Each Rank, choose one of Sturdy, Rock Head, or Sand Veil. You gain the chosen Ability. If you choose Sand Veil, you may consider sand a “solid surface” for the purposes of Stone Stance.",
     "prerequisites": "Adept Combat or Survival",
     "frequency": "Static",
-    "class": "Rock Elementalist - Stone Warrior",
+    "class": "Stone Warrior",
     "tags": "[Ranked 2][+Defense]"
   },
   {
@@ -1468,7 +1468,7 @@
     "effect": "You learn the Moves Feint Attack and Thief.\\nNote: Rogue Skills are Acrobatics, Athletics, and Stealth.",
     "prerequisites": "Two of Acrobatics, Athletics, or Stealth at Novice Rank",
     "frequency": "Static",
-    "class": "Rogue",
+    "class": "",
     "tags": "[Class][+Attack]"
   },
   {
@@ -1492,7 +1492,7 @@
     "effect": "Target: Your Pokébot\\nEffect: The target is cured of all Persistent Statuses, resets all negative Combat Stages to default, and gains two Ticks of Temporary Hit Points. For the rest of the Scene, it deals and takes additional damage with all attacks equal to your Technology Education Rank.\\nRecipe - Kitbash King",
     "prerequisites": "Engineer, Expert Technology Education",
     "frequency": "Scene - Swift Action",
-    "class": "Engineer",
+    "class": "Researcher (Engineer)",
     "tags": "[Engineer Researcher Field]"
   },
   {
@@ -1500,7 +1500,7 @@
     "effect": "Target: Your Fossil Pokémon with at least 2 Tutor Points remaining\\nEffect: The target loses 2 Tutor Points and learns Ancient Power. If the target has Ancient Power in its Level-Up List, Ancient Heritage costs no Tutor Points. As a static effect, whenever your Pokémon use Ancient Power, its activated effect occurs on 18+ and you may always choose whether it deals Physical or Special Damage, using the appropriate attack Stat.",
     "prerequisites": "Fossil Restoration",
     "frequency": "At-Will - Extended Action",
-    "class": "Paleontology",
+    "class": "Researcher (Paleontology)",
     "tags": "[Paleontology Research Field][Branch]"
   },
   {
@@ -1508,7 +1508,7 @@
     "effect": "While your Pokémon is adjacent to a foe they Marked, that foe gains a -X penalty to Accuracy Rolls and a -10 penalty to Damage Rolls on attacks that do not target the Pokémon that Marked them. X is equal to half your Type-Linked Skill Rank.",
     "prerequisites": "Close Quarters Mastery, Type-Linked Skill at Expert",
     "frequency": "Static",
-    "class": "Fighting Type Ace",
+    "class": "Type Ace (Fighting)",
     "tags": "-"
   },
   {
@@ -1516,7 +1516,7 @@
     "effect": "You learn the moves Acid Armor and Sludge Bomb.",
     "prerequisites": "Vile Body, Expert Stealth or Guile",
     "frequency": "Static",
-    "class": "Poison Elementalist - Miasmic",
+    "class": "Miasmic",
     "tags": "[+Defense]"
   },
   {
@@ -1524,7 +1524,7 @@
     "effect": "Your powers begin to take after either Arachnid's Embrace or Monarch's Embrace. Depending on your Embrace, you gain an Ability and Stat Tags. Whenever you gain a Swarmlord Feature, you gain the same Stat Tags.\\nArachnid’s Embrace: Unnerve [+Attack]\\nMonarch’s Embrace: Shield Dust [+Special Attack]",
     "prerequisites": "Elemental Connection (Bug), Novice Survival, Novice Command",
     "frequency": "Static",
-    "class": "Bug Elementalist - Swarmlord",
+    "class": "Swarmlord",
     "tags": "[Class][Special]"
   },
   {
@@ -1532,7 +1532,7 @@
     "effect": "As long as this feature is Bound, you can command your Pokébot using a Standard Action rather than a Pokémon turn. Your Pokébots may still only act once a round.\\nRecipe - Firmware Update",
     "prerequisites": "Engineer, Adept Technology Education",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Engineer",
+    "class": "Researcher (Engineer)",
     "tags": "[Engineer Researcher Field]"
   },
   {
@@ -1540,7 +1540,7 @@
     "effect": "Target: A hatching egg.\\nEffect: The Pokémon is born with special qualities, determined by the GM. This Feature may be activated one time per Pokémon Education Rank above Untrained.",
     "prerequisites": "Pusher",
     "frequency": "Special - Free Action",
-    "class": "Pokemon Caretaking",
+    "class": "Researcher (Pokemon Caretaking)",
     "tags": "[Pokemon Caretaking Research Field][Branch]"
   },
   {
@@ -1564,7 +1564,7 @@
     "effect": "Choose Teamwork or Pack Hunt. You gain the Chosen Ability.",
     "prerequisites": "Novice Survival, Novice Stealth",
     "frequency": "Static",
-    "class": "Hunter",
+    "class": "",
     "tags": "[Class][+Speed]"
   },
   {
@@ -1596,7 +1596,7 @@
     "effect": "Choose Magic Guard or Magic Bounce. You gain the Chosen Ability.",
     "prerequisites": "4 Glamour Weaver Features",
     "frequency": "Static",
-    "class": "Fairy Elementalist - Glamour Weaver",
+    "class": "Glamour Weaver",
     "tags": "[+Special Attack]"
   },
   {
@@ -1612,7 +1612,7 @@
     "effect": "You gain the Telepathy Capability for the rest of the scene.",
     "prerequisites": "Elemental Connection (Psychic), Iron Mind, Novice Intuition",
     "frequency": "2 AP - Swift Action",
-    "class": "Telepath",
+    "class": "",
     "tags": "[Class][+Special Defense]"
   },
   {
@@ -1676,7 +1676,7 @@
     "effect": "You adopt one of the stances below, gaining the effects of the stance while this Feature remains bound. You may switch your active Stance as a Standard Action without rebinding your AP. The benefits from this Feature do not apply if you are not standing on a solid surface, such as deep mud or snow, or if you are outright swimming or even flying.\\n\\n• Falling Boulder Stance: You gain a +5 bonus to all Damage Rolls, but lose 5 HP from Recoil whenever you hit with an attack.\\n• Moon Mountain Stance: Your initiative is lowered by -5, but you gain 5 Damage Reduction and are immune to Push or Pull effects.\\n• Roiling Earth Stance: After a successful Intercept action, you may make a Struggle Attack against a foe within range.",
     "prerequisites": "Stone Warrior",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Rock Elementalist - Stone Warrior",
+    "class": "Stone Warrior",
     "tags": "[+Defense]"
   },
   {
@@ -1716,7 +1716,7 @@
     "effect": "You may add to your Pokémon’s HP stat when they level up, ignoring Base Relation, and you do not need to “correct” Stats due to this inflated HP.",
     "prerequisites": "Novice Athletics and Focus",
     "frequency": "Static",
-    "class": "Enduring Soul",
+    "class": "",
     "tags": "[Class]"
   },
   {
@@ -1748,23 +1748,30 @@
     "effect": "You gain the Illusionist Capability.",
     "prerequisites": "Prism",
     "frequency": "Static",
-    "class": "Normal Elementalist - Prism",
+    "class": "Prism",
     "tags": "[+Special Attack]"
+  },
+  {    "name": "Touched",
+    "effect": "You have been blessed by a Legendary and gain their Minor Gift. This Legendary is considered one of your Patrons. You may take Touched multiple times, each time for a different Patron.",
+    "prerequisites": "GM Permission",
+    "frequency": "Static",
+    "class": "",
+    "tags": "[Blessed][Patron Stat]"
   },
   {
     "name": "Messiah",
     "effect": "Your Connection with one of your Patrons has reached such a point that even you are capable of performing the miracles they are renowned and worshiped for. Expending a use of Messiah allows you to perform such a miracle. For example, in a region where Shaymin is known to restore withered forests to their former glory, a Touched who is a Messiah of Shaymin might be able to cause a forest to start to rapidly recover from the aftermath of a wildfire. Such acts are usually, but not always, noticeably supernatural and divine.",
     "prerequisites": "Touched, GM Permission",
     "frequency": "One Time Use/5",
-    "class": "Messiah",
-    "tags": "[Patron Stat]"
+    "class": "",
+    "tags": "[Blessed][Patron Stat]"
   },
   {
     "name": "Herald of Pride",
     "effect": "When wielding Melee Weapons, you may use Command or Intimidate instead of Combat to determine the Damage Base of your Struggle Attacks, to resist Disarm Maneuvers, and to qualify for a Weapon’s Moves. Your Weapon Attacks ignore Damage Reduction up to your Command or Intimidate Rank.",
     "prerequisites": "Elemental Connection (Dragon), Novice Command, Novice Intimidate",
     "frequency": "Static",
-    "class": "Dragon Elementalist - Herald of Pride",
+    "class": "Herald of Pride",
     "tags": "[Class][+Attack][Weapon]"
   },
   {
@@ -1772,7 +1779,7 @@
     "effect": "Choose Pressure or Frighten. You gain the chosen Ability.",
     "prerequisites": "Apparition",
     "frequency": "Static",
-    "class": "Ghost Elementalist - Apparition",
+    "class": "Apparition",
     "tags": "[+Attack]"
   },
   {
@@ -1804,7 +1811,7 @@
     "effect": "Condition: You must have a Shard in your Main Hand or Off-Hand to use Fistful of Force.\\nEffect: You may destroy the Shard to use the Move Judgment. Judgment’s Type must be one of the Types associated with the used Shard. Instead of adding your Special Attack when using this attack, you may choose to add your Occult Education Rank tripled.",
     "prerequisites": "Crystal Artificer, Master Occult Education",
     "frequency": "Scene - Standard Action",
-    "class": "Artificer",
+    "class": "Researcher (Artificer)",
     "tags": "[Artificer Research Field][Branch]"
   },
   {
@@ -1828,7 +1835,7 @@
     "effect": "You gain the Regal Challenge Ability",
     "prerequisites": "Herald of Pride",
     "frequency": "Static",
-    "class": "Dragon Elementalist - Herald of Pride",
+    "class": "Herald of Pride",
     "tags": "[+Attack]"
   },
   {
@@ -1836,7 +1843,7 @@
     "effect": "Target: Your Rock-Type Pokémon\\nEffect: While this Feature is Bound, allied Stealth Rock Hazards within 4 meters of your Pokémon are not used when a foe triggers them unless you want them to be. Whenever the target takes Super-Effective Damage from a Water, Grass, Ground, Fighting, or Steel Type Attack, they may consume an allied Stealth Rock Hazard within 4 meters to create temporary armor that grants them Damage Reduction equal to your Type-Linked Skill Rank for one full round.",
     "prerequisites": "Gravel Before Me, Type-Linked Skill at Expert",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Rock Type Ace",
+    "class": "Type Ace (Rock)",
     "tags": "[Orders][Stratagem]"
   },
   {
@@ -1844,7 +1851,7 @@
     "effect": "Target: A Fossil you are reviving\\nEffect: The resulting Pokémon is born with 2 fewer Tutor Points, and gains its second Basic Ability. If it has only has one Basic Ability, it gains one of its Advanced Abilities, chosen by the GM. This Feature does not affect how the Pokémon continues to gain Abilities.",
     "prerequisites": "Paleontologist, Novice Pokemon Education",
     "frequency": "At-Will - Extended Action",
-    "class": "Paleontology",
+    "class": "Researcher (Paleontology)",
     "tags": "[Paleontology Research Field][Branch]"
   },
   {
@@ -1884,7 +1891,7 @@
     "effect": "Trigger - Your Pokémon uses a Tough-Type Move\\nContest Effect: Treat the Move as if it were one step more aligned with the Contest Type. If the Move would be opposing the Contest Type, it is instead neutral. If it is neutral, it is instead matching. You may activate this effect only once per Contest.\\nBattle Effect: All targets hit by the Move are pushed away from the triggering Pokémon by 3 meters. You may activate Macho Charge only once per Pokémon per Scene.",
     "prerequisites": "Tough Tumble Rank 1",
     "frequency": "At-Will - Free Action",
-    "class": "Tough Style Expert",
+    "class": "Style Expert (Tough)",
     "tags": "-"
   },
   {
@@ -1948,7 +1955,7 @@
     "effect": "Trigger - Your Pokémon hits a foe with a Status-Class Move or a foe triggers your Pokémon’s Hazard\\nEffect: After the Move is resolved, your Pokémon may perform a Dirty Trick or Manipulate Maneuver on that foe as a Free Action. The Maneuver automatically hits, but the target must be in range for the chosen Maneuver. Use your own Guile to resolve Manipulate Rolls.",
     "prerequisites": "Novice Guile",
     "frequency": "1 AP - Free Action",
-    "class": "Trickster",
+    "class": "",
     "tags": "[Class]"
   },
   {
@@ -1956,7 +1963,7 @@
     "effect": "Target: An item made of conductive material\\nEffect: Choose one of your Electric Type Moves with a target. You Charge the target item with this Move. Bottled Lightning counts as using the Move for frequency purposes. You may expend this Charge as a Swift Action on your turn to use the Move the item was charged with, originating from the item. If a Pokémon or Trainer touches a Charged item, you may instead activate this Swift Action as if it had the Priority keyword. At the end of a Scene, all items lose their Charge, and you may only have X items Charged at a time where X is half your Focus Rank.",
     "prerequisites": "Storm Wizard, Adept Focus",
     "frequency": "2 AP - Standard Action",
-    "class": "Electric Elementalist - Storm Wizard",
+    "class": "Storm Wizard",
     "tags": "[+Speed]"
   },
   {
@@ -1988,7 +1995,7 @@
     "effect": "You gain the Illuminate Ability.",
     "prerequisites": "Prism",
     "frequency": "Static",
-    "class": "Normal Elementalist - Prism",
+    "class": "Prism",
     "tags": "[+Special Attack]"
   },
   {
@@ -2012,7 +2019,7 @@
     "effect": "Your Pokémon with at least 3d6 in their Cool Stat from Poffins may activate Cool Conduct as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves.\\nRank 1: Focus Energy, Noble Roar",
     "prerequisites": "Style Expert, Cool as Chosen Stat, Novice Command",
     "frequency": "1 AP – Special",
-    "class": "Cool Style Expert",
+    "class": "Style Expert (Cool)",
     "tags": "[Ranked 2]"
   },
   {
@@ -2028,7 +2035,7 @@
     "effect": "You learn 2 Moves chosen from the list below.\\nRank 1 Moves: Aqua Jet, Aqua Ring, Water Pulse",
     "prerequisites": "Maelstrom",
     "frequency": "Static",
-    "class": "Water Elementalist - Mealstrom",
+    "class": "Mealstrom",
     "tags": "[Ranked 3][+Speed]"
   },
   {
@@ -2036,7 +2043,7 @@
     "effect": "You may activate Oceanic Feeling when either Wash Away or Storm Drain would be triggered to gain that Ability for 1 full round, if you do not already have it, and immediately Trigger it. Activating an Ability this way ignores its usual Frequency. You may use each Ability once per Scene this way.",
     "prerequisites": "Water's Shroud, Master Athletics or Acrobatics",
     "frequency": "Scene x2 - Free Action",
-    "class": "Water Elementalist - Mealstrom",
+    "class": "Mealstrom",
     "tags": "[+Speed]"
   },
   {
@@ -2052,7 +2059,7 @@
     "effect": "Your own Shadow can attack others; you may have your Dark Type Moves originate from any Square adjacent to you. If you are fighting among complete darkness, you may have your Dark Type Moves originate from any square within X meters that is completely dark, where X is the higher of your Guile or Stealth Rank. Attacks originating from Living Shadow do not trigger effects that rely on being hit with a melee attack.",
     "prerequisites": "Shade Caller",
     "frequency": "Static",
-    "class": "Dark Elementalist - Shade Caller",
+    "class": "Shade Caller",
     "tags": "[+Attack or Special Attack]"
   },
   {
@@ -2060,7 +2067,7 @@
     "effect": "Trigger - Your Pokémon hits with a damaging Dark- Type Move\\nEffect: After the triggering attack is resolved, the target of the attack gains an Injury and falls asleep. If this attack would put them are 3 or more injuries or at or under 25% of their maximum Hit Points, the target instead becomes Fainted. Black-Out Strike may be used only once per Scene.",
     "prerequisites": "Clever Ruse, Type-Linked Skill at Master",
     "frequency": "Daily x3 - Free Action",
-    "class": "Dark Type Ace",
+    "class": "Type Ace (Dark)",
     "tags": "-"
   },
   {
@@ -2068,7 +2075,7 @@
     "effect": "Whenever you bind Stone Stance, you may choose two Stances and apply the effects of both.",
     "prerequisites": "Stone Stance, Master Combat or Survival",
     "frequency": "Static",
-    "class": "Rock Elementalist - Stone Warrior",
+    "class": "Stone Warrior",
     "tags": "[+Defense]"
   },
   {
@@ -2076,7 +2083,7 @@
     "effect": "You gain the Pickup Ability.",
     "prerequisites": "Mystic Senses, Novice Perception",
     "frequency": "Static",
-    "class": "Oracle",
+    "class": "",
     "tags": "[Class][+Special Defense]"
   },
   {
@@ -2084,7 +2091,7 @@
     "effect": "Trigger - Your Pokémon makes a Skill Check for a dramatic, high risk action:  \\nInstead of using a Skill for this Check, your Pokémon rolls their Cool Dice from Poffins and adds their number of Cool Dice from Stats as a modifier. For example, a Pokémon with 5d6 Cool from Poffins and 2d6 from Attack rolls 5d6+2. An example trigger is charging into a burning building for a heroic rescue. Skill Checks invoked by Intercepting attacks, Combat Maneuvers, Moves, and Abilities don’t trigger this Feature.",
     "prerequisites": "Cool Conduct Rank 1",
     "frequency": "Daily x2 – Free Action",
-    "class": "Cool Style Expert",
+    "class": "Style Expert (Cool)",
     "tags": "-"
   },
   {
@@ -2124,7 +2131,7 @@
     "effect": "Trigger - Your Water-Type Pokémon hits with a damaging Water-Type attack\\nEffect: You may choose to take a penalty to the Damage Roll for the attack up to triple your Type-Linked Skill Rank or up to half the rolled damage for the triggering attack, whichever is lower. Your Pokémon gains twice that value in Temporary Hit Points and may cure themselves of one Status Affliction. Fountain of Life may only be used once per Scene per Pokémon.",
     "prerequisites": "Flood!, Type-Linked Skill at Expert",
     "frequency": "Daily x3 - Free Action",
-    "class": "Water Type Ace",
+    "class": "Type Ace (Water)",
     "tags": "-"
   },
   {
@@ -2148,7 +2155,7 @@
     "effect": "Target: Your Pokémon with at least 2 Tutor Points remaining\\nEffect: Your Pokémon loses 2 Tutor Points and gains the Forewarn Ability.",
     "prerequisites": "Expert General Education",
     "frequency": "At-Will - Extended Action",
-    "class": "General Researcher",
+    "class": "Researcher (General)",
     "tags": "[General Research Field][Branch]"
   },
   {
@@ -2164,7 +2171,7 @@
     "effect": "You learn the Moves Dragon Claw and Dragon Tail. You may use these Moves as Weapon Attacks when wielding Melee Weapons.",
     "prerequisites": "Herald of Pride, Adept Command or Intimidate",
     "frequency": "Static",
-    "class": "Dragon Elementalist - Herald of Pride",
+    "class": "Herald of Pride",
     "tags": "[+Attack][Weapon]"
   },
   {
@@ -2172,7 +2179,7 @@
     "effect": "Increase the maximum complexity of all Pokébots you create by 2, and increase the maximum complexity of Pokébots you can control by 2.\\nRecipe - Futuretech",
     "prerequisites": "Engineer, Master Technology Education",
     "frequency": "Static",
-    "class": "Engineer",
+    "class": "Researcher (Engineer)",
     "tags": "[Engineer Researcher Field]"
   },
   {
@@ -2180,7 +2187,7 @@
     "effect": "Target: Your Steel-Typed Pokemon.\\nWhen this Feature becomes Bound, the target gains +1 Defense Combat Stage. While the Feature remains bound, the target’s Defense Stat cannot be lowered, and its Defense Combat Stages cannot be lowered.",
     "prerequisites": "Polished Shine, Type-Linked Skill at Adept",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Steel Type Ace",
+    "class": "Type Ace (Steel)",
     "tags": "[Orders][Stratagem]"
   },
   {
@@ -2188,7 +2195,7 @@
     "effect": "Set 6 square meters of Frozen Domain within range 6. All 6 meters must be adjacent with at least one other space of Frozen Domain. All legal targets passing through these squares must make an Acrobatics check with a DC equal to 4 + twice your Survival Rank. On failure, the target is Tripped. Pokémon who are flying, levitating, or have the Naturewalk (Tundra) Capability are immune to this effect. When standing on a square affected by Frozen Domain, you may act as if you were in Hail weather. When a Fire-Type attack originates from or targets a square of Frozen Domain, that square of Frozen Domain melts and is cleared. Frozen Domain is considered a Hazard.",
     "prerequisites": "Expert Athletics or Survival",
     "frequency": "2 AP - Standard Action",
-    "class": "Ice Elementalist - Frost Touched",
+    "class": "Frost Touched",
     "tags": "[+Attack or Special Attack]"
   },
   {
@@ -2196,7 +2203,7 @@
     "effect": "You may learn two Moves from the list below.\\nRank 1 Moves: Freeze-Dry, Ice Punch, Ice Beam, Icicle Crash",
     "prerequisites": "Expert Athletics or Survival",
     "frequency": "Static",
-    "class": "Ice Elementalist - Frost Touched",
+    "class": "Frost Touched",
     "tags": "[Ranked 2][+Attack or Special Attack]"
   },
   {
@@ -2212,7 +2219,7 @@
     "effect": "Target: Your Pokémon\\nEffect: While this Stratagem is bound, your Pokémon may activate Moves and Abilities as if they were in Sunny Weather.",
     "prerequisites": "Foiling Foliage, Type-Linked Skill at Adept",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Grass Type Ace",
+    "class": "Type Ace (Grass)",
     "tags": "[Orders][Stratagem]"
   },
   {
@@ -2244,7 +2251,7 @@
     "effect": "Trigger - Your Pokémon uses a Cute-Type Move\\nContest Effect: Treat the Move as if it were one step more aligned with the Contest Type. If the Move would be opposing the Contest Type, it is instead neutral. If it is neutral, it is instead matching. You may activate this effect only once per Contest.\\nBattle Effect: The triggering Pokémon may immediately shift up to half their Movement speed in meters in any direction after their attack is resolved. You may activate Gleeful Steps only once per Pokémon per Scene.",
     "prerequisites": "Cute Cuddle Rank 1",
     "frequency": "At-Will - Free Action",
-    "class": "Cute Style Expert",
+    "class": "Style Expert (Cute)",
     "tags": "-"
   },
   {
@@ -2292,7 +2299,7 @@
     "effect": "Trigger - Your Steel-Type Pokémon is hit by a damaging attack\\nEffect: Your Pokémon gains Damage Reduction against the attack equal to your Type-Linked Skill Rank. Additionally, calculate Type Effectiveness with this attack as if your Pokémon has no Typings besides Steel.",
     "prerequisites": "Polished Shine, Type-Linked Skill at Master",
     "frequency": "Daily x3 - Free Action",
-    "class": "Steel Type Ace",
+    "class": "Type Ace (Steel)",
     "tags": "-"
   },
   {
@@ -2300,7 +2307,7 @@
     "effect": "Trigger - Your Fire-Type Pokémon Shifts\\nEffect: Your Pokémon sets the ground aflame and leaves a Fire Hazard in each square it shifts through this round, up to a maximum of 8 squares. Anyone who begins or ends their turn on a Fire Hazard are Burned. Anyone that passes through a Fire Hazard loses a Tick of Hit Points. If a Ground, Rock, or Water-Type Move targets a square (or a target in a square) with Fire Hazard in them, the Fire Hazards are destroyed. All effects that destroy Hazards extinguish Fire Hazards. Trail Blazer may only be used once per Scene.",
     "prerequisites": "Brightest Flame, Type-Linked Skill at Adept",
     "frequency": "Daily x3 - Free Action",
-    "class": "Fire Type Ace",
+    "class": "Type Ace (Fire)",
     "tags": "-"
   },
   {
@@ -2324,7 +2331,7 @@
     "effect": "You learn the Moves Rock Slide and Stealth Rock",
     "prerequisites": "Expert Combat or Survival",
     "frequency": "Static",
-    "class": "Rock Elementalist - Stone Warrior",
+    "class": "Stone Warrior",
     "tags": "[+Defense]"
   },
   {
@@ -2340,7 +2347,7 @@
     "effect": "Trigger - You hit a foe with a damaging Bug-Type attack\\nEffect: The triggering foe gains 1 Pheromone Stack. Your Bug-Type attacks gain a +2 bonus to Accuracy Rolls and +1 Critical Hit range against foes for each Pheromone Stack they have. Once per Scene per foe, when they gain their third or higher Pheromone Stack, you may choose to roll 1d6. On a result of 1 or 2, the foe becomes Confused; on a result of 3 or 4 the foe becomes Suppressed; on a result of 5 or 6 the foe becomes Enraged.",
     "prerequisites": "Enhanced Embrace Rank 1",
     "frequency": "1 AP - Free Action",
-    "class": "Bug Elementalist - Swarmlord",
+    "class": "Swarmlord",
     "tags": "-"
   },
   {
@@ -2348,7 +2355,7 @@
     "effect": "Effect: While this Feature is bound, you gain a +2 Bonus to Save Checks against Volatile Status Afflictions, and a +2 Bonus to Opposed Checks when defending against being Disarmed, Grappled, Pushed, or Tripped.",
     "prerequisites": "Herald of Pride, Expert Command or Intimidate",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Dragon Elementalist - Herald of Pride",
+    "class": "Herald of Pride",
     "tags": "[+Attack]"
   },
   {
@@ -2364,7 +2371,7 @@
     "effect": "Trigger - Your Pokémon uses the Groundshaper Capability, or a Move with the Groundsource keyword\\nEffect: Your Pokémon may make a Trip Attempt as a Free Action against any Pokémon targeted by the Move, or standing on a square changed by the Groundshaper capability. Your Pokémon gains a bonus to their Combat Roll equal to half of your Type-Linked Skill Rank.",
     "prerequisites": "Mold the Earth, Type-Linked Skill at Master",
     "frequency": "Daily x3 - Free Action",
-    "class": "Ground Type Ace",
+    "class": "Type Ace (Ground)",
     "tags": "-"
   },
   {
@@ -2380,7 +2387,7 @@
     "effect": "Condition: You must have Enchanting Transformation Bound to use Magical Burst\\nEffect: Use a Glamour Weaver Move as if it had the range Burst 3, Friendly, Exhaust, Smite. All allies within the area-of-effect gain a Tick of Temporary Hit Points or cure themselves of one Volatile Affliction. Enchanting Transformation immediately becomes Unbound, and the AP used to bind it becomes spent instead of becoming available again.",
     "prerequisites": "Enchanting Transformation, Passionato Harmony",
     "frequency": "Scene - Standard Action",
-    "class": "Fairy Elementalist - Glamour Weaver",
+    "class": "Glamour Weaver",
     "tags": "[+Special Attack]"
   },
   {
@@ -2388,7 +2395,7 @@
     "effect": "Choose one of Ravager Orders, Marksman Orders, Trickster Orders, Guardian Orders, or Precision Orders. You gain the chosen Feature, even if you do not meet its prerequisites.",
     "prerequisites": "Novice Command",
     "frequency": "Static",
-    "class": "Commander",
+    "class": "",
     "tags": "[Class]"
   },
   {
@@ -2420,7 +2427,7 @@
     "effect": "Trigger - A Marked Foe provokes an Attack of Opportunity from your Fighting-Type Pokémon\\nEffect: The Attack of Opportunity automatically hits, deals Fighting-Type Damage, and is a Critical Hit.",
     "prerequisites": "Close Quarters Mastery, Type-Linked Skill at Master",
     "frequency": "Daily x3 - Free Action",
-    "class": "Fighting Type Ace",
+    "class": "Type Ace (Fighting)",
     "tags": "-"
   },
   {
@@ -2444,7 +2451,7 @@
     "effect": "You are able to analyze Psychic Residue and can determine the following information about the Trainer or Pokémon that left the residue:\\n»» Whether they are a Human or a Pokémon\\n»» Which Psychic-Type Moves they know\\n»» If they’re Human, which of the following Class Features they have: Telepath, Telekinetic, Warper",
     "prerequisites": "Witch Hunter, Master Occult Education",
     "frequency": "Scene - Extended Action",
-    "class": "Occultism",
+    "class": "Researcher (Occultism)",
     "tags": "[Occultism Research Field][Branch]"
   },
   {
@@ -2452,7 +2459,7 @@
     "effect": "Learn two Moves from the list below. Moves marked with an Embrace require that Embrace to be chosen.\\nRank 1 Moves: Defend Order, Fury Cutter, Fell Needle, Struggle Bug(Monarch), Sticky Web(Arachnid)",
     "prerequisites": "Swarmlord",
     "frequency": "Static",
-    "class": "Bug Elementalist - Swarmlord",
+    "class": "Swarmlord",
     "tags": "[Ranked 3]"
   },
   {
@@ -2484,7 +2491,7 @@
     "effect": "You may craft any of the following Poké Ball Modifications: Habitat, Power, Type, Fabulous, Learning, Weather",
     "prerequisites": "Jailbreaker",
     "frequency": "Static",
-    "class": "Jailbreaker",
+    "class": "Researcher (Jailbreaker)",
     "tags": "[Jailbreaker Research Field]"
   },
   {
@@ -2492,7 +2499,7 @@
     "effect": "Target: Your Pokémon\\nEffect: While this Feature is bound, instead of rolling for damage with Normal-Type Moves, your Pokémon acts as if they rolled the maximum value on their Damage Dice Roll. Plainly Perfect only works for the first instance of the Damage Dice Roll on Critical Hits.",
     "prerequisites": "Extra Ordinary, Type-Linked Skill at Adept",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Normal Type Ace",
+    "class": "Type Ace (Normal)",
     "tags": "[Orders][Stratagem]"
   },
   {
@@ -2500,7 +2507,7 @@
     "effect": "You create a zone of Shifting Darkness in a Burst 2 around you, which persists until the end of the encounter. All targets without Darkvision attacking from or i nto the Shifting Darkness receive a -3 penalty to Accuracy. You may count Shifting Darkness as complete darkness for the purposes of activating your Living Shadow. As a Static effect, you also gain the Darkvision Capability.",
     "prerequisites": "Shade Caller, Adept Guile or Stealth",
     "frequency": "2 AP - Standard Action",
-    "class": "Dark Elementalist - Shade Caller",
+    "class": "Shade Caller",
     "tags": "[+Attack or Special Attack]"
   },
   {
@@ -2572,7 +2579,7 @@
     "effect": "Trigger - You hit a target with a Poké Ball with a Spray, Flash, Bounce, or Zap Case applied to it.\\nEffect: The Case has additional effects according to its type(s).\\n»» Spray Case: After resolving the effects of the Case, the target loses a Tick of Health Points for each Persistent or Volatile Status Affliction they have. This may only affect a target once per Scene.\\n»» Flash Case: The Case uses the Move Flash as a Burst 2 instead of a Cone 2\\n»» Bounce Case: The Poké Ball bounces an additional time. This may not cause it to hit a target more than once.\\n»» Zap Case: The target can only use At-Will actions until the end of their next turn. This may only affect a target once per Scene.\\nRecipe - Trick Cases",
     "prerequisites": "Jailbreaker, Adept Technology Education",
     "frequency": "1 AP - Swift Action",
-    "class": "Jailbreaker",
+    "class": "Researcher (Jailbreaker)",
     "tags": "[Jailbreaker Research Field]"
   },
   {
@@ -2580,7 +2587,7 @@
     "effect": "Your Pokémon with at least 3d6 in their Beauty Stat from Poffins may activate Beautiful Ballet as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves. X is the Rank of the chosen Move.\\nRank 2: Lovely Kiss, Mean Look",
     "prerequisites": "Expert Intuition",
     "frequency": "X AP - Special",
-    "class": "Beauty Style Expert",
+    "class": "Style Expert (Beauty)",
     "tags": "[Ranked 2]"
   },
   {
@@ -2588,7 +2595,7 @@
     "effect": "Choose Cursed Body or Omen. You gain the Chosen Ability.",
     "prerequisites": "Novice Occult Education",
     "frequency": "Static",
-    "class": "Hex Maniac",
+    "class": "",
     "tags": "[Class][+HP]"
   },
   {
@@ -2612,7 +2619,7 @@
     "effect": "Pick two of Bulldoze, Mud Shot, or Sand-Attack. You learn the chosen Moves.",
     "prerequisites": "Elemental Connection (Ground), Novice Intuition, Novice Focus",
     "frequency": "Static",
-    "class": "Ground Elementalist - Earth Shaker",
+    "class": "Earth Shaker",
     "tags": "[Class][+Defense]"
   },
   {
@@ -2628,7 +2635,7 @@
     "effect": "You may use any Crystal Artificer Recipe for which you qualify.\\nRecipes - Type Booster, Type Brace",
     "prerequisites": "Gem Lore",
     "frequency": "At-Will - Extended Action",
-    "class": "Artificer",
+    "class": "Researcher (Artificer)",
     "tags": "[Artificer Research Field][Branch]"
   },
   {
@@ -2692,7 +2699,7 @@
     "effect": "You learn the Moves Moonblast and Aromatic Mist.",
     "prerequisites": "Passionato Harmony, Master Charm or Occult Education",
     "frequency": "Static",
-    "class": "Fairy Elementalist - Glamour Weaver",
+    "class": "Glamour Weaver",
     "tags": "[+Special Attack]"
   },
   {
@@ -2724,7 +2731,7 @@
     "effect": "Target: Your Pokémon\\nEffect: While this Feature is Bound, whenever the target hits a foe with an Electric Attack, they may choose to have the foe lose Hit Points equal to the target’s Tick value plus your Type-Linked Skill Rank. If they do, the target loses a Tick of Hit Points after the attack is resolved.",
     "prerequisites": "Lockdown, Type-Linked Skill at Adept",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Electric Type Ace",
+    "class": "Type Ace (Electric)",
     "tags": "[Orders][Stratagem]"
   },
   {
@@ -2740,7 +2747,7 @@
     "effect": "Target: A willing Pokémon with the Magnetic, Zapper, or Threaded Capability\\nEffect: Choose one of the Capabilities listed in the Target line that the target Pokémon has. You create a Main or Off-Hand Equipment Item usable by Trainers that grants the user the chosen Capability. Whenever a Trainer makes Struggle Attacks using Zapper through this Item, they may choose to use your Technology Education Rank tripled in place of an offensive Stat. When this Feature is Unbound, the Equipment Item breaks and cannot be repaired. You may only have X instances of this Feature Bound at once, where X is equal to half your Technology Education Rank.",
     "prerequisites": "Novice Technology Education",
     "frequency": "Bind 2 AP – Extended Action",
-    "class": "Gadgeteer",
+    "class": "Researcher (Gadgeteer)",
     "tags": "[Gadgeteer Research Field][Branch]"
   },
   {
@@ -2748,7 +2755,7 @@
     "effect": "Trigger - Your Pokémon uses a Flying-Type Move with an Accuracy Check\\nEffect: You may roll the Accuracy Check twice, and resolve using either result. If both results would hit and you resolve the attack using the lower result, Gale Strike’s Frequency is not expended.",
     "prerequisites": "Celerity, Type-Linked Skill at Adept",
     "frequency": "Scene x2 - Free Action",
-    "class": "Flying Type Ace",
+    "class": "Type Ace (Flying)",
     "tags": "-"
   },
   {
@@ -2756,7 +2763,7 @@
     "effect": "Target: Your Pokémon with at least 2 Tutor Points remaining.\\nEffect: The target loses 2 Tutor Points and learns the Last Chance or Type Strategist Ability for your Chosen Type. You may target a Pokémon only once with Type Ace.",
     "prerequisites": "2 Different Pokémon of the chosen Type, Type-Linked Skill* at Novice\\nOR\\nElemental Connection (of the chosen Type), 1 Pokémon of the chosen Type, Type-Linked Skill* at Novice\\n*See Extras - Class Mechanics for details.",
     "frequency": "At-Will - Extended Action",
-    "class": "Type Ace",
+    "class": "",
     "tags": "[Class][Branch]"
   },
   {
@@ -2772,7 +2779,7 @@
     "effect": "Your Pokémon with at least 3d6 in their Cute Stat from Poffins may activate Cute Cuddle as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves.\\nRank 1: Charm, Block",
     "prerequisites": "Style Expert, Cute as Chosen Stat, Novice Charm",
     "frequency": "1 AP – Special",
-    "class": "Cute Style Expert",
+    "class": "Style Expert (Cute)",
     "tags": "[Ranked 2]"
   },
   {
@@ -2780,7 +2787,7 @@
     "effect": "Learn two Moves from the list below at the Rank of Enhanced Embrace you are taking or lower. Moves marked with an Embrace require that Embrace to be chosen.\\nRank 2 Moves: Attack Order(Arachnid), Infestation, Powder(Monarch), Signal Beam, Steamroller",
     "prerequisites": "Adept Command or Survival",
     "frequency": "Static",
-    "class": "Bug Elementalist - Swarmlord",
+    "class": "Swarmlord",
     "tags": "[Ranked 3]"
   },
   {
@@ -2788,7 +2795,7 @@
     "effect": "You learn the Moves Dragon Rush and Outrage. You may use these Moves as Weapon Attacks when wielding Melee Weapons.",
     "prerequisites": "Bare the Dragon's Claws, Master Command or Intimidate",
     "frequency": "Static",
-    "class": "Dragon Elementalist - Herald of Pride",
+    "class": "Herald of Pride",
     "tags": "[+Attack][Weapon]"
   },
   {
@@ -2804,7 +2811,7 @@
     "effect": "Choose Volt Absorb or Motor Drive. You gain the Chosen Ability.",
     "prerequisites": "Master Acrobatics or Focus",
     "frequency": "Static",
-    "class": "Electric Elementalist - Storm Wizard",
+    "class": "Storm Wizard",
     "tags": "[+Speed]"
   },
   {
@@ -2836,7 +2843,7 @@
     "effect": "Your Ice-Type Pokémon gain Damage Reduction equal to your Type-Linked Skill Rank against Fighting, Fire, Rock, and Steel-Typed Attacks from which they would take Super-Effective Damage.",
     "prerequisites": "Type Ace, Ice as Chosen Type",
     "frequency": "Static",
-    "class": "Ice Type Ace",
+    "class": "Type Ace (Ice)",
     "tags": "-"
   },
   {
@@ -2844,7 +2851,7 @@
     "effect": "Trigger - Your Bug-Type Pokémon is hit by a Status-Class Move\\nEffect: The effect misses, and your Pokemon becomes immune to that Move for the rest of the Scene. Chitin Shield may be triggered once per Scene per Pokemon.",
     "prerequisites": "Insectoid Utility, Type Linked Skill at Expert",
     "frequency": "Daily x3 - Free Action",
-    "class": "Bug Type Ace",
+    "class": "Type Ace (Bug)",
     "tags": "-"
   },
   {
@@ -2892,7 +2899,7 @@
     "effect": "You may learn two Moves from the list below, marked with the Rank of Winter’s Herald you are gaining or lower.\\nRank 2 Moves: Avalanche, Blizzard, Frost Breath, Icicle Spear",
     "prerequisites": "Master Athletics or Survival",
     "frequency": "Static",
-    "class": "Ice Elementalist - Frost Touched",
+    "class": "Frost Touched",
     "tags": "[Ranked 2][+Attack or Special Attack]"
   },
   {
@@ -2908,7 +2915,7 @@
     "effect": "While this Feature is Bound, your appearance becomes wan and obviously otherworldly. Your natural Weaknesses, Resistances, and Immunities change to match that of the Ghost Type. Additionally, while in Shadow Form, you are immune to the Cursed Status (if you were previously Cursed, you are instantly cured upon going into Shadow Form) and gain the Phasing Capability. You may unbind this Feature as a Swift Action, returning to your normal appearance.",
     "prerequisites": "Silent Assassin, Expert Intimidate or Occult Education",
     "frequency": "Bind 2 AP - Swift Action",
-    "class": "Ghost Elementalist - Apparition",
+    "class": "Apparition",
     "tags": "[+Attack]"
   },
   {
@@ -2972,7 +2979,7 @@
     "effect": "You may activate this Feature to have your Electric-Type Pokémon may use an Electric-Type Move with a Frequency of At-Will as if it had Priority (Advanced).",
     "prerequisites": "Lockdown, Type-Linked Skill at Expert",
     "frequency": "Scene x2 - Free Action",
-    "class": "Electric Type Ace",
+    "class": "Type Ace (Electric)",
     "tags": "-"
   },
   {
@@ -2980,7 +2987,7 @@
     "effect": "You may use any Apothecary Recipe for which you qualify.\\nRecipe - Restorative Science",
     "prerequisites": "Novice Medicine Education",
     "frequency": "At-Will - Extended Action",
-    "class": "Apothecary",
+    "class": "Researcher (Apothecary)",
     "tags": "[Apothecary Research Field][Branch]"
   },
   {
@@ -2988,7 +2995,7 @@
     "effect": "You learn the Moves Sweet Kiss and Disarming Voice.",
     "prerequisites": "Elemental Connection (Fairy), Novice Charm, Novice Occult Education",
     "frequency": "Static",
-    "class": "Fairy Elementalist - Glamour Weaver",
+    "class": "Glamour Weaver",
     "tags": "[Class][+Special Attack]"
   },
   {
@@ -3004,7 +3011,7 @@
     "effect": "Target: A Pokémon, Trainer, Move, or Location.\\nEffect: You make Record of the target. Records can be placed in an Archive as an Extended Action.\\nWhen you take Chronicler, you gain one Archive.  See Extras - Class Mechanics for Archive details.",
     "prerequisites": "Novice Perception",
     "frequency": "1 AP - Swift Action, Interrupt",
-    "class": "Chronicler",
+    "class": "",
     "tags": "[Class]"
   },
   {
@@ -3012,7 +3019,7 @@
     "effect": "Using Quick Switch costs only 1 AP. Whenever you send a Pokémon into an encounter from a Poké Ball, they receive a +10 bonus to their Initiative during that round.",
     "prerequisites": "Quick Switch, Novice Acrobatics, Novice Guile",
     "frequency": "Static",
-    "class": "Juggler",
+    "class": "",
     "tags": "[Class][+Speed]"
   },
   {
@@ -3020,7 +3027,7 @@
     "effect": "You roll an additional 3d6 when determining how many Shards you find when Dowsing.\\nRecipes - Focus Gem, Chakra Crystal",
     "prerequisites": "Crystal Artificer, Skill Stunt (Dowsing)",
     "frequency": "Static",
-    "class": "Artificer",
+    "class": "Researcher (Artificer)",
     "tags": "[Artificer Research Field][Branch]"
   },
   {
@@ -3028,7 +3035,7 @@
     "effect": "Target: A Pokémon with at least 1 Tutor Point remaining\\nEffect: The target loses 1 Tutor Point, and then learns a move from its tutor list marked with a (N), or any move on its level-up list learned at X Level or lower, where X is the target’s current Level plus the sum of your Mentor Skill Ranks. Note that despite being Tutored, these Moves count as if they were “natural” for organizational purposes.\\nSpecial - When you take Mentor, choose two of Charm, Intimidate, Intuition, and Pokémon Education to become your Mentor Skills. The Skills you choose must be at Novice Rank or higher.",
     "prerequisites": "Two of Charm, Intimidate, Intuition, or Pokémon Education at Novice Rank",
     "frequency": "Daily x3 - Extended Action",
-    "class": "Mentor",
+    "class": "",
     "tags": "[Class]"
   },
   {
@@ -3044,7 +3051,7 @@
     "effect": "Target: Your Pokémon\\nThe target acts as a Bait item as if it had the Alluring Capability. Add its number of Beauty Dice from Poffins as a Bonus to all d20 lure rolls.",
     "prerequisites": "Beautiful Ballet Rank 1",
     "frequency": "Scene – Free Action",
-    "class": "Beauty Style Expert",
+    "class": "Style Expert (Beauty)",
     "tags": "-"
   },
   {
@@ -3060,7 +3067,7 @@
     "effect": "Trigger - Your Pokémon fails a Skill Check:\\n  Your Pokémon may re-roll the Skill Check with a Bonus equal to its number of Smart Dice from Poffins.",
     "prerequisites": "Smart Scheme Rank 1",
     "frequency": "Daily x3 – Free Action",
-    "class": "Smart Style Expert",
+    "class": "Style Expert (Smart)",
     "tags": "-"
   },
   {
@@ -3068,7 +3075,7 @@
     "effect": "Trigger - Your Pokémon hits with a damaging 1-target Electric Attack\\nEffect: Pick another Pokémon or Trainer within 3 meters of the target of the attack. You may repeat the triggering attack against the target, with a -5 Damage penalty. If you hit, you may repeat the attack a third time against a foe within 3 meters of the second target, this time with a -10 Damage penalty. The third target cannot be the same as the original target.",
     "prerequisites": "Lockdown, Type-Linked Skill at Master",
     "frequency": "Daily x3 - Free Action",
-    "class": "Electric Type Ace",
+    "class": "Type Ace (Electric)",
     "tags": "-"
   },
   {
@@ -3132,7 +3139,7 @@
     "effect": "Your Pokémon have their Speed increased by +1, and by +1 more for every 10 Levels they have (for example, a Level 20 Pokémon would have Speed’s base value increased by +3). Additionally, your Pokémon may ignore Base Relations, as long as they are adding to Speed, and you do not need to “correct” Stats due to this inflated Speed Value.\\n\\nNote: You may take Stat Ace multiple times, choosing different Stats each time. If using Style Expert to qualify for Stat Ace, your Chosen Stat must be the Stat that correlates to your Chosen Contest Stat. Beauty is Special Attack, Cool is Attack, Cute is Speed, Smart is Special Defense, and Tough is Defense.  You may use the Stat in place of \"Stat\" in all Stat Ace features on this sheet, e.g. \"Attack Ace\" or \"Special Defense Link\".",
     "prerequisites": "Ace Trainer or Style Expert, 1 Pokémon with Speed of 15 or more, Novice Command or Focus\\nOr\\n3 Pokémon with Speed at 20 or higher, Novice Command or Focus",
     "frequency": "Static",
-    "class": "Speed Stat Ace",
+    "class": "Speed Ace",
     "tags": "[Class][Branch]"
   },
   {
@@ -3164,7 +3171,7 @@
     "effect": "Trigger - You hit a foe with an Attack\\nEffect: The foe loses a Combat Stage in the Stat of your choice.",
     "prerequisites": "Novice Athletics, Intimidating Presence",
     "frequency": "1 AP – Swift Action",
-    "class": "Roughneck",
+    "class": "",
     "tags": "[Class][+Defense]"
   },
   {
@@ -3196,7 +3203,7 @@
     "effect": "Trigger - You use a Weapon Attack \\nEffect: You may have the triggering attack deal Dragon- Type Damage if you wish. On 18+, all targets can only use At-Will Frequency Moves for one full round",
     "prerequisites": "Herald of Pride",
     "frequency": "1 AP - Free Action",
-    "class": "Dragon Elementalist - Herald of Pride",
+    "class": "Herald of Pride",
     "tags": "[+Attack]"
   },
   {
@@ -3204,7 +3211,7 @@
     "effect": "You learn the Moves Tri-Attack and Weather Ball.",
     "prerequisites": "Prism, Expert Charm or General Education",
     "frequency": "Static",
-    "class": "Normal Elementalist - Prism",
+    "class": "Prism",
     "tags": "[+Special Attack]"
   },
   {
@@ -3212,7 +3219,7 @@
     "effect": "Trigger - Your Pokémon hits with a Dragon-Type Move\\nEffect: Your Pokémon creates a Burst 2, Slowing all Foes in the area and causing those foes to lose 1 Combat Stage in any Stat in which they have positive Combat Stages.",
     "prerequisites": "Type Ace, Dragon as Chosen Type",
     "frequency": "Scene x2 - Free Action",
-    "class": "Dragon Type Ace",
+    "class": "Type Ace (Dragon)",
     "tags": "-"
   },
   {
@@ -3220,7 +3227,7 @@
     "effect": "You may learn two Moves from the list below.\\nRank 1 Moves: Charge Beam, Eerie Impulse, Shock Wave, Spark",
     "prerequisites": "Spark Master",
     "frequency": "Static",
-    "class": "Electric Elementalist - Storm Wizard",
+    "class": "Storm Wizard",
     "tags": "[+Speed][Ranked 3]"
   },
   {
@@ -3228,7 +3235,7 @@
     "effect": "Trigger - Your Pokémon uses a Beauty-Type Move\\nContest Effect: Treat the Move as if it were one step more aligned with the Contest Type. If the Move would be opposing the Contest Type, it is instead neutral. If it is neutral, it is instead matching. You may activate this effect only once per Contest.\\nBattle Effect: The move gains the keyword Burst 1 if Melee, or Blast 2 if ranged. If the move is already a Burst, Blast, or Cone, increase the size of the Move’s Range by 1. This does not cause a target to be hit multiple times. You may activate Fabulous Max only once per Pokémon per Scene.",
     "prerequisites": "Beautiful Ballet Rank 1",
     "frequency": "At-Will - Free Action",
-    "class": "Beauty Style Expert",
+    "class": "Style Expert (Beauty)",
     "tags": "-"
   },
   {
@@ -3260,7 +3267,7 @@
     "effect": "You gain the Heater Capability, and are immune to the Burn condition.",
     "prerequisites": "Fire Bringer",
     "frequency": "Static",
-    "class": "Fire Elementalist - Fire Bringer",
+    "class": "Fire Bringer",
     "tags": "[+Special Attack or Attack]"
   },
   {
@@ -3268,7 +3275,7 @@
     "effect": "Choose Celebrate or Gale Wings. You gain the chosen Ability.",
     "prerequisites": "Raging Winds Rank 1, Master Acrobatics or Perception",
     "frequency": "Static",
-    "class": "Flying Elementalist - Wind Runner",
+    "class": "Wind Runner",
     "tags": "[+Speed]"
   },
   {
@@ -3300,7 +3307,7 @@
     "effect": "Trigger - Your Normal-Type Pokémon gains Initiative\\nEffect: Add your Type-Linked Skill Rank to all of your Pokémon’s rolls this turn. Your Pokémon gains Temporary Hit Points equal to twice your Type-Linked Skill Rank. Simple Improvements may only be used once per Scene per Pokémon.",
     "prerequisites": "Extra Ordinary, Type-Linked Skill at Master",
     "frequency": "Daily x3 - Free Action",
-    "class": "Normal Type Ace",
+    "class": "Type Ace (Normal)",
     "tags": "-"
   },
   {
@@ -3316,7 +3323,7 @@
     "effect": "Trigger - You spend at least half an hour training your Pokémon\\nEffect: For each Pokémon that has been trained during this time, choose a Stat besides HP; that Stat becomes Trained until an Extended Rest is taken. The default State of Trained Stats is +1 Combat Stages instead of 0. A Pokémon may have only one Trained Stat at a time.\\nNote: Just to clarify, this Feature Drains 1 AP per training session, not per Pokémon. So train as many as you can to get the most out of this Feature!",
     "prerequisites": "Novice Command",
     "frequency": "Drain 1 AP - Extended Action",
-    "class": "Ace Trainer",
+    "class": "",
     "tags": "[Class]"
   },
   {
@@ -3332,7 +3339,7 @@
     "effect": "Trigger - You use a Prism Move\\nEffect: The effect of this Feature depends on the Triggering Move. You may only use Prismatic Alignment with each Move once per Scene.\\n\\n»» Flash: Flash also Blinds all targets it hits until the end of their next turn.\\n»» Swift: Swift instead has a range of 8, 3 Targets.\\n»» Tri Attack: Roll twice for Tri Attack’s Accuracy Roll and take the better result. If you trigger its Effect Range, you may choose the effect instead of rolling for it.\\n»» Weather Ball: You use Weather Ball as if you were in the Weather of your choice.\\n»» Hyper Beam: Hyper Beam instead has a Range of Burst 2, Smite or 10, Ranged Blast 3, Smite.\\n»» Morning Sun: You use Morning Sun as if you were in Sunny Weather, and you may cure yourself of one Status Affliction.",
     "prerequisites": "4 Prism Features, Master Charm or General Education",
     "frequency": "2 AP - Swift Action",
-    "class": "Normal Elementalist - Prism",
+    "class": "Prism",
     "tags": "[+Special Attack]"
   },
   {
@@ -3340,7 +3347,7 @@
     "effect": "Make a Ranged Struggle Attack attack with a -2 penalty to Accuracy. If you hit, the attack deals Damage as if it was resisted one step, but the target becomes Slowed, loses 1 Speed Combat Stage, and you initiate a Trip Maneuver against the target. You may use your Perception Skill to resolve the Opposed Check if you wish.",
     "prerequisites": "Marksman, Expert Perception or Combat",
     "frequency": "2 AP - Full Action",
-    "class": "",
+    "class": "Marksman",
     "tags": "[+Attack][Weapon]"
   },
   {
@@ -3356,7 +3363,7 @@
     "effect": "Choose two out of Haze, Ice Shard, Mist, and Powder Snow. You learn the Chosen Moves.",
     "prerequisites": "Elemental Connection (Ice), Novice Athletics, Novice Survival",
     "frequency": "Static",
-    "class": "Ice Elementalist - Frost Touched",
+    "class": "Frost Touched",
     "tags": "[Class][+Attack or Special Attack]"
   },
   {
@@ -3380,7 +3387,7 @@
     "effect": "Choose Wash Away or Storm Drain. You gain the Chosen Ability.",
     "prerequisites": "Call the Current Rank 2",
     "frequency": "Static",
-    "class": "Water Elementalist - Mealstrom",
+    "class": "Mealstrom",
     "tags": "[+Speed]"
   },
   {
@@ -3412,7 +3419,7 @@
     "effect": "Trigger - Your Dark-Type Pokémon uses a Move with the Social keyword.\\nEffect: Your Pokémon may immediately use a naturally Dark-Typed Status-Class Move or a Move with the Social keyword as a Free Action. This must be a different Move than the triggering Move, and must follow all Frequency limitations. Devious may be used only once per Scene per Pokémon.",
     "prerequisites": "Clever Ruse, Type-Linked Skill at Expert",
     "frequency": "Scene x2 - Free Action",
-    "class": "Dark Type Ace",
+    "class": "Type Ace (Dark)",
     "tags": "-"
   },
   {
@@ -3436,7 +3443,7 @@
     "effect": "Trigger - You hit with a Druid Move\\nEffect: One target of the triggering Move is afflicted with Overgrowth. As long as the target is afflicted, they are one step less Resistant to Grass-Type attacks, to a maximum of neutral damage, and they cannot recover Hit Points or gain Temporary Hit Points. Whenever they would do so, you gain those Hit Points or Temporary Hit Points instead. Overgrowth is removed when the target Takes a Breather or is hit by a damaging Fire, Ice, Poison, Flying, or Bug-Type attack. Overgrowth may only affect a target once per Scene.",
     "prerequisites": "Nature's Embrace Rank 3",
     "frequency": "2 AP – Swift Action",
-    "class": "Grass Elementalist - Druid",
+    "class": "Druid",
     "tags": "-"
   },
   {
@@ -3468,7 +3475,7 @@
     "effect": "Trigger - Your Pokémon misses with a Poison-Type Move\\nEffect: Your Pokémon may use either Smokescreen or Poison Gas as if they were on their Move List. When used this way, these Moves ignore Frequency Limitations, and are used as a Ranged Blast 3, with the blast centered on the square targeted by the triggering attack. Poison-Type Pokémon are not negatively affected by Smoke Screens created this way. Your Pokémon may also trigger Miasma deliberately as a Standard Action.",
     "prerequisites": "Potent Venom, Type-Linked Skill at Expert",
     "frequency": "Scene x2 - Free Action",
-    "class": "Poison Type Ace",
+    "class": "Type Ace (Poison)",
     "tags": "-"
   },
   {
@@ -3484,7 +3491,7 @@
     "effect": "Effect: You becoming Blazing. While you are Blazing, whenever your Fire-Type Moves Inflict Burn, the Burned target immediately loses a Tick of Hit Points, and loses an additional Combat Stage in Defense. While Blazing, when you hit a foe with a damaging Fire-Type Move, you may choose to automatically burn one target of the Move. If you do, you lose the Blazing Condition after the Move’s effects are resolved.",
     "prerequisites": "Fire Breather Rank 2, Master Focus or Combat",
     "frequency": "2 AP - Swift Action",
-    "class": "Fire Elementalist - Fire Bringer",
+    "class": "Fire Bringer",
     "tags": "[+Special Attack or Attack]"
   },
   {
@@ -3531,7 +3538,7 @@
     "effect": "Target: A willing Pokémon with one of the Capabilities listed below\\nEffect: Choose one of the Capabilities below which the target Pokémon has. You create a consumable item with the effect below, depending on the chosen Capability. All unused items created with Enhanced Capsules are rendered inert after an Extended Rest (including modifications to other items).\\n\\n»» Glow: This item may be attached to a Wonder Launcher as a Standard Action to give the following effect for the rest of the Scene: Whenever you apply an Item to a target using this Wonder Launcher, that target gains the Illuminate Ability for one full round.\\n»» Magnetic: This item may be loaded into a Cap Cannon to provide two Bean Cap Ammo. When fired, these Bean Caps cannot miss.\\n»» Threaded: This item may be loaded into a Cap Cannon to provide two Glue Cap Ammo. When fired, they affect a Blast 2 instead of a single target.\\n»» Zapper: This item may be loaded into a Cap Cannon as a single Net Cap Ammo. Targets trapped by this Net Cap are Suppressed while trapped. Targets immune to Electric-Type attacks are immune to this effect.",
     "prerequisites": "Capsule Science, Master Technology Education",
     "frequency": "Daily x3 – Extended Action",
-    "class": "Gadgeteer",
+    "class": "Researcher (Gadgeteer)",
     "tags": "[Gadgeteer Research Field][Branch]"
   },
   {
@@ -3563,7 +3570,7 @@
     "effect": "Effect: You learn the Moves Sweet Kiss and Taunt.\\nNote: Provocateur Skills are Charm, Guile, and Intimidate.",
     "prerequisites": "One of Confidence Artist, Intimidating Presence, or Charmer",
     "frequency": "Static",
-    "class": "Provocateur",
+    "class": "",
     "tags": "[Class][+Speed]"
   },
   {
@@ -3611,7 +3618,7 @@
     "effect": "You learn the Moves Double Team and Poison Powder.",
     "prerequisites": "Novice Stealth, Novice Combat",
     "frequency": "Static",
-    "class": "Ninja",
+    "class": "",
     "tags": "[Class][+Speed]"
   },
   {
@@ -3627,7 +3634,7 @@
     "effect": "Trigger - Your Poison-Type Pokémon inflicts Poison on a foe\\nEffect: The foe does not necessarily lose Special Defense Combat Stages from Poison; instead, they lose Combat Stages in the Combat Stat of your choice. Whenever the target loses Hit Points from Poison, they lose additional Hit Points equal to your Type-Linked Skill Rank.",
     "prerequisites": "Type Ace, Poison as Chosen Type",
     "frequency": "At-Will - Free Action",
-    "class": "Poison Type Ace",
+    "class": "Type Ace (Poison)",
     "tags": "-"
   },
   {
@@ -3643,7 +3650,7 @@
     "effect": "Trigger - Your Pokémon reappears after using Ghost Step, or the set-up phase of Phantom Force or Shadow Force\\nEffect: The next Ghost-Type attack the target makes that turn gains the Smite keyword and can’t be Intercepted or avoided in any way (Dodge, Parry, Shield Moves, etc).",
     "prerequisites": "Ghost Step, Type-Linked Skill at Master",
     "frequency": "Daily x3 - Free Action",
-    "class": "Ghost Type Ace",
+    "class": "Type Ace (Ghost)",
     "tags": "-"
   },
   {
@@ -3651,7 +3658,7 @@
     "effect": "Choose Shadow Tag or Super Luck. You gain the chosen Ability.",
     "prerequisites": "Shade Caller, Master Guile or Stealth",
     "frequency": "Static",
-    "class": "Dark Elementalist - Shade Caller",
+    "class": "Shade Caller",
     "tags": "[+Attack or Special Attack]"
   },
   {
@@ -3667,7 +3674,7 @@
     "effect": "You may create Energy Powder, Heal Powder, or Poultices from ingredients, as listed below.\\n»» Energy Powder: A Sitrus Berry or Tiny Mushroom creates x2 Energy Powders. An Energy Root creates x3 Energy Powders.\\n»» Heal Powder: A Lum Berry or Big Mushroom creates x2 Heal Powders. A Revival Herb creates x3 Heal Powders\\n»» Poultice: x1 Energy Powder and x1 Heal Powder create x3 Poultices.",
     "prerequisites": "Seed Bag Rank 1",
     "frequency": "Static",
-    "class": "Botany",
+    "class": "Researcher (Botany)",
     "tags": "[Botany Research Field][Branch]"
   },
   {
@@ -3675,7 +3682,7 @@
     "effect": "You gain the Frostbite Ability",
     "prerequisites": "Master Athletics or Survival",
     "frequency": "Static",
-    "class": "Ice Elementalist - Frost Touched",
+    "class": "Frost Touched",
     "tags": "[+Attack or Special Attack]"
   },
   {
@@ -3699,7 +3706,7 @@
     "effect": "You gain the Moves Shadow Claw and Phantom Force. You may use these Moves as Weapon Attacks when wielding Melee Weapons.",
     "prerequisites": "Shadow Arms, Expert Intimidate or Occult Education",
     "frequency": "Static",
-    "class": "Ghost Elementalist - Apparition",
+    "class": "Apparition",
     "tags": "[+Attack][Weapon]"
   },
   {
@@ -3731,7 +3738,7 @@
     "effect": "Trigger - You Train your Pokémon\\nEffect: For each of your Pokémon that has been Trained during this time, choose a Skill; that Skill becomes Pushed until an Extended Rest is taken. Pokémon rolls +1d6 with Pushed Skills, unless that would cause you to roll more than 6d6; if so, that Pokémon rolls with a +3 Bonus instead. A Pokémon may have only one Pushed Skill at a time.",
     "prerequisites": "Pusher",
     "frequency": "At-Will - Free Action",
-    "class": "Pokemon Caretaking",
+    "class": "Researcher (Pokemon Caretaking)",
     "tags": "[Pokemon Caretaking Research Field][Branch]"
   },
   {
@@ -3787,7 +3794,7 @@
     "effect": "Trigger - Your Pokémon misses with a Damaging Rock- Type Move\\nEffect: The Move gains the Smite keyword for that use.",
     "prerequisites": "Gravel Before Me, Type-Linked Skill at Master",
     "frequency": "Daily x3 - Free Action",
-    "class": "Rock Type Ace",
+    "class": "Type Ace (Rock)",
     "tags": "-"
   },
   {
@@ -3795,7 +3802,7 @@
     "effect": "Target: Your Pokémon\\nEffect: While this Stratagem is bound, your Pokémon may activate Moves and Abilities as if they were in a Sandstorm.",
     "prerequisites": "Mold the Earth, Type-Linked Skill at Adept",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Ground Type Ace",
+    "class": "Type Ace (Ground)",
     "tags": "[Orders][Stratagem]"
   },
   {
@@ -3803,7 +3810,7 @@
     "effect": "Effect: You gain three Skill Edges for which you qualify.\\nThese Skill Edges must Rank Up a Skill.\\nSpecial: Hobbyist Features count as 'General Features' for the purposes of any effect that would grant you a General Feature.",
     "prerequisites": "Novice General Education, Novice Perception",
     "frequency": "Static",
-    "class": "Hobbyist",
+    "class": "",
     "tags": "[Class]"
   },
   {
@@ -3819,7 +3826,7 @@
     "effect": "Target: Your Pokémon with at least 2 Tutor Points remaining\\nEffect: Your Pokémon loses 2 Tutor Points and gains the Friend Guard Ability.",
     "prerequisites": "Inspired Training, Novice Charm",
     "frequency": "At-Will – Extended Action",
-    "class": "Cheerleader",
+    "class": "",
     "tags": "[Class]"
   },
   {
@@ -3827,7 +3834,7 @@
     "effect": "Trigger: Your Pokémon hits with a Bug-Type Move\\nEffect: Until the end of user’s next turn, all targets hit by the Move are Slowed, suffer a -X to Accuracy Rolls, and are Flinched by Damaging Attacks on 16+.\\nX is equal to half your type-linked skill rank.",
     "prerequisites": "Insectoid Utility, Type-Linked Skill at Master",
     "frequency": "Daily x3 - Free Action",
-    "class": "Bug Type Ace",
+    "class": "Type Ace (Bug)",
     "tags": "-"
   },
   {
@@ -3843,7 +3850,7 @@
     "effect": "Trigger - You hit with an Apparition Move or Ghost- Typed Weapon Attack\\nEffect: After one full round, repeat the triggering attack against one target as a Free Action, regardless of range. If this attack hits, it deals damage as if it were resisted one step further. Haunted Wounds may only affect a target once per Scene.",
     "prerequisites": "Shadow Arms, Master Intimidate or Occult Education",
     "frequency": "Scene x2 - Free Action",
-    "class": "Ghost Elementalist - Apparition",
+    "class": "Apparition",
     "tags": "[+Attack][Weapon]"
   },
   {
@@ -3859,7 +3866,7 @@
     "effect": "You gain three Edges for which you qualify. These Edges must be used to gain a Skill Edge with an Education Skill, or to gain an Edge that has an Education Skill as a Prerequisite that you meet.",
     "prerequisites": "Novice General Education",
     "frequency": "Static",
-    "class": "General Researcher",
+    "class": "Researcher (General)",
     "tags": "[General Research Field][Branch]"
   },
   {
@@ -3867,7 +3874,7 @@
     "effect": "Learn two Fire Breather Moves from the list below.\\nRank 1 Moves: Flamethrower, Fire Punch, Fire Spin, Sunny Day",
     "prerequisites": "Expert Focus or Combat",
     "frequency": "Static",
-    "class": "Fire Elementalist - Fire Bringer",
+    "class": "Fire Bringer",
     "tags": "[Ranked 2][+Special Attack or Attack]"
   },
   {
@@ -3891,7 +3898,7 @@
     "effect": "Target: A Pokémon or Trainer\\nEffect: The Foe becomes Tagged; or if the foe is already Tagged, the foe loses the Tag. Only one foe can be Tagged this way at a time. If a new Foe is Tagged, all other Tags are lost. Your Pokémon under the effects of Focused Training gain half their Momentum (rounded up) as a Bonus to Accuracy and Evasion against Tagged Foes, but as long as a Foe is Tagged, they do not benefit from Focused Training’s Accuracy Bonus against other foes.  See Extras - Class Mechanics for Momentum details.",
     "prerequisites": "Focused Training, Novice Focus",
     "frequency": "At-Will - Swift Action",
-    "class": "Duelist",
+    "class": "",
     "tags": "[Class]"
   },
   {
@@ -3915,7 +3922,7 @@
     "effect": "When wielding metal Melee Weapons, you may use Athletics or Focus instead of Combat to determine the Damage Base of your Struggle Attacks, to qualify for a Weapon’s Moves, and to resist Disarm Checks. Whenever your Weapon Attacks hit a foe who has previously hit you with a Melee attack in the same round, the foe loses a Tick of Hit Points.",
     "prerequisites": "Elemental Connection (Steel), Novice Athletics, Novice Focus",
     "frequency": "Static",
-    "class": "Steel Elementalist - Steelheart",
+    "class": "Steelheart",
     "tags": "[Class][+Defense][Weapon]"
   },
   {
@@ -3923,7 +3930,7 @@
     "effect": "Your Pokémon may reroll a single Appeal Roll or Damage Roll. This Ability may be used only once per Contest, and once per Pokémon per Scene.",
     "prerequisites": "Grace, Novice Charm, Command, Guile, Intimidate, or Intuition",
     "frequency": "At-Will - Free Action",
-    "class": "Coordinator",
+    "class": "",
     "tags": "[Class]"
   },
   {
@@ -3939,7 +3946,7 @@
     "effect": "Your Pokémon gain +2d6 to your chosen Contest Stat. These dice are counted as if coming from Poffins.\\n\\nNote: When you take Style Expert, choose from Beauty, Cool, Cute, Smart, or Tough. This becomes your Chosen Contest Stat. You may take Style Expert multiple times, each time choosing a different Contest Stat",
     "prerequisites": "3 Pokémon with 3d6 in a specific certain Contest Stat from Poffins\\nOr\\nCoordinator, 1 Pokemon with 3d6 in a specific certain Constat Stat from Poffins",
     "frequency": "Static",
-    "class": "Style Expert",
+    "class": "",
     "tags": "[Class][Branch]"
   },
   {
@@ -3947,7 +3954,7 @@
     "effect": "Trigger - Your Pokémon uses a Fairy-Type Move\\nEffect: Your Pokémon and all allies on the Field gain a +1 Bonus to all rolls for one full round.",
     "prerequisites": "Fairy Lights, Type-Linked Skill at Adept",
     "frequency": "Scene x2 - Free Action",
-    "class": "Fairy Type Ace",
+    "class": "Type Ace (Fairy)",
     "tags": "-"
   },
   {
@@ -3963,7 +3970,7 @@
     "effect": "Choose Spinning Dance or Own Tempo. You gain the chosen Ability.",
     "prerequisites": "Novice Acrobatics; Novice Athletics or Charm",
     "frequency": "Static",
-    "class": "Dancer",
+    "class": "",
     "tags": "[Class][+Speed]"
   },
   {
@@ -3971,7 +3978,7 @@
     "effect": "Target: A Pokémon.\\nEffect: You Channel the target Pokémon. If you attempt to Channel a Hostile Pokémon, you must make an Intuition Check with a DC of 15 to Channel the target. You may stop Channeling a Pokémon as a Free Action at any time. You may Channel a number of Pokémon at a time up to your Intuition Rank. If a Channeled Pokémon goes further than 20 meters from you, they stop being Channeled.  See Extras - Class Mechanics for Channel details.",
     "prerequisites": "Mystic Senses",
     "frequency": "At-Will - Swift Action",
-    "class": "Channeler",
+    "class": "",
     "tags": "[Class]"
   },
   {
@@ -3979,7 +3986,7 @@
     "effect": "Ingredients: Two Restoratives, or a Restorative and an X-Item\\nEffect: You fuse the two Ingredients, creating an Item that has the properties of both. If you choose two Restoratives, they cannot be Restoratives with the same effect (you could not for example, mix a Potion and a Super Potion). If a Restorative Patch is used as an Ingredient, the resulting item can only be used as an Extended Action.\\nRecipe - Performance Enhancers",
     "prerequisites": "Apothecary, Master Medicine Education",
     "frequency": "At-Will - Extended Action",
-    "class": "Apothecary",
+    "class": "Researcher (Apothecary)",
     "tags": "[Apothecary Research Field][Branch]"
   },
   {
@@ -3987,7 +3994,7 @@
     "effect": "Choose Flash Fire or Flame Body. You gain the chosen Ability.",
     "prerequisites": "Fire Bringer, Expert Focus or Combat",
     "frequency": "Static",
-    "class": "Fire Elementalist - Fire Bringer",
+    "class": "Fire Bringer",
     "tags": "[+Special Attack or Attack]"
   },
   {
@@ -4011,7 +4018,7 @@
     "effect": "Effect: You summon a windy breeze that follows you around. Your sense of touch is extended through this wind, and you can guide it by thought, using it to perceive the shape and texture of objects as long as the wind can reach, even through very small cracks and holes. The range of this effect is equal to your Acrobatics Rank plus Perception Rank in meters.",
     "prerequisites": "Adept Perception",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Flying Elementalist - Wind Runner",
+    "class": "Wind Runner",
     "tags": "[+Speed]"
   },
   {
@@ -4019,7 +4026,7 @@
     "effect": "Target: Your Fossil Pokémon with at least 2 Tutor Points remaining\\nEffect: The target loses 2 Tutor Points and learns any Move from its Egg Move or Tutor Move List. Genetic Memory may target a Pokémon only twice: once with a Tutor Move and once with an Egg Move. Egg Moves tutored this way do not count against the limit of 3 for TM and Tutor Moves.",
     "prerequisites": "Ancient Heritage, Expert Pokemon Education",
     "frequency": "Daily x2 - Extended Action",
-    "class": "Paleontology",
+    "class": "Researcher (Paleontology)",
     "tags": "[Paleontology Research Field][Branch]"
   },
   {
@@ -4035,7 +4042,7 @@
     "effect": "Pick two of Drill Run, Magnitude, or Mud Bomb. You learn the chosen Moves",
     "prerequisites": "Earth Shaker, Expert Focus or Intuition",
     "frequency": "Static",
-    "class": "Ground Elementalist - Earth Shaker",
+    "class": "Earth Shaker",
     "tags": "[+Defense]"
   },
   {
@@ -4043,7 +4050,7 @@
     "effect": "You gain the Telekinetic Capability.",
     "prerequisites": "Elemental Connection (Psychic), Iron Mind",
     "frequency": "Static",
-    "class": "Telekinetic",
+    "class": "",
     "tags": "[Class][+Special Attack]"
   },
   {
@@ -4051,7 +4058,7 @@
     "effect": "Trigger: You or your Pokémon make a roll\\nEffect: You may roll twice and keep the best result.",
     "prerequisites": "Breadth of Knowledge, Master General Education",
     "frequency": "Daily x2 – Free Action",
-    "class": "General Researcher",
+    "class": "Researcher (General)",
     "tags": "[General Research Field][Branch]"
   },
   {
@@ -4067,7 +4074,7 @@
     "effect": "Target: Your Psychic-Type Pokémon\\nEffect: While this Feature is Bound, the target’s damaging Psychic-Type Moves gain a +1 Bonus to Effect Range and a +3 Bonus to Damage Rolls for each of the following conditions that the target is suffering: Bad Sleep, Confusion, Curse, Disabled, Flinch, Infatuation, Rage, or Suppression.",
     "prerequisites": "Psionic Sponge, Type-Linked Skill at Adept",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Psychic Type Ace",
+    "class": "Type Ace (Psychic)",
     "tags": "[Orders][Stratagem]"
   },
   {
@@ -4083,7 +4090,7 @@
     "effect": "Target: A Restorative Item\\nEffect: You distill the target, gaining 3 Restorative Patches. Restorative Patches have the same effect as the items from which they were created, but can only be applied as an Extended Action.\\nRecipe - Super Cures",
     "prerequisites": "Apothecary, Adept Medicine Education",
     "frequency": "At-Will - Extended Action",
-    "class": "Apothecary",
+    "class": "Researcher (Apothecary)",
     "tags": "[Apothecary Research Field][Branch]"
   },
   {
@@ -4091,7 +4098,7 @@
     "effect": "You gain the Psionic Sight Feature, even if you do not meet the prerequisites. If you already had the Psionic Sight Feature, you instead gain another Feature for which you qualify.",
     "prerequisites": "Novice Occult Education",
     "frequency": "Static",
-    "class": "Occultism",
+    "class": "Researcher (Occultism)",
     "tags": "[Occultism Research Field][Branch]"
   },
   {
@@ -4115,7 +4122,7 @@
     "effect": "You learn 2 Moves chosen from the list below, marked with the Rank of this Feature you are gaining or lower.\\nRank 2 Moves: Bubblebeam, Waterfall, Whirlpool",
     "prerequisites": "Adept Athletics or Acrobatics",
     "frequency": "Static",
-    "class": "Water Elementalist - Mealstrom",
+    "class": "Mealstrom",
     "tags": "[Ranked 3][+Speed]"
   },
   {
@@ -4123,7 +4130,7 @@
     "effect": "You may learn two Moves from the list below, marked with the Raging Winds Rank you are gaining or lower.\\nRank 2 Moves: Air Slash, Bounce, Defog, Feather Dance",
     "prerequisites": "Expert Acrobatics or Perception",
     "frequency": "Static",
-    "class": "Flying Elementalist - Wind Runner",
+    "class": "Wind Runner",
     "tags": "[Ranked 3][+Speed]"
   },
   {
@@ -4139,7 +4146,7 @@
     "effect": "Target: An ally within 5 meters\\nEffect: The target gains Damage Reduction equal to your Occult Education Rank doubled or their Tick Value, whichever is higher, for one full round.",
     "prerequisites": "Novice Occult Education",
     "frequency": "At-Will - Standard Action",
-    "class": "Sage",
+    "class": "",
     "tags": "[Class][+HP]"
   },
   {
@@ -4147,7 +4154,7 @@
     "effect": "You gain the Magnetic Capability and may use this magnetism to stick to surfaces with significant metal content (ex: metal walls obviously, concrete with metal I-beams inside, etc). You may use your Overland to traverse any such surfaces, even if that means walking vertically up a wall or upside down on a ceiling. You may choose not to be Pushed when on such a surface.",
     "prerequisites": "Storm Wizard Rank 1, Adept Acrobatics",
     "frequency": "Static",
-    "class": "Electric Elementalist - Storm Wizard",
+    "class": "Storm Wizard",
     "tags": "[+Speed]"
   },
   {
@@ -4179,7 +4186,7 @@
     "effect": "You may craft any Chemistry Recipe for which you qualify.\\nRecipes - Enhancers, Pester Balls: Disorient",
     "prerequisites": "Repel Crafter",
     "frequency": "At-Will - Extended Action",
-    "class": "Chemistry",
+    "class": "Researcher (Chemistry)",
     "tags": "[Chemistry Research Field][Branch]"
   },
   {
@@ -4211,7 +4218,7 @@
     "effect": "Choose Ice Shield or Winter's Kiss. You gain the Chosen Ability.",
     "prerequisites": "Frost Touched",
     "frequency": "Static",
-    "class": "Ice Elementalist - Frost Touched",
+    "class": "Frost Touched",
     "tags": "[+Attack or Special Attack]"
   },
   {
@@ -4243,7 +4250,7 @@
     "effect": "Trigger: You or your Pokémon create a Weather Condition\\nEffect: The Weather is particularly intense and has additional effects.\\n»» Hail: All Trainers and Pokémon that take Hail Damage take a -5 Penalty to all Damage Rolls.\\n»» Rain: All Trainers and Pokémon that are not Water or Grass typed can only take Standard OR Shift Action during their turns, but not both.\\n»» Sandstorm: All Trainers and Pokémon that take Sandstorm damage take a -2 Penalty to Accuracy Rolls.\\n»» Sun: Trainers and Pokémon that are not Fire or Grass Typed can only use At-Will and EOT Frequency Moves.",
     "prerequisites": "Climate Control, Master Survival",
     "frequency": "Daily x3 - Free Action",
-    "class": "Climatology",
+    "class": "Researcher (Climatology)",
     "tags": "[Climatology Research Field][Branch]"
   },
   {
@@ -4251,7 +4258,7 @@
     "effect": "Your Flying-Type Pokémon may activate Zephyr Shield as a Standard Action Interrupt, or as a Shift Action during their turn. If they do, until the end of the user’s next turn, all ranged attacks targetting them take a -1 penalty to Accuracy and -10 penalty to damage, they become immune to the effects of Moves with the Powder keyword, and they do not lose Hit Points from Weather effects. Additionally, if Zephyr Shield is used as a Standard Action, that Pokémon may use the Resolution Effect of a Flying-Type Move with the Set- Up keyword on their next turn, skipping the Set-Up phase.",
     "prerequisites": "Celerity, Type-Linked Skill at Expert",
     "frequency": "At-Will - Special",
-    "class": "Flying Elementalist - Wind Runner",
+    "class": "Type Ace (Flying)",
     "tags": "-"
   },
   {
@@ -4355,7 +4362,7 @@
     "effect": "Your Fairy-Type Pokemon may activate Fairy Lights as a Standard Action to create 3 Fairy Lights that hover around themselves. Whenever the target is attacked by a foe within 6 meters, they may expend a Fairy Light to either immediately gain a Tick of Temporary Hit Points, or to use the Move Fairy Wind as a Free Action.\\n\\nSpecial - Fairy Lights also provide mild lighting, comparable to a candle. As an extended action your Pokemon can control the lights individually, but they must stay within 6 meters of the Pokemon that created them.",
     "prerequisites": "Type Ace, Fairy as Chosen Type",
     "frequency": "At-Will - Special",
-    "class": "Fairy Type Ace",
+    "class": "Type Ace (Fairy)",
     "tags": "-"
   },
   {
@@ -4419,7 +4426,7 @@
     "effect": "Trigger - Your Pokémon hits a foe with a Psychic-Type Status Move\\nEffect: Your Pokémon may use the Move Encore against the triggering foe, as if it was on their Move List.",
     "prerequisites": "Psionic Sponge, Type-Linked Skill at Expert",
     "frequency": "Scene x2 - Free Action",
-    "class": "Psychic Type Ace",
+    "class": "Type Ace (Psychic)",
     "tags": "-"
   },
   {
@@ -4427,7 +4434,7 @@
     "effect": "Your body becomes more malleable, and even your bones are able to flex when required. You do not gain Wounds from taking Massive damage, and you gain a +2 Bonus to any Acrobatics or Athletics Check made to bend, squeeze, or otherwise contort your body - including those to avoid Trip or Grapple maneuvers.",
     "prerequisites": "Miasmic",
     "frequency": "Static",
-    "class": "Poison Elementalist - Miasmic",
+    "class": "Miasmic",
     "tags": "[+Defense]"
   },
   {
@@ -4435,7 +4442,7 @@
     "effect": "You learn Dark Pulse and Night Slash",
     "prerequisites": "Shade Caller, Expert Guile or Stealth",
     "frequency": "Static",
-    "class": "Dark Elementalist - Shade Caller",
+    "class": "Shade Caller",
     "tags": "[+Attack or Special Attack]"
   },
   {
@@ -4443,7 +4450,7 @@
     "effect": "Condition: You must have at least one Equipment Item you created with Improvised Gadgets equipped to use this Feature.\\nEffect: Choose one of your equipped items you created with Improved Gadgets. It is destroyed and cannot be repaired, and that instance of Improvised Gadgets is immediately Unbound. Use the effect below corresponding to the Capability granted by the chosen item.\\n\\n»» Magnetic: You may activate this effect as a Standard Action Interrupt whenever a Steel or Electric-Type attack or an attack with a metal Weapon would hit a target within 5 meters. The attack instead misses all targets within 5 meters.\\n»» Threaded: Choose up to 3 targets within 4 meters and perform an AC 4 Status Attack against them as a Standard Acion. All hit targets become Stuck and Trapped for one full round.\\n»» Zapper: You may activate this effect as a Swift Action upon hitting a foe with a Zapper-modified Struggle Attack. The foe is Paralyzed.",
     "prerequisites": "Improvised Gadgets, Adept Technology Education",
     "frequency": "At-Will – Special",
-    "class": "Gadgeteer",
+    "class": "Researcher (Gadgeteer)",
     "tags": "[Gadgeteer Research Field][Branch]"
   },
   {
@@ -4475,7 +4482,7 @@
     "effect": "Trigger - Your Pokémon hits with a damaging Water- Type attack\\nEffect: All targets of the attack are put in a Vortex, and take a penalty to all Damage Rolls equal to your Type-Linked Skill Rank while in the Vortex.",
     "prerequisites": "Flood!, Type-Linked Skill at Master",
     "frequency": "Scene x2 - Free Action",
-    "class": "Water Type Ace",
+    "class": "Type Ace (Water)",
     "tags": "-"
   },
   {
@@ -4491,7 +4498,7 @@
     "effect": "You are immune to the Poisoned and Badly Poisoned statuses and resist Poison-type attacks one step further.",
     "prerequisites": "Miasmic",
     "frequency": "Static",
-    "class": "Poison Elementalist - Miasmic",
+    "class": "Miasmic",
     "tags": "[+Defense]"
   },
   {
@@ -4499,7 +4506,7 @@
     "effect": "You gain the Probability Control Ability.",
     "prerequisites": "Elemental Connection (Psychic), Novice Guile",
     "frequency": "Static",
-    "class": "Warper",
+    "class": "",
     "tags": "[Class][+Speed]"
   },
   {
@@ -4507,7 +4514,7 @@
     "effect": "Trigger - Your Grass-Type Pokémon uses a damaging Grass-Type Move\\nEffect: Your Pokémon may immediately use a Grass-Type Status-Class move as a Free Action.",
     "prerequisites": "Foiling Foliage, Type-Linked Skill at Master",
     "frequency": "Daily x3 - Free Action",
-    "class": "Grass Type Ace",
+    "class": "Type Ace (Grass)",
     "tags": "-"
   },
   {
@@ -4539,7 +4546,7 @@
     "effect": "Choose Absorb Force, Poison Point, or Poison Touch. You gain the chosen Ability.",
     "prerequisites": "Adept Guile or Stealth",
     "frequency": "Static",
-    "class": "Poison Elementalist - Miasmic",
+    "class": "Miasmic",
     "tags": "[+Defense]"
   },
   {
@@ -4563,7 +4570,7 @@
     "effect": "Target: Your Pokémon\\nEffect: While this Feature is Bound, the target’s Fighting-Type Moves cause foes to become Marked by the target for 1 full round. If the target is a Fighting- Type Pokémon, they may also Mark the Foe for one full round when hitting with a Grapple, Trip, or Push Maneuver.\\n\\nNote: Marked Foes provoke an attack of Opportunity from the Pokémon that marked them if they Shift out of an adjacent square into a square that is not adjacent, even if they use a Disengage Maneuver. Targets cannot be Marked by more than one Pokémon at a time.",
     "prerequisites": "Type Ace, Fighting as Chosen Type",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Fighting Type Ace",
+    "class": "Type Ace (Fighting)",
     "tags": "[Orders][Stratagem]"
   },
   {
@@ -4595,7 +4602,7 @@
     "effect": "You may learn two Moves from the list below, marked with the Storm Wizard Rank you are gaining or lower.\\nRank 3 Moves: Discharge, Thunder, Thunder Wave, Volt Tackle",
     "prerequisites": "Master Acrobatics or Focus",
     "frequency": "Static",
-    "class": "Electric Elementalist - Storm Wizard",
+    "class": "Storm Wizard",
     "tags": "[+Speed][Ranked 3]"
   },
   {
@@ -4603,7 +4610,7 @@
     "effect": "When wielding Melee Weapons, you may use Occult Education or Intimidate instead of Combat to determine the Damage Base of your Struggle Attacks, to resist Disarm Maneuvers, and to qualify for a Weapon’s Moves. Your Weapon Attacks always treat you as having the Reach Capability, and foes may not activate Reaction effects against them that specify being hit by a Melee Attack.",
     "prerequisites": "Elemental Connection (Ghost), Novice Intimidate, Novice Occult Education",
     "frequency": "Static",
-    "class": "Ghost Elementalist - Apparition",
+    "class": "Apparition",
     "tags": "[Class][+Attack][Weapon]"
   },
   {
@@ -4635,7 +4642,7 @@
     "effect": "Your Pokémon gain the Basic Ranged Attacks, Aura Pulse, Enticing Bait, Extended Invisibility, Far Reading, Precise Threadings, Seismometer, TK Mastery, and Trail Sniffer Poke Edges automatically if they qualify for them, without having to invest any Tutor Points.",
     "prerequisites": "Novice Pokemon Education",
     "frequency": "Static",
-    "class": "Pokemon Caretaking",
+    "class": "Researcher (Pokemon Caretaking)",
     "tags": "[Pokemon Caretaking Research Field][Branch]"
   },
   {
@@ -4651,7 +4658,7 @@
     "effect": "You gain the Tremorsense Capability, and you gain Naturewalk for Cave, Mountain and Desert.",
     "prerequisites": "Earth Shaker",
     "frequency": "Static",
-    "class": "Ground Elementalist - Earth Shaker",
+    "class": "Earth Shaker",
     "tags": "[+Defense]"
   },
   {
@@ -4683,7 +4690,7 @@
     "effect": "Trigger - You use a damaging Attack\\nEffect: Add half your Evasion to your Accuracy Roll for the attack, and all foes hit by the attack have their Initiative reduced by your full Evasion value.",
     "prerequisites": "Harrier, Adept Combat or Acrobatics",
     "frequency": "Scene x3 - Free Action",
-    "class": "Harrier",
+    "class": "Skirmisher",
     "tags": "[+Speed]"
   },
   {
@@ -4691,7 +4698,7 @@
     "effect": "Trigger - You hit a foe with a damaging Fairy attack\\nEffect: Choose one of the following: Status-Class, Combat Maneuver, attacks with an unmodified Damage Base 10 or higher, or an Elemental Type. The triggering foe is Bound; they suffer a -X penalty to all rolls made to use attacks with the chosen trait. X is equal to half your Charm or Occult Education Rank. The Bound condition lasts until the end of a Scene. You may unbind someone as a Free Action at any time. A target may not have multiple instances of Bound applied at once.",
     "prerequisites": "Glamour Weaver",
     "frequency": "1 AP - Swift Action",
-    "class": "Fairy Elementalist - Glamour Weaver",
+    "class": "Glamour Weaver",
     "tags": "[+Special Attack]"
   },
   {
@@ -4755,15 +4762,15 @@
     "effect": "Choose two of Detect, Vacuum Wave, or Force Palm. You learn the chosen Moves.",
     "prerequisites": "Elemental Connection (Fighting)",
     "frequency": "Static",
-    "class": "Aura Guardian",
-    "tags": "Class][+Attack or Special Attack]"
+    "class": "",
+    "tags": "[Class][+Attack or Special Attack]"
   },
   {
     "name": "Rouse the Dragon's Blood",
     "effect": "Trigger - You suffer a Critical Hit or gain an Injury from a foe’s attack\\nEffect: For 1 full round, the next Herald of Pride Move you use against the triggering foe cannot miss, cannot be Intercepted, and effects that would cause it to miss cannot be activated against it.",
     "prerequisites": "Herald of Pride, Expert Command or Intimidate",
     "frequency": "Scene x2 - Free Action",
-    "class": "Dragon Elementalist - Herald of Pride",
+    "class": "Herald of Pride",
     "tags": "[+Attack]"
   },
   {
@@ -4771,7 +4778,7 @@
     "effect": "You learn the Call to Arms and Unlimited Steel Works Talents.",
     "prerequisites": "Steelheart, Expert Athletics or Focus",
     "frequency": "Static",
-    "class": "Steel Elementalist - Steelheart",
+    "class": "Steelheart",
     "tags": "[+Defense][Weapon]"
   },
   {
@@ -4795,7 +4802,7 @@
     "effect": "Each Rank, choose one of Arena Trap or Lightningrod. You gain the chosen Ability.",
     "prerequisites": "Ground Out, Master Focus or Intuition",
     "frequency": "Static",
-    "class": "Ground Elementalist - Earth Shaker",
+    "class": "Earth Shaker",
     "tags": "[Ranked 2][+Defense]"
   },
   {
@@ -4811,7 +4818,7 @@
     "effect": "Your Pokémon with at least 3d6 in their Tough Stat from Poffins may activate Tough Tumble as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves.\\nRank 2: Glare, Bide",
     "prerequisites": "Expert Intimidate",
     "frequency": "1 AP - Special",
-    "class": "Tough Style Expert",
+    "class": "Style Expert (Tough)",
     "tags": "[Ranked 2]"
   },
   {
@@ -4819,7 +4826,7 @@
     "effect": "You gain the Bulletproof Ability.",
     "prerequisites": "Steelheart, Expert Athletics or Focus",
     "frequency": "Static",
-    "class": "Steel Elementalist - Steelheart",
+    "class": "Steelheart",
     "tags": "[+Defense]"
   },
   {
@@ -4851,7 +4858,7 @@
     "effect": "Target: A Willing Pokémon\\nEffect: You become adept at harvesting Seeds and Spores from Pokémon. You may target a willing Grass-Type Pokémon that knows Sleep Powder, Stun Spore, or Poison Powder. Add this move to your Move list for the remainder of the day. You may not use Seed Bag to have multiple instances of the same move in your Move list. Seed Bag may be used twice per day per Rank.",
     "prerequisites": "Green Thumb, Adept General Education or Survival",
     "frequency": "X Daily - Extended Action",
-    "class": "Botany",
+    "class": "Researcher (Botany)",
     "tags": "[Botany Research Field][Branch][Ranked 2]"
   },
   {
@@ -4867,7 +4874,7 @@
     "effect": "Trigger - Your Pokémon hits a foe with a Poison-Type Attack\\nEffect: The target gains the Blight Condition for one full round. Blighted targets lose a Tick of Hit Points upon being hit by any attack. If the attack is Poison-Typed, the Blight effect’s duration is refreshed.",
     "prerequisites": "Potent Venom, Type-Linked Skill at Master",
     "frequency": "Daily x3 - Free Action",
-    "class": "Poison Type Ace",
+    "class": "Type Ace (Poison)",
     "tags": "-"
   },
   {
@@ -4875,7 +4882,7 @@
     "effect": "Trigger - Your Pokémon hits with a Normal-Type Move with conditional modifiers which increase or decrease its damage\\nEffect: You use the highest damage value for the triggering Move. New Normal may only be used once per Scene per Pokémon. New Normal may not raise a Move’s Damage Base above 14; if a Move would have its Damage Base raised above that value, it is instead raised to 14. (Examples: Return is DB 9, Wring Out never has its damage decreased due to the target’s Hit Points, Retaliate is DB 14.)",
     "prerequisites": "Extra Ordinary, Type-Linked Skill at Expert",
     "frequency": "Scene x2 - Free Action",
-    "class": "Normal Type Ace",
+    "class": "Type Ace (Normal)",
     "tags": "-"
   },
   {
@@ -4883,7 +4890,7 @@
     "effect": "Your Pokémon with at least 3d6 in their Beauty Stat from Poffins may activate Beautiful Ballet as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves. X is the Rank of the chosen Move.\\nRank 1: Captivate, Mist",
     "prerequisites": "Style Expert, Beauty as Chosen Stat, Novice Intuition",
     "frequency": "X AP - Special",
-    "class": "Beauty Style Expert",
+    "class": "Style Expert (Beauty)",
     "tags": "[Ranked 2]"
   },
   {
@@ -4899,7 +4906,7 @@
     "effect": "Trigger - Your Pokémon hits with a Steel-Type attack\\nEffect: Your Pokémon may add its Defense Stat to their Damage Roll in place of the attack’s normal offensive stat.",
     "prerequisites": "Polished Shine, Type-Linked Skill at Expert",
     "frequency": "Scene x2 - Free Action",
-    "class": "Steel Type Ace",
+    "class": "Type Ace (Steel)",
     "tags": "-"
   },
   {
@@ -4907,7 +4914,7 @@
     "effect": "Trigger: Your Dragon-Type Pokémon is reduced to 50% of their Maximum HP or below, from above 50% Max HP \nEffect: Your Pokémon becomes Enraged, and gains +1 Combat Stage in each of Attack, Special Attack, and Speed. This Will Not Stand may trigger only once per Scene per Pokémon.",
     "prerequisites": "Tyrant's Roar, Type-Linked Skill at Master",
     "frequency": "Scene x2 - Free Action",
-    "class": "Dragon Elementalist - Herald of Pride",
+    "class": "Type Ace (Dragon)",
     "tags": "-"
   },
   {
@@ -4923,7 +4930,7 @@
     "effect": "You may also harvest Cotton Spore, Leech Seed, Spore, or Worry Seed.",
     "prerequisites": "Master General Education or Survival",
     "frequency": "Static",
-    "class": "Botany",
+    "class": "Researcher (Botany)",
     "tags": "[Botany Research Field][Branch][Ranked 2]"
   },
   {
@@ -4931,7 +4938,7 @@
     "effect": "You may learn two Moves from the list below, marked with the Storm Wizard Rank you are gaining or lower.\\nRank 2 Moves: Charge, Thunder Punch, Thunderbolt",
     "prerequisites": "Expert Acrobatics or Focus",
     "frequency": "Static",
-    "class": "Electric Elementalist - Storm Wizard",
+    "class": "Storm Wizard",
     "tags": "[+Speed][Ranked 3]"
   },
   {
@@ -4947,7 +4954,7 @@
     "effect": "Choose Static or Electrodash. You gain the Chosen Ability.",
     "prerequisites": "Elemental Connection (Electric), Novice Focus, Novice Acrobatics",
     "frequency": "Static",
-    "class": "Electric Elementalist - Storm Wizard",
+    "class": "Storm Wizard",
     "tags": "[Class][+Speed]"
   },
   {
@@ -4971,7 +4978,7 @@
     "effect": "Trigger - Your Pokémon hits with a damaging Ice-Type Move\\nEffect: The target is Frozen, and has their Attack, Special Attack, and Speed Combat Stages lowered by 1 each. The target is automatically cured of the Frozen Condition after 1 full round. A foe may be affected by Deep Cold only once per Scene.",
     "prerequisites": "Glacial Ice, Type-Linked Skill at Master",
     "frequency": "Daily x3 - Free Action",
-    "class": "Ice Type Ace",
+    "class": "Type Ace (Ice)",
     "tags": "-"
   },
   {
@@ -4995,7 +5002,7 @@
     "effect": "Condition: You are wearing a Rainbow Gem\\nEffects: You create a Rainbow lasting one full round. While this Rainbow persists, the Effect Range of all Allies is increased by +3.\\nRecipes - Rainbow Gem, Plate Crafter",
     "prerequisites": "Crystal Artificer, Expert Occult Education",
     "frequency": "2 AP - Standard Action",
-    "class": "Artificer",
+    "class": "Researcher (Artificer)",
     "tags": "[Artificer Research Field][Branch]"
   },
   {
@@ -5003,7 +5010,7 @@
     "effect": "Target: Your Poison-Type Pokémon\\nEffect: While this Feature is Bound, when the target sucessfully hits a Poisoned or Blighted foe with a Poison- Type Move, the foe gains a -2 penalty to Accuracy Rolls and Evasion for one full round.",
     "prerequisites": "Potent Venom, Type-Linked Skill at Adept",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Poison Type Ace",
+    "class": "Type Ace (Poison)",
     "tags": "[Orders][Stratagem]"
   },
   {
@@ -5019,7 +5026,7 @@
     "effect": "Target: Your Dragon-Type Pokémon Effect: While this Feature is Bound, the target may roll a Save Check at the end of their turn. On 17+, they are cured of one of Burn, Confusion, Curse, Infatuation, Sleep, Paralysis, or Poison.",
     "prerequisites": "Tyrant's Roar, Type-Linked Skill at Expert",
     "frequency": "Bind 2 AP - Free Action",
-    "class": "Dragon Elementalist - Herald of Pride",
+    "class": "Type Ace (Dragon)",
     "tags": "[Orders][Stratagem]"
   },
   {
@@ -5043,7 +5050,7 @@
     "effect": "Trigger - You hit with a damaging Ground Type Move\\nEffect: You initiate a Trip Maneuver against 1 target of the Move. The Maneuver automatically hits, and you may use your Focus or Intuition for the opposed check.",
     "prerequisites": "Ground Out",
     "frequency": "2 AP - Swift Action",
-    "class": "Ground Elementalist - Earth Shaker",
+    "class": "Earth Shaker",
     "tags": "[+Defense]"
   },
   {
@@ -5059,7 +5066,7 @@
     "effect": "Trigger - Your Pokémon uses a Smart-Type Move\\nContest Effect: Treat the Move as if it were one step more aligned with the Contest Type. If the Move would be opposing the Contest Type, it is instead neutral. If it is neutral, it is instead matching. You may activate this effect only once per Contest.\\nBattle Effect: Choose one: The triggering Pokémon gains a +1 bonus on its Accuracy Roll for each ally that hit a target of its Move this round, or all allies get a +1 bonus to their Accuracy Rolls against targets of the triggering Pokémon’s Move until the end of your Pokémon’s next turn. You may activate Calculated Assault only once per Pokémon per Scene.",
     "prerequisites": "Smart Scheme Rank 1",
     "frequency": "At-Will - Free Action",
-    "class": "Smart Style Expert",
+    "class": "Style Expert (Smart)",
     "tags": "-"
   },
   {
@@ -5067,7 +5074,7 @@
     "effect": "You learn the moves Sludge Wave and Toxic.",
     "prerequisites": "Miasma’s Call, Master Stealth or Guile",
     "frequency": "Static",
-    "class": "Poison Elementalist - Miasmic",
+    "class": "Miasmic",
     "tags": "[+Defense]"
   },
   {
@@ -5075,7 +5082,7 @@
     "effect": "Trigger - Your Ice-Type Pokémon uses an Ice-Type Move\\nEffect: Your Pokémon uses the Move Mist as if it were on their Move List. When used this way, in addition to its normal effects, your Ice-Type Pokémon may expend uses of the Mist Blessing to do the following:\\n»» As a Swift Action on their turn to cause a foe within 5 meters to take a -5 penalty to Damage Rolls and become Slowed for one full round.\\n»» As a Free Action when being hit by a Fighting, Fire, Rock, or Steel-Typed attack dealing Super-Effective Damage to add their Tick Value to their Damage Reduction gained from Glacial Ice.\\n»» As a Swift Action on their turn to increase their Defense or Special Defense by 1 Combat Stage.",
     "prerequisites": "Glacial Ice, Type-Linked Skill at Expert",
     "frequency": "Scene x2 - Free Action",
-    "class": "Ice Type Ace",
+    "class": "Type Ace (Ice)",
     "tags": "-"
   },
   {
@@ -5099,7 +5106,7 @@
     "effect": "Your Pokémon have their Chosen Base Stat increased by +1, and by +1 more for every 10 Levels they have (for example, a Level 20 Pokémon would have your Chosen Stat’s base value increased by +3). Additionally, your Pokémon may ignore Base Relations, as long as they are adding to the Stat chosen for Stat Ace, and you do not need to “correct” Stats due to this inflated Stat Value.\\n\\nNote: When you take Stat Ace, choose Attack, Defense, Special Attack, Special Defense, or Speed. This becomes your Pokémon’s Chosen Stat. You may take Stat Ace multiple times, choosing different Stats each time. If using Style Expert to qualify for Stat Ace, your Chosen Stat must be the Stat that correlates to your Chosen Contest Stat. Beauty is Special Attack, Cool is Attack, Cute is Speed, Smart is Special Defense, and Tough is Defense.  You may use the Stat in place of \"Stat\" in all Stat Ace features on this sheet, e.g. \"Attack Ace\" or \"Special Defense Link\".",
     "prerequisites": "Ace Trainer or Style Expert, 1 Pokémon with the chosen stat at 15 or more, Novice Command or Focus\\nOr\\n3 Pokémon with the chosen stat at 20 or higher, Novice Command or Focus",
     "frequency": "Static",
-    "class": "Stat Ace",
+    "class": "",
     "tags": "[Class][Branch]"
   },
   {
@@ -5107,7 +5114,7 @@
     "effect": "You learn the Cap Cannon, Cap Ammo, and Wonder Launcher recipes, and you gain the following additional effects when using those items.\\n\\n»» Bean Caps: You gain a +10 Damage Bonus when using Bean Caps.\\n»» Glue Caps: Your Effect Range when using Glue Caps is increased by +3.\\n»» Nets Caps: Targets affected by your Net Caps gain a -X penalty to all Damage Rolls, where X is your Technology Education Rank.\\n»» Wonder Launcher: Whenever you apply an item to a target using the Wonder Launcher, they gain Temporary Hit Points equal to your Technology Education Rank.",
     "prerequisites": "Improvised Gadgets, Expert Technology Education",
     "frequency": "Static",
-    "class": "Gadgeteer",
+    "class": "Researcher (Gadgeteer)",
     "tags": "[Gadgeteer Research Field][Branch]"
   },
   {
@@ -5123,7 +5130,7 @@
     "effect": "Trigger - Your Pokémon with the Groundshaper Capability uses a Ground-Type Move\\nEffect: Your Pokémon may use the Groundshaper Capability as a Free Action. When used this way, Groundshaper creates Spike Hazards in each square turned into Rough or Slow Terrain. If you wish, instead of Groundshaper’s normal range, you may choose to affect the square targeted by the attack and all cardinally adjacent squares. If the triggering Move is a Burst, Blast, Line, or Cone, you may choose to affect all squares in the targeted area instead.",
     "prerequisites": "Type Ace, Ground as Chosen Type",
     "frequency": "Scene x2 - Free Action",
-    "class": "Ground Type Ace",
+    "class": "Type Ace (Ground)",
     "tags": "-"
   },
   {
@@ -5139,7 +5146,7 @@
     "effect": "You gain the Run Away Ability.",
     "prerequisites": "Acrobat",
     "frequency": "Static",
-    "class": "Tumbler",
+    "class": "",
     "tags": "[Class][+Speed]"
   },
   {
@@ -5155,7 +5162,7 @@
     "effect": "You learn Night Daze and Punishment",
     "prerequisites": "Sharpen Shadows, Master Guile or Stealth",
     "frequency": "Static",
-    "class": "Dark Elementalist - Shade Caller",
+    "class": "Shade Caller",
     "tags": "[+Attack or Special Attack]"
   },
   {
@@ -5163,7 +5170,7 @@
     "effect": "Trigger - You make a Weapon Attack.\\nEffect: The attack or Move increases your Defense by 1 Combat Stage on 16+ and you may have it deal Steel-Type Damage if you wish.",
     "prerequisites": "Steelheart",
     "frequency": "1 AP - Free Action",
-    "class": "Steel Elementalist - Steelheart",
+    "class": "Steelheart",
     "tags": "[+Defense][Weapon]"
   },
   {
@@ -5171,7 +5178,7 @@
     "effect": "Trigger - Your Pokémon gains Initiative\\nEffect: Your Pokémon gains 2 additional Standard Actions this turn. Your Pokémon may also Shift between taking each action, so long as their total Movement does not exceed their Movement Capabilities. All three of your Pokémon’s Standard Actions this turn must be used to perform Zephyr Shield, or Flying-Type Moves with a Frequency of At-Will or EOT. Tornado Charge may be used only once per day per Pokémon.",
     "prerequisites": "Celerity, Type-Linked Skill at Master",
     "frequency": "Daily x3 - Special",
-    "class": "Flying Elementalist - Wind Runner",
+    "class": "Type Ace (Flying)",
     "tags": "-"
   },
   {
@@ -5195,7 +5202,7 @@
     "effect": "You gain a Sky Speed equal to your Levitate Speed plus your Acrobatics or Perception Rank for the remainder of the round.",
     "prerequisites": "One With the Winds, Adept Acrobatics",
     "frequency": "1 AP - Swift Action",
-    "class": "Flying Elementalist - Wind Runner",
+    "class": "Wind Runner",
     "tags": "[+Speed]"
   },
   {
@@ -5243,7 +5250,7 @@
     "effect": "You may craft any Engineer Recipe for which you qualify.\\nRecipe - Robotics 101",
     "prerequisites": "Pokebot Training",
     "frequency": "Static",
-    "class": "Engineer",
+    "class": "",
     "tags": "[Engineer Researcher Field]"
   },
   {
@@ -5259,7 +5266,7 @@
     "effect": "Trigger - You throw a Pester Ball\\nEffect: The Pester Ball creates a Blast 2, affecting all targets in the area.\\nRecipes - Pester Ball: Pain",
     "prerequisites": "Chemist, Adept Technology Education",
     "frequency": "Scene x2 - Free Action",
-    "class": "Chemistry",
+    "class": "Researcher (Chemistry)",
     "tags": "[Chemistry Research Field][Branch]"
   },
   {
@@ -5315,7 +5322,7 @@
     "effect": "You learn the Moves Bullet Punch and Metal Claw. You may use these Moves as Weapon Attacks when wielding Melee Weapons.",
     "prerequisites": "Steelheart",
     "frequency": "Static",
-    "class": "Steel Elementalist - Steelheart",
+    "class": "Steelheart",
     "tags": "[+Defense][Weapon]"
   },
   {
@@ -5331,7 +5338,7 @@
     "effect": "Target: A Pokémon with 2 Tutor Points\\nEffect: The target loses 2 Tutor Points, and gains one of the following: +1 to all Base Stats, +2 to two different Base Stats, or +3 to a single Base Stat. The target then redistributes their Stat Points. A Pokémon may be targeted by Re-Balancing only once.",
     "prerequisites": "Pusher, Master Pokemon Education",
     "frequency": "At-Will - Extended Action",
-    "class": "Pokemon Caretaking",
+    "class": "Researcher (Pokemon Caretaking)",
     "tags": "[Pokemon Caretaking Research Field][Branch]"
   },
   {
@@ -5339,7 +5346,7 @@
     "effect": "You learn the Moves Rock Tomb and Wide Guard.",
     "prerequisites": "Elemental Connection (Rock), Novice Combat, Novice Survival",
     "frequency": "Static",
-    "class": "Rock Type Ace",
+    "class": "Stone Warrior",
     "tags": "[Class][+Defense]"
   },
   {
@@ -5371,7 +5378,7 @@
     "effect": "You may use any Chef Recipe for which you qualify.\\nRecipes - Meal Planner, Salty Surprise, Spicy Wrap, Sour Candy, Dry Wafer, Bitter Treat, Sweet Confection",
     "prerequisites": "Basic Cooking, Novice Intuition",
     "frequency": "At-Will - Extended Action",
-    "class": "Chef",
+    "class": "",
     "tags": "[Class]"
   },
   {
@@ -5411,7 +5418,7 @@
     "effect": "You may use your General Education Rank to qualify for Books, instead of the Book’s usual Skill Prerequisites, provided you have the normal Prerequisite at at least Novice Rank.",
     "prerequisites": "Bookworm, Expert General Education",
     "frequency": "Static",
-    "class": "General Researcher",
+    "class": "Researcher (General)",
     "tags": "[General Research Field][Branch]"
   },
   {
@@ -5419,7 +5426,7 @@
     "effect": "You gain the Synchronize Ability.",
     "prerequisites": "Glitched Existence, Novice Focus, Occult Education, or Perception",
     "frequency": "Static",
-    "class": "Glitch Bender",
+    "class": "",
     "tags": "[Class][+Special Defense]"
   },
   {
@@ -5427,7 +5434,7 @@
     "effect": "While this Feature is Bound, your Struggle Attacks and Weapon Attacks deal Ghost-Type Damage, and you gain the Dead Silent Capability.",
     "prerequisites": "Apparition, Adept Intimidate or Occult Education",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Ghost Elementalist - Apparition",
+    "class": "Apparition",
     "tags": "[+Attack][Weapon]"
   },
   {
@@ -5443,7 +5450,7 @@
     "effect": "Your Pokémon with at least 3d6 in their Cool Stat from Poffins may activate Cool Conduct as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves.\\nRank 2: Roar, Double Team",
     "prerequisites": "Expert Command",
     "frequency": "1 AP – Special",
-    "class": "Cool Style Expert",
+    "class": "Style Expert (Cool)",
     "tags": "[Ranked 2]"
   },
   {
@@ -5451,7 +5458,7 @@
     "effect": "Each Rank, choose one of Arena Trap or Lightningrod. You gain the chosen Ability.",
     "prerequisites": "Adept Focus or Intuition",
     "frequency": "Static",
-    "class": "Ground Elementalist - Earth Shaker",
+    "class": "Earth Shaker",
     "tags": "[Ranked 2][+Defense]"
   },
   {
@@ -5483,7 +5490,7 @@
     "effect": "Trigger - Your Pokémon hits with a damaging Bug-Type attack\\nEffect: While this Feature is bound, if the triggering attack would deal Super-Effective Damage, it gains a +2 Bonus to Accuracy Check. If it would deal Neutral Damage, it gains a Bonus to its Damage Roll equal to your Type-Linked Skill Rank. If it would be resisted, it is resisted one step less. This is calculated after applying any other effects that would modify effectiveness before the Accuracy Roll is made, such as the Tinted Lens Ability.",
     "prerequisites": "Insectoid Utility, Type-Linked Skill at Adept",
     "frequency": "Bind 2 AP - Standard Action",
-    "class": "Bug Type Ace",
+    "class": "Type Ace (Bug)",
     "tags": "[Orders][Stratagem]"
   },
   {
@@ -5507,7 +5514,7 @@
     "effect": "You learn the Moves Acid and Clear Smog.",
     "prerequisites": "Elemental Connection (Poison), Novice Stealth, Novice Guile",
     "frequency": "Static",
-    "class": "Poison Elementalist - Miasmic",
+    "class": "Miasmic",
     "tags": "[Class][+Defense]"
   },
   {
@@ -5523,7 +5530,7 @@
     "effect": "You gain the Naturewalk (Tundra) Capability, are immune to being Frozen, and do not lose Hit Points from Hail.",
     "prerequisites": "Frost Touched",
     "frequency": "Static",
-    "class": "Ice Elementalist - Frost Touched",
+    "class": "Frost Touched",
     "tags": "[+Attack or Special Attack]"
   }
 ]
