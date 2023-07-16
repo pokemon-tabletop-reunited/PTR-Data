@@ -1215,7 +1215,7 @@
     "frequency": "Static"
   },
   {
-    "name": "Last Chance",
+    "name": "Final Strike",
     "effect": "The user gains a +5 bonus to Damage Rolls when using Normal-Type attacks. This bonus increases to +10 when the user is under 1/3rd of their Maximum Hit Points.",
     "frequency": "Static"
   },
@@ -2343,5 +2343,10 @@
     "name": "Type Aura (Fighting)",
     "frequency": "Static",
     "effect": "The user and all allies within 3 meters gain a +5 Bonus to Damage Rolls with Fighting-Type Moves."
+  },
+  {
+    "name": "Last Chance",
+    "effect": "Last Chance Abilities are always associated with an Elemental Type. The user gains a +5 bonus to Damage Rolls when using attacks of that Type. This bonus increases to +10 when the user is under 1/3rd of their Maximum Hit Points.",
+    "frequency": "Static"
   }
 ]
