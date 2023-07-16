@@ -92,7 +92,7 @@
     "effect": "Trigger - You use a damaging single target Water-Type Move\\nEffect: Hydro Jet’s effect depends on if the triggering Move was Melee or Ranged.\\n\\n»» If Melee, the Move gains the Pass keyword and you may change direction during the four meters of Pass (but may still only target any given Pokémon or Trainer once).\\n»» If Ranged, the Move becomes a Line 4 instead of its usual range.",
     "prerequisites": "Call the Current Rank 1",
     "frequency": "1 AP - Free Action",
-    "class": "Mealstrom",
+    "class": "Maelstrom",
     "tags": "[+Speed]"
   },
   {
@@ -652,7 +652,7 @@
     "effect": "You learn 2 Moves chosen from the list below, marked with the Rank of this Feature you are gaining or lower.\\nRank 3 Moves: Aqua Tail, Rain Dance, Surf",
     "prerequisites": "Expert Athletics or Acrobatics",
     "frequency": "Static",
-    "class": "Mealstrom",
+    "class": "Maelstrom",
     "tags": "[Ranked 3][+Speed]"
   },
   {
@@ -1100,7 +1100,7 @@
     "effect": "You gain the Gilled Capability, and a +2 bonus to your Swim speed. Whenever your Water-Type Moves miss all targets, you gain a Tick of Temporary Hit Points.",
     "prerequisites": "Elemental Connection (Water), Novice Athletics, Novice Acrobatics",
     "frequency": "Static",
-    "class": "Mealstrom",
+    "class": "Maelstrom",
     "tags": "[Class][+Speed]"
   },
   {
@@ -1332,7 +1332,7 @@
     "effect": "Whenever you create an Incense Held Item, choose Sweet Scent or Aromatic Mist. While your Pokémon is holding that Incense Item in an active Held Item slot, they add the chosen Move to their Move List.\\nRecipe - Incense Maker",
     "prerequisites": "Fashionista, one Fashionista Skill at Expert",
     "frequency": "Static",
-    "class": "Fashonista",
+    "class": "Fashionista",
     "tags": "-"
   },
   {
@@ -1963,7 +1963,7 @@
     "effect": "Target: An item made of conductive material\\nEffect: Choose one of your Electric Type Moves with a target. You Charge the target item with this Move. Bottled Lightning counts as using the Move for frequency purposes. You may expend this Charge as a Swift Action on your turn to use the Move the item was charged with, originating from the item. If a Pokémon or Trainer touches a Charged item, you may instead activate this Swift Action as if it had the Priority keyword. At the end of a Scene, all items lose their Charge, and you may only have X items Charged at a time where X is half your Focus Rank.",
     "prerequisites": "Storm Wizard, Adept Focus",
     "frequency": "2 AP - Standard Action",
-    "class": "Storm Wizard",
+    "class": "Spark Master",
     "tags": "[+Speed]"
   },
   {
@@ -2035,7 +2035,7 @@
     "effect": "You learn 2 Moves chosen from the list below.\\nRank 1 Moves: Aqua Jet, Aqua Ring, Water Pulse",
     "prerequisites": "Maelstrom",
     "frequency": "Static",
-    "class": "Mealstrom",
+    "class": "Maelstrom",
     "tags": "[Ranked 3][+Speed]"
   },
   {
@@ -2043,7 +2043,7 @@
     "effect": "You may activate Oceanic Feeling when either Wash Away or Storm Drain would be triggered to gain that Ability for 1 full round, if you do not already have it, and immediately Trigger it. Activating an Ability this way ignores its usual Frequency. You may use each Ability once per Scene this way.",
     "prerequisites": "Water's Shroud, Master Athletics or Acrobatics",
     "frequency": "Scene x2 - Free Action",
-    "class": "Mealstrom",
+    "class": "Maelstrom",
     "tags": "[+Speed]"
   },
   {
@@ -2243,7 +2243,7 @@
     "effect": "You may wear and benefit from two Accessory Slot Items at once. The two items must be of different types and must not share an effect. For example, a Fire Brace cannot be paired with another Fire Brace or a Fire Plate, but it could be paired with an Ice Brace, a Fire Booster, or a Stat Booster.",
     "prerequisites": "Dashing Makeover, one Fashionista Skill at Adept",
     "frequency": "Static",
-    "class": "Fashonista",
+    "class": "Fashionista",
     "tags": "-"
   },
   {
@@ -2547,7 +2547,7 @@
     "effect": "Ingredients: Two different types of Poké Ball Cases.\\nEffect: You combine the two Poké Ball Cases into a single Fusion Case with both effects and types. Fusion Cases may not be used as Ingredients for this Feature.\\nRecipe - Advanced Cases",
     "prerequisites": "Jailbreaker, Master Technology Education",
     "frequency": "At-Will - Extended Action",
-    "class": "Jailbreaker",
+    "class": "Researcher (Jailbreaker)",
     "tags": "[Jailbreaker Research Field]"
   },
   {
@@ -2771,7 +2771,7 @@
     "effect": "Target: Your Pokémon with at least 2 Tutor Points remaining\\nEffect: The target loses 2 Tutor Points and then becomes Chic. Chic Pokémon gain two extra Held Item slots with which they can carry Held Items. However, the items in these slots have no effect and are not treated as equipped. As a Swift Action on their turn, Chic Pokémon may swap a currently active Held Item with an item stored in these slots. Chic Pokémon may not carry multiple items of the same type or with repeated effects.\\n A Chic Pokémon does not become Suppressed until they switch a Choice Item into their active Held Item slot, but even if they then switch the Choice Item out, they remain Suppressed for the remainder of combat. A Mega-Evolved Chic Pokémon remains MegaEvolved even if they switch their active Held Item.",
     "prerequisites": "Fashionista, two Fashionista Skills at Adept",
     "frequency": "At-Will - Extended Action",
-    "class": "Fashonista",
+    "class": "Fashionista",
     "tags": "-"
   },
   {
@@ -2811,7 +2811,7 @@
     "effect": "Choose Volt Absorb or Motor Drive. You gain the Chosen Ability.",
     "prerequisites": "Master Acrobatics or Focus",
     "frequency": "Static",
-    "class": "Storm Wizard",
+    "class": "Spark Master",
     "tags": "[+Speed]"
   },
   {
@@ -3083,7 +3083,7 @@
     "effect": "Target: Your Chic Pokémon\\nEffect: Your Pokémon gains the effect of all items in extra slots granted by Versatile Wardrobe for one full round. Dress to Impress may only target a Pokémon once per Scene.",
     "prerequisites": "Versatile Wardrobe, two Fashionista Skills at Expert",
     "frequency": "Scene x2 – Standard Action",
-    "class": "Fashonista",
+    "class": "Fashionista",
     "tags": "[Orders]"
   },
   {
@@ -3147,7 +3147,7 @@
     "effect": "You gain the Gather Unown capability, and your Unown gain the Letter Press Capability. When using Gather Unown, you are treated as a level 20 Pokémon.",
     "prerequisites": "Own 2 Unown, Novice Occult Education",
     "frequency": "Static",
-    "class": "Rune Master",
+    "class": "",
     "tags": "[Class][+Attack or Special Attack]"
   },
   {
@@ -3227,7 +3227,7 @@
     "effect": "You may learn two Moves from the list below.\\nRank 1 Moves: Charge Beam, Eerie Impulse, Shock Wave, Spark",
     "prerequisites": "Spark Master",
     "frequency": "Static",
-    "class": "Storm Wizard",
+    "class": "Spark Master",
     "tags": "[+Speed][Ranked 3]"
   },
   {
@@ -3387,7 +3387,7 @@
     "effect": "Choose Wash Away or Storm Drain. You gain the Chosen Ability.",
     "prerequisites": "Call the Current Rank 2",
     "frequency": "Static",
-    "class": "Mealstrom",
+    "class": "Maelstrom",
     "tags": "[+Speed]"
   },
   {
@@ -3499,7 +3499,7 @@
     "effect": "Trigger - At the end of your Pokémon’s turn, their Speed is at its default number of Combat Stages or less\\nEffect: The triggering Pokémon gains +1 Combat Stage in Speed. (Note: The “Default” number of Combat Stages is usually 0)",
     "prerequisites": "Stat Ace",
     "frequency": "1 AP - Free Action",
-    "class": "Speed Stat Ace",
+    "class": "Stat Ace (Speed)",
     "tags": "[Branch]"
   },
   {
@@ -3906,7 +3906,7 @@
     "effect": "Target: Your Pokémon\\nEffect: Your Pokémon gains Speed Boost or Vanguard for the remainder of the Scene. Switching does not end this effect. Stat Embodiment may only grant one Ability to a Pokémon at a time. If it is used a second time on the same target, it replaces the first granted Ability.",
     "prerequisites": "4 Stat Ace Features, Expert Command or Focus",
     "frequency": "1 AP - Swift Action",
-    "class": "Speed Stat Ace",
+    "class": "Speed Ace",
     "tags": "[Branch]"
   },
   {
@@ -4122,7 +4122,7 @@
     "effect": "You learn 2 Moves chosen from the list below, marked with the Rank of this Feature you are gaining or lower.\\nRank 2 Moves: Bubblebeam, Waterfall, Whirlpool",
     "prerequisites": "Adept Athletics or Acrobatics",
     "frequency": "Static",
-    "class": "Mealstrom",
+    "class": "Maelstrom",
     "tags": "[Ranked 3][+Speed]"
   },
   {
@@ -4154,7 +4154,7 @@
     "effect": "You gain the Magnetic Capability and may use this magnetism to stick to surfaces with significant metal content (ex: metal walls obviously, concrete with metal I-beams inside, etc). You may use your Overland to traverse any such surfaces, even if that means walking vertically up a wall or upside down on a ceiling. You may choose not to be Pushed when on such a surface.",
     "prerequisites": "Storm Wizard Rank 1, Adept Acrobatics",
     "frequency": "Static",
-    "class": "Storm Wizard",
+    "class": "Spark Master",
     "tags": "[+Speed]"
   },
   {
@@ -4602,7 +4602,7 @@
     "effect": "You may learn two Moves from the list below, marked with the Storm Wizard Rank you are gaining or lower.\\nRank 3 Moves: Discharge, Thunder, Thunder Wave, Volt Tackle",
     "prerequisites": "Master Acrobatics or Focus",
     "frequency": "Static",
-    "class": "Storm Wizard",
+    "class": "Spark Master",
     "tags": "[+Speed][Ranked 3]"
   },
   {
@@ -4682,7 +4682,7 @@
     "effect": "Trigger - Your Pokémon is Disarmed or would have their Held Item removed by another effect such as Thief or Covet\\nEffect: Your Pokémon instead retains their Held Item. Style is Eternal may only be used once per Scene per Pokémon.\\nRecipe - Focused Fashion",
     "prerequisites": "Fashionista",
     "frequency": "1 AP - Free Action",
-    "class": "Fashonista",
+    "class": "Fashionista",
     "tags": "-"
   },
   {
@@ -4938,7 +4938,7 @@
     "effect": "You may learn two Moves from the list below, marked with the Storm Wizard Rank you are gaining or lower.\\nRank 2 Moves: Charge, Thunder Punch, Thunderbolt",
     "prerequisites": "Expert Acrobatics or Focus",
     "frequency": "Static",
-    "class": "Storm Wizard",
+    "class": "Spark Master",
     "tags": "[+Speed][Ranked 3]"
   },
   {
@@ -5394,7 +5394,7 @@
     "effect": "Cost: $3500\\nEffect: Choose Castform, Grimer, Koffing, Magnemite, Porygon, Solosis, Trubbish, or Voltorb. Using your chemistry set, you create an artificial Egg of the Chosen Pokémon, that hatches within a day. The resulting Pokemon is born at level 5, with the Nature and Ability of your choice (Abilities chosen from its species’ Basic Abilities). Additionally, you may enhance the Pokemon in several ways. Choose a number of upgrades below equal to your Technology Education Rank.\\n»» The Pokémon is of an unusual coloration, gaining a +2d6 Bonus to the Introduction Stage of a Contest toward a single Contest Stat.\\n»» The Pokémon adds a Move from its Egg Move or Move Tutor List to its Inheritance List. This may be performed up to 3 times.\\n»» Increase one of the Pokémon’s Base Stats by +1. This counts as use of a Vitamin. This may be performed up to 5 times.",
     "prerequisites": "Chemist, Expert Technology Education",
     "frequency": "At-Will - Extended Action",
-    "class": "Chemistry",
+    "class": "Researcher (Chemistry)",
     "tags": "[Chemistry Research Field][Branch]"
   },
   {
@@ -5474,7 +5474,7 @@
     "effect": "Trigger - You use a Antidote, Burn Heal, Ice Heal, or Paralyze Heal\\nEffect: If the target successfully cures the target of its linked Status Affliction, the item has additional effects.\\n»» Antidote: The target gains +1 Special Defense Combat Stage.\\n»» Burn Heal: The target gains +1 Defense Combat Stage.\\n»» Ice Heal: The target gains +1 Attack or Special Attack Combat Stage\\n»» Paralyze Heal: The target gains +1 Speed Combat Stage.",
     "prerequisites": "Patch Cure, Expert Medicine Education",
     "frequency": "1 AP – Free Action",
-    "class": "Apothecary",
+    "class": "Researcher (Apothecary)",
     "tags": "[Apothecary Research Field][Branch]"
   },
   {
@@ -5498,7 +5498,7 @@
     "effect": "You may craft any of the following Poké Ball Modifications: Habitat, Power, Type, Fabulous, Learning, Weather",
     "prerequisites": "Jailbreaker",
     "frequency": "Static",
-    "class": "Jailbreaker",
+    "class": "Researcher (Jailbreaker)",
     "tags": "[Jailbreaker Research Field]"
   },
   {
@@ -5506,7 +5506,7 @@
     "effect": "Trigger - You apply a Restorative Item\\nEffect: The target gains a Tick of Hit Points, plus an additional amount of Hit Points equal to your Medicine Education Rank.\\nRecipe - Hyper Cures",
     "prerequisites": "Apothecary, Expert Medicine Education",
     "frequency": "1 AP - Swift Action",
-    "class": "Apothecary",
+    "class": "Researcher (Apothecary)",
     "tags": "[Apothecary Research Field][Branch]"
   },
   {
@@ -5522,7 +5522,7 @@
     "effect": "Trigger - A Move or Ability creates a Weather Effect while non-standard Weather is already in effect\\nEffect: The triggering Weather Effect does not replace the already extant Weather in effect; both exist simultaneously on the field. If a new Weather effect is placed on the field after the two that are out, both are replaced by the third, unless you activate this Feature again to replace only one.",
     "prerequisites": "Climatology",
     "frequency": "1 AP - Free Action",
-    "class": "Climatology",
+    "class": "Researcher (Climatology)",
     "tags": "[Climatology Research Field][Branch]"
   },
   {
