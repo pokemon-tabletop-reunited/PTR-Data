@@ -196,7 +196,7 @@
     "effect": "Target: Your Pokémon\\nEffect: Your Pokémon gains Sheer Force or Defiant for the remainder of the Scene. Switching does not end this effect. Stat Embodiment may only grant one Ability to a Pokémon at a time. If it is used a second time on the same target, it replaces the first granted Ability.",
     "prerequisites": "4 Stat Ace Features, Expert Command or Focus",
     "frequency": "1 AP - Swift Action",
-    "class": "Attack Ace",
+    "class": "Stat Ace (Attack)",
     "tags": "[Branch]"
   },
   {
@@ -324,7 +324,7 @@
     "effect": "Target: Your Pokémon\\nEffect: Your Pokémon gains Multiscale or Tolerance for the remainder of the Scene. Switching does not end this effect. Stat Embodiment may only grant one Ability to a Pokémon at a time. If it is used a second time on the same target, it replaces the first granted Ability.",
     "prerequisites": "4 Stat Ace Features, Expert Command or Focus",
     "frequency": "1 AP - Swift Action",
-    "class": "Special Defense Ace",
+    "class": "Stat Ace (Special Defense)",
     "tags": "[Branch]"
   },
   {
@@ -492,7 +492,7 @@
     "effect": "Target: Your Pokémon\\nEffect: While this Feature is Bound, the target’s Movement Capabilities are increased by 1 for each positive Combat Stage they have in Speed, up to a maximum of +3.",
     "prerequisites": "Stat Link, Stat Training, Master Focus or Command",
     "frequency": "2 AP - Standard Action",
-    "class": "Speed Stat Ace",
+    "class": "Stat Ace (Speed)",
     "tags": "[Branch][Orders][Stratagem]"
   },
   {
@@ -540,7 +540,7 @@
     "effect": "Target: Your Pokémon with at least 1 Tutor Point\\nEffect: Your Pokémon loses 1 Tutor Point and learns Iron Defense or Reflect, even if your Pokémon cannot normally learn this Move.",
     "prerequisites": "Stat Ace",
     "frequency": "At-Will - Extended Action",
-    "class": "Defense Ace",
+    "class": "Stat Ace (Defense)",
     "tags": "[Branch]"
   },
   {
@@ -564,7 +564,7 @@
     "effect": "Your Pokémon have their Defense increased by +1, and by +1 more for every 10 Levels they have (for example, a Level 20 Pokémon would have Defense’s base value increased by +3). Additionally, your Pokémon may ignore Base Relations, as long as they are adding to Defense, and you do not need to “correct” Stats due to this inflated Defense Value.\\n\\nNote: You may take Stat Ace multiple times, choosing different Stats each time. If using Style Expert to qualify for Stat Ace, your Chosen Stat must be the Stat that correlates to your Chosen Contest Stat. Beauty is Special Attack, Cool is Attack, Cute is Speed, Smart is Special Defense, and Tough is Defense.  You may use the Stat in place of \"Stat\" in all Stat Ace features on this sheet, e.g. \"Attack Ace\" or \"Special Defense Link\".",
     "prerequisites": "Ace Trainer or Style Expert, 1 Pokémon with Defense of 15 or more, Novice Command or Focus\\nOr\\n3 Pokémon with Defense at 20 or higher, Novice Command or Focus",
     "frequency": "Static",
-    "class": "Defense Ace",
+    "class": "Stat Ace (Defense)",
     "tags": "[Class][Branch]"
   },
   {
@@ -828,7 +828,7 @@
     "effect": "Your Pokémon have their Special Defense increased by +1, and by +1 more for every 10 Levels they have (for example, a Level 20 Pokémon would have Special Defense’s base value increased by +3). Additionally, your Pokémon may ignore Base Relations, as long as they are adding to Special Defense, and you do not need to “correct” Stats due to this inflated Special Defense Value.\\n\\nNote: You may take Stat Ace multiple times, choosing different Stats each time. If using Style Expert to qualify for Stat Ace, your Chosen Stat must be the Stat that correlates to your Chosen Contest Stat. Beauty is Special Attack, Cool is Attack, Cute is Speed, Smart is Special Defense, and Tough is Defense.  You may use the Stat in place of \"Stat\" in all Stat Ace features on this sheet, e.g. \"Attack Ace\" or \"Special Defense Link\".",
     "prerequisites": "Ace Trainer or Style Expert, 1 Pokémon with Special Defense of 15 or more, Novice Command or Focus\\nOr\\n3 Pokémon with Special Defense at 20 or higher, Novice Command or Focus",
     "frequency": "Static",
-    "class": "Special Defense Ace",
+    "class": "Stat Ace (Special Defense)",
     "tags": "[Class][Branch]"
   },
   {
@@ -1028,7 +1028,7 @@
     "effect": "You may activate this feature whenever your Pokémon is hit by a Special Attack to receive the blow as if your Pokémon’s Special Defense Combat Stages were at +6 instead of their current value.",
     "prerequisites": "Stat Ace, Adept Command or Focus",
     "frequency": "Scene - Free Action",
-    "class": "Special Defense Ace",
+    "class": "Stat Ace (Special Defense)",
     "tags": "[Branch]"
   },
   {
@@ -1428,7 +1428,7 @@
     "effect": "Target: Your Pokémon with at least 1 Tutor Point\\nEffect: Your Pokémon loses 1 Tutor Point and learns Swords Dance or Rage, even if your Pokémon cannot normally learn this Move.",
     "prerequisites": "Stat Ace",
     "frequency": "At-Will - Extended Action",
-    "class": "Attack Ace",
+    "class": "Stat Ace (Attack)",
     "tags": "[Branch]"
   },
   {
@@ -1548,7 +1548,7 @@
     "effect": "You may activate this Feature to cause one of your Pokémon to use a Physical “Melee, 1-Target” Move as if its range was “Melee, Pass” or “Melee, 3-Targets” instead.",
     "prerequisites": "Stat Ace, Adept Command or Focus",
     "frequency": "Scene - Free Action",
-    "class": "Attack Ace",
+    "class": "Stat Ace (Attack)",
     "tags": "[Branch]"
   },
   {
@@ -1628,7 +1628,7 @@
     "effect": "Trigger - At the end of your Pokémon’s turn, their Attack is at its default number of Combat Stages or less\\nEffect: The triggering Pokémon gains +1 Combat Stage in Attack. (Note: The “Default” number of Combat Stages is usually 0)",
     "prerequisites": "Stat Ace",
     "frequency": "1 AP - Free Action",
-    "class": "Attack Ace",
+    "class": "Stat Ace (Attack)",
     "tags": "[Branch]"
   },
   {
@@ -1660,7 +1660,7 @@
     "effect": "Your Pokémon may take Disengage Maneuvers as Swift Actions.",
     "prerequisites": "Stat Maneuver",
     "frequency": "Static",
-    "class": "Speed Stat Ace",
+    "class": "Stat Ace (Speed)",
     "tags": "[Branch]"
   },
   {
@@ -1803,7 +1803,7 @@
     "effect": "You may activate this feature whenever your Pokémon is hit by a Physical Attack to receive the blow as if your Pokémon’s Defense Combat Stages were at +6 instead of their current value.",
     "prerequisites": "Stat Ace, Adept Command or Focus",
     "frequency": "Scene - Free Action",
-    "class": "Defense Ace",
+    "class": "Stat Ace (Defense)",
     "tags": "[Branch]"
   },
   {
@@ -2107,7 +2107,7 @@
     "effect": "Your Pokémon have their Special Attack increased by +1, and by +1 more for every 10 Levels they have (for example, a Level 20 Pokémon would have Special Attack’s base value increased by +3). Additionally, your Pokémon may ignore Base Relations, as long as they are adding to Special Attack, and you do not need to “correct” Stats due to this inflated Special Attack Value.\\n\\nNote: You may take Stat Ace multiple times, choosing different Stats each time. If using Style Expert to qualify for Stat Ace, your Chosen Stat must be the Stat that correlates to your Chosen Contest Stat. Beauty is Special Attack, Cool is Attack, Cute is Speed, Smart is Special Defense, and Tough is Defense.  You may use the Stat in place of \"Stat\" in all Stat Ace features on this sheet, e.g. \"Attack Ace\" or \"Special Defense Link\".",
     "prerequisites": "Ace Trainer or Style Expert, 1 Pokémon with Special Attack of 15 or more, Novice Command or Focus\\nOr\\n3 Pokémon with Special Attack at 20 or higher, Novice Command or Focus",
     "frequency": "Static",
-    "class": "Special Attack Ace",
+    "class": "Stat Ace (Special Attack)",
     "tags": "[Class][Branch]"
   },
   {
@@ -2803,7 +2803,7 @@
     "effect": "Target: Your Pokémon with at least 1 Tutor Point\\nEffect: Your Pokémon loses 1 Tutor Point and learns Amnesia or Light Screen, even if your Pokémon cannot normally learn this Move.",
     "prerequisites": "Stat Ace",
     "frequency": "At-Will - Extended Action",
-    "class": "Special Defense Ace",
+    "class": "Stat Ace (Special Defense)",
     "tags": "[Branch]"
   },
   {
@@ -3139,7 +3139,7 @@
     "effect": "Your Pokémon have their Speed increased by +1, and by +1 more for every 10 Levels they have (for example, a Level 20 Pokémon would have Speed’s base value increased by +3). Additionally, your Pokémon may ignore Base Relations, as long as they are adding to Speed, and you do not need to “correct” Stats due to this inflated Speed Value.\\n\\nNote: You may take Stat Ace multiple times, choosing different Stats each time. If using Style Expert to qualify for Stat Ace, your Chosen Stat must be the Stat that correlates to your Chosen Contest Stat. Beauty is Special Attack, Cool is Attack, Cute is Speed, Smart is Special Defense, and Tough is Defense.  You may use the Stat in place of \"Stat\" in all Stat Ace features on this sheet, e.g. \"Attack Ace\" or \"Special Defense Link\".",
     "prerequisites": "Ace Trainer or Style Expert, 1 Pokémon with Speed of 15 or more, Novice Command or Focus\\nOr\\n3 Pokémon with Speed at 20 or higher, Novice Command or Focus",
     "frequency": "Static",
-    "class": "Speed Ace",
+    "class": "Stat Ace (Speed)",
     "tags": "[Class][Branch]"
   },
   {
@@ -3299,7 +3299,7 @@
     "effect": "Target: Your Pokémon with at least 1 Tutor Point\\nEffect: Your Pokémon loses 1 Tutor Point and learns Agility or After You, even if your Pokémon cannot normally learn this Move.",
     "prerequisites": "Stat Ace",
     "frequency": "At-Will - Extended Action",
-    "class": "Stat Ace",
+    "class": "Stat Ace (Speed)",
     "tags": "[Branch]"
   },
   {
@@ -3754,7 +3754,7 @@
     "effect": "Trigger - At the end of your Pokémon’s turn, their Defense is at its default number of Combat Stages or less\\nEffect: The triggering Pokémon gains +1 Combat Stage in Defense. (Note: The “Default” number of Combat Stages is usually 0)",
     "prerequisites": "Stat Ace",
     "frequency": "1 AP - Free Action",
-    "class": "Defense Ace",
+    "class": "Stat Ace (Defense)",
     "tags": "[Branch]"
   },
   {
@@ -3778,7 +3778,7 @@
     "effect": "Your Pokémon have their Attack increased by +1, and by +1 more for every 10 Levels they have (for example, a Level 20 Pokémon would have Attack’s base value increased by +3). Additionally, your Pokémon may ignore Base Relations, as long as they are adding to Attack, and you do not need to “correct” Stats due to this inflated Attack Value.\\n\\nNote: You may take Stat Ace multiple times, choosing different Stats each time. If using Style Expert to qualify for Stat Ace, your Chosen Stat must be the Stat that correlates to your Chosen Contest Stat. Beauty is Special Attack, Cool is Attack, Cute is Speed, Smart is Special Defense, and Tough is Defense.  You may use the Stat in place of \"Stat\" in all Stat Ace features on this sheet, e.g. \"Attack Ace\" or \"Special Defense Link\".",
     "prerequisites": "Ace Trainer or Style Expert, 1 Pokémon with Attack of 15 or more, Novice Command or Focus\\nOr\\n3 Pokémon with Attack at 20 or higher, Novice Command or Focus",
     "frequency": "Static",
-    "class": "Attack Ace",
+    "class": "Stat Ace (Attack)",
     "tags": "[Class][Branch]"
   },
   {
@@ -3906,7 +3906,7 @@
     "effect": "Target: Your Pokémon\\nEffect: Your Pokémon gains Speed Boost or Vanguard for the remainder of the Scene. Switching does not end this effect. Stat Embodiment may only grant one Ability to a Pokémon at a time. If it is used a second time on the same target, it replaces the first granted Ability.",
     "prerequisites": "4 Stat Ace Features, Expert Command or Focus",
     "frequency": "1 AP - Swift Action",
-    "class": "Speed Ace",
+    "class": "Stat Ace (Speed)",
     "tags": "[Branch]"
   },
   {
@@ -4002,7 +4002,7 @@
     "effect": "Target: Your Pokémon with at least 1 Tutor Point\\nEffect: Your Pokémon loses 1 Tutor Point and learns Nasty Plot ot Hidden Power, even if your Pokémon cannot normally learn this Move.",
     "prerequisites": "Stat Ace",
     "frequency": "At-Will - Extended Action",
-    "class": "Special Attack Ace",
+    "class": "Stat Ace (Special Attack)",
     "tags": "[Branch]"
   },
   {
@@ -4386,7 +4386,7 @@
     "effect": "Target: Your Pokémon\\nEffect: Your Pokémon gains Tinted Lens or Competitive for the remainder of the Scene. Switching does not end this effect. Stat Embodiment may only grant one Ability to a Pokémon at a time. If it is used a second time on the same target, it replaces the first granted Ability.",
     "prerequisites": "4 Stat Ace Features, Expert Command or Focus",
     "frequency": "1 AP - Swift Action",
-    "class": "Special Attack Ace",
+    "class": "Stat Ace (Special Attack)",
     "tags": "[Branch]"
   },
   {
@@ -4794,7 +4794,7 @@
     "effect": "Target: Your Pokémon\\nEffect: Your Pokémon gains Filter or Battle Armor for the remainder of the Scene. Switching does not end this effect. Stat Embodiment may only grant one Ability to a Pokémon at a time. If it is used a second time on the same target, it replaces the first granted Ability.",
     "prerequisites": "4 Stat Ace Features, Expert Command or Focus",
     "frequency": "1 AP - Swift Action",
-    "class": "Defense Ace",
+    "class": "Stat Ace (Defense)",
     "tags": "[Branch]"
   },
   {
@@ -5090,7 +5090,7 @@
     "effect": "You may activate this Feature at any time to cause your Pokémon to use a Move as Priority or a Priority Move as Priority (Advanced).",
     "prerequisites": "Stat Ace, Adept Command or Focus",
     "frequency": "Scene - Free Action",
-    "class": "Speed Stat Ace",
+    "class": "Stat Ace (Speed)",
     "tags": "[Branch]"
   },
   {
@@ -5194,7 +5194,7 @@
     "effect": "Trigger - At the end of your Pokémon’s turn, their Special Defense is at its default number of Combat Stages or less\\nEffect: The triggering Pokémon  gains +1 Combat Stage in Special Defense. (Note: The “Default” number of Combat Stages is usually 0)",
     "prerequisites": "Stat Ace",
     "frequency": "1 AP - Free Action",
-    "class": "Special Defense Ace",
+    "class": "Stat Ace (Special Defense)",
     "tags": "[Branch]"
   },
   {
@@ -5258,7 +5258,7 @@
     "effect": "You may activate this Feature to allow your Pokémon to use a Special Burst, Cone, Close Blast, Ranged Blast, or Line of any size as a Burst 1, Cone 2, Close Blast 2, or Line 4 instead.",
     "prerequisites": "Stat Ace, Adept Command or Focus",
     "frequency": "Scene - Free Action",
-    "class": "Special Attack Ace",
+    "class": "Stat Ace (Special Attack)",
     "tags": "[Branch]"
   },
   {
@@ -5386,7 +5386,7 @@
     "effect": "Trigger - At the end of your Pokémon’s turn, their Special Attack is at its default number of Combat Stages or less\\nEffect: The triggering Pokémon gains +1 Combat Stage in Special Attack. (Note: The “Default” number of Combat Stages is usually 0)",
     "prerequisites": "Stat Ace",
     "frequency": "1 AP - Free Action",
-    "class": "Special Attack Ace",
+    "class": "Stat Ace (Special Attack)",
     "tags": "[Branch]"
   },
   {
