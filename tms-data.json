@@ -1,402 +1,665 @@
-[
-    {
-        "number":"01",
-        "move":"Work Up"
-    },
-    {
-        "number":"26",
-        "move":"Earthquake"
-    },
-    {
-        "number":"51",
-        "move":"Steel Wing"
-    },
-    {
-        "number":"76",
-        "move":"Fly"
-    },
-    {
-        "number":"02",
-        "move":"Dragon Claw"
-    },
-    {
-        "number":"27",
-        "move":"Return"
-    },
-    {
-        "number":"52",
-        "move":"Focus Blast"
-    },
-    {
-        "number":"77",
-        "move":"Psych Up"
-    },
-    {
-        "number":"03",
-        "move":"Psyshock"
-    },
-    {
-        "number":"28",
-        "move":"Leech Life"
-    },
-    {
-        "number":"53",
-        "move":"Energy Ball"
-    },
-    {
-        "number":"78",
-        "move":"Bulldoze"
-    },
-    {
-        "number":"04",
-        "move":"Calm Mind"
-    },
-    {
-        "number":"29",
-        "move":"Psychic"
-    },
-    {
-        "number":"54",
-        "move":"False Swipe"
-    },
-    {
-        "number":"79",
-        "move":"Frost Breath"
-    },
-    {
-        "number":"05",
-        "move":"Roar"
-    },
-    {
-        "number":"30",
-        "move":"Shadow Ball"
-    },
-    {
-        "number":"55",
-        "move":"Scald"
-    },
-    {
-        "number":"80",
-        "move":"Rock Slide"
-    },
-    {
-        "number":"06",
-        "move":"Toxic"
-    },
-    {
-        "number":"31",
-        "move":"Brick Break"
-    },
-    {
-        "number":"56",
-        "move":"Fling"
-    },
-    {
-        "number":"81",
-        "move":"X-Scissor"
-    },
-    {
-        "number":"07",
-        "move":"Hail"
-    },
-    {
-        "number":"32",
-        "move":"Double Team"
-    },
-    {
-        "number":"57",
-        "move":"Charge Beam"
-    },
-    {
-        "number":"82",
-        "move":"Dragon Tail"
-    },
-    {
-        "number":"08",
-        "move":"Bulk Up"
-    },
-    {
-        "number":"33",
-        "move":"Reflect"
-    },
-    {
-        "number":"58",
-        "move":"Sky Drop"
-    },
-    {
-        "number":"83",
-        "move":"Infestation"
-    },
-    {
-        "number":"09",
-        "move":"Venoshock"
-    },
-    {
-        "number":"34",
-        "move":"Sludge Wave"
-    },
-    {
-        "number":"59",
-        "move":"Brutal Swing"
-    },
-    {
-        "number":"84",
-        "move":"Poison Jab"
-    },
-    {
-        "number":"10",
-        "move":"Hidden Power"
-    },
-    {
-        "number":"35",
-        "move":"Flamethrower"
-    },
-    {
-        "number":"60",
-        "move":"Quash"
-    },
-    {
-        "number":"85",
-        "move":"Dream Eater"
-    },
-    {
-        "number":"11",
-        "move":"Sunny Day"
-    },
-    {
-        "number":"36",
-        "move":"Sludge Bomb"
-    },
-    {
-        "number":"61",
-        "move":"Will-O-Wisp"
-    },
-    {
-        "number":"86",
-        "move":"Grass Knot"
-    },
-    {
-        "number":"12",
-        "move":"Taunt"
-    },
-    {
-        "number":"37",
-        "move":"Sandstorm"
-    },
-    {
-        "number":"62",
-        "move":"Acrobatics"
-    },
-    {
-        "number":"87",
-        "move":"Swagger"
-    },
-    {
-        "number":"13",
-        "move":"Ice Beam"
-    },
-    {
-        "number":"38",
-        "move":"Fire Blast"
-    },
-    {
-        "number":"63",
-        "move":"Embargo"
-    },
-    {
-        "number":"88",
-        "move":"Sleep Talk"
-    },
-    {
-        "number":"14",
-        "move":"Blizzard"
-    },
-    {
-        "number":"39",
-        "move":"Rock Tomb"
-    },
-    {
-        "number":"64",
-        "move":"Explosion"
-    },
-    {
-        "number":"89",
-        "move":"U-Turn"
-    },
-    {
-        "number":"15",
-        "move":"Hyper Beam"
-    },
-    {
-        "number":"40",
-        "move":"Aerial Ace"
-    },
-    {
-        "number":"65",
-        "move":"Shadow Claw"
-    },
-    {
-        "number":"90",
-        "move":"Substitute"
-    },
-    {
-        "number":"16",
-        "move":"Light Screen"
-    },
-    {
-        "number":"41",
-        "move":"Torment"
-    },
-    {
-        "number":"66",
-        "move":"Payback"
-    },
-    {
-        "number":"91",
-        "move":"Flash Cannon"
-    },
-    {
-        "number":"17",
-        "move":"Protect"
-    },
-    {
-        "number":"42",
-        "move":"Facade"
-    },
-    {
-        "number":"67",
-        "move":"Smart Strike"
-    },
-    {
-        "number":"92",
-        "move":"Trick Room"
-    },
-    {
-        "number":"18",
-        "move":"Rain Dance"
-    },
-    {
-        "number":"43",
-        "move":"Flame Charge"
-    },
-    {
-        "number":"68",
-        "move":"Giga Impact"
-    },
-    {
-        "number":"93",
-        "move":"Wild Charge"
-    },
-    {
-        "number":"19",
-        "move":"Roost"
-    },
-    {
-        "number":"44",
-        "move":"Rest"
-    },
-    {
-        "number":"69",
-        "move":"Rock Polish"
-    },
-    {
-        "number":"94",
-        "move":"Surf"
-    },
-    {
-        "number":"20",
-        "move":"Safeguard"
-    },
-    {
-        "number":"45",
-        "move":"Attract"
-    },
-    {
-        "number":"70",
-        "move":"Aurora Veil"
-    },
-    {
-        "number":"95",
-        "move":"Snarl"
-    },
-    {
-        "number":"21",
-        "move":"Frustration"
-    },
-    {
-        "number":"46",
-        "move":"Thief"
-    },
-    {
-        "number":"71",
-        "move":"Stone Edge"
-    },
-    {
-        "number":"96",
-        "move":"Nature Power"
-    },
-    {
-        "number":"22",
-        "move":"Solar Beam"
-    },
-    {
-        "number":"47",
-        "move":"Low Sweep"
-    },
-    {
-        "number":"72",
-        "move":"Volt Switch"
-    },
-    {
-        "number":"97",
-        "move":"Dark Pulse"
-    },
-    {
-        "number":"23",
-        "move":"Smack Down"
-    },
-    {
-        "number":"48",
-        "move":"Round"
-    },
-    {
-        "number":"73",
-        "move":"Thunder Wave"
-    },
-    {
-        "number":"98",
-        "move":"Waterfall"
-    },
-    {
-        "number":"24",
-        "move":"Thunderbolt"
-    },
-    {
-        "number":"49",
-        "move":"Echoed Voice"
-    },
-    {
-        "number":"74",
-        "move":"Gyro Ball"
-    },
-    {
-        "number":"99",
-        "move":"Dazzling Gleam"
-    },
-    {
-        "number":"25",
-        "move":"Thunder"
-    },
-    {
-        "number":"50",
-        "move":"Overheat"
-    },
-    {
-        "number":"75",
-        "move":"Swords Dance"
-    },
-    {
-        "number":"100",
-        "move":"Confide"
-    }
+[{
+    "number": "01",
+    "move": "Work Up"
+},
+{
+    "number": "02",
+    "move": "Dragon Claw"
+},
+{
+    "number": "03",
+    "move": "Psyshock"
+},
+{
+    "number": "04",
+    "move": "Calm Mind"
+},
+{
+    "number": "05",
+    "move": "Roar"
+},
+{
+    "number": "06",
+    "move": "Toxic"
+},
+{
+    "number": "07",
+    "move": "Hail"
+},
+{
+    "number": "08",
+    "move": "Bulk Up"
+},
+{
+    "number": "09",
+    "move": "Venoshock"
+},
+{
+    "number": "10",
+    "move": "Hidden Power"
+},
+{
+    "number": "11",
+    "move": "Sunny Day"
+},
+{
+    "number": "12",
+    "move": "Taunt"
+},
+{
+    "number": "13",
+    "move": "Ice Beam"
+},
+{
+    "number": "14",
+    "move": "Blizzard"
+},
+{
+    "number": "15",
+    "move": "Hyper Beam"
+},
+{
+    "number": "16",
+    "move": "Light Screen"
+},
+{
+    "number": "17",
+    "move": "Protect"
+},
+{
+    "number": "18",
+    "move": "Rain Dance"
+},
+{
+    "number": "19",
+    "move": "Roost"
+},
+{
+    "number": "20",
+    "move": "Safeguard"
+},
+{
+    "number": "21",
+    "move": "Frustration"
+},
+{
+    "number": "22",
+    "move": "Solar Beam"
+},
+{
+    "number": "23",
+    "move": "Smack Down"
+},
+{
+    "number": "24",
+    "move": "Thunderbolt"
+},
+{
+    "number": "25",
+    "move": "Thunder"
+},
+{
+    "number": "26",
+    "move": "Earthquake"
+},
+{
+    "number": "27",
+    "move": "Return"
+},
+{
+    "number": "28",
+    "move": "Leech Life"
+},
+{
+    "number": "29",
+    "move": "Psychic"
+},
+{
+    "number": "30",
+    "move": "Shadow Ball"
+},
+{
+    "number": "31",
+    "move": "Brick Break"
+},
+{
+    "number": "32",
+    "move": "Double Team"
+},
+{
+    "number": "33",
+    "move": "Reflect"
+},
+{
+    "number": "34",
+    "move": "Sludge Wave"
+},
+{
+    "number": "35",
+    "move": "Flamethrower"
+},
+{
+    "number": "36",
+    "move": "Sludge Bomb"
+},
+{
+    "number": "37",
+    "move": "Sandstorm"
+},
+{
+    "number": "38",
+    "move": "Fire Blast"
+},
+{
+    "number": "39",
+    "move": "Rock Tomb"
+},
+{
+    "number": "40",
+    "move": "Aerial Ace"
+},
+{
+    "number": "41",
+    "move": "Torment"
+},
+{
+    "number": "42",
+    "move": "Facade"
+},
+{
+    "number": "43",
+    "move": "Flame Charge"
+},
+{
+    "number": "44",
+    "move": "Rest"
+},
+{
+    "number": "45",
+    "move": "Attract"
+},
+{
+    "number": "46",
+    "move": "Thief"
+},
+{
+    "number": "47",
+    "move": "Low Sweep"
+},
+{
+    "number": "48",
+    "move": "Round"
+},
+{
+    "number": "49",
+    "move": "Echoed Voice"
+},
+{
+    "number": "50",
+    "move": "Overheat"
+},
+{
+    "number": "51",
+    "move": "Steel Wing"
+},
+{
+    "number": "52",
+    "move": "Focus Blast"
+},
+{
+    "number": "53",
+    "move": "Energy Ball"
+},
+{
+    "number": "54",
+    "move": "False Swipe"
+},
+{
+    "number": "55",
+    "move": "Scald"
+},
+{
+    "number": "56",
+    "move": "Fling"
+},
+{
+    "number": "57",
+    "move": "Charge Beam"
+},
+{
+    "number": "58",
+    "move": "Sky Drop"
+},
+{
+    "number": "59",
+    "move": "Brutal Swing"
+},
+{
+    "number": "60",
+    "move": "Quash"
+},
+{
+    "number": "61",
+    "move": "Will-O-Wisp"
+},
+{
+    "number": "62",
+    "move": "Acrobatics"
+},
+{
+    "number": "63",
+    "move": "Embargo"
+},
+{
+    "number": "64",
+    "move": "Explosion"
+},
+{
+    "number": "65",
+    "move": "Shadow Claw"
+},
+{
+    "number": "66",
+    "move": "Payback"
+},
+{
+    "number": "67",
+    "move": "Smart Strike"
+},
+{
+    "number": "68",
+    "move": "Giga Impact"
+},
+{
+    "number": "69",
+    "move": "Rock Polish"
+},
+{
+    "number": "70",
+    "move": "Aurora Veil"
+},
+{
+    "number": "71",
+    "move": "Stone Edge"
+},
+{
+    "number": "72",
+    "move": "Volt Switch"
+},
+{
+    "number": "73",
+    "move": "Thunder Wave"
+},
+{
+    "number": "74",
+    "move": "Gyro Ball"
+},
+{
+    "number": "75",
+    "move": "Swords Dance"
+},
+{
+    "number": "76",
+    "move": "Fly"
+},
+{
+    "number": "77",
+    "move": "Psych Up"
+},
+{
+    "number": "78",
+    "move": "Bulldoze"
+},
+{
+    "number": "79",
+    "move": "Frost Breath"
+},
+{
+    "number": "80",
+    "move": "Rock Slide"
+},
+{
+    "number": "81",
+    "move": "X-Scissor"
+},
+{
+    "number": "82",
+    "move": "Dragon Tail"
+},
+{
+    "number": "83",
+    "move": "Infestation"
+},
+{
+    "number": "84",
+    "move": "Poison Jab"
+},
+{
+    "number": "85",
+    "move": "Dream Eater"
+},
+{
+    "number": "86",
+    "move": "Grass Knot"
+},
+{
+    "number": "87",
+    "move": "Swagger"
+},
+{
+    "number": "88",
+    "move": "Sleep Talk"
+},
+{
+    "number": "89",
+    "move": "U-Turn"
+},
+{
+    "number": "90",
+    "move": "Substitute"
+},
+{
+    "number": "91",
+    "move": "Flash Cannon"
+},
+{
+    "number": "92",
+    "move": "Trick Room"
+},
+{
+    "number": "93",
+    "move": "Wild Charge"
+},
+{
+    "number": "94",
+    "move": "Surf"
+},
+{
+    "number": "95",
+    "move": "Snarl"
+},
+{
+    "number": "96",
+    "move": "Nature Power"
+},
+{
+    "number": "97",
+    "move": "Dark Pulse"
+},
+{
+    "number": "98",
+    "move": "Waterfall"
+},
+{
+    "number": "99",
+    "move": "Dazzling Gleam"
+},
+{
+    "number": "100",
+    "move": "Confide"
+},
+{
+    "number": "101",
+    "move": "Take Down"
+},
+{
+    "number": "102",
+    "move": "Charm"
+},
+{
+    "number": "103",
+    "move": "Confide"
+},
+{
+    "number": "104",
+    "move": "Fake Tears"
+},
+{
+    "number": "105",
+    "move": "Agility"
+},
+{
+    "number": "106",
+    "move": "Mud-Slap"
+},
+{
+    "number": "107",
+    "move": "Scary Face"
+},
+{
+    "number": "108",
+    "move": "Acid Spray"
+},
+{
+    "number": "109",
+    "move": "Struggle Bug"
+},
+{
+    "number": "110",
+    "move": "Psybeam"
+},
+{
+    "number": "111",
+    "move": "Confuse Ray"
+},
+{
+    "number": "112",
+    "move": "Disarming Voice"
+},
+{
+    "number": "113",
+    "move": "Trailblaze"
+},
+{
+    "number": "114",
+    "move": "Pounce"
+},
+{
+    "number": "115",
+    "move": "Chilling Water"
+},
+{
+    "number": "116",
+    "move": "Fire Spin"
+},
+{
+    "number": "117",
+    "move": "Poison Tail"
+},
+{
+    "number": "118",
+    "move": "Hex"
+},
+{
+    "number": "119",
+    "move": "Metal Claw"
+},
+{
+    "number": "120",
+    "move": "Swift"
+},
+{
+    "number": "121",
+    "move": "Magical Leaf"
+},
+{
+    "number": "122",
+    "move": "Icy Wind"
+},
+{
+    "number": "123",
+    "move": "Mud Shot"
+},
+{
+    "number": "124",
+    "move": "Draining Kiss"
+},
+{
+    "number": "125",
+    "move": "Stored Power"
+},
+{
+    "number": "127",
+    "move": "Avalanche"
+},
+{
+    "number": "128",
+    "move": "Snowscape"
+},
+{
+    "number": "129",
+    "move": "Dig"
+},
+{
+    "number": "130",
+    "move": "Bullet Seed"
+},
+{
+    "number": "131",
+    "move": "Zen Headbutt"
+},
+{
+    "number": "132",
+    "move": "Psychic Fangs"
+},
+{
+    "number": "133",
+    "move": "Air Slash"
+},
+{
+    "number": "134",
+    "move": "Electro Ball"
+},
+{
+    "number": "135",
+    "move": "Rock Blast"
+},
+{
+    "number": "136",
+    "move": "Stomping Tantrum"
+},
+{
+    "number": "137",
+    "move": "Body Press"
+},
+{
+    "number": "138",
+    "move": "Spikes"
+},
+{
+    "number": "139",
+    "move": "Toxic Spikes"
+},
+{
+    "number": "140",
+    "move": "Imprison"
+},
+{
+    "number": "141",
+    "move": "Eerie Impulse"
+},
+{
+    "number": "142",
+    "move": "Dragon Dance"
+},
+{
+    "number": "143",
+    "move": "Power Gem"
+},
+{
+    "number": "144",
+    "move": "Crunch"
+},
+{
+    "number": "145",
+    "move": "Aura Sphere"
+},
+{
+    "number": "146",
+    "move": "Heavy Slam"
+},
+{
+    "number": "147",
+    "move": "Encore"
+},
+{
+    "number": "148",
+    "move": "Ice Spinner"
+},
+{
+    "number": "149",
+    "move": "Amnesia"
+},
+{
+    "number": "150",
+    "move": "Pollen Puff"
+},
+{
+    "number": "151",
+    "move": "Baton Pass"
+},
+{
+    "number": "152",
+    "move": "Reversal"
+},
+{
+    "number": "153",
+    "move": "Electric Terrain"
+},
+{
+    "number": "154",
+    "move": "Grassy Terrain"
+},
+{
+    "number": "155",
+    "move": "Psychic Terrain"
+},
+{
+    "number": "156",
+    "move": "Misty Terrain"
+},
+{
+    "number": "157",
+    "move": "Nasty Plot"
+},
+{
+    "number": "158",
+    "move": "Hydro Pump"
+},
+{
+    "number": "159",
+    "move": "Phantom Force"
+},
+{
+    "number": "160",
+    "move": "Leaf Storm"
+},
+{
+    "number": "161",
+    "move": "Hurricane"
+},
+{
+    "number": "162",
+    "move": "Bug Buzz"
+},
+{
+    "number": "163",
+    "move": "Brave Bird"
+},
+{
+    "number": "164",
+    "move": "Flare Blitz"
+},
+{
+    "number": "165",
+    "move": "Close Combat"
+},
+{
+    "number": "166",
+    "move": "Steel Beam"
+},
+{
+    "number": "167",
+    "move": "Tera Blast"
+}
 ]
