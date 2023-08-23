@@ -29,7 +29,7 @@
     },
     {
         "name":"Blindsense",
-        "effect":"Zubat, Deino, and Deino’s Evolutions are blind, but can generally function through increased senses - Blindsense can take the form of echolocation, increased hearing, enhanced sense of smell, a supernatural awareness of the environment, and more. It is, however, unable to distinguish colors or exact forms (reading words on a book would be impossible, for example). Pokémon and Trainers with Blindsense can function even in complete darkness, as if they had Darkvision, and they can never be Blinded."
+        "effect":"These Pokemon are blind, but can generally function through increased senses - Blindsense can take the form of echolocation, increased hearing, enhanced sense of smell, a supernatural awareness of the environment, and more. It is, however, unable to distinguish colors or exact forms (reading words on a book would be impossible, for example). Pokémon and Trainers with Blindsense can function even in complete darkness, as if they had Darkvision, and they can never be Blinded."
     },
     {
         "name":"Materializer",
@@ -144,6 +144,14 @@
         "effect":"Naturewalk is always listed with Terrain types in parentheses, such as Naturewalk (Forest, Grassland). Pokémon with Naturewalk treat all listed Slow and Rough terrains as Basic Terrain."
     },
     {
+        "name":"Ruined",
+        "effect":"This Pokemon was born of evil that inhabited an ancient object. When defeated, this Pokemon turns into the object that is represents."
+    },
+    {
+        "name":"Massive Weight",
+        "effect":"The user does not suffer fall damage when falling from a height of 12 meters or less. These creatures are considered to be 2 Weight Classes heavier when in a grapple and collision damage they suffer is instead passed onto whatever it was (or who) they collided into."
+    },
+    {
         "name":"Shapeshifter",
         "effect":"Pokémon with this Capability can change their shape at will, taking on different forms as a Standard Action. When using this Capability, the user cannot increase or decrease its total mass by more than 50%, and they cannot replicate complex machines such as computers or phones. They may take on the appearance of these devices, but they will appear simplified in comparison. They can, however, transform into other moving forms such as acting as someone’s prosthetic limb, a living lever or pulley system, or a Pokémon comparable in size. Note in this last case that the Shapeshifter doesn’t gain any qualities of that Pokémon without actually using the Move Transform! Anyone closely examining a Shapeshifter Pokémon may determine its true nature with a Perception Check opposed by the Pokémon’s Stealth. If a Pokémon learns the Move Transform and does not have the Shapeshifter Capability, they gain Shapeshifter."
     },
@@ -212,12 +220,64 @@
         "effect":"A Pokémon with the Dead Silent capability does not breathe or have a heartbeat, and does not shuffle or make noise as they walk unless they wish to."
     },
     {
+        "name":"Bioluminescence",
+        "effect":"The user generates a 5-meter radius of bright light when in dark areas with a 5-meter dim illumination beyond that. This light reveals invisible creatures and psychic residue."
+    },
+    {
+        "name":"Coin Collector",
+        "effect":"Pokémon of at least Level 20 with this Capability can produce a coin item once a day as an Extended Action. Roll 1d20 when this Capability is used. On a roll of 1-12, a Relic Copper is produced. On a roll of 13-18, a Relic Silver is produced. On a roll of 19-20, a Relic Gold is produced.\\nRelic Bronze: $100\\nRelic Silver: $300\\nRelic Gold: $1,000\\nGimmighoul Only: Gimmighoul creates Gimmighoul coins instead of Relic Items at a rate of 1d20 x 5 coins per action."
+    },
+    {
+        "name":"Drake-Touched",
+        "effect":"The Pokémon’s Struggle Attacks may be Dragon-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. Multiple Dragon-Type moves grant Drake-Touched."
+    },
+    {
+        "name":"Chill Touch",
+        "effect":"The Pokémon’s Struggle Attacks may be Ice-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. Multiple Ice-Type moves grant Chill Touch."
+    },
+    {
+        "name":"Dust Up",
+        "effect":"The Pokémon’s Struggle Attacks may be Ground-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. Multiple Ground-Type moves grant Dust Up."
+    },
+    {
         "name":"Firestarter",
         "effect":"The Pokémon’s Struggle Attacks may be Fire-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. Multiple Fire-Type moves grant Firestarter."
     },
     {
+        "name":"Undergrowth",
+        "effect":"The Pokémon’s Struggle Attacks may be Grass-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. Multiple Grass-Type moves grant Undergrowth."
+    },
+    {
+        "name":"Mandibles",
+        "effect":"The Pokémon’s Struggle Attacks may be Bug-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. Multiple Bug-Type moves grant Mandibles."
+    },
+    {
+        "name":"Soul Siphon",
+        "effect":"The Pokémon’s Struggle Attacks may be Ghost-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. Multiple Ghost-Type moves grant Soul Siphon."
+    },
+    {
+        "name":"Well-Built",
+        "effect":"The Pokémon’s Struggle Attacks may be Fighting-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. Multiple Fighting-Type moves grant Well-Built."
+    },
+    {
+        "name":"Venom Sac",
+        "effect":"The Pokémon’s Struggle Attacks may be Poison-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. Multiple Poison-Type moves grant Venom Sac."
+    },
+    {
+        "name":"Mystical",
+        "effect":"The Pokémon’s Struggle Attacks may be Fairy-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. Multiple Fairy-Type moves grant Mystical."
+    },
+    {
         "name":"Dream Reader",
         "effect":"Pokémon with the Dream Reader Capability may view the dreams of Sleeping Pokémon and Trainers. If the Pokémon or Trainer was put to Sleep with a Dream Mist item, they may also form a moving image of the dream from the Dream Mist in the target, allowing others to get a brief glance of the contents of the dream. Pokémon with this Capability cannot read the dreams of targets with the Mindlock Capability."
+    },
+    {
+        "name":"Legs Up",
+        "effect":"Once per round, when using an Attack of Opportunity, as a Free Action the user can make a Trip Combat Maneuver against the triggering target."
+    },
+    {
+        "name":"Speech",
+        "effect":"Over time this user is capable of learning other languages or mimicking common words spoken around it, including human language. Once per Extended Rest when this Pokemon is Trained, they add 3 Words to their Word Bank. They may have a maximum number of learned words equal to half their level. Users with this Capability in the wild can only learn words if exposed to the language. If the user is Proficient or Mastered in General Education, they can speak normally without any limit"
     },
     {
         "name":"Pokébot",
@@ -242,6 +302,14 @@
     {
         "name":"Tremorsense",
         "effect":"Pokémon with the Tremorsense Capability can sense the location, size, and shape of objects in the ground around them for up to 5 meters, almost as if they could see through the ground."
+    },
+    {
+        "name":"Wavesense",
+        "effect":"Pokémon with the Wavesense Capability can sense the location, number, and general size of all objects in water around them for up to 5 meters, almost as if they could see through the water. They are immune to being blinded in water."
+    },
+    {
+        "name":"Lifesense",
+        "effect":"Pokémon with the Lifesense Capability can sense the location, number, and general size of living beings (including plant life) around them for up to 5 meters, almost as if they could see through the ground. They are immune to being blinded."
     },
     {
         "name":"Vacuum Immunity",
@@ -366,6 +434,10 @@
     {
         "name": "Sky Forme",
         "effect": "This Pokémon can transform into its Sky Forme as a Full Action in sunlight when it has Gracidea, a rare type of flower, nearby. It will be forced to revert into its normal form if it is hit by an Ice Type Move, if it touches ice, or if the sun is no longer shining. This Pokémon may have a different set of Moves for each Forme."
+    },
+    {
+        "name": "Trusting",
+        "effect": "Whenever this Pokemon would gain Friendship from Quests, it gains an additional Friendship level. This Pokemon gains +3 to Charm when interacting with Friendly Pokemon."
     },
     {
         "name": "Therian Forme",

@@ -15,14 +15,174 @@
     "frequency": "Static"
   },
   {
+    "name":"Deafening Wail",
+    "effect":"Whenever the user uses a Move with the Sonic keyword, they may increase that Move’s Damage Base by +2 (if it has a Damage Base) and that Move Flinches on a roll of 19+. Any targets hit by a Move you have changed in this way are treated as if they have the Ability Soundproof until the end of your next turn.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Lingering Aroma",
+    "effect":"Trigger - The user is hit by a Melee Attack\\nDisable one of the user’s Abilities for the rest of the Scene or until they are switched out.",
+    "frequency":"At-Will - Free Action"
+  },
+  {
+    "name":"Brave Heart",
+    "effect":"Trigger: A foe within 5 meters uses a Move or Ability to raise its Combat Stages\\nEffect: The user’s Attack raises by the same number of Combat Stages granted by the opponent’s Move or Ability",
+    "frequency":"Scene - Free Action"
+  },
+  {
+    "name":"Zero to Hero",
+    "effect":"The first time the user switches out in battle from any effect, forced or unforced, the it comes out in battle for the rest of the scene in Hero Forme. This ability cannot be copied/overwritten/disabled by any ability/move/effect.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Torque Converter",
+    "effect":"Vroom and Revavroom gain an Ability and change their secondary Typing based on which Forme they have taken.\\nStandard - Corrosion - None\\nMagical - Misty Surge - Fairy\\nBlazing - Speed Boost - Fire\\nCombat - Stamina - Fighting\\nNoxious - Toxic Debris - Poison\\nWicked - Intimidate - Dark",
+    "frequency":"Static"
+  },
+  {
+    "name":"Overbear",
+    "effect":"This Pokemon ignores all immunities to damage it would deal. Immune attacks instead deal normal damage",
+    "frequency":"Static"
+  },
+  {
+    "name":"Creeping Doom",
+    "effect":"You create 4 swarms of centipedes up to 8-meters away from you, which need not be adjacent to one another. A centipede swarm is a hazard that causes anyone beginning their turn in them to lose a Tick of HP and is considered Bug type damage. Apply Weakness/Resistances. Do not apply stats. Pokemon or Trainers in a centipede swarm are Slowed but can move through them. You may create centipede swarms so that they share the area of other creatures. The swarms remain stationary unless you command them to move (a standard action to command any number of the swarms to move 3-meters). You cannot command a swarm to move more than 12-meters away from you and if you move more than 12-meters from any swarm, that swarm remains stationary.",
+    "frequency":"Scene x2 - Free Action"
+  },
+  {
+    "name":"Sharpness",
+    "effect":"The user has the Damage Base for moves with the Slash Keyword increased by 2.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Malice",
+    "effect":"Whenever foes within 3m of the user lose hit points from an effect that is not directly an Attack (so, Recoil and Night Shade would not be affected, but Hail and Toxic would be), the hit points lost are multiplied by 1.5x. More than one Malice Ability does not stack.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Commander",
+    "effect":"When the Pokémon enters the battlefield or at the beginning of its turn, if their is an allied Dondozo on the field, it goes inside the mouth of Dondozo. This Pokémon then issues commands from there. This Pokemon is considered untargetable by all effects and abilities except recalling, and its own abilities until it leaves Dondozos mouth as a standard action. It can attack as normal from within Dondonzo, but cannot avoid AOE damage. As long as this Pokemon is in Dondozo's mouth, Dondozo cannot switch out, and it gain's +2 CS in all stats.",
+    "frequency":"At Will - Free Action"
+  },
+  {
+    "name":"Supreme Overlord",
+    "effect":"This Pokemon gains +1 CS in Attack and Special Attack for each fainted allied Pokemon you own (max 6, scale to maximum Pokemon carryable.)",
+    "frequency":"Static"
+  },
+  {
+    "name":"Protosynthesis",
+    "effect":"While in Sunny Weather, this Pokemon's Highest Stat (non-HP) gains +1 CS.\\nBonus: This Pokemon is always considered in Sunny Weather while holding Booster Energy.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Eidetic Memory",
+    "effect":"The user cannot have its Moves Disabled, and is immune to the effects of the Memory Wipe Ability. The Pokemon may use Tracker on scents they have ever smelled in the past, no matter how long ago, with a DC of 8.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Diamond Cut",
+    "effect":"The user resists Fighting and Steel type moves one step further. Defensive.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Quark Drive",
+    "effect":"While in Electric Terrain, raise this Pokemons highest Non-HP Stat by +1 CS.\\nBonus: This Pokemon is considered in Electric Terrain while Holding Booster Energy.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Thermal Exchange",
+    "effect":"When hit by a Fire-Type Attack, increase Attack by 1 CS.\\nBonus: This Pokemon is immune to burns (not to Fire-Type Attacks.)",
+    "frequency":"Static"
+  },
+  {
+    "name":"Coldfire Star",
+    "effect":"Trigger:The user successfully hits with a Fire-type or Ice-type attack.\\nEffect:The target is now Frozen (if they were hit with a Fire-type attack) or Burned (if hit with an Ice-type attack). (Note: Only affects one foe if triggered by a multi-target attack)",
+    "frequency":"Scene x2 - Free Action"
+  },
+  {
+    "name":"Good as Gold",
+    "effect":"This Pokemon is immune to non-self inflicted Status moves. Defensive.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Tablets of Ruin",
+    "effect":"When this Pokemon is sent out onto the field (or enters combat) all combatants (except this one) within 5m lower their Attack by 1 CS.",
+    "frequency":"Scene x2 - Free Action"
+  },
+  {
+    "name":"Sword of Ruin",
+    "effect":"When this Pokemon is sent out onto the field (or enters combat) all combatants (except this one) within 5m lower their Def by 1 CS.",
+    "frequency":"Scene x2 - Free Action"
+  },
+  {
+    "name":"Vessel of Ruin",
+    "effect":"When this Pokemon is sent out onto the field (or enters combat) all combatants (except this one) within 5m lower their Sp. Att by 1 CS.",
+    "frequency":"Scene x2 - Free Action"
+  },
+  {
+    "name":"Beads of Ruin",
+    "effect":"When this Pokemon is sent out onto the field (or enters combat) all combatants (except this one) within 5m lower their Sp. Def by 1 CS.",
+    "frequency":"Scene x2 - Free Action"
+  },
+  {
+    "name":"Seed Sower",
+    "effect":"Trigger - This Pokemon is hit by a Physical Attack.\\nEffect - The Terrain becomes Grassy Terrain for 5 rounds.",
+    "frequency":"Scene - Free Action, Reaction"
+  },
+  {
+    "name":"Learn",
+    "effect":"Each time the user is targeted by a move, that move loses 1 accuracy each time to a maximum of 5 for the scene. Defensive.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Orichalcum Pulse",
+    "effect":"The Weather changes to be Sunny for 1 full round.\\nBonus: While in Sunny weather, this Pokemon gains 1 CS in Attack. While in Hail, this Pokemon loses 1 CS in Attack.",
+    "frequency":"Scene x3 - Swift Action"
+  },
+  {
+    "name":"Hadron Engine",
+    "effect":"The Field becomes Electrified, as if affected by the Move Electric Terrain, for one full round.\\nBonus: While this Pokemon is in Electric Terrain, it's Sp. Atk. is +2 CS.",
+    "frequency":"Scene x3 - Swift Action"
+  },
+  {
+    "name":"Grass Cloak",
+    "effect":"The users Evasion is increased by +2 while in a Grassy Terrain. The user and allies adjacent to the user gain double the health from Grassy Terrain. Defensive",
+    "frequency":"Static"
+  },
+  {
+    "name":"Purifying Salt",
+    "effect":"This Pokemon is immune to Status Conditions and resists Ghost Type attacks one more step. Defensive.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Feisty",
+    "effect":"The user treats its Attack as being 2 Combat Stages higher (to a maximum of 6) against Pokémon and Trainers that have more Combat Stages than it.",
+    "frequency":"Static"
+  },
+  {
     "name": "Snow Warning",
     "effect": "The Weather changes to Hail for 1 full round. The user is immune to Hit Point loss from Hail.",
     "frequency": "Scene x3 - Swift Action"
   },
   {
+    "name":"Opportunist",
+    "effect":"Trigger: An Opponent within 5m gains Combat Stages\\nEffect:This Pokemon also gains those Combat Stages.",
+    "frequency":"At Will - Free Action"
+  },
+  {
+    "name":"Critical Resistance",
+    "effect":"If any attack would lower this Pokémon to 0 Hit Points or less from full Hit Points, instead the Pokémon’s Hit Point value is set to 1. If any Critical Hit would lower this Pokémon to lower than 1 HP from HP above 1, instead the Pokémon's Hit Point value is set to 1. Pokémon with Critical Resistance do not gain Injuries from Massive Damage.",
+    "frequency":"Static"
+  },
+  {
     "name": "Truant",
     "effect": "At the beginning of each of its turns, the user must roll 1d20. On a roll of 7 or lower, the target refuses to act; they heal a Tick of Hit Points, and do not get a Standard Action that turn. Turns in which the user refuses to act count towards turns used up by Interrupts or the Exhausted Condition, and the user may make Rolls to cure themselves from Status Effects with a +3 Bonus that turn.",
     "frequency": "Static"
+  },
+  {
+    "name":"Combo Striker",
+    "effect":"Trigger - The user rolls a natural 1, 10, or 11 on an attack roll with a damaging move\\nAfter the triggering attack is resolved, the user may use a Struggle Attack as a Free Action. Note: Yes, Struggle Attacks made due to Combo Striker may trigger Combo Striker.",
+    "frequency":"At Will - Free Action"
   },
   {
     "name": "Trinity",
@@ -73,6 +233,11 @@
     "name": "Prankster",
     "effect": "The user may use Status Moves taken as a Standard Action as Priority (Advanced).",
     "frequency": "Static"
+  },
+  {
+    "name":"Well-Baked Body",
+    "effect":"The user is immune to Fire-Type attacks and when it would take Fire-Type damage, it instead gains +2 CS in Defense. Defensive.",
+    "frequency":"Static"
   },
   {
     "name": "Cherry Power",
@@ -230,6 +395,51 @@
     "frequency": "At Will - Free Action"
   },
   {
+    "name":"Electromorphosis",
+    "effect":"When this Pokemon takes Physical damage, it may use Charge as a Free Action if it is on it's move list. Defensive.",
+    "frequency":"At Will - Free Action"
+  },
+  {
+    "name":"War Machine",
+    "effect":"trigger: The user deals damage to a target with a Struggle Attack or Move.\\nThe target loses a Tick of Hit Points.",
+    "frequency":"At-Will - Swift Action"
+  },
+  {
+    "name":"Wind Power",
+    "effect":"When this Pokemon takes damage from a move with the Wind keyword, it can use Charge as a Free Action as if it was on its move list.",
+    "frequency":"At-Will - Free Action, Reaction"
+  },
+  {
+    "name":"Guard Dog",
+    "effect":"Trigger: This Pokemon is targeted by the Intimidate Ability.\\nEffect: This Pokemon instead gains +1 CS in attack.\\nBonus: This Pokemon is immune to effects of attacks/abilities/features that would cause it to switch out against its will. Defensive.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Hopeful",
+    "effect":"TARGET: 1 Adjacent Ally\\nEffect:For the next 5 rounds, the target gains a +2 bonus to Accuracy and Skill checks and a +5 bonus to damage and Damage Reduction.",
+    "frequency":"Scene - Standard Action"
+  },
+  {
+    "name":"Conundrum",
+    "effect":"Trigger: The user is hit with a Melee Attack\\nEffect: The attacking foe becomes Confused.",
+    "frequency":"Scene x2 - Free Action"
+  },
+  {
+    "name":"Graphic Artist",
+    "effect":"When a Shroodle is born it creates a unique patterned signature that it improves as it grows. Shroodle have similar patterns to their parents, but not identical as no marking is identical. When this mark is fully developed (when this ability is taken), it leaves marks on everything, and depending on the type of mark from the following list, this Pokemon gains that bonus permanently. This mark is chosen when the ability is taken an rolling a d6 to match the mark type.\\nRealistic Pattern - Gains +5 Base Attack and +2 Power\\nPhotorealistic Pattern - Gains +5 Base Special Attack and a +2 mod to Perception.\\nExpressionistic Pattern - Gains Anger Point or Bitter Point.\\nImpressional Pattern - Gains Hopeful.\\nAbstract Pattern - Gains Conundrum and +1 to evasion.\\nSurreal Pattern - Gains Normalize.\\nCartoonistic Pattern - Gains Accuracy Expert",
+    "frequency":"Static"
+  },
+  {
+    "name":"Crippling Poison",
+    "effect":"Poison moves gain: On 18+ the target becomes Paralyzed.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Cud Chew",
+    "effect":"Trigger: The user trades in a Digestion Buff or consumes a berry.\\nEffect: The user gains the Digestion buff or berry effect at the beginning of its next turn as if it had eaten it.",
+    "frequency":"Scene - Free Action"
+  },
+  {
     "name": "Fluffy Charge",
     "effect": "Connection - Charge. Whenever the user uses Charge, they gain +1 CS to Defense.",
     "frequency": "Static"
@@ -281,7 +491,7 @@
   },
   {
     "name": "Aqua Bullet",
-    "effect": "Connection - Aqua Jet. The user may use Water-Type Moves as a Full Action to gain Sky 10 and shift in a straight line before attempting to use their Move. When shifting this way, the user does not provoke attacks of opportunity.",
+    "effect": "Connection - Aqua Jet/Flip Turn. The user may use Water-Type Moves as a Full Action to gain Sky 10 and shift in a straight line before attempting to use their Move. When shifting this way, the user does not provoke attacks of opportunity.",
     "frequency": "Static"
   },
   {
@@ -876,6 +1086,11 @@
   },
   {
     "name": "Skill Link",
+    "effect": "Trigger - The user hits with a Move with the Five Strike keyword or Population Bomb.\\nThe Triggering Move automatically hits 5 Times. Population Bomb instead adds 5 to the roll for how many times to hit.",
+    "frequency": "Scene - Free Action"
+  },
+  {
+    "name": "Entandem",
     "effect": "Trigger - The user hits with a Move with the Five Strike keyword.\\nThe Triggering Move automatically hits 5 Times.",
     "frequency": "Scene - Free Action"
   },
@@ -923,6 +1138,11 @@
     "name": "Ambush",
     "effect": "The user may activate this Ability to use a Move with a Damage Base of 6 (before applying STAB or other modifiers) or lower as if it had the Priority keyword. If it hits, the target is Flinched and has a -2 penalty to Accuracy Rolls for 1 full round.",
     "frequency": "Scene - Free Action"
+  },
+  {
+    "name":"Cheek Pouch",
+    "effect":"The user may have a Berry item in addition to it's held item.",
+    "frequency":"Static"
   },
   {
     "name": "Probability Control",
@@ -1571,7 +1791,7 @@
   },
   {
     "name": "Anticipation",
-    "effect": "Target - Trainers or Pokémon\\nThe target reveals if they have any Moves that are Super-Effective against the Pokémon with Anticipation. You may not target a Pokémon or Trainer more than once per encounter with Anticipation. Anticipation only reveals whether the opponent does or does not have those moves, not the specific moves themselves.",
+    "effect": "Target - Trainers or Pokémon\\nThe target reveals if they have any Moves that are Super-Effective against the Pokémon with Anticipation. You may not target a Pokémon or Trainer more than once per encounter with Anticipation. Anticipation only reveals whether the opponent does or does not have those moves, not the specific moves themselves.\\n Bonus:You gain +2 Evasion against Super Effective Moves.",
     "frequency": "At-Will - Swift Action"
   },
   {
@@ -1680,9 +1900,59 @@
     "frequency": "Static"
   },
   {
+    "name":"Mycelium Might",
+    "effect":"In a round’s queue, a Pokémon with Mycelium Might is always last. If a Pokémon goes to the end of the queue, the Pokémon with Mycelium Might is still the last to move. The user’s status moves used on their Initiative Count (not Priority or Interrupt) cannot be Interrupted, Intercepted, and will affect the target regardless of ability.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Anger Shell",
+    "effect":"When an attack causes this Pokemons HP to drop below 50% of Maximum. This Pokemon lowers its Sp. Def and Def. CS by 1 and raises its Att, Sp. Atk, and Speed CS by 1. If the user's HP goes above 50% of max, these combat stages are returned to normal.",
+    "frequency":"At Will - Free Action"
+  },
+  {
+    "name":"Psych Out",
+    "effect":"Target: Pokémon or Trainer within 5 meters\\nEffect: Lower the target’s Special Attack by 1 Combat Stage. You may target a specific foe only once per Scene with Psych Out.",
+    "frequency":"At-Will - Swift Action"
+  },
+  {
+    "name":"Dangerous Depths",
+    "effect":"Connection - Drag Under. When hit by a move, this Pokemon may activate this Ability to use Drag Under, frequency allowing, as an interrupt to avoid the attack and shift underground/underwater immediately (ignoring Drag Unders water requirement). This consumed a command as normal. Drag Unders damage base is always treated as 12.",
+    "frequency":"Daily - Free Action"
+  },
+  {
+    "name":"Rocky Payload",
+    "effect":"This Pokemons Rock type moves are +2 DB.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Capsicum",
+    "effect":"This Pokemon's Melee attacks cause a burn on an 18+. If the attack already burns, increase the range by +2. This Pokemon's ranged attacks apply the effects of Leech Seed on the target on 18+.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Scavenger",
+    "effect":"Trigger: The user’s damaging attack causes a foe to Faint\\nEffect: The user removes one Injury from themselves and gains Hit Points equal to 25% of their Max Hit Points.",
+    "frequency":"Scene x2 - Free Action"
+  },
+  {
     "name": "Bone Lord",
     "effect": "Trigger - You hit with Bone Club, Bonemerang, or Bone Rush\\nConnection - Bonemerang. Once per Scene per Move, the following Moves may be used as if they had the following bonuses:\\n- Bone Club: Bone Club’s target loses 1 Defense and Special Attack CS.\\n- Bonemerang: Has a Range of Line 6 but loses the Double Strike keyword\\n- Bone Rush: Bone Rush automatically ‘hits’ four times (as per the Five Strike keyword).",
     "frequency": "At-Will - Free Action"
+  },
+  {
+    "name":"Maelstrom Pulse",
+    "effect":"The user may activate Maelstrom Pulse to use a Water-Type Move with Priority. If the Move is a Damaging Move, the user adds half their Speed Stat to the Damage Roll.",
+    "frequency":"Scene x2 - Free Action, Priority"
+  },
+  {
+    "name":"Wind Rider",
+    "effect":"The user is immune to the damage and effects of Flying-Type attacks. If the user is hit by a Flying-Type attack, the user gains +1 Speed CS. Defensive.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Blaze Boost",
+    "effect":"Trigger - The user rolls a Critical Hit with a damaging Fire Type Move or causes an opponent to Faint with a damaging Fire Type Move\\nThe user gains +1 Combat Stage in Attack, Special Attack, and Speed.",
+    "frequency":"Scene x2 - Free Action"
   },
   {
     "name": "Blaze",
@@ -2343,6 +2613,31 @@
     "name": "Type Aura (Fighting)",
     "frequency": "Static",
     "effect": "The user and all allies within 3 meters gain a +5 Bonus to Damage Rolls with Fighting-Type Moves."
+  },
+  {
+    "name": "Acceleration",
+    "frequency": "Static",
+    "effect": "All Priority moves DB are increased by 2."
+  },
+  {
+    "name": "Accuracy Expert",
+    "frequency": "Static",
+    "effect": "You gain +1 Accuracy Bonus.\\nBonus: You no longer automatically fail Accuracy Checks on a natural 1."
+  },
+  {
+    "name": "Adrenaline",
+    "frequency": "Static",
+    "effect": "While below 50% of Max HP, you gain +2 CS in Speed. Anytime your HP goes above 50% HP you lose any CS gained this way."
+  },
+  {
+    "name": "Adorable",
+    "frequency": "Scene - Swift Action",
+    "effect": "The user may activate Adorable to either gain +2 Cute Dice in a Contest, or to gain +1 Special Defense Combat Stage and cure all allies within 5 meters of the Infatuated Condition."
+  },
+  {
+    "name": "Alchemists Cloak",
+    "frequency": "Static",
+    "effect": "The user may hold a Herbal item within their cloak. This is in addition to any held items being held normally. This Herbal item may be consumed by the user as normal when appropriate, and does not count towards the Snack Food limit for the user. This Herbal Item cannot be removed, stolen, consumed, or destroyed by any external forces."
   },
   {
     "name": "Last Chance",
