@@ -1979,6 +1979,17 @@
         "contestType":"Cute - Get Ready!"
     },
     {
+        "name":"Flower Trick",
+        "effect":"Flower Trick cannot miss and is always a Critical Hit.",
+        "type":"Grass",
+        "category":"Physical",
+        "damageBase":"7",
+        "frequency":"Scene x2",
+        "ac":"--",
+        "range":"4, 1 Target",
+        "contestType":"Cute - Get Ready!"
+    },
+    {
         "name":"Infernal Parade",
         "effect":"Legal targets hit by Infernal Parade are Burned on a 17+.\\nOnce a Scene, if at least one of Infernal Paradeâ€™s targets has a Status Condition, you may increase Infernal Parade's Damage Base to 12 instead (3d12+10 / 30).",
         "type":"Ghost",
@@ -2782,6 +2793,39 @@
         "contestType":"Cute - Safe Option"
     },
     {
+        "name":"Revival Blessing",
+        "effect":"The target is immediately cured of up to 5 injuries and healed to half their Maximum Hit Points. Revival Blessing must target a Fainted Pokémon. Revival Blessing does not restore the Frequency of Healing Wish, Lunar Dance, orm Revival Blessing. Injuries healed through Revival Blessing does not count toward the total number of Injuries that can be healed each day.",
+        "type":"Normal",
+        "category":"Status",
+        "damageBase":"--",
+        "frequency":"Daily",
+        "ac":"--",
+        "range":"Field",
+        "contestType":"Beauty - Attention Grabber"
+    },
+    {
+        "name":"Salt Cure",
+        "effect":"The target becomes Salted. This attack is one step more effective on Water and Steel types.",
+        "type":"Rock",
+        "category":"Physical",
+        "damageBase":"4",
+        "frequency":"Scene x2",
+        "ac":"2",
+        "range":"2, 1 Target",
+        "contestType":"Tough - Gamble"
+    },
+    {
+        "name":"Triple Dive",
+        "effect":"After attacking with Triple Dive, hit or miss, the user may Shift 2m, ignoring Attacks of Opportunity from their target. It may then make an additional attack with this Move on a different target. This effect may be repeated a second time, the third attack targeting a creature that has not yet been targeted by either prior attack. Before making each attack roll, the user can elect to give up triggering all remaining additional shifts and attacks. Increase Triple Dives' Damage Base by 3 for each attack that is given up.",
+        "type":"Rock",
+        "category":"Physical",
+        "damageBase":"3",
+        "frequency":"Scene x2",
+        "ac":"2",
+        "range":"Melee, 1 Target",
+        "contestType":"Tough - Double Time"
+    },
+    {
         "name":"Dynamax Cannon",
         "effect":"The Damage Base of Dynamax Cannon increases by 2 for each positive Combat Stage the target has, to a maximum of Damage Base 20.",
         "type":"Dragon",
@@ -2823,7 +2867,7 @@
         "frequency":"Scene",
         "ac":2,
         "range":"Melee, 1 Target",
-        "contestType":"Tough - Double TIme"
+        "contestType":"Tough - Double Time"
     },
     {
         "name":"Disarming Voice",
@@ -4264,7 +4308,7 @@
         "frequency":"Scene",
         "ac":2,
         "range":"Melee, 1 Target, Dash",
-        "contestType":"Tough - Double TIme"
+        "contestType":"Tough - Double Time"
     },
     {
         "name":"Cross Chop",
@@ -5133,7 +5177,7 @@
         "frequency":"EOT",
         "ac":2,
         "range":"Melee, 1 Target",
-        "contestType":"Tough - Double TIme"
+        "contestType":"Tough - Double Time"
     },
     {
         "name":"Doom Desire",
@@ -6915,7 +6959,7 @@
         "frequency":"Scene x2",
         "ac":"--",
         "range":"Melee, 1 Target, Reaction, Trigger",
-        "contestType":"Tough - Double TIme"
+        "contestType":"Tough - Double Time"
     },
     {
         "name":"Fire Fang",
@@ -6937,7 +6981,7 @@
         "frequency":"EOT",
         "ac":2,
         "range":"Melee, 1 Target, Priority (Limited)",
-        "contestType":"Tough - Double TIme"
+        "contestType":"Tough - Double Time"
     },
     {
         "name":"Speed Swap",
@@ -7149,6 +7193,17 @@
         "contestType":"Smart - Saving Grace"
     },
     {
+        "name":"Aqua Step",
+        "effect":"Raise the User's Speed by 1 Combat Stage",
+        "type":"Water",
+        "category":"Physical",
+        "damageBase":"8",
+        "frequency":"Scene x2",
+        "ac":"2",
+        "range":"Melee, 1 Target",
+        "contestType":"Smart - Catching Up"
+    },
+    {
         "name":"Wave Crash",
         "effect":"",
         "type":"Water",
@@ -7160,6 +7215,127 @@
         "contestType":"Tough - Steady Performance"
     },
     {
+        "name":"Tera Blast",
+        "effect":"If Terastallized, the user deals damage with this attack as that type. This attacks category is also the higher of its Special Attack or Attack.",
+        "type":"Normal",
+        "category":"Physical",
+        "damageBase":8,
+        "frequency":"Scene x2",
+        "ac":2,
+        "range":"6, 1 Target",
+        "contestType":"Smart - Good Show!"
+    },
+    {
+        "name":"Silk Trap",
+        "effect":"If the user is hit by a Move, the user may use Silk Trap. The user is instead not hit by the Move. The user does not take any damage nor is affected by any of the Move's effect. The user of the Attack that triggered Silk trap loses 1 Combat Stage in Speed.",
+        "type":"Normal",
+        "category":"Status",
+        "damageBase":"--",
+        "frequency":"Scene x2",
+        "ac":"--",
+        "range":"Self",
+        "contestType":"Tough - Safe Option"
+    },
+    {
+        "name":"Last Respects",
+        "effect":"This attacks DB is increased by 5 for each Fainted all in the user's Party (max 32) ",
+        "type":"Ghost",
+        "category":"Physical",
+        "damageBase":"5",
+        "frequency":"Scene",
+        "ac":"2",
+        "range":"Melee, 1 Target",
+        "contestType":"Cool - Desperation"
+    },
+    {
+        "name":"Lumina Crash",
+        "effect":"Lower the Target's Special Defense 2 Combat Stages. ",
+        "type":"Psychic",
+        "category":"Special",
+        "damageBase":"8",
+        "frequency":"Scene x2",
+        "ac":"2",
+        "range":"8, 1 Target",
+        "contestType":"Smart - Gamble"
+    },
+    {
+        "name":"Order Up",
+        "effect":"Roll a d3. 1: Raise the User's Attack 1 Combat Stage. 2: Raise the User's Defense 1 Combat Stage. 3: Raise the User's Speed 1 Combat Stage. This effect only happens if this Pokemon has a Tatsugiri in its mouth.",
+        "type":"Dragon",
+        "category":"Physical",
+        "damageBase":"8",
+        "frequency":"Scene x2",
+        "ac":"2",
+        "range":"Melee,  1 Target",
+        "contestType":"Tough - Get Ready!"
+    },
+    {
+        "name":"Axe Kick",
+        "effect":"Confuses the target on 17+.",
+        "type":"Fighting",
+        "category":"Physical",
+        "damageBase":"120",
+        "frequency":"Scene x2",
+        "ac":"4",
+        "range":"Melee, 1 Target, Reckless",
+        "contestType":"Tough - Desperation"
+    },
+    {
+        "name":"Jet Punch",
+        "effect":"",
+        "type":"Water",
+        "category":"Physical",
+        "damageBase":"6",
+        "frequency":"EOT",
+        "ac":"2",
+        "range":"Melee, 1 Target, Priority",
+        "contestType":"Cute - Catching Up"
+    },
+    {
+        "name":"Spicy Extract",
+        "effect":"The target's Attack Combat Stages are increased by 2. The targets Defense Combat Stages are lowered by 2.",
+        "type":"Grass",
+        "category":"Status",
+        "damageBase":"--",
+        "frequency":"EOT",
+        "ac":"2",
+        "range":"3, 1 Target",
+        "contestType":"Smart - Double TIme"
+    },
+    {
+        "name":"Spin Out",
+        "effect":"Lower the user's Speed by 2 Combat Stages. The User is removed from all Grapples and Seeded Conditions at the end of this attack.",
+        "type":"Steel",
+        "category":"Physical",
+        "damageBase":"10",
+        "frequency":"Scene",
+        "ac":"2",
+        "range":"Melee, 1 Target",
+        "contestType":"Cool - Good Show!"
+    },
+    {
+        "name":"Population Bomb",
+        "effect":"",
+        "type":"Notmal",
+        "category":"Physical",
+        "damageBase":"2",
+        "frequency":"Scene",
+        "ac":"2",
+        "range":"Melee, 1 Target, Ten Strike",
+        "contestType":"Cool - Good Show!"
+    },
+    {
+        "name":"Ice Spinner",
+        "effect":"Destroy all terrains and hazards on the Field. This attack does 5 more damage for each.",
+        "type":"Ice",
+        "category":"Physical",
+        "damageBase":8,
+        "frequency":"Scene x2",
+        "ac":2,
+        "range":"Melee, 1 Target",
+        "contestType":"Beauty - Excitement"
+    },
+    {
         "name":"Fell Stinger",
         "effect":"If the user successfully knocks out the target with Fell Stinger, raise the user's Attack by 2 Combat Stages.",
         "type":"Bug",
@@ -7169,6 +7345,17 @@
         "ac":2,
         "range":"Melee, 1 Target",
         "contestType":"Smart - Desperation"
+    },
+    {
+        "name":"Glaive Rush",
+        "effect":"Until the end of the user's next turn, all Foes succeed Accuracy Checks against the User and deal damage as if one step more effective.",
+        "type":"Dragon",
+        "category":"Physical",
+        "damageBase":12,
+        "frequency":"Daily",
+        "ac":2,
+        "range":"Burst 1",
+        "contestType":"Tough - Desperation"
     },
     {
         "name":"Wish",
@@ -7353,9 +7540,9 @@
         "category":"Physical",
         "damageBase":"See Effect",
         "frequency":"Scene",
-        "ac":"--",
+        "ac":"--", 
         "range":"Burst 1, Friendly",
-        "contestType":"Tough - Double TIme"
+        "contestType":"Tough - Double Time"
     },
     {
         "name":"Decorate",
@@ -9325,7 +9512,18 @@
         "ac":"--",
         "range":"Burst 1",
         "contestType":"Smart - Reflective Appeal"
-    },        
+    }, 
+    {
+        "name":"Torch Song",
+        "effect": "Raise the User's Special Attack CS by 1.",
+        "type":"Fire",
+        "category":"Special",
+        "damagebase":"8",
+        "frequency":"Scene x2",
+        "ac":"2",
+        "range":"6, 1 Target, Sonic",
+        "contestType":"Smart - Reflective Appeal"
+    },       
     {
         "name":"Scorching Sands",
         "effect": "Scorching Sands Burns the target on 15+.",
@@ -9446,7 +9644,337 @@
         "ac":2,
         "range":"Melee, 1 Target, Dash",
         "contestType":"Cool - Inversed Appeal"
-    },   
+    },
+    {
+        "name":"Mortal Spin",
+        "effect": "The user breaks all Grapples and Seeded effects at the end of this turn. All legal targets are now poisoned.",
+        "type":"Poison",
+        "category":"Physical",
+        "damageBase":3,
+        "frequency":"Scene x2",
+        "ac":2,
+        "range":"Burst 1 or Close Blast 2",
+        "contestType":"Cool - Incentives"
+    },    
+    {
+        "name":"Doodle",
+        "effect": "The user and an adjacent Ally both gain an ability from the target.",
+        "type":"Normal",
+        "category":"Status",
+        "damageBase":"--",
+        "frequency":"Daily x2",
+        "ac":2,
+        "range":"4, 1 Target",
+        "contestType":"Smart - Saving Grace"
+    },    
+    {
+        "name":"Fillet Away",
+        "effect": "The user increases Attack, Sp. Attack, and Speed Combat Stages by 2 and loses 50% of its Maximum HP.",
+        "type":"Normal",
+        "category":"Status",
+        "damageBase":"--",
+        "frequency":"Daily x2",
+        "ac":2,
+        "range":"Self",
+        "contestType":"Cool - Gamble"
+    },
+    {
+        "name":"Kowtow Cleave",
+        "effect": "This attack never misses.",
+        "type":"Dark",
+        "category":"Physical",
+        "damageBase":"9",
+        "frequency":"Scene x2",
+        "ac":"--",
+        "range":"Burst 1",
+        "contestType":"Tough - Reliable"
+    },
+    {
+        "name":"Raging Bull",
+        "effect": "This moves type changes with the Forme of the User. When this attack is declared, all Field Blessings avaiable to the Target are destroyed.",
+        "type":"Normal",
+        "category":"Physical",
+        "damageBase":"9",
+        "frequency":"Scene x2",
+        "ac":"2",
+        "range":"Melee, Dash, 1 Target, Spirit Surge",
+        "contestType":"Tough - Reliable"
+    },
+    {
+        "name":"Make It Rain",
+        "effect": "Lower the user's Special Attack by 1 Combat Stage after damage is resolved. At the end of the encounter roll a d1000. The winner gains this much money.",
+        "type":"Normal",
+        "category":"Special",
+        "damageBase":"12",
+        "frequency":"Daily",
+        "ac":"2",
+        "range":"4, Ranged Blast 2, Smite",
+        "contestType":"Tough - Reliable"
+    },
+    {
+        "name":"Psyblade",
+        "effect": "This attacks DB is increased to 12 while the user is on Electric Terrain.",
+        "type":"Psychic",
+        "category":"Physical",
+        "damageBase":"8",
+        "frequency":"Scene x2",
+        "ac":"2",
+        "range":"Melee, 1 Target",
+        "contestType":"Smart - Special Attention"
+    },
+    {
+        "name":"Hydro Steam",
+        "effect": "While under the effects of Sunny Day, this moves DB is increased by 4. The damage is not lowered by Sunny Day.",
+        "type":"Water",
+        "category":"Special",
+        "damageBase":"8",
+        "frequency":"Scene x2",
+        "ac":"2",
+        "range":"4, 1 Target",
+        "contestType":"Beauty - Safe Option"
+    },
+    {
+        "name":"Ruination",
+        "effect": "All legal targets lose 50% of Maximum HP.",
+        "type":"Dark",
+        "category":"Status",
+        "damageBase":"--",
+        "frequency":"Daily x2",
+        "ac":"5",
+        "range":"Burst 3, Friendly",
+        "contestType":"Cool - Desperation"
+    },
+    {
+        "name":"Collision Course",
+        "effect": "If this attack deals Super Effective Damage, it is instead Doubly Super Effective.",
+        "type":"Fighting",
+        "category":"Physical",
+        "damageBase":"10",
+        "frequency":"Daily x2",
+        "ac":"2",
+        "range":"Melee, 1 Target",
+        "contestType":"Tough - Inversed Appeal"
+    },
+    {
+        "name":"Electro Drift",
+        "effect": "If this attack deals Super Effective Damage, it is instead Doubly Super Effective.",
+        "type":"Electric",
+        "category":"Special",
+        "damageBase":"10",
+        "frequency":"Daily x2",
+        "ac":"2",
+        "range":"Melee, 1 Target",
+        "contestType":"Smart - Exhausting Act"
+    },
+    {
+        "name":"Shed Tail",
+        "effect": "The user loses 1/4 of their maximum Hit Points. This Hit Point loss cannot be prevented in any way. The user creates an Illusory Substitute Coat, which has Hit Points equal to 1/4th of the user's full Hit Points +1 and then retreats to it's Pokeball. The Pokemon that comes out in its place is now coated with this illusury coat. If the coated Pokemon would be hit by a Move or attack, instead the Substitute gets hit. Apply weakness, resistance and stats to the Substitute. The Substitute is immune to Status Afflictions and Status Moves. Moves with the Social or Sonic keywords completely ignore and bypass the Substitute. Once the Substitute has been destroyed, the user may be hit as normal. Shed Tail cannot be used if the user has less than 1/4 of their full Hit Points.",
+        "type":"Electric",
+        "category":"Special",
+        "damageBase":"10",
+        "frequency":"Daily x2",
+        "ac":"2",
+        "range":"Melee, 1 Target",
+        "contestType":"Smart - Exhausting Act"
+    },
+    {
+        "name":"Chilly Reception",
+        "effect": "The User switches out, and the Field becomes Hail for 5 turns.",
+        "type":"Ice",
+        "category":"Status",
+        "damageBase":"--",
+        "frequency":"Daily x2",
+        "ac":"--",
+        "range":"Field",
+        "contestType":"Smart - Big Show"
+    },
+    {
+        "name":"Pounce",
+        "effect": "Lower the Speed of the Target by 1 Combat Stage.",
+        "type":"Bug",
+        "category":"Physical",
+        "damageBase":"5",
+        "frequency":"EOT",
+        "ac":"2",
+        "range":"Melee, 1 Target, Dash",
+        "contestType":"Tough - Special Attention"
+    },
+    {
+        "name":"Trailblaze",
+        "effect": "The user's Speed is increased 1 Combat Stage.",
+        "type":"Grass",
+        "category":"Physical",
+        "damageBase":"5",
+        "frequency":"EOT",
+        "ac":"2",
+        "range":"Melee, 1 Target, Dash",
+        "contestType":"Beauty - Get Ready!"
+    },
+    {
+        "name":"Chilling Water",
+        "effect": "Lower the Attack of all legal targets by 1 Combat Stage.",
+        "type":"Water",
+        "category":"Special",
+        "damageBase":"5",
+        "frequency":"EOT",
+        "ac":"2",
+        "range":"Burst 1 or Close Blast 2",
+        "contestType":"Smart - Good Show!"
+    },
+    {
+        "name":"Hyper Drill",
+        "effect": "The target cannot activate Blessings or Interrupts (like Protect) in response to this attack.",
+        "type":"Normal",
+        "category":"Physical",
+        "damageBase":"10",
+        "frequency":"Scene",
+        "ac":"2",
+        "range":"Line 3",
+        "contestType":"Cool - Steady Performance"
+    },
+    {
+        "name":"Twin Beam",
+        "effect": "",
+        "type":"Psychic",
+        "category":"Special",
+        "damageBase":"4",
+        "frequency":"Scene x2",
+        "ac":"2",
+        "range":"6, 1 Target, Double Strike",
+        "contestType":"Smart - Tease"
+    },
+    {
+        "name":"Rage Fist",
+        "effect": "The user becomes Enraged. Each time the user is Hit while enraged, increase the DB of this move by 1 until the end of the Scene.",
+        "type":"Ghost",
+        "category":"Physical",
+        "damageBase":"5",
+        "frequency":"Scene x2",
+        "ac":"2",
+        "range":"4, 1 Target",
+        "contestType":"Tough - Desperation"
+    },
+    {
+        "name":"Armor Cannon",
+        "effect": "The user's Defense and Special Defense are each lowered by 1 Combat Stage.",
+        "type":"Fire",
+        "category":"Special",
+        "damageBase":"12",
+        "frequency":"Daily",
+        "ac":"2",
+        "range":"4, 1 Target",
+        "contestType":"Cool - Desperation"
+    },
+    {
+        "name":"Bitter Blade",
+        "effect": "After the target takes damage, the user gains HP equal to half of the damage they dealt to the target.",
+        "type":"Fire",
+        "category":"Physical",
+        "damageBase":"9",
+        "frequency":"Scene x2",
+        "ac":"2",
+        "range":"Melee, 1 Target",
+        "contestType":"Tough - Catching Up"
+    },
+    {
+        "name":"Double Shock",
+        "effect": "Until the end of the encounter, the user loses its Electric-Type (pure Electric-Types become Normal-Type).",
+        "type":"Electric",
+        "category":"Physical",
+        "damageBase":"12",
+        "frequency":"Daily",
+        "ac":"2",
+        "range":"Melee, 1 Target",
+        "contestType":"Beauty - Big Show"
+    },
+    {
+        "name":"Gigaton Hammer",
+        "effect": "",
+        "type":"Steel",
+        "category":"Physical",
+        "damageBase":"16",
+        "frequency":"Scene x2",
+        "ac":"2",
+        "range":"Melee, 1 Target",
+        "contestType":"Tough - Sabotage"
+    },
+    {
+        "name":"Comeuppance",
+        "effect": "The user may use Comeuppance as a Reaction Move upon being Hit by a Damaging Move, using up their next Standard Action as Normal. During the next turn where they have an available Standard Action, the user may Shift and then use Comeuppance, causing all Adjacent foes to lose X HP, where X is the amount of Damage taken since declaring use of Bide (Loss of life through effects such as Poison is not 'Damage'). Until Bide is released, the user may not voluntarily trigger any other effects that would use a Standard Action or prevent a Standard Action from being used.",
+        "type":"Dark",
+        "category":"Status",
+        "damageBase":"--",
+        "frequency":"Scene x2",
+        "ac":"2",
+        "range":"Burst 1, Friendly",
+        "contestType":"Tough - Sabotage"
+    },
+    {
+        "name":"Aqua Cutter",
+        "effect": "Aqua Cutter is a Critical Hit on 17+",
+        "type":"Water",
+        "category":"Physical",
+        "damageBase":"7",
+        "frequency":"EOT",
+        "ac":"2",
+        "range":"Melee, 1 Target, Dash",
+        "contestType":"Cool - Excitement"
+    },
+    {
+        "name":"Blazing Torque",
+        "effect": "The target is burned on 18+",
+        "type":"Fire",
+        "category":"Physical",
+        "damageBase":"8",
+        "frequency":"EOT",
+        "ac":"2",
+        "range":"Melee, 1 Target, Dash",
+        "contestType":"Cool - Excitement"
+    },
+    {
+        "name":"Wicked Torque",
+        "effect": "The target falls asleep on 18+",
+        "type":"Dark",
+        "category":"Physical",
+        "damageBase":"8",
+        "frequency":"EOT",
+        "ac":"2",
+        "range":"Melee, 1 Target, Dash",
+        "contestType":"Beauty - Seen Nothing Yet"
+    },
+    {
+        "name":"Noxious Torque",
+        "effect": "The target is Poisoned on 18+",
+        "type":"Poison",
+        "category":"Physical",
+        "damageBase":"10",
+        "frequency":"EOT",
+        "ac":"2",
+        "range":"Melee, 1 Target, Dash",
+        "contestType":"Tough - Double Time"
+    },
+    {
+        "name":"Combat Torque",
+        "effect": "The target is Paralyzed on 18+.",
+        "type":"Fighting",
+        "category":"Physical",
+        "damageBase":"10",
+        "frequency":"EOT",
+        "ac":"2",
+        "range":"Melee, 1 Target, Dash",
+        "contestType":"Cool - Seen Nothing Yet"
+    },
+    {
+        "name":"Magical Torque",
+        "effect": "The target is Confused on 18+.",
+        "type":"Faity",
+        "category":"Physical",
+        "damageBase":"10",
+        "frequency":"EOT",
+        "ac":"2",
+        "range":"Melee, 1 Target, Dash",
+        "contestType":"Beauty - Good Show!"
+    },
     {
         "name":"Surging Strikes",
         "effect": "If Surging Strikes hits, it is a Critical Hit. After attacking with Surging Strikes, hit or miss, the user may Shift 2m, ignoring Attacks of Opportunity from their target. It may then make an additional attack with this Move on a different target. This effect may be repeated a second time, the third attack targeting a creature that has not yet been targeted by either prior attack. Before making each attack roll, the user can elect to give up triggering all remaining additional shifts and attacks. Increase Surging Strikes' Damage Base by 3 for each attack that is given up.",
