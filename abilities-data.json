@@ -40,6 +40,16 @@
     "frequency":"Static"
   },
   {
+    "name":"Toxic Debris",
+    "effect":"When this Pokemon takes Physical damage, it may use Toxic Spikes are a Reaction as if it was on it's movelist.",
+    "frequency":"Scene x2 - Free Action"
+  },
+  {
+    "name":"Leaf Rush",
+    "effect":"The user may activate Leaf Rush to use a Grass-Type Move with Priority. If the Move is a Damaging Move, the user adds half their Speed Stat to the Damage Roll.",
+    "frequency":"Scene x2 - Free Action, Priority"
+  },
+  {
     "name":"Overbear",
     "effect":"This Pokemon ignores all immunities to damage it would deal. Immune attacks instead deal normal damage",
     "frequency":"Static"
