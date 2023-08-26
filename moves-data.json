@@ -319,6 +319,17 @@
         "contestType":"Cute - Tease"
     },
     {
+        "name":"Inspire",
+        "effect":"Select a stat from Attack, Defense, Special Attack, Special Defense, Speed, or Accuracy. Raise the chosen stat of the target by 2 stages. The user may not target themselves with Inspire.",
+        "type":"Fairy",
+        "category":"Status",
+        "damageBase":"--",
+        "frequency":"Scene",
+        "ac":"--",
+        "range":"8, 1 Target",
+        "contestType":"Cute - Double Time"
+    },
+    {
         "name":"False Swipe",
         "effect":"False Swipe's damage cannot bring a target lower than 1 HP.",
         "type":"Normal",
@@ -327,6 +338,17 @@
         "frequency":"At-Will",
         "ac":2,
         "range":"Melee, Pass",
+        "contestType":"Cool - Inversed Appeal"
+    },
+    {
+        "name":"Hold Back",
+        "effect":"When using Hold Back, Declare another move (frequency allowing). Use that move in place of this one, but that move cannot cause targets to go below 1 HP.",
+        "type":"Normal",
+        "category":"Physical",
+        "damageBase":"--",
+        "frequency":"At-Will",
+        "ac":"--",
+        "range":"Self",
         "contestType":"Cool - Inversed Appeal"
     },
     {
@@ -1726,6 +1748,17 @@
         "contestType":"Tough - Steady Performance"
     },
     {
+        "name":"Flit",
+        "effect":"--",
+        "type":"Fairy",
+        "category":"Physical",
+        "damageBase":5,
+        "frequency":"At-Will",
+        "ac":3,
+        "range":"Melee, 1 Target, Priority",
+        "contestType":"Smart - Excitement"
+    },
+    {
         "name":"Aqua Jet",
         "effect":"--",
         "type":"Water",
@@ -1735,6 +1768,17 @@
         "ac":2,
         "range":"Melee, 1 Target, Priority",
         "contestType":"Beauty - Saving Grace"
+    },
+    {
+        "name":"Draco Jet",
+        "effect":"--",
+        "type":"Dragon",
+        "category":"Physical",
+        "damageBase":6,
+        "frequency":"At-Will",
+        "ac":4,
+        "range":"Melee, 1 Target, Priority",
+        "contestType":"Tough - Attention Grabber"
     },
     {
         "name":"Cosmic Power",
@@ -3836,6 +3880,17 @@
         "ac":3,
         "range":"Melee, 1 Target, Set-Up",
         "contestType":"Smart - Special Attention"
+    },
+    {
+        "name":"Drag Under",
+        "effect":"Set-Up Effect: Make Drag Under's Accuracy Check. If the user hits, the user and target are moved 25 meters into the water. The target forfeits their next turn and cannot Shift or take actions until Drag Under is resolved.\\nResolution Effect: Shift while in the water with both the user and the target heights back to what they were. Then apply Drag Unders Damage. If the target has the Inflatable or Phasing capabilites, Drag Under fails to deal damage. If the user cannot breathe underwater, the target takes damage as if Drag Under had a Damage Base of 12.",
+        "type":"Flying",
+        "category":"Physical",
+        "damageBase":6,
+        "frequency":"EOT",
+        "ac":2,
+        "range":"Melee, 1 Target, Set-Up",
+        "contestType":"Tough - Special Attention"
     },
     {
         "name":"Hyperspace Fury",
@@ -6346,6 +6401,17 @@
         "contestType":"Tough - Exhausting Act"
     },
     {
+        "name":"Stardust Crunch",
+        "effect":"Stardust Crunch lowers the targets Evasion by 1 on 19+.",
+        "type":"Fairy",
+        "category":"Physical",
+        "damageBase":7,
+        "frequency":"EOT",
+        "ac":2,
+        "range":"Melee, 1 Target",
+        "contestType":"Tough - Exhausting Act"
+    },
+    {
         "name":"Petal Dance",
         "effect":"After damage is dealt, the user becomes Enraged and Confused.",
         "type":"Grass",
@@ -8117,6 +8183,50 @@
         "contestType":"Beauty - Get Ready!"
     },
     {
+        "name":"Amber Wave",
+        "effect":"All legal targets become Stuck and have their Speed CS lowered by 1.",
+        "type":"Rock",
+        "category":"Special",
+        "damageBase":8,
+        "frequency":"Scene x2",
+        "ac":"5",
+        "range":"Cone 3",
+        "contestType":"Tough - Catching Up"
+    },
+    {
+        "name":"Crushing Flames",
+        "effect":"The user is suppressed. On a roll of 16+, the target is Confused.",
+        "type":"Fire",
+        "category":"Special",
+        "damageBase":10,
+        "frequency":"Scene",
+        "ac":"6",
+        "range":"6, Ranged Blast 2",
+        "contestType":"Beauty - Good Show!"
+    },
+    {
+        "name":"Spciy Powder",
+        "effect":"The target is Burned.",
+        "type":"Grass",
+        "category":"Status",
+        "damageBase":"--",
+        "frequency":"EOT",
+        "ac":"5",
+        "range":"6, 1 Target",
+        "contestType":"Smart - Sabotage"
+    },
+    {
+        "name":"Strafing",
+        "effect":"The user continues to use Strafing on each of its turns until they miss any target with Strafing, or are not able to hit any target with Strafing during their turn. Each successive use of Strafing increases Strafing's Damage Base by +4 to a maximum of DB 15.\\nBonus: This Pokemon can shift up to its Sky Capability each turn before striking and is considered Airborne for the purposes of being targeted. (Groundsource, non-airborne Melee attacks cannot target it)",
+        "type":"Flying",
+        "category":"Physical",
+        "damageBase":3,
+        "frequency":"At-Will",
+        "ac":"4",
+        "range":"Melee, Pass, Dash",
+        "contestType":"Cool - Big Show"
+    },
+    {
         "name":"Screech",
         "effect":"Lower the Defense of all legal targets by 2 Combat Stages.",
         "type":"Normal",
@@ -8126,6 +8236,50 @@
         "ac":4,
         "range":"Burst 2, Friendly, Sonic",
         "contestType":"Smart - Unsettling"
+    },
+    {
+        "name":"Fairy Jinx",
+        "effect":"Lowers one of the target's stats by 2 Combat Stages. The lowered stat is chosen at random from any stats that are not negative. If no stat is eligible, this move will fail.",
+        "type":"Fairy",
+        "category":"Status",
+        "damageBase":"--",
+        "frequency":"Scene x2",
+        "ac":5,
+        "range":"4, 1 Target",
+        "contestType":"Smart - Unsettling"
+    },
+    {
+        "name":"Dashing Deceit",
+        "effect":"This attack never misses.",
+        "type":"Fairy",
+        "category":"Status",
+        "damageBase":"4",
+        "frequency":"At-Will",
+        "ac":"--",
+        "range":"Melee, Pass, Dash",
+        "contestType":"Smart - Tease"
+    },
+    {
+        "name":"Playful Pommel",
+        "effect":"Lower the user’s Special Attack and Special Defense by 1 CS after damage.",
+        "type":"Fairy",
+        "category":"Status",
+        "damageBase":"8",
+        "frequency":"Scene x2",
+        "ac":"4",
+        "range":"Burst 1",
+        "contestType":"Beauty - Exhausting Act"
+    },
+    {
+        "name":"Playful Storm",
+        "effect":"All Legal targets hit are also caught in a Vortex.",
+        "type":"Water",
+        "category":"Special",
+        "damageBase":"12",
+        "frequency":"Daily x3",
+        "ac":"5",
+        "range":"Burst 3, Smite",
+        "contestType":"Smart - Exhausting Act"
     },
     {
         "name":"Plasma Fists",
@@ -9919,6 +10073,17 @@
         "ac":"2",
         "range":"Melee, 1 Target, Dash",
         "contestType":"Cool - Excitement"
+    },
+    {
+        "name":"Hug",
+        "effect": "The Target gains 50% of their Maximum HP.",
+        "type":"Fairy",
+        "category":"Status",
+        "damageBase":"--",
+        "frequency":"Daily x2",
+        "ac":"--",
+        "range":"Melee, 1 Target",
+        "contestType":"Beauty - Reliable"
     },
     {
         "name":"Blazing Torque",

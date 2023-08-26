@@ -50,6 +50,26 @@
     "frequency":"Scene x2 - Free Action, Priority"
   },
   {
+    "name":"Aqua Boost",
+    "effect":"Trigger - An adjacent Ally uses a Water-Type Move\\nEffect: The allied target gains a +5 Bonus to its damage roll with the triggering Move. A target may not benefit from more than one instance of Aqua Boost at a time.",
+    "frequency":"At-Will - Free Action"
+  },
+  {
+    "name":"Chlorofury",
+    "effect":"The user gains +1 Combat Stage in Special Attack and Special Defense.",
+    "frequency":"Daily - Swift Action"
+  },
+  {
+    "name":"Earth Eater",
+    "effect":"The user is immune to the damage and effects of Ground Type attacks. If a damaging Ground Type attack hits the user, the user gains 25% of it's Max Hp.\\nBonus: The user and adjacent allies are immune to Hazards.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Encroach",
+    "effect":"All Bug Type moves gain the Priority Keyword.",
+    "frequency":"Static"
+  },
+  {
     "name":"Overbear",
     "effect":"This Pokemon ignores all immunities to damage it would deal. Immune attacks instead deal normal damage",
     "frequency":"Static"
@@ -1518,6 +1538,21 @@
     "name": "Delayed Reaction",
     "effect": "Trigger - The user is hit by a direct damaging attack\\nHalve the damage taken by the user. At the end of the user’s next turn, the user loses Hit Points equal to the other half of the damage. For example, if the user is hit for 11 damage and triggers this Ability, the user would take 5 damage upon being hit and 6 damage at the end of its next turn. Defensive.",
     "frequency": "Scene - Free Action"
+  },
+  {
+    "name":"Delivery Bird",
+    "effect":"The user may hold two Held Items at once. Whenever an Ability or Move affects the user’s Held Items, you may choose which one is affected.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Dark Shroud",
+    "effect":"The user is immune to the damage and effects of Dark-Type attacks. If the user is hit by a Dark-Type attack, they gain +1 CS in their choice of Defense or Special Defense. Defensive.",
+    "frequency":"Static"
+  },
+  {
+    "name":"Costar",
+    "effect":"Connection - Copycat. When you use Copycat on an Allied Pokemon, you may also copy it's stat changes.\\nBonus: When entering the battlefield, copy an allied Pokemons Stat Changes.",
+    "frequency":"Scene - Free Action"
   },
   {
     "name": "Windveiled",
