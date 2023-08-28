@@ -1,0 +1,40 @@
+{
+  "name": "Athletic Moves Rank 2",
+  "system": {
+    "name": "Athletic Moves Rank 2",
+    "origin": "",
+    "effect": "You learn two Athlete Moves marked Rank 2 or lower.\nRank 2: Body Slam, Take Down, Extreme Speed",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Athlete, Expert Athletics",
+    "frequency": "Static",
+    "tags": "[+HP][Ranked 3]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.6zFCMo6VlKMPtDnp"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079149,
+    "modifiedTime": 1683383582285,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "G14cBIcwZkRHyFtZ",
+  "_key": "!items!G14cBIcwZkRHyFtZ"
+}

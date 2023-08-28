@@ -1,0 +1,40 @@
+{
+  "name": "Mental Assault",
+  "system": {
+    "name": "Mental Assault",
+    "origin": "",
+    "effect": "You learn the Moves Extrasensory and Psyshock.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Telepath, Expert Focus or Intuition",
+    "frequency": "Static",
+    "tags": "[+Special Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.QNdwNDwwEKxFroH9"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078827,
+    "modifiedTime": 1683383582732,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "mOfRiW8Zc4b3EI4u",
+  "_key": "!items!mOfRiW8Zc4b3EI4u"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Quick Wit",
+  "system": {
+    "name": "Quick Wit",
+    "origin": "",
+    "effect": "You may make a Manipulate Maneuver or use a Social Move you know, Frequency allowing.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Provocateur, a Provocateur Skill at Adept Rank",
+    "frequency": "Scene x3 - Swift Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.4zXmSsgr8SwViWpB"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081757,
+    "modifiedTime": 1683383582225,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "un6GkSe4D0kz2GZF",
+  "_key": "!items!un6GkSe4D0kz2GZF"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Shock Resistance",
+  "system": {
+    "name": "Shock Resistance",
+    "origin": "",
+    "effect": "You don’t suffer Augmentation Shock from Electric Type damage unless it is Massive Damage.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Novice Technology Education",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953823,
+    "modifiedTime": 1683367977223,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "FG2xZcWKQFphfoML",
+  "_key": "!items!FG2xZcWKQFphfoML"
+}

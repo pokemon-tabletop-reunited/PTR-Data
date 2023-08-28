@@ -1,0 +1,40 @@
+{
+  "name": "Storm Wizard Rank 1",
+  "system": {
+    "name": "Storm Wizard Rank 1",
+    "origin": "",
+    "effect": "You may learn two Moves from the list below.\nRank 1 Moves: Charge Beam, Eerie Impulse, Shock Wave, Spark",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Spark Master",
+    "frequency": "Static",
+    "tags": "[+Speed][Ranked 3]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.nRjv7MPL3NjFW1dn"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079306,
+    "modifiedTime": 1683383583178,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "AOrisYJq4DjDv1U8",
+  "_key": "!items!AOrisYJq4DjDv1U8"
+}

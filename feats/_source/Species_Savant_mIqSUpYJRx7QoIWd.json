@@ -1,0 +1,42 @@
+{
+  "name": "Species Savant",
+  "system": {
+    "name": "Species Savant",
+    "origin": "",
+    "effect": "When you take Species Savant, choose a single Evolutionary Family. Your Pokémon of your Chosen Evolutionary Family have each of their Base Stats increased by +1.",
+    "rules": [],
+    "slug": "",
+    "automation": [],
+    "prerequisites": "3 different individual Pokémon of the same evolutionary line",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Yi3LkFLSA1vfkdgh"
+    }
+  },
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.8",
+    "coreVersion": "11.300",
+    "createdTime": 1683368079218,
+    "modifiedTime": 1688722415249,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "mIqSUpYJRx7QoIWd",
+  "_key": "!items!mIqSUpYJRx7QoIWd"
+}

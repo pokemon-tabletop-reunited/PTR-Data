@@ -1,0 +1,33 @@
+{
+  "name": "Medic Training",
+  "system": {
+    "name": "Medic Training",
+    "origin": "",
+    "effect": "When you use Restorative Items on others, they do not forfeit their next turn.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Novice Medicine Education",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953759,
+    "modifiedTime": 1683367977126,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "EN9bBp3zK0OVe7Yp",
+  "_key": "!items!EN9bBp3zK0OVe7Yp"
+}

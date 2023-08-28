@@ -1,0 +1,53 @@
+{
+  "name": "Fillet Away",
+  "type": "move",
+  "img": "/systems/ptu/css/images/types2/NormalIC_Icon.png",
+  "folder": "lWQOqDm2AOGwGM16",
+  "system": {
+    "origin": "",
+    "effect": "The user increases Attack, Sp. Attack, and Speed Combat Stages by 2 and loses 50% of its Maximum HP.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Normal",
+    "category": "Status",
+    "damageBase": "--",
+    "frequency": "Daily x2",
+    "ac": 2,
+    "range": "Self",
+    "contestType": "Cool - Gamble",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "_id": "gM7gVgpQ2BHbc9g6",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692963260348,
+    "modifiedTime": 1692966135854,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!gM7gVgpQ2BHbc9g6"
+}

@@ -1,0 +1,625 @@
+{
+  "type": "species",
+  "system": {
+    "schema": {
+      "version": 0.102,
+      "lastMigration": {
+        "datetime": "2023-08-15T11:56:03.817Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "0.21"
+        }
+      }
+    },
+    "dexentry": "",
+    "number": 3714,
+    "form": "",
+    "stats": {
+      "hp": 10,
+      "atk": 10,
+      "def": 13,
+      "spatk": 12,
+      "spdef": 10,
+      "spd": 6
+    },
+    "types": [
+      "Dragon",
+      "Rock"
+    ],
+    "abilities": {
+      "basic": [
+        {
+          "slug": "clear-body",
+          "uuid": "Compendium.ptu.abilities.Item.XhWi5ZaMFrkZnbrh"
+        }
+      ],
+      "advanced": [
+        {
+          "slug": "sturdy",
+          "uuid": "Compendium.ptu.abilities.Item.Mx1PiNPbtfrTeh0M"
+        },
+        {
+          "slug": "regal-challenge",
+          "uuid": "Compendium.ptu.abilities.Item.CXNEC9uhbRNz0n7v"
+        },
+        {
+          "slug": "sheer-force",
+          "uuid": "Compendium.ptu.abilities.Item.h4o82v8DYMDd5ICF"
+        }
+      ],
+      "high": [
+        {
+          "slug": "conditioning",
+          "uuid": "Compendium.ptu.abilities.Item.iT5CV1hCPp88Wt1o"
+        }
+      ]
+    },
+    "evolutions": [
+      {
+        "uuid": "Compendium.ptu.species.Item.KUFCBGBaBv49XFJ9",
+        "slug": "carbite",
+        "level": 1,
+        "other": {
+          "restrictions": []
+        }
+      },
+      {
+        "uuid": "Compendium.ptu.species.Item.eXvB6BeKFbjLdZqj",
+        "slug": "pressaur",
+        "level": 20,
+        "other": {
+          "restrictions": []
+        }
+      },
+      {
+        "uuid": "Compendium.ptu.species.Item.329GzDKmhOTkpQNu",
+        "slug": "diamat",
+        "level": 40,
+        "other": {
+          "restrictions": []
+        }
+      }
+    ],
+    "size": {
+      "height": 2,
+      "weight": 482.5,
+      "sizeClass": "Large",
+      "weightClass": 6
+    },
+    "breeding": {
+      "genderRatio": 50,
+      "eggGroups": [
+        "Mineral",
+        "Dragon"
+      ],
+      "hatchRate": -1
+    },
+    "diet": [
+      "Terravore",
+      "Carnivore"
+    ],
+    "habitats": [
+      "Cave",
+      "Mountain"
+    ],
+    "capabilities": {
+      "overland": 8,
+      "sky": 0,
+      "swim": 4,
+      "levitate": 0,
+      "burrow": 6,
+      "highJump": 0,
+      "longJump": 0,
+      "power": 8,
+      "naturewalk": [
+        "Cave"
+      ],
+      "other": [
+        {
+          "slug": "materializer",
+          "uuid": "Compendium.ptu.capabilities.Item.HtXP9UnyzxdhWjZB"
+        },
+        {
+          "slug": "mountable-1"
+        },
+        {
+          "slug": "tremorsense",
+          "uuid": "Compendium.ptu.capabilities.Item.bjwRfgd9IXmrxZZw"
+        }
+      ],
+      "jumpH": 2,
+      "jumpL": 2
+    },
+    "moves": {
+      "level": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.BFDrS5tAE7UXtTR3",
+          "slug": "power-gem",
+          "level": "Evo"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.GeSJLtPHL7yYiJMW",
+          "slug": "mirror-shot",
+          "level": "Evo"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.AzqdckrdiiujOzcG",
+          "slug": "bide",
+          "level": 5
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.CKrsMsW2pbLxGK8u",
+          "slug": "headbutt",
+          "level": 10
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.yChEo8rntu7hj10R",
+          "slug": "rock-blast",
+          "level": 16
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.79hUQHdOjX8IQa4B",
+          "slug": "iron-defense",
+          "level": 20
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.miVYvdLAUKtgTt1d",
+          "slug": "dragon-breath",
+          "level": 25
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.MxHhuT9dB2f6MBai",
+          "slug": "scary-face",
+          "level": 33
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.FHwZKX2Bm3GjNQJ0",
+          "slug": "ancient-power",
+          "level": 39
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.pm2EKE895nk1HcXR",
+          "slug": "shield-bash",
+          "level": 46
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.XzsRTOf3C836MCl7",
+          "slug": "rock-slide",
+          "level": 54
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.sR0Qn8MCh9xi1EGb",
+          "slug": "earth-power",
+          "level": 60
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Sba5efnjqgagAR4d",
+          "slug": "dragon-pulse",
+          "level": 69
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.2sLtokNkb7CY4KtV",
+          "slug": "mirror-coat",
+          "level": 79
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.jFzsG8hO9r3xPDFv",
+          "slug": "flash-cannon",
+          "level": 87
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.sKKY6tSr3LMJbPYe",
+          "slug": "hyper-beam",
+          "level": 96
+        }
+      ],
+      "machine": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.jYLfpylsohV7Eisj",
+          "slug": "dragon-claw"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.92Qjd515ZN1vwfeh",
+          "slug": "calm-mind"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Q0hhMpcKPhHxR33t",
+          "slug": "roar"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.tmNtPcrGH82Ll5Su",
+          "slug": "toxic"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.dUETXbMQMsjLOsfo",
+          "slug": "hidden-power"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.MCQLg3rc60IsoiCe",
+          "slug": "sunny-day"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.nN63dt3YVILxJXrL",
+          "slug": "ice-beam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.OVqIFzzDlbMKS7Ew",
+          "slug": "blizzard"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.sKKY6tSr3LMJbPYe",
+          "slug": "hyper-beam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.NRxIwpKjTu85dUVX",
+          "slug": "light-screen"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.L3SlDw7Vz1QpAN7Z",
+          "slug": "protect"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.uXdhVq2qq2KMn7WD",
+          "slug": "rain-dance"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.QbOpkuydT0R2mo0z",
+          "slug": "frustration"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.YBbdogj0lLbkZSuX",
+          "slug": "solar-beam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.INBFzQXbYI2AODME",
+          "slug": "smack-down"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.RU4x9q8v9nPC4uD9",
+          "slug": "thunderbolt"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.dkn2qf1zA4GDA8XV",
+          "slug": "thunder"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.DWLf0wREud7OIpI5",
+          "slug": "earthquake"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.yjo9WADdCK1VkuOf",
+          "slug": "return"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.fNTeS4W4Vr47pr6w",
+          "slug": "psychic"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.K7UB9TkJk18A5zvS",
+          "slug": "double-team"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.lFNhIJay9mPURkFm",
+          "slug": "reflect"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.7UHdFzgiftRsHjl1",
+          "slug": "flamethrower"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.J3Cv2ToMarFjVTow",
+          "slug": "sandstorm"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.BpKImQnGt9NWPsHt",
+          "slug": "fire-blast"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.NUGoonKvKnXt5QUQ",
+          "slug": "rock-tomb"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.mrYbUoEGQqVbkd8D",
+          "slug": "facade"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.9xBKv8W7Bus0tIly",
+          "slug": "rest"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Y1brXQWXKmLFHLEe",
+          "slug": "attract"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.CCIib8kjCbVHJqC4",
+          "slug": "round"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ROQCSpJ7Sjvf9ux6",
+          "slug": "overheat"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.avEsFVtB5dNUNLZ6",
+          "slug": "energy-ball"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.aRDYvzNCZSbpr1Ws",
+          "slug": "charge-beam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.u9ggk9O6a0DBKKfA",
+          "slug": "explosion"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.E9nyDdIUhcf0bnPM",
+          "slug": "shadow-claw"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.wK6kD8fSEYerRcEl",
+          "slug": "giga-impact"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.pltNJl9RuJZGA8zF",
+          "slug": "rock-polish"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.VF8IxrBqNJpR4wmx",
+          "slug": "stone-edge"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.mZMFjQsI2rJYQvUG",
+          "slug": "thunder-wave"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.frVbSRp5OkcQElvY",
+          "slug": "bulldoze"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.XzsRTOf3C836MCl7",
+          "slug": "rock-slide"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.pHJcniTqCCrIKzzN",
+          "slug": "dragon-tail"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.73AHUIh6V65adbTW",
+          "slug": "swagger"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.yeX0bso0PRJIS9XL",
+          "slug": "sleep-talk"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.vypDpjMbQDlUywfo",
+          "slug": "substitute"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.jFzsG8hO9r3xPDFv",
+          "slug": "flash-cannon"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ysi3GZ9atWpvay7e",
+          "slug": "dazzling-gleam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.IW5JN8hhwgXFV72V",
+          "slug": "confide"
+        }
+      ],
+      "egg": [],
+      "tutor": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.FHwZKX2Bm3GjNQJ0",
+          "slug": "ancient-power"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ZfAXA6DOqxgvEZk5",
+          "slug": "block"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.y1VwfIlyeMqezi6Q",
+          "slug": "body-slam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.yg2lgjKqsBKRO17s",
+          "slug": "defense-curl"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.s9sKmw7ifRzzW9OL",
+          "slug": "double-edge"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.9ctsajRuxfXNvEnv",
+          "slug": "draco-meteor"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Sba5efnjqgagAR4d",
+          "slug": "dragon-pulse"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.sR0Qn8MCh9xi1EGb",
+          "slug": "earth-power"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.DjlwtT6NfMWn4vwF",
+          "slug": "endeavor"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.RAU2oNTyq2N0qMnZ",
+          "slug": "endure"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.00rhCLvsoytJwyeh",
+          "slug": "heat-wave"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.79hUQHdOjX8IQa4B",
+          "slug": "iron-defense"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Dj4KHl36LrnSbpUi",
+          "slug": "iron-head"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.FYXpqo7I3cw01MLZ",
+          "slug": "iron-tail"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ZADstgvxP72sqSdU",
+          "slug": "knock-off"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.UrCJ1HI555kcJXYv",
+          "slug": "magic-coat"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.HwJtRDsnRTiuwZqL",
+          "slug": "mud-slap"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.PxvFMzMThcJoJjBH",
+          "slug": "outrage"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.HqMcc3sGT03SNiW6",
+          "slug": "pain-split"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.pltNJl9RuJZGA8zF",
+          "slug": "rock-polish-n"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ecbGKQbSoxGEIpbH",
+          "slug": "rollout"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.6bKaN8eD0B9fvydQ",
+          "slug": "sharpen-n"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.7bLEUf7hVQXJR0Tl",
+          "slug": "stealth-rock"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Y7HrWaotoqDkLPe5",
+          "slug": "stomping-tantrum"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.XrkJFL2zOLIt3Gi5",
+          "slug": "zen-headbutt"
+        }
+      ]
+    },
+    "skills": {
+      "acrobatics": {
+        "value": 3,
+        "modifier": 0,
+        "type": "body"
+      },
+      "athletics": {
+        "value": 5,
+        "modifier": 2,
+        "type": "body"
+      },
+      "charm": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "combat": {
+        "value": 5,
+        "modifier": 0,
+        "type": "body"
+      },
+      "command": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "generalEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "medicineEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "occultEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "pokemonEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "techEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "focus": {
+        "value": 4,
+        "modifier": 2,
+        "type": "spirit"
+      },
+      "guile": {
+        "value": 2,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "intimidate": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      },
+      "intuition": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "perception": {
+        "value": 4,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "stealth": {
+        "value": 4,
+        "modifier": 0,
+        "type": "body"
+      },
+      "survival": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      }
+    },
+    "slug": "diamat",
+    "rules": []
+  },
+  "img": "/systems/ptu/css/images/icons/dex_icon.png",
+  "folder": "CMymFngAhNsaPlS5",
+  "name": "Diamat",
+  "_id": "329GzDKmhOTkpQNu",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.1",
+    "coreVersion": "11.307",
+    "createdTime": 1689609527590,
+    "modifiedTime": 1692123523990,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!329GzDKmhOTkpQNu"
+}

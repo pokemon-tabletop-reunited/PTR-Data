@@ -1,0 +1,40 @@
+{
+  "name": "Accessorize",
+  "system": {
+    "name": "Accessorize",
+    "origin": "",
+    "effect": "You may wear and benefit from two Accessory Slot Items at once. The two items must be of different types and must not share an effect. For example, a Fire Brace cannot be paired with another Fire Brace or a Fire Plate, but it could be paired with an Ice Brace, a Fire Booster, or a Stat Booster.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Dashing Makeover, one Fashionista Skill at Adept",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.TQ0A9qssKCLzoBdS"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079150,
+    "modifiedTime": 1683383582792,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "JYb9tmail4LwDs0K",
+  "_key": "!items!JYb9tmail4LwDs0K"
+}

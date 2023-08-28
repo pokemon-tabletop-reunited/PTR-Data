@@ -1,0 +1,40 @@
+{
+  "name": "Earthshifter",
+  "system": {
+    "name": "Earthshifter",
+    "origin": "",
+    "effect": "Trigger - You hit with a damaging Ground Type Move\nEffect: You initiate a Trip Maneuver against 1 target of the Move. The Maneuver automatically hits, and you may use your Focus or Intuition for the opposed check.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Ground Out",
+    "frequency": "2 AP - Swift Action",
+    "tags": "[+Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.eCnm4NIdvjbZMIDh"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084402,
+    "modifiedTime": 1683383582946,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "YdVW1pzdzvdGHMUq",
+  "_key": "!items!YdVW1pzdzvdGHMUq"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Stat Embodiment",
+  "system": {
+    "name": "Stat Embodiment",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: Your Pokémon gains an Ability, based on your Chosen Stat, for the remainder of the Scene. Switching does not end this effect. Stat Embodiment may only grant one Ability to a Pokémon at a time. If it is used a second time on the same target, it replaces the first granted Ability.\n»» Attack Aces give Sheer Force or Defiant\n»» Defense Aces give Filter or Battle Armor\n»» Special Attack Aces give Tinted Lens or Competitive\n»» Special Defense Aces give Multiscale or Tolerance\n»» Speed Aces give Speed Boost or Vanguard",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "4 Stat Ace Features, Expert Command or Focus",
+    "frequency": "1 AP - Swift Action",
+    "tags": "[Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.tI3fySuP6aXnU5Kr"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079274,
+    "modifiedTime": 1683383583292,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Tmjqpvx5zEDuvjnQ",
+  "_key": "!items!Tmjqpvx5zEDuvjnQ"
+}

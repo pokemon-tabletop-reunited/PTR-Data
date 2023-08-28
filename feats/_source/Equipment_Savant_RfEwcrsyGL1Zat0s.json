@@ -1,0 +1,40 @@
+{
+  "name": "Equipment Savant",
+  "system": {
+    "name": "Equipment Savant",
+    "origin": "",
+    "effect": "Use or Equip an Item or piece of Equipment which would normally require a Standard Action to use or equip. You may not make an Attack with a Weapon this way - using other Items or Equipment that requires “Attacks” (such as Cap Cannons or Poké Balls) is acceptable.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Backpacker, Expert Survival",
+    "frequency": "2 AP - Swift Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.772f9A5WlHNX2JV2"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084462,
+    "modifiedTime": 1683383582290,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "RfEwcrsyGL1Zat0s",
+  "_key": "!items!RfEwcrsyGL1Zat0s"
+}

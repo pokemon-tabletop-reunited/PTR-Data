@@ -1,0 +1,40 @@
+{
+  "name": "Parfumier",
+  "system": {
+    "name": "Parfumier",
+    "origin": "",
+    "effect": "Whenever you create an Incense Held Item, choose Sweet Scent or Aromatic Mist. While your Pokémon is holding that Incense Item in an active Held Item slot, they add the chosen Move to their Move List.\nRecipe - Incense Maker",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Fashionista, one Fashionista Skill at Expert",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.fiVWAoItZwW899lm"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078987,
+    "modifiedTime": 1683383582969,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "XHyFPw5lAuRv92iK",
+  "_key": "!items!XHyFPw5lAuRv92iK"
+}

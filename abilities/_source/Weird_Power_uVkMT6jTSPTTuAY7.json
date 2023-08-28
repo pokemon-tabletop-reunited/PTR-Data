@@ -1,0 +1,37 @@
+{
+  "name": "Weird Power",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "If the user’s Attack is higher than its Special Attack, the user may add its Attack Stat to its Special Damage Rolls. If their Special Attack is higher, the user may add its Special Attack Stat to its Physical Damage Rolls. This does not stack with Mixed Power.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Static",
+    "tier": ""
+  },
+  "_id": "uVkMT6jTSPTTuAY7",
+  "effects": [],
+  "folder": null,
+  "sort": 48200000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!uVkMT6jTSPTTuAY7"
+}

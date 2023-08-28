@@ -1,0 +1,40 @@
+{
+  "name": "Recoup Energy",
+  "system": {
+    "name": "Recoup Energy",
+    "origin": "",
+    "effect": "Trigger - Your Special Move misses all targets\nEffect: You do not expend the Frequency of the triggering Move. If you applied a Power Manipulation to the triggering Move, you are refunded the AP for the Manipulation or do not expend the Frequency for it.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Arcanist, Expert Occult Education",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "[+Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.IscIMp5m8Xrsokvt"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079011,
+    "modifiedTime": 1683383582529,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "fqU2yuiCZa4J5WSw",
+  "_key": "!items!fqU2yuiCZa4J5WSw"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Move Sync",
+  "system": {
+    "name": "Move Sync",
+    "origin": "",
+    "effect": "Target: Your Pokémon with at least 1 Tutor Point.\nEffect: The target loses 1 Tutor Point. Pick a Move in the target’s Move List. The picked move is now permanently of your Chosen Type, and may have different effects. See the Types Changes section on page 468 of the Core handbook for more information and suggestions. A Pokémon may have only one Move-Sync’d Move in their Move List at a time; to Sync a new Move, the old Move must be forgotten.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "3 Type Ace Features",
+    "frequency": "At-Will - Extended Action",
+    "tags": "[Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Bw1tn9TdIWzFHDDu"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079155,
+    "modifiedTime": 1683383582396,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "qNz7YKTI5QhqFWCb",
+  "_key": "!items!qNz7YKTI5QhqFWCb"
+}

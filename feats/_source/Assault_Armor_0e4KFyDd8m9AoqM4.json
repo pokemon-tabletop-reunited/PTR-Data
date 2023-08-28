@@ -1,0 +1,40 @@
+{
+  "name": "Assault Armor",
+  "system": {
+    "name": "Assault Armor",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon hits with a Steel-Type attack\nEffect: Your Pokémon may add its Defense Stat to their Damage Roll in place of the attack’s normal offensive stat.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Polished Shine, Type-Linked Skill at Expert",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.prbw8lUqbO9Aoiol"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084373,
+    "modifiedTime": 1683383583218,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "0e4KFyDd8m9AoqM4",
+  "_key": "!items!0e4KFyDd8m9AoqM4"
+}

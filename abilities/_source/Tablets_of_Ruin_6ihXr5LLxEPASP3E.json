@@ -1,0 +1,37 @@
+{
+  "name": "Tablets of Ruin",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "When this Pokemon is sent out onto the field (or enters combat) all combatants (except this one) within 5m lower their Attack by 1 CS.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Scene x2 - Free Action",
+    "tier": ""
+  },
+  "_id": "6ihXr5LLxEPASP3E",
+  "effects": [],
+  "folder": null,
+  "sort": 5500000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!6ihXr5LLxEPASP3E"
+}

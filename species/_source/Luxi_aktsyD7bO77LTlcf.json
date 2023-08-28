@@ -1,0 +1,553 @@
+{
+  "type": "species",
+  "system": {
+    "schema": {
+      "version": 0.102,
+      "lastMigration": {
+        "datetime": "2023-08-15T11:56:08.114Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "0.21"
+        }
+      }
+    },
+    "dexentry": "",
+    "number": 3141,
+    "form": "",
+    "stats": {
+      "hp": 6,
+      "atk": 3,
+      "def": 4,
+      "spatk": 5,
+      "spdef": 6,
+      "spd": 4
+    },
+    "types": [
+      "Dragon",
+      "Fairy"
+    ],
+    "abilities": {
+      "basic": [
+        {
+          "slug": "super-luck",
+          "uuid": "Compendium.ptu.abilities.Item.2O9vtvAwtsNiYaqx"
+        }
+      ],
+      "advanced": [
+        {
+          "slug": "magic-guard",
+          "uuid": "Compendium.ptu.abilities.Item.kZG1cUD5WWnEjlkd"
+        },
+        {
+          "slug": "blessed-touch",
+          "uuid": "Compendium.ptu.abilities.Item.IpYR90j9EcDACLdt"
+        },
+        {
+          "slug": "regenerator",
+          "uuid": "Compendium.ptu.abilities.Item.DzyWEYP8Rhx0Og4P"
+        }
+      ],
+      "high": [
+        {
+          "slug": "probability-control",
+          "uuid": "Compendium.ptu.abilities.Item.WG7qih8sEdkOhD2c"
+        }
+      ]
+    },
+    "evolutions": [
+      {
+        "uuid": "Compendium.ptu.species.Item.aktsyD7bO77LTlcf",
+        "slug": "luxi",
+        "level": 1,
+        "other": {
+          "restrictions": []
+        }
+      },
+      {
+        "uuid": "Compendium.ptu.species.Item.wcBpdVlEMKv6Zycj",
+        "slug": "luxor",
+        "level": 20,
+        "other": {
+          "restrictions": []
+        }
+      },
+      {
+        "uuid": "Compendium.ptu.species.Item.kXh7f4XQwYC6vQxQ",
+        "slug": "luxelong",
+        "level": 40,
+        "other": {
+          "restrictions": []
+        }
+      }
+    ],
+    "size": {
+      "height": 0.7,
+      "weight": 28.9,
+      "sizeClass": "Small",
+      "weightClass": 3
+    },
+    "breeding": {
+      "genderRatio": 87.5,
+      "eggGroups": [
+        "Dragon"
+      ],
+      "hatchRate": 16
+    },
+    "diet": [
+      "Omnivore"
+    ],
+    "habitats": [
+      "Forest",
+      "Urban"
+    ],
+    "capabilities": {
+      "overland": 4,
+      "sky": 0,
+      "swim": 2,
+      "levitate": 0,
+      "burrow": 0,
+      "highJump": 0,
+      "longJump": 0,
+      "power": 2,
+      "naturewalk": [
+        "Forest"
+      ],
+      "other": [
+        {
+          "slug": "fortune",
+          "uuid": "Compendium.ptu.capabilities.Item.SEQ3wisX0npeSqoB"
+        },
+        {
+          "slug": "underdog",
+          "uuid": "Compendium.ptu.capabilities.Item.DyqTXmu2rrRFni89"
+        }
+      ],
+      "jumpH": 1,
+      "jumpL": 1
+    },
+    "moves": {
+      "level": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.RFvR6tVVu2MQ4ge5",
+          "slug": "charm",
+          "level": 1
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.4EdzzFahobOWMDoc",
+          "slug": "dragon-rage",
+          "level": 1
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.PREaMZcyXtYQa1hT",
+          "slug": "metronome",
+          "level": 4
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.hbfq3kqac1g7MVWl",
+          "slug": "focus-energy",
+          "level": 7
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.0qEM0auZF5Btbsde",
+          "slug": "fairy-wind",
+          "level": 10
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.LfpSBIR9WiU1Frr6",
+          "slug": "wish",
+          "level": 13
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.6PNJNM1ZqktBzDUR",
+          "slug": "swift",
+          "level": 16
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.miVYvdLAUKtgTt1d",
+          "slug": "dragon-breath",
+          "level": 19
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.den6d8Q1dP8BeGKT",
+          "slug": "baton-pass",
+          "level": 22
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.cEhn9a9wuDsRgZro",
+          "slug": "after-you",
+          "level": 25
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ysi3GZ9atWpvay7e",
+          "slug": "dazzling-gleam",
+          "level": 28
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.mMGWDVrQtd3ieEvY",
+          "slug": "moonlight",
+          "level": 31
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Sba5efnjqgagAR4d",
+          "slug": "dragon-pulse",
+          "level": 34
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.FrwwHwQUOpvQYQYT",
+          "slug": "dragon-dance",
+          "level": 37
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.jO7polFow4nXBo2J",
+          "slug": "moonblast",
+          "level": 40
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.9ctsajRuxfXNvEnv",
+          "slug": "draco-meteor",
+          "level": 43
+        }
+      ],
+      "machine": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.jYLfpylsohV7Eisj",
+          "slug": "dragon-claw"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.92Qjd515ZN1vwfeh",
+          "slug": "calm-mind"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.tmNtPcrGH82Ll5Su",
+          "slug": "toxic"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.dUETXbMQMsjLOsfo",
+          "slug": "hidden-power"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.MCQLg3rc60IsoiCe",
+          "slug": "sunny-day"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.DihAFaMmtacYc4g5",
+          "slug": "taunt"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.nN63dt3YVILxJXrL",
+          "slug": "ice-beam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.NRxIwpKjTu85dUVX",
+          "slug": "light-screen"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.L3SlDw7Vz1QpAN7Z",
+          "slug": "protect"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.uXdhVq2qq2KMn7WD",
+          "slug": "rain-dance"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Uh0x7iGbtMTYQ9jb",
+          "slug": "roost"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.lQscT0t5wrmRQmrd",
+          "slug": "safeguard"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.QbOpkuydT0R2mo0z",
+          "slug": "frustration"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.YBbdogj0lLbkZSuX",
+          "slug": "solar-beam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.RU4x9q8v9nPC4uD9",
+          "slug": "thunderbolt"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.dkn2qf1zA4GDA8XV",
+          "slug": "thunder"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.yjo9WADdCK1VkuOf",
+          "slug": "return"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.fNTeS4W4Vr47pr6w",
+          "slug": "psychic"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.K7UB9TkJk18A5zvS",
+          "slug": "double-team"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.lFNhIJay9mPURkFm",
+          "slug": "reflect"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.7UHdFzgiftRsHjl1",
+          "slug": "flamethrower"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.BpKImQnGt9NWPsHt",
+          "slug": "fire-blast"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.mrYbUoEGQqVbkd8D",
+          "slug": "facade"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.9xBKv8W7Bus0tIly",
+          "slug": "rest"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Y1brXQWXKmLFHLEe",
+          "slug": "attract"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.CCIib8kjCbVHJqC4",
+          "slug": "round"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.avEsFVtB5dNUNLZ6",
+          "slug": "energy-ball"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.mZMFjQsI2rJYQvUG",
+          "slug": "thunder-wave"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Ar8iJt7Ge8oT2MS1",
+          "slug": "psych-up"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.pHJcniTqCCrIKzzN",
+          "slug": "dragon-tail"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.73AHUIh6V65adbTW",
+          "slug": "swagger"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.yeX0bso0PRJIS9XL",
+          "slug": "sleep-talk"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.vypDpjMbQDlUywfo",
+          "slug": "substitute"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ysi3GZ9atWpvay7e",
+          "slug": "dazzling-gleam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.IW5JN8hhwgXFV72V",
+          "slug": "confide"
+        }
+      ],
+      "egg": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.4c4MUlo14FxAq7R4",
+          "slug": "lucky-chant"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.M73ZpGrGO12b2KFl",
+          "slug": "me-first"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.zgEEazwTro2oKV79",
+          "slug": "play-rough"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.BFDrS5tAE7UXtTR3",
+          "slug": "power-gem"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.wFIpRzhnk5IbQmBR",
+          "slug": "recover"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.sOqzKJ7kPTDuwRG2",
+          "slug": "tri-attack"
+        }
+      ],
+      "tutor": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.cEhn9a9wuDsRgZro",
+          "slug": "after-you"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.pbK4VGlz6E9tL9q0",
+          "slug": "covet"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.9ctsajRuxfXNvEnv",
+          "slug": "draco-meteor"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Sba5efnjqgagAR4d",
+          "slug": "dragon-pulse"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.DjlwtT6NfMWn4vwF",
+          "slug": "endeavor"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.RAU2oNTyq2N0qMnZ",
+          "slug": "endure"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.np8CcTiP69qraLbs",
+          "slug": "heal-bell"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.T3tBrl9gp4fbRMrt",
+          "slug": "helping-hand"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.wal0wZtqnIiFtRsA",
+          "slug": "last-resort"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.UrCJ1HI555kcJXYv",
+          "slug": "magic-coat"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.dIbzOgPi7zOMbrPx",
+          "slug": "magic-room"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.PREaMZcyXtYQa1hT",
+          "slug": "metronome-n"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.PxvFMzMThcJoJjBH",
+          "slug": "outrage"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.6IRyS1salnje8yIf",
+          "slug": "role-play"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.6PNJNM1ZqktBzDUR",
+          "slug": "swift"
+        }
+      ]
+    },
+    "skills": {
+      "acrobatics": {
+        "value": 3,
+        "modifier": 0,
+        "type": "body"
+      },
+      "athletics": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      },
+      "charm": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "combat": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      },
+      "command": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "generalEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "medicineEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "occultEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "pokemonEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "techEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "focus": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "guile": {
+        "value": 2,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "intimidate": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      },
+      "intuition": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "perception": {
+        "value": 3,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "stealth": {
+        "value": 3,
+        "modifier": 0,
+        "type": "body"
+      },
+      "survival": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      }
+    },
+    "slug": "luxi",
+    "rules": []
+  },
+  "img": "/systems/ptu/css/images/icons/dex_icon.png",
+  "folder": "eBzxHM3RlUyuiO0g",
+  "name": "Luxi",
+  "_id": "aktsyD7bO77LTlcf",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.1",
+    "coreVersion": "11.307",
+    "createdTime": 1689609527590,
+    "modifiedTime": 1692123607098,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!aktsyD7bO77LTlcf"
+}

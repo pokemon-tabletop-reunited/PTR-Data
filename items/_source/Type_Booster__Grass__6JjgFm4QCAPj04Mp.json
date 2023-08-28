@@ -1,0 +1,50 @@
+{
+  "name": "Type Booster (Grass)",
+  "system": {
+    "origin": "",
+    "effect": "Grants a +5 Damage Bonus to all direct-damage Grass Moves used by the holder. Accessory Item for Trainers.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.263Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "1800",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Type Booster (Grass)",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368819530,
+    "modifiedTime": 1692170822273,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "6JjgFm4QCAPj04Mp",
+  "_key": "!items!6JjgFm4QCAPj04Mp"
+}

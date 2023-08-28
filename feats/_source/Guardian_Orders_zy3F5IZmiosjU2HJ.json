@@ -1,0 +1,40 @@
+{
+  "name": "Guardian Orders",
+  "system": {
+    "name": "Guardian Orders",
+    "origin": "",
+    "effect": "You gain the Brace for Impact and Sentinel Stance Orders.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Expert Charm or Intimidate",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.NRqMhEsaLtIF5JBS"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078808,
+    "modifiedTime": 1683383582642,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "zy3F5IZmiosjU2HJ",
+  "_key": "!items!zy3F5IZmiosjU2HJ"
+}

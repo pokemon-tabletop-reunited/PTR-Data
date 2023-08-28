@@ -1,0 +1,40 @@
+{
+  "name": "Dead-Eye Shot",
+  "system": {
+    "name": "Dead-Eye Shot",
+    "origin": "",
+    "effect": "Use of Dead-Eye Shot must be declared at the start of the round. Nothings happens at this time. At the end of the round, the user may use their Shift Action, and then make a Ranged Weapon Attack and roll twice for Accuracy. You may resolve the attack using either result, but if you choose to use the lower result and the attack hits, it is automatically a Critical Hit.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Marksman, Master Combat or Perception",
+    "frequency": "Scene x2 - Standard, Priority",
+    "tags": "[+Attack][Weapon]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.VTrrdspIfKfISOyL"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078823,
+    "modifiedTime": 1683383582814,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "K7Y0ziLPbHSs6D4j",
+  "_key": "!items!K7Y0ziLPbHSs6D4j"
+}

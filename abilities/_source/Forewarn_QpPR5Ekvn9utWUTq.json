@@ -1,0 +1,37 @@
+{
+  "name": "Forewarn",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Target - A Trainer or Pokémon\\nThe Move with the highest Damage Dice Roll known by the targeted foe is revealed. If there is a tie, all tied Moves are revealed. The Moves revealed gain a -2 Penalty during Accuracy Checks when used by the target for the rest of the encounter.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Scene - Free Action",
+    "tier": ""
+  },
+  "_id": "QpPR5Ekvn9utWUTq",
+  "effects": [],
+  "folder": null,
+  "sort": 22400000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!QpPR5Ekvn9utWUTq"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Steelheart",
+  "system": {
+    "name": "Steelheart",
+    "origin": "",
+    "effect": "When wielding metal Melee Weapons, you may use Athletics or Focus instead of Combat to determine the Damage Base of your Struggle Attacks, to qualify for a Weapon’s Moves, and to resist Disarm Checks. Whenever your Weapon Attacks hit a foe who has previously hit you with a Melee attack in the same round, the foe loses a Tick of Hit Points.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Elemental Connection (Steel), Novice Athletics, Novice Focus",
+    "frequency": "Static",
+    "tags": "[Class][+Defense][Weapon]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.QZTanr8pxN8cTFMg"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081692,
+    "modifiedTime": 1683383582734,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "VuEwIKckzSoKMxvs",
+  "_key": "!items!VuEwIKckzSoKMxvs"
+}

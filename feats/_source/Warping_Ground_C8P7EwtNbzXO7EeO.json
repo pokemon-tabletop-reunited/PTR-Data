@@ -1,0 +1,40 @@
+{
+  "name": "Warping Ground",
+  "system": {
+    "name": "Warping Ground",
+    "origin": "",
+    "effect": "You learn the Moves Gravity and Trick.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Warper",
+    "frequency": "Static",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.DuE8ueQhQeytol6W"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079166,
+    "modifiedTime": 1683383582433,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "C8P7EwtNbzXO7EeO",
+  "_key": "!items!C8P7EwtNbzXO7EeO"
+}

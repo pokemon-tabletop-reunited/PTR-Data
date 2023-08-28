@@ -1,0 +1,53 @@
+{
+  "name": "Tar Shot",
+  "type": "move",
+  "img": "/systems/ptu/css/images/types2/RockIC_Icon.png",
+  "folder": "lWQOqDm2AOGwGM16",
+  "system": {
+    "origin": "",
+    "effect": "The target gains a Coat that is automatically expended upon being hit with a Fire Type attack in order to make them one step more vulnerable to that attack. In addition, the target's Speed is lowered by 1 Combat Stage.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Rock",
+    "category": "Status",
+    "damageBase": "--",
+    "frequency": "Scene",
+    "ac": 2,
+    "range": "Cone 2",
+    "contestType": "Tough - Sabotage",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "_id": "Y2waMNTURZvKaaZA",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692963260348,
+    "modifiedTime": 1692966135854,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!Y2waMNTURZvKaaZA"
+}

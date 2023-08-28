@@ -1,0 +1,34 @@
+{
+  "name": "Glow",
+  "type": "capability",
+  "img": "/systems/ptu/css/images/icons/capability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "A Pokémon with the Glow Capability can emit light from a part of its body. Depending on the variety of wild Pokémon nearby, it might attract Pokémon or ward them away. If a Pokémon learns Flash, Eerie Impulse, Spotlight, or Tail Glow and does not have the Glow Capability, they gain Glow.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "v4OOr4KlIO0DKw5r",
+  "effects": [],
+  "folder": null,
+  "sort": 10400000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693042188180,
+    "modifiedTime": 1693118851776,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!v4OOr4KlIO0DKw5r"
+}

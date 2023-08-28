@@ -1,0 +1,40 @@
+{
+  "name": "Pheromone Markers",
+  "system": {
+    "name": "Pheromone Markers",
+    "origin": "",
+    "effect": "Trigger - You hit a foe with a damaging Bug-Type attack\nEffect: The triggering foe gains 1 Pheromone Stack. Your Bug-Type attacks gain a +2 bonus to Accuracy Rolls and +1 Critical Hit range against foes for each Pheromone Stack they have. Once per Scene per foe, when they gain their third or higher Pheromone Stack, you may choose to roll 1d6. On a result of 1 or 2, the foe becomes Confused; on a result of 3 or 4 the foe becomes Suppressed; on a result of 5 or 6 the foe becomes Enraged.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Enhanced Embrace Rank 1",
+    "frequency": "1 AP - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Y5AeK6NFsIKjcv7v"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079167,
+    "modifiedTime": 1683383582859,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "LVaMGycVMKbuoQES",
+  "_key": "!items!LVaMGycVMKbuoQES"
+}

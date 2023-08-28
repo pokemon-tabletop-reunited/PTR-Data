@@ -1,0 +1,50 @@
+{
+  "name": "Banettite",
+  "system": {
+    "origin": "",
+    "effect": "Mega Evolves Banette when used in conjuction with a Mega Ring.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.335Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Banettite",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "systems/ptu/images/item_icons/banettite.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368784189,
+    "modifiedTime": 1692170822350,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "HJvFzYdF88qgeMX1",
+  "_key": "!items!HJvFzYdF88qgeMX1"
+}

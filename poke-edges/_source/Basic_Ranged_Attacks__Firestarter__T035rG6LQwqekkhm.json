@@ -1,0 +1,32 @@
+{
+  "name": "Basic Ranged Attacks (Firestarter)",
+  "system": {
+    "name": "Basic Ranged Attacks (Firestarter)",
+    "origin": "",
+    "effect": "Struggle Attacks modified by Firestarter may now be made at a range of up to 6 meters.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Firestarter",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202682,
+    "modifiedTime": 1683369231416,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "T035rG6LQwqekkhm",
+  "_key": "!items!T035rG6LQwqekkhm"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Dust Devil",
+  "type": "move",
+  "flags": {},
+  "effects": [],
+  "_id": "JrbJIPPdAPE52yp2",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "When calculating Weakness and Resistance for Dust Devil, Flying-Typed targets calculate damage as if Flying was neutral to Ground. Dust Devil ignores the Levitate ability.",
+    "rules": [],
+    "slug": null,
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Ground",
+    "category": "Special",
+    "damageBase": "9",
+    "frequency": "Scene",
+    "ac": "2",
+    "range": "6, Ranged Blast 2, Smite",
+    "contestType": "Cool",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/types2/GroundIC_Icon.png",
+  "folder": "CKiVqPT3ASdUeaM0",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606523899,
+    "modifiedTime": 1689606577014,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!JrbJIPPdAPE52yp2"
+}

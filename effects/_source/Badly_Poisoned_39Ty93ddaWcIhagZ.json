@@ -1,0 +1,67 @@
+{
+  "name": "Badly Poisoned",
+  "type": "condition",
+  "img": "systems/ptu/static/images/conditions/Badly-Poisoned.svg",
+  "system": {
+    "origin": "Automated",
+    "effect": "The target's Special Defense Value is lowered by 2 Combat Stages for the duration of the poison. Poison and Steel-Type Pokemon are immune to becoming Poisoned. If a Poisoned Target takes a Standard Action or is prevented from taking a Standard Action by an effect such as Sleep, Flinch, or Paralysis they lose 5 Hit Points; this amount is doubled each consecutive round (10, 20, 40, etc).",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "path": "system.stats.spdef.stage.mod",
+        "value": -2,
+        "mode": "add"
+      }
+    ],
+    "slug": "badly-poisoned",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "duration": {
+      "value": 0,
+      "unit": "unlimited",
+      "expiry": "turn-start"
+    },
+    "value": {
+      "isValued": true,
+      "value": 1,
+      "autoIncrement": true
+    },
+    "references": {
+      "children": [],
+      "overrides": [],
+      "overriddenBy": []
+    },
+    "overrides": [
+      "poisoned"
+    ],
+    "persistent": {
+      "formula": "5 * pow(2, (@item.system.value.value - 2))",
+      "type": "persistent"
+    },
+    "name": "",
+    "tokenIcon": {
+      "show": true
+    }
+  },
+  "folder": "rPNjp26cMp3XQ6aC",
+  "_id": "39Ty93ddaWcIhagZ",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.7",
+    "coreVersion": "11.307",
+    "createdTime": 1691878068601,
+    "modifiedTime": 1692265073184,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!39Ty93ddaWcIhagZ"
+}

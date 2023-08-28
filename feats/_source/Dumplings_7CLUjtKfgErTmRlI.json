@@ -1,0 +1,40 @@
+{
+  "name": "Dumplings",
+  "system": {
+    "name": "Dumplings",
+    "origin": "",
+    "effect": "Ingredient 1: Leftovers, Preserves, or a Snack made with Chef\nIngredient 2: Leftovers or Preserves\nEffect: You mix the two ingredients into one Snack that has the same effect as its ingredients. The two ingredients must be different items.\nDumplings cannot be used to make other Dumpling items.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "4 Chef Features, Master Intuition",
+    "frequency": "At-Will - Extended Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.E5EanAsg4l7wZpd9"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079023,
+    "modifiedTime": 1683383582437,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "7CLUjtKfgErTmRlI",
+  "_key": "!items!7CLUjtKfgErTmRlI"
+}

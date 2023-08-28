@@ -1,0 +1,52 @@
+{
+  "name": "Genesis Shackles",
+  "type": "move",
+  "flags": {},
+  "effects": [],
+  "_id": "x2qjM7e0qtI08oBl",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "All targets hit by Genesis Shackles are Slowed and Trapped until they Take a Breather. After resolving damage from this Move, Quetzar transforms into Statue Forme. Scene as Cosmic Ascent.",
+    "rules": [],
+    "slug": null,
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Psychic",
+    "category": "Special",
+    "damageBase": "14",
+    "frequency": "Daily",
+    "ac": "4",
+    "range": "Burst 1, Smite",
+    "contestType": "Smart",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/types2/PsychicIC_Icon.png",
+  "folder": "CKiVqPT3ASdUeaM0",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606523899,
+    "modifiedTime": 1689606577014,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!x2qjM7e0qtI08oBl"
+}

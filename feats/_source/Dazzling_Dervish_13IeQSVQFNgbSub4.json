@@ -1,0 +1,40 @@
+{
+  "name": "Dazzling Dervish",
+  "system": {
+    "name": "Dazzling Dervish",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: Until the end of their next turn, the target adds their non-stat Evasion to their Movement Capabilities and whenever they attack a foe or Shift through a square occupied by a foe, that foe suffers a -3 penalty to all rolls until the end of their next turn. This effect may only affect a foe once per round.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Trickster Orders",
+    "frequency": "Scene x2 - Standard Action",
+    "tags": "[Orders]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.iqK11wD1itG5WxAN"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078920,
+    "modifiedTime": 1683383583048,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "13IeQSVQFNgbSub4",
+  "_key": "!items!13IeQSVQFNgbSub4"
+}

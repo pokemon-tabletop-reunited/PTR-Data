@@ -1,0 +1,40 @@
+{
+  "name": "Giftsapper",
+  "system": {
+    "name": "Giftsapper",
+    "origin": "",
+    "effect": "As long as Giftsapper’s user is conscious, all Trainers within 10 meters must make a Focus Check with DC equal to three times the highest Skill Rank of Giftsapper’s user between Focus, Intimidate, or Command in order to activate their Gifts. This Check is made each time a Trainer attempts to use an activated Gift, and a failure means neither any resources such as AP nor the frequency of the Gift is expended. For Gifts with Static or ongoing effects, the Check is made each turn, and a failure ends the effect for that turn. Giftsapper’s user may never gain Gifts.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "GM Permission, No Gifts",
+    "frequency": "Static",
+    "tags": "[+Any]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.txZmmeIkESJ9Acse"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079332,
+    "modifiedTime": 1683383583313,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "7ZVdzilZhd3CYqwe",
+  "_key": "!items!7ZVdzilZhd3CYqwe"
+}

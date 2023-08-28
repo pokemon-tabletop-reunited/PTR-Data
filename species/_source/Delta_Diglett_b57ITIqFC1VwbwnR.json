@@ -1,0 +1,483 @@
+{
+  "type": "species",
+  "system": {
+    "schema": {
+      "version": 0.102,
+      "lastMigration": {
+        "datetime": "2023-08-15T11:56:08.121Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "0.21"
+        }
+      }
+    },
+    "dexentry": "",
+    "number": 1573,
+    "form": "",
+    "stats": {
+      "hp": 1,
+      "atk": 6,
+      "def": 3,
+      "spatk": 4,
+      "spdef": 5,
+      "spd": 10
+    },
+    "types": [
+      "Ice",
+      "Normal"
+    ],
+    "abilities": {
+      "basic": [
+        {
+          "slug": "snow-cloak",
+          "uuid": "Compendium.ptu.abilities.Item.UFR8Dv4JZTl9HFjj"
+        },
+        {
+          "slug": "gluttony",
+          "uuid": "Compendium.ptu.abilities.Item.DUw3xozURebyikaS"
+        }
+      ],
+      "advanced": [
+        {
+          "slug": "slush-rush",
+          "uuid": "Compendium.ptu.abilities.Item.laRG5xVjFfIGpX9m"
+        },
+        {
+          "slug": "celebrate",
+          "uuid": "Compendium.ptu.abilities.Item.SKSWrVcKNhJMY4C6"
+        }
+      ],
+      "high": [
+        {
+          "slug": "fur-coat",
+          "uuid": "Compendium.ptu.abilities.Item.yxqXCTH1kHiIuRUE"
+        }
+      ]
+    },
+    "evolutions": [
+      {
+        "uuid": "Compendium.ptu.species.Item.b57ITIqFC1VwbwnR",
+        "slug": "delta-diglett",
+        "level": 1,
+        "other": {
+          "restrictions": []
+        }
+      },
+      {
+        "uuid": "Compendium.ptu.species.Item.vaGyDzgjwl4qWjTM",
+        "slug": "delta-dugtrio",
+        "level": 25,
+        "other": {
+          "restrictions": []
+        }
+      }
+    ],
+    "size": {
+      "height": 0.2,
+      "weight": 1.8,
+      "sizeClass": "Small",
+      "weightClass": 1
+    },
+    "breeding": {
+      "genderRatio": 50,
+      "eggGroups": [
+        "None"
+      ],
+      "hatchRate": -1
+    },
+    "diet": [
+      "Herbivore"
+    ],
+    "habitats": [
+      "Tundra"
+    ],
+    "capabilities": {
+      "overland": 1,
+      "sky": 0,
+      "swim": 0,
+      "levitate": 0,
+      "burrow": 7,
+      "highJump": 0,
+      "longJump": 0,
+      "power": 1,
+      "naturewalk": [],
+      "other": [
+        {
+          "slug": "tremorsense",
+          "uuid": "Compendium.ptu.capabilities.Item.bjwRfgd9IXmrxZZw"
+        },
+        {
+          "slug": "underdog",
+          "uuid": "Compendium.ptu.capabilities.Item.DyqTXmu2rrRFni89"
+        }
+      ],
+      "jumpH": 0,
+      "jumpL": 0
+    },
+    "moves": {
+      "level": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.lfs0ueeBVhtRbNsV",
+          "slug": "powder-snow",
+          "level": 1
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.qc1uii96Iq4pGkvF",
+          "slug": "scratch",
+          "level": 1
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.sfxsqQqzJtNIXjT1",
+          "slug": "growl",
+          "level": 4
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Zp2xGTRJ3Enoj6Ip",
+          "slug": "astonish",
+          "level": 7
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ZOGYGqbQoalX7m3d",
+          "slug": "fury-swipes",
+          "level": 12
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ieelWjGWIFKne4uX",
+          "slug": "icy-wind",
+          "level": 15
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.HB5USH3t5P843JVN",
+          "slug": "hyper-fang",
+          "level": 18
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.enZEuO9ILfZwMr31",
+          "slug": "take-down",
+          "level": 23
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.p0OwgadqqFVK3LbP",
+          "slug": "hail",
+          "level": 26
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.fVFlYUff8BTf3g3Q",
+          "slug": "icicle-crash",
+          "level": 29
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.kgxdY2N0Uim8wL4k",
+          "slug": "dig",
+          "level": 34
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.F5r203ovpnYpzbSQ",
+          "slug": "head-charge",
+          "level": 37
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.OVqIFzzDlbMKS7Ew",
+          "slug": "blizzard",
+          "level": 40
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.lT6SBikFwXhxZwvD",
+          "slug": "sheer-cold",
+          "level": 45
+        }
+      ],
+      "machine": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.E8b4fi2ZakBHepmr",
+          "slug": "work-up"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.tmNtPcrGH82Ll5Su",
+          "slug": "toxic"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.p0OwgadqqFVK3LbP",
+          "slug": "hail"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.dUETXbMQMsjLOsfo",
+          "slug": "hidden-power"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.nN63dt3YVILxJXrL",
+          "slug": "ice-beam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.OVqIFzzDlbMKS7Ew",
+          "slug": "blizzard"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.L3SlDw7Vz1QpAN7Z",
+          "slug": "protect"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.QbOpkuydT0R2mo0z",
+          "slug": "frustration"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.DWLf0wREud7OIpI5",
+          "slug": "earthquake"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.yjo9WADdCK1VkuOf",
+          "slug": "return"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.cek90EGyjeB9cNfR",
+          "slug": "leech-life"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.K7UB9TkJk18A5zvS",
+          "slug": "double-team"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.mrYbUoEGQqVbkd8D",
+          "slug": "facade"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.9xBKv8W7Bus0tIly",
+          "slug": "rest"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Y1brXQWXKmLFHLEe",
+          "slug": "attract"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.CCIib8kjCbVHJqC4",
+          "slug": "round"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.vCNkUzsXMkuEvfyf",
+          "slug": "echoed-voice"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.CyTPNf3NSGfrNbrO",
+          "slug": "false-swipe"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.E9nyDdIUhcf0bnPM",
+          "slug": "shadow-claw"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.frVbSRp5OkcQElvY",
+          "slug": "bulldoze"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Qk8wtZpn97d3DfnO",
+          "slug": "frost-breath"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.73AHUIh6V65adbTW",
+          "slug": "swagger"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.yeX0bso0PRJIS9XL",
+          "slug": "sleep-talk"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.vypDpjMbQDlUywfo",
+          "slug": "substitute"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.IW5JN8hhwgXFV72V",
+          "slug": "confide"
+        }
+      ],
+      "egg": [],
+      "tutor": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.cEhn9a9wuDsRgZro",
+          "slug": "after-you"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ZfAXA6DOqxgvEZk5",
+          "slug": "block"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.pbK4VGlz6E9tL9q0",
+          "slug": "covet"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.DjlwtT6NfMWn4vwF",
+          "slug": "endeavor"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.RAU2oNTyq2N0qMnZ",
+          "slug": "endure"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.EbXgAlTAt3coy3zC",
+          "slug": "foul-play"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.XCSzHPKu7Jwzvmap",
+          "slug": "fury-cutter"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.CKrsMsW2pbLxGK8u",
+          "slug": "headbutt"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.T3tBrl9gp4fbRMrt",
+          "slug": "helping-hand"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.LzgFHxtZt3QAVE7J",
+          "slug": "hyper-voice"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ieelWjGWIFKne4uX",
+          "slug": "icy-wind"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ZADstgvxP72sqSdU",
+          "slug": "knock-off"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.wal0wZtqnIiFtRsA",
+          "slug": "last-resort"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.HwJtRDsnRTiuwZqL",
+          "slug": "mud-slap"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.4rk7YSr56EEq3bGu",
+          "slug": "snatch"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.pho7PM46TLfGqXMk",
+          "slug": "snore"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.TokvBTYi7ZG92XHJ",
+          "slug": "sucker-punch"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.qfOJiMyHGBRFfUYH",
+          "slug": "super-fang"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.7g7WRoZ3iGgCsY7m",
+          "slug": "uproar"
+        }
+      ]
+    },
+    "skills": {
+      "acrobatics": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      },
+      "athletics": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      },
+      "charm": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "combat": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      },
+      "command": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "generalEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "medicineEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "occultEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "pokemonEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "techEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "focus": {
+        "value": 3,
+        "modifier": 1,
+        "type": "spirit"
+      },
+      "guile": {
+        "value": 2,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "intimidate": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      },
+      "intuition": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "perception": {
+        "value": 3,
+        "modifier": 1,
+        "type": "mind"
+      },
+      "stealth": {
+        "value": 3,
+        "modifier": 2,
+        "type": "body"
+      },
+      "survival": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      }
+    },
+    "slug": "delta-diglett",
+    "rules": []
+  },
+  "img": "/systems/ptu/css/images/icons/dex_icon.png",
+  "folder": "PjOQybdSHWn87sdq",
+  "name": "Delta Diglett",
+  "_id": "b57ITIqFC1VwbwnR",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.1",
+    "coreVersion": "11.307",
+    "createdTime": 1689609527590,
+    "modifiedTime": 1692123607896,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!b57ITIqFC1VwbwnR"
+}

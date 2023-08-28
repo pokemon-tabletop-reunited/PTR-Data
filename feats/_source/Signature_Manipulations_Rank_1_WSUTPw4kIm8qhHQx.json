@@ -1,0 +1,40 @@
+{
+  "name": "Signature Manipulations Rank 1",
+  "system": {
+    "name": "Signature Manipulations Rank 1",
+    "origin": "",
+    "effect": "Select a Rank 1 Power Manipulation. This Manipulation may be used twice per Scene without spending AP to activate.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Metamagic",
+    "frequency": "Static",
+    "tags": "[Ranked 2][+Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.aMKz7Ih7h5LDNrWe"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079285,
+    "modifiedTime": 1683383582884,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "WSUTPw4kIm8qhHQx",
+  "_key": "!items!WSUTPw4kIm8qhHQx"
+}

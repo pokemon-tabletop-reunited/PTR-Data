@@ -1,0 +1,40 @@
+{
+  "name": "Trickster Orders",
+  "system": {
+    "name": "Trickster Orders",
+    "origin": "",
+    "effect": "You gain the Capricious Whirl and Dazzling Dervish Orders.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Expert Charm or Guile",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.dcjrF9RrE2vdIARK"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084432,
+    "modifiedTime": 1683383582939,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "KyV5hPmKqaJTvMgK",
+  "_key": "!items!KyV5hPmKqaJTvMgK"
+}

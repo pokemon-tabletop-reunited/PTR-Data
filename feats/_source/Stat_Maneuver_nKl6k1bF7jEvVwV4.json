@@ -1,0 +1,40 @@
+{
+  "name": "Stat Maneuver",
+  "system": {
+    "name": "Stat Maneuver",
+    "origin": "",
+    "effect": "Stat Maneuver’s Effect depends on your Chosen Stat:\nAttack Effect: You may activate this Feature to cause one of your Pokémon to use a Physical “Melee, 1-Target” Move as if its range was “Melee, Pass” or “Melee, 3-Targets” instead.\nDefense Effect: You may activate this feature whenever your Pokémon is hit by a Physical Attack to receive the blow as if your Pokémon’s Defense Combat Stages were at +6 instead of their current value.\nSpecial Attack Effect: You may activate this Feature to allow your Pokémon to use a Special Burst, Cone, Close Blast, Ranged Blast, or Line of any size as a Burst 1, Cone 2, Close Blast 2, or Line 4 instead.\nSpecial Defense Effect: You may activate this feature whenever your Pokémon is hit by a Special Attack to receive the blow as if your Pokémon’s Special Defense Combat Stages were at +6 instead of their current value.\nSpeed Effect: You may activate this Feature at any time to cause your Pokémon to use a Move as Priority or a Priority Move as Priority (Advanced).",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Stat Ace, Adept Command or Focus",
+    "frequency": "Scene - Free Action",
+    "tags": "[Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.UP3ipyis9xXhir6b"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078938,
+    "modifiedTime": 1683383582799,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "nKl6k1bF7jEvVwV4",
+  "_key": "!items!nKl6k1bF7jEvVwV4"
+}

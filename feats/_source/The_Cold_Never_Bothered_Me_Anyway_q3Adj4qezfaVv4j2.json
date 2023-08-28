@@ -1,0 +1,40 @@
+{
+  "name": "The Cold Never Bothered Me Anyway",
+  "system": {
+    "name": "The Cold Never Bothered Me Anyway",
+    "origin": "",
+    "effect": "You gain the Naturewalk (Tundra) Capability, are immune to being Frozen, and do not lose Hit Points from Hail.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Frost Touched",
+    "frequency": "Static",
+    "tags": "[+Attack or Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.M7NWnZ7Edexxy6Yr"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084467,
+    "modifiedTime": 1683383582623,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "q3Adj4qezfaVv4j2",
+  "_key": "!items!q3Adj4qezfaVv4j2"
+}

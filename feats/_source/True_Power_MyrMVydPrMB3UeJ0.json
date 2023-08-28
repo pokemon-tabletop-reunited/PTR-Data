@@ -1,0 +1,40 @@
+{
+  "name": "True Power",
+  "system": {
+    "name": "True Power",
+    "origin": "",
+    "effect": "You gain one of the Domains and its corresponding Legendary Aura associated with your Legendary Form. This Feature may be taken multiple times, but with the second time at Pokemon Form Level 60, and the third at Pokemon Form level 75.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Shared Strengths Rank 2, Pokemon Form Level 40",
+    "frequency": "Static",
+    "tags": "[Patron Stat]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Kdtz4l579MUef6en"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078945,
+    "modifiedTime": 1683383582562,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "MyrMVydPrMB3UeJ0",
+  "_key": "!items!MyrMVydPrMB3UeJ0"
+}

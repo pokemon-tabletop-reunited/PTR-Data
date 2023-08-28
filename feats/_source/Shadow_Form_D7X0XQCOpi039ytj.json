@@ -1,0 +1,40 @@
+{
+  "name": "Shadow Form",
+  "system": {
+    "name": "Shadow Form",
+    "origin": "",
+    "effect": "While this Feature is Bound, your appearance becomes wan and obviously otherworldly. Your natural Weaknesses, Resistances, and Immunities change to match that of the Ghost Type. Additionally, while in Shadow Form, you are immune to the Cursed Status (if you were previously Cursed, you are instantly cured upon going into Shadow Form) and gain the Phasing Capability. You may unbind this Feature as a Swift Action, returning to your normal appearance.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Silent Assassin, Expert Intimidate or Occult Education",
+    "frequency": "Bind 2 AP - Swift Action",
+    "tags": "[+Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.l3bmGiyyJMpx1CD0"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079271,
+    "modifiedTime": 1683383583110,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "D7X0XQCOpi039ytj",
+  "_key": "!items!D7X0XQCOpi039ytj"
+}

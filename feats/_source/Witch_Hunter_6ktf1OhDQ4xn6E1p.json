@@ -1,0 +1,40 @@
+{
+  "name": "Witch Hunter",
+  "system": {
+    "name": "Witch Hunter",
+    "origin": "",
+    "effect": "You gain the Psionic Sight Feature, even if you do not meet the prerequisites. If you already had the Psionic Sight Feature, you instead gain another Feature for which you qualify.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Novice Occult Education",
+    "frequency": "Static",
+    "tags": "[Occultism Research Field][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.QBYxk6jX4nKz0IUV"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081711,
+    "modifiedTime": 1683383582729,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "6ktf1OhDQ4xn6E1p",
+  "_key": "!items!6ktf1OhDQ4xn6E1p"
+}

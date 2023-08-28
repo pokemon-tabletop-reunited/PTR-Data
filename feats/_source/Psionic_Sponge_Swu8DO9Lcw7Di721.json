@@ -1,0 +1,40 @@
+{
+  "name": "Psionic Sponge",
+  "system": {
+    "name": "Psionic Sponge",
+    "origin": "",
+    "effect": "Your Psychic-Type Pokémon may activate Psychic Sponge as a Shift Action to add a Psychic Type Move known by an ally within X meters to their Move List until the end of their turn. This does not allow them to have duplicate Moves in their Move List. This Feature may only be used once per Pokémon per Scene, and X is equal to your Type-Linked Skill Rank.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Type Ace, Psychic as Chosen Type",
+    "frequency": "At-Will - Special",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.qa0GS8RlefcnUXY3"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078823,
+    "modifiedTime": 1683383583244,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Swu8DO9Lcw7Di721",
+  "_key": "!items!Swu8DO9Lcw7Di721"
+}

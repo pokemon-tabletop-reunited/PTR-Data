@@ -1,0 +1,32 @@
+{
+  "name": "Advanced Mobility (Teleporter)",
+  "system": {
+    "name": "Advanced Mobility (Teleporter)",
+    "origin": "",
+    "effect": "Increase Teleporter Movement Capability by 2. Advanced Mobility may not be taken again for Teleporter.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Level 20",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202714,
+    "modifiedTime": 1683369231459,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "BaqO5DcawBJDEkGD",
+  "_key": "!items!BaqO5DcawBJDEkGD"
+}

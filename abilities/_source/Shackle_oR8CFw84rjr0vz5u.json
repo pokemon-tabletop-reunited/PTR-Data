@@ -1,0 +1,37 @@
+{
+  "name": "Shackle",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Shackle creates a Burst 3. All foes in the burst have their movement capabilities halved until the end of their next turn.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Scene - Swift Action",
+    "tier": ""
+  },
+  "_id": "oR8CFw84rjr0vz5u",
+  "effects": [],
+  "folder": null,
+  "sort": 42900000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!oR8CFw84rjr0vz5u"
+}

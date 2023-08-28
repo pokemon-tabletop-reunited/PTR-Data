@@ -1,0 +1,40 @@
+{
+  "name": "Iterative Evolution",
+  "system": {
+    "name": "Iterative Evolution",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon hits with a damaging Bug-Type attack\nEffect: While this Feature is bound, if the triggering attack would deal Super-Effective Damage, it gains a +2 Bonus to Accuracy Check. If it would deal Neutral Damage, it gains a Bonus to its Damage Roll equal to your Type-Linked Skill Rank. If it would be resisted, it is resisted one step less. This is calculated after applying any other effects that would modify effectiveness before the Accuracy Roll is made, such as the Tinted Lens Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Insectoid Utility, Type-Linked Skill at Adept",
+    "frequency": "Bind 2 AP - Standard Action",
+    "tags": "[Orders][Stratagem]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.1xHPEzpGyoWEBdiL"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084463,
+    "modifiedTime": 1683383582177,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "hKCuKTwM5HBRNalL",
+  "_key": "!items!hKCuKTwM5HBRNalL"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Corrupt Reality",
+  "system": {
+    "name": "Corrupt Reality",
+    "origin": "",
+    "effect": "Target: Any roll made by an enemy\nEffect: You may force the enemy to reroll that roll.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Glitch Bender, Adept Perception, Occult Education, or Focus",
+    "frequency": "Scene - Free Action",
+    "tags": "[+Special Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.VWEU2xiwLoJsBhtq"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078940,
+    "modifiedTime": 1683383582815,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "IrUjmAejyna2mlXz",
+  "_key": "!items!IrUjmAejyna2mlXz"
+}

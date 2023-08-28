@@ -1,0 +1,40 @@
+{
+  "name": "Clear Shot",
+  "system": {
+    "name": "Clear Shot",
+    "origin": "",
+    "effect": "Trigger - You make a ranged Weapon Attack against a target with no other combatants or Rough or Blocking Terrain within 2 meters\nEffect: The target is considered Vulnerable against this attack, and you increase your Critical Hit range by +4 for this attack.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Marksman, Expert Perception or Combat",
+    "frequency": "Scene x2 - Swift Action",
+    "tags": "[+Attack][Weapon]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.X9TSWVSiOF5Ms0rk"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081781,
+    "modifiedTime": 1683383582842,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "exZ80e5Y6BJDdGjs",
+  "_key": "!items!exZ80e5Y6BJDdGjs"
+}

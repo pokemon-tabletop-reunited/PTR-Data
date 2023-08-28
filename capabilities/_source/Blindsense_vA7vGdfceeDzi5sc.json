@@ -1,0 +1,34 @@
+{
+  "name": "Blindsense",
+  "type": "capability",
+  "img": "/systems/ptu/css/images/icons/capability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "These Pokemon are blind, but can generally function through increased senses - Blindsense can take the form of echolocation, increased hearing, enhanced sense of smell, a supernatural awareness of the environment, and more. It is, however, unable to distinguish colors or exact forms (reading words on a book would be impossible, for example). Pokémon and Trainers with Blindsense can function even in complete darkness, as if they had Darkvision, and they can never be Blinded.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "vA7vGdfceeDzi5sc",
+  "effects": [],
+  "folder": null,
+  "sort": 10600000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693042188180,
+    "modifiedTime": 1693118851776,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!vA7vGdfceeDzi5sc"
+}

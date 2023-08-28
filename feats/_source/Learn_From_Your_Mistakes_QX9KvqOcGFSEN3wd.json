@@ -1,0 +1,40 @@
+{
+  "name": "Learn From Your Mistakes",
+  "system": {
+    "name": "Learn From Your Mistakes",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon fails a Skill Check:\n  Your Pokémon may re-roll the Skill Check with a Bonus equal to its number of Smart Dice from Poffins.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Smart Scheme Rank 1",
+    "frequency": "Daily x3 – Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.X2DIF2HBBxy6cJ63"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079288,
+    "modifiedTime": 1683383582841,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "QX9KvqOcGFSEN3wd",
+  "_key": "!items!QX9KvqOcGFSEN3wd"
+}

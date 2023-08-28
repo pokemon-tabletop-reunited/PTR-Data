@@ -1,0 +1,37 @@
+{
+  "name": "Justified",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Trigger - The user is hit by a damaging Dark Type Move or an Attack of Opportunity\\nThe user may raise its Attack by +1 Combat Stage. The user always gains a +4 bonus to Skill Checks made to Intercept.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "At-Will - Free Action",
+    "tier": ""
+  },
+  "_id": "TWqOpCg6UmlH5dy9",
+  "effects": [],
+  "folder": null,
+  "sort": 24600000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!TWqOpCg6UmlH5dy9"
+}

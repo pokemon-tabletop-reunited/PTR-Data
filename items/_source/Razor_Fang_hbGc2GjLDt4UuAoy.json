@@ -1,0 +1,50 @@
+{
+  "name": "Razor Fang",
+  "system": {
+    "origin": "",
+    "effect": "The holder’s damaging attacks cause an Injury on a roll of 19+. Accessory Item for Trainers. Evolves Gligar.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.459Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "3000",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Razor Fang",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "systems/ptu/images/item_icons/razor fang.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368786079,
+    "modifiedTime": 1692170822466,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "hbGc2GjLDt4UuAoy",
+  "_key": "!items!hbGc2GjLDt4UuAoy"
+}

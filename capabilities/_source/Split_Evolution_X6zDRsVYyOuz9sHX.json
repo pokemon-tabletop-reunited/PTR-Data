@@ -1,0 +1,34 @@
+{
+  "name": "Split Evolution",
+  "type": "capability",
+  "img": "/systems/ptu/css/images/icons/capability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": " This Pokémon has more than one Evolution. When it evolves, it may choose which of its immediate evolutions it wants to evolve into provided it meets any other requirements.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "X6zDRsVYyOuz9sHX",
+  "effects": [],
+  "folder": null,
+  "sort": 6000000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693042188180,
+    "modifiedTime": 1693118851776,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!X6zDRsVYyOuz9sHX"
+}

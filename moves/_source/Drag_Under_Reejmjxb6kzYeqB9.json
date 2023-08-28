@@ -1,0 +1,53 @@
+{
+  "name": "Drag Under",
+  "type": "move",
+  "img": "systems/ptu/static/css/images/types2/FlyingIC_Icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Set-Up Effect: Make Drag Under's Accuracy Check. If the user hits, the user and target are moved 25 meters into the water. The target forfeits their next turn and cannot Shift or take actions until Drag Under is resolved.\\nResolution Effect: Shift while in the water with both the user and the target heights back to what they were. Then apply Drag Unders Damage. If the target has the Inflatable or Phasing capabilites, Drag Under fails to deal damage. If the user cannot breathe underwater, the target takes damage as if Drag Under had a Damage Base of 12.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Flying",
+    "category": "Physical",
+    "damageBase": 6,
+    "frequency": "EOT",
+    "ac": 2,
+    "range": "Melee, 1 Target, Set-Up",
+    "contestType": "Tough - Special Attention",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "_id": "Reejmjxb6kzYeqB9",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693119119587,
+    "modifiedTime": 1693119119587,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!Reejmjxb6kzYeqB9"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Repel Crafter",
+  "system": {
+    "name": "Repel Crafter",
+    "origin": "",
+    "effect": "Create a Repel for $100 or a Super Repel for $150. Requires access to a Chemistry Set.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Novice Medicine or Technology Education",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953829,
+    "modifiedTime": 1683367977232,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "2rUgHr7755xzp25k",
+  "_key": "!items!2rUgHr7755xzp25k"
+}

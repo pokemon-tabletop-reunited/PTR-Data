@@ -1,0 +1,40 @@
+{
+  "name": "Mobilize",
+  "system": {
+    "name": "Mobilize",
+    "origin": "",
+    "effect": "Target: Any Ally\nEffect: The target cannot provoke Attacks of Opportunity on their next turn. Mobilize may target an Ally only once per encounter.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Commander",
+    "frequency": "At-Will - Free Action",
+    "tags": "[Orders]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.PyZRExVTDkMWT7Aj"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079309,
+    "modifiedTime": 1683383582723,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "08CIX3vz3nCtPLjV",
+  "_key": "!items!08CIX3vz3nCtPLjV"
+}

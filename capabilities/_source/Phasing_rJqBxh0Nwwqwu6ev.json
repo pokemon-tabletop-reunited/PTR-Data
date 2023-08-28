@@ -1,0 +1,34 @@
+{
+  "name": "Phasing",
+  "type": "capability",
+  "img": "/systems/ptu/css/images/icons/capability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "A Pokémon with Phasing may Shift through Slow Terrain without their Speed Capabilities being affected. As a Standard action, they may turn completely Intangible. While Intangible, they cannot be targeted by Moves or attacks, cannot perform Standard Actions, and lose a Tick of Hit Points at the end of each round. While Intangible, they may pass through solid walls and all other blocking terrain during their Shift Action. Becoming Tangible again is a Shift Action.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "rJqBxh0Nwwqwu6ev",
+  "effects": [],
+  "folder": null,
+  "sort": 10000000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693042188180,
+    "modifiedTime": 1693118851776,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!rJqBxh0Nwwqwu6ev"
+}

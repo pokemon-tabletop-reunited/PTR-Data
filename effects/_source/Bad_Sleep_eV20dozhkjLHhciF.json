@@ -1,0 +1,69 @@
+{
+  "name": "Bad Sleep",
+  "type": "condition",
+  "img": "systems/ptu/static/images/conditions/Bad-Sleep.svg",
+  "system": {
+    "origin": "Automated",
+    "effect": "Whenever the user makes a Save Check to save against Sleep, they lose two ticks of Hit Points. Bad Sleep may only afflict Sleeping targets; if the target is cured of Sleep, they are also cured of Bad Sleep.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "GrantItem",
+        "uuid": "Compendium.ptu.effects.Item.RekZDOcIsADhrfH3",
+        "onDeleteActions": {
+          "grantee": "cascade",
+          "granter": "detach"
+        },
+        "allowDuplicate": false,
+        "predicate": []
+      }
+    ],
+    "slug": "bad-sleep",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "duration": {
+      "value": 0,
+      "unit": "encounter",
+      "expiry": "turn-start"
+    },
+    "value": {
+      "isValued": false,
+      "value": 1,
+      "autoIncrement": false
+    },
+    "references": {
+      "children": [],
+      "overrides": [],
+      "overriddenBy": []
+    },
+    "overrides": [],
+    "persistent": {
+      "formula": "td+td",
+      "type": "volatile"
+    },
+    "name": "",
+    "tokenIcon": {
+      "show": true
+    }
+  },
+  "folder": "rPNjp26cMp3XQ6aC",
+  "_id": "eV20dozhkjLHhciF",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1691878068601,
+    "modifiedTime": 1692969810219,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!eV20dozhkjLHhciF"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Type Methodology",
+  "system": {
+    "name": "Type Methodology",
+    "origin": "",
+    "effect": "Effects depend on whether your Pokémon has the Tolerance or Exploit ability.\n»» Whenever your Pokémon with Tolerance takes Super-Effective damage from a Tagged foe, your Pokémon may lose 2 Momentum to Resist that attack one step.\n»» Whenever your Pokémon with Exploit deals Resisted damage to a Tagged foe, your Pokémon may lose 2 Momentum to increase the effectiveness of the attack one step.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Effective Methods, Adept Focus",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.rEmA9aBC4jJV8Lqp"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079267,
+    "modifiedTime": 1683383583258,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "FW5PuITs3GCLjIhY",
+  "_key": "!items!FW5PuITs3GCLjIhY"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Earth Mother's Blessing Rank 2",
+  "system": {
+    "name": "Earth Mother's Blessing Rank 2",
+    "origin": "",
+    "effect": "Each Rank, choose one of Arena Trap or Lightningrod. You gain the chosen Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Ground Out, Master Focus or Intuition",
+    "frequency": "Static",
+    "tags": "[Ranked 2][+Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.oE1p6svR4811UsaP"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084330,
+    "modifiedTime": 1683383583191,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "miA9ysqQfsvPhbAV",
+  "_key": "!items!miA9ysqQfsvPhbAV"
+}

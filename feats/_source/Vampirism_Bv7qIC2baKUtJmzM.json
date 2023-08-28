@@ -1,0 +1,40 @@
+{
+  "name": "Vampirism",
+  "system": {
+    "name": "Vampirism",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon hits an adjacent foe with a Ghost-Type Move\nEffect: Choose a Stat. The triggering foe loses a Tick of Hit Points and a Combat Stage in that Stat. Your Pokémon gains 1 Combat Stage in the chosen Stat, and a Tick of Temporary Hit Points.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Ghost Step, Type-Linked Skill at Expert",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.FIhB7d6PqKqlZv3s"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078970,
+    "modifiedTime": 1683383582456,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Bv7qIC2baKUtJmzM",
+  "_key": "!items!Bv7qIC2baKUtJmzM"
+}

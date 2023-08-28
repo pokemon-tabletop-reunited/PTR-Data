@@ -1,0 +1,50 @@
+{
+  "name": "Focus Band",
+  "system": {
+    "origin": "",
+    "effect": "Whenever the user faints, roll 1d20. Once a Scene on a result of 16+, the holder does not faint, and is left with 1 Hit Point. Accessory Item for Trainers.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.424Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "4700",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Focus Band",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368854214,
+    "modifiedTime": 1692170822431,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "VjGpohZK9IALAGDo",
+  "_key": "!items!VjGpohZK9IALAGDo"
+}

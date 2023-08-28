@@ -1,0 +1,40 @@
+{
+  "name": "Psychic Resonance",
+  "system": {
+    "name": "Psychic Resonance",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon hits a foe with a Psychic-Type Status Move\nEffect: Your Pokémon may use the Move Encore against the triggering foe, as if it was on their Move List.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Psionic Sponge, Type-Linked Skill at Expert",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Dnwq3ZA84kIYVXBZ"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081761,
+    "modifiedTime": 1683383582431,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "bF7k45zB11Z5H6qZ",
+  "_key": "!items!bF7k45zB11Z5H6qZ"
+}

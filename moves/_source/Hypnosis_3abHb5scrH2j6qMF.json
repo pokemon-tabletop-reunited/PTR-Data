@@ -1,0 +1,53 @@
+{
+  "name": "Hypnosis",
+  "type": "move",
+  "img": "/systems/ptu/css/images/types2/PsychicIC_Icon.png",
+  "folder": "lWQOqDm2AOGwGM16",
+  "system": {
+    "origin": "",
+    "effect": "The target falls Asleep.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Psychic",
+    "category": "Status",
+    "damageBase": "--",
+    "frequency": "Scene x2",
+    "ac": 6,
+    "range": "4, 1 Target",
+    "contestType": "Smart - Excitement",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "_id": "3abHb5scrH2j6qMF",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692963260348,
+    "modifiedTime": 1692966135854,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!3abHb5scrH2j6qMF"
+}

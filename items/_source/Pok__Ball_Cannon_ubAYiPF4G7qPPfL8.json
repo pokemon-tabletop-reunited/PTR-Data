@@ -1,0 +1,50 @@
+{
+  "name": "Poké Ball Cannon",
+  "system": {
+    "origin": "",
+    "effect": "Increases Poké Ball and Pester Ball accuracy by +1 and range to 15 meters. Balls deal 2d6 unreducible damage upon hitting a target. Balls take a Shift Action to ready in the Poké Ball Cannon. Main and Off Hand equipment slots.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.516Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "4500",
+    "consumable": "0",
+    "subtype": "pokeball",
+    "container": false,
+    "name": "Poké Ball Cannon",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368833450,
+    "modifiedTime": 1692170822526,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "ubAYiPF4G7qPPfL8",
+  "_key": "!items!ubAYiPF4G7qPPfL8"
+}

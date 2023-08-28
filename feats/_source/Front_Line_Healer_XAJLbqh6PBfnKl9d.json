@@ -1,0 +1,40 @@
+{
+  "name": "Front Line Healer",
+  "system": {
+    "name": "Front Line Healer",
+    "origin": "",
+    "effect": "When you apply a Restorative, you gain +5 Damage Reduction for 1 full round. Whenever you use Combat Medic’s Primer’s Rank 2 effect, you may apply the same effect on yourself. Damage Reduction from this Feature does not stack with itself.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Medic",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.lWAUm3cTvAs4PnEd"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079347,
+    "modifiedTime": 1683383583117,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "XAJLbqh6PBfnKl9d",
+  "_key": "!items!XAJLbqh6PBfnKl9d"
+}

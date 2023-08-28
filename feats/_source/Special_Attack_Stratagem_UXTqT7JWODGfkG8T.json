@@ -1,0 +1,40 @@
+{
+  "name": "Special Attack Stratagem",
+  "system": {
+    "name": "Special Attack Stratagem",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: While this Feature is Bound, the target’s damaging Ranged Attacks have their Effect Range increased by 1 for each positive Combat Stage they have in Special Attack, up to a maximum of +3.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Stat Link, Stat Training, Master Focus or Command",
+    "frequency": "2 AP - Standard Action",
+    "tags": "[Branch][Orders][Stratagem]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.s5VpDaskCYOHttfJ"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081752,
+    "modifiedTime": 1683383583273,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "UXTqT7JWODGfkG8T",
+  "_key": "!items!UXTqT7JWODGfkG8T"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Trick Shot",
+  "system": {
+    "name": "Trick Shot",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: While this Feature is Bound, decrease the Accuracy Roll of the target’s damaging ranged attacks by -2. The Critical Hit range of those attacks is increased by +3. This Feature does not affect Moves without an AC value.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Marksman Orders",
+    "frequency": "Bind 2 AP - Standard Action",
+    "tags": "[Orders][Stratagem]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.FscR61Z2dXQUshuh"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081759,
+    "modifiedTime": 1683383582476,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "vguUuo9epqsU66ps",
+  "_key": "!items!vguUuo9epqsU66ps"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Rule of Cool",
+  "system": {
+    "name": "Rule of Cool",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon uses a Cool-Type Move\nContest Effect: Treat the Move as if it were one step more aligned with the Contest Type. If the Move would be opposing the Contest Type, it is instead neutral. If it is neutral, it is instead matching. You may activate this effect only once per Contest.\nBattle Effect: The triggering Move’s Crit Range is increased by 3, and the Moves with the Priority or Interrupt Keywords may not be activated in reaction to this Move. You may activate Rule of Cool only once per Pokémon per Scene.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Cool Conduct Rank 1",
+    "frequency": "At-Will - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.6cjS3roV73HjH7O8"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078974,
+    "modifiedTime": 1683383582275,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "fgsN3d0HekNUPvt2",
+  "_key": "!items!fgsN3d0HekNUPvt2"
+}

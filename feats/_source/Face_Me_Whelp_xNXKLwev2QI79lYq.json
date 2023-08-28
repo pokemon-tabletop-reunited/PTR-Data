@@ -1,0 +1,40 @@
+{
+  "name": "Face Me Whelp",
+  "system": {
+    "name": "Face Me Whelp",
+    "origin": "",
+    "effect": "While your Pokémon is adjacent to a foe they Marked, that foe gains a -X penalty to Accuracy Rolls and a -10 penalty to Damage Rolls on attacks that do not target the Pokémon that Marked them. X is equal to half your Type-Linked Skill Rank.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Close Quarters Mastery, Type-Linked Skill at Expert",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.sRdBR6J7YmqTboLx"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079004,
+    "modifiedTime": 1683383583275,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "xNXKLwev2QI79lYq",
+  "_key": "!items!xNXKLwev2QI79lYq"
+}

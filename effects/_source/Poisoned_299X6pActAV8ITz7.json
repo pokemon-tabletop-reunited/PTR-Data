@@ -1,0 +1,65 @@
+{
+  "name": "Poisoned",
+  "type": "condition",
+  "img": "systems/ptu/static/images/conditions/Poisoned.svg",
+  "system": {
+    "origin": "Automated",
+    "effect": "The target's Special Defense Value is lowered by 2 Combat Stages for the duration of the poison. Poison and Steel-Type Pokemon are immune to becoming Poisoned. If a Poisoned Target takes a Standard Action or is prevented from taking a Standard Action by an effect such as Sleep, Flinch, or Paralysis they lose a Tick of Hit Points at the end of that turn",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "path": "system.stats.spdef.stage.mod",
+        "value": -2,
+        "mode": "add"
+      }
+    ],
+    "slug": "poisoned",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "duration": {
+      "value": 0,
+      "unit": "unlimited",
+      "expiry": "turn-start"
+    },
+    "value": {
+      "isValued": false,
+      "value": 1,
+      "autoIncrement": false
+    },
+    "references": {
+      "children": [],
+      "overrides": [],
+      "overriddenBy": []
+    },
+    "overrides": [],
+    "persistent": {
+      "formula": "td",
+      "type": "persistent"
+    },
+    "name": "",
+    "tokenIcon": {
+      "show": true
+    }
+  },
+  "folder": "rPNjp26cMp3XQ6aC",
+  "_id": "299X6pActAV8ITz7",
+  "effects": [],
+  "sort": 1500000,
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.1",
+    "coreVersion": "11.307",
+    "createdTime": 1691878068601,
+    "modifiedTime": 1692117902102,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!299X6pActAV8ITz7"
+}

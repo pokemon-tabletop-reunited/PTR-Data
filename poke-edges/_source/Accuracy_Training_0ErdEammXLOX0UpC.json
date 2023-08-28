@@ -1,0 +1,32 @@
+{
+  "name": "Accuracy Training",
+  "system": {
+    "name": "Accuracy Training",
+    "origin": "",
+    "effect": "Pick a Move with an AC of 3 or higher; the AC of the target Move is permanently lowered by 1. This Poké Edge may be taken up to three times, each time selecting a different Move.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Level 20",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202696,
+    "modifiedTime": 1683369231433,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "0ErdEammXLOX0UpC",
+  "_key": "!items!0ErdEammXLOX0UpC"
+}

@@ -1,0 +1,585 @@
+{
+  "type": "species",
+  "system": {
+    "schema": {
+      "version": 0.102,
+      "lastMigration": {
+        "datetime": "2023-08-15T11:56:10.182Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "0.21"
+        }
+      }
+    },
+    "dexentry": "",
+    "number": 1598,
+    "form": "",
+    "stats": {
+      "hp": 6,
+      "atk": 9,
+      "def": 6,
+      "spatk": 9,
+      "spdef": 8,
+      "spd": 11
+    },
+    "types": [
+      "Flying",
+      "Fairy"
+    ],
+    "abilities": {
+      "basic": [
+        {
+          "slug": "cute-charm",
+          "uuid": "Compendium.ptu.abilities.Item.AWU0ysSqTjM2qga8"
+        },
+        {
+          "slug": "overcoat",
+          "uuid": "Compendium.ptu.abilities.Item.9hu5qWgldBvvoIZ9"
+        }
+      ],
+      "advanced": [
+        {
+          "slug": "accelerate",
+          "uuid": "Compendium.ptu.abilities.Item.PWtLc89x7mA8LetJ"
+        },
+        {
+          "slug": "windveiled",
+          "uuid": "Compendium.ptu.abilities.Item.SWE6gmR4s1ko1lEP"
+        }
+      ],
+      "high": [
+        {
+          "slug": "cloud-nine",
+          "uuid": "Compendium.ptu.abilities.Item.tZCDkmEkZRh06XCd"
+        }
+      ]
+    },
+    "evolutions": [
+      {
+        "uuid": "Compendium.ptu.species.Item.vOVks1zsb3kG7oFi",
+        "slug": "delta-pichu",
+        "level": 1,
+        "other": {
+          "restrictions": []
+        }
+      },
+      {
+        "uuid": "Compendium.ptu.species.Item.lNOCX8hGbgZ6hMXS",
+        "slug": "delta-pikachu",
+        "level": 10,
+        "other": {
+          "restrictions": []
+        }
+      },
+      {
+        "uuid": "Compendium.ptu.species.Item.s7t0RwLLjblNKEak",
+        "slug": "delta-raichu",
+        "level": 1,
+        "other": {
+          "restrictions": []
+        }
+      }
+    ],
+    "size": {
+      "height": 0.8,
+      "weight": 30,
+      "sizeClass": "Small",
+      "weightClass": 3
+    },
+    "breeding": {
+      "genderRatio": 50,
+      "eggGroups": [
+        "None"
+      ],
+      "hatchRate": -1
+    },
+    "diet": [
+      "Herbivore"
+    ],
+    "habitats": [
+      "Forest",
+      "Urban"
+    ],
+    "capabilities": {
+      "overland": 4,
+      "sky": 7,
+      "swim": 3,
+      "levitate": 0,
+      "burrow": 0,
+      "highJump": 0,
+      "longJump": 0,
+      "power": 4,
+      "naturewalk": [],
+      "other": [],
+      "jumpH": 3,
+      "jumpL": 4
+    },
+    "moves": {
+      "level": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.sfxsqQqzJtNIXjT1",
+          "slug": "growl",
+          "level": 5
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.jO7whXaL5oomvfVm",
+          "slug": "play-nice",
+          "level": 7
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.O05N8RtPzd2LAVxw",
+          "slug": "quick-attack",
+          "level": 10
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.jGxArFfFWyvBIzDD",
+          "slug": "disarming-voice",
+          "level": 13
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.qZEeTMIoNoWWBLPh",
+          "slug": "tailwind",
+          "level": 18
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Uh0x7iGbtMTYQ9jb",
+          "slug": "roost",
+          "level": 21
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.K7UB9TkJk18A5zvS",
+          "slug": "double-team",
+          "level": 23
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ID8S7h0VtaFMVHJO",
+          "slug": "aerial-ace",
+          "level": 26
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.YM79yu7V5TzcYWL1",
+          "slug": "chatter",
+          "level": 29
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.u9ZB5Y3rKggsbcbI",
+          "slug": "air-slash",
+          "level": 34
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ma7mZg2j7sstD9a4",
+          "slug": "sky-drop",
+          "level": 37
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.jO7polFow4nXBo2J",
+          "slug": "moonblast",
+          "level": 42
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.qUBtPSVpjzyt56YL",
+          "slug": "agility",
+          "level": 45
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Kv0LGRDTgL1btqIT",
+          "slug": "fly",
+          "level": 50
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.BQW29RBsMAmHNdPf",
+          "slug": "defog",
+          "level": 53
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.b1t1vBPJjgi96BAi",
+          "slug": "hurricane",
+          "level": 58
+        }
+      ],
+      "machine": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.tmNtPcrGH82Ll5Su",
+          "slug": "toxic"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.dUETXbMQMsjLOsfo",
+          "slug": "hidden-power"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.sKKY6tSr3LMJbPYe",
+          "slug": "hyper-beam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.NRxIwpKjTu85dUVX",
+          "slug": "light-screen"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.L3SlDw7Vz1QpAN7Z",
+          "slug": "protect"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.uXdhVq2qq2KMn7WD",
+          "slug": "rain-dance"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Uh0x7iGbtMTYQ9jb",
+          "slug": "roost"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.lQscT0t5wrmRQmrd",
+          "slug": "safeguard"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.QbOpkuydT0R2mo0z",
+          "slug": "frustration"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.yjo9WADdCK1VkuOf",
+          "slug": "return"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.fWnVHLD5rpdJgdjs",
+          "slug": "brick-break"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.K7UB9TkJk18A5zvS",
+          "slug": "double-team"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.lFNhIJay9mPURkFm",
+          "slug": "reflect"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ID8S7h0VtaFMVHJO",
+          "slug": "aerial-ace"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.mrYbUoEGQqVbkd8D",
+          "slug": "facade"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.klnPEVI4EYFHqRtn",
+          "slug": "flame-charge"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.9xBKv8W7Bus0tIly",
+          "slug": "rest"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Y1brXQWXKmLFHLEe",
+          "slug": "attract"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.JxiwsM3wC96WjB8k",
+          "slug": "thief"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.CCIib8kjCbVHJqC4",
+          "slug": "round"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.vCNkUzsXMkuEvfyf",
+          "slug": "echoed-voice"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.jTuUN8OUZo8iJlRl",
+          "slug": "steel-wing"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.YSD5M4fPeyEKKa1O",
+          "slug": "fling"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ma7mZg2j7sstD9a4",
+          "slug": "sky-drop"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.BegjDnyr49VHCmzS",
+          "slug": "acrobatics"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.R0fRdbL8YlfekNFW",
+          "slug": "smart-strike"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.wK6kD8fSEYerRcEl",
+          "slug": "giga-impact"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.mZMFjQsI2rJYQvUG",
+          "slug": "thunder-wave"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Ar8iJt7Ge8oT2MS1",
+          "slug": "psych-up"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.rtC833U4a0VysK58",
+          "slug": "grass-knot"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.73AHUIh6V65adbTW",
+          "slug": "swagger"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.yeX0bso0PRJIS9XL",
+          "slug": "sleep-talk"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.jD2v2b69Def77hsj",
+          "slug": "u-turn"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.vypDpjMbQDlUywfo",
+          "slug": "substitute"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.UtbYhKJcIvhbkT3E",
+          "slug": "waterfall"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ysi3GZ9atWpvay7e",
+          "slug": "dazzling-gleam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.IW5JN8hhwgXFV72V",
+          "slug": "confide"
+        }
+      ],
+      "egg": [],
+      "tutor": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.SYS2Kd48K3rivxSH",
+          "slug": "acid"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.4YoNfcmrobx7M1yn",
+          "slug": "air-cutter"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ILRN7vvNLxqHaqST",
+          "slug": "aqua-tail"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.2iGbXiRKrcmvC0Se",
+          "slug": "bounce"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.pbK4VGlz6E9tL9q0",
+          "slug": "covet"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.iUi0ah7hNicztyJa",
+          "slug": "drain-punch"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.RAU2oNTyq2N0qMnZ",
+          "slug": "endure"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.QzRxSIKI5X8GecmO",
+          "slug": "focus-punch"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.CKrsMsW2pbLxGK8u",
+          "slug": "headbutt"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.np8CcTiP69qraLbs",
+          "slug": "heal-bell"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.00rhCLvsoytJwyeh",
+          "slug": "heat-wave"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.T3tBrl9gp4fbRMrt",
+          "slug": "helping-hand"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.d4jWsVY0R3Kko7Du",
+          "slug": "ice-punch"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ieelWjGWIFKne4uX",
+          "slug": "icy-wind"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.FYXpqo7I3cw01MLZ",
+          "slug": "iron-tail"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ZADstgvxP72sqSdU",
+          "slug": "knock-off"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ZEpKkxLjqdY3wxp6",
+          "slug": "low-kick"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.UrCJ1HI555kcJXYv",
+          "slug": "magic-coat"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.jO7polFow4nXBo2J",
+          "slug": "moonblast-n"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.5ZBEpaXaaoUDDxcJ",
+          "slug": "ominous-wind"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.O05N8RtPzd2LAVxw",
+          "slug": "quick-attack-n"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.WA6xmRwnzhqojjNJ",
+          "slug": "signal-beam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.iTtBC6VScvUfu9Jl",
+          "slug": "silver-wind"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.sYzhxQCPs0FNtNLK",
+          "slug": "sky-attack"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.4rk7YSr56EEq3bGu",
+          "slug": "snatch"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.pho7PM46TLfGqXMk",
+          "slug": "snore"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.6PNJNM1ZqktBzDUR",
+          "slug": "swift"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.qZEeTMIoNoWWBLPh",
+          "slug": "tailwind"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.uIXEGgxN9GBll86u",
+          "slug": "thunder-punch"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.TSfx5EyRZpXvDLl9",
+          "slug": "twister"
+        }
+      ]
+    },
+    "skills": {
+      "acrobatics": {
+        "value": 4,
+        "modifier": 1,
+        "type": "body"
+      },
+      "athletics": {
+        "value": 2,
+        "modifier": 1,
+        "type": "body"
+      },
+      "charm": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "combat": {
+        "value": 4,
+        "modifier": 0,
+        "type": "body"
+      },
+      "command": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "generalEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "medicineEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "occultEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "pokemonEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "techEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "focus": {
+        "value": 4,
+        "modifier": 3,
+        "type": "spirit"
+      },
+      "guile": {
+        "value": 2,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "intimidate": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      },
+      "intuition": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "perception": {
+        "value": 2,
+        "modifier": 1,
+        "type": "mind"
+      },
+      "stealth": {
+        "value": 3,
+        "modifier": 0,
+        "type": "body"
+      },
+      "survival": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      }
+    },
+    "slug": "delta-raichu",
+    "rules": []
+  },
+  "img": "/systems/ptu/css/images/icons/dex_icon.png",
+  "folder": "PjOQybdSHWn87sdq",
+  "name": "Delta Raichu",
+  "_id": "s7t0RwLLjblNKEak",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.1",
+    "coreVersion": "11.307",
+    "createdTime": 1689609527590,
+    "modifiedTime": 1692123930623,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!s7t0RwLLjblNKEak"
+}

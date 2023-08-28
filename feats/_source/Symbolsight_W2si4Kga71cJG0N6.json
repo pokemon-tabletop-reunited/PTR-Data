@@ -1,0 +1,40 @@
+{
+  "name": "Symbolsight",
+  "system": {
+    "name": "Symbolsight",
+    "origin": "",
+    "effect": "Static: You know when there are people, Pokémon, or objects that would appear differently to you through Symbolsight within an area of you about the size of a small town. You do not know their location, number, or distance from you, only that there is at least one within the range of your sense.\n1 AP Effect: For the next ten minutes, you see the world through the lens of Symbolsight. You may end this effect early as a Free Action.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "GM Permission",
+    "frequency": "Static | 1 AP - Standard Action",
+    "tags": "[Patron Stat]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.epLd6Vj56Aoc82Ta"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084440,
+    "modifiedTime": 1683383582956,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "W2si4Kga71cJG0N6",
+  "_key": "!items!W2si4Kga71cJG0N6"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Stat Mastery",
+  "system": {
+    "name": "Stat Mastery",
+    "origin": "",
+    "effect": "Stat Mastery’s Effect depends on your Chosen Stat:\nAttack Effect: When your Pokémon successfully uses a Push, Disarm, or Dirty Trick Combat Maneuver, the target of the Maneuver loses a Tick of Hit Points.\nDefense Effect: Whenever your Pokémon do not spend their Shift Action to Shift during a turn, they gain +5 Damage Reduction for one full round.\nSpecial Attack Effect: The Range of your Pokémon’s Special Non-Melee Moves is increased by +2. This does not affect the size of Area-Of-Effect moves (But does affect the range at which you can place Ranged Blasts).\nSpecial Defense Effect: Whenever your Pokémon would lose a Tick of Hit Points from Status Afflictions, Weather, or other effects, they lose 5 fewer Hit Points, to a minimum of 1.\nSpeed Effect: Your Pokémon may take Disengage Maneuvers as Swift Actions.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Stat Maneuver",
+    "frequency": "Static",
+    "tags": "[Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.U1lp1wDloZAYWY7j"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081735,
+    "modifiedTime": 1683383582794,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "9MGkTQUPBmBFC96C",
+  "_key": "!items!9MGkTQUPBmBFC96C"
+}

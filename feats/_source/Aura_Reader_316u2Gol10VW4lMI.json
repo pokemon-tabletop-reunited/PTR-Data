@@ -1,0 +1,40 @@
+{
+  "name": "Aura Reader",
+  "system": {
+    "name": "Aura Reader",
+    "origin": "",
+    "effect": "You gain the Aura Reader Capability for the rest of the scene. If your Intuition is Adept Rank or higher, you also gain the Aura Pulse Capability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Aura Guardian",
+    "frequency": "2 AP - Swift Action",
+    "tags": "[+Attack or Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.pU6F6jaumhwah7a8"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079291,
+    "modifiedTime": 1683383583214,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "316u2Gol10VW4lMI",
+  "_key": "!items!316u2Gol10VW4lMI"
+}

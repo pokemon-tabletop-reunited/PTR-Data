@@ -1,0 +1,40 @@
+{
+  "name": "Glacial Ice",
+  "system": {
+    "name": "Glacial Ice",
+    "origin": "",
+    "effect": "Your Ice-Type Pokémon gain Damage Reduction equal to your Type-Linked Skill Rank against Fighting, Fire, Rock, and Steel-Typed Attacks from which they would take Super-Effective Damage.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Type Ace, Ice as Chosen Type",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.XVM0PCO6J8HE49Fe"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079263,
+    "modifiedTime": 1683383582852,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Vdsv3DmTNYYI4hwp",
+  "_key": "!items!Vdsv3DmTNYYI4hwp"
+}

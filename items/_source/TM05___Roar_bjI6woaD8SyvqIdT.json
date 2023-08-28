@@ -1,0 +1,41 @@
+{
+  "name": "TM05 - Roar",
+  "type": "item",
+  "system": {
+    "origin": "",
+    "effect": "When declaring Roar, the user does nothing. At the end of the round, the user Shifts and uses Roar. Targets hit by Roar immediately Shift away from the user using their highest useable movement capability, towards their Trainer if possible. If the target is an owned Pokémon and ends this shift within 6 meters of their Poké Ball, they are immediately recalled to their Poké Ball. If that Trainer sends out a replacement, they do not lose their Command action.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "quantity": 1,
+    "category": "",
+    "cost": null,
+    "consumable": true,
+    "subtype": "",
+    "container": false
+  },
+  "_id": "bjI6woaD8SyvqIdT",
+  "img": "systems/ptu/static/images/item_icons/tm.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692967648964,
+    "modifiedTime": 1692967649220,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!bjI6woaD8SyvqIdT"
+}

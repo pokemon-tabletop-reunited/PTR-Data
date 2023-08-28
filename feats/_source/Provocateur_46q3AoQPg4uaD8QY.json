@@ -1,0 +1,40 @@
+{
+  "name": "Provocateur",
+  "system": {
+    "name": "Provocateur",
+    "origin": "",
+    "effect": "Effect: You learn the Moves Sweet Kiss and Taunt.\nNote: Provocateur Skills are Charm, Guile, and Intimidate.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "One of Confidence Artist, Intimidating Presence, or Charmer",
+    "frequency": "Static",
+    "tags": "[Class][+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.ybJkubAhH0uLIBcD"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079345,
+    "modifiedTime": 1683383583828,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "46q3AoQPg4uaD8QY",
+  "_key": "!items!46q3AoQPg4uaD8QY"
+}

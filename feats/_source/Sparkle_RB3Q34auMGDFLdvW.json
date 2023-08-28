@@ -1,0 +1,40 @@
+{
+  "name": "Sparkle",
+  "system": {
+    "name": "Sparkle",
+    "origin": "",
+    "effect": "You learn the Moves Tri-Attack and Weather Ball.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Prism, Expert Charm or General Education",
+    "frequency": "Static",
+    "tags": "[+Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.YH47GuMzaN9WjNN7"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079304,
+    "modifiedTime": 1683383582862,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "RB3Q34auMGDFLdvW",
+  "_key": "!items!RB3Q34auMGDFLdvW"
+}

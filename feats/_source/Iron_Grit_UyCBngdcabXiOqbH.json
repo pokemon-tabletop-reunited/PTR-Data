@@ -1,0 +1,40 @@
+{
+  "name": "Iron Grit",
+  "system": {
+    "name": "Iron Grit",
+    "origin": "",
+    "effect": "Target: Your Steel-Typed Pokemon.\nWhen this Feature becomes Bound, the target gains +1 Defense Combat Stage. While the Feature remains bound, the target’s Defense Stat cannot be lowered, and its Defense Combat Stages cannot be lowered.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Polished Shine, Type-Linked Skill at Adept",
+    "frequency": "Bind 2 AP - Standard Action",
+    "tags": "[Orders][Stratagem]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Nq4m5FHeGw32bvUI"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079139,
+    "modifiedTime": 1683383582674,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "UyCBngdcabXiOqbH",
+  "_key": "!items!UyCBngdcabXiOqbH"
+}

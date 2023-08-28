@@ -1,0 +1,40 @@
+{
+  "name": "Accentuated Taste",
+  "system": {
+    "name": "Accentuated Taste",
+    "origin": "",
+    "effect": "Whenever you create a Snack with a Chef Feature, you may assign it a Taste chosen from Salty, Sour, Spicy, Dry, and Sweet. Tasty Snacks must be assigned their corresponding Taste. Whenever a Pokémon trades in a Food Buff from a Snack with an assigned Taste they do not dislike, they gain one of the following bonuses based on the assigned Taste:\n\n»» Salty: The user gains 5 Temporary Hit Points. This stacks with any Temporary Hit Points gained through Chef Features, the Lunchbox Ability, and the Food Buff.\n\n»» Spicy: Increase the user’s Critical Hit Range by 1.\n\n»» Sour: Increase the user’s Evasion against damaging attacks by 1.\n\n»» Dry: Increase the user’s Effect Range of all attacks by 1.\n\n»» Bitter: The user gets a +1 Bonus to all Save Checks.\n\n»» Sweet: Increase the user’s Initiative by 5.\n\nThis bonus can only be gained once per item, even if Complex Aftertaste is used to give an additional Food Buff for the item.\n\nRecipe - Preserves",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Chef, Adept Intuition",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.bQX5gpvN0dM7PNt9"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079259,
+    "modifiedTime": 1683383582906,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "OFyB5N31xTNAmCvT",
+  "_key": "!items!OFyB5N31xTNAmCvT"
+}

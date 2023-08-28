@@ -1,0 +1,40 @@
+{
+  "name": "Force of Will",
+  "system": {
+    "name": "Force of Will",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon uses a Psychic-Type Status Move with a range of Blessing, Field, Hazard, or Self.\nEffect: Your Pokémon may immediately use another Psychic-Type Status Move from its Move List with a range of Blessing, Field, Hazard, or Self.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Psionic Sponge, Type-Linked Skill at Master",
+    "frequency": "Daily x3 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.q3L5S59BNf5wAOy1"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078951,
+    "modifiedTime": 1683383583220,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "9WXiGBG03PCMZv3M",
+  "_key": "!items!9WXiGBG03PCMZv3M"
+}

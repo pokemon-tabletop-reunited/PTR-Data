@@ -1,0 +1,40 @@
+{
+  "name": "Pusher",
+  "system": {
+    "name": "Pusher",
+    "origin": "",
+    "effect": "Your Pokémon gain the Basic Ranged Attacks, Aura Pulse, Enticing Bait, Extended Invisibility, Far Reading, Precise Threadings, Seismometer, TK Mastery, and Trail Sniffer Poke Edges automatically if they qualify for them, without having to invest any Tutor Points.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Novice Pokemon Education",
+    "frequency": "Static",
+    "tags": "[Pokemon Caretaking Research Field][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.JORMBwK7FVh5keBJ"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081786,
+    "modifiedTime": 1683383582537,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "oFcegQigVTE2YrzS",
+  "_key": "!items!oFcegQigVTE2YrzS"
+}

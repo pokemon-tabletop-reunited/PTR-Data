@@ -1,0 +1,40 @@
+{
+  "name": "Noblesse Oblige",
+  "system": {
+    "name": "Noblesse Oblige",
+    "origin": "",
+    "effect": "You gain the Regal Challenge Ability",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Herald of Pride",
+    "frequency": "Static",
+    "tags": "[+Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.qLrP7fDjRRjqBU91"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079052,
+    "modifiedTime": 1683383583236,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "gcpQ3VyhloPj2Wtc",
+  "_key": "!items!gcpQ3VyhloPj2Wtc"
+}

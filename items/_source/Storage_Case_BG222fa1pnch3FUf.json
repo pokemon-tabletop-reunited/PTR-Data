@@ -1,0 +1,50 @@
+{
+  "name": "Storage Case",
+  "system": {
+    "origin": "",
+    "effect": "These extremely useful cases are capable of “Capturing” non-living matter. Once applied to a Poké Ball, Storage Cases cannot be removed. The object or objects in question must be smaller than 2 meters in any dimension. A single Storage Case can capture several discrete objects, but they must all be supported by a single surface; a 2x2 meter rug or mat is often used for this purpose. Capture Rolls against inanimate objects automatically succeed. Poké Balls with Storage Cases count towards the total number of Pokémon that the trainer can carry. Storage Cases are often illegal due to their uses in smuggling and theft.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.284Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "15000",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Storage Case",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368782645,
+    "modifiedTime": 1692170822294,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "BG222fa1pnch3FUf",
+  "_key": "!items!BG222fa1pnch3FUf"
+}

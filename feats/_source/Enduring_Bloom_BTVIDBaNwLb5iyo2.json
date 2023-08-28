@@ -1,0 +1,40 @@
+{
+  "name": "Enduring Bloom",
+  "system": {
+    "name": "Enduring Bloom",
+    "origin": "",
+    "effect": "Trigger - Your Grass-Type Pokémon is hit by a damaging Bug, Fire, Flying, Ice, or Poison attack that deals Super-Effective Damage\nEffect: Your Pokémon gains Temporary Hit Points equal to twice your Type-Linked Skill Rank, and gains +1 Combat Stage in the Stat of your choice. If it is Sunny, they may gain +1 Combat Stage in a second, different Stat. You may activate Enduring Bloom only once per Scene per Pokémon.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Foiling Foliage, Type-Linked Skill at Expert",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.C3X6BqM6gzhnOumM"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078966,
+    "modifiedTime": 1683383582398,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "BTVIDBaNwLb5iyo2",
+  "_key": "!items!BTVIDBaNwLb5iyo2"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Perfect Aim",
+  "system": {
+    "name": "Perfect Aim",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: The next damaging attack the target performs before the end of your next turn automatically hits and ignores Defensive Abilities but deals damage as if it were resisted one step further than normal. You may still roll to trigger any Effect Ranges or Critical Hits. All targets of the attack may not activate any Blessings in response, and the attack may not be Intercepted or avoided in any way (ex: with Dodge, Shield Moves, etc).",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Precision Orders",
+    "frequency": "Scene x2 - Standard Action",
+    "tags": "[Orders]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.SZ9Jjg1TSPMvPslQ"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078952,
+    "modifiedTime": 1683383582780,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "aeJMZkCePMsERnbw",
+  "_key": "!items!aeJMZkCePMsERnbw"
+}

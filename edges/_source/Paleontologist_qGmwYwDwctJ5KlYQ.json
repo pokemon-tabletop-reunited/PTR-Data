@@ -1,0 +1,33 @@
+{
+  "name": "Paleontologist",
+  "system": {
+    "name": "Paleontologist",
+    "origin": "",
+    "effect": "You can identify fossils with a DC 10 Pokémon Education or Survival Check. You know how to operate Reanimation Machines and can use them to revive Fossils. See the “Pokémon Fossils” section (page 216) for more information.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Novice Pokémon Education or Novice Survival",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953811,
+    "modifiedTime": 1683367977202,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "qGmwYwDwctJ5KlYQ",
+  "_key": "!items!qGmwYwDwctJ5KlYQ"
+}

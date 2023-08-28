@@ -1,0 +1,40 @@
+{
+  "name": "Defense Link",
+  "system": {
+    "name": "Defense Link",
+    "origin": "",
+    "effect": "Trigger - At the end of your Pokémon’s turn, their Defense is at its default number of Combat Stages or less\nEffect: The triggering Pokémon gains +1 Combat Stage in Defense. (Note: The “Default” number of Combat Stages is usually 0)",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Stat Ace",
+    "frequency": "1 AP - Free Action",
+    "tags": "[Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.3ZXcH3d98ysi2Aav"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081676,
+    "modifiedTime": 1683383582195,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "mQ0vvwRjSGgmjg58",
+  "_key": "!items!mQ0vvwRjSGgmjg58"
+}

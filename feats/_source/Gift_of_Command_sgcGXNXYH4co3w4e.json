@@ -1,0 +1,40 @@
+{
+  "name": "Gift of Command",
+  "system": {
+    "name": "Gift of Command",
+    "origin": "",
+    "effect": "You sense the presence of and can identify those with Gifts coming from your patron’s subservient Pokémon. You know which Gifts someone has from your patron’s subservient Pokémon by looking at them.\n2 AP Effect: Target Trainer within 8 meters with a Gift from your patron’s subservient Pokémon has the Gift of your choice from that subservient Pokémon disabled for the next ten minutes.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "One Major Gift from Your Patron Legendary",
+    "frequency": "Static | 2 AP - Standard Action, Interrupt",
+    "tags": "[Patron Stat]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.6fD6vTvs1ReKg34N"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079301,
+    "modifiedTime": 1683383582277,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "sgcGXNXYH4co3w4e",
+  "_key": "!items!sgcGXNXYH4co3w4e"
+}

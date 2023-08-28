@@ -1,0 +1,40 @@
+{
+  "name": "Burning Passion",
+  "system": {
+    "name": "Burning Passion",
+    "origin": "",
+    "effect": "Choose Flash Fire or Flame Body. You gain the chosen Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Fire Bringer, Expert Focus or Combat",
+    "frequency": "Static",
+    "tags": "[+Special Attack or Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.lqeTnrclDlNPD05D"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081699,
+    "modifiedTime": 1683383583126,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "WgD7TS3QIIG1OFEO",
+  "_key": "!items!WgD7TS3QIIG1OFEO"
+}

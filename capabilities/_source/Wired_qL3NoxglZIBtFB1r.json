@@ -1,0 +1,34 @@
+{
+  "name": "Wired",
+  "type": "capability",
+  "img": "/systems/ptu/css/images/icons/capability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Wired Pokémon have a special relation to electronic devices. They can enter machines and travel through connected electronics through any cords that connect them instantly. If used by a Rotom, Rotom may take control of the machine from within, gaining a Move chosen by your GM based on the machine.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "qL3NoxglZIBtFB1r",
+  "effects": [],
+  "folder": null,
+  "sort": 9900000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693042188180,
+    "modifiedTime": 1693118851776,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!qL3NoxglZIBtFB1r"
+}

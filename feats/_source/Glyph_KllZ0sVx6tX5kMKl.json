@@ -1,0 +1,40 @@
+{
+  "name": "Glyph",
+  "system": {
+    "name": "Glyph",
+    "origin": "",
+    "effect": "Target: Your Unown that is not part of a Prime Unown\nEffect: You may set the target Unown against any flat surface, and turn the Unown into a glyph. Glyphs have HP equal to your Level, and no other stats. Glyphs last until they are destroyed or intentionally de-activated, at which time the Unown returns to Unown Space, disappearing forever. You may have a number of active Glyphs equal to your Occult Education Rank. When setting a Glyph, you may have the Glyphs be either visible or invisible, as you prefer. At any time, as a Standard Action, you may Channel any Glyph you have set down. This causes the Glyph’s eye to open and become visible if it was not. While you are channeling a Glyph, you are able to see through the Glyph, listen through it, and project your voice through it.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Rune Master",
+    "frequency": "At-Will - Extended Action",
+    "tags": "[+Attack or Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.msiU7cMkXSjeIAnE"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084429,
+    "modifiedTime": 1683383583162,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "KllZ0sVx6tX5kMKl",
+  "_key": "!items!KllZ0sVx6tX5kMKl"
+}

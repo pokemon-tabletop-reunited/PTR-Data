@@ -1,0 +1,40 @@
+{
+  "name": "Smith Rank 2",
+  "system": {
+    "name": "Smith Rank 2",
+    "origin": "",
+    "effect": "You may create Fine Weapons for $2,000, Helmets for $1,125, Heavy Shields for $2,250 and Heavy Armor for $5,000.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Adept Focus, Adept Athletics",
+    "frequency": "Static",
+    "tags": "[Ranked 2][+Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.0iJEdVQuLdcgO4LT"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079121,
+    "modifiedTime": 1683383582126,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Lqv6TvOjd5Wt2UIl",
+  "_key": "!items!Lqv6TvOjd5Wt2UIl"
+}

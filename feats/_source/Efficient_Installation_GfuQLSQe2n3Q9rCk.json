@@ -1,0 +1,40 @@
+{
+  "name": "Efficient Installation",
+  "system": {
+    "name": "Efficient Installation",
+    "origin": "",
+    "effect": "You and your Pokémon gain a +2 boost to their maximum Augmentation Capacity and count their used Capacity as 2 lower for the purposes of Augmentation Shock. You and your Pokémon can install multiple Augmentations in the same Slot.\nRecipe - Body Augments",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Upgrader, Expert Technology Education",
+    "frequency": "Static",
+    "tags": "[Upgrader Research Field]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.QM4SE1IM9ih5HH25"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078897,
+    "modifiedTime": 1683383582731,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "GfuQLSQe2n3Q9rCk",
+  "_key": "!items!GfuQLSQe2n3Q9rCk"
+}

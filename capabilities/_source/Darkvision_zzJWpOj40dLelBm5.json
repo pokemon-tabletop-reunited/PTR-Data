@@ -1,0 +1,34 @@
+{
+  "name": "Darkvision",
+  "type": "capability",
+  "img": "/systems/ptu/css/images/icons/capability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "A Pokémon with the Darkvision Capability never has their vision hampered by a loss of light. They can even see in total darkness and are never Blind or affected by Total Blindness due to low-light conditions.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "zzJWpOj40dLelBm5",
+  "effects": [],
+  "folder": null,
+  "sort": 11200000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693042188180,
+    "modifiedTime": 1693118851776,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!zzJWpOj40dLelBm5"
+}

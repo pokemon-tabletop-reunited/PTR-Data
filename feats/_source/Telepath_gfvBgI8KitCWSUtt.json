@@ -1,0 +1,40 @@
+{
+  "name": "Telepath",
+  "system": {
+    "name": "Telepath",
+    "origin": "",
+    "effect": "You gain the Telepathy Capability for the rest of the scene.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Elemental Connection (Psychic), Iron Mind, Novice Intuition",
+    "frequency": "2 AP - Swift Action",
+    "tags": "[Class][+Special Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.2ZrQZdLoyc9iQuw2"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079020,
+    "modifiedTime": 1683383582183,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "gfvBgI8KitCWSUtt",
+  "_key": "!items!gfvBgI8KitCWSUtt"
+}

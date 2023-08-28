@@ -1,0 +1,39 @@
+{
+  "folder": null,
+  "name": "Aqua Boost",
+  "type": "ability",
+  "img": "/systems/ptu/static/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Trigger - An adjacent Ally uses a Water-Type Move\n<br>\nEffect: The allied target gains a +5 Bonus to its damage roll with the triggering Move. A target may not benefit from more than one instance of Aqua Boost at a time.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "At-Will - Free Action",
+    "tier": ""
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693118688980,
+    "modifiedTime": 1693118859422,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "HcmWYYnYlUSLKxpv",
+  "sort": 0,
+  "_key": "!items!HcmWYYnYlUSLKxpv"
+}

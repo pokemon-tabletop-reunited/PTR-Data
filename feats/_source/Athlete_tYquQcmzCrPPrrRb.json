@@ -1,0 +1,40 @@
+{
+  "name": "Athlete",
+  "system": {
+    "name": "Athlete",
+    "origin": "",
+    "effect": "After an hour of exercise, an Athlete may choose two different Stats besides HP; both of those stats become Trained Stats. The default State of Trained Stats is +1 Combat Stages instead of 0. An Athlete may have two Trained Stats at a time.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Novice Athletics, One of Athletic Initiative, Mounted Prowess, Power Boost, Stamina, or Swimmer",
+    "frequency": "At-Will – Extended Action",
+    "tags": "[Class][+HP]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.oDHb1mXpc7QPz3SJ"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078942,
+    "modifiedTime": 1683383583189,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "tYquQcmzCrPPrrRb",
+  "_key": "!items!tYquQcmzCrPPrrRb"
+}

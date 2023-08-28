@@ -1,0 +1,50 @@
+{
+  "name": "Glue Cap",
+  "system": {
+    "origin": "",
+    "effect": "AC: (8 minus Tech Edu Rank, Min 2)\nRange: 8 meters\nEffect: Cause the target to become Slowed, and their Initiative is lowered by 5. On 18+, the target is also Stuck and Trapped.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.239Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "100",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Glue Cap",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368793113,
+    "modifiedTime": 1692170822249,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "3qtWGQbViSwE7yuC",
+  "_key": "!items!3qtWGQbViSwE7yuC"
+}

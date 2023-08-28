@@ -1,0 +1,40 @@
+{
+  "name": "Calculated Assault",
+  "system": {
+    "name": "Calculated Assault",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon uses a Smart-Type Move\nContest Effect: Treat the Move as if it were one step more aligned with the Contest Type. If the Move would be opposing the Contest Type, it is instead neutral. If it is neutral, it is instead matching. You may activate this effect only once per Contest.\nBattle Effect: Choose one: The triggering Pokémon gains a +1 bonus on its Accuracy Roll for each ally that hit a target of its Move this round, or all allies get a +1 bonus to their Accuracy Rolls against targets of the triggering Pokémon’s Move until the end of your Pokémon’s next turn. You may activate Calculated Assault only once per Pokémon per Scene.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Smart Scheme Rank 1",
+    "frequency": "At-Will - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.FckIV7keU6PLKhIz"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084406,
+    "modifiedTime": 1683383582470,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "LXHyFOY0EWgXyjEf",
+  "_key": "!items!LXHyFOY0EWgXyjEf"
+}

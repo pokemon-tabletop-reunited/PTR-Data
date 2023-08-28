@@ -1,0 +1,39 @@
+{
+  "name": "Grace",
+  "system": {
+    "origin": "",
+    "effect": "Your Pokémon may consume and benefit from 2 more Poffins each. If this Pokémon is traded to a Trainer without the Grace feature, these extra dice from additional Poffins are not lost, but a Trainer without Grace may not benefit from more than 6 Dice gained from Poffins. You may always use any of the Skills that are prerequisites for Grace in the Introduction Stage of a Contest to roll for Contest Stat Dice of any kind.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "prerequisites": "Novice Charm, Command, Guile, Intimidate, or Intuition",
+    "notes": "",
+    "free": false,
+    "name": "Grace",
+    "useCount": 0
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.7",
+    "coreVersion": "11.307",
+    "createdTime": 1683367953822,
+    "modifiedTime": 1692279015112,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "FTh106Tw4v67qQzx",
+  "_key": "!items!FTh106Tw4v67qQzx"
+}

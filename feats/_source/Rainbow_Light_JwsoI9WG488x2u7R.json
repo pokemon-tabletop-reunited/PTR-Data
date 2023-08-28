@@ -1,0 +1,40 @@
+{
+  "name": "Rainbow Light",
+  "system": {
+    "name": "Rainbow Light",
+    "origin": "",
+    "effect": "Condition: You are wearing a Rainbow Gem\nEffects: You create a Rainbow lasting one full round. While this Rainbow persists, the Effect Range of all Allies is increased by +3.\nRecipes - Rainbow Gem, Plate Crafter",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Crystal Artificer, Expert Occult Education",
+    "frequency": "2 AP - Standard Action",
+    "tags": "[Artificer Research Field][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.HuN391MO4K63v7O7"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084393,
+    "modifiedTime": 1683383582515,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "JwsoI9WG488x2u7R",
+  "_key": "!items!JwsoI9WG488x2u7R"
+}

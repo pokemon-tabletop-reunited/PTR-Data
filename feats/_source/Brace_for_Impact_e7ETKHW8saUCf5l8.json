@@ -1,0 +1,40 @@
+{
+  "name": "Brace for Impact",
+  "system": {
+    "name": "Brace for Impact",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: While this Feature is Bound, once a round, when the target uses a self-targeting Status Move, they may gain 5 Damage Reduction until the end of their next turn. They may also activate this effect as a Standard Action.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Guardian Orders",
+    "frequency": "Bind 2 AP - Standard Action",
+    "tags": "[Orders][Stratagem]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Udvog1RyGbdili7A"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079244,
+    "modifiedTime": 1683383582802,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "e7ETKHW8saUCf5l8",
+  "_key": "!items!e7ETKHW8saUCf5l8"
+}

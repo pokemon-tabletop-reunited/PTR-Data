@@ -1,0 +1,40 @@
+{
+  "name": "Magical Burst",
+  "system": {
+    "name": "Magical Burst",
+    "origin": "",
+    "effect": "Condition: You must have Enchanting Transformation Bound to use Magical Burst\nEffect: Use a Glamour Weaver Move as if it had the range Burst 3, Friendly, Exhaust, Smite. All allies within the area-of-effect gain a Tick of Temporary Hit Points or cure themselves of one Volatile Affliction. Enchanting Transformation immediately becomes Unbound, and the AP used to bind it becomes spent instead of becoming available again.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Enchanting Transformation, Passionato Harmony",
+    "frequency": "Scene - Standard Action",
+    "tags": "[+Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.jjuNql1sahg3wQ4Z"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079172,
+    "modifiedTime": 1683383583064,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Wep016OosO1OVCRh",
+  "_key": "!items!Wep016OosO1OVCRh"
+}

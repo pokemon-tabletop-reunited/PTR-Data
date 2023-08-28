@@ -1,0 +1,50 @@
+{
+  "name": "Heal Ball",
+  "system": {
+    "origin": "",
+    "effect": "A caught Pokémon will heal to Max HP immediately upon capture. -5 Modifier.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.239Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "800",
+    "consumable": "0",
+    "subtype": "pokeball",
+    "container": false,
+    "name": "Heal Ball",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "systems/ptu/images/item_icons/heal ball.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368811907,
+    "modifiedTime": 1692170822249,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "2kThT4G7lRriGgkb",
+  "_key": "!items!2kThT4G7lRriGgkb"
+}

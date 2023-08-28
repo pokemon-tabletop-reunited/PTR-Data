@@ -1,0 +1,32 @@
+{
+  "name": "Ability Mastery",
+  "system": {
+    "name": "Ability Mastery",
+    "origin": "",
+    "effect": "The Pokémon gains an additional Ability, picked from any Ability it could naturally qualify for.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Level 60",
+    "cost": "3 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202690,
+    "modifiedTime": 1683369231424,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "ecZWvsBldvQABdsJ",
+  "_key": "!items!ecZWvsBldvQABdsJ"
+}

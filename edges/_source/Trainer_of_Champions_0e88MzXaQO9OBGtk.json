@@ -1,0 +1,33 @@
+{
+  "name": "Trainer of Champions",
+  "system": {
+    "name": "Trainer of Champions",
+    "origin": "",
+    "effect": "Whenever you apply Experience Training to a Pokemon, they gain an additional +5 Experience.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Expert Command",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953787,
+    "modifiedTime": 1683367977167,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "0e88MzXaQO9OBGtk",
+  "_key": "!items!0e88MzXaQO9OBGtk"
+}

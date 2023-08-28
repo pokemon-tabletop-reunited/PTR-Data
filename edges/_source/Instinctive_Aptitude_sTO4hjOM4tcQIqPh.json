@@ -1,0 +1,33 @@
+{
+  "name": "Instinctive Aptitude",
+  "system": {
+    "name": "Instinctive Aptitude",
+    "origin": "",
+    "effect": "Whenever you spend AP to raise your roll on an Accuracy Roll or Skill Check, you get a +2 bonus instead of +1. This cannot be used on Rolls made by your Pokémon.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Adept Intuition",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953804,
+    "modifiedTime": 1683367977189,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "sTO4hjOM4tcQIqPh",
+  "_key": "!items!sTO4hjOM4tcQIqPh"
+}

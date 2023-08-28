@@ -1,0 +1,50 @@
+{
+  "name": "Tent",
+  "system": {
+    "origin": "",
+    "effect": "Standard outdoor tents. Provide protection from the elements of nature. A small one person tent would be about 1m x 1.5m x 1.5m, or 2.25 cubic meters – meaning 900 in price.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.370Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "900",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Tent",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368794960,
+    "modifiedTime": 1692170822390,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "NwsR3wgXFg6lTPUH",
+  "_key": "!items!NwsR3wgXFg6lTPUH"
+}

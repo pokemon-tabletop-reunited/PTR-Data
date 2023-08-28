@@ -1,0 +1,37 @@
+{
+  "name": "Steam Engine",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Trigger - The user is hit by a damaging Fire-Type or Water-Type Move, or begins their turn in Rainy Weather\\nConnection - Smokescreen. The user may use Smokescreen as a Free Action, ignoring frequency, centered on the user.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Scene x2 - Swift Action, Reaction",
+    "tier": ""
+  },
+  "_id": "oGcEkXrVvT2UuXms",
+  "effects": [],
+  "folder": null,
+  "sort": 42500000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!oGcEkXrVvT2UuXms"
+}

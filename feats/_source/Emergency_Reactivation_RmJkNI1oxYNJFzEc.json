@@ -1,0 +1,40 @@
+{
+  "name": "Emergency Reactivation",
+  "system": {
+    "name": "Emergency Reactivation",
+    "origin": "",
+    "effect": "Trigger - You or your Pokémon suffer Augmentation Shock\nEffect: The triggering user does not suffer Augmentation Shock and their Augmentations are not disabled. This Feature may affect a target only once per Scene.\nRecipe - Limb Augments",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Upgrader, Adept Technology Education",
+    "frequency": "1 AP - Free Action",
+    "tags": "[Upgrader Research Field]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.VLO3un99P0lSDCCU"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078931,
+    "modifiedTime": 1683383582812,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "RmJkNI1oxYNJFzEc",
+  "_key": "!items!RmJkNI1oxYNJFzEc"
+}

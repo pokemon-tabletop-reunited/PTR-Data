@@ -1,0 +1,512 @@
+{
+  "type": "species",
+  "system": {
+    "schema": {
+      "version": 0.102,
+      "lastMigration": {
+        "datetime": "2023-08-15T11:56:10.911Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "0.21"
+        }
+      }
+    },
+    "dexentry": "",
+    "number": 3569,
+    "form": "",
+    "stats": {
+      "hp": 4,
+      "atk": 3,
+      "def": 5,
+      "spatk": 6,
+      "spdef": 6,
+      "spd": 7
+    },
+    "types": [
+      "Bug",
+      "Water"
+    ],
+    "abilities": {
+      "basic": [
+        {
+          "slug": "swift-swim",
+          "uuid": "Compendium.ptu.abilities.Item.YRSRiqyJ7ppeKqaT"
+        },
+        {
+          "slug": "damp",
+          "uuid": "Compendium.ptu.abilities.Item.8vmBDBJISogJPhMo"
+        }
+      ],
+      "advanced": [
+        {
+          "slug": "sniper",
+          "uuid": "Compendium.ptu.abilities.Item.uxFRRgEvIZcISh7Y"
+        },
+        {
+          "slug": "decoy",
+          "uuid": "Compendium.ptu.abilities.Item.8E6NArDOjm2KZYyj"
+        }
+      ],
+      "high": [
+        {
+          "slug": "spray-down",
+          "uuid": "Compendium.ptu.abilities.Item.pvJRIUj0X6g6TJS5"
+        }
+      ]
+    },
+    "evolutions": [
+      {
+        "uuid": "Compendium.ptu.species.Item.zD1PzgKSmLvIWMh0",
+        "slug": "bouwee",
+        "level": 1,
+        "other": {
+          "restrictions": []
+        }
+      },
+      {
+        "uuid": "Compendium.ptu.species.Item.62MuAacjQVfhjFrw",
+        "slug": "scubug",
+        "level": 25,
+        "other": {
+          "restrictions": []
+        }
+      }
+    ],
+    "size": {
+      "height": 0.2,
+      "weight": 1.1,
+      "sizeClass": "1",
+      "weightClass": 1
+    },
+    "breeding": {
+      "genderRatio": 50,
+      "eggGroups": [
+        "Bug",
+        "Water 3"
+      ],
+      "hatchRate": 7
+    },
+    "diet": [
+      "Herbivore"
+    ],
+    "habitats": [
+      "Freshwater",
+      "Ocean"
+    ],
+    "capabilities": {
+      "overland": 4,
+      "sky": 0,
+      "swim": 4,
+      "levitate": 0,
+      "burrow": 0,
+      "highJump": 0,
+      "longJump": 0,
+      "power": 1,
+      "naturewalk": [],
+      "other": [
+        {
+          "slug": "fountain",
+          "uuid": "Compendium.ptu.capabilities.Item.BlzmsGZkgfW1BA0C"
+        },
+        {
+          "slug": "gilled",
+          "uuid": "Compendium.ptu.capabilities.Item.rFLLjjCXn07D0qqp"
+        },
+        {
+          "slug": "sticky-hold",
+          "uuid": "Compendium.ptu.capabilities.Item.4FvNZYMBWQj9OVI6"
+        },
+        {
+          "slug": "underdog",
+          "uuid": "Compendium.ptu.capabilities.Item.DyqTXmu2rrRFni89"
+        },
+        {
+          "slug": "wallclimber",
+          "uuid": "Compendium.ptu.capabilities.Item.Afqp4Bw6PemQdWi9"
+        }
+      ],
+      "jumpH": 1,
+      "jumpL": 1
+    },
+    "moves": {
+      "level": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.PZ7pn3kySgxN2j4U",
+          "slug": "splash",
+          "level": 1
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.27YBZudZt4C5hAiG",
+          "slug": "water-sport",
+          "level": 1
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.X8cMobiWSuYaBmx6",
+          "slug": "struggle-bug",
+          "level": 1
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.WkW3yprpI9SjYktn",
+          "slug": "bubble",
+          "level": 5
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.cKgqlOnCY3nxycHy",
+          "slug": "supersonic",
+          "level": 9
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.fATlduVcdbN0Z4jc",
+          "slug": "bug-bite",
+          "level": 13
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.SExLm53kmtJHy47D",
+          "slug": "soak",
+          "level": 17
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.kDIkfT18seMfhFb3",
+          "slug": "bubblebeam",
+          "level": 21
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.XPzSD2Cvk1i3kXEN",
+          "slug": "dive",
+          "level": 25
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.A1JQ5m8AfYagGXzv",
+          "slug": "web-ball",
+          "level": 29
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.8ZDxzteaz1WyE3Vh",
+          "slug": "aqua-jet",
+          "level": 33
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.HkHWCmsOLOBAcFzR",
+          "slug": "muddy-water",
+          "level": 37
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.qUBtPSVpjzyt56YL",
+          "slug": "agility",
+          "level": 41
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.uXdhVq2qq2KMn7WD",
+          "slug": "rain-dance",
+          "level": 45
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.den6d8Q1dP8BeGKT",
+          "slug": "baton-pass",
+          "level": 49
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.m7pSkxSBALd54hvo",
+          "slug": "bug-buzz",
+          "level": 53
+        }
+      ],
+      "machine": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.tmNtPcrGH82Ll5Su",
+          "slug": "toxic"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.p0OwgadqqFVK3LbP",
+          "slug": "hail"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.dUETXbMQMsjLOsfo",
+          "slug": "hidden-power"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.MCQLg3rc60IsoiCe",
+          "slug": "sunny-day"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.nN63dt3YVILxJXrL",
+          "slug": "ice-beam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.OVqIFzzDlbMKS7Ew",
+          "slug": "blizzard"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.L3SlDw7Vz1QpAN7Z",
+          "slug": "protect"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.uXdhVq2qq2KMn7WD",
+          "slug": "rain-dance"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.QbOpkuydT0R2mo0z",
+          "slug": "frustration"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.yjo9WADdCK1VkuOf",
+          "slug": "return"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.NEr3K7O8pAoI6mBn",
+          "slug": "shadow-ball"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.K7UB9TkJk18A5zvS",
+          "slug": "double-team"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.hGaaEjUWG0AozHxl",
+          "slug": "sludge-wave"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ksbwiRKXZTQsCQBv",
+          "slug": "sludge-bomb"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.mrYbUoEGQqVbkd8D",
+          "slug": "facade"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.9xBKv8W7Bus0tIly",
+          "slug": "rest"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Y1brXQWXKmLFHLEe",
+          "slug": "attract"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.CCIib8kjCbVHJqC4",
+          "slug": "round"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.XvJkuBPZhZzpidXT",
+          "slug": "scald"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.aRDYvzNCZSbpr1Ws",
+          "slug": "charge-beam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.bOV3iBCfvIjylGNK",
+          "slug": "gyro-ball"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Ar8iJt7Ge8oT2MS1",
+          "slug": "psych-up"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.73AHUIh6V65adbTW",
+          "slug": "swagger"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.yeX0bso0PRJIS9XL",
+          "slug": "sleep-talk"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.vypDpjMbQDlUywfo",
+          "slug": "substitute"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.orVQZOMAFDuF62u4",
+          "slug": "surf"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.IW5JN8hhwgXFV72V",
+          "slug": "confide"
+        }
+      ],
+      "egg": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.n5RtQ1quaCiwSDMI",
+          "slug": "acid-armor"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.8ZDxzteaz1WyE3Vh",
+          "slug": "aqua-jet"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ZWx3Em4ZK0lTQ3mf",
+          "slug": "confuse-ray"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.79hUQHdOjX8IQa4B",
+          "slug": "iron-defense"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.090mDfk3X3iGSDjH",
+          "slug": "mud-shot"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.JePPzDPK9R0eUfrA",
+          "slug": "psybeam"
+        }
+      ],
+      "tutor": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.mxEMzOvQWNA1LloV",
+          "slug": "brine"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.fATlduVcdbN0Z4jc",
+          "slug": "bug-bite"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.XPzSD2Cvk1i3kXEN",
+          "slug": "dive"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.DjlwtT6NfMWn4vwF",
+          "slug": "endeavor"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.RAU2oNTyq2N0qMnZ",
+          "slug": "endure"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.HwJtRDsnRTiuwZqL",
+          "slug": "mud-slap"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.6IRyS1salnje8yIf",
+          "slug": "role-play"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.WA6xmRwnzhqojjNJ",
+          "slug": "signal-beam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.iTtBC6VScvUfu9Jl",
+          "slug": "silver-wind"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.1BGf1nKwZjvFCWZ6",
+          "slug": "trick"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.nw6gP4Lna9ZNSM9L",
+          "slug": "water-pulse"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.L1JquBcjJ2KHNuQM",
+          "slug": "whirlpool"
+        }
+      ]
+    },
+    "skills": {
+      "acrobatics": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      },
+      "athletics": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      },
+      "charm": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "combat": {
+        "value": 1,
+        "modifier": 0,
+        "type": "body"
+      },
+      "command": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "generalEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "medicineEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "occultEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "pokemonEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "techEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "focus": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "guile": {
+        "value": 2,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "intimidate": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      },
+      "intuition": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "perception": {
+        "value": 3,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "stealth": {
+        "value": 3,
+        "modifier": 0,
+        "type": "body"
+      },
+      "survival": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      }
+    },
+    "slug": "bouwee",
+    "rules": []
+  },
+  "img": "/systems/ptu/css/images/icons/dex_icon.png",
+  "folder": "CMymFngAhNsaPlS5",
+  "name": "Bouwee",
+  "_id": "zD1PzgKSmLvIWMh0",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.1",
+    "coreVersion": "11.307",
+    "createdTime": 1689609527590,
+    "modifiedTime": 1692123930623,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!zD1PzgKSmLvIWMh0"
+}

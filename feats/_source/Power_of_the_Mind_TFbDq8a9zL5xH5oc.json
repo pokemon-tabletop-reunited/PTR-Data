@@ -1,0 +1,40 @@
+{
+  "name": "Power of the Mind",
+  "system": {
+    "name": "Power of the Mind",
+    "origin": "",
+    "effect": "Choose Interference or Levitate. You gain the chosen Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Telekinetic",
+    "frequency": "Static",
+    "tags": "[+Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.07xsgBu7GslD05y1"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079027,
+    "modifiedTime": 1683383582077,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "TFbDq8a9zL5xH5oc",
+  "_key": "!items!TFbDq8a9zL5xH5oc"
+}

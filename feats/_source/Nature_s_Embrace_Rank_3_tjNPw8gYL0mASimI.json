@@ -1,0 +1,40 @@
+{
+  "name": "Nature's Embrace Rank 3",
+  "system": {
+    "name": "Nature's Embrace Rank 3",
+    "origin": "",
+    "effect": "You learn 2 Moves chosen from the list below, marked with the Rank of this Feature you are gaining or lower.  Moves marked with an Oath require that Oath to be chosen.\nRank 3 Moves: Leech Seed, Petal Blizzard(Wood), Petal Dance(Flower), Power Whip, Solar Beam, Spore(Fungal)",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Expert Survival or General Education",
+    "frequency": "Static",
+    "tags": "[Ranked 3]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.dfx2mSs6bgsLR7M6"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081780,
+    "modifiedTime": 1683383582941,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "tjNPw8gYL0mASimI",
+  "_key": "!items!tjNPw8gYL0mASimI"
+}

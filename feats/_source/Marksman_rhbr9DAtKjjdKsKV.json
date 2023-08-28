@@ -1,0 +1,40 @@
+{
+  "name": "Marksman",
+  "system": {
+    "name": "Marksman",
+    "origin": "",
+    "effect": "You gain the Sniper Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Novice Combat, Novice Perception",
+    "frequency": "Static",
+    "tags": "[Class][+Attack][Weapon]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.aSrGQYj8nMQ6oKVV"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078851,
+    "modifiedTime": 1683383582889,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "rhbr9DAtKjjdKsKV",
+  "_key": "!items!rhbr9DAtKjjdKsKV"
+}

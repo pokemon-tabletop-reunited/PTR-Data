@@ -1,0 +1,40 @@
+{
+  "name": "Style Flourish",
+  "system": {
+    "name": "Style Flourish",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon uses a Move of your Chosen Type\nContest Effect: Re-Roll all dice that result in 1s. This effect may only be used once per Contest.\nBattle Effect: The target gains +1 CS in the Stat corresponding to your chosen Contest Type, after the Move and all effects have been resolved. This may only affect a target once per Scene.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "3 Style Expert Features",
+    "frequency": "1 AP - Free Action:",
+    "tags": "[Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.zIyeZhRtPPdupcMJ"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078984,
+    "modifiedTime": 1683383583844,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "3ZvmlKzXSJQ85G2B",
+  "_key": "!items!3ZvmlKzXSJQ85G2B"
+}

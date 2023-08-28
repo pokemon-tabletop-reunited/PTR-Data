@@ -1,0 +1,40 @@
+{
+  "name": "Special Attack Link",
+  "system": {
+    "name": "Special Attack Link",
+    "origin": "",
+    "effect": "Trigger - At the end of your Pokémon’s turn, their Special Attack is at its default number of Combat Stages or less\nEffect: The triggering Pokémon gains +1 Combat Stage in Special Attack. (Note: The “Default” number of Combat Stages is usually 0)",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Stat Ace",
+    "frequency": "1 AP - Free Action",
+    "tags": "[Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.cBRZZ9r7XABPJ4j5"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084454,
+    "modifiedTime": 1683383582923,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "4AswHCyvXNuJA8AK",
+  "_key": "!items!4AswHCyvXNuJA8AK"
+}

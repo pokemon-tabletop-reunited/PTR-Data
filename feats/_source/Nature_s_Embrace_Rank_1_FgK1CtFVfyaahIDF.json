@@ -1,0 +1,40 @@
+{
+  "name": "Nature's Embrace Rank 1",
+  "system": {
+    "name": "Nature's Embrace Rank 1",
+    "origin": "",
+    "effect": "You learn 2 Moves chosen from the list below.  Moves marked with an Oath require that Oath to be chosen.\nRank 1 Moves: Cotton Spore, Ingrain(Wood), Mega Drain, Razor Leaf, Stun Spore(Fungal), Sweet Scent(Flower)",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Druid",
+    "frequency": "Static",
+    "tags": "[Ranked 3]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.D61gMZ6DbCsJ7MQz"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084443,
+    "modifiedTime": 1683383582418,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "FgK1CtFVfyaahIDF",
+  "_key": "!items!FgK1CtFVfyaahIDF"
+}

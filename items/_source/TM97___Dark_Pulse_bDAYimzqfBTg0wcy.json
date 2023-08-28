@@ -1,0 +1,41 @@
+{
+  "name": "TM97 - Dark Pulse",
+  "type": "item",
+  "system": {
+    "origin": "",
+    "effect": "Dark Pulse Flinches the target on 17+.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "quantity": 1,
+    "category": "",
+    "cost": null,
+    "consumable": true,
+    "subtype": "",
+    "container": false
+  },
+  "_id": "bDAYimzqfBTg0wcy",
+  "img": "systems/ptu/static/images/item_icons/tm.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692967648964,
+    "modifiedTime": 1692967649936,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!bDAYimzqfBTg0wcy"
+}

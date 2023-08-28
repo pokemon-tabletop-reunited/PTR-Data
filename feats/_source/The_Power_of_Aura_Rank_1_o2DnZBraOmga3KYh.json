@@ -1,0 +1,40 @@
+{
+  "name": "The Power of Aura Rank 1",
+  "system": {
+    "name": "The Power of Aura Rank 1",
+    "origin": "",
+    "effect": "Choose Scrappy or Aura Storm. You gain the Chosen Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Aura Guardian",
+    "frequency": "Static",
+    "tags": "[+Attack or Special Attack][Ranked 2]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.o1bVf9GMfDW76iMD"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079272,
+    "modifiedTime": 1683383583187,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "o2DnZBraOmga3KYh",
+  "_key": "!items!o2DnZBraOmga3KYh"
+}

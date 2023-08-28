@@ -1,0 +1,40 @@
+{
+  "name": "Winter’s Herald Rank 2",
+  "system": {
+    "name": "Winter’s Herald Rank 2",
+    "origin": "",
+    "effect": "You may learn two Moves from the list below, marked with the Rank of Winter’s Herald you are gaining or lower.\nRank 2 Moves: Avalanche, Blizzard, Frost Breath, Icicle Spear",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Master Athletics or Survival",
+    "frequency": "Static",
+    "tags": "[Ranked 2][+Attack or Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.hu1jx2Up4EKbtT1i"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079269,
+    "modifiedTime": 1683383583024,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "kSrzU5VXKhU5DCNQ",
+  "_key": "!items!kSrzU5VXKhU5DCNQ"
+}

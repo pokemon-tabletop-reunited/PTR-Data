@@ -1,0 +1,34 @@
+{
+  "name": "Keystone Warp",
+  "type": "capability",
+  "img": "/systems/ptu/css/images/icons/capability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Spiritomb carries around with it an Odd Keystone. Trainers may collect additional Odd Keystones as they travel. They may then synchronize them with a Spiritomb for the cost of 2 Tutor Points. A Spiritomb may then freely teleport between any Odd Keystones within 10 meters as a Standard Action.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "AuEP6rvUEPPBwEXX",
+  "effects": [],
+  "folder": null,
+  "sort": 2100000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693042188180,
+    "modifiedTime": 1693118851776,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!AuEP6rvUEPPBwEXX"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Fight On and On",
+  "system": {
+    "name": "Fight On and On",
+    "origin": "",
+    "effect": "Trigger - Your Hit Points are lowered to or below 0 while Enraged.\nEffect: You are not Fainted; you instead Faint upon reaching -50% of your Max Hit Points. If you have 5 or more injuries, you may use this Feature regardless of Frequency.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Lessons in Rage & Pain, Adept Combat",
+    "frequency": "Daily - Free Action",
+    "tags": "[+HP]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.kjZQpwhVimvO07UY"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079343,
+    "modifiedTime": 1683383583107,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "egwoVGugK1BNStFn",
+  "_key": "!items!egwoVGugK1BNStFn"
+}

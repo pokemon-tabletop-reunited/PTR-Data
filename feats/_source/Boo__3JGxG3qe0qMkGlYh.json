@@ -1,0 +1,40 @@
+{
+  "name": "Boo!",
+  "system": {
+    "name": "Boo!",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon reappears after using Ghost Step, or the set-up phase of Phantom Force or Shadow Force\nEffect: The next Ghost-Type attack the target makes that turn gains the Smite keyword and can’t be Intercepted or avoided in any way (Dodge, Parry, Shield Moves, etc).",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Ghost Step, Type-Linked Skill at Master",
+    "frequency": "Daily x3 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.jzOFugXcQTwsMHmA"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081665,
+    "modifiedTime": 1683383583089,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "3JGxG3qe0qMkGlYh",
+  "_key": "!items!3JGxG3qe0qMkGlYh"
+}

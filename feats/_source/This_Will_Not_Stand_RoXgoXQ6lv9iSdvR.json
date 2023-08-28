@@ -1,0 +1,40 @@
+{
+  "name": "This Will Not Stand",
+  "system": {
+    "name": "This Will Not Stand",
+    "origin": "",
+    "effect": "Trigger: Your Dragon-Type Pokémon is reduced to 50% of their Maximum HP or below, from above 50% Max HP \nEffect: Your Pokémon becomes Enraged, and gains +1 Combat Stage in each of Attack, Special Attack, and Speed. This Will Not Stand may trigger only once per Scene per Pokémon.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Tyrant's Roar, Type-Linked Skill at Master",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.JZR6k0GdTw4kRq7H"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084374,
+    "modifiedTime": 1683383582540,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "RoXgoXQ6lv9iSdvR",
+  "_key": "!items!RoXgoXQ6lv9iSdvR"
+}

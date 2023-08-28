@@ -1,0 +1,40 @@
+{
+  "name": "Brightest Flame",
+  "system": {
+    "name": "Brightest Flame",
+    "origin": "",
+    "effect": "Your Pokémon’s damaging Fire-Type Moves Burn their target on a roll of 18+. If a Move already has a chance to Burn a target, this Effect Range is instead increased by +3. Additionally, your Pokémon’s damaging Fire-Type Moves deal additional damage equal to your Type-Linked Skill Rank against Burned targets.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Type Ace, Fire as Chosen Type",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.iOwNFDNFK4z8kCDy"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078909,
+    "modifiedTime": 1683383583037,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "bhwn25wmG9SnE7wR",
+  "_key": "!items!bhwn25wmG9SnE7wR"
+}

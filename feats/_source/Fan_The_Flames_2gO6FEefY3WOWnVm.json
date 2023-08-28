@@ -1,0 +1,40 @@
+{
+  "name": "Fan The Flames",
+  "system": {
+    "name": "Fan The Flames",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon uses a 1-Target Fire-Type Move\nEffect: Instead of its usual range, the attack may be performed as if it had a range of Burst 1 if melee, or Cone 2 if ranged.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Brightest Flame, Type-Linked Skill at Master",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.iRpQEaJVoFPP1GyC"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078927,
+    "modifiedTime": 1683383583042,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "2gO6FEefY3WOWnVm",
+  "_key": "!items!2gO6FEefY3WOWnVm"
+}

@@ -1,0 +1,39 @@
+{
+  "folder": null,
+  "name": "Costar",
+  "type": "ability",
+  "img": "/systems/ptu/static/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Connection - Copycat. When you use Copycat on an Allied Pokemon, you may also copy it's stat changes.\n<br>\nBonus: When entering the battlefield, copy an allied Pokemons Stat Changes.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Scene - Free Action",
+    "tier": ""
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693119429478,
+    "modifiedTime": 1693119460810,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "U0zCruNrZe06Fmj5",
+  "sort": 0,
+  "_key": "!items!U0zCruNrZe06Fmj5"
+}

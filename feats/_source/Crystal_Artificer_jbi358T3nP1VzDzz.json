@@ -1,0 +1,40 @@
+{
+  "name": "Crystal Artificer",
+  "system": {
+    "name": "Crystal Artificer",
+    "origin": "",
+    "effect": "You may use any Crystal Artificer Recipe for which you qualify.\nRecipes - Type Booster, Type Brace",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Gem Lore",
+    "frequency": "At-Will - Extended Action",
+    "tags": "[Artificer Research Field][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.4G7GbMSS9Ja2iemi"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079223,
+    "modifiedTime": 1683383582211,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "jbi358T3nP1VzDzz",
+  "_key": "!items!jbi358T3nP1VzDzz"
+}

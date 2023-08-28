@@ -1,0 +1,69 @@
+{
+  "name": "Frozen",
+  "type": "condition",
+  "img": "systems/ptu/static/images/conditions/Frozen.svg",
+  "system": {
+    "origin": "Automated",
+    "effect": "The target may not act on their turn and receives no bonuses from Evasion. At the end of each turn, the target may make a DC 16 Save Check to become cured. This DC is lowered to 11 for Fire-Type pokemon and Ice-Type pokemon are immune to becoming Frozen. If a Frozen Target is hit by a Damaging Fire, Fighting, Rock, or Steel Attack, they are cured of the Frozen Condition. Save Checks to cure this condition receive a +4 Bonus in Sunny Weather, and a -2 Penalty in Hail. The target also becomes Vulnerable.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "GrantItem",
+        "uuid": "Compendium.ptu.effects.Item.wqzPWKMbwvOWLVoI",
+        "onDeleteActions": {
+          "grantee": "restrict",
+          "granter": "cascade"
+        }
+      }
+    ],
+    "slug": "frozen",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "duration": {
+      "value": 0,
+      "unit": "unlimited",
+      "expiry": "turn-start"
+    },
+    "value": {
+      "isValued": false,
+      "value": 1,
+      "autoIncrement": false
+    },
+    "references": {
+      "children": [],
+      "overrides": [],
+      "overriddenBy": []
+    },
+    "overrides": [],
+    "persistent": {
+      "formula": "",
+      "type": "save",
+      "dc": 16,
+      "decrease": false
+    },
+    "name": "",
+    "tokenIcon": {
+      "show": true
+    }
+  },
+  "folder": "rPNjp26cMp3XQ6aC",
+  "_id": "7F4dkJoDuD7wNcEK",
+  "effects": [],
+  "sort": 1200000,
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.1",
+    "coreVersion": "11.307",
+    "createdTime": 1691878068601,
+    "modifiedTime": 1692117902157,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!7F4dkJoDuD7wNcEK"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Fossil Restoration",
+  "system": {
+    "name": "Fossil Restoration",
+    "origin": "",
+    "effect": "Target: A Fossil you are reviving\nEffect: The resulting Pokémon is born with 2 fewer Tutor Points, and gains its second Basic Ability. If it has only has one Basic Ability, it gains one of its Advanced Abilities, chosen by the GM. This Feature does not affect how the Pokémon continues to gain Abilities.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Paleontologist, Novice Pokemon Education",
+    "frequency": "At-Will - Extended Action",
+    "tags": "[Paleontology Research Field][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.huCC4pxNT0ZOJ9mB"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079055,
+    "modifiedTime": 1683383583026,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "X5ewVtNnCLL8rchW",
+  "_key": "!items!X5ewVtNnCLL8rchW"
+}

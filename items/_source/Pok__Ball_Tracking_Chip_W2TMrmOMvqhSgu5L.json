@@ -1,0 +1,50 @@
+{
+  "name": "Poké Ball Tracking Chip",
+  "system": {
+    "origin": "",
+    "effect": "A chip embedded in the inner workings of the Poké Ball that emits a signal allowing the Ball’s owner to remotely track the location of the Ball. Depending on the setting, these may be built in by default.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.424Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "200",
+    "consumable": "0",
+    "subtype": "pokeball",
+    "container": false,
+    "name": "Poké Ball Tracking Chip",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368789691,
+    "modifiedTime": 1692170822431,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "W2TMrmOMvqhSgu5L",
+  "_key": "!items!W2TMrmOMvqhSgu5L"
+}

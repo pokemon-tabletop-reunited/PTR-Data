@@ -1,0 +1,40 @@
+{
+  "name": "Macho Charge",
+  "system": {
+    "name": "Macho Charge",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon uses a Tough-Type Move\nContest Effect: Treat the Move as if it were one step more aligned with the Contest Type. If the Move would be opposing the Contest Type, it is instead neutral. If it is neutral, it is instead matching. You may activate this effect only once per Contest.\nBattle Effect: All targets hit by the Move are pushed away from the triggering Pokémon by 3 meters. You may activate Macho Charge only once per Pokémon per Scene.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Tough Tumble Rank 1",
+    "frequency": "At-Will - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.iGKBVJvLJJHFiVWp"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079061,
+    "modifiedTime": 1683383583036,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "HFnHgNGlKFHI3lAd",
+  "_key": "!items!HFnHgNGlKFHI3lAd"
+}

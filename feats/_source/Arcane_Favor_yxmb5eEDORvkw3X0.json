@@ -1,0 +1,40 @@
+{
+  "name": "Arcane Favor",
+  "system": {
+    "name": "Arcane Favor",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon uses a Fairy-Type Move\nEffect: Your Pokémon and all allies on the Field gain a +1 Bonus to all rolls for one full round.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Fairy Lights, Type-Linked Skill at Adept",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.j0RqDtu2YkN7GiQ8"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081695,
+    "modifiedTime": 1683383583052,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "yxmb5eEDORvkw3X0",
+  "_key": "!items!yxmb5eEDORvkw3X0"
+}

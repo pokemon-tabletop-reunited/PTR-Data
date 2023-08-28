@@ -1,0 +1,40 @@
+{
+  "name": "Defense Maneuver",
+  "system": {
+    "name": "Defense Maneuver",
+    "origin": "",
+    "effect": "You may activate this feature whenever your Pokémon is hit by a Physical Attack to receive the blow as if your Pokémon’s Defense Combat Stages were at +6 instead of their current value.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Stat Ace, Adept Command or Focus",
+    "frequency": "Scene - Free Action",
+    "tags": "[Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.BDAtePvZru5sdEZu"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079048,
+    "modifiedTime": 1683383582366,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "mKdplcVs31VGSft8",
+  "_key": "!items!mKdplcVs31VGSft8"
+}

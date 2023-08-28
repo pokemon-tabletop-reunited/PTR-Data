@@ -1,0 +1,33 @@
+{
+  "name": "Instruction",
+  "system": {
+    "name": "Instruction",
+    "origin": "",
+    "effect": "Whenever you aid an ally in an Assisted Skill Check using an Education Skill you have at Novice Rank or higher, add your full Rank value as a bonus to their roll instead of half.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Novice General Education",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953820,
+    "modifiedTime": 1683367977216,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "7ipgmPobmlKbY65X",
+  "_key": "!items!7ipgmPobmlKbY65X"
+}

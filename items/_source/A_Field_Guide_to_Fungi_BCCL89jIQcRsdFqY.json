@@ -1,0 +1,50 @@
+{
+  "name": "A Field Guide to Fungi",
+  "system": {
+    "origin": "",
+    "effect": "This book tells you which mushrooms are good to eat and which ones will give you a bad trip.\n\nRank 1 - Novice Survival: You automatically identify all Tiny Mushrooms, Big Mushrooms, and Balm Mushrooms you pick. Whenever you or your Pokémon consume one of those Mushrooms, they ignore the negative effect of the Mushroom (Hit Point loss, Poison, Combat Stage loss).\nRank 2 - Adept Survival: You can create the Hearty Meal Chef Recipe as an Extended Action but only by using Mushrooms as ingredients.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.284Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "1000",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "A Field Guide to Fungi",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368802170,
+    "modifiedTime": 1692170822294,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "BCCL89jIQcRsdFqY",
+  "_key": "!items!BCCL89jIQcRsdFqY"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Oceanic Feeling",
+  "system": {
+    "name": "Oceanic Feeling",
+    "origin": "",
+    "effect": "You may activate Oceanic Feeling when either Wash Away or Storm Drain would be triggered to gain that Ability for 1 full round, if you do not already have it, and immediately Trigger it. Activating an Ability this way ignores its usual Frequency. You may use each Ability once per Scene this way.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Water's Shroud, Master Athletics or Acrobatics",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.pbHOTB487x8kSjJK"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079111,
+    "modifiedTime": 1683383583216,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "HBVEtyuPbPitqhq2",
+  "_key": "!items!HBVEtyuPbPitqhq2"
+}

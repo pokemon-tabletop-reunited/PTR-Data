@@ -1,0 +1,40 @@
+{
+  "name": "Encore Performance",
+  "system": {
+    "name": "Encore Performance",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon uses a Status-Class move that does not target foes.\nEffect: Choose one of the following.\n»» Your Pokémon gains +1 Combat Stage in any Stat in which they haven’t gained a Combat Stage this turn.\n»» Your Pokémon gains a second Standard Action this round that must be used to make an At-Will action that does not trigger Encore Performance.\n»» If your Pokémon is placing Hazards, they may place an additional two units.\n»» If your Pokémon is activating a Weather Effect, it lasts an additional two turns.\n»» If your Pokémon is activating a Blessing, it gains one additional use.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "3 Trickster Features, Expert Guile",
+    "frequency": "Daily x3 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.mybugOoQGbqqq6ga"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084416,
+    "modifiedTime": 1683383583163,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "brtLzTT7CiyD5vCt",
+  "_key": "!items!brtLzTT7CiyD5vCt"
+}

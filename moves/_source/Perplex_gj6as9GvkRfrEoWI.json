@@ -1,0 +1,52 @@
+{
+  "name": "Perplex",
+  "type": "move",
+  "flags": {},
+  "effects": [],
+  "_id": "gj6as9GvkRfrEoWI",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "If the target is Confused, Perplexs Damage Base is increased to Damage Base 13 (4d10+10 / 35).",
+    "rules": [],
+    "slug": null,
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Psychic",
+    "category": "Special",
+    "damageBase": "7",
+    "frequency": "Scene x2",
+    "ac": "2",
+    "range": "6, 1 Target",
+    "contestType": "Smart",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/types2/PsychicIC_Icon.png",
+  "folder": "CKiVqPT3ASdUeaM0",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606523899,
+    "modifiedTime": 1689606577014,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!gj6as9GvkRfrEoWI"
+}

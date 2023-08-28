@@ -1,0 +1,40 @@
+{
+  "name": "Nature's Embrace Rank 2",
+  "system": {
+    "name": "Nature's Embrace Rank 2",
+    "origin": "",
+    "effect": "You learn 2 Moves chosen from the list below, marked with the Rank of this Feature you are gaining or lower.  Moves marked with an Oath require that Oath to be chosen.\nRank 2 Moves: Aromatherapy(Flower), Energy Ball, Giga Drain(Fungal), Magical Leaf, Seed Bomb, Spiky Shield(Wood)",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Adept Survival or General Education",
+    "frequency": "Static",
+    "tags": "[Ranked 3]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.GGp7bCPSWhN4LeO9"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078990,
+    "modifiedTime": 1683383582491,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "VhI0f8vMN7c6SQOg",
+  "_key": "!items!VhI0f8vMN7c6SQOg"
+}

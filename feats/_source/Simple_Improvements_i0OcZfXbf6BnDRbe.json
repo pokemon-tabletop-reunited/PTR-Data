@@ -1,0 +1,40 @@
+{
+  "name": "Simple Improvements",
+  "system": {
+    "name": "Simple Improvements",
+    "origin": "",
+    "effect": "Trigger - Your Normal-Type Pokémon gains Initiative\nEffect: Add your Type-Linked Skill Rank to all of your Pokémon’s rolls this turn. Your Pokémon gains Temporary Hit Points equal to twice your Type-Linked Skill Rank. Simple Improvements may only be used once per Scene per Pokémon.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Extra Ordinary, Type-Linked Skill at Master",
+    "frequency": "Daily x3 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.i4ht1fDIDbIPXlEE"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079314,
+    "modifiedTime": 1683383583029,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "i0OcZfXbf6BnDRbe",
+  "_key": "!items!i0OcZfXbf6BnDRbe"
+}

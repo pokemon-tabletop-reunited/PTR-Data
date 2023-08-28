@@ -1,0 +1,40 @@
+{
+  "name": "Breadth of Knowledge",
+  "system": {
+    "name": "Breadth of Knowledge",
+    "origin": "",
+    "effect": "You gain three Edges for which you qualify. These Edges must be used to gain a Skill Edge with an Education Skill, or to gain an Edge that has an Education Skill as a Prerequisite that you meet.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Novice General Education",
+    "frequency": "Static",
+    "tags": "[General Research Field][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.4BAdElU7JB0d0Lqu"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081687,
+    "modifiedTime": 1683383582209,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "tORZlZYtBM9qInYV",
+  "_key": "!items!tORZlZYtBM9qInYV"
+}

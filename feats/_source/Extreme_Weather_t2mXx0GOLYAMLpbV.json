@@ -1,0 +1,40 @@
+{
+  "name": "Extreme Weather",
+  "system": {
+    "name": "Extreme Weather",
+    "origin": "",
+    "effect": "Trigger: You or your Pokémon create a Weather Condition\nEffect: The Weather is particularly intense and has additional effects.\n»» Hail: All Trainers and Pokémon that take Hail Damage take a -5 Penalty to all Damage Rolls.\n»» Rain: All Trainers and Pokémon that are not Water or Grass typed can only take Standard OR Shift Action during their turns, but not both.\n»» Sandstorm: All Trainers and Pokémon that take Sandstorm damage take a -2 Penalty to Accuracy Rolls.\n»» Sun: Trainers and Pokémon that are not Fire or Grass Typed can only use At-Will and EOT Frequency Moves.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Climate Control, Master Survival",
+    "frequency": "Daily x3 - Free Action",
+    "tags": "[Climatology Research Field][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.4e5JtuB8izrybKNc"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081744,
+    "modifiedTime": 1683383582221,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "t2mXx0GOLYAMLpbV",
+  "_key": "!items!t2mXx0GOLYAMLpbV"
+}

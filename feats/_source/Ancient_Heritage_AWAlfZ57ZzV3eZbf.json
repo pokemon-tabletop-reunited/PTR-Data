@@ -1,0 +1,40 @@
+{
+  "name": "Ancient Heritage",
+  "system": {
+    "name": "Ancient Heritage",
+    "origin": "",
+    "effect": "Target: Your Fossil Pokémon with at least 2 Tutor Points remaining\nEffect: The target loses 2 Tutor Points and learns Ancient Power. If the target has Ancient Power in its Level-Up List, Ancient Heritage costs no Tutor Points. As a static effect, whenever your Pokémon use Ancient Power, its activated effect occurs on 18+ and you may always choose whether it deals Physical or Special Damage, using the appropriate attack Stat.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Fossil Restoration",
+    "frequency": "At-Will - Extended Action",
+    "tags": "[Paleontology Research Field][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.6FvoizmVRfcRFTJ6"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079002,
+    "modifiedTime": 1683383582260,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "AWAlfZ57ZzV3eZbf",
+  "_key": "!items!AWAlfZ57ZzV3eZbf"
+}

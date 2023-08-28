@@ -1,0 +1,40 @@
+{
+  "name": "Fishbowl Technique",
+  "system": {
+    "name": "Fishbowl Technique",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: While this Stratagem is bound, your Pokémon may activate Moves and Abilities as if they were in Rainy Weather.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Flood!, Type-Linked Skill at Adept",
+    "frequency": "Bind 2 AP - Standard Action",
+    "tags": "[Orders][Stratagem]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.d0pSMMncHxcwSelE"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078895,
+    "modifiedTime": 1683383582936,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "b6vGcWGYNs7fMHYX",
+  "_key": "!items!b6vGcWGYNs7fMHYX"
+}

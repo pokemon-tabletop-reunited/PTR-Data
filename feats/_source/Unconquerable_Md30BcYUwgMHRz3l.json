@@ -1,0 +1,40 @@
+{
+  "name": "Unconquerable",
+  "system": {
+    "name": "Unconquerable",
+    "origin": "",
+    "effect": "Target: Your Dragon-Type Pokémon Effect: While this Feature is Bound, the target may roll a Save Check at the end of their turn. On 17+, they are cured of one of Burn, Confusion, Curse, Infatuation, Sleep, Paralysis, or Poison.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Tyrant's Roar, Type-Linked Skill at Expert",
+    "frequency": "Bind 2 AP - Free Action",
+    "tags": "[Orders][Stratagem]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.5wq3dvWGLBIYX5fg"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084398,
+    "modifiedTime": 1683383582249,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Md30BcYUwgMHRz3l",
+  "_key": "!items!Md30BcYUwgMHRz3l"
+}

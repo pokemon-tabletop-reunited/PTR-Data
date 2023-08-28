@@ -1,0 +1,40 @@
+{
+  "name": "Shadow Arms",
+  "system": {
+    "name": "Shadow Arms",
+    "origin": "",
+    "effect": "You learn the Moves Shadow Punch and Shadow Sneak. You may use these as Weapon Attacks when wielding Melee Weapons.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Apparition",
+    "frequency": "Static",
+    "tags": "[+Attack][Weapon]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.ABQ47YpqYsxZDS8E"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078902,
+    "modifiedTime": 1683383582344,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "jw0JLNRyJJX9zio9",
+  "_key": "!items!jw0JLNRyJJX9zio9"
+}

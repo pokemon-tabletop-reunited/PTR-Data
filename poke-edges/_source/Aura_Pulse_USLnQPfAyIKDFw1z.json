@@ -1,0 +1,32 @@
+{
+  "name": "Aura Pulse",
+  "system": {
+    "name": "Aura Pulse",
+    "origin": "",
+    "effect": "The Pokémon gains the Aura Pulse Capability.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Level 30, Aura Reading",
+    "cost": "2 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202702,
+    "modifiedTime": 1683369231441,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "USLnQPfAyIKDFw1z",
+  "_key": "!items!USLnQPfAyIKDFw1z"
+}

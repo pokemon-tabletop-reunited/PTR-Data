@@ -1,0 +1,40 @@
+{
+  "name": "Crash and Smash",
+  "system": {
+    "name": "Crash and Smash",
+    "origin": "",
+    "effect": "You learn the Moves Double Edge and Thrash. You may use these moves as a Weapon Attack when wielding Melee Weapons.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Frenzy, Expert Combat",
+    "frequency": "Static",
+    "tags": "[+HP][Weapon]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.alupmXT2ALEKV5oO"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084459,
+    "modifiedTime": 1683383582898,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "MWtJoxO87Y8MFvZ9",
+  "_key": "!items!MWtJoxO87Y8MFvZ9"
+}

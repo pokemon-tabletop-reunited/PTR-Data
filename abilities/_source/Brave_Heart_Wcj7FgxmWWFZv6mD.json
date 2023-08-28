@@ -1,0 +1,37 @@
+{
+  "name": "Brave Heart",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Trigger: A foe within 5 meters uses a Move or Ability to raise its Combat Stages\\nEffect: The user’s Attack raises by the same number of Combat Stages granted by the opponent’s Move or Ability",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Scene - Free Action",
+    "tier": ""
+  },
+  "_id": "Wcj7FgxmWWFZv6mD",
+  "effects": [],
+  "folder": null,
+  "sort": 27300000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!Wcj7FgxmWWFZv6mD"
+}

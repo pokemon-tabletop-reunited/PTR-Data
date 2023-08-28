@@ -1,0 +1,50 @@
+{
+  "name": "First Aid Manual",
+  "system": {
+    "origin": "",
+    "effect": "A training manual given to all EMTs.\n\nRank 1 - Novice Medicine Education: You gain a +10 Bonus to Medicine Education Checks made to use a First Aid Kit.\nRank 2 - Expert Medicine Education: You may use the First Aid Expertise Feature once per day.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.370Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "1000",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "First Aid Manual",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368807365,
+    "modifiedTime": 1692170822390,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "MPD8ZrLpnRmtUHYI",
+  "_key": "!items!MPD8ZrLpnRmtUHYI"
+}

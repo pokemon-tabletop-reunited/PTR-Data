@@ -1,0 +1,40 @@
+{
+  "name": "The Power of Aura Rank 2",
+  "system": {
+    "name": "The Power of Aura Rank 2",
+    "origin": "",
+    "effect": "You gain whichever Ability you did not choose for Rank 1.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Aura Guardian, Expert Intuition",
+    "frequency": "Static",
+    "tags": "[+Attack or Special Attack][Ranked 2]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.iPtuMA94LwapGCVj"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079158,
+    "modifiedTime": 1683383583039,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "0R8IE7Txbh8elc4m",
+  "_key": "!items!0R8IE7Txbh8elc4m"
+}

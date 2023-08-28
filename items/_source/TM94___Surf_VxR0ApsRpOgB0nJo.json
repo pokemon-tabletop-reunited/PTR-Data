@@ -1,0 +1,41 @@
+{
+  "name": "TM94 - Surf",
+  "type": "item",
+  "system": {
+    "origin": "",
+    "effect": "As a Shift Action, the user may Move to any open square in Surf 's area of effect without provoking any Attacks of Opportunity.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "quantity": 1,
+    "category": "",
+    "cost": null,
+    "consumable": true,
+    "subtype": "",
+    "container": false
+  },
+  "_id": "VxR0ApsRpOgB0nJo",
+  "img": "systems/ptu/static/images/item_icons/tm.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692967648964,
+    "modifiedTime": 1692967649921,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!VxR0ApsRpOgB0nJo"
+}

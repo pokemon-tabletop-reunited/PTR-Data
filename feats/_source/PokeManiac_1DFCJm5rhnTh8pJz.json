@@ -1,0 +1,42 @@
+{
+  "name": "PokeManiac",
+  "system": {
+    "name": "PokeManiac",
+    "origin": "",
+    "effect": "Target: A Pokémon\nEffect: Make a Pokemon Education Check with a DC of 10. If you succeed, you determine the target’s Level, Types, Nature, and Abilities.",
+    "rules": [],
+    "slug": "",
+    "automation": [],
+    "prerequisites": "Adept Pokémon Education",
+    "frequency": "At-Will - Standard Action",
+    "tags": "-",
+    "notes": "",
+    "free": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.jNs18hf0sXd676RZ"
+    }
+  },
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.8",
+    "coreVersion": "11.300",
+    "createdTime": 1683368081691,
+    "modifiedTime": 1688722340625,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "1DFCJm5rhnTh8pJz",
+  "_key": "!items!1DFCJm5rhnTh8pJz"
+}

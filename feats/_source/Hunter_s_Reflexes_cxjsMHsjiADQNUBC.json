@@ -1,0 +1,40 @@
+{
+  "name": "Hunter's Reflexes",
+  "system": {
+    "name": "Hunter's Reflexes",
+    "origin": "",
+    "effect": "You and your Pokémon may make up to three Attacks of Opportunity each round, instead of only one. Additionally, your attacks always consider you to be adjacent to your target for the purposes of benefiting from your Pokémon’s Teamwork Ability, and count as Melee attacks for the purposes of triggering their Pack Hunt Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Hunter, Adept Stealth or Survival",
+    "frequency": "Static",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.BfLPRHuN3cb55Jt6"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078872,
+    "modifiedTime": 1683383582388,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "cxjsMHsjiADQNUBC",
+  "_key": "!items!cxjsMHsjiADQNUBC"
+}

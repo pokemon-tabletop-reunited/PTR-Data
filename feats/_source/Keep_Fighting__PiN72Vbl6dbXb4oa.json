@@ -1,0 +1,40 @@
+{
+  "name": "Keep Fighting!",
+  "system": {
+    "name": "Keep Fighting!",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon or an Ally Trainer with over 1 Hit Point is reduced to 0 Hit Points or lower: \nEffect: That Ally’s Hit Point count is reduced to 1 instead, and then gains Temporary Hit Points equal to your charm rank doubled.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "5 Cheerleader Features, Master Charm",
+    "frequency": "Daily x2 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.j2tBqOs2lWBipbU5"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079125,
+    "modifiedTime": 1683383583053,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "PiN72Vbl6dbXb4oa",
+  "_key": "!items!PiN72Vbl6dbXb4oa"
+}

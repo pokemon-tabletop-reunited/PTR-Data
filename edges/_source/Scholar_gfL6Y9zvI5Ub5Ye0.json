@@ -1,0 +1,33 @@
+{
+  "name": "Scholar",
+  "system": {
+    "name": "Scholar",
+    "origin": "",
+    "effect": "You gain a +1 Bonus to Skill Checks with General Education, Medicine Education, Occult Education, Pokémon Education, Technology Education, and Survival.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Expert General Education",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953797,
+    "modifiedTime": 1683367977180,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "gfL6Y9zvI5Ub5Ye0",
+  "_key": "!items!gfL6Y9zvI5Ub5Ye0"
+}

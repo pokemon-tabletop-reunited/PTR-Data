@@ -1,0 +1,41 @@
+{
+  "name": "TM70 - Aurora Veil",
+  "type": "item",
+  "system": {
+    "origin": "",
+    "effect": "Blessing - Any user affected by Aurora Veil may activate it when receiving Damage to resist the Damage one step. Aurora Veil may be activated 2 times, and then disappears. \\nSpecial - Auora Veil can only be used when the user is in Hailing Weather. The Blessings persist even after Hailing Weather has ended, however.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "quantity": 1,
+    "category": "",
+    "cost": null,
+    "consumable": true,
+    "subtype": "",
+    "container": false
+  },
+  "_id": "qmBIECfNhw4N4j3v",
+  "img": "systems/ptu/static/images/item_icons/tm.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692967648964,
+    "modifiedTime": 1692967649726,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!qmBIECfNhw4N4j3v"
+}

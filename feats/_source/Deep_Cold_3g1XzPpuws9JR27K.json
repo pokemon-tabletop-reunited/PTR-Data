@@ -1,0 +1,40 @@
+{
+  "name": "Deep Cold",
+  "system": {
+    "name": "Deep Cold",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon hits with a damaging Ice-Type Move\nEffect: The target is Frozen, and has their Attack, Special Attack, and Speed Combat Stages lowered by 1 each. The target is automatically cured of the Frozen Condition after 1 full round. A foe may be affected by Deep Cold only once per Scene.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Glacial Ice, Type-Linked Skill at Master",
+    "frequency": "Daily x3 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.1XBAHfWi3XahMNDM"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084387,
+    "modifiedTime": 1683383582148,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "3g1XzPpuws9JR27K",
+  "_key": "!items!3g1XzPpuws9JR27K"
+}

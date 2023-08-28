@@ -1,0 +1,40 @@
+{
+  "name": "Juggler",
+  "system": {
+    "name": "Juggler",
+    "origin": "",
+    "effect": "Using Quick Switch costs only 1 AP. Whenever you send a Pokémon into an encounter from a Poké Ball, they receive a +10 bonus to their Initiative during that round.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Quick Switch, Novice Acrobatics, Novice Guile",
+    "frequency": "Static",
+    "tags": "[Class][+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.rHuUAZIXXsUuW8NB"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079283,
+    "modifiedTime": 1683383583259,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "9zJt6jQeNcNmhYAp",
+  "_key": "!items!9zJt6jQeNcNmhYAp"
+}

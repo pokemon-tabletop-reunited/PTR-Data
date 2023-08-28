@@ -1,0 +1,39 @@
+{
+  "name": "Work Up",
+  "system": {
+    "origin": "",
+    "effect": "You learn the Move Work Up.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "prerequisites": "Adept Focus",
+    "notes": "",
+    "free": false,
+    "name": "Work Up",
+    "useCount": 0
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.7",
+    "coreVersion": "11.307",
+    "createdTime": 1683367953780,
+    "modifiedTime": 1692279029178,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "ZEltp0IeNeKLyc22",
+  "_key": "!items!ZEltp0IeNeKLyc22"
+}

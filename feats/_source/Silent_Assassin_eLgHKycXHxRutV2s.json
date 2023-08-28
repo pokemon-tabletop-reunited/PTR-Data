@@ -1,0 +1,40 @@
+{
+  "name": "Silent Assassin",
+  "system": {
+    "name": "Silent Assassin",
+    "origin": "",
+    "effect": "While this Feature is Bound, your Struggle Attacks and Weapon Attacks deal Ghost-Type Damage, and you gain the Dead Silent Capability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Apparition, Adept Intimidate or Occult Education",
+    "frequency": "Bind 2 AP - Standard Action",
+    "tags": "[+Attack][Weapon]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.nQFoRYgs7igcng47"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084458,
+    "modifiedTime": 1683383583176,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "eLgHKycXHxRutV2s",
+  "_key": "!items!eLgHKycXHxRutV2s"
+}

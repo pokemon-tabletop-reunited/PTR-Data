@@ -1,0 +1,40 @@
+{
+  "name": "Overwatch",
+  "system": {
+    "name": "Overwatch",
+    "origin": "",
+    "effect": "Create a Line X, and place a Blast 3 with at least three meters overlapping the Line’s area. X is equal to your Weapon’s Range. For one full round, if a foe moves in or out of that area, you may make a Ranged Weapon attack, Frequency allowing, against that foe as a Free Action. You may not attack a specific foe more than once per round this way. While this is in effect, if you Move from your current location, Overwatch’s effect is lost.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Marksman, Adept Perception or Combat",
+    "frequency": "At-Will – Standard Action",
+    "tags": "[+Attack][Weapon]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.S10PiEB5eTIQfG8o"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079330,
+    "modifiedTime": 1683383582766,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "IXxK2iqMarOmc2P5",
+  "_key": "!items!IXxK2iqMarOmc2P5"
+}

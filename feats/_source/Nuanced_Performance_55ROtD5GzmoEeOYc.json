@@ -1,0 +1,40 @@
+{
+  "name": "Nuanced Performance",
+  "system": {
+    "name": "Nuanced Performance",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon miss all targets with a Move\nEffect: That Move’s Frequency is not expended. This does not work with Moves that may fail to activate, such as moves with the Execute keyword.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Coordinator, Expert Charm, Command, Guile, Intimidate, or Intuition",
+    "frequency": "1 AP - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.QkC66o44fpDMbkSv"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079339,
+    "modifiedTime": 1683383582739,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "55ROtD5GzmoEeOYc",
+  "_key": "!items!55ROtD5GzmoEeOYc"
+}

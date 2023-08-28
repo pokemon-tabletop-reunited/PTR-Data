@@ -1,0 +1,40 @@
+{
+  "name": "Sunlight Within",
+  "system": {
+    "name": "Sunlight Within",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: While this Stratagem is bound, your Pokémon may activate Moves and Abilities as if they were in Sunny Weather.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Foiling Foliage, Type-Linked Skill at Adept",
+    "frequency": "Bind 2 AP - Standard Action",
+    "tags": "[Orders][Stratagem]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.3gRWfkb6vZkq2mnV"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079145,
+    "modifiedTime": 1683383582196,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "CbiMm0mwqXtKhAbv",
+  "_key": "!items!CbiMm0mwqXtKhAbv"
+}

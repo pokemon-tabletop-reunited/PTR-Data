@@ -1,0 +1,50 @@
+{
+  "name": "Shell Bell",
+  "system": {
+    "origin": "",
+    "effect": "Whenever the user damages a foe, they gain a Tick of Temporary Hit Points. Accessory Item for Trainers.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.405Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "5200",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Shell Bell",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368782866,
+    "modifiedTime": 1692170822414,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "REwUCdGpH2Wkv1FZ",
+  "_key": "!items!REwUCdGpH2Wkv1FZ"
+}

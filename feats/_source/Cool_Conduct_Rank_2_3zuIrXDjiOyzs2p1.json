@@ -1,0 +1,40 @@
+{
+  "name": "Cool Conduct Rank 2",
+  "system": {
+    "name": "Cool Conduct Rank 2",
+    "origin": "",
+    "effect": "Your Pokémon with at least 3d6 in their Cool Stat from Poffins may activate Cool Conduct as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves.\nRank 2: Roar, Double Team",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Expert Command",
+    "frequency": "1 AP – Special",
+    "tags": "[Ranked 2]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.tje5QeZKBM0beH8w"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084460,
+    "modifiedTime": 1683383583305,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "3zuIrXDjiOyzs2p1",
+  "_key": "!items!3zuIrXDjiOyzs2p1"
+}

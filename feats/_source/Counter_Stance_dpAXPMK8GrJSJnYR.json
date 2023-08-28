@@ -1,0 +1,40 @@
+{
+  "name": "Counter Stance",
+  "system": {
+    "name": "Counter Stance",
+    "origin": "",
+    "effect": "Trigger - An adjacent foe misses you with an attack\nEffect: You perform an Attack of Opportunity against them.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Skirmisher",
+    "frequency": "At-Will - Free Action - Interrupt",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.ujTalM6tlpNl9qo3"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078985,
+    "modifiedTime": 1683383583767,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "dpAXPMK8GrJSJnYR",
+  "_key": "!items!dpAXPMK8GrJSJnYR"
+}

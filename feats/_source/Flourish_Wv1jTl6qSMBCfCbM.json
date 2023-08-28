@@ -1,0 +1,40 @@
+{
+  "name": "Flourish",
+  "system": {
+    "name": "Flourish",
+    "origin": "",
+    "effect": "Your Pokémon’s Status-Class Moves that affect foes ignore non-Stat Evasion. They may Critically Hit like damaging Moves on a roll of 20. Upon such a Critical Hit, choose one effect from the list below. This Critical Hit rate may be modified as normal.\n»» If the Move inflicts a Status Affliction with a Save Check, all affected targets get a -4 penalty to their first Save Check.\n»» If the Move lowers Combat Stages, then pick a Stat that the Move lowers and lower it by 1 additional Combat Stage.\n»» Your Pokémon gains a Tick of Temporary Hit Points.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Trickster",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.wArkAFNNWhhncTeF"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084400,
+    "modifiedTime": 1683383583799,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Wv1jTl6qSMBCfCbM",
+  "_key": "!items!Wv1jTl6qSMBCfCbM"
+}

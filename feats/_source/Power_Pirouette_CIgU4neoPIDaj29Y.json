@@ -1,0 +1,40 @@
+{
+  "name": "Power Pirouette",
+  "system": {
+    "name": "Power Pirouette",
+    "origin": "",
+    "effect": "Trigger - You perform a Dance Move\nEffect: Choose one effect:\n»» All adjacent targets are Confused.\n»» You gain +1 Combat Stage to a Stat of your choice not raised by the triggering Move.\n»» Destroy all Hazards within 5 meters, and remove Leech Seed, Trapped, and Stuck from yourself.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Dance Form; Expert Acrobatics, Athletics, or Charm",
+    "frequency": "Scene x2 - Swift Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.I1cO7zNLtpTGruHs"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079170,
+    "modifiedTime": 1683383582516,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "CIgU4neoPIDaj29Y",
+  "_key": "!items!CIgU4neoPIDaj29Y"
+}

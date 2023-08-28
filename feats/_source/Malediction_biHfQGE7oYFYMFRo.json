@@ -1,0 +1,40 @@
+{
+  "name": "Malediction",
+  "system": {
+    "name": "Malediction",
+    "origin": "",
+    "effect": "Trigger - A foe within 5 meters misses all targets with an attack\nEffect: Use a Status-Class Move gained from Hex Maniac Studies targeting the triggering foe as a Free Action, Frequency-permitting.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Hex Maniax Studies Rank 1, Expert Occult Education",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "[+HP]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.1gaFbcyXnu0wb6Cx"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081789,
+    "modifiedTime": 1683383582155,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "biHfQGE7oYFYMFRo",
+  "_key": "!items!biHfQGE7oYFYMFRo"
+}

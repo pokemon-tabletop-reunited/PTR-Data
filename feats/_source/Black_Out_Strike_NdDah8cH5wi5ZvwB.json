@@ -1,0 +1,40 @@
+{
+  "name": "Black-Out Strike",
+  "system": {
+    "name": "Black-Out Strike",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon hits with a damaging Dark- Type Move\nEffect: After the triggering attack is resolved, the target of the attack gains an Injury and falls asleep. If this attack would put them are 3 or more injuries or at or under 25% of their maximum Hit Points, the target instead becomes Fainted. Black-Out Strike may be used only once per Scene.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Clever Ruse, Type-Linked Skill at Master",
+    "frequency": "Daily x3 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.CMpDOi83VshRg4cD"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079115,
+    "modifiedTime": 1683383582403,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "NdDah8cH5wi5ZvwB",
+  "_key": "!items!NdDah8cH5wi5ZvwB"
+}

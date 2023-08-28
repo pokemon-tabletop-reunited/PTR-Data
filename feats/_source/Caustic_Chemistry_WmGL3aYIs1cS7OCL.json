@@ -1,0 +1,40 @@
+{
+  "name": "Caustic Chemistry",
+  "system": {
+    "name": "Caustic Chemistry",
+    "origin": "",
+    "effect": "Trigger - You hit with a Pester Ball or apply a Repel to a Pokémon\nEffect: Make a Technology Education Roll. All targets affected by this Feature’s trigger lose Hit Points equal to your roll. This may only affect a target once per Scene.\nRecipe - Pester Balls: Shut Down",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Chemist, Expert Technology Education",
+    "frequency": "1 AP - Swift Action",
+    "tags": "[Chemistry Research Field][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.CKfdF33jSu9HnHHM"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078969,
+    "modifiedTime": 1683383582402,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "WmGL3aYIs1cS7OCL",
+  "_key": "!items!WmGL3aYIs1cS7OCL"
+}

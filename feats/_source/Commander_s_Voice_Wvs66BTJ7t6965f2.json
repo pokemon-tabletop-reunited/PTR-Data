@@ -1,0 +1,42 @@
+{
+  "name": "Commander's Voice",
+  "system": {
+    "name": "Commander's Voice",
+    "origin": "",
+    "effect": "You may give two different [Orders] as a single Standard Action, or you may give one set of [Orders] as a Swift Action.\nSpecial - If this is used to use Focused Command and another [Order] that has targets, the second Order applies to both Pokémon you are commanding that turn. Commander’s Voice doesn’t allow you to use Focused Command as a Swift Action.",
+    "rules": [],
+    "slug": "",
+    "automation": [],
+    "prerequisites": "Two Features with the [Orders] tag",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.L68Ip2AtQwVbirJa"
+    }
+  },
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.8",
+    "coreVersion": "11.300",
+    "createdTime": 1683368078901,
+    "modifiedTime": 1688722226001,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Wvs66BTJ7t6965f2",
+  "_key": "!items!Wvs66BTJ7t6965f2"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Shadow Meld",
+  "type": "capability",
+  "img": "/systems/ptu/css/images/icons/capability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Gengar can melt into shadows to remain unseen as a Standard Action. While doing so, Gengar receives a +4 bonus to Stealth rolls, gains +1 to its evasion, and can travel along a surface as if completely flat. Gengar may also “ride” along on a living creature’s shadow, moving along with it as the creature moves. Gengar may not use Standard Actions while melded into shadow. Reforming is a Shift Action.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "eNlTKVakIiBf5xXg",
+  "effects": [],
+  "folder": null,
+  "sort": 8000000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693042188180,
+    "modifiedTime": 1693118851776,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!eNlTKVakIiBf5xXg"
+}

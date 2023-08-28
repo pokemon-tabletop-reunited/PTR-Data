@@ -1,0 +1,40 @@
+{
+  "name": "Pain Dampening",
+  "system": {
+    "name": "Pain Dampening",
+    "origin": "",
+    "effect": "Trigger - A Channeled Pokémon would be Fainted by a damaging attack\nEffect: Choose any number of Channeled Pokémon, which must include the triggering Pokémon. Instead\\\\ of resolving the attack normally, divide the damage from the attack by the number of chosen Pokémon. Each chosen Pokémon then loses that many Hit Points. For each chosen Pokémon that Resists or is Immune to the Type of the triggering attack, subtract your Intuition Rank from the damage of the attack before all calculations.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Channeler, Expert Intuition",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.fIGYmR4cwlnGexE4"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081766,
+    "modifiedTime": 1683383582964,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "jTNqVb9OV92jUIjV",
+  "_key": "!items!jTNqVb9OV92jUIjV"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Apothecary",
+  "system": {
+    "name": "Apothecary",
+    "origin": "",
+    "effect": "You may use any Apothecary Recipe for which you qualify.\nRecipe - Restorative Science",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Novice Medicine Education",
+    "frequency": "At-Will - Extended Action",
+    "tags": "[Apothecary Research Field][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.PUHkjW4cWIldOdB5"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079279,
+    "modifiedTime": 1683383582719,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "ky3sPKl5czZD8kfi",
+  "_key": "!items!ky3sPKl5czZD8kfi"
+}

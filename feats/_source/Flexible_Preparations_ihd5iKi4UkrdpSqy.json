@@ -1,0 +1,40 @@
+{
+  "name": "Flexible Preparations",
+  "system": {
+    "name": "Flexible Preparations",
+    "origin": "",
+    "effect": "Target: A Pokémon that has Contest Stats from Poffins\nEffect: The target may reallocate up to 2d6 of Poffin-Derived Contest Stats from one Contest Stat to another. This effect lasts until the end of the day.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Adaptable Performance, Adept Charm, Command, Guile, Intimidate, or Intuition",
+    "frequency": "Daily - Extended Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.783q4LLd4hRhEIL8"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079325,
+    "modifiedTime": 1683383582292,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "ihd5iKi4UkrdpSqy",
+  "_key": "!items!ihd5iKi4UkrdpSqy"
+}

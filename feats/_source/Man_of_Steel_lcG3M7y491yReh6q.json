@@ -1,0 +1,40 @@
+{
+  "name": "Man of Steel",
+  "system": {
+    "name": "Man of Steel",
+    "origin": "",
+    "effect": "You learn the Moves Meteor Mash and King’s Shield. You may use these Moves as Weapon Attacks when wielding Melee Weapons.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Steelheart, Master Athletics or Focus",
+    "frequency": "Static",
+    "tags": "[+Defense][Weapon]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.bxCVasp6K7hHn3dZ"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078874,
+    "modifiedTime": 1683383582915,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "lcG3M7y491yReh6q",
+  "_key": "!items!lcG3M7y491yReh6q"
+}

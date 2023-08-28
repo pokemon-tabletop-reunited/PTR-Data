@@ -1,0 +1,40 @@
+{
+  "name": "Glitch Burst",
+  "system": {
+    "name": "Glitch Burst",
+    "origin": "",
+    "effect": "Trigger - You hit with Topsy-Turvy or use another Glitch Bender Move\nEffect: Glitch Burst’s effect depends on the triggering Move.\n»» Disable: The target of Disable is also Suppressed.\n»» Snatch: Regain one use of a Glitch Bender Move. This may only affect each Move once per Scene.\n»» Metronome: Generate three random Moves instead of one, and choose which Move to use.\n»» Topsy-Turvy: The target of Topsy-Turvy becomes Confused. They are automatically cured The Glitch Pokémon of this Confusion at the end of their next turn.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Glitch Shuffle, Master Focus, Occult Education, or Perception",
+    "frequency": "2 AP - Swift Action",
+    "tags": "[+Special Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.pJXdIarfvP4KRONb"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079231,
+    "modifiedTime": 1683383583211,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "1bm65cuemk5YAqkR",
+  "_key": "!items!1bm65cuemk5YAqkR"
+}

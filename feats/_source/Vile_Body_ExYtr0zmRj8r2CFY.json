@@ -1,0 +1,40 @@
+{
+  "name": "Vile Body",
+  "system": {
+    "name": "Vile Body",
+    "origin": "",
+    "effect": "Choose Absorb Force, Poison Point, or Poison Touch. You gain the chosen Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Adept Guile or Stealth",
+    "frequency": "Static",
+    "tags": "[+Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Aas80Z0Kd8TkHRBW"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081776,
+    "modifiedTime": 1683383582358,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "ExYtr0zmRj8r2CFY",
+  "_key": "!items!ExYtr0zmRj8r2CFY"
+}

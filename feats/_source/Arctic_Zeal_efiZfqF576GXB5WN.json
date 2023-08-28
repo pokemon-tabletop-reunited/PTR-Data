@@ -1,0 +1,40 @@
+{
+  "name": "Arctic Zeal",
+  "system": {
+    "name": "Arctic Zeal",
+    "origin": "",
+    "effect": "Trigger - Your Ice-Type Pokémon uses an Ice-Type Move\nEffect: Your Pokémon uses the Move Mist as if it were on their Move List. When used this way, in addition to its normal effects, your Ice-Type Pokémon may expend uses of the Mist Blessing to do the following:\n»» As a Swift Action on their turn to cause a foe within 5 meters to take a -5 penalty to Damage Rolls and become Slowed for one full round.\n»» As a Free Action when being hit by a Fighting, Fire, Rock, or Steel-Typed attack dealing Super-Effective Damage to add their Tick Value to their Damage Reduction gained from Glacial Ice.\n»» As a Swift Action on their turn to increase their Defense or Special Defense by 1 Combat Stage.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Glacial Ice, Type-Linked Skill at Expert",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.8wkj2NMffCBUso2H"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084411,
+    "modifiedTime": 1683383582326,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "efiZfqF576GXB5WN",
+  "_key": "!items!efiZfqF576GXB5WN"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Bounce Shot",
+  "system": {
+    "name": "Bounce Shot",
+    "origin": "",
+    "effect": "Trigger - You throw a Poké Ball\nEffect: After hitting its mark or landing, your Poké Ball bounces 3 meters in any direction. You may have your Poké Ball trigger captures or releases before or after the bounce.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Juggler",
+    "frequency": "At-Will - Free Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.ZiNZ9T6hhgqAgF3m"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079001,
+    "modifiedTime": 1683383582876,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "XBVDaENe09lypz4b",
+  "_key": "!items!XBVDaENe09lypz4b"
+}

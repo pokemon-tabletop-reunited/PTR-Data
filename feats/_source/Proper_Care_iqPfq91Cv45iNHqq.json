@@ -1,0 +1,40 @@
+{
+  "name": "Proper Care",
+  "system": {
+    "name": "Proper Care",
+    "origin": "",
+    "effect": "You gain additional bonuses to using Restoratives and Features while in a Field Clinic, Poke Center, Hospital, or other dedicated healing space that lets you access supplies.\n»» When you trigger First Aid Expertise here, the injury that is Removed does not count towards the total number of Injuries that may be removed each day.\n»» When you trigger Nurse here, Bandages cure 1 Injury after three hours, in addition the injury healed after 6 hours.\n»» All Restoratives heal an additional 5 Hit Points. This stacks with the bonus granted by Field Clinic.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "I'm a Doctor Rank 1, Field Clinic, Expert Medicine Education",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.LYjUHdZ2hy0d5rN6"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079029,
+    "modifiedTime": 1683383582609,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "iqPfq91Cv45iNHqq",
+  "_key": "!items!iqPfq91Cv45iNHqq"
+}

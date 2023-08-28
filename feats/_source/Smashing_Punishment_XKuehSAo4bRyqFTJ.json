@@ -1,0 +1,40 @@
+{
+  "name": "Smashing Punishment",
+  "system": {
+    "name": "Smashing Punishment",
+    "origin": "",
+    "effect": "Trigger - A Marked Foe provokes an Attack of Opportunity from your Fighting-Type Pokémon\nEffect: The Attack of Opportunity automatically hits, deals Fighting-Type Damage, and is a Critical Hit.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Close Quarters Mastery, Type-Linked Skill at Master",
+    "frequency": "Daily x3 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.clkdCnU66zOHuU5w"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079176,
+    "modifiedTime": 1683383582930,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "XKuehSAo4bRyqFTJ",
+  "_key": "!items!XKuehSAo4bRyqFTJ"
+}

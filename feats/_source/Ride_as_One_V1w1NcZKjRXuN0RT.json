@@ -1,0 +1,40 @@
+{
+  "name": "Ride as One",
+  "system": {
+    "name": "Ride as One",
+    "origin": "",
+    "effect": "While you are Mounted, you and your Mount each use the highest of each other’s Speed Evasion. If both you and your Mount have the same Speed Evasion, you instead each receive a +1 bonus to Speed Evasion. Whenever one of you receives Initiative, either of you may take your turn. When the next person would receive initiative, the person that did not take their turn then takes it.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Rider",
+    "frequency": "Static",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.YBElak5uykSN3z4o"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078863,
+    "modifiedTime": 1683383582861,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "V1w1NcZKjRXuN0RT",
+  "_key": "!items!V1w1NcZKjRXuN0RT"
+}

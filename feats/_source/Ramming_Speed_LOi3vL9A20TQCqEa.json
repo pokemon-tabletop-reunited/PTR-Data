@@ -1,0 +1,40 @@
+{
+  "name": "Ramming Speed",
+  "system": {
+    "name": "Ramming Speed",
+    "origin": "",
+    "effect": "Target: Your Pokémon with at least 2 Tutor Points\nEffect: The target loses 2 Tutor Points and gains the Rock Head Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Rider",
+    "frequency": "At-Will - Extended Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.i5fyCTmKl2SQUupb"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079273,
+    "modifiedTime": 1683383583030,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "LOi3vL9A20TQCqEa",
+  "_key": "!items!LOi3vL9A20TQCqEa"
+}

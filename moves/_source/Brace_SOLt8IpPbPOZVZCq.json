@@ -1,0 +1,52 @@
+{
+  "name": "Brace",
+  "type": "move",
+  "flags": {},
+  "effects": [],
+  "_id": "SOLt8IpPbPOZVZCq",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "The users Attack and Special Attack each gain -1 CS. The users Defense and Special Defense each gain +1 CS. The user is immune to Critical Hits until the end of its next turn.",
+    "rules": [],
+    "slug": null,
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Normal",
+    "category": "Status",
+    "damageBase": "--",
+    "frequency": "EOT",
+    "ac": "None",
+    "range": "Self",
+    "contestType": "Tough",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/types2/NormalIC_Icon.png",
+  "folder": "CKiVqPT3ASdUeaM0",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606523899,
+    "modifiedTime": 1689606577014,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!SOLt8IpPbPOZVZCq"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Raging Winds Rank 2",
+  "system": {
+    "name": "Raging Winds Rank 2",
+    "origin": "",
+    "effect": "You may learn two Moves from the list below, marked with the Raging Winds Rank you are gaining or lower.\nRank 2 Moves: Air Slash, Bounce, Defog, Feather Dance",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Expert Acrobatics or Perception",
+    "frequency": "Static",
+    "tags": "[Ranked 3][+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.pHOz9isG11NWvdN2"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081714,
+    "modifiedTime": 1683383583210,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "lxge7NPhHL4T09il",
+  "_key": "!items!lxge7NPhHL4T09il"
+}

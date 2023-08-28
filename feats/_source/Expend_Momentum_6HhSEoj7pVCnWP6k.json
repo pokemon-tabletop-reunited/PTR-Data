@@ -1,0 +1,40 @@
+{
+  "name": "Expend Momentum",
+  "system": {
+    "name": "Expend Momentum",
+    "origin": "",
+    "effect": "Target: Your Pokémon under the effects of Focused Training\nEffect: Apply one of the following effects on the target by spending that much Momentum.\n»» Spend 1 Momentum: Your Pokémon regains use of a EOT Frequency Move.\n»» Spend 2 Momentum: Your Pokémon automatically rolls an 11 on one d20 Roll of your choice on their next turn.\n»» Spend 3 Momentum: Your Pokémon regains a use of Scene Frequency Move. May be chosen only once per Scene per Pokémon.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Duelist",
+    "frequency": "At-Will - Standard Action",
+    "tags": "[Orders]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.HUTWxWTM3a8lzePS"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081765,
+    "modifiedTime": 1683383582511,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "6HhSEoj7pVCnWP6k",
+  "_key": "!items!6HhSEoj7pVCnWP6k"
+}

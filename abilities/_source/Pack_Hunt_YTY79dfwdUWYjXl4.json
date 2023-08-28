@@ -1,0 +1,37 @@
+{
+  "name": "Pack Hunt",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Trigger - An adjacent foe is damaged by an ally's Melee attack.\\nThe user may make a Physical Attack with an AC of 5 against the triggering foe. If the attack hits, the foe loses a Tick of Hit Points. Pack Hunt may not be triggered if the Pokémon is unable to act that round (including being uncommanded).",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "At Will - Free Action",
+    "tier": ""
+  },
+  "_id": "YTY79dfwdUWYjXl4",
+  "effects": [],
+  "folder": null,
+  "sort": 28800000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!YTY79dfwdUWYjXl4"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Disarm",
+  "type": "move",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "You and the target each make opposed Combat or Stealth checks. If you win, the target's Held Item (Main hand or Off-hand for humans) falls to the ground",
+    "snippet": "",
+    "useCount": 0,
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "type": "",
+    "category": "",
+    "damageBase": "",
+    "frequency": "",
+    "ac": 6,
+    "range": "Melee, 1 Target",
+    "contestType": "",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "action": "Standard",
+    "class": "Status"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.wQjOemD0MLVWwLas"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.0.0.7",
+    "coreVersion": "10.291",
+    "createdTime": 1673299563382,
+    "modifiedTime": 1673299588699,
+    "lastModifiedBy": "bcwIRl58QQYB1i5R"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "bcwIRl58QQYB1i5R": 3
+  },
+  "_id": "Sh5xpkv0W9OVpuFO",
+  "_key": "!items!Sh5xpkv0W9OVpuFO"
+}

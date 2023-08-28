@@ -1,0 +1,36 @@
+{
+  "name": "Team Player",
+  "type": "ability",
+  "flags": {},
+  "effects": [],
+  "_id": "nWTsw1Qk18WYJPo9",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "<b>Trigger</b>: An ally within 3m gains one or more Combat Stages from a Move or Ability\n<b>Effect</b>: The Ally gains an additional Combat Stage in one of the stats that a Combat Stage was gained in, and the user gains a Combat Stage in the same stat as the additional one that was granted to the ally.",
+    "rules": [],
+    "slug": null,
+    "automation": [],
+    "frequency": "Scene – Free Action",
+    "tier": "",
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "folder": "rmoa0NFMp7Td9R3R",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606908412,
+    "modifiedTime": 1689606925574,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!nWTsw1Qk18WYJPo9"
+}

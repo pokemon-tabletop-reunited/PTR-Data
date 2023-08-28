@@ -1,0 +1,50 @@
+{
+  "name": "Iron",
+  "system": {
+    "origin": "",
+    "effect": "Raise the user’s Defense Base Stat 1. You may only get use out of up to five Vitamins per Pokémon.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.441Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "4900",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Iron",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "systems/ptu/images/item_icons/iron.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368799148,
+    "modifiedTime": 1692170822449,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "dXAbrFgm65yJOY2n",
+  "_key": "!items!dXAbrFgm65yJOY2n"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Space Distortion",
+  "system": {
+    "name": "Space Distortion",
+    "origin": "",
+    "effect": "You learn the Moves Teleport and Ally Switch.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Warper",
+    "frequency": "Static",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.k00tSszGXqCtnD6s"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081747,
+    "modifiedTime": 1683383583091,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "zGUatyiTP9Tkh1YM",
+  "_key": "!items!zGUatyiTP9Tkh1YM"
+}

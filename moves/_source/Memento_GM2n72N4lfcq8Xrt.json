@@ -1,0 +1,53 @@
+{
+  "name": "Memento",
+  "type": "move",
+  "img": "/systems/ptu/css/images/types2/DarkIC_Icon.png",
+  "folder": "lWQOqDm2AOGwGM16",
+  "system": {
+    "origin": "",
+    "effect": "Memento may be used as a Free Action that does not consume a Command action when the user becomes Fainted. Lower each of the target's stats by 2 Combat Stages.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Dark",
+    "category": "Status",
+    "damageBase": "--",
+    "frequency": "Scene",
+    "ac": "--",
+    "range": "8, 1 Target, Trigger, Free Action",
+    "contestType": "Tough - Big Show",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "_id": "GM2n72N4lfcq8Xrt",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692963260348,
+    "modifiedTime": 1692966135854,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!GM2n72N4lfcq8Xrt"
+}

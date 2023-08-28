@@ -1,0 +1,37 @@
+{
+  "name": "Dancer",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Trigger - Someone within 10 meters uses a Status-Class Move with the Dance Keyword, or a Dancer's Dance Move\\nThe user may immediately use the triggering Move as a Free Action.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Scene x2 - Free Action",
+    "tier": ""
+  },
+  "_id": "VqZi7F0M1qGlK8t0",
+  "effects": [],
+  "folder": null,
+  "sort": 26200000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!VqZi7F0M1qGlK8t0"
+}

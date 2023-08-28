@@ -1,0 +1,40 @@
+{
+  "name": "Finisher",
+  "system": {
+    "name": "Finisher",
+    "origin": "",
+    "effect": "You and your Pokémon gain a +5 bonus to Damage Rolls against Fainted, Flinched, Sleeping, Stuck, Slowed, Trapped, or Tripped targets.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Hunter, Adept Stealth, Adept Survival",
+    "frequency": "Static",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.zx1hSuaQ2W75EqPe"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078862,
+    "modifiedTime": 1683383583850,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Ir8GAoICAzK6hT8h",
+  "_key": "!items!Ir8GAoICAzK6hT8h"
+}

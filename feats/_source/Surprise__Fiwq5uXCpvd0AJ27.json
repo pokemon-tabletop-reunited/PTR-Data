@@ -1,0 +1,40 @@
+{
+  "name": "Surprise!",
+  "system": {
+    "name": "Surprise!",
+    "origin": "",
+    "effect": "Trigger - You make an attack against a foe that does not anticipate an attack or is adjacent to your Pokémon with Pack Hunt or Teamwork\nEffect: Make two attack rolls for the triggering action, and use the better result to finalize the attack. If both attacks would hit, the target is Flinched. Surprise! may be used only once per Scene per target. If the triggering attack was a Poké Ball, Hand Net, Weighted Net, Glue Cannon, or Struggle Attack, Surprise! costs 1 AP to activate; otherwise, it costs 2 AP. If the triggering attack was a Cap Cannon, Surprise! costs 1 AP to activate.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Hunter, Adept Stealth or Survival",
+    "frequency": "X AP - Swift Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.8Hj2ljSFjxHyleYn"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079340,
+    "modifiedTime": 1683383582318,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Fiwq5uXCpvd0AJ27",
+  "_key": "!items!Fiwq5uXCpvd0AJ27"
+}

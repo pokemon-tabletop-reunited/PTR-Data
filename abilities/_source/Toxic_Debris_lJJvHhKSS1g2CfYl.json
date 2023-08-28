@@ -1,0 +1,39 @@
+{
+  "name": "Toxic Debris",
+  "type": "ability",
+  "img": "/systems/ptu/static/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "When this Pokemon takes Physical damage, it may use Toxic Spikes are a Reaction as if it was on it's movelist.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Scene x2 - Free Action",
+    "tier": ""
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1693041250760,
+    "modifiedTime": 1693041310324,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "lJJvHhKSS1g2CfYl",
+  "sort": 0,
+  "_key": "!items!lJJvHhKSS1g2CfYl"
+}

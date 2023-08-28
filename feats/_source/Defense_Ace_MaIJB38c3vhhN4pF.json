@@ -1,0 +1,40 @@
+{
+  "name": "Defense Ace",
+  "system": {
+    "name": "Defense Ace",
+    "origin": "",
+    "effect": "Your Pokémon have their Defense increased by +1, and by +1 more for every 10 Levels they have (for example, a Level 20 Pokémon would have Defense’s base value increased by +3). Additionally, your Pokémon may ignore Base Relations, as long as they are adding to Defense, and you do not need to “correct” Stats due to this inflated Defense Value.\n\nNote: You may take Stat Ace multiple times, choosing different Stats each time. If using Style Expert to qualify for Stat Ace, your Chosen Stat must be the Stat that correlates to your Chosen Contest Stat. Beauty is Special Attack, Cool is Attack, Cute is Speed, Smart is Special Defense, and Tough is Defense.  You may use the Stat in place of \"Stat\" in all Stat Ace features on this sheet, e.g. \"Attack Ace\" or \"Special Defense Link\".",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Ace Trainer or Style Expert, 1 Pokémon with Defense of 15 or more, Novice Command or Focus\nOr\n3 Pokémon with Defense at 20 or higher, Novice Command or Focus",
+    "frequency": "Static",
+    "tags": "[Class][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.NM3LfsJsS24lwpnP"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078899,
+    "modifiedTime": 1683383582637,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "MaIJB38c3vhhN4pF",
+  "_key": "!items!MaIJB38c3vhhN4pF"
+}

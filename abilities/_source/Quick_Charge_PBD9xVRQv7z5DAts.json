@@ -1,0 +1,36 @@
+{
+  "name": "Quick Charge",
+  "type": "ability",
+  "flags": {},
+  "effects": [],
+  "_id": "PBD9xVRQv7z5DAts",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "<b>Trigger</b>: A Round begins\n<b>Effect</b>: The user may take their turn at the top of the round. Priority, Interrupt, or Reaction Moves or Abilities cannot be declared in response to the user’s turn\n<b>Bonus</b>: The user’s Overland capability is increased by +2.",
+    "rules": [],
+    "slug": null,
+    "automation": [],
+    "frequency": "Scene – Free Action",
+    "tier": "",
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "folder": "rmoa0NFMp7Td9R3R",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606908412,
+    "modifiedTime": 1689606925574,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!PBD9xVRQv7z5DAts"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Seed Sower",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Trigger - This Pokemon is hit by a Physical Attack.\\nEffect - The Terrain becomes Grassy Terrain for 5 rounds.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Scene - Free Action, Reaction",
+    "tier": ""
+  },
+  "_id": "Nngt4ivwqsvnXksS",
+  "effects": [],
+  "folder": null,
+  "sort": 20300000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!Nngt4ivwqsvnXksS"
+}

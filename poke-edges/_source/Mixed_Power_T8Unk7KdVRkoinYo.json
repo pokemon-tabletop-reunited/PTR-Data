@@ -1,0 +1,32 @@
+{
+  "name": "Mixed Power",
+  "system": {
+    "name": "Mixed Power",
+    "origin": "",
+    "effect": "The user gains the Twisted Power Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Level 10, Invested at least 5 Level-Up Stat Points into both Attack and Special Attack",
+    "cost": "2 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202723,
+    "modifiedTime": 1683369231472,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "T8Unk7KdVRkoinYo",
+  "_key": "!items!T8Unk7KdVRkoinYo"
+}

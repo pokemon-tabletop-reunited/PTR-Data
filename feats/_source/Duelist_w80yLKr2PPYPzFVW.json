@@ -1,0 +1,40 @@
+{
+  "name": "Duelist",
+  "system": {
+    "name": "Duelist",
+    "origin": "",
+    "effect": "Target: A Pokémon or Trainer\nEffect: The Foe becomes Tagged; or if the foe is already Tagged, the foe loses the Tag. Only one foe can be Tagged this way at a time. If a new Foe is Tagged, all other Tags are lost. Your Pokémon under the effects of Focused Training gain half their Momentum (rounded up) as a Bonus to Accuracy and Evasion against Tagged Foes, but as long as a Foe is Tagged, they do not benefit from Focused Training’s Accuracy Bonus against other foes.  See Extras - Class Mechanics for Momentum details.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Focused Training, Novice Focus",
+    "frequency": "At-Will - Swift Action",
+    "tags": "[Class]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.s2aI8yrHypQXqkbE"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081689,
+    "modifiedTime": 1683383583270,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "w80yLKr2PPYPzFVW",
+  "_key": "!items!w80yLKr2PPYPzFVW"
+}

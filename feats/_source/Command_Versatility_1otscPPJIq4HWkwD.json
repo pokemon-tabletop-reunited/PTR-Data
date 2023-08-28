@@ -1,0 +1,42 @@
+{
+  "name": "Command Versatility",
+  "system": {
+    "name": "Command Versatility",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon takes its turn.\nEffect: Your Pokémon may give up use of a Scene or Daily Move to regain use of a Scene or Daily Move which it has already used. Your Pokémon may give up use of a Daily Move to regain use of a Scene Move, but not vice-versa. You may use Command Versatility only once per Scene per Pokémon.",
+    "rules": [],
+    "slug": "",
+    "automation": [],
+    "prerequisites": "Adept Command, Guile, or Pokémon Education",
+    "frequency": "1 AP - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Nujy6jDRBC6CU57o"
+    }
+  },
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.8",
+    "coreVersion": "11.300",
+    "createdTime": 1683368081706,
+    "modifiedTime": 1688722226547,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "1otscPPJIq4HWkwD",
+  "_key": "!items!1otscPPJIq4HWkwD"
+}

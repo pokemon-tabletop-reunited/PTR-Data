@@ -1,0 +1,50 @@
+{
+  "name": "Tamato Berry",
+  "system": {
+    "origin": "",
+    "effect": "Lowers Speed Base Stat by 1 when consumed, only if Pokémon’s trainer wishes it to. Tier 3.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.303Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "500",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Tamato Berry",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "systems/ptu/images/item_icons/tamato berry.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368840441,
+    "modifiedTime": 1692170822314,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "EG9PIafCznbKmjbK",
+  "_key": "!items!EG9PIafCznbKmjbK"
+}

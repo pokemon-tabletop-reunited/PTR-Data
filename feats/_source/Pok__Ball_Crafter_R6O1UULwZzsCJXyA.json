@@ -1,0 +1,40 @@
+{
+  "name": "Poké Ball Crafter",
+  "system": {
+    "name": "Poké Ball Crafter",
+    "origin": "",
+    "effect": "You may craft Dusk, Dive, Heal, Luxury, Net, Nest, Quick, Repeat, or Timer Balls for $700. Requires access to a Poké Ball Tool Box.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Basic Balls, Poké Ball Repair, Expert Technology Education",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.4jm4AYcFnGrcInjD"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079134,
+    "modifiedTime": 1683383582223,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "R6O1UULwZzsCJXyA",
+  "_key": "!items!R6O1UULwZzsCJXyA"
+}

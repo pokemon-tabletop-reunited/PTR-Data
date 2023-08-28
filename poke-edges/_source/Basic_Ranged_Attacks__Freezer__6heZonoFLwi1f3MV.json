@@ -1,0 +1,32 @@
+{
+  "name": "Basic Ranged Attacks (Freezer)",
+  "system": {
+    "name": "Basic Ranged Attacks (Freezer)",
+    "origin": "",
+    "effect": "Struggle Attacks modified by Freezer may now be made at a range of up to 6 meters.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Freezer",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202703,
+    "modifiedTime": 1683369231442,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "6heZonoFLwi1f3MV",
+  "_key": "!items!6heZonoFLwi1f3MV"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Lightning Kicks",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "The user may activate this Ability to use any Move with “Kick” in the name as a Priority Move, and gain a +4 Bonus to the attack’s Accuracy Roll.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Scene - Swift Action",
+    "tier": ""
+  },
+  "_id": "U1njFt3YcwCL0dNr",
+  "effects": [],
+  "folder": null,
+  "sort": 25000000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!U1njFt3YcwCL0dNr"
+}

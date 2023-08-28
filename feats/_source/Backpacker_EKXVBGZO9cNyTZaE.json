@@ -1,0 +1,40 @@
+{
+  "name": "Backpacker",
+  "system": {
+    "name": "Backpacker",
+    "origin": "",
+    "effect": "You gain the Skill Enhancement Edge. You then gain an instance of the Skill Stunt Edge for each of the two Skills you chose with Skill Enhancement.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Traveler",
+    "frequency": "Static",
+    "tags": "[Class][+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.7fTAIxHVsh0lQbiN"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081716,
+    "modifiedTime": 1683383582307,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "EKXVBGZO9cNyTZaE",
+  "_key": "!items!EKXVBGZO9cNyTZaE"
+}

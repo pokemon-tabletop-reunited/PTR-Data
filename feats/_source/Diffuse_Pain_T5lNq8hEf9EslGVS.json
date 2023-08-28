@@ -1,0 +1,40 @@
+{
+  "name": "Diffuse Pain",
+  "system": {
+    "name": "Diffuse Pain",
+    "origin": "",
+    "effect": "Trigger - You use a Status-Class Move gained from Hex Maniac Studies\nEffect: Choose an additional target for the Move.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Hex Maniac Studies Rank 1",
+    "frequency": "2 AP - Swift Action",
+    "tags": "[+HP]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.5rs7UEp6tukicpnM"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078971,
+    "modifiedTime": 1683383582243,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "T5lNq8hEf9EslGVS",
+  "_key": "!items!T5lNq8hEf9EslGVS"
+}

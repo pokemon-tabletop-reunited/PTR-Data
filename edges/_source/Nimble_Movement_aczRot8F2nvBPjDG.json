@@ -1,0 +1,33 @@
+{
+  "name": "Nimble Movement",
+  "system": {
+    "name": "Nimble Movement",
+    "origin": "",
+    "effect": "Whenever you Disengage, you Shift 2 meters instead of 1.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Adept Acrobatics or Stealth",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953780,
+    "modifiedTime": 1683367977156,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "aczRot8F2nvBPjDG",
+  "_key": "!items!aczRot8F2nvBPjDG"
+}

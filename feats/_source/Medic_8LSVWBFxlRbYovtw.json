@@ -1,0 +1,40 @@
+{
+  "name": "Medic",
+  "system": {
+    "name": "Medic",
+    "origin": "",
+    "effect": "You are always considered to have access to a First Aid Manual and a Combat Medic’s Primer, and are\n always considered to be Binding their Rank 1 Effects without actually using any AP.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Novice Medicine Education",
+    "frequency": "Static",
+    "tags": "[Class]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.fu8AyNtlE1NUUW6g"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078905,
+    "modifiedTime": 1683383582977,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "8LSVWBFxlRbYovtw",
+  "_key": "!items!8LSVWBFxlRbYovtw"
+}

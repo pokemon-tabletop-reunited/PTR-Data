@@ -1,0 +1,40 @@
+{
+  "name": "Godslayer",
+  "system": {
+    "name": "Godslayer",
+    "origin": "",
+    "effect": "You may attempt to shatter one of the target’s Legendary Auras. The AC of this action is 10. If you successfully disabled the Aura, but rolled a 10-15, the feedback from the action gives you an Injury.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Gm Permission",
+    "frequency": "EOT - Standard Action",
+    "tags": "[Patron Stat]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.EFfaYv65ddk0zrqx"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079267,
+    "modifiedTime": 1683383582445,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "gUEyA0axtWg8PVZF",
+  "_key": "!items!gUEyA0axtWg8PVZF"
+}

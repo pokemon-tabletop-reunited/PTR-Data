@@ -1,0 +1,40 @@
+{
+  "name": "Celerity",
+  "system": {
+    "name": "Celerity",
+    "origin": "",
+    "effect": "Target: A Flying-Type Pokémon, or a Pokémon with a Sky or Levitate Speed\nEffect: While this Feature is Bound, add your Type-Linked Skill to the target’s Initiative. Additionally, if the Target uses a Disengage Maneuver, they may Shift as if Slowed instead of shifting only 1 Meter.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Type Ace, Flying as Chosen Type",
+    "frequency": "Bind 2 AP - Standard Action",
+    "tags": "[Orders][Stratagem]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.yliIPctLi7J3WDKO"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078991,
+    "modifiedTime": 1683383583831,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "eq1XVMr0jY5fxLAJ",
+  "_key": "!items!eq1XVMr0jY5fxLAJ"
+}

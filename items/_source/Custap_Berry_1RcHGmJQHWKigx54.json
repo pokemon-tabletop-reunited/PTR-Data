@@ -1,0 +1,50 @@
+{
+  "name": "Custap Berry",
+  "system": {
+    "origin": "",
+    "effect": "Grants the Priority keyword to any Move. May only be used at 25% HP or lower. Tier 3.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.239Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "500",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Custap Berry",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "systems/ptu/images/item_icons/custap berry.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368839156,
+    "modifiedTime": 1692170822249,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "1RcHGmJQHWKigx54",
+  "_key": "!items!1RcHGmJQHWKigx54"
+}

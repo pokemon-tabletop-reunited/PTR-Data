@@ -1,0 +1,32 @@
+{
+  "name": "Advanced Connection",
+  "system": {
+    "name": "Advanced Connection",
+    "origin": "",
+    "effect": "Choose an Ability with the Connection Keyword that the target has; the Connected Move no longer takes up a Move Slot for the user.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "An Ability with the Connection Keyword",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202693,
+    "modifiedTime": 1683369231430,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "siTvIDr0LU5oq0hF",
+  "_key": "!items!siTvIDr0LU5oq0hF"
+}

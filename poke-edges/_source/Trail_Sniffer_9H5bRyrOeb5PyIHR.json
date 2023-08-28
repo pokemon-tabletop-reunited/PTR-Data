@@ -1,0 +1,32 @@
+{
+  "name": "Trail Sniffer",
+  "system": {
+    "name": "Trail Sniffer",
+    "origin": "",
+    "effect": "The user gets a bonus to all Perception Rolls to use the Tracker Capability equal to their Focus Rank.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Level 20, Tracker Capability",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202729,
+    "modifiedTime": 1683369231479,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "9H5bRyrOeb5PyIHR",
+  "_key": "!items!9H5bRyrOeb5PyIHR"
+}

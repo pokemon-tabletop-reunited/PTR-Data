@@ -1,0 +1,40 @@
+{
+  "name": "Desperate Strike",
+  "system": {
+    "name": "Desperate Strike",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon triggers Cruelty, or scores a Critical Hit with damaging attack.\nEffect: Your Pokemon may apply the effects of Cruelty to the attack without expending Cruelty’s Frequency. Cruelty’s effects may be purchased as if the foe had additional injuries equal to the number of injuries on the user. Desperate Strike may be used once per Scene per Pokémon.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Savage Strike, Expert Intimidate",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.NbxGnUlpSIkKbzjf"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081712,
+    "modifiedTime": 1683383582646,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "CH9aCVfBUwPJuq6Y",
+  "_key": "!items!CH9aCVfBUwPJuq6Y"
+}

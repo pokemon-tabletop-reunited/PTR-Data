@@ -1,0 +1,40 @@
+{
+  "name": "Cheerleader",
+  "system": {
+    "name": "Cheerleader",
+    "origin": "",
+    "effect": "Target: Your Pokémon with at least 2 Tutor Points remaining\nEffect: Your Pokémon loses 2 Tutor Points and gains the Friend Guard Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Inspired Training, Novice Charm",
+    "frequency": "At-Will – Extended Action",
+    "tags": "[Class]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.ABv3FRslSzHAY9Xc"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081683,
+    "modifiedTime": 1683383582347,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "U7vX50xY7IU6NOmc",
+  "_key": "!items!U7vX50xY7IU6NOmc"
+}

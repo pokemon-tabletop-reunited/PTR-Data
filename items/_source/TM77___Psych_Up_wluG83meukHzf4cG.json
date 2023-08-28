@@ -1,0 +1,41 @@
+{
+  "name": "TM77 - Psych Up",
+  "type": "item",
+  "system": {
+    "origin": "",
+    "effect": "The user's Combat Stages are changed to match the target's Combat Stages. Psych Up cannot miss.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "quantity": 1,
+    "category": "",
+    "cost": null,
+    "consumable": true,
+    "subtype": "",
+    "container": false
+  },
+  "_id": "wluG83meukHzf4cG",
+  "img": "systems/ptu/static/images/item_icons/tm.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692967648964,
+    "modifiedTime": 1692967649770,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!wluG83meukHzf4cG"
+}

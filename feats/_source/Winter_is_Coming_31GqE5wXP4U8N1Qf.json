@@ -1,0 +1,40 @@
+{
+  "name": "Winter is Coming",
+  "system": {
+    "name": "Winter is Coming",
+    "origin": "",
+    "effect": "You gain the Frostbite Ability",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Master Athletics or Survival",
+    "frequency": "Static",
+    "tags": "[+Attack or Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.76lZ3Skf2VurrLx7"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081668,
+    "modifiedTime": 1683383582288,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "31GqE5wXP4U8N1Qf",
+  "_key": "!items!31GqE5wXP4U8N1Qf"
+}

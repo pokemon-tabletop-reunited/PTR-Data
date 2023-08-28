@@ -1,0 +1,42 @@
+{
+  "name": "Walk It Off",
+  "system": {
+    "name": "Walk It Off",
+    "origin": "",
+    "effect": "Remove one Injury from yourself and regain 1/4th of your maximum Hit Points. This Injury removal doesn’t count against the natural healing limit on Injuries each day.",
+    "rules": [],
+    "slug": "",
+    "automation": [],
+    "prerequisites": "Adept Athletics, Novice Focus",
+    "frequency": "Daily - Extended Action",
+    "tags": "[+HP]",
+    "notes": "",
+    "free": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.LaufKFzMkxnhgwiG"
+    }
+  },
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.8",
+    "coreVersion": "11.300",
+    "createdTime": 1683368079041,
+    "modifiedTime": 1688722437703,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "MkkO6bYRLHH2TaZW",
+  "_key": "!items!MkkO6bYRLHH2TaZW"
+}

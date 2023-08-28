@@ -1,0 +1,40 @@
+{
+  "name": "Martial Training Rank 2",
+  "system": {
+    "name": "Martial Training Rank 2",
+    "origin": "",
+    "effect": "Learn two Martial Artist Moves. You may choose any Move marked with the Martial Training Rank you are taking or lower. Moves marked with an Ability require that Ability to be chosen.\nRank 2 Moves: Brick Break, Circle Throw(Guts), Comet Punch(Iron Fist), Counter(Limber), Low Kick(Inner Focus), Jump Kick(Reckless), Power Trick(Limber), Quick Guard(Technician)",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Martial Artist, Expert Combat",
+    "frequency": "Static",
+    "tags": "[Ranked 3]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Xvxa2oqNwbU4whtl"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079177,
+    "modifiedTime": 1683383582858,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "DmWUIKIULVBFuJ9M",
+  "_key": "!items!DmWUIKIULVBFuJ9M"
+}

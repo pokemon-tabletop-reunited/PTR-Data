@@ -1,0 +1,42 @@
+{
+  "name": "Skill Monkey",
+  "system": {
+    "name": "Skill Monkey",
+    "origin": "",
+    "effect": "Trigger - You make a Skill Check\nEffect: You may re-roll the triggering Skill Check with a +2 Bonus, taking the new result. This Feature may be used to re-roll a specific roll only once.",
+    "rules": [],
+    "slug": "",
+    "automation": [],
+    "prerequisites": "Three Skills at Adept Rank or higher",
+    "frequency": "Daily x3 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.w3KqsntLo60aRGeE"
+    }
+  },
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.8",
+    "coreVersion": "11.300",
+    "createdTime": 1683368079078,
+    "modifiedTime": 1688722416336,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "2WbLqVLtcQhLOUyi",
+  "_key": "!items!2WbLqVLtcQhLOUyi"
+}

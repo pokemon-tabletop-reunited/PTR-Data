@@ -1,0 +1,40 @@
+{
+  "name": "Hero's Journey Rank 2",
+  "system": {
+    "name": "Hero's Journey Rank 2",
+    "origin": "",
+    "effect": "Each Rank, you may gain two Backpacker Talents for which you qualify.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Backpacker, Adept Survival",
+    "frequency": "Static",
+    "tags": "[Ranked 4][+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.j5aZIG3qMGUIaPrA"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079178,
+    "modifiedTime": 1683383583055,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "hi6Oab74AnU7v6Du",
+  "_key": "!items!hi6Oab74AnU7v6Du"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Amber Wave",
+  "type": "move",
+  "img": "systems/ptu/static/css/images/types2/RockIC_Icon.png",
+  "system": {
+    "origin": "",
+    "effect": "All legal targets become Stuck and have their Speed CS lowered by 1.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Rock",
+    "category": "Special",
+    "damageBase": 8,
+    "frequency": "Scene x2",
+    "ac": "5",
+    "range": "Cone 3",
+    "contestType": "Tough - Catching Up",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "_id": "CO3NXf29h9urtwId",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693119119587,
+    "modifiedTime": 1693119119587,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!CO3NXf29h9urtwId"
+}

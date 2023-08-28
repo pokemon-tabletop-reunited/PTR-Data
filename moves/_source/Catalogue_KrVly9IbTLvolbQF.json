@@ -1,0 +1,52 @@
+{
+  "name": "Catalogue",
+  "type": "move",
+  "flags": {},
+  "effects": [],
+  "_id": "KrVly9IbTLvolbQF",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "Randomly select another Pokmon on the users roster and then randomly select an Ability that Pokmon has. Catalogues user gains that Ability immediately until the end of the Scene, or until it uses this Move again. This may not select Abilities that may not be traced or swapped.",
+    "rules": [],
+    "slug": null,
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Normal",
+    "category": "Status",
+    "damageBase": "--",
+    "frequency": "Scene x2",
+    "ac": "None",
+    "range": "Self",
+    "contestType": "Smart",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/types2/NormalIC_Icon.png",
+  "folder": "CKiVqPT3ASdUeaM0",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606523899,
+    "modifiedTime": 1689606577014,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!KrVly9IbTLvolbQF"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Mark of Vision",
+  "system": {
+    "name": "Mark of Vision",
+    "origin": "",
+    "effect": "Target: A willing Trainer\nEffect: You mark the target with a mystical power which allows you to close your eyes and focus to perceive the world with their senses from their perspective. You may Bind this Ability multiple times, each time on a different target, but you may only concentrate on one Mark of Vision at a time, and you may only have a number of Marks at one time equal to half your Perception Rank. A target may choose to end this effect at any time, or to deny you access to their senses temporarily without ending the effect entirely. You have a rough sense of how far away and in what direction marked targets are.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Oracle, Adept Perception",
+    "frequency": "Bind 1 AP - Extended Action",
+    "tags": "[+Special Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.gdSdLpARVrnch1aE"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081751,
+    "modifiedTime": 1683383582989,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "ToNupAGEwDuN7N17",
+  "_key": "!items!ToNupAGEwDuN7N17"
+}

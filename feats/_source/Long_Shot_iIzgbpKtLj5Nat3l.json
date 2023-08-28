@@ -1,0 +1,40 @@
+{
+  "name": "Long Shot",
+  "system": {
+    "name": "Long Shot",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: The target’s damaging ranged attacks have their range doubled until the end of their next turn, and deal X additional damage. X is equal to the distance in meters that the attack traveled. Long Shot does not increase the size of area of effect attacks. If attacks altered by Long Shot are Critical Hits, add the value of the Damage Dice Roll an additional time to the total damage.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Marksman Orders",
+    "frequency": "Scene x2 - Standard Action",
+    "tags": "[Orders]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.A37NmWCzg654GQjQ"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079234,
+    "modifiedTime": 1683383582340,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "iIzgbpKtLj5Nat3l",
+  "_key": "!items!iIzgbpKtLj5Nat3l"
+}

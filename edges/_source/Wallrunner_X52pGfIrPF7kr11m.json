@@ -1,0 +1,33 @@
+{
+  "name": "Wallrunner",
+  "system": {
+    "name": "Wallrunner",
+    "origin": "",
+    "effect": "You may run on vertical surfaces both vertically and horizontally for up to your Acrobatics Rank in meters before jumping off.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Expert Acrobatics",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953778,
+    "modifiedTime": 1683367977152,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "X52pGfIrPF7kr11m",
+  "_key": "!items!X52pGfIrPF7kr11m"
+}

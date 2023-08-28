@@ -1,0 +1,40 @@
+{
+  "name": "Prescience",
+  "system": {
+    "name": "Prescience",
+    "origin": "",
+    "effect": "Trigger - You are hit by an attack\nEffect: The attack instead misses.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Unveiled Sight, Master Perception",
+    "frequency": "Scene - Free Action",
+    "tags": "[+Special Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.wcNDT6qjhfdDbWjR"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078869,
+    "modifiedTime": 1683383583802,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "HnXMWoRrGD7qA0ta",
+  "_key": "!items!HnXMWoRrGD7qA0ta"
+}

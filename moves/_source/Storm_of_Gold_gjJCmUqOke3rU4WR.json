@@ -1,0 +1,52 @@
+{
+  "name": "Storm of Gold",
+  "type": "move",
+  "flags": {},
+  "effects": [],
+  "_id": "gjJCmUqOke3rU4WR",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "This move Confuses targets on a roll of 19+. Storm of Gold scatters metal coins equal in value to 2d10 times the users level. If it is a trainer battle, the winner of the battle gets to pick up the coins.",
+    "rules": [],
+    "slug": null,
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Steel",
+    "category": "Physical",
+    "damageBase": "14",
+    "frequency": "Daily",
+    "ac": "2",
+    "range": "8, Ranged Blast 3, Smite",
+    "contestType": "Tough",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/types2/SteelIC_Icon.png",
+  "folder": "CKiVqPT3ASdUeaM0",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606523899,
+    "modifiedTime": 1689606577014,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!gjJCmUqOke3rU4WR"
+}

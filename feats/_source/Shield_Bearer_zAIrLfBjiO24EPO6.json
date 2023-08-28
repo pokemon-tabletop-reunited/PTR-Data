@@ -1,0 +1,40 @@
+{
+  "name": "Shield Bearer",
+  "system": {
+    "name": "Shield Bearer",
+    "origin": "",
+    "effect": "You may immediately ready a Shield, and do not become Slowed as a result. You may choose to grant an adjacent Ally the Evasion and Damage Reduction bonuses from your shield instead of gaining them yourself, but these bonuses only apply as long as the ally remains adjacent to you. If you do and the ally Shifts, you may Shift alongside your ally as a Shift Action Interrupt. This cannot cause you to shift more than your normal Movement.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Stalwart Bastion",
+    "frequency": "1 AP - Swift Action",
+    "tags": "[+Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Fu6xLRwJbXmRHw9z"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079302,
+    "modifiedTime": 1683383582477,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "zAIrLfBjiO24EPO6",
+  "_key": "!items!zAIrLfBjiO24EPO6"
+}

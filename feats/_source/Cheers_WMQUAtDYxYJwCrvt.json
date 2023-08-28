@@ -1,0 +1,40 @@
+{
+  "name": "Cheers",
+  "system": {
+    "name": "Cheers",
+    "origin": "",
+    "effect": "Trigger: You use [Orders]\nEffect: The target or targets of the triggering [Orders] are Cheered for 1 full round. While Cheered, the target’s Combat Stages cannot be lowered by foe’s attacks, features, or abilities. This Feature costs 0 AP if the triggering effect affects only one ally, and costs 1 AP if it affects two or more.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Cheerleader",
+    "frequency": "X AP – Swift Action",
+    "tags": "[-]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.unCiBDRKldrlFKFN"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081712,
+    "modifiedTime": 1683383583777,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "WMQUAtDYxYJwCrvt",
+  "_key": "!items!WMQUAtDYxYJwCrvt"
+}

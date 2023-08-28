@@ -1,0 +1,40 @@
+{
+  "name": "Scoundrel's Strike",
+  "system": {
+    "name": "Scoundrel's Strike",
+    "origin": "",
+    "effect": "Trigger - You hit with a Rogue Move\nEffect: The target loses Hit Points equal to your highest Rogue Skill Rank doubled, and an additional effect based on whether you have the Ambush or Cruelty Ability. You may use Scoundrel’s Strike only once per Scene per target.\n»» Ambush: For 1 Full Round, the target is Slowed, cannot make Attacks of Opportunity, and takes a -2 penalty to all rolls.\n»» Cruelty: For 1 Full Round, the target loses 5 Hit Points upon being hit by any damaging attack.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Underhanded Tactics, Street Fighter",
+    "frequency": "Daily x3 - Swift Action",
+    "tags": "[+Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.LTsaesMHjmewjRTo"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079210,
+    "modifiedTime": 1683383582607,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "wIMbwIaZKgfSowSm",
+  "_key": "!items!wIMbwIaZKgfSowSm"
+}

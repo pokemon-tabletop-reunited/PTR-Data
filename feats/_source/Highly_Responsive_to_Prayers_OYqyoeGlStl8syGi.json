@@ -1,0 +1,40 @@
+{
+  "name": "Highly Responsive to Prayers",
+  "system": {
+    "name": "Highly Responsive to Prayers",
+    "origin": "",
+    "effect": "Trigger - You use the Blessed Touch or Healer Ability on an ally, or an ally receives an Injury\nEffect: You may use the Sage Feature as a Free Action targeting the triggering ally. Multiple instances of Sage’s effect that you use may stack when used this way.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Lay on Hands",
+    "frequency": "Scene x3 - Free Action",
+    "tags": "[+HP]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.12s7NjLzZhEnTNj2"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081749,
+    "modifiedTime": 1683383582131,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "OYqyoeGlStl8syGi",
+  "_key": "!items!OYqyoeGlStl8syGi"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Puissance Pellet",
+  "system": {
+    "origin": "",
+    "effect": "This painkiller and adrenaline injection lets the user temporarily ignore their debilitating injuries. A user with 5 or more injuries does not suffer Hit Point loss equal to their number of injuries when taking Standard Actions. If you are using the optional rule to decrease combat stages for each Injury, the user ignores these combat stage losses. This effect lasts for 5 turns, and at the end of the effect, the user automatically takes another injury.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.239Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "450",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Puissance Pellet",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368837725,
+    "modifiedTime": 1692170822249,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "44nvCrhNPICtPLb7",
+  "_key": "!items!44nvCrhNPICtPLb7"
+}

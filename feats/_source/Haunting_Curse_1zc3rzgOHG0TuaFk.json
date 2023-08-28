@@ -1,0 +1,40 @@
+{
+  "name": "Haunting Curse",
+  "system": {
+    "name": "Haunting Curse",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: While this Feature is bound, the target gains a Curse Token each time they use a Ghost-Type Move or Ghost Step. Ghost-Type Moves with a Set-Up and Resolution Phase give a Curse Token for each Phase. As a Standard Action during their turn, or as Free Action upon Fainting, the target may spend their Curse Tokens to apply conditions to a foe within 6 meters.\n»» 1 Curse Token: The target loses a Combat Stage of your choice.\n»» 2 Curse Tokens: The target becomes Cursed.\n»» 3 Curse Tokens: The target becomes Suppressed.\n»» 4 Curse Tokens: The target falls Asleep and gains Bad Sleep.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Ghost Step, Type-Linked Skill at Adept",
+    "frequency": "Bind 2 AP - Standard Action",
+    "tags": "[Orders][Stratagem]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.r3REYyoD3e5MqQsH"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078830,
+    "modifiedTime": 1683383583252,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "1zc3rzgOHG0TuaFk",
+  "_key": "!items!1zc3rzgOHG0TuaFk"
+}

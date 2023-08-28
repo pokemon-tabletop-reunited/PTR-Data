@@ -1,0 +1,33 @@
+{
+  "name": "Emergency Repairs",
+  "system": {
+    "name": "Emergency Repairs",
+    "origin": "",
+    "effect": "You may repair vehicles as a standard action by making a Technology Education roll. You pay the amount of your roll and repair that much Hit Point damage to the vehicle. If the vehicle has any Breaches you may Patch one of them. Patched Breaches no longer count towards Breach Security but still count toward Breach Capacity.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Novice Technology Education",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953801,
+    "modifiedTime": 1683367977184,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "x1lSxeSn6FFi6u5N",
+  "_key": "!items!x1lSxeSn6FFi6u5N"
+}

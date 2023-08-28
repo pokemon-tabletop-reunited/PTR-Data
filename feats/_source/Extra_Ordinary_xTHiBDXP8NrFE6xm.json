@@ -1,0 +1,40 @@
+{
+  "name": "Extra Ordinary",
+  "system": {
+    "name": "Extra Ordinary",
+    "origin": "",
+    "effect": "Target: Your Normal-Type Pokémon with Last Chance or Normal Strategist\nEffect: Your Pokémon gains the Last Chance or Normal Strategist Ability, whichever one they do not already have. Extra Ordinary can target a Pokémon only once.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Type Ace, Normal as Chosen Type",
+    "frequency": "At-Will - Extended Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.tE9Jy02CYTNM2zqs"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078828,
+    "modifiedTime": 1683383583289,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "xTHiBDXP8NrFE6xm",
+  "_key": "!items!xTHiBDXP8NrFE6xm"
+}

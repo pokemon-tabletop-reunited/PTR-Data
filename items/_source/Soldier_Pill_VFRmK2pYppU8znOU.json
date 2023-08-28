@@ -1,0 +1,50 @@
+{
+  "name": "Soldier Pill",
+  "system": {
+    "origin": "",
+    "effect": "A potentially dangerous stimulant that provides the user enough energy to go 24 hours without sleep. Upon taking the pill twice in a 48 hour period, the user begins to take 1 injury every 2 hours until they choose to go to sleep. The user of a Soldier Pill gets a +3 bonus to rolls to wake up from Sleep.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.423Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "750",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Soldier Pill",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368790459,
+    "modifiedTime": 1692170822431,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "VFRmK2pYppU8znOU",
+  "_key": "!items!VFRmK2pYppU8znOU"
+}

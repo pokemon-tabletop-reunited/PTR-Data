@@ -1,0 +1,40 @@
+{
+  "name": "Aerialist",
+  "system": {
+    "name": "Aerialist",
+    "origin": "",
+    "effect": "You learn the Moves Aerial Ace and Splash.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Tumbler",
+    "frequency": "Static",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.qzNlNlFkbnmQJ7oF"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081761,
+    "modifiedTime": 1683383583248,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "EH1ugtqfk6TfJWnn",
+  "_key": "!items!EH1ugtqfk6TfJWnn"
+}

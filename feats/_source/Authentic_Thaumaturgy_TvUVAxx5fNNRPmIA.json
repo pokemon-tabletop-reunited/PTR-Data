@@ -1,0 +1,40 @@
+{
+  "name": "Authentic Thaumaturgy",
+  "system": {
+    "name": "Authentic Thaumaturgy",
+    "origin": "",
+    "effect": "Trigger - You use a Special Move \nEffect: You may apply a Rank 2 Power Manipulation to your attack.\nRank 2 Power Manipulations are: Berserk Blow, Energy Link, Enlarged Power, Lock of Fate",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Arcanist, Expert Occult Education",
+    "frequency": "Scene x2 - Swift Action",
+    "tags": "[+Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.54SThFUUxI23YIn5"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081760,
+    "modifiedTime": 1683383582230,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "TvUVAxx5fNNRPmIA",
+  "_key": "!items!TvUVAxx5fNNRPmIA"
+}

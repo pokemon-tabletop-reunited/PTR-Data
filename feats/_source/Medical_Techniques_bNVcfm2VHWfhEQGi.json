@@ -1,0 +1,40 @@
+{
+  "name": "Medical Techniques",
+  "system": {
+    "name": "Medical Techniques",
+    "origin": "",
+    "effect": "Trigger: You apply a Restorative Item\nEffect: The target of the triggering action gains a Tick of Hit Points, plus an additional amount of Hit Points equal to your Medicine Education Rank.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Medic, Adept Medicine Education",
+    "frequency": "1 AP – Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Jxv9Sed6VJ7vY4z4"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079313,
+    "modifiedTime": 1683383582550,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "bNVcfm2VHWfhEQGi",
+  "_key": "!items!bNVcfm2VHWfhEQGi"
+}

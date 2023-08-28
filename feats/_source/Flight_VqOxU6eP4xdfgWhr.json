@@ -1,0 +1,40 @@
+{
+  "name": "Flight",
+  "system": {
+    "name": "Flight",
+    "origin": "",
+    "effect": "You gain a Sky Speed equal to your Levitate Speed plus your Acrobatics or Perception Rank for the remainder of the round.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "One With the Winds, Adept Acrobatics",
+    "frequency": "1 AP - Swift Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.lwhnRgyIaZuSOlOh"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084431,
+    "modifiedTime": 1683383583139,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "VqOxU6eP4xdfgWhr",
+  "_key": "!items!VqOxU6eP4xdfgWhr"
+}

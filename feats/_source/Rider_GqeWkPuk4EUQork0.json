@@ -1,0 +1,40 @@
+{
+  "name": "Rider",
+  "system": {
+    "name": "Rider",
+    "origin": "",
+    "effect": "While you are Mounted on a Pokemon under the effects of Agility Training, the bonuses from Agility Training are doubled.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Mounted Prowess, Agility Training, Novice Acrobatics or Athletics",
+    "frequency": "Static",
+    "tags": "[Class][+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.rPZN6zZLM5fXs8lj"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078975,
+    "modifiedTime": 1683383583262,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "GqeWkPuk4EUQork0",
+  "_key": "!items!GqeWkPuk4EUQork0"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Defense Embodiment",
+  "system": {
+    "name": "Defense Embodiment",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: Your Pokémon gains Filter or Battle Armor for the remainder of the Scene. Switching does not end this effect. Stat Embodiment may only grant one Ability to a Pokémon at a time. If it is used a second time on the same target, it replaces the first granted Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "4 Stat Ace Features, Expert Command or Focus",
+    "frequency": "1 AP - Swift Action",
+    "tags": "[Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Kv75XHTEsDSlDyjF"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084329,
+    "modifiedTime": 1683383582571,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "56orelP9ImwJia4S",
+  "_key": "!items!56orelP9ImwJia4S"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Let Me Help You With That",
+  "system": {
+    "name": "Let Me Help You With That",
+    "origin": "",
+    "effect": "Trigger - An allied Trainer fails a Skill Check in a Skill you have Ranked at Novice or higher.\nEffect: The ally may re-roll the Skill Check with a Bonus equal to your Skill Rank.",
+    "rules": [],
+    "slug": "",
+    "automation": [],
+    "prerequisites": "-",
+    "frequency": "Daily x3 - Full Action, Interrupt",
+    "tags": "-",
+    "notes": "",
+    "free": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.AljgtjNTDA5JMeO5"
+    }
+  },
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.8",
+    "coreVersion": "11.300",
+    "createdTime": 1683368078936,
+    "modifiedTime": 1688722313372,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "NVnFquC0fdo74toT",
+  "_key": "!items!NVnFquC0fdo74toT"
+}

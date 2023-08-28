@@ -1,0 +1,40 @@
+{
+  "name": "Utility Drop",
+  "system": {
+    "name": "Utility Drop",
+    "origin": "",
+    "effect": "Trigger - You Shift\nEffect: You may use a Smoke Ball, Caltrops, or Toxic Caltrops as a Free action during your Shift. Instead of the Move’s usual area of effect, you leave one square of Smokescreen, Spikes, or Toxic Spikes on each square you leave as you Shift. Once you place 8 meters of Smoke, Spikes, or Toxic Spikes you may not place any more.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Ninja's Arsenal, Expert Stealth",
+    "frequency": "At-Will - Swift Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.jbnnsPefsFn8TGjc"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081664,
+    "modifiedTime": 1683383583063,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "mevDgc0eNh0UicOK",
+  "_key": "!items!mevDgc0eNh0UicOK"
+}

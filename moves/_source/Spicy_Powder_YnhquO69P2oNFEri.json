@@ -1,0 +1,53 @@
+{
+  "name": "Spicy Powder",
+  "type": "move",
+  "img": "systems/ptu/static/css/images/types2/GrassIC_Icon.png",
+  "system": {
+    "origin": "",
+    "effect": "The target is Burned.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Grass",
+    "category": "Status",
+    "damageBase": "--",
+    "frequency": "EOT",
+    "ac": "5",
+    "range": "6, 1 Target",
+    "contestType": "Smart - Sabotage",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "_id": "YnhquO69P2oNFEri",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693119119587,
+    "modifiedTime": 1693119597822,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!YnhquO69P2oNFEri"
+}

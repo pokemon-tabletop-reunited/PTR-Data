@@ -1,0 +1,40 @@
+{
+  "name": "Hydro Jet",
+  "system": {
+    "name": "Hydro Jet",
+    "origin": "",
+    "effect": "Trigger - You use a damaging single target Water-Type Move\nEffect: Hydro Jet’s effect depends on if the triggering Move was Melee or Ranged.\n\n»» If Melee, the Move gains the Pass keyword and you may change direction during the four meters of Pass (but may still only target any given Pokémon or Trainer once).\n»» If Ranged, the Move becomes a Line 4 instead of its usual range.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Call the Current Rank 1",
+    "frequency": "1 AP - Free Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.OSsOyoj1hHrsrc5d"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078815,
+    "modifiedTime": 1683383582698,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "n6mNZsVXV5VdmtxP",
+  "_key": "!items!n6mNZsVXV5VdmtxP"
+}

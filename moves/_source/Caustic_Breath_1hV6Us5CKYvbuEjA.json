@@ -1,0 +1,52 @@
+{
+  "name": "Caustic Breath",
+  "type": "move",
+  "flags": {},
+  "effects": [],
+  "_id": "1hV6Us5CKYvbuEjA",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "The Targets Defense and Special Defense are lowered by 1 CS on a 17+.",
+    "rules": [],
+    "slug": null,
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Dragon",
+    "category": "Special",
+    "damageBase": "4",
+    "frequency": "EOT",
+    "ac": "2",
+    "range": "4, 1 Target",
+    "contestType": "Cool",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/types2/DragonIC_Icon.png",
+  "folder": "CKiVqPT3ASdUeaM0",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606523899,
+    "modifiedTime": 1689606577014,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!1hV6Us5CKYvbuEjA"
+}

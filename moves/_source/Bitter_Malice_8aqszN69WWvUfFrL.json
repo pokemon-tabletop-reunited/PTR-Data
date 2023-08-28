@@ -1,0 +1,53 @@
+{
+  "name": "Bitter Malice",
+  "type": "move",
+  "img": "/systems/ptu/css/images/types2/GhostIC_Icon.png",
+  "folder": "lWQOqDm2AOGwGM16",
+  "system": {
+    "origin": "",
+    "effect": "Legal targets hit by Bitter Malice are Stuck and Trapped until the end of their next turn on a 19+. Once a Scene, if Bitter Malice's target has a Status Condition, you may double Bitter Malice's Damage Base to 12 instead (3d12+10 /30).",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Ghost",
+    "category": "Special",
+    "damageBase": 6,
+    "frequency": "At-Will",
+    "ac": 2,
+    "range": "6, 1 Target",
+    "contestType": "Smart - Unsettling",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "_id": "8aqszN69WWvUfFrL",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692963260348,
+    "modifiedTime": 1692966135854,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!8aqszN69WWvUfFrL"
+}

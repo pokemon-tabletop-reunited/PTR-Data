@@ -1,0 +1,40 @@
+{
+  "name": "Green Path",
+  "system": {
+    "name": "Green Path",
+    "origin": "",
+    "effect": "You gain the Naturewalk (Grassland) and Naturewalk (Forest) capabilities, and you are immune to Moves with the Powder keyword.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Druid",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.EAVV7gdFfXpMr63J"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084436,
+    "modifiedTime": 1683383582441,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "PGyk1TwXret8I81L",
+  "_key": "!items!PGyk1TwXret8I81L"
+}

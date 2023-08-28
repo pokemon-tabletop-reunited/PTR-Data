@@ -1,0 +1,37 @@
+{
+  "name": "Dangerous Depths",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Connection - Drag Under. When hit by a move, this Pokemon may activate this Ability to use Drag Under, frequency allowing, as an interrupt to avoid the attack and shift underground/underwater immediately (ignoring Drag Unders water requirement). This consumed a command as normal. Drag Unders damage base is always treated as 12.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Daily - Free Action",
+    "tier": ""
+  },
+  "_id": "vhULiHH0WQfL41bi",
+  "effects": [],
+  "folder": null,
+  "sort": 49300000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!vhULiHH0WQfL41bi"
+}

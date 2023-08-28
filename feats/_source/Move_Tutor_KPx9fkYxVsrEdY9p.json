@@ -1,0 +1,40 @@
+{
+  "name": "Move Tutor",
+  "system": {
+    "name": "Move Tutor",
+    "origin": "",
+    "effect": "Target: A Pokémon with at least 2 Tutor Points.\nEffect: The target loses 2 Tutor Points, and learns any move from its Tutor List.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Mentor, one Mentor Skill at Expert Rank",
+    "frequency": "Daily - Extended Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.rOY4oxekymGDucOP"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078888,
+    "modifiedTime": 1683383583260,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "KPx9fkYxVsrEdY9p",
+  "_key": "!items!KPx9fkYxVsrEdY9p"
+}

@@ -1,0 +1,39 @@
+{
+  "folder": null,
+  "name": "Delivery Bird",
+  "type": "ability",
+  "img": "/systems/ptu/static/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "The user may hold two Held Items at once. Whenever an Ability or Move affects the user’s Held Items, you may choose which one is affected.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Static",
+    "tier": ""
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693119390938,
+    "modifiedTime": 1693119458650,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "uixGDKEw4a3TdDOF",
+  "sort": 0,
+  "_key": "!items!uixGDKEw4a3TdDOF"
+}

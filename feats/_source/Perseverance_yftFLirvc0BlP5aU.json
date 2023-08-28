@@ -1,0 +1,40 @@
+{
+  "name": "Perseverance",
+  "system": {
+    "name": "Perseverance",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon gains an Injury\nEffect: The target instead does not gain an Injury. Perseverance may activate only once per Scene per target.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Ace Trainer",
+    "frequency": "1 AP - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.BSZOOYvxa6viQrWL"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079226,
+    "modifiedTime": 1683383582376,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "yftFLirvc0BlP5aU",
+  "_key": "!items!yftFLirvc0BlP5aU"
+}

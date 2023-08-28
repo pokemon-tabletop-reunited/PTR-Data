@@ -1,0 +1,50 @@
+{
+  "name": "Learning Ball",
+  "system": {
+    "origin": "",
+    "effect": "The captured Pokémon immediately learns their next level-up Move, as long as it is within 8 levels of their current level.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.458Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "500",
+    "consumable": "0",
+    "subtype": "pokeball",
+    "container": false,
+    "name": "Learning Ball",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "systems/ptu/images/item_icons/learning ball.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368844362,
+    "modifiedTime": 1692170822466,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "g2ukc9h9uooLHFTr",
+  "_key": "!items!g2ukc9h9uooLHFTr"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Stone Warrior",
+  "system": {
+    "name": "Stone Warrior",
+    "origin": "",
+    "effect": "You learn the Moves Rock Tomb and Wide Guard.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Elemental Connection (Rock), Novice Combat, Novice Survival",
+    "frequency": "Static",
+    "tags": "[Class][+Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.HKN5s31zJofrwXnQ"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084448,
+    "modifiedTime": 1683383582508,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "vUAjvyqIJ1LU0GyC",
+  "_key": "!items!vUAjvyqIJ1LU0GyC"
+}

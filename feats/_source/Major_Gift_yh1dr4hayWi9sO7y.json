@@ -1,0 +1,40 @@
+{
+  "name": "Major Gift",
+  "system": {
+    "name": "Major Gift",
+    "origin": "",
+    "effect": "You gain one of your Patron’s Major Gifts, found in the Blessed and Damned splatbook. This Major Gift may be of your GM’s choosing. This feat is able to be taken multiple times based on your GM’s discretion.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Touched, GM Permission",
+    "frequency": "Static",
+    "tags": "[Patron Stat]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.USQ87IaaBEkYQJN7"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079130,
+    "modifiedTime": 1683383582800,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "yh1dr4hayWi9sO7y",
+  "_key": "!items!yh1dr4hayWi9sO7y"
+}

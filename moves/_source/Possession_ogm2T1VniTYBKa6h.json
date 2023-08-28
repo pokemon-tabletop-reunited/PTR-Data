@@ -1,0 +1,52 @@
+{
+  "name": "Possession",
+  "type": "move",
+  "flags": {},
+  "effects": [],
+  "_id": "ogm2T1VniTYBKa6h",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "The target reveals its Attack stat. When calculating damage, add the targets Attack stat instead of the users Special Attack stat. Possession is still otherwise Special (Special Evasion is used to avoid it, Mirror Coat can reflect it, etc.).",
+    "rules": [],
+    "slug": null,
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Ghost",
+    "category": "Special",
+    "damageBase": "10",
+    "frequency": "Scene",
+    "ac": "2",
+    "range": "6, 1 Target",
+    "contestType": "Tough",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/types2/GhostIC_Icon.png",
+  "folder": "CKiVqPT3ASdUeaM0",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606523899,
+    "modifiedTime": 1689606577014,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!ogm2T1VniTYBKa6h"
+}

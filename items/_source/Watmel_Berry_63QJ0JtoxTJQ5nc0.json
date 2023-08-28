@@ -1,0 +1,50 @@
+{
+  "name": "Watmel Berry",
+  "system": {
+    "origin": "",
+    "effect": "Cute or Smart Poffin Ingredient. Tier 2.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.262Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "250",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Watmel Berry",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "systems/ptu/images/item_icons/tm.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368813422,
+    "modifiedTime": 1692170822273,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "63QJ0JtoxTJQ5nc0",
+  "_key": "!items!63QJ0JtoxTJQ5nc0"
+}

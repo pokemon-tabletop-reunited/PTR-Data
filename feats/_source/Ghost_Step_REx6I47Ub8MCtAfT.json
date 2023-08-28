@@ -1,0 +1,40 @@
+{
+  "name": "Ghost Step",
+  "system": {
+    "name": "Ghost Step",
+    "origin": "",
+    "effect": "Your Ghost-Type Pokémon may activate this Feature by spending a Shift Action to remove themselves from the field. They may not be targeted in any way during this time. At the beginning of their next turn, they reappear in any square of their choice that they could have Shifted to from their previous location. Each Pokémon may activate Ghost Step only once per Scene.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Type Ace, Ghost as Chosen Type",
+    "frequency": "At-Will - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.jR0O6wLJY8UEgax3"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078978,
+    "modifiedTime": 1683383583060,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "REx6I47Ub8MCtAfT",
+  "_key": "!items!REx6I47Ub8MCtAfT"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Draco Jet",
+  "type": "move",
+  "img": "systems/ptu/static/css/images/types2/DragonIC_Icon.png",
+  "system": {
+    "origin": "",
+    "effect": "--",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Dragon",
+    "category": "Physical",
+    "damageBase": 6,
+    "frequency": "At-Will",
+    "ac": 4,
+    "range": "Melee, 1 Target, Priority",
+    "contestType": "Tough - Attention Grabber",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "_id": "8xkSvthWwdMwcPxt",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693119119587,
+    "modifiedTime": 1693119119587,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!8xkSvthWwdMwcPxt"
+}

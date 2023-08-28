@@ -1,0 +1,36 @@
+{
+  "name": "Discretion",
+  "type": "ability",
+  "flags": {},
+  "effects": [],
+  "_id": "ALBlhP9suXQYtmpN",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "If the user misses with a Move that does not have the Smite keyword, the Move’s Frequency is not expended.",
+    "rules": [],
+    "slug": null,
+    "automation": [],
+    "frequency": "Static",
+    "tier": "",
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "folder": "rmoa0NFMp7Td9R3R",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606908412,
+    "modifiedTime": 1689606925574,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!ALBlhP9suXQYtmpN"
+}

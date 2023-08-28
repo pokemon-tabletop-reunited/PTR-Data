@@ -1,0 +1,40 @@
+{
+  "name": "Hex Maniac Studies Rank 2",
+  "system": {
+    "name": "Hex Maniac Studies Rank 2",
+    "origin": "",
+    "effect": "Learn two Hex Maniac Moves. You may choose any Move marked with the Hex Maniac Studies Rank you are taking or lower.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Hex Maniac",
+    "frequency": "Static",
+    "tags": "[+HP][Ranked 3]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.0PIwbQzHNUYZXvem"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081789,
+    "modifiedTime": 1683383582102,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "T96X9ue3NkVH8y09",
+  "_key": "!items!T96X9ue3NkVH8y09"
+}

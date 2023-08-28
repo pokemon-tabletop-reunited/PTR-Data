@@ -1,0 +1,33 @@
+{
+  "name": "Poké Ball Repair",
+  "system": {
+    "name": "Poké Ball Repair",
+    "origin": "",
+    "effect": "You may attempt to fix any Poké Ball that has failed to capture a Pokémon and broke. Make a Technology Check with a DC of 15. If you succeed, the Poké Ball is fixed and is treated as if it had not broken. If you fail, the ball is permanently broken. Requires access to a Poké Ball Tool Box.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Basic Balls or Apricorn Balls",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953784,
+    "modifiedTime": 1683367977163,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "cNM2TTUYgdCHDzqS",
+  "_key": "!items!cNM2TTUYgdCHDzqS"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Potent Venom",
+  "system": {
+    "name": "Potent Venom",
+    "origin": "",
+    "effect": "Trigger - Your Poison-Type Pokémon inflicts Poison on a foe\nEffect: The foe does not necessarily lose Special Defense Combat Stages from Poison; instead, they lose Combat Stages in the Combat Stat of your choice. Whenever the target loses Hit Points from Poison, they lose additional Hit Points equal to your Type-Linked Skill Rank.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Type Ace, Poison as Chosen Type",
+    "frequency": "At-Will - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Qu34BskvL4G7f3jZ"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081663,
+    "modifiedTime": 1683383582743,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "UNIbHJkajSdZ8YnD",
+  "_key": "!items!UNIbHJkajSdZ8YnD"
+}

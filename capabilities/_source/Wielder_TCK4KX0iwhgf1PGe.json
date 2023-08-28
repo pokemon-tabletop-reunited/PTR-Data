@@ -1,0 +1,34 @@
+{
+  "name": "Wielder",
+  "type": "capability",
+  "img": "/systems/ptu/css/images/icons/capability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Pokémon with the Wielder Capability gain a +2 bonus to Disarming and cannot have their natural weapons disarmed or removed by moves such as Thief, Covet, Switcheroo, and Trick. Small Pokémon with this capability may additionally wield man-made Small Melee weapons, gaining all normal benefits. Medium and higher size category Pokémon may wield Large Melee weapons. These weapons occupy the Pokémon’s Held Item slot when Wielded. Pokémon Wielding Weapons can only ever get access to Adept Combat Rank Moves from Weapons, even if their Combat Skill would allow them to qualify for higher.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "TCK4KX0iwhgf1PGe",
+  "effects": [],
+  "folder": null,
+  "sort": 5100000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693042188180,
+    "modifiedTime": 1693118851776,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!TCK4KX0iwhgf1PGe"
+}

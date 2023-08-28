@@ -1,0 +1,50 @@
+{
+  "name": "DIY Engineering",
+  "system": {
+    "origin": "",
+    "effect": "For those who like the homemade touch, and aren't afraid to learn by doing.\n\nRank 1 - Novice Technology Education: Your material costs for crafting items crafted from Mechanical Scrap are reduced by 10%.\nRank 2 - Expert Technology Education: Whenever you Scrap an Item you created, you gain Scrap worth 75% of its monetary cost instead of only 50%.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.405Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "1000",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "DIY Engineering",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368785714,
+    "modifiedTime": 1692170822414,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Qo4GRJw0Feczgicv",
+  "_key": "!items!Qo4GRJw0Feczgicv"
+}

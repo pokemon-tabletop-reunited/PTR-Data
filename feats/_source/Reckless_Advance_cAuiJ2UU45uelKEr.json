@@ -1,0 +1,40 @@
+{
+  "name": "Reckless Advance",
+  "system": {
+    "name": "Reckless Advance",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: While this Feature is Bound, increase the damage rolls of the target’s damaging melee attacks by +8, and these attacks Trip targets on Accuracy Rolls of 18+. When the target of Reckless Advance hits with a damaging melee attack, they become Vulnerable for one full round.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Ravager Orders",
+    "frequency": "Bind 2 AP – Standard Action",
+    "tags": "[Orders][Stratagem]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.WkXUhLSRWJ9E8tA5"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079031,
+    "modifiedTime": 1683383582839,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "cAuiJ2UU45uelKEr",
+  "_key": "!items!cAuiJ2UU45uelKEr"
+}

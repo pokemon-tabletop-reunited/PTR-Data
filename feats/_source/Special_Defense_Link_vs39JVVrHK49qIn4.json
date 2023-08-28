@@ -1,0 +1,40 @@
+{
+  "name": "Special Defense Link",
+  "system": {
+    "name": "Special Defense Link",
+    "origin": "",
+    "effect": "Trigger - At the end of your Pokémon’s turn, their Special Defense is at its default number of Combat Stages or less\nEffect: The triggering Pokémon  gains +1 Combat Stage in Special Defense. (Note: The “Default” number of Combat Stages is usually 0)",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Stat Ace",
+    "frequency": "1 AP - Free Action",
+    "tags": "[Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.436DtyHK1UYNqrrT"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084430,
+    "modifiedTime": 1683383582206,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "vs39JVVrHK49qIn4",
+  "_key": "!items!vs39JVVrHK49qIn4"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Tag In",
+  "system": {
+    "name": "Tag In",
+    "origin": "",
+    "effect": "Trigger - You recall a Pokémon\nEffect: The next Pokémon you send out is treated as if the recalled Pokémon had used Baton Pass on it.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Round Trip, Expert Acrobatics or Guile",
+    "frequency": "1 AP - Free Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.xaU3xUvUooYLQhsX"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078924,
+    "modifiedTime": 1683383583817,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "MMOocgewJQ8FD5Q6",
+  "_key": "!items!MMOocgewJQ8FD5Q6"
+}

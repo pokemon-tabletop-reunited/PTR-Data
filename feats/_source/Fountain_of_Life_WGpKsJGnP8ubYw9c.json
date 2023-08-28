@@ -1,0 +1,40 @@
+{
+  "name": "Fountain of Life",
+  "system": {
+    "name": "Fountain of Life",
+    "origin": "",
+    "effect": "Trigger - Your Water-Type Pokémon hits with a damaging Water-Type attack\nEffect: You may choose to take a penalty to the Damage Roll for the attack up to triple your Type-Linked Skill Rank or up to half the rolled damage for the triggering attack, whichever is lower. Your Pokémon gains twice that value in Temporary Hit Points and may cure themselves of one Status Affliction. Fountain of Life may only be used once per Scene per Pokémon.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Flood!, Type-Linked Skill at Expert",
+    "frequency": "Daily x3 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.9to3tKNqxFoPe1CJ"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079127,
+    "modifiedTime": 1683383582339,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "WGpKsJGnP8ubYw9c",
+  "_key": "!items!WGpKsJGnP8ubYw9c"
+}

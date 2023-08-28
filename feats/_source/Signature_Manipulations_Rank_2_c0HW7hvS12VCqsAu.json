@@ -1,0 +1,40 @@
+{
+  "name": "Signature Manipulations Rank 2",
+  "system": {
+    "name": "Signature Manipulations Rank 2",
+    "origin": "",
+    "effect": "Select a Power Manipulation marked Rank 2 or lower. For Rank 1 Manipulations, this Manipulation may be used twice per Scene without spending AP to activate. For Rank 2 Manipulations, this Manipulation may be used once per Scene without activating Authentic Thaumaturgy’s Frequency.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Authentic Thaumaturgy",
+    "frequency": "Static",
+    "tags": "[Ranked 2][+Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.aiqkVWhXhbScfpd9"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079014,
+    "modifiedTime": 1683383582896,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "c0HW7hvS12VCqsAu",
+  "_key": "!items!c0HW7hvS12VCqsAu"
+}

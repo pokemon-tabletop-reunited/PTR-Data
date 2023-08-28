@@ -1,0 +1,53 @@
+{
+  "name": "U-Turn",
+  "type": "move",
+  "img": "/systems/ptu/css/images/types2/BugIC_Icon.png",
+  "folder": "lWQOqDm2AOGwGM16",
+  "system": {
+    "origin": "",
+    "effect": "The user deals damage and then is immediately recalled to its Poké Ball in the same turn. A New Pokémon may immediately be sent out. Using U-Turn lets a Trapped user be recalled.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Bug",
+    "category": "Physical",
+    "damageBase": 7,
+    "frequency": "At-Will",
+    "ac": 2,
+    "range": "Melee, 1 Target, Dash",
+    "contestType": "Cute - Inversed Appeal",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "_id": "SU7t0kTAUe6uRJin",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692963260348,
+    "modifiedTime": 1692966135854,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!SU7t0kTAUe6uRJin"
+}

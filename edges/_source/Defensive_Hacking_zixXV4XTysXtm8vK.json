@@ -1,0 +1,33 @@
+{
+  "name": "Defensive Hacking",
+  "system": {
+    "name": "Defensive Hacking",
+    "origin": "",
+    "effect": "You may add your Focus Ranks as additional Damage Reduction while in digital battles. You may apply this Damage Reduction to Technology Education attacks.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Adept Technology Education, Novice Focus, Datajack Augmentation",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953792,
+    "modifiedTime": 1683367977174,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "zixXV4XTysXtm8vK",
+  "_key": "!items!zixXV4XTysXtm8vK"
+}

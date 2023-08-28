@@ -1,0 +1,32 @@
+{
+  "name": "Far Reading",
+  "system": {
+    "name": "Far Reading",
+    "origin": "",
+    "effect": "The user treats their Focus Rank as 2 higher for the purposes of determining the range of Telepath.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Level 20, Telepath Capability",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202705,
+    "modifiedTime": 1683369231445,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "ETu0f0LwOGOG57H5",
+  "_key": "!items!ETu0f0LwOGOG57H5"
+}

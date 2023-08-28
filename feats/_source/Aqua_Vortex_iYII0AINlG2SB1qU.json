@@ -1,0 +1,40 @@
+{
+  "name": "Aqua Vortex",
+  "system": {
+    "name": "Aqua Vortex",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon hits with a damaging Water- Type attack\nEffect: All targets of the attack are put in a Vortex, and take a penalty to all Damage Rolls equal to your Type-Linked Skill Rank while in the Vortex.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Flood!, Type-Linked Skill at Master",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.QbazD54NO8lYHn5e"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081767,
+    "modifiedTime": 1683383582735,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "iYII0AINlG2SB1qU",
+  "_key": "!items!iYII0AINlG2SB1qU"
+}

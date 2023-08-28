@@ -1,0 +1,40 @@
+{
+  "name": "Twisted Soul",
+  "system": {
+    "name": "Twisted Soul",
+    "origin": "",
+    "effect": "You gain the Twisted Power Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Shade Caller",
+    "frequency": "Static",
+    "tags": "[+Attack or Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.mnQ508CdFKoJw3D7"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078910,
+    "modifiedTime": 1683383583155,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "NZEDVusWTAK1qLAz",
+  "_key": "!items!NZEDVusWTAK1qLAz"
+}

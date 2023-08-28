@@ -1,0 +1,37 @@
+{
+  "name": "Sequence",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Trigger - The user uses an Electric Attack\\nFor every allied Electric-Type Pokémon adjacent to the user, the triggering Attack deals an additional +3 Damage.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "At-Will - Free Action",
+    "tier": ""
+  },
+  "_id": "YWRUQgKcUMBYJvAr",
+  "effects": [],
+  "folder": null,
+  "sort": 28900000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!YWRUQgKcUMBYJvAr"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Noise Complaint",
+  "system": {
+    "name": "Noise Complaint",
+    "origin": "",
+    "effect": "You learn the Moves Uproar and Hyper Voice.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Cacophany, Expert Charm or Focus",
+    "frequency": "Static",
+    "tags": "[+Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.OvJloWH8ky5V0e77"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079067,
+    "modifiedTime": 1683383582705,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "v9n0bWMssaiyFQr4",
+  "_key": "!items!v9n0bWMssaiyFQr4"
+}

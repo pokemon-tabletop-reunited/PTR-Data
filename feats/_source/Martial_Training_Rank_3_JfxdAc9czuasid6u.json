@@ -1,0 +1,40 @@
+{
+  "name": "Martial Training Rank 3",
+  "system": {
+    "name": "Martial Training Rank 3",
+    "origin": "",
+    "effect": "Learn two Martial Artist Moves. You may choose any Move marked with the Martial Training Rank you are taking or lower. Moves marked with an Ability require that Ability to be chosen.\nRank 3 Moves: Cross Chop(Inner Focus), Close Combat, Triple Kick(Technician), High Jump Kick(Reckless), Sky Uppercut(Iron Fist), Storm Throw(Guts)",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Martial Artist, Master Combat",
+    "frequency": "Static",
+    "tags": "[Ranked 3]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.iYtZfVHVfmvh5EPX"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079047,
+    "modifiedTime": 1683383583045,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "JfxdAc9czuasid6u",
+  "_key": "!items!JfxdAc9czuasid6u"
+}

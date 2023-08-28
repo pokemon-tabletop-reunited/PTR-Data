@@ -1,0 +1,40 @@
+{
+  "name": "Mystic Defense",
+  "system": {
+    "name": "Mystic Defense",
+    "origin": "",
+    "effect": "You learn the Moves Light Screen and Safeguard.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Sage",
+    "frequency": "Static",
+    "tags": "[+HP]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.P8I2kl8vBBAS1RmG"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081794,
+    "modifiedTime": 1683383582711,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "PfbPpWm9tiloEy9c",
+  "_key": "!items!PfbPpWm9tiloEy9c"
+}

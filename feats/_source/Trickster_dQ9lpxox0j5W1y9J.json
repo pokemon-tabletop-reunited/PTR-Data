@@ -1,0 +1,40 @@
+{
+  "name": "Trickster",
+  "system": {
+    "name": "Trickster",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon hits a foe with a Status-Class Move or a foe triggers your Pokémon’s Hazard\nEffect: After the Move is resolved, your Pokémon may perform a Dirty Trick or Manipulate Maneuver on that foe as a Free Action. The Maneuver automatically hits, but the target must be in range for the chosen Maneuver. Use your own Guile to resolve Manipulate Rolls.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Novice Guile",
+    "frequency": "1 AP - Free Action",
+    "tags": "[Class]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.4LQVXOjgdvPzylpl"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079070,
+    "modifiedTime": 1683383582214,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "dQ9lpxox0j5W1y9J",
+  "_key": "!items!dQ9lpxox0j5W1y9J"
+}

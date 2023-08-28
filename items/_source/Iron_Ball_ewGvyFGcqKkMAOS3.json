@@ -1,0 +1,50 @@
+{
+  "name": "Iron Ball",
+  "system": {
+    "origin": "",
+    "effect": "The Holder’s Speed is halved, and any immunity to Ground Type is lost. Hand Item for Trainers. Standard Action to drop.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.458Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "900",
+    "consumable": "0",
+    "container": false,
+    "name": "Iron Ball",
+    "useCount": 0,
+    "modifier": null
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368783783,
+    "modifiedTime": 1692171391215,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "ewGvyFGcqKkMAOS3",
+  "_key": "!items!ewGvyFGcqKkMAOS3"
+}

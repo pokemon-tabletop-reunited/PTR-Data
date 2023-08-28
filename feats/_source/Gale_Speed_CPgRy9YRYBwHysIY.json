@@ -1,0 +1,40 @@
+{
+  "name": "Gale Speed",
+  "system": {
+    "name": "Gale Speed",
+    "origin": "",
+    "effect": "Choose Celebrate or Gale Wings. You gain the chosen Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Raging Winds Rank 1, Master Acrobatics or Perception",
+    "frequency": "Static",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.AkV7iSi2g5EoKoZZ"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079311,
+    "modifiedTime": 1683383582359,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "CPgRy9YRYBwHysIY",
+  "_key": "!items!CPgRy9YRYBwHysIY"
+}

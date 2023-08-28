@@ -1,0 +1,39 @@
+{
+  "folder": null,
+  "name": "Dark Shroud",
+  "type": "ability",
+  "img": "/systems/ptu/static/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "The user is immune to the damage and effects of Dark-Type attacks. If the user is hit by a Dark-Type attack, they gain +1 CS in their choice of Defense or Special Defense. Defensive.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Static",
+    "tier": ""
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693119417059,
+    "modifiedTime": 1693119459579,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "BIw7KblluB24yoCb",
+  "sort": 0,
+  "_key": "!items!BIw7KblluB24yoCb"
+}

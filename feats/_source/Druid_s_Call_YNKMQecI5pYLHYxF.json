@@ -1,0 +1,40 @@
+{
+  "name": "Druid's Call",
+  "system": {
+    "name": "Druid's Call",
+    "origin": "",
+    "effect": "6 small saplings, flowery bushes, or mushroom patches (depending on your oath) suddenly grow within 6 meters of you, occupying 1 square each. This vegetation lasts until the end of the encounter, and acts as rough terrain that blocks line of sight for Pokémon and Trainers without the Naturewalk (Forest) Capability. Whenever you use a Move learned through Nature's Embrace, you may have it originate from these Plants as if they were the user. This Feature must be used on soil, or terrain under which soil is hidden by only a few inches (such as most sidewalks, parking lots, gravel or woodchip lots, etc.)",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Green Path",
+    "frequency": "Scene x2 – Standard Action",
+    "tags": "[-]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.PnNRoWZupn2gLZto"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084435,
+    "modifiedTime": 1683383582722,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "YNKMQecI5pYLHYxF",
+  "_key": "!items!YNKMQecI5pYLHYxF"
+}

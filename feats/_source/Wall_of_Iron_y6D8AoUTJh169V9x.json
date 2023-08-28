@@ -1,0 +1,40 @@
+{
+  "name": "Wall of Iron",
+  "system": {
+    "name": "Wall of Iron",
+    "origin": "",
+    "effect": "You learn the moves Iron Defense and Protect.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Fortress, Adept Combat or Focus",
+    "frequency": "Static",
+    "tags": "[+Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.mCe6zczWo8hrXWLE"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078979,
+    "modifiedTime": 1683383583141,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "y6D8AoUTJh169V9x",
+  "_key": "!items!y6D8AoUTJh169V9x"
+}

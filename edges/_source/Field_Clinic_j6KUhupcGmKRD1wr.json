@@ -1,0 +1,33 @@
+{
+  "name": "Field Clinic",
+  "system": {
+    "name": "Field Clinic",
+    "origin": "",
+    "effect": "Whenever your party Sets Up Camp, you may spend $200 worth of Medical Scrap to set up a Field Clinic. While using the Field Clinic, all members gain the following benefits;\n»» You may spend $300 of Medical Scrap to create and apply a Bandage or use a First Aid Kit\n»» If you have the Nurse Feature, you may spend $300 to activate it without Draining AP.\n»» Potions, Super Potions, Hyper Potions, Full Restores, Revives, Energy Powders, and Energy Roots used in this area heal their target an additional 5 Hit Points.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Adept Medicine Education",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953762,
+    "modifiedTime": 1683367977128,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "j6KUhupcGmKRD1wr",
+  "_key": "!items!j6KUhupcGmKRD1wr"
+}

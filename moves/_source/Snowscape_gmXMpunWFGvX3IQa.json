@@ -1,0 +1,61 @@
+{
+  "name": "Snowscape",
+  "type": "move",
+  "img": "systems/ptu/static/css/images/types2/IceIC_Icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Snowscape turns the field into a Flurry of snow. This counts as Hail for all Hail abilities while not dealing damage every turn.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Ice",
+    "category": "Status",
+    "damageBase": "--",
+    "frequency": "Daily x2",
+    "ac": "--",
+    "range": "Field, Weather",
+    "contestType": "Beauty - Sabotage",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "exportSource": {
+      "world": "tohou-the-wilderness",
+      "system": "ptu",
+      "coreVersion": "11.307",
+      "systemVersion": "4.0.0.alpha.10"
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692967122705,
+    "modifiedTime": 1692967605935,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "gmXMpunWFGvX3IQa",
+  "sort": 0,
+  "_key": "!items!gmXMpunWFGvX3IQa"
+}

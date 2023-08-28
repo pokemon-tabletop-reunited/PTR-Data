@@ -1,0 +1,40 @@
+{
+  "name": "Taskmaster",
+  "system": {
+    "name": "Taskmaster",
+    "origin": "",
+    "effect": "Trigger - You apply Brutal Training as a Training action\nEffect: You may grant your Pokémon up to three injuries. If your Pokémon has at least one Injury, it becomes Hardened.  See Extras - Class Mechanics for Hardened details.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Brutal Training, Novice Intimidate",
+    "frequency": "At-Will - Free Action",
+    "tags": "[Class]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Qbd04TGSzL3weZM4"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078813,
+    "modifiedTime": 1683383582737,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "htUv942tvbpYxlLy",
+  "_key": "!items!htUv942tvbpYxlLy"
+}

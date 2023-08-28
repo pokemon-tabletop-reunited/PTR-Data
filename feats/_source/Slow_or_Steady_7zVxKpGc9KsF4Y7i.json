@@ -1,0 +1,40 @@
+{
+  "name": "Slow or Steady",
+  "system": {
+    "name": "Slow or Steady",
+    "origin": "",
+    "effect": "Choose Analytic or Battle Armor. You gain the chosen ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Fortress",
+    "frequency": "Static",
+    "tags": "[+Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.FrpJvtEJFmRG3c1C"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078913,
+    "modifiedTime": 1683383582474,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "7zVxKpGc9KsF4Y7i",
+  "_key": "!items!7zVxKpGc9KsF4Y7i"
+}

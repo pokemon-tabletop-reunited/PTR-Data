@@ -1,0 +1,40 @@
+{
+  "name": "Pain Resistance",
+  "system": {
+    "name": "Pain Resistance",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon with 1 or more injuries takes Damage\nEffect: Your Pokémon gains X Damage Reduction against the triggering attack, where X is its Tick Value multiplied by the number of Injuries it has. This may be triggered once per Scene per Pokémon.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Taskmaster, Adept Intimidate",
+    "frequency": "1 AP - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.sZ3IaFyfc5uUdRNl"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079333,
+    "modifiedTime": 1683383583281,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "rqjS0uuGvSJbcJnE",
+  "_key": "!items!rqjS0uuGvSJbcJnE"
+}

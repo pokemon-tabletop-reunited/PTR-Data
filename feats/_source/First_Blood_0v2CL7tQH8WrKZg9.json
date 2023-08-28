@@ -1,0 +1,40 @@
+{
+  "name": "First Blood",
+  "system": {
+    "name": "First Blood",
+    "origin": "",
+    "effect": "Trigger - You release a Pokémon from its Poké Ball\nEffect: If you have a Pokémon turn available this round or next, your Pokémon may use a Move as an Interrupt as soon as it is sent out. This consumes your Pokémon turn for the round (or the following round) as normal.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Tag In, Master Acrobatics or Guile",
+    "frequency": "Scene - Free Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Onq7RfHTsFHckXHG"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079033,
+    "modifiedTime": 1683383582703,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "0v2CL7tQH8WrKZg9",
+  "_key": "!items!0v2CL7tQH8WrKZg9"
+}

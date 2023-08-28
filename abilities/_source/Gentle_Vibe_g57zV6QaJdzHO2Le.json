@@ -1,0 +1,37 @@
+{
+  "name": "Gentle Vibe",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "The user creates a Burst 2. Everything in the Burst, including the user, have their Combat Stages reset, and are cured of any Volatile Status Afflictions.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Scene - Standard Action",
+    "tier": ""
+  },
+  "_id": "g57zV6QaJdzHO2Le",
+  "effects": [],
+  "folder": null,
+  "sort": 35700000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!g57zV6QaJdzHO2Le"
+}

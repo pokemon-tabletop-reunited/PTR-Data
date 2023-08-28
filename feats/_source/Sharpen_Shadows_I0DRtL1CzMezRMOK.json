@@ -1,0 +1,40 @@
+{
+  "name": "Sharpen Shadows",
+  "system": {
+    "name": "Sharpen Shadows",
+    "origin": "",
+    "effect": "You learn Dark Pulse and Night Slash",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Shade Caller, Expert Guile or Stealth",
+    "frequency": "Static",
+    "tags": "[+Attack or Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.BNhI3qO2A22LQPzn"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081763,
+    "modifiedTime": 1683383582373,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "I0DRtL1CzMezRMOK",
+  "_key": "!items!I0DRtL1CzMezRMOK"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Sage",
+  "system": {
+    "name": "Sage",
+    "origin": "",
+    "effect": "Target: An ally within 5 meters\nEffect: The target gains Damage Reduction equal to your Occult Education Rank doubled or their Tick Value, whichever is higher, for one full round.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Novice Occult Education",
+    "frequency": "At-Will - Standard Action",
+    "tags": "[Class][+HP]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.yO9IPEzvO8H9KLIw"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081726,
+    "modifiedTime": 1683383583826,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "DozuivSDWCgvsoeu",
+  "_key": "!items!DozuivSDWCgvsoeu"
+}

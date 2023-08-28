@@ -1,0 +1,32 @@
+{
+  "name": "Advanced Mobility (Overland)",
+  "system": {
+    "name": "Advanced Mobility (Overland)",
+    "origin": "",
+    "effect": "Increase Overland Movement Capability by 2. Advanced Mobility may not be taken again for Overland.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Level 20",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202704,
+    "modifiedTime": 1683369231443,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Tj3prcXEjZhCC43m",
+  "_key": "!items!Tj3prcXEjZhCC43m"
+}

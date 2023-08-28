@@ -1,0 +1,40 @@
+{
+  "name": "Lessons",
+  "system": {
+    "name": "Lessons",
+    "origin": "",
+    "effect": "You may perform any Mentor Lesson for which you qualify.\n»» Charm: Empowered Development\n»» Intimidate: Corrective Learning\n»» Intuition: Changing Viewpoints\n»» Pokémon Education: Versatile Teachings",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Mentor",
+    "frequency": "Daily x3 - Extended Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.TwtXHhVafGGJ0a3G"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079288,
+    "modifiedTime": 1683383582793,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "CePIOnTQxoqXxXd4",
+  "_key": "!items!CePIOnTQxoqXxXd4"
+}

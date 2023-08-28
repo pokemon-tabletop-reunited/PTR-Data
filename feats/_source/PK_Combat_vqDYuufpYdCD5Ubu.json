@@ -1,0 +1,40 @@
+{
+  "name": "PK Combat",
+  "system": {
+    "name": "PK Combat",
+    "origin": "",
+    "effect": "You may also wield weapons and items with your Telekinesis capability, as long as you are able to lift them. This means you may use Items and Melee Weapons that normally require you to be adjacent to your target at a range limited only by your Telekinesis. When wielding Weapons with your Telekinesis, you qualify for Moves using Focus instead of Combat and may add your Special Attack instead of your Attack Stat. The Attacks remain Physical, however.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Telekinetic, Adept Focus",
+    "frequency": "Bind 1 AP – Standard Action",
+    "tags": "[+Special Attack][Weapon]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.KdEE3kd1GKMXGUki"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078962,
+    "modifiedTime": 1683383582561,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "vqDYuufpYdCD5Ubu",
+  "_key": "!items!vqDYuufpYdCD5Ubu"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Traveler",
+  "system": {
+    "name": "Traveler",
+    "origin": "",
+    "effect": "You may use Survival instead of Athletics and Acrobatics to determine your Power Capability, High Jump, and Long Jump values. Determine your Overland Movement by substituting your Survival Rank for the lower of your Athletics or Acrobatics Rank.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Novice Survival",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953802,
+    "modifiedTime": 1683367977186,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "HuN16WLjyeMSiGRL",
+  "_key": "!items!HuN16WLjyeMSiGRL"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Champ in the Making",
+  "system": {
+    "name": "Champ in the Making",
+    "origin": "",
+    "effect": "Trigger - You use Ace Trainer to give Pokémon Trained Stats\nEffect: Choose two Trained Stats for each Pokémon instead of one. A Pokémon may only have two Trained Stats this way.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "4 Ace Trainer Features, Master Command",
+    "frequency": "Drain 1 AP - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.BLFrSjMlmhKmDjw0"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084354,
+    "modifiedTime": 1683383582370,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "SeHumXXZD9CwO1r0",
+  "_key": "!items!SeHumXXZD9CwO1r0"
+}

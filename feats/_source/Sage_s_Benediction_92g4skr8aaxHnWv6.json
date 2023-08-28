@@ -1,0 +1,40 @@
+{
+  "name": "Sage's Benediction",
+  "system": {
+    "name": "Sage's Benediction",
+    "origin": "",
+    "effect": "Trigger - An ally activates one of your Moves with the Blessing Keyword.\nEffect: The triggering ally gains an additional benefit as follows, depending on the Move used. The benefit takes effect after the Blessing and the attack that triggered it are resolved.\n»» Reflect: +1 Defense Combat Stage\n»» Light Screen: +1 Sp. Defense Combat Stage\n»» Safeguard: +1 Evasion\n»» Lucky Chant: +1 Accuracy",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Sacred Shield or Mystic Defense, Adept Occult Education",
+    "frequency": "1 AP - Free Action",
+    "tags": "[+HP]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.HGXIpgEWfx7Miner"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078867,
+    "modifiedTime": 1683383582507,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "92g4skr8aaxHnWv6",
+  "_key": "!items!92g4skr8aaxHnWv6"
+}

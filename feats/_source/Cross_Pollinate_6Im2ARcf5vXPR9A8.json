@@ -1,0 +1,40 @@
+{
+  "name": "Cross-Pollinate",
+  "system": {
+    "name": "Cross-Pollinate",
+    "origin": "",
+    "effect": "Trigger - Your Grass-Type Pokémon uses a damaging Grass-Type Move\nEffect: Your Pokémon may immediately use a Grass-Type Status-Class move as a Free Action.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Foiling Foliage, Type-Linked Skill at Master",
+    "frequency": "Daily x3 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.tkDaKZTX7uhgrpw9"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081771,
+    "modifiedTime": 1683383583306,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "6Im2ARcf5vXPR9A8",
+  "_key": "!items!6Im2ARcf5vXPR9A8"
+}

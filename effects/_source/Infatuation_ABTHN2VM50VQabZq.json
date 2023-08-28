@@ -1,0 +1,55 @@
+{
+  "name": "Infatuation",
+  "type": "condition",
+  "img": "systems/ptu/static/images/conditions/Infatuated.svg",
+  "system": {
+    "origin": "Not Yet Automated",
+    "effect": "The creature that Infatuated the target becomes the target's Crush. Infatuated targets take a -5 penalty on all Damage Rolls that do not include their Crush as a target. For determining Damage Rolls that do include their Crush as a target, the Infatuated target's Attack and Special Attack are halved. The target is cured of Infatuation with a Save Check of 16+ made at end of turn.",
+    "snippet": "",
+    "rules": [],
+    "slug": "infatuation",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "duration": {
+      "value": 0,
+      "unit": "encounter",
+      "expiry": "turn-start"
+    },
+    "value": {
+      "isValued": false,
+      "value": 1,
+      "autoIncrement": false
+    },
+    "references": {
+      "children": [],
+      "overrides": [],
+      "overriddenBy": []
+    },
+    "overrides": [],
+    "persistent": null,
+    "name": "",
+    "tokenIcon": {
+      "show": true
+    }
+  },
+  "folder": "rPNjp26cMp3XQ6aC",
+  "_id": "ABTHN2VM50VQabZq",
+  "effects": [],
+  "sort": 1300000,
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.1",
+    "coreVersion": "11.307",
+    "createdTime": 1691878068601,
+    "modifiedTime": 1692117902175,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!ABTHN2VM50VQabZq"
+}

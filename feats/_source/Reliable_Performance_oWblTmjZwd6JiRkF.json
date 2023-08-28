@@ -1,0 +1,40 @@
+{
+  "name": "Reliable Performance",
+  "system": {
+    "name": "Reliable Performance",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon makes an Appeal Roll, Accuracy Check, or Skill Check\nEffect: For appeal rolls, instead of making the Appeal Roll, you gain 1 Appeal Point for each Dice you would have rolled. For Accuracy Checks, act as if you had rolled a 10. For Skill Checks, multiply 3.5 by your Pokémon’s Skill Rank, and use the resulting number as the result of your roll, rounded down. For all rolls, add or subtract any modifiers as normal.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Nuanced Performance, Master Charm, Command, Guile, Intimidate, or Intuition",
+    "frequency": "2 AP - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.uhCoZBdKEEoSwjKC"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081746,
+    "modifiedTime": 1683383583765,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "oWblTmjZwd6JiRkF",
+  "_key": "!items!oWblTmjZwd6JiRkF"
+}

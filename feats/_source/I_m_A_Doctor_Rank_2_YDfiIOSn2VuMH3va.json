@@ -1,0 +1,40 @@
+{
+  "name": "I'm A Doctor Rank 2",
+  "system": {
+    "name": "I'm A Doctor Rank 2",
+    "origin": "",
+    "effect": "Each Rank, you gain one of Field Clinic or Medic Training and one of Nurse or First Aid Expertise.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Medic, Adept Medicine Education",
+    "frequency": "Static",
+    "tags": "[Ranked 2]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.fD0icocZmdsLwmd3"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081787,
+    "modifiedTime": 1683383582959,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "YDfiIOSn2VuMH3va",
+  "_key": "!items!YDfiIOSn2VuMH3va"
+}

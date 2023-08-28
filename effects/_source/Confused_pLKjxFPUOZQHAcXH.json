@@ -1,0 +1,60 @@
+{
+  "name": "Confused",
+  "type": "condition",
+  "img": "systems/ptu/static/images/conditions/Confused.svg",
+  "system": {
+    "origin": "Automated",
+    "effect": "Confused targets cannot take Attacks of Opportunity. If a Confused target makes and Attack (even attacks without rolls), roll 1d2. On a 1, after the attack is resolved, the Confused Pokémon loses Hit Points equal to half their Attack Stat if the Move was Physical, half their Special Attack Stat if the move was Special, or two Ticks of Hit Points if the Move was a Status Move. The target is cured of Confusion with a Save of 16+ made at end of turn.",
+    "snippet": "",
+    "rules": [],
+    "slug": "confused",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "duration": {
+      "value": 0,
+      "unit": "encounter",
+      "expiry": "turn-start"
+    },
+    "value": {
+      "isValued": false,
+      "value": 1,
+      "autoIncrement": false
+    },
+    "references": {
+      "children": [],
+      "overrides": [],
+      "overriddenBy": []
+    },
+    "overrides": [],
+    "persistent": {
+      "formula": "",
+      "type": "save",
+      "dc": 16,
+      "decrease": false
+    },
+    "name": "",
+    "tokenIcon": {
+      "show": true
+    }
+  },
+  "folder": "rPNjp26cMp3XQ6aC",
+  "_id": "pLKjxFPUOZQHAcXH",
+  "effects": [],
+  "sort": 700000,
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.1",
+    "coreVersion": "11.307",
+    "createdTime": 1691878068601,
+    "modifiedTime": 1692117902425,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!pLKjxFPUOZQHAcXH"
+}

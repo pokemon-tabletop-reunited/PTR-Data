@@ -1,0 +1,34 @@
+{
+  "name": "Shed Evolution",
+  "type": "capability",
+  "img": "/systems/ptu/css/images/icons/capability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "When Nincada evolves into Ninjask, a Shedinja is created that is treated as having evolved from the Nincada in every way, including (but not limited to) Nature, Moves, Abilities, and TP expenditures. If the Nincada had a loyalty higher than 1, it is not immediately hostile.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "Eg8QUXLtgRGKVlp3",
+  "effects": [],
+  "folder": null,
+  "sort": 2900000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693042188180,
+    "modifiedTime": 1693118851776,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!Eg8QUXLtgRGKVlp3"
+}

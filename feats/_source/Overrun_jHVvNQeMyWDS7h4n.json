@@ -1,0 +1,40 @@
+{
+  "name": "Overrun",
+  "system": {
+    "name": "Overrun",
+    "origin": "",
+    "effect": "Trigger: Your Mount with Rock Head makes a Damage Roll for a Dash or Pass Move\nEffect: Your Pokémon adds their Speed Stat in addition to their normal attacking Stat to their Damage Roll. The target gains Damage Reduction against this attack equal to their own Speed Stat.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Conqueror's March, Expert Acrobatics or Athletics",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.LrGxSvzHqR1JL9hR"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078822,
+    "modifiedTime": 1683383582617,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "jHVvNQeMyWDS7h4n",
+  "_key": "!items!jHVvNQeMyWDS7h4n"
+}

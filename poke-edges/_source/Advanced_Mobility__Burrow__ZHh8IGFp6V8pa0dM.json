@@ -1,0 +1,32 @@
+{
+  "name": "Advanced Mobility (Burrow)",
+  "system": {
+    "name": "Advanced Mobility (Burrow)",
+    "origin": "",
+    "effect": "Increase Burrow Movement Capability by 2. Advanced Mobility may not be taken again for Burrow.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Level 20",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202721,
+    "modifiedTime": 1683369231468,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "ZHh8IGFp6V8pa0dM",
+  "_key": "!items!ZHh8IGFp6V8pa0dM"
+}

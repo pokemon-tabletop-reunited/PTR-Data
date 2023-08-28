@@ -1,0 +1,52 @@
+{
+  "name": "Corrupt",
+  "type": "move",
+  "flags": {},
+  "effects": [],
+  "_id": "p0iM1RDltUvk0TPy",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "The target gains -2 CS in two stats, determined randomly. Roll 2d6, re-rolling results of 6, and duplicate results. 1 is Attack, 2 is Defense, 3 is Special Attack, 4 is Special Defense, 5 is Speed. On a miss, the target only loses -1 CS in each stat.",
+    "rules": [],
+    "slug": null,
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Poison",
+    "category": "Status",
+    "damageBase": "--",
+    "frequency": "Scene",
+    "ac": "7",
+    "range": "6, 1 Target",
+    "contestType": "Smart",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/types2/PoisonIC_Icon.png",
+  "folder": "CKiVqPT3ASdUeaM0",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606523899,
+    "modifiedTime": 1689606577014,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!p0iM1RDltUvk0TPy"
+}

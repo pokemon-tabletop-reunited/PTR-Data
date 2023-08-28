@@ -1,0 +1,40 @@
+{
+  "name": "Earthroil",
+  "system": {
+    "name": "Earthroil",
+    "origin": "",
+    "effect": "Your Ground-Type Pokémon may activate Earthroil as a Shift Action to use a damaging Ground-Type Move as it had a range of Line 4 or Burst 1 instead of its usual range, and as if it had the Groundsource keyword. 1-Target Moves performed this way take a -5 penalty to their Damage Rolls.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Mold the Earth, Type-Linked Skill at Expert",
+    "frequency": "At-Will - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Vb9hHoMnWAC4kjda"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078903,
+    "modifiedTime": 1683383582818,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "7pyfS42zfNFIcbbr",
+  "_key": "!items!7pyfS42zfNFIcbbr"
+}

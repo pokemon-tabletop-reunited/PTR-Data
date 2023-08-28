@@ -1,0 +1,55 @@
+{
+  "name": "Suppressed",
+  "type": "condition",
+  "img": "systems/ptu/static/images/conditions/Suppressed.svg",
+  "system": {
+    "origin": "Automated",
+    "effect": "Suppressed targets cannot use Moves with any Frequency oth than \"At-Will\". Suppression always lasts 1 full round, unless a Move or Ability specifies otherwise.",
+    "snippet": "",
+    "rules": [],
+    "slug": "suppressed",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "duration": {
+      "value": 0,
+      "unit": "encounter",
+      "expiry": "turn-start"
+    },
+    "value": {
+      "isValued": false,
+      "value": 1,
+      "autoIncrement": false
+    },
+    "references": {
+      "children": [],
+      "overrides": [],
+      "overriddenBy": []
+    },
+    "overrides": [],
+    "persistent": null,
+    "name": "",
+    "tokenIcon": {
+      "show": true
+    }
+  },
+  "folder": "rPNjp26cMp3XQ6aC",
+  "_id": "uxkB2vhF5HGjQAZY",
+  "effects": [],
+  "sort": 2100000,
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.1",
+    "coreVersion": "11.307",
+    "createdTime": 1691878068601,
+    "modifiedTime": 1692117902445,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!uxkB2vhF5HGjQAZY"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Creeping Doom",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "You create 4 swarms of centipedes up to 8-meters away from you, which need not be adjacent to one another. A centipede swarm is a hazard that causes anyone beginning their turn in them to lose a Tick of HP and is considered Bug type damage. Apply Weakness/Resistances. Do not apply stats. Pokemon or Trainers in a centipede swarm are Slowed but can move through them. You may create centipede swarms so that they share the area of other creatures. The swarms remain stationary unless you command them to move (a standard action to command any number of the swarms to move 3-meters). You cannot command a swarm to move more than 12-meters away from you and if you move more than 12-meters from any swarm, that swarm remains stationary.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Scene x2 - Free Action",
+    "tier": ""
+  },
+  "_id": "nnlxoy9Zf6ZMskJL",
+  "effects": [],
+  "folder": null,
+  "sort": 41700000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!nnlxoy9Zf6ZMskJL"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Lucky Clover Grand Finale",
+  "system": {
+    "name": "Lucky Clover Grand Finale",
+    "origin": "",
+    "effect": "You learn the Moves Moonblast and Aromatic Mist.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Passionato Harmony, Master Charm or Occult Education",
+    "frequency": "Static",
+    "tags": "[+Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.0FKUqB9GY9Ws7mkw"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079236,
+    "modifiedTime": 1683383582094,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "GBLXpM3OH9rFBh6v",
+  "_key": "!items!GBLXpM3OH9rFBh6v"
+}

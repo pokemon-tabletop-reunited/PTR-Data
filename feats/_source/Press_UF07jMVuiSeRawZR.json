@@ -1,0 +1,42 @@
+{
+  "name": "Press",
+  "system": {
+    "name": "Press",
+    "origin": "",
+    "effect": "Target: Your own Pokémon.\nEffect: You hit your Pokémon, and they lose 1/6th of their Max Hit Points and are cured of Sleep. Raise any two of their Stats by +1 CS each, and you may add half of your Intimidate Rank to any Skill Checks made this round to make this Pokémon obey orders. Using Press on a Pokémon may make them dislike you.",
+    "rules": [],
+    "slug": "",
+    "automation": [],
+    "prerequisites": "Adept Intimidate",
+    "frequency": "At-Will - Standard Action",
+    "tags": "-",
+    "notes": "",
+    "free": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.bz1EDsDC5WCSvcel"
+    }
+  },
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.8",
+    "coreVersion": "11.300",
+    "createdTime": 1683368081777,
+    "modifiedTime": 1688722354492,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "UF07jMVuiSeRawZR",
+  "_key": "!items!UF07jMVuiSeRawZR"
+}

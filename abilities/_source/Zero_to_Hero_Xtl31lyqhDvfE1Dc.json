@@ -1,0 +1,37 @@
+{
+  "name": "Zero to Hero",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "The first time the user switches out in battle from any effect, forced or unforced, the it comes out in battle for the rest of the scene in Hero Forme. This ability cannot be copied/overwritten/disabled by any ability/move/effect.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Static",
+    "tier": ""
+  },
+  "_id": "Xtl31lyqhDvfE1Dc",
+  "effects": [],
+  "folder": null,
+  "sort": 28500000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!Xtl31lyqhDvfE1Dc"
+}

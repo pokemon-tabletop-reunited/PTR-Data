@@ -1,0 +1,40 @@
+{
+  "name": "Tornado Charge",
+  "system": {
+    "name": "Tornado Charge",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon gains Initiative\nEffect: Your Pokémon gains 2 additional Standard Actions this turn. Your Pokémon may also Shift between taking each action, so long as their total Movement does not exceed their Movement Capabilities. All three of your Pokémon’s Standard Actions this turn must be used to perform Zephyr Shield, or Flying-Type Moves with a Frequency of At-Will or EOT. Tornado Charge may be used only once per day per Pokémon.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Celerity, Type-Linked Skill at Master",
+    "frequency": "Daily x3 - Special",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.CcFjoj5wK6UVrBo4"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084428,
+    "modifiedTime": 1683383582410,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "6CAKFCvZNGH78xS7",
+  "_key": "!items!6CAKFCvZNGH78xS7"
+}

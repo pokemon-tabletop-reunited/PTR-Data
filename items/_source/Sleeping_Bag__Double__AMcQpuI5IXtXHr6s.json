@@ -1,0 +1,50 @@
+{
+  "name": "Sleeping Bag (Double)",
+  "system": {
+    "origin": "",
+    "effect": "A standard sleeping bag. Holds two people.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.284Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "1800",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Sleeping Bag (Double)",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368824570,
+    "modifiedTime": 1692170822294,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "AMcQpuI5IXtXHr6s",
+  "_key": "!items!AMcQpuI5IXtXHr6s"
+}

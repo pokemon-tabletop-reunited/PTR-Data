@@ -1,0 +1,40 @@
+{
+  "name": "Rogue",
+  "system": {
+    "name": "Rogue",
+    "origin": "",
+    "effect": "You learn the Moves Feint Attack and Thief.\nNote: Rogue Skills are Acrobatics, Athletics, and Stealth.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Two of Acrobatics, Athletics, or Stealth at Novice Rank",
+    "frequency": "Static",
+    "tags": "[Class][+Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.FgCoLIu5yRxIAhyx"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078999,
+    "modifiedTime": 1683383582472,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "JUb2p7N53dFeNCtJ",
+  "_key": "!items!JUb2p7N53dFeNCtJ"
+}

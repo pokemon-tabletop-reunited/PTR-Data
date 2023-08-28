@@ -1,0 +1,55 @@
+{
+  "name": "Slowed",
+  "type": "condition",
+  "img": "systems/ptu/static/images/conditions/Slowed.svg",
+  "system": {
+    "origin": "Automated",
+    "effect": "A Pokémon that is Slowed has its Movement halved (minimum 1). This condition may be removed by switching, or at the end of a Scene as an Extended Action.",
+    "snippet": "",
+    "rules": [],
+    "slug": "slowed",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "duration": {
+      "value": 0,
+      "unit": "unlimited",
+      "expiry": "turn-start"
+    },
+    "value": {
+      "isValued": false,
+      "value": 1,
+      "autoIncrement": false
+    },
+    "references": {
+      "children": [],
+      "overrides": [],
+      "overriddenBy": []
+    },
+    "overrides": [],
+    "persistent": null,
+    "name": "",
+    "tokenIcon": {
+      "show": true
+    }
+  },
+  "folder": "rPNjp26cMp3XQ6aC",
+  "_id": "I2nVAxBFKDMe8EQt",
+  "effects": [],
+  "sort": 1900000,
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.1",
+    "coreVersion": "11.307",
+    "createdTime": 1691878068601,
+    "modifiedTime": 1692117902212,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!I2nVAxBFKDMe8EQt"
+}

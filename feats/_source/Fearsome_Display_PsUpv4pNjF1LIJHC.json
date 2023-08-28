@@ -1,0 +1,40 @@
+{
+  "name": "Fearsome Display",
+  "system": {
+    "name": "Fearsome Display",
+    "origin": "",
+    "effect": "Trigger - You use Leer or a Roughneck Move\nEffect: The Move gains additional effects.\n»» Leer: Attacks against affected foes gain a +2 Bonus to their Critical Range for one full round.\n»» Chip Away: The target is considered Vulnerable against this attack.\n»» Headbutt: The target has their Initiative set to 0 until the end of their next turn.\n»» Glare: The target loses 2 Speed Combat Stages. This occurs whether Glare hits or misses.\n»» Mean Look: The target is Suppressed.\n»» Endure: You gain two Ticks of Temporary Hit Points.\n»» Slack Off: You are cured of one Status Affliction.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Malice",
+    "frequency": "2 AP - Swift Action",
+    "tags": "[+Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.nxNqBbgBOPlZWP3R"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081675,
+    "modifiedTime": 1683383583186,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "PsUpv4pNjF1LIJHC",
+  "_key": "!items!PsUpv4pNjF1LIJHC"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Bring It On!",
+  "system": {
+    "name": "Bring It On! ",
+    "origin": "",
+    "effect": "Effect: You may trigger Bring It On! whenever\n»» A Cheered Ally takes Damage, to grant them 5\n Damage Reduction agains the triggering Damage.\n»» A Cheered Ally makes a Save Check, to grant them\n a +2 Bonus on that check.\n»» A Cheered Ally Takes a Breather, to grant them\n Temporary Hit Points equal to your Charm Rank.\nA target may benefit from each “Bring It On!” effect\n only once per Scene.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Cheers, Adept Charm",
+    "frequency": "1 AP – Free Action",
+    "tags": "[-]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.u5eCDBidFfi0yJof"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084384,
+    "modifiedTime": 1683383583315,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "1lbMvYpAyGsfbD7d",
+  "_key": "!items!1lbMvYpAyGsfbD7d"
+}

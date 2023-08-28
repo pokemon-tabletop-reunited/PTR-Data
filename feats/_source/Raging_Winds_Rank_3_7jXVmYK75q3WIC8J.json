@@ -1,0 +1,40 @@
+{
+  "name": "Raging Winds Rank 3",
+  "system": {
+    "name": "Raging Winds Rank 3",
+    "origin": "",
+    "effect": "You may learn two Moves from the list below, marked with the Raging Winds Rank you are gaining or lower.\nRank 3 Moves: Brave Bird, Hurricane, Mirror Move, Sky Attack",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Master Acrobatics or Perception",
+    "frequency": "Static",
+    "tags": "[Ranked 3][+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.gAa8hIYzqT5BULQR"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078950,
+    "modifiedTime": 1683383582979,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "7jXVmYK75q3WIC8J",
+  "_key": "!items!7jXVmYK75q3WIC8J"
+}

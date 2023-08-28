@@ -1,0 +1,40 @@
+{
+  "name": "Incandescence",
+  "system": {
+    "name": "Incandescence",
+    "origin": "",
+    "effect": "Trigger - Your Fire-Type Pokémon\nEffect: While this Feature is Bound, the target gains the Mixed Power Poké Edge effect when using damaging Fire-Type Attacks. If the target already has Mixed Power, they instead add their entire Attack and Special Attack Stats to all damaging Fire-Type Attacks, instead of one or the other. This does not stack with Twisted Power.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Brightest Flame, Type-Linked Skill at Expert",
+    "frequency": "Bind 2 AP – Standard Action",
+    "tags": "[Orders][Stratagem]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.zBMZWgaGO7Ce5UeX"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078989,
+    "modifiedTime": 1683383583839,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "pobkkwEfO5oELVMz",
+  "_key": "!items!pobkkwEfO5oELVMz"
+}

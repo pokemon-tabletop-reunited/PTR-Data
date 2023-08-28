@@ -1,0 +1,54 @@
+{
+  "name": "Trip",
+  "type": "move",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "You and the target each make opposed Combat or Acrobatics Checks. If you win, the target is knocked over and Tripped.",
+    "snippet": "",
+    "useCount": 0,
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "type": "",
+    "category": "",
+    "damageBase": "",
+    "frequency": "",
+    "ac": 6,
+    "range": "Melee, 1 Target",
+    "contestType": "",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "action": "Standard",
+    "class": "Status"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.NyDXqntLBJob9ngI"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.0.0.7",
+    "coreVersion": "10.291",
+    "createdTime": 1673299563387,
+    "modifiedTime": 1673299600192,
+    "lastModifiedBy": "bcwIRl58QQYB1i5R"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "bcwIRl58QQYB1i5R": 3
+  },
+  "_id": "dCy0llmgJuPwi2h9",
+  "_key": "!items!dCy0llmgJuPwi2h9"
+}

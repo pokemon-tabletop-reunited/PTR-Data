@@ -1,0 +1,40 @@
+{
+  "name": "Alarm Runes",
+  "system": {
+    "name": "Alarm Runes",
+    "origin": "",
+    "effect": "Target: A Glyph you have put down, regardless of distance\nEffect: You give the Glyph a Trigger, which may be as vague or as precise as you like (i.e.: “If anyone enters the room”, “if James peeks in my diary”, “If a Torkoal uses Surf while I scream the word ‘Gelato’”). If the trigger is met within the Rune’s 30 meters, the Rune will become visible, and will begin screeching loudly, alerting anyone nearby. You are capable of hearing this screeching noise in your head, regardless of your current distance. Glyphs will remember their Triggers as long as the AP spent on the Feature is Bound. If you have the Explosive Runes or Sentry Runes Features, you may instruct this Glyph to automatically use the chosen Feature as a Free Action when it is triggered if you have the AP to spend. You may have only one Glyph use Explosive Runes per round, even if multiple Runes are triggered at the same time.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Glyph",
+    "frequency": "Bind 1 AP - Standard Action",
+    "tags": "[+Attack or Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.vVoPGzA5CDOYaaoV"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078921,
+    "modifiedTime": 1683383583789,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "yNyVkWXEbZvqWSZK",
+  "_key": "!items!yNyVkWXEbZvqWSZK"
+}

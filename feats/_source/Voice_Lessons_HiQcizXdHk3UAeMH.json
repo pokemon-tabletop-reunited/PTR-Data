@@ -1,0 +1,40 @@
+{
+  "name": "Voice Lessons",
+  "system": {
+    "name": "Voice Lessons",
+    "origin": "",
+    "effect": "You and your Pokémon’s Moves with the Sonic keyword gain the Friendly keyword. Voice Lessons may not affect the Move Perish Song. Additionally, whenever your Pokémon use a Move with the Sonic Keyword in a Contest, they may roll +1d6.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Noise Complaint",
+    "frequency": "Static",
+    "tags": "[+Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.AYzeeX02FAVkdJxH"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081779,
+    "modifiedTime": 1683383582355,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "HiQcizXdHk3UAeMH",
+  "_key": "!items!HiQcizXdHk3UAeMH"
+}

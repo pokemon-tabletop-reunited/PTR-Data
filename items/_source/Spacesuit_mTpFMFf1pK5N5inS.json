@@ -1,0 +1,50 @@
+{
+  "name": "Spacesuit",
+  "system": {
+    "origin": "",
+    "effect": "Grants Vacuum Immunity and Free Floating 4. Weighs 200 pounds and is thus difficult for most Trainers to use in normal gravity. A Robotic Age upgraded version costing an extra $2000 confers Hazard Immunity too and weighs only 100 pounds instead. Body and Head equipment slots.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.478Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "8000",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Spacesuit",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368816179,
+    "modifiedTime": 1692170822486,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "mTpFMFf1pK5N5inS",
+  "_key": "!items!mTpFMFf1pK5N5inS"
+}

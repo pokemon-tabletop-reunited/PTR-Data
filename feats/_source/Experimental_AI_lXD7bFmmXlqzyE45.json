@@ -1,0 +1,40 @@
+{
+  "name": "Experimental AI",
+  "system": {
+    "name": "Experimental AI",
+    "origin": "",
+    "effect": "Increase the maximum complexity of all Pokébots you create by 2, and increase the maximum complexity of Pokébots you can control by 2.\nRecipe - Futuretech",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Engineer, Master Technology Education",
+    "frequency": "Static",
+    "tags": "[Engineer Researcher Field]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Z8PnWyVQv7kavVhX"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079137,
+    "modifiedTime": 1683383582873,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "lXD7bFmmXlqzyE45",
+  "_key": "!items!lXD7bFmmXlqzyE45"
+}

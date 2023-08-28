@@ -1,0 +1,39 @@
+{
+  "folder": null,
+  "name": "Encroach",
+  "type": "ability",
+  "img": "/systems/ptu/static/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "All Bug Type moves gain the Priority Keyword.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Static",
+    "tier": ""
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693118712766,
+    "modifiedTime": 1693118856353,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "yuAHTkC3WhqTqR9r",
+  "sort": 0,
+  "_key": "!items!yuAHTkC3WhqTqR9r"
+}

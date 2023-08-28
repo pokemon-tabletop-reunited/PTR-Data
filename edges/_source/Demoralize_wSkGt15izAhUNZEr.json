@@ -1,0 +1,33 @@
+{
+  "name": "Demoralize",
+  "system": {
+    "name": "Demoralize",
+    "origin": "",
+    "effect": "Whenever you land a Critical Hit on a foe, that foe becomes Vulnerable. Status-Class Moves with an Accuracy Roll can “Crit” for the purposes of activating this effect on a natural roll of 19 or higher, and any effects that expand your Critical-Hit Range also expand this range.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Adept Intimidate",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953775,
+    "modifiedTime": 1683367977146,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "wSkGt15izAhUNZEr",
+  "_key": "!items!wSkGt15izAhUNZEr"
+}

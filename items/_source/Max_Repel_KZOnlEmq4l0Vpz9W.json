@@ -1,0 +1,50 @@
+{
+  "name": "Max Repel",
+  "system": {
+    "origin": "",
+    "effect": "Lasts 5 hours; causes Pokémon of level 35 or lower to flee.\n\nSpraying a wild Pokémon directly with Repel will cause that Pokémon, if the Repel can affect Pokémon of that level, to immediately shift away from the user as far as the Pokémon is able as an Interrupt, forfeiting their next Shift Action. Spraying a Pokémon with a Repel is an AC6 Status Attack.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.336Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "400",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Max Repel",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "systems/ptu/images/item_icons/max repel.webp",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368789562,
+    "modifiedTime": 1692170822350,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "KZOnlEmq4l0Vpz9W",
+  "_key": "!items!KZOnlEmq4l0Vpz9W"
+}

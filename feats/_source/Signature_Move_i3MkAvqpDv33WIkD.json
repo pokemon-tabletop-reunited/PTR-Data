@@ -1,0 +1,40 @@
+{
+  "name": "Signature Move",
+  "system": {
+    "name": "Signature Move",
+    "origin": "",
+    "effect": "Choose a Move you know. Increase the Move’s Frequency one step, as if you had used a PP Up. This choice cannot be changed once made. This Feature may not select Moves known through temporary means, nor can these Moves be used to qualify for this Feature.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Learned four Moves",
+    "frequency": "Static",
+    "tags": "[+Any]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.G4vbHkGqDfbOlceA"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078997,
+    "modifiedTime": 1683383582486,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "i3MkAvqpDv33WIkD",
+  "_key": "!items!i3MkAvqpDv33WIkD"
+}

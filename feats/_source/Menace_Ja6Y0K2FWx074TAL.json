@@ -1,0 +1,40 @@
+{
+  "name": "Menace",
+  "system": {
+    "name": "Menace",
+    "origin": "",
+    "effect": "Trigger - You hit a foe with the Terrorize Manipulation\nEffect: Until their next turn, the target has their Initiative lowered to 0. For one full round, attacks against them cause them to Flinch on 17+ or have their existing Flinch Range increased by +4.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Roughneck",
+    "frequency": "At-Will - Swift Action",
+    "tags": "[+Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.PPpqkD2o3YCh6NUX"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084420,
+    "modifiedTime": 1683383582717,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Ja6Y0K2FWx074TAL",
+  "_key": "!items!Ja6Y0K2FWx074TAL"
+}

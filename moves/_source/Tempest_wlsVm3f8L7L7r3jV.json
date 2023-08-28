@@ -1,0 +1,52 @@
+{
+  "name": "Tempest",
+  "type": "move",
+  "flags": {},
+  "effects": [],
+  "_id": "wlsVm3f8L7L7r3jV",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "The Weather becomes Clear. Clear Weather is the default weather, conferring no innate bonuses or penalties of any sort.",
+    "rules": [],
+    "slug": null,
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Flying",
+    "category": "Special",
+    "damageBase": "6",
+    "frequency": "Scene",
+    "ac": "2",
+    "range": "Close Burst 2, Spirit Surge",
+    "contestType": "Beauty",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/types2/FlyingIC_Icon.png",
+  "folder": "CKiVqPT3ASdUeaM0",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606523899,
+    "modifiedTime": 1689606577014,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!wlsVm3f8L7L7r3jV"
+}

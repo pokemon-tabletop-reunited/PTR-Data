@@ -1,0 +1,40 @@
+{
+  "name": "Enchanting Gaze",
+  "system": {
+    "name": "Enchanting Gaze",
+    "origin": "",
+    "effect": "Choose a Manipulate Maneuver effect; apply that Effect to all foes in a Cone 2. This ignores Frequency Limitations with that Maneuver and automatically succeeds against all targets without an opposed roll.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Quick Wit, two Provocateur Skills at Expert Rank",
+    "frequency": "2 AP - Standard Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.f2QH0cYWYeL6V2Ga"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079333,
+    "modifiedTime": 1683383582958,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Bjfzquf4KlEq6h4s",
+  "_key": "!items!Bjfzquf4KlEq6h4s"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "One With the Winds",
+  "system": {
+    "name": "One With the Winds",
+    "origin": "",
+    "effect": "Effect: You summon a windy breeze that follows you around. Your sense of touch is extended through this wind, and you can guide it by thought, using it to perceive the shape and texture of objects as long as the wind can reach, even through very small cracks and holes. The range of this effect is equal to your Acrobatics Rank plus Perception Rank in meters.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Adept Perception",
+    "frequency": "Bind 2 AP - Standard Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.rqmJrfVn7iaITKDA"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081701,
+    "modifiedTime": 1683383583267,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "xqAkkDFLSQYn1dta",
+  "_key": "!items!xqAkkDFLSQYn1dta"
+}

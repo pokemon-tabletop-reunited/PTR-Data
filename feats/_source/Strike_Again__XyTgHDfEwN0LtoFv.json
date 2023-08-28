@@ -1,0 +1,40 @@
+{
+  "name": "Strike Again!",
+  "system": {
+    "name": "Strike Again!",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: The target may immediately take an additional Standard Action to use an At-Will attack.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Ravager Orders",
+    "frequency": "Scene - Standard Action",
+    "tags": "[Orders]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.K4bImTLFy0wBzeEl"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078960,
+    "modifiedTime": 1683383582551,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "XyTgHDfEwN0LtoFv",
+  "_key": "!items!XyTgHDfEwN0LtoFv"
+}

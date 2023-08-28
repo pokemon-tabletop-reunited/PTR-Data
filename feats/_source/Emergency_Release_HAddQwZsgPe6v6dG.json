@@ -1,0 +1,40 @@
+{
+  "name": "Emergency Release",
+  "system": {
+    "name": "Emergency Release",
+    "origin": "",
+    "effect": "You may Release a Pokémon as an Interrupt.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Juggler, Expert Acrobatics or Guile",
+    "frequency": "2 AP - Shift Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.WWDHLzXbFNrau2Xv"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078790,
+    "modifiedTime": 1683383582833,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "HAddQwZsgPe6v6dG",
+  "_key": "!items!HAddQwZsgPe6v6dG"
+}

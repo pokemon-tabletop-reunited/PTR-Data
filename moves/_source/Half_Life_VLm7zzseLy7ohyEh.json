@@ -1,0 +1,52 @@
+{
+  "name": "Half-Life",
+  "type": "move",
+  "flags": {},
+  "effects": [],
+  "_id": "VLm7zzseLy7ohyEh",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "The target loses 1/2 of their current Hit Points.",
+    "rules": [],
+    "slug": null,
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Nuclear",
+    "category": "Special",
+    "damageBase": "--",
+    "frequency": "Scene",
+    "ac": "4",
+    "range": "4, 1 Target",
+    "contestType": "Smart",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/types2/NuclearIC_Icon.png",
+  "folder": "CKiVqPT3ASdUeaM0",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606523899,
+    "modifiedTime": 1689606577014,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!VLm7zzseLy7ohyEh"
+}

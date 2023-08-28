@@ -1,0 +1,40 @@
+{
+  "name": "Mentor",
+  "system": {
+    "name": "Mentor",
+    "origin": "",
+    "effect": "Target: A Pokémon with at least 1 Tutor Point remaining\nEffect: The target loses 1 Tutor Point, and then learns a move from its tutor list marked with a (N), or any move on its level-up list learned at X Level or lower, where X is the target’s current Level plus the sum of your Mentor Skill Ranks. Note that despite being Tutored, these Moves count as if they were “natural” for organizational purposes.\nSpecial - When you take Mentor, choose two of Charm, Intimidate, Intuition, and Pokémon Education to become your Mentor Skills. The Skills you choose must be at Novice Rank or higher.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Two of Charm, Intimidate, Intuition, or Pokémon Education at Novice Rank",
+    "frequency": "Daily x3 - Extended Action",
+    "tags": "[Class]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.pG0mTQLumfDJTLEc"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079285,
+    "modifiedTime": 1683383583207,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "ohuHe7DxrHOxna6E",
+  "_key": "!items!ohuHe7DxrHOxna6E"
+}

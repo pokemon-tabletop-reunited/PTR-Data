@@ -1,0 +1,40 @@
+{
+  "name": "Staying Power",
+  "system": {
+    "name": "Staying Power",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon Takes a Breather\nEffect: Your Pokémon may “Take a Breather” even if it is Confused or Enraged, and it does not Trip or have to Shift away from enemies as part of the action. You may choose whether or not your Pokémon resets their Combat Stages to default.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Enduring Soul",
+    "frequency": "Scene - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.bsWh9z2XPyOfz6n6"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081674,
+    "modifiedTime": 1683383582908,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "DFqMWbwE2eUzTSgM",
+  "_key": "!items!DFqMWbwE2eUzTSgM"
+}

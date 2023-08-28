@@ -1,0 +1,40 @@
+{
+  "name": "Close Quarters Mastery",
+  "system": {
+    "name": "Close Quarters Mastery",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: While this Feature is Bound, the target’s Fighting-Type Moves cause foes to become Marked by the target for 1 full round. If the target is a Fighting- Type Pokémon, they may also Mark the Foe for one full round when hitting with a Grapple, Trip, or Push Maneuver.\n\nNote: Marked Foes provoke an attack of Opportunity from the Pokémon that marked them if they Shift out of an adjacent square into a square that is not adjacent, even if they use a Disengage Maneuver. Targets cannot be Marked by more than one Pokémon at a time.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Type Ace, Fighting as Chosen Type",
+    "frequency": "Bind 2 AP - Standard Action",
+    "tags": "[Orders][Stratagem]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.ambdhaW5hInD0GVQ"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081778,
+    "modifiedTime": 1683383582900,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "qNFV96WfXdPZDHMq",
+  "_key": "!items!qNFV96WfXdPZDHMq"
+}

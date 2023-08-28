@@ -1,0 +1,33 @@
+{
+  "name": "Soulbound",
+  "system": {
+    "name": "Soulbound",
+    "origin": "",
+    "effect": "Whenever your Patron feels strong emotions (positive or negative) or pain, those sensations will be shared with you, no matter the distance between you. You may take Soulbound multiple times, each time for a different instance of Touched.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Touched",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953770,
+    "modifiedTime": 1683367977141,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "HFwgiPAnzXc29T0k",
+  "_key": "!items!HFwgiPAnzXc29T0k"
+}

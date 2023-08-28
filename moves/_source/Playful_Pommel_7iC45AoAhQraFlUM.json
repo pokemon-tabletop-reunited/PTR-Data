@@ -1,0 +1,53 @@
+{
+  "name": "Playful Pommel",
+  "type": "move",
+  "img": "systems/ptu/static/css/images/types2/FairyIC_Icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Lower the user’s Special Attack and Special Defense by 1 CS after damage.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Fairy",
+    "category": "Status",
+    "damageBase": "8",
+    "frequency": "Scene x2",
+    "ac": "4",
+    "range": "Burst 1",
+    "contestType": "Beauty - Exhausting Act",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "_id": "7iC45AoAhQraFlUM",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693119119587,
+    "modifiedTime": 1693119140589,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!7iC45AoAhQraFlUM"
+}

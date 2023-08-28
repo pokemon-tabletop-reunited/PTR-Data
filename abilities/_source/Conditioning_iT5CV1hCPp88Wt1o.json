@@ -1,0 +1,36 @@
+{
+  "name": "Conditioning",
+  "type": "ability",
+  "flags": {},
+  "effects": [],
+  "_id": "iT5CV1hCPp88Wt1o",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "Whenever this Pokémon is damaged by a damaging Move, it gains 5 DR against that Move for one full round. If it is damaged by a Move that it already has DR against, its existing DR is instead increased by 5, and the duration of the DR is refreshed to one full round. Defensive.",
+    "rules": [],
+    "slug": null,
+    "automation": [],
+    "frequency": "Static",
+    "tier": "",
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "folder": "rmoa0NFMp7Td9R3R",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606908412,
+    "modifiedTime": 1689606925574,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!iT5CV1hCPp88Wt1o"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Fairy Jinx",
+  "type": "move",
+  "img": "systems/ptu/static/css/images/types2/FairyIC_Icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Lowers one of the target's stats by 2 Combat Stages. The lowered stat is chosen at random from any stats that are not negative. If no stat is eligible, this move will fail.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Fairy",
+    "category": "Status",
+    "damageBase": "--",
+    "frequency": "Scene x2",
+    "ac": 5,
+    "range": "4, 1 Target",
+    "contestType": "Smart - Unsettling",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "_id": "BqG5FGEWjcBkx83u",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693119119587,
+    "modifiedTime": 1693119119587,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!BqG5FGEWjcBkx83u"
+}

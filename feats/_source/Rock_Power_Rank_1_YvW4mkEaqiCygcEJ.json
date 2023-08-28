@@ -1,0 +1,40 @@
+{
+  "name": "Rock Power Rank 1",
+  "system": {
+    "name": "Rock Power Rank 1",
+    "origin": "",
+    "effect": "Each Rank, choose one of Sturdy, Rock Head, or Sand Veil. You gain the chosen Ability. If you choose Sand Veil, you may consider sand a “solid surface” for the purposes of Stone Stance.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Adept Combat or Survival",
+    "frequency": "Static",
+    "tags": "[Ranked 2][+Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.qC0nNe64C7gIEMdv"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078996,
+    "modifiedTime": 1683383583232,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "YvW4mkEaqiCygcEJ",
+  "_key": "!items!YvW4mkEaqiCygcEJ"
+}

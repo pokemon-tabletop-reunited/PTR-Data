@@ -1,0 +1,40 @@
+{
+  "name": "Type Sync",
+  "system": {
+    "name": "Type Sync",
+    "origin": "",
+    "effect": "The Target gains the Type of your Elemental Connection as an additional Type, or has one of their Types replaced by that Type. See the Type Changes section (page 436) for more information and suggestions. A Pokémon may be targeted by Type Sync only once. This Feature may be performed One Time for each Rank above Untrained you have of your highest of Medicine, Occult, or Tech Education, up to a maximum of 4 times at Master Rank.\n\n*Type-Linked Classes include Type Ace and all Elementalist Classes, all of which are linked to their respective Types. Additionally, Aura Guardian is linked to Fighting; and Telekinetic, Telepath, and Warper are linked to Psychic. Obviously, your Type Linked Class must match your Elemental Connection to apply for Type Sync!",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Elemental Connection, a Type-Linked Class*, Adept Medicine, Occult, or Tech Education.",
+    "frequency": "Special - Extended Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.mqqvGRXQ6cAVa13D"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079293,
+    "modifiedTime": 1683383583158,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "1PCj8ZQqb4zilz6d",
+  "_key": "!items!1PCj8ZQqb4zilz6d"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Sleight",
+  "system": {
+    "name": "Sleight",
+    "origin": "",
+    "effect": "Your Pokémon may activate Sleight as an Interrupt to immediately take their turn and use a Status-Class Move as a Standard Action. If this Move targets a foe, it ignores Substitute and Defensive Abilities, and Blessings may not be activated against the Move.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "4 Trickster Features, Master Guile",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.gPm9q40CsAUHAduO"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078986,
+    "modifiedTime": 1683383582984,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "tQNmSX5XpbX7ynT9",
+  "_key": "!items!tQNmSX5XpbX7ynT9"
+}

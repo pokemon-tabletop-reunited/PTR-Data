@@ -1,0 +1,40 @@
+{
+  "name": "Push it to the Limit",
+  "system": {
+    "name": "Push it to the Limit",
+    "origin": "",
+    "effect": "Trigger - You hit with a Berserker Move or Weapon Attack\nEffect: Immediately gain one Injury before resolving the triggering attack. You gain a Tick of Temporary Hit Points and may cure yourself of a Persistent Status Affliction. The triggering attack doubles your damage bonus from Lessons in Rage and Pain.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Lessons in Rage & Pain, Expert Intimidate",
+    "frequency": "At-Will - Free Action",
+    "tags": "[+HP]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.GeG9xNvkBOe8UToU"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084449,
+    "modifiedTime": 1683383582496,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "PBbyNgadIRQPQFS0",
+  "_key": "!items!PBbyNgadIRQPQFS0"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Item Mastery",
+  "system": {
+    "name": "Item Mastery",
+    "origin": "",
+    "effect": "You learn the Moves Fling and Recycle.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Backpacker",
+    "frequency": "Static",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.6YHXZxyvNakozMni"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078896,
+    "modifiedTime": 1683383582271,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "1UgrreawgCPO4L1g",
+  "_key": "!items!1UgrreawgCPO4L1g"
+}

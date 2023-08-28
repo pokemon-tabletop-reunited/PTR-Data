@@ -1,0 +1,40 @@
+{
+  "name": "Spark Master",
+  "system": {
+    "name": "Spark Master",
+    "origin": "",
+    "effect": "Choose Static or Electrodash. You gain the Chosen Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Elemental Connection (Electric), Novice Focus, Novice Acrobatics",
+    "frequency": "Static",
+    "tags": "[Class][+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.7XgtClFALCZow20F"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084383,
+    "modifiedTime": 1683383582301,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "bh4K4IOQgbzTpJD9",
+  "_key": "!items!bh4K4IOQgbzTpJD9"
+}

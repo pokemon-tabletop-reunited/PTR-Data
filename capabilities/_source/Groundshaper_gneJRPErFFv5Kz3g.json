@@ -1,0 +1,34 @@
+{
+  "name": "Groundshaper",
+  "type": "capability",
+  "img": "/systems/ptu/css/images/icons/capability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "A Pokémon with the Groundshaper Capability can transform the terrain around them to create Rough Terrain or Slow Terrain or Terrain that is both, or flatten out Rough Terrain to create Basic Terrain. Using this Capability is an At-Will Standard Action that affects all cardinally adjacent squares. All squares need not be affected in the same way, and the user may choose not to affect certain squares at all if they wish.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "gneJRPErFFv5Kz3g",
+  "effects": [],
+  "folder": null,
+  "sort": 8500000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693042188180,
+    "modifiedTime": 1693118851776,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!gneJRPErFFv5Kz3g"
+}

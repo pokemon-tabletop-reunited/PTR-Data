@@ -1,0 +1,40 @@
+{
+  "name": "Sign Mastery Rank 4",
+  "system": {
+    "name": "Sign Mastery Rank 4",
+    "origin": "",
+    "effect": "You gain two Blessings in the form of Signs, marked Rank 3 or lower. You must additionally meet any Prerequisites of the Blessing.\nRank 3 Blessings: Blessed Resilience, Insight of the Great Ones",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "A Pact Gift, GM Permission\nOR\nAll your Patron's Major Gifts, GM Permission (if no Pact Gift)",
+    "frequency": "Static",
+    "tags": "[Ranked 4][Patron Stat]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.G2IHgnIHMprWQjwO"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078889,
+    "modifiedTime": 1683383582482,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "LYRLnxsaLWWEpx5g",
+  "_key": "!items!LYRLnxsaLWWEpx5g"
+}

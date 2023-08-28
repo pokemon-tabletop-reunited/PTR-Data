@@ -1,0 +1,40 @@
+{
+  "name": "Disruption Order",
+  "system": {
+    "name": "Disruption Order",
+    "origin": "",
+    "effect": "Trigger: Your Pokémon hits with a Bug-Type Move\nEffect: Until the end of user’s next turn, all targets hit by the Move are Slowed, suffer a -X to Accuracy Rolls, and are Flinched by Damaging Attacks on 16+.\nX is equal to half your type-linked skill rank.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Insectoid Utility, Type-Linked Skill at Master",
+    "frequency": "Daily x3 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.8yolmwIo6ZXVju0m"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081684,
+    "modifiedTime": 1683383582329,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "6duv2xVu7jDng8Cc",
+  "_key": "!items!6duv2xVu7jDng8Cc"
+}

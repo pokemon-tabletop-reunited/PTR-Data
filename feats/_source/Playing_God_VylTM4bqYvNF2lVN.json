@@ -1,0 +1,40 @@
+{
+  "name": "Playing God",
+  "system": {
+    "name": "Playing God",
+    "origin": "",
+    "effect": "Cost: $3500\nEffect: Choose Castform, Grimer, Koffing, Magnemite, Porygon, Solosis, Trubbish, or Voltorb. Using your chemistry set, you create an artificial Egg of the Chosen Pokémon, that hatches within a day. The resulting Pokemon is born at level 5, with the Nature and Ability of your choice (Abilities chosen from its species’ Basic Abilities). Additionally, you may enhance the Pokemon in several ways. Choose a number of upgrades below equal to your Technology Education Rank.\n»» The Pokémon is of an unusual coloration, gaining a +2d6 Bonus to the Introduction Stage of a Contest toward a single Contest Stat.\n»» The Pokémon adds a Move from its Egg Move or Move Tutor List to its Inheritance List. This may be performed up to 3 times.\n»» Increase one of the Pokémon’s Base Stats by +1. This counts as use of a Vitamin. This may be performed up to 5 times.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Chemist, Expert Technology Education",
+    "frequency": "At-Will - Extended Action",
+    "tags": "[Chemistry Research Field][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.WfB278HtYqDN1hus"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084455,
+    "modifiedTime": 1683383582835,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "VylTM4bqYvNF2lVN",
+  "_key": "!items!VylTM4bqYvNF2lVN"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Sticky Terrain",
+  "type": "move",
+  "flags": {},
+  "effects": [],
+  "_id": "msNROKgpzwXePauw",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "The Field becomes Sticky for five rounds. While the Field is Sticky, non-Flying and nonLevitating Pokmon cannot declare Priority or Interrupt Moves outside their own Initiatives. In addition, all Jumping Capabilities of creatures touching the ground are reduced by 2, to a minimum of 0.",
+    "rules": [],
+    "slug": null,
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Poison",
+    "category": "Status",
+    "damageBase": "--",
+    "frequency": "Daily x2",
+    "ac": "None",
+    "range": "Field",
+    "contestType": "Smart",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/types2/PoisonIC_Icon.png",
+  "folder": "CKiVqPT3ASdUeaM0",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606523899,
+    "modifiedTime": 1689606577014,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!msNROKgpzwXePauw"
+}

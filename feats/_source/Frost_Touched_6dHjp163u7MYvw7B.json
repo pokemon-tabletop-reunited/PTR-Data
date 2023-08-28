@@ -1,0 +1,40 @@
+{
+  "name": "Frost Touched",
+  "system": {
+    "name": "Frost Touched",
+    "origin": "",
+    "effect": "Choose two out of Haze, Ice Shard, Mist, and Powder Snow. You learn the Chosen Moves.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Elemental Connection (Ice), Novice Athletics, Novice Survival",
+    "frequency": "Static",
+    "tags": "[Class][+Attack or Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Q9h5EatQR44eRWg9"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079321,
+    "modifiedTime": 1683383582728,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "6dHjp163u7MYvw7B",
+  "_key": "!items!6dHjp163u7MYvw7B"
+}

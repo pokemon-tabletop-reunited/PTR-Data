@@ -1,0 +1,40 @@
+{
+  "name": "Choreographer",
+  "system": {
+    "name": "Choreographer",
+    "origin": "",
+    "effect": "Target: Your Pokémon with at least 2 Tutor Points\nEffect: The target loses 2 Tutor Point and learns a Dance Move created by yourself. Choreographer may target a Pokémon multiple times.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Dance Form; Adept Acrobatics, Athletics, or Charm",
+    "frequency": "At-Will - Extended Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.5gqYovOU7xswVoXy"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081753,
+    "modifiedTime": 1683383582240,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "g99Az6wOvUGRnG0d",
+  "_key": "!items!g99Az6wOvUGRnG0d"
+}

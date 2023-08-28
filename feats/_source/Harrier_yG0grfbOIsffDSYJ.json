@@ -1,0 +1,40 @@
+{
+  "name": "Harrier",
+  "system": {
+    "name": "Harrier",
+    "origin": "",
+    "effect": "Trigger - You hit a foe with a damaging Attack\nEffect: Until the end of your next turn, that foe is considered Flanked, is Slowed, and cannot take actions as Priority or Interrupt. Harrier may only be used on a foe once per Scene.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Skirmisher",
+    "frequency": "At-Will - Free Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.AobQ2nfbSkM8m7fF"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081739,
+    "modifiedTime": 1683383582362,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "yG0grfbOIsffDSYJ",
+  "_key": "!items!yG0grfbOIsffDSYJ"
+}

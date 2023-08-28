@@ -1,0 +1,40 @@
+{
+  "name": "Stalwart Bastion",
+  "system": {
+    "name": "Stalwart Bastion",
+    "origin": "",
+    "effect": "While this Feature is Bound, you and all cardinally adjacent allies gain Damage Reduction equal to your Combat or Focus Rank.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Fortress",
+    "frequency": "Bind 2 AP - Standard Action",
+    "tags": "[+Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.NKET9mBtCtTAv2rC"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079350,
+    "modifiedTime": 1683383582633,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "qUieu55P1nXEilRX",
+  "_key": "!items!qUieu55P1nXEilRX"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Awareness",
+  "system": {
+    "name": "Awareness",
+    "origin": "",
+    "effect": "Your Pokémon add +2 to all Save Checks.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Enduring Soul, 3 Pokémon with a\nDefensive Ability*",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Lx95Jn82rRIKHaIU"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081688,
+    "modifiedTime": 1683383582619,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "m7d9oVpUXxXjO4so",
+  "_key": "!items!m7d9oVpUXxXjO4so"
+}

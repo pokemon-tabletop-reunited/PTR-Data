@@ -1,0 +1,40 @@
+{
+  "name": "Beautiful Ballet Rank 1",
+  "system": {
+    "name": "Beautiful Ballet Rank 1",
+    "origin": "",
+    "effect": "Your Pokémon with at least 3d6 in their Beauty Stat from Poffins may activate Beautiful Ballet as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves. X is the Rank of the chosen Move.\nRank 1: Captivate, Mist",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Style Expert, Beauty as Chosen Stat, Novice Intuition",
+    "frequency": "X AP - Special",
+    "tags": "[Ranked 2]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.7tHM5Gof4OEHBu4w"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084369,
+    "modifiedTime": 1683383582309,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "ObjeWt3mzaP4qTiS",
+  "_key": "!items!ObjeWt3mzaP4qTiS"
+}

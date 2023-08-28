@@ -1,0 +1,40 @@
+{
+  "name": "Pinpoint Strike",
+  "system": {
+    "name": "Pinpoint Strike",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: Increase the Accuracy and Effect Range of the target’s damaging attacks by +2. These attacks deal 5 less damage, before applying weakness and resistance.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Precision Orders",
+    "frequency": "Bind 2 AP – Standard Action",
+    "tags": "[Orders][Stratagem]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.ns68Y3m31ryQLjwb"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079277,
+    "modifiedTime": 1683383583184,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "L0viDAeWk0z7Neg8",
+  "_key": "!items!L0viDAeWk0z7Neg8"
+}

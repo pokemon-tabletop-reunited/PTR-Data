@@ -1,0 +1,40 @@
+{
+  "name": "Type Ace",
+  "system": {
+    "name": "Type Ace",
+    "origin": "",
+    "effect": "Target: Your Pokémon with at least 2 Tutor Points remaining.\nEffect: The target loses 2 Tutor Points and learns the Last Chance or Type Strategist Ability for your Chosen Type. You may target a Pokémon only once with Type Ace.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "2 Different Pokémon of the chosen Type, Type-Linked Skill* at Novice\nOR\nElemental Connection (of the chosen Type), 1 Pokémon of the chosen Type, Type-Linked Skill* at Novice\n*See Extras - Class Mechanics for details.",
+    "frequency": "At-Will - Extended Action",
+    "tags": "[Class][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.x1AWRni8hXkkhNqD"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079248,
+    "modifiedTime": 1683383583811,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "zk1rKkUU0NUd4JSI",
+  "_key": "!items!zk1rKkUU0NUd4JSI"
+}

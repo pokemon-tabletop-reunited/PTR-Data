@@ -1,0 +1,68 @@
+{
+  "name": "Blindness",
+  "type": "condition",
+  "img": "systems/ptu/static/images/conditions/Blindness.svg",
+  "system": {
+    "origin": "Automated",
+    "effect": "Blindness represents the target’s vision becoming obscured. A Blinded Pokémon or Trainer receives a -6 penalty to Accuracy Rolls, and must make an Acrobatics Check with a DC of 10 when traveling over Rough or Slow Terrain or become Tripped. Blindness is caused by several effects. This is in perpetual effect in deep darkness, unless the target has Blindsense or Darkvision. Pokémon or Trainers with Blindsense cannot be Blinded.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "selectors": [
+          "attack-roll"
+        ],
+        "value": -6,
+        "predicate": [
+          {
+            "not": "capability:blindsense"
+          }
+        ]
+      }
+    ],
+    "slug": "blindness",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "duration": {
+      "value": 0,
+      "unit": "unlimited",
+      "expiry": "turn-start"
+    },
+    "value": {
+      "isValued": false,
+      "value": 1,
+      "autoIncrement": false
+    },
+    "references": {
+      "children": [],
+      "overrides": [],
+      "overriddenBy": []
+    },
+    "overrides": [],
+    "persistent": null,
+    "name": "",
+    "tokenIcon": {
+      "show": true
+    }
+  },
+  "folder": "rPNjp26cMp3XQ6aC",
+  "_id": "g2QutQJutABxFIw6",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.1",
+    "coreVersion": "11.307",
+    "createdTime": 1691878068601,
+    "modifiedTime": 1692117902380,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!g2QutQJutABxFIw6"
+}

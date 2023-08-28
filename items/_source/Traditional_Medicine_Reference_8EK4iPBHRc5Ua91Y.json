@@ -1,0 +1,50 @@
+{
+  "name": "Traditional Medicine Reference",
+  "system": {
+    "origin": "",
+    "effect": "A volume dedicated to properly preparing herbal medications. See PTU May 2015 Playtest Packet - Miscellaneous Errata for Herbal Restorative errata.\n\nRank 1 - Adept Medicine Education: Targets you administer Herbal Restoratives to do not lose Combat Stages no matter how many Herbal Restoratives they’ve had in the same day.\nRank 2 - Expert Medicine Education: Whenever you administer an Herbal Restorative to a target, they may choose to gain the Food Buff associated with Herbal Restoratives, regardless of how many Herbal Restoratives they’ve used this day.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.263Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "1000",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Traditional Medicine Reference",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368802775,
+    "modifiedTime": 1692170822273,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "8EK4iPBHRc5Ua91Y",
+  "_key": "!items!8EK4iPBHRc5Ua91Y"
+}

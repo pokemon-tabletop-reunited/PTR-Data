@@ -1,0 +1,40 @@
+{
+  "name": "Special Attack Mastery",
+  "system": {
+    "name": "Special Attack Mastery",
+    "origin": "",
+    "effect": "The Range of your Pokémon’s Special Non-Melee Moves is increased by +2. This does not affect the size of Area-Of-Effect moves (But does affect the range at which you can place Ranged Blasts).",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Stat Maneuver",
+    "frequency": "Static",
+    "tags": "[Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.0e2dHPpvxBLMLDcZ"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079164,
+    "modifiedTime": 1683383582121,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "yx8FepB2UdltVDZE",
+  "_key": "!items!yx8FepB2UdltVDZE"
+}

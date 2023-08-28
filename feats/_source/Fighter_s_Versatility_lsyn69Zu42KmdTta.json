@@ -1,0 +1,40 @@
+{
+  "name": "Fighter's Versatility",
+  "system": {
+    "name": "Fighter's Versatility",
+    "origin": "",
+    "effect": "Trigger - You gain Initiative.\nEffect: You may give up use of a Scene or Daily Move to regain use of a Scene or Daily Move which you have already used. You may give up use of a Daily Move to regain use of a Scene Move, but not vice-versa.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Learned two Scene or Daily Moves",
+    "frequency": "Scene - Free Action",
+    "tags": "[+Any]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.x9vshhvIy5cbucOM"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084451,
+    "modifiedTime": 1683383583813,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "lsyn69Zu42KmdTta",
+  "_key": "!items!lsyn69Zu42KmdTta"
+}

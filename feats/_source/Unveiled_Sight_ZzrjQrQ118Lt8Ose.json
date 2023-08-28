@@ -1,0 +1,40 @@
+{
+  "name": "Unveiled Sight",
+  "system": {
+    "name": "Unveiled Sight",
+    "origin": "",
+    "effect": "You can see through Illusions. This means you can spot Illusions from the Illusionist capability, Illusion Ability, and Genjutsu Feature as being fake. You are immune to Moves with the Illusion keyword, Double Team cannot be activated against you, and you bypass Substitutes. As a Standard Action, you can create a Burst 4, dispelling all Illusion effects within.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Oracle",
+    "frequency": "Static",
+    "tags": "[+Special Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.tw68G2rNICSkd7L6"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084444,
+    "modifiedTime": 1683383583311,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "ZzrjQrQ118Lt8Ose",
+  "_key": "!items!ZzrjQrQ118Lt8Ose"
+}

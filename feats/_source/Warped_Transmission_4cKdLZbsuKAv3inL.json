@@ -1,0 +1,40 @@
+{
+  "name": "Warped Transmission",
+  "system": {
+    "name": "Warped Transmission",
+    "origin": "",
+    "effect": "Trigger - You activate the Teleporter Capability or use the Move Ally Switch\nEffect: All adjacent foes to the square you end in after teleporting or using Ally Switch have their Evasion lowered by 3 for one full round and cannot trigger Attacks of Opportunity against you for Shifting until the end of your next turn.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Farcast, Master Guile",
+    "frequency": "2 AP - Swift Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.ahfcdLgs262PraOR"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081796,
+    "modifiedTime": 1683383582895,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "4cKdLZbsuKAv3inL",
+  "_key": "!items!4cKdLZbsuKAv3inL"
+}

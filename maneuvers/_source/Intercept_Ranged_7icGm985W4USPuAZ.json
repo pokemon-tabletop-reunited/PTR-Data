@@ -1,0 +1,54 @@
+{
+  "name": "Intercept Ranged",
+  "type": "move",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "Select a Square within your Movement Range that lies directly between the source of the attack and the target of the attack. Make an Acrobatics or Athletics check; you may Shift a number of Meters equal to half the result towards the chosen square.<br>&nbsp;if you reach the chosen square, you take the attack instead of it's intended target.<br>&nbsp; <br>&nbsp; ***Special: Pokemon must have Loyalty of 3 or greater to make Intercept Ranged Maneuvers and may only Intercept attacks against their Trainer. At Loyalty 6, Pokemon may Intercept for an Ally",
+    "snippet": "",
+    "useCount": 0,
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "type": "",
+    "category": "",
+    "damageBase": "",
+    "frequency": "",
+    "ac": "",
+    "range": "",
+    "contestType": "",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "action": "Full Action, Interrupt",
+    "trigger": "A Ranged X-Target attack passes within your Movement range"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.hiILOxS6Ii0jdAY7"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.0.0.7",
+    "coreVersion": "10.291",
+    "createdTime": 1673299563388,
+    "modifiedTime": 1673299603329,
+    "lastModifiedBy": "bcwIRl58QQYB1i5R"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "bcwIRl58QQYB1i5R": 3
+  },
+  "_id": "7icGm985W4USPuAZ",
+  "_key": "!items!7icGm985W4USPuAZ"
+}

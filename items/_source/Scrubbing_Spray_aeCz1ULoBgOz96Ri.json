@@ -1,0 +1,50 @@
+{
+  "name": "Scrubbing Spray",
+  "system": {
+    "origin": "",
+    "effect": "Sprays a chemical agent over an area that destroys most forensic evidence, such as trace biomatter. Perception checks to track someone or to search for forensic evidence take a -6 penalty. Requires a Scrub Cartridge to use. Comes with 1 Cartridge. Off Hand equipment slot.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.441Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "3500",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Scrubbing Spray",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368831225,
+    "modifiedTime": 1692170822449,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "aeCz1ULoBgOz96Ri",
+  "_key": "!items!aeCz1ULoBgOz96Ri"
+}

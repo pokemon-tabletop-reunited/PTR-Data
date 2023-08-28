@@ -1,0 +1,63 @@
+{
+  "name": "Disabled",
+  "type": "condition",
+  "img": "systems/ptu/static/images/conditions/Disabled.svg",
+  "system": {
+    "origin": "Automated",
+    "effect": "When the user gains the Disabled Affliction, a specific Move is specified. The user cannot use that Move as long as they remain Disabled. Pokemon or Trainers may have multiple instances of the Disabled Condition, each specifying a different Move.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "choices": "flags.ptu.disabledOptions",
+        "prompt": "Choose which move to Disable",
+        "rollOption": "condition:disabled",
+        "adjustName": true
+      }
+    ],
+    "slug": "disabled",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "duration": {
+      "value": 0,
+      "unit": "encounter",
+      "expiry": "turn-start"
+    },
+    "value": {
+      "isValued": false,
+      "value": 1,
+      "autoIncrement": false
+    },
+    "references": {
+      "children": [],
+      "overrides": [],
+      "overriddenBy": []
+    },
+    "overrides": [],
+    "persistent": null,
+    "name": "",
+    "tokenIcon": {
+      "show": true
+    }
+  },
+  "folder": "rPNjp26cMp3XQ6aC",
+  "_id": "GUKAMwsFi0EJ56WD",
+  "effects": [],
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.1",
+    "coreVersion": "11.307",
+    "createdTime": 1691878068601,
+    "modifiedTime": 1692117902198,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!GUKAMwsFi0EJ56WD"
+}

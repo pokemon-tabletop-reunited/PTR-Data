@@ -1,0 +1,40 @@
+{
+  "name": "Dirty Fighting",
+  "system": {
+    "name": "Dirty Fighting",
+    "origin": "",
+    "effect": "Trigger - You hit a foe with Weapon Attack\nEffect: After the attack is Resolved, you may immediately use the Dirty Trick Maneuver if the target is within range. You automatically hit with Dirty Trick, but must still make an Opposed Roll.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Rogue, a Rogue Skill at Adept Rank",
+    "frequency": "1 AP - Swift Action",
+    "tags": "[+Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Nz94Q75hixrT5O3k"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081793,
+    "modifiedTime": 1683383582679,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "l16All5MwrT6klMQ",
+  "_key": "!items!l16All5MwrT6klMQ"
+}

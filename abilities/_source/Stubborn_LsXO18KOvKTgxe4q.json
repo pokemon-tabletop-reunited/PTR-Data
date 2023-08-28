@@ -1,0 +1,36 @@
+{
+  "name": "Stubborn",
+  "type": "ability",
+  "flags": {},
+  "effects": [],
+  "_id": "LsXO18KOvKTgxe4q",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "While below 50% of its max Hit Points, the user’s Defense is raised 2 Combat Stages. If no longer below 50% of its maximum Hit Points, the user loses any Combat Stages gained this way.",
+    "rules": [],
+    "slug": null,
+    "automation": [],
+    "frequency": "Static",
+    "tier": "",
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "folder": "rmoa0NFMp7Td9R3R",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606908412,
+    "modifiedTime": 1689606925574,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!LsXO18KOvKTgxe4q"
+}

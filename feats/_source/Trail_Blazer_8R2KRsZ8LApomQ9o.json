@@ -1,0 +1,40 @@
+{
+  "name": "Trail Blazer",
+  "system": {
+    "name": "Trail Blazer",
+    "origin": "",
+    "effect": "Trigger - Your Fire-Type Pokémon Shifts\nEffect: Your Pokémon sets the ground aflame and leaves a Fire Hazard in each square it shifts through this round, up to a maximum of 8 squares. Anyone who begins or ends their turn on a Fire Hazard are Burned. Anyone that passes through a Fire Hazard loses a Tick of Hit Points. If a Ground, Rock, or Water-Type Move targets a square (or a target in a square) with Fire Hazard in them, the Fire Hazards are destroyed. All effects that destroy Hazards extinguish Fire Hazards. Trail Blazer may only be used once per Scene.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Brightest Flame, Type-Linked Skill at Adept",
+    "frequency": "Daily x3 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.IXyhxEgMzYu3ON1L"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079162,
+    "modifiedTime": 1683383582520,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "8R2KRsZ8LApomQ9o",
+  "_key": "!items!8R2KRsZ8LApomQ9o"
+}

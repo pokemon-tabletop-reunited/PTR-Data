@@ -1,0 +1,40 @@
+{
+  "name": "Desert Heart",
+  "system": {
+    "name": "Desert Heart",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: While this Stratagem is bound, your Pokémon may activate Moves and Abilities as if they were in a Sandstorm.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Mold the Earth, Type-Linked Skill at Adept",
+    "frequency": "Bind 2 AP - Standard Action",
+    "tags": "[Orders][Stratagem]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.h2aUL5p8TU2EKpxW"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081681,
+    "modifiedTime": 1683383583003,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "MsW4cBTbRgCwGm3i",
+  "_key": "!items!MsW4cBTbRgCwGm3i"
+}

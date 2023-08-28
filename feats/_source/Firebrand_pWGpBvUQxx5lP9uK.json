@@ -1,0 +1,40 @@
+{
+  "name": "Firebrand",
+  "system": {
+    "name": "Firebrand",
+    "origin": "",
+    "effect": "Your Fire-Type Moves Burn Targets on a roll of 19+. If a move already has a chance of Burning foes, Firebrand increases the effect range by +2.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Fire Bringer, Adept Focus or Combat",
+    "frequency": "Static",
+    "tags": "[+Special Attack or Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.TO55xwp38PYk5nMd"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078917,
+    "modifiedTime": 1683383582790,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "pWGpBvUQxx5lP9uK",
+  "_key": "!items!pWGpBvUQxx5lP9uK"
+}

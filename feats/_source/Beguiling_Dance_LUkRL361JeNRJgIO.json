@@ -1,0 +1,40 @@
+{
+  "name": "Beguiling Dance",
+  "system": {
+    "name": "Beguiling Dance",
+    "origin": "",
+    "effect": "When creating Dance Moves, you can choose to create a Dance Move that has Range: 4, 1 Target, AC 3, and lowers a Combat Stat (chosen at creation) by -2 Combat Stages. This Move is otherwise the same as other Dance Moves you could create except that Dance Moves created with this template have the Contest Effect Excitement instead of Get Ready!.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Dance Form",
+    "frequency": "Static",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.pGrYb5HR38adTdv7"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078922,
+    "modifiedTime": 1683383583208,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "LUkRL361JeNRJgIO",
+  "_key": "!items!LUkRL361JeNRJgIO"
+}

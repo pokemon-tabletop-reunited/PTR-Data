@@ -1,0 +1,40 @@
+{
+  "name": "Blinding Brightness",
+  "system": {
+    "name": "Blinding Brightness",
+    "origin": "",
+    "effect": "You gain the Illuminate Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Prism",
+    "frequency": "Static",
+    "tags": "[+Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.fisOpNGQFx19VaeA"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079076,
+    "modifiedTime": 1683383582972,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "rFkUtCqZGiZfga1q",
+  "_key": "!items!rFkUtCqZGiZfga1q"
+}

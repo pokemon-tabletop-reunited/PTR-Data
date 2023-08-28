@@ -1,0 +1,37 @@
+{
+  "name": "Regal Challenge",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Target - A foe within 5 Meters\\nAsk the target if they will show deference or defiance. If they choose Deference, the target loses their next Shift action and loses 3 CS in the Stat of the user’s choice. If they choose Defiance, the user gains a +10 Bonus to all Damage Rolls for the rest of the Scene.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Scene - Swift Action",
+    "tier": ""
+  },
+  "_id": "SRJ62OMgoKi2xUII",
+  "effects": [],
+  "folder": null,
+  "sort": 23600000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!SRJ62OMgoKi2xUII"
+}

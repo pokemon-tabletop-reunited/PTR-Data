@@ -1,0 +1,40 @@
+{
+  "name": "I Am Error",
+  "system": {
+    "name": "I Am Error",
+    "origin": "",
+    "effect": "Trigger: You gain a Status Affliction:  \nRoll 1d10 and change which Status Affliction is gained: \n1-Sleep, 2-Burn, 3-Frozen, 4, Infatuation (Chosen Randomly among foes), 5-Poison\n, 6-Confused, 7-Paralysis, 8-Enraged, 9-Disabled (chosen at random from Known Moves), 10-Suppressed. \nIf the target already has that Status Affliction, roll again.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Glitch Bender",
+    "frequency": "2 AP - Free Action",
+    "tags": "[+Special Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Big6vOJoMwQSLt5o"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078825,
+    "modifiedTime": 1683383582392,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "aetIM2w7iHxoeUi9",
+  "_key": "!items!aetIM2w7iHxoeUi9"
+}

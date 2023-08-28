@@ -1,0 +1,32 @@
+{
+  "name": "Advanced Mobility",
+  "system": {
+    "name": "Advanced Mobility",
+    "origin": "",
+    "effect": "Increase one Movement Capability by 2. This Edge may be taken multiple times, but may not be applied more than once to the same Movement Capability.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Level 20",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202694,
+    "modifiedTime": 1683369231432,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "PFhBN57rq6xggNfK",
+  "_key": "!items!PFhBN57rq6xggNfK"
+}

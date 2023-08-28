@@ -1,0 +1,37 @@
+{
+  "name": "Plus",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Trigger - An ally within 10m has Combat Stages raised\\nThe target gains an additional Combat Stage in one stat raised by the triggering effect.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Scene x2 - Free Action, Reaction",
+    "tier": ""
+  },
+  "_id": "oW3YX1xPXM0ci5wn",
+  "effects": [],
+  "folder": null,
+  "sort": 43100000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!oW3YX1xPXM0ci5wn"
+}

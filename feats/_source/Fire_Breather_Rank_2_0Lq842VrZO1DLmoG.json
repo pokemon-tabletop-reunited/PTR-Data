@@ -1,0 +1,40 @@
+{
+  "name": "Fire Breather Rank 2",
+  "system": {
+    "name": "Fire Breather Rank 2",
+    "origin": "",
+    "effect": "Learn two Fire Breather Moves from the list below. You may choose any Move marked with the Fire Breather Rank you are taking or lower.\nRank 2 Moves: Blaze Kick, Fiery Dance, Flare Blitz, Heat Wave",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Master Focus or Combat",
+    "frequency": "Static",
+    "tags": "[Ranked 2][+Special Attack or Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.itaVc4EUJPglFObs"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078918,
+    "modifiedTime": 1683383583049,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "0Lq842VrZO1DLmoG",
+  "_key": "!items!0Lq842VrZO1DLmoG"
+}

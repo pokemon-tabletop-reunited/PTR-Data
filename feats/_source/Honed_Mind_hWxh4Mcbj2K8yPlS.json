@@ -1,0 +1,40 @@
+{
+  "name": "Honed Mind",
+  "system": {
+    "name": "Honed Mind",
+    "origin": "",
+    "effect": "You learn the Moves Mind Reader and Calm Mind.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Telepath",
+    "frequency": "Static",
+    "tags": "[+Special Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.EASQy9jZePhKme9s"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079056,
+    "modifiedTime": 1683383582439,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "hWxh4Mcbj2K8yPlS",
+  "_key": "!items!hWxh4Mcbj2K8yPlS"
+}

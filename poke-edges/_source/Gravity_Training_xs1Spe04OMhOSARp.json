@@ -1,0 +1,32 @@
+{
+  "name": "Gravity Training",
+  "system": {
+    "name": "Gravity Training",
+    "origin": "",
+    "effect": "The Pokémon gains two steps to allocate in any direction to expand its Gravitic Tolerance capability. If it has none, it may acquire one by allocating steps starting from its Home Gravity.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202721,
+    "modifiedTime": 1683369231469,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "xs1Spe04OMhOSARp",
+  "_key": "!items!xs1Spe04OMhOSARp"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Coaching",
+  "system": {
+    "name": "Coaching",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon makes a Combat Maneuver\nEffect: Your Pokémon gains a bonus based on the type of Combat maneuver they are making. This Feature may be triggered once per Scene per Pokémon.\n»» Your Pokémon gains a +1d6 bonus to Opposed Acrobatics, Athletics, Combat, or Stealth Skill Checks.\n»» If your Pokémon was Sprinting, they double their Movement Capabilities instead of increasing by 50%.\n»» If your Pokémon was making an Attack of Opportunity, they automatically hit.\n»» You may also activate this Feature to let them Intercept for any Ally regardless of Loyalty, and they automatically succeed on the Skill Check to do so.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Training Regime",
+    "frequency": "1 AP - Free Action",
+    "tags": "[+HP]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.5zuvsKN7Q8wifENV"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079063,
+    "modifiedTime": 1683383582252,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Mn6FJNDFCKHKbcnd",
+  "_key": "!items!Mn6FJNDFCKHKbcnd"
+}

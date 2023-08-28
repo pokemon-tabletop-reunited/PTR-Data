@@ -1,0 +1,40 @@
+{
+  "name": "Druid",
+  "system": {
+    "name": "Druid",
+    "origin": "",
+    "effect": "Your powers begin to take after either Flowers, Fungi, or Trees. Depending on your oath, you gain an Ability and Stat Tags. Whenever you gain a Druid Feature, you gain the same Stat Tags.\nFlower Oath: Aroma Veil [+Special Attack]\nFungal Oath: Effect Spore [+Special Defense]\nWood Oath: Life Force [+Attack]",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Elemental Connection (Grass), Novice Survival, Novice General Education",
+    "frequency": "Static",
+    "tags": "[Class][Special]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.RaP84Wtcy6yJXdgh"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081676,
+    "modifiedTime": 1683383582760,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "CjzAxt4rzfdN1G6z",
+  "_key": "!items!CjzAxt4rzfdN1G6z"
+}

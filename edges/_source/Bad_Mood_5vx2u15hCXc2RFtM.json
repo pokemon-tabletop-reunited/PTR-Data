@@ -1,0 +1,33 @@
+{
+  "name": "Bad Mood",
+  "system": {
+    "name": "Bad Mood",
+    "origin": "",
+    "effect": "Your Critical Hit Range is increased by +1 if you are suffering from a Persistent Status Affliction. Your Critical Hit Range is increased by +1 if you are suffering from a Volatile Status Affliction. These stack with each other, giving a total of +2 to Critical Hit Range if you are suffering from both a Persistant and a Volatile Status Affliction.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Expert Intimidate",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953785,
+    "modifiedTime": 1683367977164,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "5vx2u15hCXc2RFtM",
+  "_key": "!items!5vx2u15hCXc2RFtM"
+}

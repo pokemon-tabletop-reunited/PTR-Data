@@ -1,0 +1,40 @@
+{
+  "name": "Soothing Connection",
+  "system": {
+    "name": "Soothing Connection",
+    "origin": "",
+    "effect": "Target: Channeled Pokémon\nEffect: Distribute 5 points in any way among Pokémon you are Channeling. For each point you assign to a Channeled Pokémon, they gain a Tick of Hit Points.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Pain Dampening, Master Intuition",
+    "frequency": "Daily x2 - Standard Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.nZlOhPLMp3RQnxZ5"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079112,
+    "modifiedTime": 1683383583180,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "m2yh8Uyi8eLSUFjo",
+  "_key": "!items!m2yh8Uyi8eLSUFjo"
+}

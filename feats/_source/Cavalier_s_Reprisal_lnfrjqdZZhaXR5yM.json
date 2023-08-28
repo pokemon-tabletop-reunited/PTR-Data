@@ -1,0 +1,40 @@
+{
+  "name": "Cavalier's Reprisal",
+  "system": {
+    "name": "Cavalier's Reprisal",
+    "origin": "",
+    "effect": "Trigger - An adjacent foe hits your Mount with an attack\nEffect: You may make a Struggle Attack against the triggering foe.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Ride as One, Expert Acrobatics or Athletics",
+    "frequency": "1 AP - Free Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.yolUNtSj9pvSKLi3"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079032,
+    "modifiedTime": 1683383583834,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "lnfrjqdZZhaXR5yM",
+  "_key": "!items!lnfrjqdZZhaXR5yM"
+}

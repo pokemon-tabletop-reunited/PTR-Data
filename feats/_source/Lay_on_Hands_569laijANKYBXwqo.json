@@ -1,0 +1,40 @@
+{
+  "name": "Lay on Hands",
+  "system": {
+    "name": "Lay on Hands",
+    "origin": "",
+    "effect": "Choose Blessed Touch or Healer. You gain the Chosen Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Sage, Expert Occult Education",
+    "frequency": "Static",
+    "tags": "[+HP]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.teHOaZ3a0481KeiT"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079270,
+    "modifiedTime": 1683383583302,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "569laijANKYBXwqo",
+  "_key": "!items!569laijANKYBXwqo"
+}

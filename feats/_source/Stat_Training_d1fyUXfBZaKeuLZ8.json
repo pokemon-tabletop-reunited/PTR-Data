@@ -1,0 +1,40 @@
+{
+  "name": "Stat Training",
+  "system": {
+    "name": "Stat Training",
+    "origin": "",
+    "effect": "Target: Your Pokémon with at least 1 Tutor Point\nEffect: Your Pokémon loses 1 Tutor Point, and learns a Move based on your Chosen Stat, even if your Pokémon cannot normally learn this Move:\n»» Attack: Swords Dance or Rage\n»» Defense: Iron Defense or Reflect\n»» Special Attack: Nasty Plot or Hidden Power\n»» Special Defense: Amnesia or Light Screen\n»» Speed: Agility or After You",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Stat Ace",
+    "frequency": "At-Will - Extended Action",
+    "tags": "[Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.0BMtMdEy2SniVLxd"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084441,
+    "modifiedTime": 1683383582089,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "d1fyUXfBZaKeuLZ8",
+  "_key": "!items!d1fyUXfBZaKeuLZ8"
+}

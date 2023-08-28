@@ -1,0 +1,32 @@
+{
+  "name": "Expand Horizons",
+  "system": {
+    "name": "Expand Horizons",
+    "origin": "",
+    "effect": "The Pokémon gains 3 Tutor Points. A Pokémon may be targeted by Expand Horizons only once.  Must be the Pokémon of a Mentor with the Expand Horizons feature.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "",
+    "cost": ""
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202694,
+    "modifiedTime": 1683369231431,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "F6F8l717rLFJtLkO",
+  "_key": "!items!F6F8l717rLFJtLkO"
+}

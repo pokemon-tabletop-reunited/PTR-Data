@@ -1,0 +1,40 @@
+{
+  "name": "Overload",
+  "system": {
+    "name": "Overload",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: While this Feature is Bound, whenever the target hits a foe with an Electric Attack, they may choose to have the foe lose Hit Points equal to the target’s Tick value plus your Type-Linked Skill Rank. If they do, the target loses a Tick of Hit Points after the attack is resolved.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Lockdown, Type-Linked Skill at Adept",
+    "frequency": "Bind 2 AP - Standard Action",
+    "tags": "[Orders][Stratagem]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.mGgtWAzWFpK1zvxK"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079242,
+    "modifiedTime": 1683383583144,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "9Zm0sMiLWHlxpJx0",
+  "_key": "!items!9Zm0sMiLWHlxpJx0"
+}

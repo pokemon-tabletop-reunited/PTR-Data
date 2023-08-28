@@ -1,0 +1,32 @@
+{
+  "name": "Basic Ranged Attacks",
+  "system": {
+    "name": "Basic Ranged Attacks",
+    "origin": "",
+    "effect": "Choose one of Firestarter, Fountain, Freezer, Guster, Materializer, or Zapper. Struggle Attacks modified by that Capability may now be made at a range of up to 6 meters. This Poké Edge may be taken multiple times, selecting a different Capability each time.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Firestarter, Fountain, Freezer, Guster, Materializer, or Zapper",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202718,
+    "modifiedTime": 1683369231464,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "WkzCUjTOCTI60Uwg",
+  "_key": "!items!WkzCUjTOCTI60Uwg"
+}

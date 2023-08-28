@@ -1,0 +1,37 @@
+{
+  "name": "Confidence",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Choose a Combat Stat. All allies within 5 meters of the user gain +1 CS in the Chosen Stat.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Scene - Standard Action",
+    "tier": ""
+  },
+  "_id": "dnokBxCkJAn5nqHN",
+  "effects": [],
+  "folder": null,
+  "sort": 33700000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!dnokBxCkJAn5nqHN"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Upgrader",
+  "system": {
+    "name": "Upgrader",
+    "origin": "",
+    "effect": "You may craft any Augmentation Recipe for which you qualify and install them on yourself and willing Pokémon and Trainers.\nRecipes - Datajack, Eye Augments",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Novice Medicine Education, Novice Technology Education",
+    "frequency": "At-Will - Extended Action",
+    "tags": "[Upgrader Research Field]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.tWF3e1WIbxnRxGBV"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078972,
+    "modifiedTime": 1683383583294,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "S8QSKmT595KfPN2T",
+  "_key": "!items!S8QSKmT595KfPN2T"
+}

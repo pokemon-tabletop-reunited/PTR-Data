@@ -1,0 +1,32 @@
+{
+  "name": "Advanced Mobility (Levitate)",
+  "system": {
+    "name": "Advanced Mobility (Levitate)",
+    "origin": "",
+    "effect": "Increase Levitate Movement Capability by 2. Advanced Mobility may not be taken again for Levitate.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Level 20",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202699,
+    "modifiedTime": 1683369231437,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "ivcsrqmsnzMIHJ70",
+  "_key": "!items!ivcsrqmsnzMIHJ70"
+}

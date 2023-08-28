@@ -1,0 +1,40 @@
+{
+  "name": "Type Expertise Rank 2",
+  "system": {
+    "name": "Type Expertise Rank 2",
+    "origin": "",
+    "effect": "Each Rank, choose a Type of which you know at least 3 Moves. You gain STAB for the chosen Type. STAB is never applied to Struggle Attacks.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Level 9, 3 Moves of the Chosen Type in your Move List",
+    "frequency": "Static",
+    "tags": "[Ranked 2][+Any]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.cefByNq6gtvqgnVp"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079051,
+    "modifiedTime": 1683383582926,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "D9vL3Z8M6oLuKf2K",
+  "_key": "!items!D9vL3Z8M6oLuKf2K"
+}

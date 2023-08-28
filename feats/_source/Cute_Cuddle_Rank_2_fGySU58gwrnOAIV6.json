@@ -1,0 +1,40 @@
+{
+  "name": "Cute Cuddle Rank 2",
+  "system": {
+    "name": "Cute Cuddle Rank 2",
+    "origin": "",
+    "effect": "Your Pokémon with at least 3d6 in their Cute Stat from Poffins may activate Cute Cuddle as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves.\nRank 2: Teeter Dance, Attract",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Expert Charm",
+    "frequency": "1 AP – Special",
+    "tags": "[Ranked 2]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.fWIKOvqYX54uQ6dR"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078912,
+    "modifiedTime": 1683383582967,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "fGySU58gwrnOAIV6",
+  "_key": "!items!fGySU58gwrnOAIV6"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Vehicle Training",
+  "system": {
+    "name": "Vehicle Training",
+    "origin": "",
+    "effect": "The Pokémon may drive vehicles that are appropriately outfitted to the species as a Standard Action.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Appropriate body type",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202698,
+    "modifiedTime": 1683369231436,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "HTsjsc9xsx1OFZ8h",
+  "_key": "!items!HTsjsc9xsx1OFZ8h"
+}

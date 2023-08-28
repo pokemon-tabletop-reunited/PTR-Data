@@ -1,0 +1,40 @@
+{
+  "name": "Effective Methods",
+  "system": {
+    "name": "Effective Methods",
+    "origin": "",
+    "effect": "Target: Your Pokémon with at least 2 Tutor Points remaining\nEffect: Your Pokémon loses 2 Tutor Points and gains your choice of the Exploit or Tolerance Ability. You may only target a Pokémon once with Effective Methods.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Duelist",
+    "frequency": "At-Will - Extended Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.ynmdDu0pRRDDxMyF"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079346,
+    "modifiedTime": 1683383583833,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "QSS1UB0fA3uzeJIr",
+  "_key": "!items!QSS1UB0fA3uzeJIr"
+}

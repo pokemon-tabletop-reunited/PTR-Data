@@ -1,0 +1,40 @@
+{
+  "name": "Quick Reflexes",
+  "system": {
+    "name": "Quick Reflexes",
+    "origin": "",
+    "effect": "You gain the Dodge Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Tumbler, Expert Acrobatics",
+    "frequency": "Static",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.9FOHEZAQwHeIajSO"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081671,
+    "modifiedTime": 1683383582333,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "62BUHp8DGPE2a0ko",
+  "_key": "!items!62BUHp8DGPE2a0ko"
+}

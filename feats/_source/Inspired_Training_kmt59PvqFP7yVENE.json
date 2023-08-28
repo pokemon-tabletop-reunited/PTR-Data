@@ -1,0 +1,47 @@
+{
+  "name": "Inspired Training",
+  "system": {
+    "origin": "",
+    "effect": "The target becomes [Link to Item] until the end of the effect duration. Inspired Pokémon gain a +1 bonus to Evasion and +2 to Save Checks. ",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "prerequisites": "Novice Charm, Untrained Command",
+    "frequency": "At-Will – Special",
+    "tags": "[Training][Orders]",
+    "notes": "",
+    "free": false,
+    "class": "",
+    "name": "Inspired Training",
+    "useCount": 0
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.4b3oONu8RMt27PW6"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1683368078998,
+    "modifiedTime": 1692628255424,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "kmt59PvqFP7yVENE",
+  "_key": "!items!kmt59PvqFP7yVENE"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Medicine Case",
+  "system": {
+    "origin": "",
+    "effect": "A Medicine Case may be filled with an Antidote, Paralyze Heal, Burn Heal, Ice Heal, or Full Heal. This consumes the used item. When a Pokémon is recalled into a Poké Ball with a filled Medicine Case, the item is automatically used on the Pokémon. Filling a Medicine Case is an Standard Action. Medicine Cases may be refilled multiple times but may only have one sort of consumable in them at a time.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.336Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "400",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Medicine Case",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368840124,
+    "modifiedTime": 1692170822350,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "JpfkXVU1CrkQP937",
+  "_key": "!items!JpfkXVU1CrkQP937"
+}

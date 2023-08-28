@@ -1,0 +1,40 @@
+{
+  "name": "Decisive Director",
+  "system": {
+    "name": "Decisive Director",
+    "origin": "",
+    "effect": "Target: A Pokémon\nEffect: Add or subtract X from the target’s Initiative until the end of your next turn. X is equal to your Charm Rank doubled.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Coordinator",
+    "frequency": "At-Will - Standard Action",
+    "tags": "[Orders]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.gQhfOs0kFqmKEhBd"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079224,
+    "modifiedTime": 1683383582985,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Mh91OTvt0xSC0gFl",
+  "_key": "!items!Mh91OTvt0xSC0gFl"
+}

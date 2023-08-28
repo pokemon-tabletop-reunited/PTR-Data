@@ -1,0 +1,40 @@
+{
+  "name": "Shocking Speed",
+  "system": {
+    "name": "Shocking Speed",
+    "origin": "",
+    "effect": "You may activate this Feature to have your Electric-Type Pokémon may use an Electric-Type Move with a Frequency of At-Will as if it had Priority (Advanced).",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Lockdown, Type-Linked Skill at Expert",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.P7aqtn7e8Os5A5Zp"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079278,
+    "modifiedTime": 1683383582709,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "AWNKROvNUjMEmTJB",
+  "_key": "!items!AWNKROvNUjMEmTJB"
+}

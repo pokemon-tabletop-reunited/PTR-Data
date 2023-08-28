@@ -1,0 +1,40 @@
+{
+  "name": "Storm Wizard Rank 3",
+  "system": {
+    "name": "Storm Wizard Rank 3",
+    "origin": "",
+    "effect": "You may learn two Moves from the list below, marked with the Storm Wizard Rank you are gaining or lower.\nRank 3 Moves: Discharge, Thunder, Thunder Wave, Volt Tackle",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Master Acrobatics or Focus",
+    "frequency": "Static",
+    "tags": "[+Speed][Ranked 3]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.ziQDRH9rQwpYWpna"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081782,
+    "modifiedTime": 1683383583847,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "rim1Pe0CwLjFH7o9",
+  "_key": "!items!rim1Pe0CwLjFH7o9"
+}

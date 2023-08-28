@@ -1,0 +1,36 @@
+{
+  "name": "Radioactive",
+  "type": "ability",
+  "flags": {},
+  "effects": [],
+  "_id": "hMq7I9STEmSHo19L",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "When dealing damage with a damaging attack against a Pokémon that is neither Steel-type or Nuclear-type, this Pokémon does +X damage (before type-effectiveness).\n\nWhen dealing damage with a damaging attack against a Pokémon that is Steel-type or Nuclear-type, this Pokémon does -X damage (before type-effectiveness).\n\nWhen taking damage from a damaging attack that is not Nuclear-Type, this Pokémon takes +X damage (before type-effectiveness). This Pokémon does not take the extra damage while this Pokémon is in Nuclear Fallout.\n\nX is equal to half this Pokémon’s tick value (to a minimum of 1). When this Pokémon is using a Nuclear-type Move, X is instead equal to its tick value.\nThis Ability may not be disabled, copied, or swapped away in any way.",
+    "rules": [],
+    "slug": null,
+    "automation": [],
+    "frequency": "Static",
+    "tier": "",
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "folder": "rmoa0NFMp7Td9R3R",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606908412,
+    "modifiedTime": 1689606925574,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!hMq7I9STEmSHo19L"
+}

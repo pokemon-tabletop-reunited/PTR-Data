@@ -1,0 +1,40 @@
+{
+  "name": "Strike of the Whip",
+  "system": {
+    "name": "Strike of the Whip",
+    "origin": "",
+    "effect": "Trigger - You use Press\nEffect: You may apply 1 or more of the following effects to the Pokémon hit by Press:\n»» Give the target 1 Injury and a Tick of Temporary Hit Points.\n»» Spend 1 AP and cure the target of Confusion, Infatuation, Rage, and Suppression.\n»» Use an [Orders] with targets you have on the target as a Free Action.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Taskmaster, Press",
+    "frequency": "At-Will - Swift Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.u7NIC82NWNThqTwi"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078946,
+    "modifiedTime": 1683383583316,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "yBW8Jahgq1zjP4gw",
+  "_key": "!items!yBW8Jahgq1zjP4gw"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Complex Orders",
+  "system": {
+    "name": "Complex Orders",
+    "origin": "",
+    "effect": "Trigger - You give [Orders] that have targets.\nEffect: You may choose a different Order to give to each Target. You must pay all AP costs and follow Frequency restrictions for all Orders used in this way.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Commander, at least two Features with the [Orders] Tag that have targets",
+    "frequency": "At-Will - Shift Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.ofCjLG8PeUZUPUbp"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079217,
+    "modifiedTime": 1683383583198,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "JefCnTONUMFXGTSG",
+  "_key": "!items!JefCnTONUMFXGTSG"
+}

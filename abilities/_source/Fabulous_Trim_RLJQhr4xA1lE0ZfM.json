@@ -1,0 +1,37 @@
+{
+  "name": "Fabulous Trim",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Furfrou’s Ability depends on its current hairstyle. A Furfrou’s hairstyle can be changed as an Extended Action at an appropriate hair parlor.\\n\\nStar Trim: Celebrate\\nDiamond Trim: Defiant\\nHeart Trim: Cute Tears\\nPharaoh Trim: Sand Veil\\nKabuki Trim: Inner Focus\\nLa Reine Trim: Intimidate\\nMatron Trim: Friend Guard\\nDandy Trim: Moxie\\nDebutante Trim: Confidence",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Static",
+    "tier": ""
+  },
+  "_id": "RLJQhr4xA1lE0ZfM",
+  "effects": [],
+  "folder": null,
+  "sort": 22700000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!RLJQhr4xA1lE0ZfM"
+}

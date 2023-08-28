@@ -1,0 +1,40 @@
+{
+  "name": "Vim and Vigor",
+  "system": {
+    "name": "Vim and Vigor",
+    "origin": "",
+    "effect": "Target: Your Pokémon with at least 2 Tutor Points\nEffect: You spend an hour with the target. The target loses 2 Tutor Points, and gains the Vigor Ability. Vim and Vigor may target a Pokémon only once",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Shrug Off, Master Athletics or Focus",
+    "frequency": "At-Will - Extended Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.aBe4shg3kNS2c2Re"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078876,
+    "modifiedTime": 1683383582880,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "zo1FLIV76JAMRPXr",
+  "_key": "!items!zo1FLIV76JAMRPXr"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Immutable Mind",
+  "system": {
+    "name": "Immutable Mind",
+    "origin": "",
+    "effect": "Trigger - You’re hit by a Psychic-, Ghost-, or Dark-Type Move\nEffect: If the triggering Move was a Status-Class Move, the Move fails. If the Triggering Move was a Damaging Move with a Secondary Effect that triggers on a certain roll, you are immune to the secondary effect.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Mental Resistance, Expert Occult Education",
+    "frequency": "Scene - Free Action",
+    "tags": "[Occultism Research Field][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.4bZu8tOL2VABFYL4"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078906,
+    "modifiedTime": 1683383582220,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "aVyafFaA8RQLoJYf",
+  "_key": "!items!aVyafFaA8RQLoJYf"
+}

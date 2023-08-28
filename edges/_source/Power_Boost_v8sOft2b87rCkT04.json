@@ -1,0 +1,33 @@
+{
+  "name": "Power Boost",
+  "system": {
+    "name": "Power Boost",
+    "origin": "",
+    "effect": "Increase your Power Capability by +2.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Expert Athletics",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953776,
+    "modifiedTime": 1683367977150,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "v8sOft2b87rCkT04",
+  "_key": "!items!v8sOft2b87rCkT04"
+}

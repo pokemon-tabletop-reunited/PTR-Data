@@ -1,0 +1,32 @@
+{
+  "name": "Advanced Mobility (Swim)",
+  "system": {
+    "name": "Advanced Mobility (Swim)",
+    "origin": "",
+    "effect": "Increase Swim Movement Capability by 2.  Advanced Mobility may not be taken again for Swim.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Level 20",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202687,
+    "modifiedTime": 1683369231421,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "04UCY4s8EF3iZnCN",
+  "_key": "!items!04UCY4s8EF3iZnCN"
+}

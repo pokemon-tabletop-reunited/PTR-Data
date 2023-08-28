@@ -1,0 +1,32 @@
+{
+  "name": "Basic Ranged Attacks (Materializer)",
+  "system": {
+    "name": "Basic Ranged Attacks (Materializer)",
+    "origin": "",
+    "effect": "Struggle Attacks modified by Materializer may now be made at a range of up to 6 meters.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Materializer",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202729,
+    "modifiedTime": 1683369231480,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "kkYUmPp7yyHBVlk2",
+  "_key": "!items!kkYUmPp7yyHBVlk2"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Illusionist",
+  "type": "capability",
+  "img": "/systems/ptu/css/images/icons/capability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Pokémon with the Illusionist Capability can create minor visual Illusions as a Standard Action. These may be no more than half a meter in any dimension and produce no sensory sensations outside of sight. Any physical contact noticeably disrupts an Illusion, and all other effects that see through Illusions can do so. Otherwise, the Illusion appears life-like and can be made to move, though it cannot move further than the user’s Focus Rank in meters away from the user.\n Actively manipulating the Illusion requires constant attention from the user. For minor effects such as making an illusionary flame dance, this requires the user to constantly spend its Swift Actions. For more major effects such as animating an illusionary skeleton, the user must constantly spend Standard Actions. If a Pokémon gains the Illusion Ability and does not have the Illusionist Capability, they gain Illusionist.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "fzzVyOiDHNP0Aiuf",
+  "effects": [],
+  "folder": null,
+  "sort": 8400000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693042188180,
+    "modifiedTime": 1693118851776,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!fzzVyOiDHNP0Aiuf"
+}

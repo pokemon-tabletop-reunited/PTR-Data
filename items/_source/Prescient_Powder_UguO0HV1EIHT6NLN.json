@@ -1,0 +1,50 @@
+{
+  "name": "Prescient Powder",
+  "system": {
+    "origin": "",
+    "effect": "An illegal and dangerous substance produced by desert-dwelling Steelix. Taking the drug inflicts 3 injuries on the user and allows them to use either a Scry or Augury once. The user also gains the Psychic Navigator Edge for two hours. Habitual use of the drug can lead to addiction and health problems.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.423Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "2500",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Prescient Powder",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368791135,
+    "modifiedTime": 1692170822431,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "UguO0HV1EIHT6NLN",
+  "_key": "!items!UguO0HV1EIHT6NLN"
+}

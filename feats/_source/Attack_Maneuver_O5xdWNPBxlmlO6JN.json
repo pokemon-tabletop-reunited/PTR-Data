@@ -1,0 +1,40 @@
+{
+  "name": "Attack Maneuver",
+  "system": {
+    "name": "Attack Maneuver",
+    "origin": "",
+    "effect": "You may activate this Feature to cause one of your Pokémon to use a Physical “Melee, 1-Target” Move as if its range was “Melee, Pass” or “Melee, 3-Targets” instead.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Stat Ace, Adept Command or Focus",
+    "frequency": "Scene - Free Action",
+    "tags": "[Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.JETYbPuGjoTD8Jb1"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079010,
+    "modifiedTime": 1683383582535,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "O5xdWNPBxlmlO6JN",
+  "_key": "!items!O5xdWNPBxlmlO6JN"
+}

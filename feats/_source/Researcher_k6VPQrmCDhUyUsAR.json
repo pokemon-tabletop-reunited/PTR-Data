@@ -1,0 +1,40 @@
+{
+  "name": "Researcher",
+  "system": {
+    "name": "Researcher",
+    "origin": "",
+    "effect": "Choose two Researcher Fields of Study. You may take Features from those Fields with this instance of Researcher. Gain one Feature from a chosen Researcher Field for which you qualify. Note: Researcher is broken up into multiple Fields of Study. You may not take Features from a Field of Study you haven’t chosen with the base Researcher Feature. You may take Researcher any number of times, each time choosing two different Fields of Study.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "An Education Skill at Novice Rank",
+    "frequency": "Static",
+    "tags": "[Class][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.6rrXucob9Kkg5D4c"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079291,
+    "modifiedTime": 1683383582280,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "k6VPQrmCDhUyUsAR",
+  "_key": "!items!k6VPQrmCDhUyUsAR"
+}

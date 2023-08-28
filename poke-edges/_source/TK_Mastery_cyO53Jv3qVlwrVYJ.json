@@ -1,0 +1,32 @@
+{
+  "name": "TK Mastery",
+  "system": {
+    "name": "TK Mastery",
+    "origin": "",
+    "effect": "The user treats their Focus Rank as 2 higher for the purposes of the Telekinetic Capability.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Level 20, Telekinetic Capability",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202691,
+    "modifiedTime": 1683369231427,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "cyO53Jv3qVlwrVYJ",
+  "_key": "!items!cyO53Jv3qVlwrVYJ"
+}

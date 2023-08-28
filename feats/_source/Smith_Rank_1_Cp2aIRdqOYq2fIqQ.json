@@ -1,0 +1,40 @@
+{
+  "name": "Smith Rank 1",
+  "system": {
+    "name": "Smith Rank 1",
+    "origin": "",
+    "effect": "You may create Simple Weapons for $1000, Light Shields for $1,500, and Light Armor for $4,000.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Novice Focus, Novice Athletics",
+    "frequency": "Static",
+    "tags": "[Ranked 2][+Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.b8OmRHKm6BPH0nn9"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081669,
+    "modifiedTime": 1683383582903,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Cp2aIRdqOYq2fIqQ",
+  "_key": "!items!Cp2aIRdqOYq2fIqQ"
+}

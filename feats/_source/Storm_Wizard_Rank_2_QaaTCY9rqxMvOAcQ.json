@@ -1,0 +1,40 @@
+{
+  "name": "Storm Wizard Rank 2",
+  "system": {
+    "name": "Storm Wizard Rank 2",
+    "origin": "",
+    "effect": "You may learn two Moves from the list below, marked with the Storm Wizard Rank you are gaining or lower.\nRank 2 Moves: Charge, Thunder Punch, Thunderbolt",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Expert Acrobatics or Focus",
+    "frequency": "Static",
+    "tags": "[+Speed][Ranked 3]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.VulKkySNqeJfqPvf"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084380,
+    "modifiedTime": 1683383582824,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "QaaTCY9rqxMvOAcQ",
+  "_key": "!items!QaaTCY9rqxMvOAcQ"
+}

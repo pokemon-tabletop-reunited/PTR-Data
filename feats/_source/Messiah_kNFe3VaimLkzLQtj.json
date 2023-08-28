@@ -1,0 +1,40 @@
+{
+  "name": "Messiah",
+  "system": {
+    "name": "Messiah",
+    "origin": "",
+    "effect": "Your Connection with one of your Patrons has reached such a point that even you are capable of performing the miracles they are renowned and worshiped for. Expending a use of Messiah allows you to perform such a miracle. For example, in a region where Shaymin is known to restore withered forests to their former glory, a Touched who is a Messiah of Shaymin might be able to cause a forest to start to rapidly recover from the aftermath of a wildfire. Such acts are usually, but not always, noticeably supernatural and divine.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Touched, GM Permission",
+    "frequency": "One Time Use/5",
+    "tags": "[Patron Stat]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.sOq4aWg26mONhrUH"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079042,
+    "modifiedTime": 1683383583274,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "kNFe3VaimLkzLQtj",
+  "_key": "!items!kNFe3VaimLkzLQtj"
+}

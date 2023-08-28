@@ -1,0 +1,40 @@
+{
+  "name": "Chitin Shield",
+  "system": {
+    "name": "Chitin Shield",
+    "origin": "",
+    "effect": "Trigger - Your Bug-Type Pokémon is hit by a Status-Class Move\nEffect: The effect misses, and your Pokemon becomes immune to that Move for the rest of the Scene. Chitin Shield may be triggered once per Scene per Pokemon.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Insectoid Utility, Type Linked Skill at Expert",
+    "frequency": "Daily x3 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.umxUVZPSp6ydAZG2"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079264,
+    "modifiedTime": 1683383583775,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "5n7BaK3GById8woO",
+  "_key": "!items!5n7BaK3GById8woO"
+}

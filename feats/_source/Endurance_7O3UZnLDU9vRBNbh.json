@@ -1,0 +1,40 @@
+{
+  "name": "Endurance",
+  "system": {
+    "name": "Endurance",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon takes falling damage, begins to suffocate, or is Heavily Injured:  \nYour Pokémon can ignore up to X meters of falling when calculating falling damage, act without beginning to suffocate for X additional rounds, or ignore the Hit Point loss effects from acting while Heavily Injured for X rounds. X is equal to half its number of Tough Dice from Poffins.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Tough Tumble Rank 1",
+    "frequency": "Scene – Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.mQsw9iEy2C0RpxAk"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078967,
+    "modifiedTime": 1683383583146,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "7O3UZnLDU9vRBNbh",
+  "_key": "!items!7O3UZnLDU9vRBNbh"
+}

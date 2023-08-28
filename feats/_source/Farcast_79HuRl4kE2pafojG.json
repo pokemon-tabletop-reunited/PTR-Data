@@ -1,0 +1,40 @@
+{
+  "name": "Farcast",
+  "system": {
+    "name": "Farcast",
+    "origin": "",
+    "effect": "Trigger - You use the Move Teleport or activate the Teleporter Capability \nChoose One Effect: You activate Teleporter as if your Teleporter value were three times its normal value or you may take one willing Pokémon or Trainer along with you as you teleport so long as you are touching them when you activate Farcast. You may expend two uses of Farcast at once to choose both effects.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Space Distortion, Expert Guile",
+    "frequency": "Daily x3 - Free Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.i6oBG2YtupYavKhO"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081743,
+    "modifiedTime": 1683383583032,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "79HuRl4kE2pafojG",
+  "_key": "!items!79HuRl4kE2pafojG"
+}

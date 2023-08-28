@@ -1,0 +1,50 @@
+{
+  "name": "Caretaker's Manual",
+  "system": {
+    "origin": "",
+    "effect": "An invaluable guide to patient care with wide appeal and praised by both nurses and rangers.\n\nRank 1 - Adept Medicine Education: Once per Scene, you may assist an adjacent ally in Taking a Breather as a Standard Action, and they do not Shift or become Tripped as part of this action. If the target is Confused or Enraged, you may roll Medicine Education instead of Command to assist them.\nRank 2 - Master Medicine Education: This effect can only be bound while taking an Extended Rest and Drains AP for the next day. During this Extended Rest, Pokémon and Trainers in your care heal twice as many Hit Points while resting, heal Injuries twice as quickly, and may heal an additional Injury per day. This stacks with use of Bandages.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.478Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "1000",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Caretaker's Manual",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368808510,
+    "modifiedTime": 1692170822486,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "kM3RW6tPnSrXhQS1",
+  "_key": "!items!kM3RW6tPnSrXhQS1"
+}

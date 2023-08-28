@@ -1,0 +1,40 @@
+{
+  "name": "Shrug Off",
+  "system": {
+    "name": "Shrug Off",
+    "origin": "",
+    "effect": "Once per day, each of your Pokémon may spend Shift Action to remove 1 Injury from themselves; this may also be activated as a Free Action whenever your Pokémon Take a Breather.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Staying Power",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.6fJHIhQUua6rlrTx"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078992,
+    "modifiedTime": 1683383582279,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "RYaulBsgTjPbh9by",
+  "_key": "!items!RYaulBsgTjPbh9by"
+}

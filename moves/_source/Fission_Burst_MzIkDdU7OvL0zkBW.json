@@ -1,0 +1,52 @@
+{
+  "name": "Fission Burst",
+  "type": "move",
+  "flags": {},
+  "effects": [],
+  "_id": "MzIkDdU7OvL0zkBW",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "The users Hit Points are set to -50% of their full Hit Point value. This Hit Point loss may not be prevented or reduced in any way. The users loyalty toward its trainer may be lowered. This Move may be prevented by Damp.",
+    "rules": [],
+    "slug": null,
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Nuclear",
+    "category": "Physical",
+    "damageBase": "15",
+    "frequency": "Daily",
+    "ac": "2",
+    "range": "Burst 3, Smite",
+    "contestType": "Smart",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/types2/NuclearIC_Icon.png",
+  "folder": "CKiVqPT3ASdUeaM0",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606523899,
+    "modifiedTime": 1689606577014,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!MzIkDdU7OvL0zkBW"
+}

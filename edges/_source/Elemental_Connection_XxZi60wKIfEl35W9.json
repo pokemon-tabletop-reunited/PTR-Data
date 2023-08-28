@@ -1,0 +1,33 @@
+{
+  "name": "Elemental Connection",
+  "system": {
+    "name": "Elemental Connection",
+    "origin": "",
+    "effect": "Choose an Elemental Type. You gain a +2 bonus to Charm, Command, Guile, Intimidate, and Intuition Checks targeting Pokémon of that Type. You may not take Elemental Connection if you have the Mystic Senses Edge, and you may not take Mystic Senses if you have Elemental Connection.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953808,
+    "modifiedTime": 1683367977196,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "XxZi60wKIfEl35W9",
+  "_key": "!items!XxZi60wKIfEl35W9"
+}

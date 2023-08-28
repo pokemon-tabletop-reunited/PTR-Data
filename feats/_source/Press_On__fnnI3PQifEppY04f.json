@@ -1,0 +1,40 @@
+{
+  "name": "Press On!",
+  "system": {
+    "name": "Press On!",
+    "origin": "",
+    "effect": "Your Hardened Pokemon gain the following benefits, based on your Intimidate Rank\n»» Expert: When your Pokemon Faints, you may pay 1 AP. If you do, your Pokemon Faints at -30% Hit Points instead.\n»» Master: While acting at 0 Hit Points or less, your Pokemon’s Critical Hit, Effect Range, Evasion, Initiative, Damage Reduction, and Resistance Bonuses from being Hardened are doubled.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Taskmaster, Expert Intimidate",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.QoCRXAAXlHULgYTU"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078905,
+    "modifiedTime": 1683383582741,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "fnnI3PQifEppY04f",
+  "_key": "!items!fnnI3PQifEppY04f"
+}

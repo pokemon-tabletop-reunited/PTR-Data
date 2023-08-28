@@ -1,0 +1,40 @@
+{
+  "name": "Telepathic Warning",
+  "system": {
+    "name": "Telepathic Warning",
+    "origin": "",
+    "effect": "Trigger - You or an Ally use an Attack \nEffect: You’re able to give your allies heed of attacks. All allies that would be hit by the attack may take a Shift Action as an Interrupt to move out of the area of effect of the attack. Using this leaves discoverable Psychic Residue on each affected ally. You may only use Telepathic Warning as long as you have the Telepath Capability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Telepathic Awareness, Expert Focus or Intuition",
+    "frequency": "1 AP - Free Action",
+    "tags": "[+Special Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.vfjA7umefPl7NDDa"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079206,
+    "modifiedTime": 1683383583794,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "y0HbhfRIRVLS0QX6",
+  "_key": "!items!y0HbhfRIRVLS0QX6"
+}

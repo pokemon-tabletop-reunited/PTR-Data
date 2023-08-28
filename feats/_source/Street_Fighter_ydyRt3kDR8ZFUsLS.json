@@ -1,0 +1,40 @@
+{
+  "name": "Street Fighter",
+  "system": {
+    "name": "Street Fighter",
+    "origin": "",
+    "effect": "You learn the Moves Assurance and Payback.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Unexpected Attacks, two Rogue Skills at Expert Rank",
+    "frequency": "Static",
+    "tags": "[+Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.gneg2TsyWvIQJ7DC"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079015,
+    "modifiedTime": 1683383582995,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "ydyRt3kDR8ZFUsLS",
+  "_key": "!items!ydyRt3kDR8ZFUsLS"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Stone Cold Finish",
+  "system": {
+    "name": "Stone Cold Finish",
+    "origin": "",
+    "effect": "You learn the Moves Stone Edge and Head Smash",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Shards of Stone, Master Combat or Survival",
+    "frequency": "Static",
+    "tags": "[+Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.okMYhsBdxDy2RUDK"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078968,
+    "modifiedTime": 1683383583199,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "1SsosA5VvYjXnWcN",
+  "_key": "!items!1SsosA5VvYjXnWcN"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Frost Slash",
+  "type": "move",
+  "flags": {},
+  "effects": [],
+  "_id": "W5eKIhrFzvY3Bzpy",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "If used as a Pass Move, Frost Slash is a Critical Hit on 18+. If used as a Melee, 1 Target Move, Frost Slash Freezes the Target on a 19+",
+    "rules": [],
+    "slug": null,
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Ice",
+    "category": "Physical",
+    "damageBase": "7",
+    "frequency": "EOT",
+    "ac": "2",
+    "range": "Melee, Pass",
+    "contestType": "Beauty",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/types2/IceIC_Icon.png",
+  "folder": "CKiVqPT3ASdUeaM0",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606523899,
+    "modifiedTime": 1689606577014,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!W5eKIhrFzvY3Bzpy"
+}

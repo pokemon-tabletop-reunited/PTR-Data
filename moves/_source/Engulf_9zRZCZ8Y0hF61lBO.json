@@ -1,0 +1,52 @@
+{
+  "name": "Engulf",
+  "type": "move",
+  "flags": {},
+  "effects": [],
+  "_id": "9zRZCZ8Y0hF61lBO",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "Engulf destroys all Hazards within the Cone and removes Leech Seeds and the Trapped or Stuck status of the user and those in the Cone (even immune Targets).",
+    "rules": [],
+    "slug": null,
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Ghost",
+    "category": "Special",
+    "damageBase": "2",
+    "frequency": "EOT",
+    "ac": "2",
+    "range": "Cone 3, Spirit Surge",
+    "contestType": "Smart",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/types2/GhostIC_Icon.png",
+  "folder": "CKiVqPT3ASdUeaM0",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606523899,
+    "modifiedTime": 1689606577014,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!9zRZCZ8Y0hF61lBO"
+}

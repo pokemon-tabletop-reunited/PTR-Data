@@ -1,0 +1,32 @@
+{
+  "name": "Basic Ranged Attacks (Fountain)",
+  "system": {
+    "name": "Basic Ranged Attacks (Fountain)",
+    "origin": "",
+    "effect": "Struggle Attacks modified by Fountain may now be made at a range of up to 6 meters.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Fountain",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202687,
+    "modifiedTime": 1683369231422,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "3zctOoe62pxqMspU",
+  "_key": "!items!3zctOoe62pxqMspU"
+}

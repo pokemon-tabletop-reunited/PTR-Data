@@ -1,0 +1,40 @@
+{
+  "name": "Poke Ball Mods",
+  "system": {
+    "name": "Poke Ball Mods",
+    "origin": "",
+    "effect": "You may craft any of the following Poké Ball Modifications: Habitat, Power, Type, Fabulous, Learning, Weather",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Jailbreaker",
+    "frequency": "Static",
+    "tags": "[Jailbreaker Research Field]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.SvRjWJZBV19NNOhN"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079200,
+    "modifiedTime": 1683383582788,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "fXgcna6i1D99nKwm",
+  "_key": "!items!fXgcna6i1D99nKwm"
+}

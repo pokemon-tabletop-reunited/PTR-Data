@@ -1,0 +1,40 @@
+{
+  "name": "Swift Strikes",
+  "system": {
+    "name": "Swift Strikes",
+    "origin": "",
+    "effect": "Use a Weapon Attack as if it had the Priority Keyword. If the Move already had the Priority Keyword, use it as if it had the Priority (Advanced) Keyword instead.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "4 Skirmisher Features, Master Combat or Acrobatics",
+    "frequency": "1 AP - Standard Action",
+    "tags": "[+Speed][Weapon]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.XVrW7IoI38hZTSiP"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079016,
+    "modifiedTime": 1683383582855,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "7sM3SzPOX6HsD5Ak",
+  "_key": "!items!7sM3SzPOX6HsD5Ak"
+}

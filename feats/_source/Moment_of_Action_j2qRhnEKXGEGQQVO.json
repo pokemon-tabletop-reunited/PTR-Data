@@ -1,0 +1,40 @@
+{
+  "name": "Moment of Action",
+  "system": {
+    "name": "Moment of Action",
+    "origin": "",
+    "effect": "Target: Up to two Allied Trainers\nEffect: Each target gains 1 Temporary Action Point.\n These Action Points disappear after one full Round.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Cheerleader",
+    "frequency": "At-Will – Standard Action",
+    "tags": "[Orders]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.2BiDq0OdwvHFTS9L"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079348,
+    "modifiedTime": 1683383582180,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "j2qRhnEKXGEGQQVO",
+  "_key": "!items!j2qRhnEKXGEGQQVO"
+}

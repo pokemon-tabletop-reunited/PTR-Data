@@ -1,0 +1,52 @@
+{
+  "name": "Fiesta",
+  "type": "move",
+  "flags": {},
+  "effects": [],
+  "_id": "eLZJR6w2phtqB2mo",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "Set 4 square meters of Treat hazards within 6 meters (these are only Hazards for the purposes of effects that remove Hazards  foes cannot otherwise interact with them). Any ally that ends their turn in a Treat hazard removes that Hazard and gains a Tick of Temporary Hit Points.",
+    "rules": [],
+    "slug": null,
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Normal",
+    "category": "Status",
+    "damageBase": "--",
+    "frequency": "EOT",
+    "ac": "None",
+    "range": "6, Hazard",
+    "contestType": "Cute",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/types2/NormalIC_Icon.png",
+  "folder": "CKiVqPT3ASdUeaM0",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606523899,
+    "modifiedTime": 1689606577014,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!eLZJR6w2phtqB2mo"
+}

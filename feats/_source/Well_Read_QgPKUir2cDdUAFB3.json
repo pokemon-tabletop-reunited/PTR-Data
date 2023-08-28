@@ -1,0 +1,40 @@
+{
+  "name": "Well Read",
+  "system": {
+    "name": "Well Read",
+    "origin": "",
+    "effect": "You may use your General Education Rank to qualify for Books, instead of the Book’s usual Skill Prerequisites, provided you have the normal Prerequisite at at least Novice Rank.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Bookworm, Expert General Education",
+    "frequency": "Static",
+    "tags": "[General Research Field][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.So9RGqOmJh11UsY9"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084457,
+    "modifiedTime": 1683383582785,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "QgPKUir2cDdUAFB3",
+  "_key": "!items!QgPKUir2cDdUAFB3"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Sneak's Tricks",
+  "system": {
+    "name": "Sneak's Tricks",
+    "origin": "",
+    "effect": "You learn the Move Astonish.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Adept Stealth",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953809,
+    "modifiedTime": 1683367977197,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "39LYcTE6X92OtliQ",
+  "_key": "!items!39LYcTE6X92OtliQ"
+}

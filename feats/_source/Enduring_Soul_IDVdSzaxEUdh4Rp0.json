@@ -1,0 +1,40 @@
+{
+  "name": "Enduring Soul",
+  "system": {
+    "name": "Enduring Soul",
+    "origin": "",
+    "effect": "You may add to your Pokémon’s HP stat when they level up, ignoring Base Relation, and you do not need to “correct” Stats due to this inflated HP.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Novice Athletics and Focus",
+    "frequency": "Static",
+    "tags": "[Class]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.vDmgulPBpSjAxIWY"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079037,
+    "modifiedTime": 1683383583782,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "IDVdSzaxEUdh4Rp0",
+  "_key": "!items!IDVdSzaxEUdh4Rp0"
+}

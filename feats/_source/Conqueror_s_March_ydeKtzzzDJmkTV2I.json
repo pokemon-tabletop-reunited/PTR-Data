@@ -1,0 +1,40 @@
+{
+  "name": "Conqueror’s March",
+  "system": {
+    "name": "Conqueror’s March",
+    "origin": "",
+    "effect": "Target: Your Pokémon with Rock Head\nEffect: This round, if being used as a Mount, the target may use Dash, Burst, Blast, Cone, or Line range Moves with a range of Pass instead of their usual range.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Ramming Speed, Adept Acrobatics or Athletics",
+    "frequency": "At-Will - Standard Action",
+    "tags": "[Orders][+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.VDpPfs0AlRTxlkg0"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079197,
+    "modifiedTime": 1683383582809,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "ydeKtzzzDJmkTV2I",
+  "_key": "!items!ydeKtzzzDJmkTV2I"
+}

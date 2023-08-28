@@ -1,0 +1,40 @@
+{
+  "name": "Tyrant’s Roar",
+  "system": {
+    "name": "Tyrant’s Roar",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon hits with a Dragon-Type Move\nEffect: Your Pokémon creates a Burst 2, Slowing all Foes in the area and causing those foes to lose 1 Combat Stage in any Stat in which they have positive Combat Stages.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Type Ace, Dragon as Chosen Type",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.GQTYIThpAVCituPx"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079305,
+    "modifiedTime": 1683383582492,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "9YKNH0vRaEUvyMgf",
+  "_key": "!items!9YKNH0vRaEUvyMgf"
+}

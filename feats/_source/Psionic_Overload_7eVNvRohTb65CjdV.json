@@ -1,0 +1,40 @@
+{
+  "name": "Psionic Overload",
+  "system": {
+    "name": "Psionic Overload",
+    "origin": "",
+    "effect": "Trigger - You hit with Psychic or use another Telekinetic Move \nEffect: The effect of this Feature depends on the Triggering Move.\n»» Kinesis: The user of the triggering attack becomes Confused.\n»» Barrier: Place 2 additional segments of Barrier, and you may place the Barriers anywhere within 6 meters of yourself. They do not need to remain contiguous, nor does one segment have to touch you.\n»» Psychic: The target becomes Vulnerable for one full round.\n»» Telekinesis: At the end of each turn that the target remains Lifted, they lose a Tick of Hit Points.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "PK Combat, Expert Focus",
+    "frequency": "1 AP - Swift Action",
+    "tags": "[+Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Ifj8bh3blvolja0F"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078980,
+    "modifiedTime": 1683383582525,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "7eVNvRohTb65CjdV",
+  "_key": "!items!7eVNvRohTb65CjdV"
+}

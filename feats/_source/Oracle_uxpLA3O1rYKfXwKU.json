@@ -1,0 +1,40 @@
+{
+  "name": "Oracle",
+  "system": {
+    "name": "Oracle",
+    "origin": "",
+    "effect": "You gain the Pickup Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Mystic Senses, Novice Perception",
+    "frequency": "Static",
+    "tags": "[Class][+Special Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.XOI85yuOkjcuBooX"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079118,
+    "modifiedTime": 1683383582848,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "uxpLA3O1rYKfXwKU",
+  "_key": "!items!uxpLA3O1rYKfXwKU"
+}

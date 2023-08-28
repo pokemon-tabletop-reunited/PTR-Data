@@ -1,0 +1,40 @@
+{
+  "name": "Corrupt Blood",
+  "system": {
+    "name": "Corrupt Blood",
+    "origin": "",
+    "effect": "You are immune to the Poisoned and Badly Poisoned statuses and resist Poison-type attacks one step further.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Miasmic",
+    "frequency": "Static",
+    "tags": "[+Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.W6hxhYG9bJwToWzd"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081770,
+    "modifiedTime": 1683383582827,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "oaJSLvWQHIQg4g8J",
+  "_key": "!items!oaJSLvWQHIQg4g8J"
+}

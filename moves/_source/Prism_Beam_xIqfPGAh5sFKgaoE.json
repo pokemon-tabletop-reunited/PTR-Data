@@ -1,0 +1,52 @@
+{
+  "name": "Prism Beam",
+  "type": "move",
+  "flags": {},
+  "effects": [],
+  "_id": "xIqfPGAh5sFKgaoE",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "This Move is the same type as the Primary Type of its user. It is unaffected by the Ability Normalize.",
+    "rules": [],
+    "slug": "",
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "automation": [],
+    "type": "Untyped",
+    "category": "Special",
+    "damageBase": 9,
+    "frequency": "EOT",
+    "ac": 2,
+    "range": "4, 1 Target",
+    "contestType": "Beauty",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "systems/ptu/css/images/types2/NormalIC_Icon.png",
+  "folder": "CKiVqPT3ASdUeaM0",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606523899,
+    "modifiedTime": 1689606577014,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!xIqfPGAh5sFKgaoE"
+}

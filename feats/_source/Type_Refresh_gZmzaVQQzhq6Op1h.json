@@ -1,0 +1,40 @@
+{
+  "name": "Type Refresh",
+  "system": {
+    "name": "Type Refresh",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: The target regains one use of a Scene-Frequency Move of your Chosen Type, and refreshes the Frequency of all EOT-Frequency Moves of your chosen Type. A Target can be affected by Type Refresh only once per Scene.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Type Ace",
+    "frequency": "2 AP - Standard Acrion",
+    "tags": "[Branch][Orders]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.lBFnQ0ZYpAExfcDy"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078959,
+    "modifiedTime": 1683383583114,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "gZmzaVQQzhq6Op1h",
+  "_key": "!items!gZmzaVQQzhq6Op1h"
+}

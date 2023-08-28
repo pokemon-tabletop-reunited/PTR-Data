@@ -1,0 +1,37 @@
+{
+  "name": "Hadron Engine",
+  "type": "ability",
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "The Field becomes Electrified, as if affected by the Move Electric Terrain, for one full round.\\nBonus: While this Pokemon is in Electric Terrain, it's Sp. Atk. is +2 CS.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "frequency": "Scene x3 - Swift Action",
+    "tier": ""
+  },
+  "_id": "meLoW2lriB0Pz6fo",
+  "effects": [],
+  "folder": null,
+  "sort": 40900000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692968394056,
+    "modifiedTime": 1693041308277,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!meLoW2lriB0Pz6fo"
+}

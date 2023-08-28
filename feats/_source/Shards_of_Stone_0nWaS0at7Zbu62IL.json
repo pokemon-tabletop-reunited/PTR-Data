@@ -1,0 +1,40 @@
+{
+  "name": "Shards of Stone",
+  "system": {
+    "name": "Shards of Stone",
+    "origin": "",
+    "effect": "You learn the Moves Rock Slide and Stealth Rock",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Expert Combat or Survival",
+    "frequency": "Static",
+    "tags": "[+Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.40WyfWKM5CP62Nnt"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079165,
+    "modifiedTime": 1683383582205,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "0nWaS0at7Zbu62IL",
+  "_key": "!items!0nWaS0at7Zbu62IL"
+}

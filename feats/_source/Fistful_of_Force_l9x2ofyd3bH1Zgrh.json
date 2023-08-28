@@ -1,0 +1,40 @@
+{
+  "name": "Fistful of Force",
+  "system": {
+    "name": "Fistful of Force",
+    "origin": "",
+    "effect": "Condition: You must have a Shard in your Main Hand or Off-Hand to use Fistful of Force.\nEffect: You may destroy the Shard to use the Move Judgment. Judgment’s Type must be one of the Types associated with the used Shard. Instead of adding your Special Attack when using this attack, you may choose to add your Occult Education Rank tripled.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Crystal Artificer, Master Occult Education",
+    "frequency": "Scene - Standard Action",
+    "tags": "[Artificer Research Field][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.I7dH5jsG3YJuZD5E"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079049,
+    "modifiedTime": 1683383582518,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "l9x2ofyd3bH1Zgrh",
+  "_key": "!items!l9x2ofyd3bH1Zgrh"
+}

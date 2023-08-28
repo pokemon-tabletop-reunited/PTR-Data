@@ -1,0 +1,50 @@
+{
+  "name": "Reinforced Trenchcoat",
+  "system": {
+    "origin": "",
+    "effect": "A stylish utility version of Light Armor. Grants 5 Damage Reduction and provides a +4 bonus to Stealth checks to conceal weapons and prevents their detection by metal detectors.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.441Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "10000",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Reinforced Trenchcoat",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368802677,
+    "modifiedTime": 1692170822449,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "aWhDlyZJf3bMaIBx",
+  "_key": "!items!aWhDlyZJf3bMaIBx"
+}

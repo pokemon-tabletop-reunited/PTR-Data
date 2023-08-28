@@ -1,0 +1,40 @@
+{
+  "name": "Berserker",
+  "system": {
+    "name": "Berserker",
+    "origin": "",
+    "effect": "You learn the Moves Rage and Flail. You may use these moves as a Weapon Attack when wielding Melee Weapons.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Novice Combat, Novice Intimidate",
+    "frequency": "Static",
+    "tags": "[Class][+HP][Weapon]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.lbCa1FW3yTs5kZG0"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078973,
+    "modifiedTime": 1683383583123,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "ELPt92KqJII7gbM3",
+  "_key": "!items!ELPt92KqJII7gbM3"
+}

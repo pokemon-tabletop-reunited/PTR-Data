@@ -1,0 +1,40 @@
+{
+  "name": "Scheme Twist",
+  "system": {
+    "name": "Scheme Twist",
+    "origin": "",
+    "effect": "Trigger - You give [Orders] with a Daily or Scene Frequency that have Targets.\nEffect: You may target up to two additional Allies with the [Orders].",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Commander, Master Command",
+    "frequency": "Scene x2 - Swift Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.n6dib3zyiIogRo5E"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081796,
+    "modifiedTime": 1683383583172,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "bPdkNYGYvlHKyUqe",
+  "_key": "!items!bPdkNYGYvlHKyUqe"
+}

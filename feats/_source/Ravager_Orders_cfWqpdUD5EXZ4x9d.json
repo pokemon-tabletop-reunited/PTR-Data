@@ -1,0 +1,40 @@
+{
+  "name": "Ravager Orders",
+  "system": {
+    "name": "Ravager Orders",
+    "origin": "",
+    "effect": "You gain the Reckless Advance and Strike Again! Orders.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Expert Command or Intimidate",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.FzXwymbJdrXtYPeR"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079131,
+    "modifiedTime": 1683383582480,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "cfWqpdUD5EXZ4x9d",
+  "_key": "!items!cfWqpdUD5EXZ4x9d"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Hex Maniac Studies Rank 1",
+  "system": {
+    "name": "Hex Maniac Studies Rank 1",
+    "origin": "",
+    "effect": "Learn two Hex Maniac Moves. You may choose any Move marked with the Hex Maniac Studies Rank you are taking or lower.  Use Curse as if you were a Ghost-type Pokemon.\nRank 1 Moves: Confuse Ray, Curse, Hypnosis, Spite, Will-O-Wisp",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Hex Maniac",
+    "frequency": "Static",
+    "tags": "[+HP][Ranked 3]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.95IZaUzisiUkD7Nj"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078965,
+    "modifiedTime": 1683383582330,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "dcrTr412w7Sbt3q1",
+  "_key": "!items!dcrTr412w7Sbt3q1"
+}

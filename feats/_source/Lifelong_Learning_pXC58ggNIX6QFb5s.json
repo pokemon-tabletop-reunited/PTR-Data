@@ -1,0 +1,40 @@
+{
+  "name": "Lifelong Learning",
+  "system": {
+    "name": "Lifelong Learning",
+    "origin": "",
+    "effect": "Your Pokémon may have up to 4 Moves from their Move List come from TMs or Move Tutors.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Move Tutor, one Mentor Skill at Master Rank",
+    "frequency": "Static",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.aLkjjkRFr2LWf8qC"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084355,
+    "modifiedTime": 1683383582882,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "pXC58ggNIX6QFb5s",
+  "_key": "!items!pXC58ggNIX6QFb5s"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Underhanded Tactics",
+  "system": {
+    "name": "Underhanded Tactics",
+    "origin": "",
+    "effect": "You gain your choice of Ambush or Cruelty.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Rogue, a Rogue Skill at Expert Rank",
+    "frequency": "Static",
+    "tags": "[+Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.KfikJq4MEZFxNJF4"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078974,
+    "modifiedTime": 1683383582564,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "aAyzVgZmPcmKkSel",
+  "_key": "!items!aAyzVgZmPcmKkSel"
+}

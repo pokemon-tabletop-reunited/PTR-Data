@@ -1,0 +1,36 @@
+{
+  "name": "Spectrum",
+  "type": "ability",
+  "flags": {},
+  "effects": [],
+  "_id": "RhdUn4yLpsMEeHdk",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "At the start of the user’s turn, their Primary Type (first Type listed) becomes the Primary Type of the nearest Pokémon within 10m. If more than one is equally close, randomly select at the start of the turn which one is chosen.\nIf the selected type is the same as this Pokémon’s Secondary Type (if it has one), then the Pokémon is instead treated as single-typed of the appropriate type.\nIf no Pokémon are within 10m at the start of its turn, this Pokémon’s Primary Type becomes Normal Type.\nAny Moves or Abilities other than this one that change type only change this Pokemon’s Secondary Type (or give it one if it does not currently have one). This ability may not be copied or swapped.",
+    "rules": [],
+    "slug": null,
+    "automation": [],
+    "frequency": "Static",
+    "tier": "",
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "folder": "rmoa0NFMp7Td9R3R",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606908412,
+    "modifiedTime": 1689606925574,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!RhdUn4yLpsMEeHdk"
+}

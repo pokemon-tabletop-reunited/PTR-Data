@@ -1,0 +1,40 @@
+{
+  "name": "Advanced Capture Techniques Rank 2",
+  "system": {
+    "name": "Advanced Capture Techniques Rank 2",
+    "origin": "",
+    "effect": "You gain two Capture Techniques of your choice. You must meet any prerequisites of the Technique. You may qualify for Advanced Capture Techniques’ prerequisites with the Acrobatics, Athletics, Stealth, Survival, Guile, or Perception Skills only.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Capture Specialist, any 2 Skills at Adept Rank",
+    "frequency": "Static",
+    "tags": "[Ranked 4][+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.Z3JvrxFVQveZvv67"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079349,
+    "modifiedTime": 1683383582869,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "uuHt077dLCTMv4WK",
+  "_key": "!items!uuHt077dLCTMv4WK"
+}

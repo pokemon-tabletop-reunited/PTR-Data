@@ -1,0 +1,32 @@
+{
+  "name": "Capability Training",
+  "system": {
+    "name": "Capability Training",
+    "origin": "",
+    "effect": "Increase Power or a Jump Capability by 1. Capability Training may be taken multiple times, each time increasing a different Capability.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Level 20",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202709,
+    "modifiedTime": 1683369231450,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "bh4QW9C9ET1UMKFe",
+  "_key": "!items!bh4QW9C9ET1UMKFe"
+}

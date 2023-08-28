@@ -1,0 +1,42 @@
+{
+  "name": "Defender",
+  "system": {
+    "name": "Defender",
+    "origin": "",
+    "effect": "Using the Intercept Maneuvers requires only a Shift Action Interrupt.",
+    "rules": [],
+    "slug": "",
+    "automation": [],
+    "prerequisites": "Adept Athletics",
+    "frequency": "Static",
+    "tags": "[+HP]",
+    "notes": "",
+    "free": false,
+    "snippet": "",
+    "useCount": 0
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.LFkWOagBTXAJieC0"
+    }
+  },
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.8",
+    "coreVersion": "11.300",
+    "createdTime": 1683368078900,
+    "modifiedTime": 1688722240090,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "PMI58lLIZJqHwuwW",
+  "_key": "!items!PMI58lLIZJqHwuwW"
+}

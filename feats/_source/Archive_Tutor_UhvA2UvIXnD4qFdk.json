@@ -1,0 +1,40 @@
+{
+  "name": "Archive Tutor",
+  "system": {
+    "name": "Archive Tutor",
+    "origin": "",
+    "effect": "Target: A Pokémon with 2 Tutor Points\nEffect: Select a Record in your Technique Archive that is of a Move that the target can learn by Level Up, TM or by Move Tutor. The target learns the Move and loses 2 Tutor Points. You can target someone else’s Pokémon only once with Archive Tutor; you may target your own Pokémon any number of times with Archive Tutor, but they must still abide by any Move Pool Limitations (i.e.: no more than 3 of the target's Move Pool can come from TMs or Tutor Moves).",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Technique Album, Expert Perception",
+    "frequency": "Daily - Extended Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.UozWFI2c8P6sIgRx"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084405,
+    "modifiedTime": 1683383582806,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "UhvA2UvIXnD4qFdk",
+  "_key": "!items!UhvA2UvIXnD4qFdk"
+}

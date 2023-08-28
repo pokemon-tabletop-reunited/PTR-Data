@@ -1,0 +1,50 @@
+{
+  "name": "Travel Guide",
+  "system": {
+    "origin": "",
+    "effect": "A Travel Guide covers a specific location, such as a mountain or a pair of routes in the wilderness. Travel Guides are usually written for the more popular destinations in a region, but they might not necessarily exist for more obscure and out of the way locations.\n\nRank 1 - Novice Survival: You gain the following Skill Stunts while traveling in the studied location: Survival (Foraging) and Survival (Navigation).\nRank 2 - Expert Survival: You and your Pokémon do not take damage from naturally occurring Weather effects in the studied location.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.303Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "1000",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Travel Guide",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368839700,
+    "modifiedTime": 1692170822314,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "DyKaXggbezPMKbjz",
+  "_key": "!items!DyKaXggbezPMKbjz"
+}

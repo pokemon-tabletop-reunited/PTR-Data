@@ -1,0 +1,40 @@
+{
+  "name": "Magnetize",
+  "system": {
+    "name": "Magnetize",
+    "origin": "",
+    "effect": "You gain the Magnetic Capability and may use this magnetism to stick to surfaces with significant metal content (ex: metal walls obviously, concrete with metal I-beams inside, etc). You may use your Overland to traverse any such surfaces, even if that means walking vertically up a wall or upside down on a ceiling. You may choose not to be Pushed when on such a surface.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Storm Wizard Rank 1, Adept Acrobatics",
+    "frequency": "Static",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.5WSxL0q7PITJ9bxV"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081729,
+    "modifiedTime": 1683383582238,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "XqYrXKWkxKKsrMLW",
+  "_key": "!items!XqYrXKWkxKKsrMLW"
+}

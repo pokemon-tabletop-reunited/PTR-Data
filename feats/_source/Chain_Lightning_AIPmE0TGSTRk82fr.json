@@ -1,0 +1,40 @@
+{
+  "name": "Chain Lightning",
+  "system": {
+    "name": "Chain Lightning",
+    "origin": "",
+    "effect": "Trigger - Your Pokémon hits with a damaging 1-target Electric Attack\nEffect: Pick another Pokémon or Trainer within 3 meters of the target of the attack. You may repeat the triggering attack against the target, with a -5 Damage penalty. If you hit, you may repeat the attack a third time against a foe within 3 meters of the second target, this time with a -10 Damage penalty. The third target cannot be the same as the original target.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Lockdown, Type-Linked Skill at Master",
+    "frequency": "Daily x3 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.U3VcXbK0i5ts2vRu"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079289,
+    "modifiedTime": 1683383582796,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "AIPmE0TGSTRk82fr",
+  "_key": "!items!AIPmE0TGSTRk82fr"
+}

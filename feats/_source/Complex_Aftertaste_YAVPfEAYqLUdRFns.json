@@ -1,0 +1,40 @@
+{
+  "name": "Complex Aftertaste",
+  "system": {
+    "name": "Complex Aftertaste",
+    "origin": "",
+    "effect": "Trigger: You or an ally trades in a Food Buff from an item with a Taste\nEffect: The target gains a Food Buff according to the Taste of the Snack granting the Buff. This Food Buff matches that of the corresponding basic Tasty Snack recipe.\nRecipe - Leftovers",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Accentuated Taste",
+    "frequency": "1 AP - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.J7DsUULyhYwxEiGB"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081785,
+    "modifiedTime": 1683383582530,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "YAVPfEAYqLUdRFns",
+  "_key": "!items!YAVPfEAYqLUdRFns"
+}

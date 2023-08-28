@@ -1,0 +1,50 @@
+{
+  "name": "Type Study Manual",
+  "system": {
+    "origin": "",
+    "effect": "These Books focus on one particular Pokemon Type.\n\nRank 1 - Novice Pokémon Education: You gain a -5 Bonus on Capture Checks against the studied Type.\nRank 2 - Expert Pokémon Education: When you apply Experience Training, you may choose to give one of your Pokémon of the studied Type +10 Bonus Experience. The same Pokémon cannot be chosen two days in a row.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.499Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "1000",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Type Study Manual",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368805272,
+    "modifiedTime": 1692170822507,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "tfnVzPB41TDm0UTY",
+  "_key": "!items!tfnVzPB41TDm0UTY"
+}

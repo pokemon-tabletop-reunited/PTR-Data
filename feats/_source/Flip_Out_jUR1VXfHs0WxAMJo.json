@@ -1,0 +1,40 @@
+{
+  "name": "Flip Out",
+  "system": {
+    "name": "Flip Out",
+    "origin": "",
+    "effect": "Your Tumbler Moves gain additional effects.\n»» Aerial Ace: If you choose not to test for a Critical Hit, Aerial Ace gains the Pass Keyword.\n»» Splash: Once a Scene, you may use Splash as if it had the Interrupt keyword upon getting hit with an attack. If you do, you gain Damage Reduction against that attack equal to twice your Acrobatics Rank.\n»» Acrobatics: You may activate Acrobatics’s extra damage even while holding an Item.\n»» Bounce: When you use Bounce, you don’t trigger Hazards that turn and may choose to destroy all Hazards in your landing square and adjacent squares.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Aerialist, Adept Acrobatics",
+    "frequency": "Static",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.qHH947rW6wGLAu28"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084385,
+    "modifiedTime": 1683383583235,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "jUR1VXfHs0WxAMJo",
+  "_key": "!items!jUR1VXfHs0WxAMJo"
+}

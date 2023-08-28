@@ -1,0 +1,40 @@
+{
+  "name": "Style Entrainment",
+  "system": {
+    "name": "Style Entrainment",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: Your Pokémon gains one of the following Abilities corresponding to your chosen Contest Stat for the rest of the Scene, even if it is switched out. Style Entrainment may only grant one Ability to a Pokémon at a time. If it is used a second time on the same target, it replaces the first granted Ability.\n»» Beauty gives Gentle Vibe or Serene Grace\n»» Cool gives Defiant or Sniper\n»» Cute gives Cute Charm or Cute Tears\n»» Smart gives Analytic or Anticipation\n»» Tough gives Sturdy or Intimidate",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "4 Style Expert Features",
+    "frequency": "1 AP - Swift Action, Priority (Limited)",
+    "tags": "[Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.eQcqAW8JUQHpolaT"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081738,
+    "modifiedTime": 1683383582951,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "XulNFx5kku51tvGA",
+  "_key": "!items!XulNFx5kku51tvGA"
+}

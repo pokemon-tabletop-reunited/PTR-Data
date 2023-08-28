@@ -1,0 +1,40 @@
+{
+  "name": "Miasmic",
+  "system": {
+    "name": "Miasmic",
+    "origin": "",
+    "effect": "You learn the Moves Acid and Clear Smog.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Elemental Connection (Poison), Novice Stealth, Novice Guile",
+    "frequency": "Static",
+    "tags": "[Class][+Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.G3QZ3ah64MOIiFLW"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368084466,
+    "modifiedTime": 1683383582485,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "QDcQyi4dds3OQEjM",
+  "_key": "!items!QDcQyi4dds3OQEjM"
+}

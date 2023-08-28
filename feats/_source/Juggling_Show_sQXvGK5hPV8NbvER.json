@@ -1,0 +1,40 @@
+{
+  "name": "Juggling Show",
+  "system": {
+    "name": "Juggling Show",
+    "origin": "",
+    "effect": "You may roll an additional Xd6 during the Introduction Stage of a Contest, where X is half of your Acrobatics Rank. You may choose any Contest Stat to attempt to gain Dice for with this roll.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Juggler",
+    "frequency": "Static",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.lu3TKsweg3SQKkdA"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079168,
+    "modifiedTime": 1683383583137,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "sQXvGK5hPV8NbvER",
+  "_key": "!items!sQXvGK5hPV8NbvER"
+}

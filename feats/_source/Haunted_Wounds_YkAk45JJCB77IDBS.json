@@ -1,0 +1,40 @@
+{
+  "name": "Haunted Wounds",
+  "system": {
+    "name": "Haunted Wounds",
+    "origin": "",
+    "effect": "Trigger - You hit with an Apparition Move or Ghost- Typed Weapon Attack\nEffect: After one full round, repeat the triggering attack against one target as a Free Action, regardless of range. If this attack hits, it deals damage as if it were resisted one step further. Haunted Wounds may only affect a target once per Scene.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Shadow Arms, Master Intimidate or Occult Education",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "[+Attack][Weapon]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.CsIhZiTDkgJIgfuG"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081685,
+    "modifiedTime": 1683383582415,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "YkAk45JJCB77IDBS",
+  "_key": "!items!YkAk45JJCB77IDBS"
+}

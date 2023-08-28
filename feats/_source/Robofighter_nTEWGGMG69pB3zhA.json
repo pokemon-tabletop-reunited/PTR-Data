@@ -1,0 +1,40 @@
+{
+  "name": "Robofighter",
+  "system": {
+    "name": "Robofighter",
+    "origin": "",
+    "effect": "As long as this feature is Bound, you can command your Pokébot using a Standard Action rather than a Pokémon turn. Your Pokébots may still only act once a round.\nRecipe - Firmware Update",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Engineer, Adept Technology Education",
+    "frequency": "Bind 2 AP - Standard Action",
+    "tags": "[Engineer Researcher Field]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.RfSZXTdnxA7SJhYI"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079007,
+    "modifiedTime": 1683383582762,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "nTEWGGMG69pB3zhA",
+  "_key": "!items!nTEWGGMG69pB3zhA"
+}

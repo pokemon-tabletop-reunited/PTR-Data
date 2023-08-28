@@ -1,0 +1,40 @@
+{
+  "name": "Critical Moment",
+  "system": {
+    "name": "Critical Moment",
+    "origin": "",
+    "effect": "Target: Your Pokemon with [Training] Features applied\nEffect: The bonuses from your Pokemon’s [Training] are tripled until the end of your next turn.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Elite Trainer, Adept Command",
+    "frequency": "Scene x2 - Standard Action",
+    "tags": "[Orders]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.P1FTtHnVCMC1p2Hv"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078854,
+    "modifiedTime": 1683383582706,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "tfYseOTc59nqqrB0",
+  "_key": "!items!tfYseOTc59nqqrB0"
+}

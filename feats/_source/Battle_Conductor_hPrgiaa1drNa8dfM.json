@@ -1,0 +1,40 @@
+{
+  "name": "Battle Conductor",
+  "system": {
+    "name": "Battle Conductor",
+    "origin": "",
+    "effect": "Trigger - You give [Orders] with a Frequency of At-Will that have targets\nEffect: You may target up to two additional Allies with the [Orders].",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Leadership",
+    "frequency": "At-Will - Swift Action",
+    "tags": "-",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.JrwPjfzNdUw6pkeB"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079074,
+    "modifiedTime": 1683383582546,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "hPrgiaa1drNa8dfM",
+  "_key": "!items!hPrgiaa1drNa8dfM"
+}

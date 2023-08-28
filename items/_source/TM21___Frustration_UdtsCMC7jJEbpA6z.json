@@ -1,0 +1,41 @@
+{
+  "name": "TM21 - Frustration",
+  "type": "item",
+  "system": {
+    "origin": "",
+    "effect": "Frustration’s Damage Base is equal to 6 plus two times the number of times this Pokémon has been hit since the end of this Pokémon’s last turn (to a maximum of DB 12).",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "automation": [],
+    "quantity": 1,
+    "category": "",
+    "cost": null,
+    "consumable": true,
+    "subtype": "",
+    "container": false
+  },
+  "_id": "UdtsCMC7jJEbpA6z",
+  "img": "systems/ptu/static/images/item_icons/tm.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.10",
+    "coreVersion": "11.307",
+    "createdTime": 1692967648964,
+    "modifiedTime": 1692967649349,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!UdtsCMC7jJEbpA6z"
+}

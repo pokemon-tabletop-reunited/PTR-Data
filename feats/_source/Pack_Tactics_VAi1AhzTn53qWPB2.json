@@ -1,0 +1,40 @@
+{
+  "name": "Pack Tactics",
+  "system": {
+    "name": "Pack Tactics",
+    "origin": "",
+    "effect": "Target: Your Pokémon with at least 2 Tutor Points\nEffect: The target loses 2 Tutor Points and gains the Pack Hunt or Teamwork Ability. You may only target a Pokémon with Pack Tactics only once.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Hunter",
+    "frequency": "At-Will - Extended Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.NEKZKODW49fi7eam"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078884,
+    "modifiedTime": 1683383582630,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "VAi1AhzTn53qWPB2",
+  "_key": "!items!VAi1AhzTn53qWPB2"
+}

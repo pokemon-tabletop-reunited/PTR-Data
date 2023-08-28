@@ -1,0 +1,40 @@
+{
+  "name": "Aura Guardian",
+  "system": {
+    "name": "Aura Guardian",
+    "origin": "",
+    "effect": "Choose two of Detect, Vacuum Wave, or Force Palm. You learn the chosen Moves.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Elemental Connection (Fighting)",
+    "frequency": "Static",
+    "tags": "Class][+Attack or Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.vRMWhMl3t4m8HPVO"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081799,
+    "modifiedTime": 1683383583787,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "zLYWlHtYiQap7q1k",
+  "_key": "!items!zLYWlHtYiQap7q1k"
+}

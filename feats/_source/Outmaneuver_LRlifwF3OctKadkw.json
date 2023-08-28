@@ -1,0 +1,40 @@
+{
+  "name": "Outmaneuver",
+  "system": {
+    "name": "Outmaneuver",
+    "origin": "",
+    "effect": "Trigger - You use a damaging Attack\nEffect: Add half your Evasion to your Accuracy Roll for the attack, and all foes hit by the attack have their Initiative reduced by your full Evasion value.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Harrier, Adept Combat or Acrobatics",
+    "frequency": "Scene x3 - Free Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.0WatHLWVZqfTO4uY"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081791,
+    "modifiedTime": 1683383582105,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "LRlifwF3OctKadkw",
+  "_key": "!items!LRlifwF3OctKadkw"
+}

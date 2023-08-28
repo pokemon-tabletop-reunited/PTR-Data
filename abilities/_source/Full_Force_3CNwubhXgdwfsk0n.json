@@ -1,0 +1,36 @@
+{
+  "name": "Full Force",
+  "type": "ability",
+  "flags": {},
+  "effects": [],
+  "_id": "3CNwubhXgdwfsk0n",
+  "system": {
+    "name": "",
+    "origin": "",
+    "effect": "When using a Move with a Damage Base that could be more than one value (not including Double Strike or Five Strike Moves), the Move is counted as being its highest Damage Base. This does not apply to moves that have a conditional damage boost that is of a different Frequency to the rest of the Move (such as Hex or Assurance).",
+    "rules": [],
+    "slug": null,
+    "automation": [],
+    "frequency": "Static",
+    "tier": "",
+    "snippet": "",
+    "useCount": 0
+  },
+  "ownership": {
+    "default": 0,
+    "ADtNtonEM4LarFaX": 3,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "img": "/systems/ptu/css/images/icons/ability_icon.png",
+  "folder": "rmoa0NFMp7Td9R3R",
+  "sort": 0,
+  "_stats": {
+    "systemId": "ptr",
+    "systemVersion": "0.13",
+    "coreVersion": "11.305",
+    "createdTime": 1689606908412,
+    "modifiedTime": 1689606925574,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "_key": "!items!3CNwubhXgdwfsk0n"
+}

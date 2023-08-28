@@ -1,0 +1,40 @@
+{
+  "name": "Fire Bringer",
+  "system": {
+    "name": "Fire Bringer",
+    "origin": "",
+    "effect": "Choose two of Flame Burst, Flame Wheel, Flame Charge, or Will-O-Wisp. You learn the chosen Moves",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Elemental Connection (Fire), Novice Combat",
+    "frequency": "Static",
+    "tags": "[Class][+Special Attack or Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.821ujCgcUIM9ZsZ9"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078928,
+    "modifiedTime": 1683383582316,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "HK5ywKEsxIoN8QNp",
+  "_key": "!items!HK5ywKEsxIoN8QNp"
+}

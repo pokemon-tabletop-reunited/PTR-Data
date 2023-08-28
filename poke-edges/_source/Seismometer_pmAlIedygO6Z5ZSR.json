@@ -1,0 +1,32 @@
+{
+  "name": "Seismometer",
+  "system": {
+    "name": "Seismometer",
+    "origin": "",
+    "effect": "The user's Tremorsense range is increased by a number of meters equal to their Perception Rank.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Level 20, Tremorsense Capability",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202707,
+    "modifiedTime": 1683369231448,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "pmAlIedygO6Z5ZSR",
+  "_key": "!items!pmAlIedygO6Z5ZSR"
+}

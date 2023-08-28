@@ -1,0 +1,40 @@
+{
+  "name": "Gotta Catch 'Em All",
+  "system": {
+    "name": "Gotta Catch 'Em All",
+    "origin": "",
+    "effect": "Trigger - Your make a Capture Roll.\nEffect: You may switch the rolled digits on your 1d100 roll. For example, if you roll a 91, that can be switched to a 19. This does not turn a roll of 1 into a “Natural” roll of 100.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Advanced Capture Techniques Rank 3",
+    "frequency": "Daily x3 - Swift Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.6c0sImIIOkXoBpL9"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079320,
+    "modifiedTime": 1683383582273,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "w4SnYTHnYwa9mFz5",
+  "_key": "!items!w4SnYTHnYwa9mFz5"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Train the Reserves",
+  "system": {
+    "name": "Train the Reserves",
+    "origin": "",
+    "effect": "You may apply Experience Training to a number of Pokemon equal to twice your Command Rank, instead of equal to your Command Rank.\nNote: Beast Master or Groomer do not change the Skill that this Edge uses.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Novice Command",
+    "notes": "",
+    "free": false
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683367953786,
+    "modifiedTime": 1683367977166,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "D7YCqoAEVoea5DxA",
+  "_key": "!items!D7YCqoAEVoea5DxA"
+}

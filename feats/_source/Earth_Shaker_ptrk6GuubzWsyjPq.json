@@ -1,0 +1,40 @@
+{
+  "name": "Earth Shaker",
+  "system": {
+    "name": "Earth Shaker",
+    "origin": "",
+    "effect": "Pick two of Bulldoze, Mud Shot, or Sand-Attack. You learn the chosen Moves.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Elemental Connection (Ground), Novice Intuition, Novice Focus",
+    "frequency": "Static",
+    "tags": "[Class][+Defense]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.4KiJktsRDSwKDXUe"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079220,
+    "modifiedTime": 1683383582212,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "ptrk6GuubzWsyjPq",
+  "_key": "!items!ptrk6GuubzWsyjPq"
+}

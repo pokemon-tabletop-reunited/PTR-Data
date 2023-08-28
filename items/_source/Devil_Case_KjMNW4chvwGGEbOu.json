@@ -1,0 +1,50 @@
+{
+  "name": "Devil Case",
+  "system": {
+    "origin": "",
+    "effect": "These dangerous and often illegal cases remove the failsafe on Poké Balls that prevents them from catching Pokémon that are at 0 Hit Points or less. It allows Poké Balls to catch Fainted Pokémon as normal, but automatically inflicts 2 Injuries when hitting a Pokémon - whether the Capture is successful or not.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.337Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "3000",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Devil Case",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368831319,
+    "modifiedTime": 1692170822350,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "KjMNW4chvwGGEbOu",
+  "_key": "!items!KjMNW4chvwGGEbOu"
+}

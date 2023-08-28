@@ -1,0 +1,40 @@
+{
+  "name": "Plainly Perfect",
+  "system": {
+    "name": "Plainly Perfect",
+    "origin": "",
+    "effect": "Target: Your Pokémon\nEffect: While this Feature is bound, instead of rolling for damage with Normal-Type Moves, your Pokémon acts as if they rolled the maximum value on their Damage Dice Roll. Plainly Perfect only works for the first instance of the Damage Dice Roll on Critical Hits.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Extra Ordinary, Type-Linked Skill at Adept",
+    "frequency": "Bind 2 AP - Standard Action",
+    "tags": "[Orders][Stratagem]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.cAolYeoN8vzwTHEs"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079201,
+    "modifiedTime": 1683383582921,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "jVxOH8dLynv4MkXu",
+  "_key": "!items!jVxOH8dLynv4MkXu"
+}

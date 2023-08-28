@@ -1,0 +1,40 @@
+{
+  "name": "Captured Momentum",
+  "system": {
+    "name": "Captured Momentum",
+    "origin": "",
+    "effect": "Trigger - You successfully Capture a Pokémon\nChoose One Effect:\n»You or your Pokémon gain a +2 bonus to their next Accuracy Roll during this combat.\n»You subtract your highest Skill Rank out of Acrobatics, Athletics, Stealth, Survival, Guile, or Perception from your next Capture Roll during this combat.\n»You gain 1 Temporary Action Point that disappears after one full round.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Advanced Capture Techniques Rank 2",
+    "frequency": "At-Will - Free Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.gN1wfwwpqvqAO1BA"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081756,
+    "modifiedTime": 1683383582982,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "59YR4zQr6EDY1s6B",
+  "_key": "!items!59YR4zQr6EDY1s6B"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Martial Artist",
+  "system": {
+    "name": "Martial Artist",
+    "origin": "",
+    "effect": "Choose one of the following abilities: Guts [+HP], Inner Focus [+Speed], Iron Fist [+Defense], Limber [+Speed], Reckless [+Attack], Technician [+Speed]. You gain the chosen Ability and its associated tag. Whenever you gain any Martial Artist Feature, you also gain the associated tag.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Basic Martial Arts, Novice Combat",
+    "frequency": "Static",
+    "tags": "[Class]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.HdSB5ivRU6rGV5yw"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078919,
+    "modifiedTime": 1683383582514,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "RRgxTLIcGFVgDmCt",
+  "_key": "!items!RRgxTLIcGFVgDmCt"
+}

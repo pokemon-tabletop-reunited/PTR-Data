@@ -1,0 +1,34 @@
+{
+  "name": "Threaded",
+  "type": "capability",
+  "img": "/systems/ptu/css/images/icons/capability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Pokémon with the Threaded Capability may make a Threaded Shift as a Shift Action. A Threaded Shift is when a Pokémon targets an object and shoots a strong, thin line of silk, or extends a vine from themselves, and then quickly retracts that silk, or vine, pulling itself towards the object if the Pokémon is lighter than the object, or pulling the object towards the Pokémon if it is lighter than the user. Threaded has a range of 4 meters. If you target an unwilling Pokémon or Trainer with threaded, Threaded requires an AC 6 Status Attack to use. If a Pokémon learns the Move Spider Web, String Shot, Vine Whip, Power Whip, or Toxic Thread and does not have the Threaded Capability, they gain Threaded.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "FgI0NCLyoQbTmVvh",
+  "effects": [],
+  "folder": null,
+  "sort": 3000000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.13",
+    "coreVersion": "11.308",
+    "createdTime": 1693042188180,
+    "modifiedTime": 1693118851776,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!FgI0NCLyoQbTmVvh"
+}

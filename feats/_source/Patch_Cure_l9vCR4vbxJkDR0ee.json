@@ -1,0 +1,40 @@
+{
+  "name": "Patch Cure",
+  "system": {
+    "name": "Patch Cure",
+    "origin": "",
+    "effect": "Target: A Restorative Item\nEffect: You distill the target, gaining 3 Restorative Patches. Restorative Patches have the same effect as the items from which they were created, but can only be applied as an Extended Action.\nRecipe - Super Cures",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Apothecary, Adept Medicine Education",
+    "frequency": "At-Will - Extended Action",
+    "tags": "[Apothecary Research Field][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.0aYqdTH8L2HARdKh"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081710,
+    "modifiedTime": 1683383582119,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "l9vCR4vbxJkDR0ee",
+  "_key": "!items!l9vCR4vbxJkDR0ee"
+}

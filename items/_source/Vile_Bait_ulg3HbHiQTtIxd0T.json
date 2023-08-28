@@ -1,0 +1,50 @@
+{
+  "name": "Vile Bait",
+  "system": {
+    "origin": "",
+    "effect": "Vile Bait is a strong-smelling morsel of food designed to attract Pokémon. Pokémon that eat it are poisoned.\n\nTo lure Pokémon, set the vile bait on a route. Every 15 minutes thereafter, roll 1d20 until you roll 15 or higher. If you roll 3 times without success, the vile bait loses its potency and fails. If you succeed however, a random Pokémon will appear. Vile bait is often used for Fishing in this way.\nTo distract Pokémon, throw it at a Wild Pokémon as a Standard Action. The target must then make a Focus Roll with a DC of 12. If they fail, the Pokémon gives up its next Standard Action to eat the food.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.109,
+      "lastMigration": {
+        "datetime": "2023-08-16T07:27:02.516Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "4.0.0.alpha.4"
+        }
+      }
+    },
+    "automation": [],
+    "quantity": "1",
+    "category": "",
+    "cost": "200",
+    "consumable": "0",
+    "subtype": "",
+    "container": false,
+    "name": "Vile Bait",
+    "useCount": 0
+  },
+  "type": "item",
+  "img": "/systems/ptu/css/images/icons/item_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.4",
+    "coreVersion": "11.307",
+    "createdTime": 1683368789034,
+    "modifiedTime": 1692170822526,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "ulg3HbHiQTtIxd0T",
+  "_key": "!items!ulg3HbHiQTtIxd0T"
+}

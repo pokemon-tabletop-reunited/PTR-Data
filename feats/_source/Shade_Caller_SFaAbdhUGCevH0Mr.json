@@ -1,0 +1,40 @@
+{
+  "name": "Shade Caller",
+  "system": {
+    "name": "Shade Caller",
+    "origin": "",
+    "effect": "You learn Faint Attack and Snarl.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Elemental Connection (Dark), Novice Guile, Novice Stealth",
+    "frequency": "Static",
+    "tags": "[Class][+Attack or Special Attack]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.FDE2iDDYDv5BCOvy"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368078921,
+    "modifiedTime": 1683383582455,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "SFaAbdhUGCevH0Mr",
+  "_key": "!items!SFaAbdhUGCevH0Mr"
+}

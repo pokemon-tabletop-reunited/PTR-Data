@@ -1,0 +1,40 @@
+{
+  "name": "Strange Energy",
+  "system": {
+    "name": "Strange Energy",
+    "origin": "",
+    "effect": "You learn the Moves Heal Block and Magic Coat.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Warping Ground, Space Distortion",
+    "frequency": "Static",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.1awEqMUIA6867mcB"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079228,
+    "modifiedTime": 1683383582150,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "rlloSmjPbC4tcUiB",
+  "_key": "!items!rlloSmjPbC4tcUiB"
+}

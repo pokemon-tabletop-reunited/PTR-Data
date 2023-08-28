@@ -1,0 +1,32 @@
+{
+  "name": "Capability Training (Long Jump)",
+  "system": {
+    "name": "Capability Training (Long Jump)",
+    "origin": "",
+    "effect": "Increase Long Jump Capability by 1. Capability Training may not be taken again for Long Jump.",
+    "snippet": "",
+    "useCount": 0,
+    "prerequisites": "Level 20",
+    "cost": "1 TP"
+  },
+  "type": "pokeedge",
+  "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683369202708,
+    "modifiedTime": 1683369231449,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "kztgoIe4qRH8Sz5w",
+  "_key": "!items!kztgoIe4qRH8Sz5w"
+}

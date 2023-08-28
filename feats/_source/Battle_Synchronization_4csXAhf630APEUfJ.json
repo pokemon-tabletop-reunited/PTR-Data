@@ -1,0 +1,40 @@
+{
+  "name": "Battle Synchronization",
+  "system": {
+    "name": "Battle Synchronization",
+    "origin": "",
+    "effect": "For one full round, whenever a Channeled Pokémon successfully hits a foe, all Channeled Pokémon gain +1 Accuracy and +1 Evasion against that foe for the duration of this Feature.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Channeler",
+    "frequency": "Scene x3 – Standard Action",
+    "tags": "[Orders]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.8x3kZAIDH4uKXsYf"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079058,
+    "modifiedTime": 1683383582327,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "4csXAhf630APEUfJ",
+  "_key": "!items!4csXAhf630APEUfJ"
+}

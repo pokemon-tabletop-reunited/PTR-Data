@@ -1,0 +1,40 @@
+{
+  "name": "Instant Analysis",
+  "system": {
+    "name": "Instant Analysis",
+    "origin": "",
+    "effect": "Target: Your Pokémon with at least 2 Tutor Points remaining\nEffect: Your Pokémon loses 2 Tutor Points and gains the Forewarn Ability.",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "Expert General Education",
+    "frequency": "At-Will - Extended Action",
+    "tags": "[General Research Field][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.hA42P9jicK5hlVrH"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368079133,
+    "modifiedTime": 1683383583009,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "i2XTo5TAwnjgGBSa",
+  "_key": "!items!i2XTo5TAwnjgGBSa"
+}

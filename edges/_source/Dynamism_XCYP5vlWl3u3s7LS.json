@@ -1,0 +1,39 @@
+{
+  "name": "Dynamism",
+  "system": {
+    "origin": "",
+    "effect": "Your initiative is increased by your Guile Rank.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "prerequisites": "Novice Guile",
+    "notes": "",
+    "free": false,
+    "name": "Dynamism",
+    "useCount": 0
+  },
+  "type": "edge",
+  "img": "/systems/ptu/css/images/icons/edge_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.7",
+    "coreVersion": "11.307",
+    "createdTime": 1683367953810,
+    "modifiedTime": 1692279009622,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "XCYP5vlWl3u3s7LS",
+  "_key": "!items!XCYP5vlWl3u3s7LS"
+}

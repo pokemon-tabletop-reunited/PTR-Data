@@ -1,0 +1,40 @@
+{
+  "name": "Style Expert",
+  "system": {
+    "name": "Style Expert",
+    "origin": "",
+    "effect": "Your Pokémon gain +2d6 to your chosen Contest Stat. These dice are counted as if coming from Poffins.\n\nNote: When you take Style Expert, choose from Beauty, Cool, Cute, Smart, or Tough. This becomes your Chosen Contest Stat. You may take Style Expert multiple times, each time choosing a different Contest Stat",
+    "snippet": "",
+    "useCount": 0,
+    "automation": [],
+    "prerequisites": "3 Pokémon with 3d6 in a specific certain Contest Stat from Poffins\nOr\nCoordinator, 1 Pokemon with 3d6 in a specific certain Constat Stat from Poffins",
+    "frequency": "Static",
+    "tags": "[Class][Branch]",
+    "notes": "",
+    "free": false
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.qBdWoYQzNerj3rln"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "3.2.3.8",
+    "coreVersion": "10.291",
+    "createdTime": 1683368081694,
+    "modifiedTime": 1683383583230,
+    "lastModifiedBy": "DsHOL7PqMABKgssN"
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "yneVZlitOods07FZ",
+  "_key": "!items!yneVZlitOods07FZ"
+}
