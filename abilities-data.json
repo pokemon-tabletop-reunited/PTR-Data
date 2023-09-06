@@ -81,7 +81,7 @@
   },
   {
     "name":"Sharpness",
-    "effect":"The user has the Damage Base for moves with the Slash Keyword increased by 2.",
+    "effect":"The user has the Damage Base for following moves: Aerial Ace, Air Cutter, Air Slash, Aqua Cutter, Behemoth Blade, Biter Blade, Ceaseless Edge, Cross Poison, Cut, Fury Cutter, Kowtow Cleave, Leaf Blade, Night Slash, Population Bomb, Psyblade, Psycho Cut, Razor Leaf, Razor Shell, Sacred Sword, Slash, Solar Blade, Stone Axe, X-Scissor, ",
     "frequency":"Static"
   },
   {
@@ -436,7 +436,7 @@
   },
   {
     "name":"Wind Power",
-    "effect":"When this Pokemon takes damage from a move with the Wind keyword, it can use Charge as a Free Action as if it was on its move list.",
+    "effect":"When this Pokemon is hit by any of the following moves, it can use Charge as a Free Action as if it was on its move list.\\n Air Cutter, Bleakwind Storm, Blizzard, Fairy Wind, Gust, Heat Wave, Hurricance, Icy Wind, Razor Wind, Petal Blizzard, Sandsear Storm, Springtime Storm, Twister, Whirlwind, Wildbolt Storm. ",
     "frequency":"At-Will - Free Action, Reaction"
   },
   {
