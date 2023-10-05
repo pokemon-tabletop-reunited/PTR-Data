@@ -1,0 +1,34 @@
+{
+  "name": "Palkia's Minor Gift - Spatial Awareness",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Upper Pantheon Gifts",
+    "effect": "Prerequisites: GM Permission Static Effect: You intuitively know the size of an object or the  distance between objects by sight down to the nearest  centimeter for distances and lengths up to 10 meters.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "9R0mHGvn0DEH51lN",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!9R0mHGvn0DEH51lN"
+}

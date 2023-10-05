@@ -225,9 +225,10 @@
     ],
     "slug": "",
     "schema": {
-      "version": null,
+      "version": 0.11,
       "lastMigration": null
     },
+    "referenceEffect": "",
     "prerequisites": "-",
     "notes": "",
     "free": false,
@@ -246,10 +247,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.alpha.7",
-    "coreVersion": "11.307",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683367953790,
-    "modifiedTime": 1692294577305,
+    "modifiedTime": 1695027500519,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

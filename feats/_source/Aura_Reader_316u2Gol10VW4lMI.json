@@ -1,17 +1,48 @@
 {
   "name": "Aura Reader",
   "system": {
-    "name": "Aura Reader",
     "origin": "",
     "effect": "You gain the Aura Reader Capability for the rest of the scene. If your Intuition is Adept Rank or higher, you also gain the Aura Pulse Capability.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "flag": "auraReaderFeat",
+        "adjustName": false,
+        "prompt": "Choose which stat to increase.",
+        "choices": [
+          {
+            "label": "ATK",
+            "value": "system.modifiers.baseStats.atk.mod"
+          },
+          {
+            "label": "SPATK",
+            "value": "system.modifiers.baseStats.spatk.mod"
+          }
+        ]
+      },
+      {
+        "key": "ActiveEffectLike",
+        "path": "{item|flags.ptu.rulesSelections.auraReaderFeat}",
+        "mode": "add",
+        "value": 1
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Aura Guardian",
     "frequency": "2 AP - Swift Action",
     "tags": "[+Attack or Special Attack]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Aura Reader",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +58,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368079291,
-    "modifiedTime": 1683383583214,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 3200000,
   "_id": "316u2Gol10VW4lMI",
   "_key": "!items!316u2Gol10VW4lMI"
 }

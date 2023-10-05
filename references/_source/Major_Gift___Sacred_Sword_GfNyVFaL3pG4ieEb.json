@@ -1,0 +1,34 @@
+{
+  "name": "Major Gift - Sacred Sword",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Lower Pantheon Gifts",
+    "effect": "Prerequisites: Minor Gift - Spirit of Justice Static Effect: You learn the Move Sacred Sword",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "GfNyVFaL3pG4ieEb",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!GfNyVFaL3pG4ieEb"
+}

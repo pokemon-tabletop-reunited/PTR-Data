@@ -1,17 +1,32 @@
 {
   "name": "Quick Wit",
   "system": {
-    "name": "Quick Wit",
     "origin": "",
     "effect": "You may make a Manipulate Maneuver or use a Social Move you know, Frequency allowing.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Provocateur, a Provocateur Skill at Adept Rank",
     "frequency": "Scene x3 - Swift Action",
     "tags": "[+Speed]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "automation": [],
+    "name": "Quick Wit",
+    "useCount": 0
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +42,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368081757,
-    "modifiedTime": 1683383582225,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 63000000,
   "_id": "un6GkSe4D0kz2GZF",
   "_key": "!items!un6GkSe4D0kz2GZF"
 }

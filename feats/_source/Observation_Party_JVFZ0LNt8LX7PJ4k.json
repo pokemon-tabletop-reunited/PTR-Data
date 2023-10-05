@@ -1,17 +1,25 @@
 {
   "name": "Observation Party",
   "system": {
-    "name": "Observation Party",
     "origin": "",
     "effect": "While they are in a Location in your Travel Archive, your Pokémon have the Ability you chose when gaining Travel Archive and gain a +2 bonus to Perception Checks to notice the environment.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Travel Archive, Adept Perception",
     "frequency": "Static",
     "tags": "-",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Observation Party",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368079148,
-    "modifiedTime": 1683383582641,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 20100000,
   "_id": "JVFZ0LNt8LX7PJ4k",
   "_key": "!items!JVFZ0LNt8LX7PJ4k"
 }

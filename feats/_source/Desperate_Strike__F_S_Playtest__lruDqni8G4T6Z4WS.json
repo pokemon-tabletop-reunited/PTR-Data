@@ -1,0 +1,55 @@
+{
+  "name": "Desperate Strike [F&S Playtest]",
+  "system": {
+    "origin": "[F&S Playtest]",
+    "effect": "Trigger - Your Pokémon triggers Cruelty, or scores a Critical Hit with damaging attack.\nEffect: Your Pokemon may apply the effects of Cruelty to the attack without expending Cruelty’s Frequency. Cruelty’s effects may be purchased as if the foe had additional injuries equal to the number of injuries on the user. Desperate Strike may be used once per Scene per Pokémon.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "prerequisites": "Savage Strike, Expert Intimidate",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "-",
+    "notes": "",
+    "free": false,
+    "class": "Taskmaster [F&S Playtest]",
+    "name": "Desperate Strike",
+    "useCount": 0,
+    "automation": []
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "ptu": {
+      "showInTokenPanel": true
+    },
+    "exportSource": {
+      "world": "tohou-the-wilderness",
+      "system": "ptu",
+      "coreVersion": "11.308",
+      "systemVersion": "4.0.0.alpha.25"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
+    "createdTime": 1683368081712,
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": "NlEB7XJnDWyGbZnQ",
+  "_id": "lruDqni8G4T6Z4WS",
+  "sort": 4300000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "_key": "!items!lruDqni8G4T6Z4WS"
+}

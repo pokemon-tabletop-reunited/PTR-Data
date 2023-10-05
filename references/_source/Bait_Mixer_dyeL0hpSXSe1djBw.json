@@ -1,0 +1,34 @@
+{
+  "name": "Bait Mixer",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Chef Recipes",
+    "effect": "Prerequisites: Culinary Appreciation Cost: $150 or Honey. Effect: You may create Bait. For $50 more, you may create Bait as Super Bait or Vile Bait instead. Super Bait works like regular Bait, but you may add your Intuition Rank to 1d20 Rolls made to attract Pokémon. Vile Bait works like regular Bait, but Pokémon that eat it are Poisoned.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "dyeL0hpSXSe1djBw",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!dyeL0hpSXSe1djBw"
+}

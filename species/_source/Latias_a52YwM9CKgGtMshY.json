@@ -2,7 +2,7 @@
   "type": "species",
   "system": {
     "schema": {
-      "version": 0.102,
+      "version": 0.11,
       "lastMigration": {
         "datetime": "2023-08-15T11:56:07.903Z",
         "version": {
@@ -57,11 +57,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.a52YwM9CKgGtMshY",
         "slug": "latias",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -97,7 +99,7 @@
       "highJump": 2,
       "longJump": 2,
       "power": 4,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "aura-reader",
@@ -624,14 +626,19 @@
       }
     },
     "slug": "latias",
-    "rules": []
+    "rules": [],
+    "type": {
+      "0": "Dragon",
+      "1": "Psychic",
+      "2": ""
+    }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
   "name": "Latias",
   "_id": "a52YwM9CKgGtMshY",
   "effects": [],
-  "sort": 0,
+  "sort": 66900000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -639,10 +646,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.alpha.13",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.4",
+    "coreVersion": "11.309",
     "createdTime": 1689609527590,
-    "modifiedTime": 1693122418948,
+    "modifiedTime": 1696169282411,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!a52YwM9CKgGtMshY"

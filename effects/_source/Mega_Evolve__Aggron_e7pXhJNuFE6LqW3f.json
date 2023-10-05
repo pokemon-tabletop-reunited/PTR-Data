@@ -1,0 +1,93 @@
+{
+  "folder": "TuFJ2nmx9i2k6KYk",
+  "name": "Mega Evolve: Aggron",
+  "type": "effect",
+  "img": "/systems/ptu/static/css/images/icons/effect_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "This effect will mega-evolve your Aggron.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "TokenImage",
+        "predicate": [
+          "species:aggron",
+          "self:pokemon:shiny"
+        ],
+        "value": "/systems/ptu/static/images/sprites/306s_MEGA.webp"
+      },
+      {
+        "key": "TokenImage",
+        "predicate": {
+          "and": [
+            "species:aggron",
+            {
+              "not": "self:pokemon:shiny"
+            }
+          ]
+        },
+        "value": "/systems/ptu/static/images/sprites/306_MEGA.webp"
+      },
+      {
+        "key": "TemporarySpecies",
+        "predicate": [
+          "species:aggron"
+        ],
+        "uuid": "Compendium.ptu.species.Item.TCWgJ9Ux3LK2DuCV"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [
+          "species:aggron"
+        ],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.abilities.Item.0cDFgfGwpSj2uYE2"
+      }
+    ],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": -1,
+      "unit": "unlimited",
+      "expiry": "turn-start"
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "target": null,
+    "tokenIcon": {
+      "show": true
+    },
+    "badge": null,
+    "context": null
+  },
+  "effects": [],
+  "ownership": {
+    "default": 2,
+    "y4EIjJlrc2eCclW7": 3,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695732222097,
+    "modifiedTime": 1696169723818,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "e7pXhJNuFE6LqW3f",
+  "sort": 2000000,
+  "_key": "!items!e7pXhJNuFE6LqW3f"
+}

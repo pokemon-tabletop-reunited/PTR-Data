@@ -1,0 +1,34 @@
+{
+  "name": "Pester Balls: Pain",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Chemistry Recipes",
+    "effect": "Prerequisites: Chemical Warfare Cost: $50 Effect: You create Pester Balls that can inflict Burn or Poison. ",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "m4bcj46XVLE9vm02",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!m4bcj46XVLE9vm02"
+}

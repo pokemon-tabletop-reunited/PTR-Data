@@ -1,0 +1,34 @@
+{
+  "name": "Power Modification",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Jailbreaker Poké Ball Modifications",
+    "effect": "Ingredients/Cost: Nest Ball / $500 Effect: You change the Nest Ball into a Power Ball. It retains the conditional capture modifier of a Nest Ball, but additionally, when a Power Ball captures a target, the captured Pokémon is raised 1d4 levels upon capture.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "UeeEBjhgY9AGgC9K",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!UeeEBjhgY9AGgC9K"
+}

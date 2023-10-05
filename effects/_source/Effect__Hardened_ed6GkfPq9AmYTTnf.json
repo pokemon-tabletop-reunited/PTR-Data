@@ -1,0 +1,64 @@
+{
+  "name": "Effect: Hardened",
+  "type": "effect",
+  "img": "/systems/ptu/static/css/images/icons/effect_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "override",
+        "path": "system.modifiers.hardened",
+        "phase": "applyAEs",
+        "value": "true"
+      }
+    ],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": -1,
+      "unit": "unlimited",
+      "expiry": "turn-start"
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "target": null,
+    "tokenIcon": {
+      "show": true
+    },
+    "badge": null,
+    "context": null
+  },
+  "effects": [],
+  "folder": "brF6jeBXBSNW4Lob",
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.4",
+    "coreVersion": "11.308",
+    "createdTime": 1695907824371,
+    "modifiedTime": 1695907899435,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "ed6GkfPq9AmYTTnf",
+  "sort": 0,
+  "_key": "!items!ed6GkfPq9AmYTTnf"
+}

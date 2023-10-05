@@ -1,17 +1,25 @@
 {
   "name": "Swarmlord",
   "system": {
-    "name": "Swarmlord",
     "origin": "",
     "effect": "Your powers begin to take after either Arachnid's Embrace or Monarch's Embrace. Depending on your Embrace, you gain an Ability and Stat Tags. Whenever you gain a Swarmlord Feature, you gain the same Stat Tags.\nArachnid’s Embrace: Unnerve [+Attack]\nMonarch’s Embrace: Shield Dust [+Special Attack]",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Elemental Connection (Bug), Novice Survival, Novice Command",
     "frequency": "Static",
     "tags": "[Class][Special]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Swarmlord",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368079006,
-    "modifiedTime": 1683383582406,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 2200000,
   "_id": "1YnaG2IIhOk2GhAu",
   "_key": "!items!1YnaG2IIhOk2GhAu"
 }

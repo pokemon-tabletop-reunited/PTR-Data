@@ -1,0 +1,34 @@
+{
+  "name": "Minor Gift - Royal Privilege",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Lower Pantheon Gifts",
+    "effect": "Prerequisites: GM Permission Effect: You may wear Shards as a Trainer Accessory, and gain a +2 bonus to Skill Checks for the Skill linked to the shard’s color. Red is linked to Intimidate, Orange to Command, Yellow to Charm, Green to Intuition, Blue to Guile, and Violet to Focus.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "O4T0DYGhoHlwrcmb",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!O4T0DYGhoHlwrcmb"
+}

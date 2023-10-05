@@ -1,0 +1,34 @@
+{
+  "name": "Escape Artist",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Trickster Techniques",
+    "effect": "1 AP – Free Action Trigger: Your Pokémon targets an adjacent foe with a Status-Class Move Effect: The triggering Move cannot provoke an Attack of Opportunity, and your Pokémon may immediately perform a Disengage Maneuver as a Free Action. Escape Artist may only be activated once per Scene per Pokémon. ",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "vidEsN1cH2BY5wYI",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!vidEsN1cH2BY5wYI"
+}

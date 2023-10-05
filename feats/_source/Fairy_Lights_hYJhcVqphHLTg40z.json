@@ -1,17 +1,25 @@
 {
   "name": "Fairy Lights",
   "system": {
-    "name": "Fairy Lights",
     "origin": "",
     "effect": "Your Fairy-Type Pokemon may activate Fairy Lights as a Standard Action to create 3 Fairy Lights that hover around themselves. Whenever the target is attacked by a foe within 6 meters, they may expend a Fairy Light to either immediately gain a Tick of Temporary Hit Points, or to use the Move Fairy Wind as a Free Action.\n\nSpecial - Fairy Lights also provide mild lighting, comparable to a candle. As an extended action your Pokemon can control the lights individually, but they must stay within 6 meters of the Pokemon that created them.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Type Ace, Fairy as Chosen Type",
     "frequency": "At-Will - Special",
     "tags": "-",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Fairy Lights",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368081756,
-    "modifiedTime": 1683383582460,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 48300000,
   "_id": "hYJhcVqphHLTg40z",
   "_key": "!items!hYJhcVqphHLTg40z"
 }

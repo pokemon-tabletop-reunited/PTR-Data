@@ -1,17 +1,25 @@
 {
   "name": "Hits the Spot",
   "system": {
-    "name": "Hits the Spot",
     "origin": "",
     "effect": "Trigger: You or your Pokémon trade in a Food Buff\nEffect: The target gains Temporary Hit Points equal to your Intuition Rank doubled. These Temporary Hit Points stack from any Temporary Hit Points granted by Accentuated Taste, the Food Buff or by the Lunchbox Ability.\nRecipe - Hearty Meal",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Chef",
     "frequency": "1 AP - Free Action",
     "tags": "-",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Hits the Spot",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368084358,
-    "modifiedTime": 1683383583061,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 38800000,
   "_id": "ZuOf65nHbPWh20z3",
   "_key": "!items!ZuOf65nHbPWh20z3"
 }

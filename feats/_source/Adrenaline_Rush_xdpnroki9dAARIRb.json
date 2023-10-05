@@ -1,17 +1,32 @@
 {
   "name": "Adrenaline Rush",
   "system": {
-    "name": "Adrenaline Rush",
     "origin": "",
     "effect": "Trigger - You are lowered to half or your Maximum Hit Points or less\nEffect: You gain +1 Combat Stage in each of your Trained Stats, are cured of up to two Status Afflictions, and gain a Tick of Temporary Hit Points. Adrenaline Rush may be used only once per Scene",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.hp.mod",
+        "value": 1
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Athlete, Expert Athletics",
     "frequency": "Daily x3 - Free Action",
     "tags": "[+HP]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "automation": [],
+    "name": "Adrenaline Rush",
+    "useCount": 0
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +42,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368078827,
-    "modifiedTime": 1683383583830,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 65800000,
   "_id": "xdpnroki9dAARIRb",
   "_key": "!items!xdpnroki9dAARIRb"
 }

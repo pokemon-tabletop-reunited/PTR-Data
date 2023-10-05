@@ -1,0 +1,34 @@
+{
+  "name": "Major Gift - Glitch Message",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "The Outsider Gifts",
+    "effect": "Prerequisites: Minor Gift - Intuitive Sabotage 2 AP - Standard Action Target: Electronic Communication Effect: You must use Glitch Message targeting  one instance of electronic communication you are  currently aware of in your vicinity, such as an email  being typed at the computer next to you or a text  message someone is sending. You may view and edit  the contents of the message before it gets electronically  transmitted without the sender being aware of an  issue. On extended communications such as a phone  call or video conference, Glitch Message works on one  minute’s worth of communication per activation.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "SBL4kraYS2U6AlQW",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!SBL4kraYS2U6AlQW"
+}

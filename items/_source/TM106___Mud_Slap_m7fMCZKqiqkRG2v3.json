@@ -8,16 +8,17 @@
     "rules": [],
     "slug": null,
     "schema": {
-      "version": null,
+      "version": 0.11,
       "lastMigration": null
     },
-    "automation": [],
+    "referenceEffect": "",
     "quantity": 1,
     "category": "",
     "cost": null,
     "consumable": true,
     "subtype": "",
-    "container": false
+    "container": false,
+    "automation": []
   },
   "_id": "m7fMCZKqiqkRG2v3",
   "img": "systems/ptu/static/images/item_icons/tm.webp",
@@ -31,10 +32,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.alpha.10",
-    "coreVersion": "11.307",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1692967648964,
-    "modifiedTime": 1692967649994,
+    "modifiedTime": 1695027515118,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!m7fMCZKqiqkRG2v3"

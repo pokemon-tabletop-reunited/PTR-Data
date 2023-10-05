@@ -1,0 +1,93 @@
+{
+  "folder": "TuFJ2nmx9i2k6KYk",
+  "name": "Mega Evolve: Heracross",
+  "type": "effect",
+  "img": "/systems/ptu/static/css/images/icons/effect_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "This effect will mega-evolve your Heracross.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "TokenImage",
+        "predicate": [
+          "species:heracross",
+          "self:pokemon:shiny"
+        ],
+        "value": "/systems/ptu/static/images/sprites/214s_MEGA.webp"
+      },
+      {
+        "key": "TokenImage",
+        "predicate": {
+          "and": [
+            "species:heracross",
+            {
+              "not": "self:pokemon:shiny"
+            }
+          ]
+        },
+        "value": "/systems/ptu/static/images/sprites/214_MEGA.webp"
+      },
+      {
+        "key": "TemporarySpecies",
+        "predicate": [
+          "species:heracross"
+        ],
+        "uuid": "Compendium.ptu.species.Item.EttXjVS30zeygxOR"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [
+          "species:heracross"
+        ],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.abilities.Item.1eHAkLt91Wb7wU6u"
+      }
+    ],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": -1,
+      "unit": "unlimited",
+      "expiry": "turn-start"
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "target": null,
+    "tokenIcon": {
+      "show": true
+    },
+    "badge": null,
+    "context": null
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "y4EIjJlrc2eCclW7": 3,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695893635356,
+    "modifiedTime": 1696169723818,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "exId6tvobBf4ff89",
+  "sort": 1400000,
+  "_key": "!items!exId6tvobBf4ff89"
+}

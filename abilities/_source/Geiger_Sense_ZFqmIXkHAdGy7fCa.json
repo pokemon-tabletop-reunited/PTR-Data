@@ -5,15 +5,20 @@
   "effects": [],
   "_id": "ZFqmIXkHAdGy7fCa",
   "system": {
-    "name": "",
     "origin": "",
     "effect": "This Pokémon has +2 Accuracy against Nuclear-Type Pokémon and Pokémon that have been hit with a Nuclear-Type attack since the start of this Pokémon’s last turn. This bonus does not work in Nuclear Fallout, or against Pokémon with the Lead Skin Ability.",
+    "snippet": "",
     "rules": [],
     "slug": null,
-    "automation": [],
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "frequency": "Static",
     "tier": "",
-    "snippet": "",
+    "name": "",
+    "automation": [],
     "useCount": 0
   },
   "ownership": {
@@ -25,12 +30,12 @@
   "folder": "rmoa0NFMp7Td9R3R",
   "sort": 0,
   "_stats": {
-    "systemId": "ptr",
-    "systemVersion": "0.13",
-    "coreVersion": "11.305",
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1689606908412,
-    "modifiedTime": 1689606925574,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027485885,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!ZFqmIXkHAdGy7fCa"
 }

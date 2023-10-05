@@ -1,17 +1,32 @@
 {
   "name": "Rouse the Dragon's Blood",
   "system": {
-    "name": "Rouse the Dragon's Blood",
     "origin": "",
     "effect": "Trigger - You suffer a Critical Hit or gain an Injury from a foe’s attack\nEffect: For 1 full round, the next Herald of Pride Move you use against the triggering foe cannot miss, cannot be Intercepted, and effects that would cause it to miss cannot be activated against it.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.atk.mod",
+        "value": 1
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Herald of Pride, Expert Command or Intimidate",
     "frequency": "Scene x2 - Free Action",
     "tags": "[+Attack]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "automation": [],
+    "name": "Rouse the Dragon's Blood",
+    "useCount": 0
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +42,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368081799,
-    "modifiedTime": 1683383582625,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 23000000,
   "_id": "LqHQoqACJpHmlFVJ",
   "_key": "!items!LqHQoqACJpHmlFVJ"
 }

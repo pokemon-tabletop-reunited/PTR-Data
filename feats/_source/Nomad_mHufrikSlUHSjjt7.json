@@ -1,0 +1,69 @@
+{
+  "folder": "SMepfD0qveoA3YvU",
+  "name": "Nomad",
+  "type": "feat",
+  "img": "systems/ptu/static/css/images/icons/class_feat_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "You gain the Moves Ally Switch and Teleport.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1,
+        "predicate": [],
+        "phase": "applyAEs"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.RJi8fqc4Kx3yZnVJ"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.BFyiKFMmD0rwvIl7"
+      }
+    ],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "prerequisites": "Elemental Connection (Psychic), Novice Focus",
+    "frequency": "At Will - Standard Action",
+    "tags": "[Class] [+Speed]",
+    "notes": "",
+    "free": false,
+    "class": ""
+  },
+  "effects": [],
+  "ownership": {
+    "default": 2,
+    "y4EIjJlrc2eCclW7": 3,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695152947504,
+    "modifiedTime": 1696169058930,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "mHufrikSlUHSjjt7",
+  "sort": 600000,
+  "_key": "!items!mHufrikSlUHSjjt7"
+}

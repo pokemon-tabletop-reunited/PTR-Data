@@ -1,17 +1,32 @@
 {
   "name": "Advanced Capture Techniques Rank 4",
   "system": {
-    "name": "Advanced Capture Techniques Rank 4",
     "origin": "",
     "effect": "You gain two Capture Techniques of your choice. You must meet any prerequisites of the Technique. You may qualify for Advanced Capture Techniques’ prerequisites with the Acrobatics, Athletics, Stealth, Survival, Guile, or Perception Skills only.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Capture Specialist, any 3 Skills at Expert Rank",
     "frequency": "Static",
     "tags": "[Ranked 4][+Speed]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "automation": [],
+    "name": "Advanced Capture Techniques Rank 4",
+    "useCount": 0
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +42,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368081669,
-    "modifiedTime": 1683383583271,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 28000000,
   "_id": "Pl5ZJkgux6OKyvXB",
   "_key": "!items!Pl5ZJkgux6OKyvXB"
 }

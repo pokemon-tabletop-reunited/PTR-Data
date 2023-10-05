@@ -5,12 +5,17 @@
   "effects": [],
   "_id": "gR2QhdTSR916Vcax",
   "system": {
-    "name": "",
     "origin": "",
     "effect": "Urayne requires radiation to feed off of, its strength determined by how much it is able to consume.\n\nUsing a Uranium Core, as an Extended Action once per day, Urayne may be fed either a Small Amount or Large Amount of radiation (it is up to the GM whether any individual core is able to provide Large Amounts of radiation).\n\nBeing fed a Small Amount transforms Urayne into its Beta Forme, while being fed a Large Amount transforms Urayne into its Gamma Fome. All forms must have the same HP base stat as in its Alpha Forme, even if that forces BSR to be broken.\n\nAfter a Scene in which it has been outside of its Pokéball, if in Beta Forme, it reverts to Alpha Forme. If in Gamma Forme, it instead reverts to Beta Forme. Upon reverting to a different Forme, Urayne takes an injury.",
+    "snippet": "",
     "rules": [],
     "slug": null,
-    "snippet": "",
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "name": "",
     "useCount": 0
   },
   "ownership": {
@@ -22,12 +27,12 @@
   "folder": "ZgVptQLqTvjgGEUi",
   "sort": 0,
   "_stats": {
-    "systemId": "ptr",
-    "systemVersion": "0.13",
-    "coreVersion": "11.305",
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1689606997305,
-    "modifiedTime": 1689607007926,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027494151,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!gR2QhdTSR916Vcax"
 }

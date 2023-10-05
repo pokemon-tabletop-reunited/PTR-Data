@@ -1,14 +1,21 @@
 {
   "name": "Skill Stunt",
   "system": {
-    "name": "Skill Stunt",
     "origin": "",
     "effect": "Choose a Skill you have at Novice Rank or higher. Choose a specific use of that Skill; when rolling that skill under those circumstances, you may choose to roll one less dice, and instead add +6 to the result. You may take this Edge multiple times, choosing a different circumstance each time.",
     "snippet": "",
-    "useCount": 0,
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "A Skill at Novice Rank or higher",
     "notes": "",
-    "free": false
+    "free": false,
+    "name": "Skill Stunt",
+    "useCount": 0
   },
   "type": "edge",
   "img": "/systems/ptu/css/images/icons/edge_icon.png",
@@ -20,11 +27,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683367953827,
-    "modifiedTime": 1683367977230,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027500519,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
   "sort": 0,

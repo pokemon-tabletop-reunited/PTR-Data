@@ -1,0 +1,34 @@
+{
+  "name": "Minor Gift - World Serpent's Embrace",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Upper Pantheon Gifts",
+    "effect": "Prerequisites: GM Permission Scene – Extended Action Effect: You enter a trance and discern if any Legendary  Pokémon are in the vicinity of the Scene, and gain a  general idea of their location. For example, if one is in  a cave way underneath you, you learn it is under you,  but not exactly how to reach it.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "SE49PSSWiQvnb9Mi",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!SE49PSSWiQvnb9Mi"
+}

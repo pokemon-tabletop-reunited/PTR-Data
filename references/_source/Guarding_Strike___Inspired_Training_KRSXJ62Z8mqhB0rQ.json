@@ -1,0 +1,35 @@
+{
+  "name": "Guarding Strike – Inspired Training",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Signature Technique",
+    "effect": "If this Move hits, the user gains +5 Damage Reduction against the target of the attack until the end of their next turn. ",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": ""
+  },
+  "_id": "KRSXJ62Z8mqhB0rQ",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.38",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1694697146932,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!KRSXJ62Z8mqhB0rQ"
+}

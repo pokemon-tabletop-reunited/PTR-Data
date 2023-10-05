@@ -1,17 +1,45 @@
 {
   "name": "The Power of Aura Rank 2",
   "system": {
-    "name": "The Power of Aura Rank 2",
     "origin": "",
     "effect": "You gain whichever Ability you did not choose for Rank 1.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "flag": "move",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.abilities.Item.LVKN9UuObrFnBbxc"
+          },
+          {
+            "value": "Compendium.ptu.abilities.Item.Id9Q9nTyuepCBG8Y"
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move}"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Aura Guardian, Expert Intuition",
     "frequency": "Static",
     "tags": "[+Attack or Special Attack][Ranked 2]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "The Power of Aura Rank 2",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +55,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368079158,
-    "modifiedTime": 1683383583039,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 800000,
   "_id": "0R8IE7Txbh8elc4m",
   "_key": "!items!0R8IE7Txbh8elc4m"
 }

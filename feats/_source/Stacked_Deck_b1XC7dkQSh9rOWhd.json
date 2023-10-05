@@ -1,17 +1,25 @@
 {
   "name": "Stacked Deck",
   "system": {
-    "name": "Stacked Deck",
     "origin": "",
     "effect": "Trigger - Your Pokémon hits a foe suffering from a Status Affliction or one of the other conditions in the table on page 108 of the Core handbook\nEffect: Choose a Status Affliction or condition the triggering target is suffering from; the target suffers an additional effect according to the table. Stacked Deck may only affect a foe once per Scene.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Trickster, Adept Guile",
     "frequency": "1 AP - Free Action",
     "tags": "-",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Stacked Deck",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368078887,
-    "modifiedTime": 1683383582981,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 40800000,
   "_id": "b1XC7dkQSh9rOWhd",
   "_key": "!items!b1XC7dkQSh9rOWhd"
 }

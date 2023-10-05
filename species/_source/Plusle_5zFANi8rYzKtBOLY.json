@@ -2,7 +2,7 @@
   "type": "species",
   "system": {
     "schema": {
-      "version": 0.102,
+      "version": 0.11,
       "lastMigration": {
         "datetime": "2023-08-15T11:56:04.237Z",
         "version": {
@@ -56,11 +56,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.5zFANi8rYzKtBOLY",
         "slug": "plusle",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -527,14 +529,18 @@
       }
     },
     "slug": "plusle",
-    "rules": []
+    "rules": [],
+    "type": {
+      "0": "Electric",
+      "1": ""
+    }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
   "name": "Plusle",
   "_id": "5zFANi8rYzKtBOLY",
   "effects": [],
-  "sort": 0,
+  "sort": 12000000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -542,10 +548,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.alpha.13",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.4",
+    "coreVersion": "11.309",
     "createdTime": 1689609527590,
-    "modifiedTime": 1693122418948,
+    "modifiedTime": 1696169282411,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!5zFANi8rYzKtBOLY"

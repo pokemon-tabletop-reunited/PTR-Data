@@ -90,9 +90,10 @@
     ],
     "slug": "",
     "schema": {
-      "version": null,
+      "version": 0.11,
       "lastMigration": null
     },
+    "referenceEffect": "",
     "prerequisites": "",
     "cost": "1 TP",
     "name": "Skill Improvement",
@@ -110,14 +111,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.alpha.1",
-    "coreVersion": "11.307",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683369202715,
-    "modifiedTime": 1692116218460,
+    "modifiedTime": 1695455770637,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
   "_id": "DnYmGXzYAu5ErvbS",
-  "sort": 0,
+  "sort": 1000000,
   "_key": "!items!DnYmGXzYAu5ErvbS"
 }

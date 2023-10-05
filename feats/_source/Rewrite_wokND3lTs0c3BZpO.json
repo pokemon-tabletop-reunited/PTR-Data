@@ -1,17 +1,25 @@
 {
   "name": "Rewrite",
   "system": {
-    "name": "Rewrite",
     "origin": "",
     "effect": "Target: Self or a willing Pokémon with Hidden Power.\nEffect: Reroll the Type for an instance of Hidden Power the target knows If you target an Unown, you may transform the target into a different letter.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Hidden Power",
     "frequency": "Daily",
     "tags": "[+Attack or Special Attack]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Rewrite",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368084360,
-    "modifiedTime": 1683383583814,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 65100000,
   "_id": "wokND3lTs0c3BZpO",
   "_key": "!items!wokND3lTs0c3BZpO"
 }

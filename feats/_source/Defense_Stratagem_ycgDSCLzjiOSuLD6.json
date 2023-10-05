@@ -1,17 +1,25 @@
 {
   "name": "Defense Stratagem",
   "system": {
-    "name": "Defense Stratagem",
     "origin": "",
     "effect": "Target: Your Pokémon\nEffect: While this Feature is Bound, the target gains a +2 bonus to Save Checks against Paralysis, Sleep, and Freeze for each positive Combat Stage they have in Defense, up to a maximum of +6.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Stat Link, Stat Training, Master Focus or Command",
     "frequency": "2 AP - Standard Action",
     "tags": "[Branch][Orders][Stratagem]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Defense Stratagem",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368081734,
-    "modifiedTime": 1683383583241,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 67000000,
   "_id": "ycgDSCLzjiOSuLD6",
   "_key": "!items!ycgDSCLzjiOSuLD6"
 }

@@ -1,17 +1,51 @@
 {
   "name": "Dancer",
   "system": {
-    "name": "Dancer",
     "origin": "",
     "effect": "Choose Spinning Dance or Own Tempo. You gain the chosen Ability.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.abilities.Item.DcNfimWHEweMv9YS"
+          },
+          {
+            "value": "Compendium.ptu.abilities.Item.Fp7nWb0csK9MHRsZ"
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move}"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Novice Acrobatics; Novice Athletics or Charm",
     "frequency": "Static",
     "tags": "[Class][+Speed]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "automation": [],
+    "name": "Dancer",
+    "useCount": 0
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
@@ -27,14 +61,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368081697,
-    "modifiedTime": 1683383582765,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 49600000,
   "_id": "iW3h3P3zZ3rOWIUU",
   "_key": "!items!iW3h3P3zZ3rOWIUU"
 }

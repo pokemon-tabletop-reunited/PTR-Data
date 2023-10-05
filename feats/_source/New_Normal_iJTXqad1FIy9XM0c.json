@@ -1,17 +1,25 @@
 {
   "name": "New Normal",
   "system": {
-    "name": "New Normal",
     "origin": "",
     "effect": "Trigger - Your Pokémon hits with a Normal-Type Move with conditional modifiers which increase or decrease its damage\nEffect: You use the highest damage value for the triggering Move. New Normal may only be used once per Scene per Pokémon. New Normal may not raise a Move’s Damage Base above 14; if a Move would have its Damage Base raised above that value, it is instead raised to 14. (Examples: Return is DB 9, Wring Out never has its damage decreased due to the target’s Hit Points, Retaliate is DB 14.)",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Extra Ordinary, Type-Linked Skill at Expert",
     "frequency": "Scene x2 - Free Action",
     "tags": "-",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "New Normal",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368084368,
-    "modifiedTime": 1683383582949,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 49500000,
   "_id": "iJTXqad1FIy9XM0c",
   "_key": "!items!iJTXqad1FIy9XM0c"
 }

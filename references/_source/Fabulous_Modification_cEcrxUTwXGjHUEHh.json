@@ -1,0 +1,34 @@
+{
+  "name": "Fabulous Modification",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Jailbreaker Poké Ball Modifications",
+    "effect": "Ingredients/Cost: Luxury Ball / $250 Effect: You change the Luxury Ball into an Fabulous Ball. When a Fabulous Ball captures a target, the captured Pokémon gains +2 dice in the Contest Stat that corresponds to the Stat boosted by their Nature. If the Stat boosted is HP, choose any two Contest Stats except the one corresponding to the lowered Stat and raise them by 1 die each. As a reminder, Beauty=SpAtk, Cool=Attack, Cute=Speed, Smart=SpDef, Tough=Def.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "cEcrxUTwXGjHUEHh",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!cEcrxUTwXGjHUEHh"
+}

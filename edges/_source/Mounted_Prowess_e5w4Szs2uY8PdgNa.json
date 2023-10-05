@@ -1,14 +1,34 @@
 {
   "name": "Mounted Prowess",
   "system": {
-    "name": "Mounted Prowess",
     "origin": "",
     "effect": "You automatically succeed at Acrobatics and Athletics Checks made to mount a Pokémon, and you gain a +3 Bonus to all Acrobatics and Athletics Checks made to remain Mounted.",
     "snippet": "",
-    "useCount": 0,
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [
+          "check:mount:save"
+        ],
+        "selectors": [
+          "skill-athletics",
+          "skill-acrobatics"
+        ],
+        "hideIfDisabled": false,
+        "value": 3
+      }
+    ],
+    "slug": "",
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Novice Acrobatics or Athletics",
     "notes": "",
-    "free": false
+    "free": false,
+    "name": "Mounted Prowess",
+    "useCount": 0
   },
   "type": "edge",
   "img": "/systems/ptu/css/images/icons/edge_icon.png",
@@ -20,11 +40,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683367953816,
-    "modifiedTime": 1683367977210,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027500519,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
   "sort": 0,

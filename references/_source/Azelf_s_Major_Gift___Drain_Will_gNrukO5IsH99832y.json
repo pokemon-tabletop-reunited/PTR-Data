@@ -1,0 +1,34 @@
+{
+  "name": "Azelf's Major Gift - Drain Will",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Lower Pantheon Gifts",
+    "effect": "Prerequisites: Minor Gift - Force of Will 3 AP - Standard Action Target: Pokémon or Trainer within 8 meters Effect: You and the Target make a Contested Focus Check. If you win the Check, the Target is unable to take Shift or Standard Actions for their next 1d2 turns. Regardless of whether or not you won the Check, the Target suffers a -3 penalty to all rolls for the rest of the encounter, or for fifteen minutes outside of combat. The target becomes immune to further uses of Drain Will for 24 hours.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "gNrukO5IsH99832y",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!gNrukO5IsH99832y"
+}

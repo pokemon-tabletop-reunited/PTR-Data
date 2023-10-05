@@ -1,17 +1,25 @@
 {
   "name": "This One's Special, I Know It",
   "system": {
-    "name": "This One's Special, I Know It",
     "origin": "",
     "effect": "Target: A hatching egg.\nEffect: The Pokémon is born with special qualities, determined by the GM. This Feature may be activated one time per Pokémon Education Rank above Untrained.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Pusher",
     "frequency": "Special - Free Action",
     "tags": "[Pokemon Caretaking Research Field][Branch]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "This One's Special, I Know It",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368079009,
-    "modifiedTime": 1683383583801,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 43200000,
   "_id": "ckwsdByQJD8YvkKC",
   "_key": "!items!ckwsdByQJD8YvkKC"
 }

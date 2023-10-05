@@ -1,17 +1,25 @@
 {
   "name": "Spirit Boost",
   "system": {
-    "name": "Spirit Boost",
     "origin": "",
     "effect": "Target: A Channeled Pokémon\nEffect: When you use Spirit Boost, choose a Channeled Pokémon. You may choose the target of Spirit Boost if you wish. While Spirit Boost is Bound, the target has one of the following effects, depending on the highest Combat Stat of the chosen Pokémon. (In the event of a tie, you choose which Stat to use)\n»» Attack: The target gains Bonus Damage when using Physical attacks equal to your Intuition Rank.\n»» Defense: The target gains Damage Reduction against Physical attacks equal to your Intuition Rank.\n»» Special Attack: The target gains gain Bonus Damage when using Special attacks equal to your Intuition Rank.\n»» Special Defense: The target gains Damage Reduction against Special attacks equal to your Intuition Rank.\n»» Speed: The target gains a bonus to their Initiative equal to your Intuition Rank.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Channeler",
     "frequency": "Bind 2 AP - Standard Action",
     "tags": "-",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Spirit Boost",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368079072,
-    "modifiedTime": 1683383582846,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 14200000,
   "_id": "DQAWofOQNi0Ej4E8",
   "_key": "!items!DQAWofOQNi0Ej4E8"
 }

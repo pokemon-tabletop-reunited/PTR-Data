@@ -1,0 +1,57 @@
+{
+  "folder": "SMepfD0qveoA3YvU",
+  "name": "Instant Transmission",
+  "type": "feat",
+  "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "You designate an unobstructed 3m x 3m area within vision as a Warp Point. This area must be clear of any Blocking Terrain when creating the Warp Point. You may freely maintain a number of Warp Points up to half your Focus Skill Rank. Creating a new Warp Point past this number causes the oldest Warp Point to disappear. You can maintain additional Warp Points, Binding 2 AP for each additional Warp Point beyond half your Focus Skill Rank.\n\nBy taking a Full Action, you can Warp to any Warp Point you have created, travelling instantaneously to one of the squares within the Warp Point. Additionally, you can designate any number of allies within your Teleporter Capability range to Warp with you. You can only Warp once per day. If attempting to Warp in combat, you must roll a DC 18 Focus check. On a failure, you may Warp to an unintended location up to your GM's discretion.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "prerequisites": "Space Distortion, Master Focus",
+    "frequency": "At Will - Extended Action*",
+    "tags": "[Speed]",
+    "notes": "",
+    "free": false,
+    "class": "Nomad"
+  },
+  "effects": [],
+  "ownership": {
+    "default": 2,
+    "y4EIjJlrc2eCclW7": 3,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695644698597,
+    "modifiedTime": 1696169058930,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "p2nrtTfx5KXMGKjd",
+  "sort": 400000,
+  "_key": "!items!p2nrtTfx5KXMGKjd"
+}

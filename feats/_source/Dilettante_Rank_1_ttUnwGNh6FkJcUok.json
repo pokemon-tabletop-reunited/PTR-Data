@@ -162,16 +162,17 @@
     ],
     "slug": "",
     "schema": {
-      "version": null,
+      "version": 0.11,
       "lastMigration": null
     },
-    "automation": [],
+    "referenceEffect": "",
     "prerequisites": "Hobbyist",
     "frequency": "Static",
     "tags": "[Ranked 4]",
     "notes": "",
     "free": false,
     "class": "Hobbyist",
+    "automation": [],
     "name": "Dilettante Rank 1",
     "useCount": 0
   },
@@ -189,14 +190,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.alpha.7",
-    "coreVersion": "11.307",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368081710,
-    "modifiedTime": 1692294079411,
+    "modifiedTime": 1695027507910,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 62300000,
   "_id": "ttUnwGNh6FkJcUok",
   "_key": "!items!ttUnwGNh6FkJcUok"
 }

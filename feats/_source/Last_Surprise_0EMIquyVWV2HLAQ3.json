@@ -1,0 +1,57 @@
+{
+  "folder": "SMepfD0qveoA3YvU",
+  "name": "Last Surprise",
+  "type": "feat",
+  "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Select 1 enemy in your Teleporter Capability range, each making a contested Focus Check. If you succeed, you and the target swap places, similar to Ally Switch.\n\nIf you are undetected by your target, this instead is a DC 10 Focus Check. When successful in this way, your target also becomes Vulnerable for 1 round.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "prerequisites": "Nomad, Adept Focus",
+    "frequency": "2x Scene - Swift Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false,
+    "class": "Nomad"
+  },
+  "effects": [],
+  "ownership": {
+    "default": 2,
+    "NA7QpMLUEKEq35bh": 3,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695153306800,
+    "modifiedTime": 1696169058930,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "0EMIquyVWV2HLAQ3",
+  "sort": 500000,
+  "_key": "!items!0EMIquyVWV2HLAQ3"
+}

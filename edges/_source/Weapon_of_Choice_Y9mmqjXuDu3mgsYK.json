@@ -1,14 +1,21 @@
 {
   "name": "Weapon of Choice",
   "system": {
-    "name": "Weapon of Choice",
     "origin": "",
     "effect": "Choose a specific weapon type. You gain a +2 Bonus on Opposed Rolls to prevent being disarmed while wielding weapons of your chosen type. If you would be disarmed anyway, you may pay 1 AP to prevent yourself from being Disarmed.",
     "snippet": "",
-    "useCount": 0,
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "A Feature with the [Weapon] tag",
     "notes": "",
-    "free": false
+    "free": false,
+    "name": "Weapon of Choice",
+    "useCount": 0
   },
   "type": "edge",
   "img": "/systems/ptu/css/images/icons/edge_icon.png",
@@ -20,11 +27,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683367953826,
-    "modifiedTime": 1683367977229,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027500519,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
   "sort": 0,

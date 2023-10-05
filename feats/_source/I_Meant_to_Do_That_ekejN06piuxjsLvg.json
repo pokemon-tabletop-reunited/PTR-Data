@@ -1,17 +1,25 @@
 {
   "name": "I Meant to Do That",
   "system": {
-    "name": "I Meant to Do That",
     "origin": "",
     "effect": "Condition: You must have at least one Equipment Item you created with Improvised Gadgets equipped to use this Feature.\nEffect: Choose one of your equipped items you created with Improved Gadgets. It is destroyed and cannot be repaired, and that instance of Improvised Gadgets is immediately Unbound. Use the effect below corresponding to the Capability granted by the chosen item.\n\n»» Magnetic: You may activate this effect as a Standard Action Interrupt whenever a Steel or Electric-Type attack or an attack with a metal Weapon would hit a target within 5 meters. The attack instead misses all targets within 5 meters.\n»» Threaded: Choose up to 3 targets within 4 meters and perform an AC 4 Status Attack against them as a Standard Acion. All hit targets become Stuck and Trapped for one full round.\n»» Zapper: You may activate this effect as a Swift Action upon hitting a foe with a Zapper-modified Struggle Attack. The foe is Paralyzed.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Improvised Gadgets, Adept Technology Education",
     "frequency": "At-Will – Special",
     "tags": "[Gadgeteer Research Field][Branch]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "I Meant to Do That",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368081764,
-    "modifiedTime": 1683383582188,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 45200000,
   "_id": "ekejN06piuxjsLvg",
   "_key": "!items!ekejN06piuxjsLvg"
 }

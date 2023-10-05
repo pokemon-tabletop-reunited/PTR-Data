@@ -1,0 +1,34 @@
+{
+  "name": "Plate Crafter",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Artificer Recipes",
+    "effect": "Prerequisites: Rainbow Light, Expert Occult Education Ingredients: A Type Booster and a Type Brace of the same Type. Effects: You create a Type Plate matching the Type Booster and Brace used.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "0I0O9vQIC5oxdItt",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!0I0O9vQIC5oxdItt"
+}
