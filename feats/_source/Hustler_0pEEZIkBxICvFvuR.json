@@ -11,7 +11,12 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Novice Athletics or Acrobatics or Combat",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Novice Athletics or Acrobatics or Combat"
+    ],
     "frequency": "Static",
     "tags": "[+HP or Attack] [Class]",
     "notes": "",
@@ -27,7 +32,8 @@
   "flags": {
     "core": {},
     "ptu": {
-      "showInTokenPanel": true
+      "showInTokenPanel": true,
+      "prereqBackup": "Novice Athletics or Acrobatics or Combat"
     },
     "exportSource": {
       "world": "tohou-the-wilderness",
@@ -38,10 +44,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368079037,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": "NlEB7XJnDWyGbZnQ",

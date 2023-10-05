@@ -11,7 +11,13 @@
       "lastMigration": null
     },
     "referenceEffect": "Compendium.ptu.effects.Item.ed6GkfPq9AmYTTnf",
-    "prerequisites": "Brutal Training, Novice Intimidate",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Brutal Training",
+      "Novice Intimidate"
+    ],
     "frequency": "At-Will - Free Action",
     "tags": "[Class]",
     "notes": "",
@@ -27,7 +33,8 @@
   "flags": {
     "core": {},
     "ptu": {
-      "showInTokenPanel": true
+      "showInTokenPanel": true,
+      "prereqBackup": "Brutal Training, Novice Intimidate"
     },
     "exportSource": {
       "world": "tohou-the-wilderness",
@@ -38,10 +45,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.4",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368078813,
-    "modifiedTime": 1695907909958,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": "NlEB7XJnDWyGbZnQ",

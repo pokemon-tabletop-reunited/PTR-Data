@@ -11,7 +11,12 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Expert Athletics or Combat",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Expert Athletics or Combat"
+    ],
     "notes": "",
     "free": false,
     "name": "Stamina",
@@ -24,13 +29,17 @@
     "default": 0,
     "DsHOL7PqMABKgssN": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "prereqBackup": "Expert Athletics or Combat"
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683367953824,
-    "modifiedTime": 1695027500519,
+    "modifiedTime": 1696519165265,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

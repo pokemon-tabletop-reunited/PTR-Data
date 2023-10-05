@@ -14,7 +14,9 @@
     "source": {
       "value": ""
     },
-    "prerequisites": "Mystic Senses",
+    "prerequisites": [
+      "Mystic Senses"
+    ],
     "frequency": "At-Will - Swift Action",
     "tags": "[Class]",
     "notes": "",
@@ -30,7 +32,8 @@
   "flags": {
     "core": {},
     "ptu": {
-      "showInTokenPanel": true
+      "showInTokenPanel": true,
+      "prereqBackup": "Mystic Senses"
     },
     "exportSource": {
       "world": "tohou-the-wilderness",
@@ -44,7 +47,7 @@
     "systemVersion": "4.0.0.beta.11",
     "coreVersion": "11.311",
     "createdTime": 1683368081697,
-    "modifiedTime": 1696454131038,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": "NlEB7XJnDWyGbZnQ",

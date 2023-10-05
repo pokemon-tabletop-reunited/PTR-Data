@@ -37,7 +37,12 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Ace Trainer",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Ace Trainer"
+    ],
     "frequency": "Static",
     "tags": "-",
     "notes": "",
@@ -59,15 +64,16 @@
       "sourceId": "Compendium.ptu.feats.LFQw5mro0tNXms9c"
     },
     "ptu": {
-      "showInTokenPanel": true
+      "showInTokenPanel": true,
+      "prereqBackup": "Ace Trainer"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368084456,
-    "modifiedTime": 1695031101978,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

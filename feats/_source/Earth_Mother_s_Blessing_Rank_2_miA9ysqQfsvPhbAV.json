@@ -37,7 +37,13 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Ground Out, Master Focus or Intuition",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Ground Out",
+      "Master Focus or Intuition"
+    ],
     "frequency": "Static",
     "tags": "[Ranked 2][+Defense]",
     "notes": "",
@@ -57,14 +63,17 @@
   "flags": {
     "core": {
       "sourceId": "Compendium.ptu.feats.oE1p6svR4811UsaP"
+    },
+    "ptu": {
+      "prereqBackup": "Ground Out, Master Focus or Intuition"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368084330,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

@@ -11,7 +11,13 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Green Thumb, Adept General Education or Survival",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Green Thumb",
+      "Adept General Education or Survival"
+    ],
     "frequency": "X Daily - Extended Action",
     "tags": "[Botany Research Field][Branch][Ranked 2]",
     "notes": "",
@@ -31,14 +37,17 @@
   "flags": {
     "core": {
       "sourceId": "Compendium.ptu.feats.pF5OTyAO5pkatpkE"
+    },
+    "ptu": {
+      "prereqBackup": "Green Thumb, Adept General Education or Survival"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368084359,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

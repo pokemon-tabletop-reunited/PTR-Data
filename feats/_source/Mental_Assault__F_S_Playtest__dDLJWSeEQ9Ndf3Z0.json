@@ -30,7 +30,13 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Telepath, Expert Focus or Intuition",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Telepath",
+      "Expert Focus or Intuition"
+    ],
     "frequency": "Static",
     "tags": "[+Special Defense]",
     "notes": "",
@@ -46,7 +52,8 @@
   "flags": {
     "core": {},
     "ptu": {
-      "showInTokenPanel": true
+      "showInTokenPanel": true,
+      "prereqBackup": "Telepath, Expert Focus or Intuition"
     },
     "exportSource": {
       "world": "tohou-the-wilderness",
@@ -57,10 +64,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368078827,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": "NlEB7XJnDWyGbZnQ",

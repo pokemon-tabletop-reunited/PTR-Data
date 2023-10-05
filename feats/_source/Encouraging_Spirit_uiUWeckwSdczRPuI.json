@@ -17,7 +17,10 @@
     "source": {
       "value": ""
     },
-    "prerequisites": "Any Spirit Skill Expert, Three Friendship 4 Pokemon or One Friendship 5 Pokemon",
+    "prerequisites": [
+      "Any Spirit Skill Expert",
+      "Three Friendship 4 Pokemon or One Friendship 5 Pokemon"
+    ],
     "frequency": "Static",
     "tags": "[+Def or Special Def]",
     "notes": "",
@@ -27,7 +30,8 @@
   "effects": [],
   "flags": {
     "ptu": {
-      "showInTokenPanel": true
+      "showInTokenPanel": true,
+      "prereqBackup": "Any Spirit Skill Expert, Three Friendship 4 Pokemon or One Friendship 5 Pokemon"
     },
     "exportSource": {
       "world": "tohou-the-wilderness",
@@ -41,7 +45,7 @@
     "systemVersion": "4.0.0.beta.11",
     "coreVersion": "11.311",
     "createdTime": 1694145864684,
-    "modifiedTime": 1696454235132,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "uiUWeckwSdczRPuI",

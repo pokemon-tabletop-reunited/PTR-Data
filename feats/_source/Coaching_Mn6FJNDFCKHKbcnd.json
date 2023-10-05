@@ -23,7 +23,9 @@
     "source": {
       "value": ""
     },
-    "prerequisites": "Training Regime",
+    "prerequisites": [
+      "Training Regime"
+    ],
     "frequency": "1 AP - Free Action",
     "tags": "[+HP]",
     "notes": "",
@@ -45,7 +47,8 @@
       "sourceId": "Compendium.ptu.feats.5zuvsKN7Q8wifENV"
     },
     "ptu": {
-      "showInTokenPanel": true
+      "showInTokenPanel": true,
+      "prereqBackup": "Training Regime"
     }
   },
   "_stats": {
@@ -53,7 +56,7 @@
     "systemVersion": "4.0.0.beta.11",
     "coreVersion": "11.311",
     "createdTime": 1683368079063,
-    "modifiedTime": 1696455785825,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

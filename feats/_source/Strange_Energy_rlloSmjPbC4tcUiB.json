@@ -18,7 +18,13 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Warping Ground, Space Distortion",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Warping Ground",
+      "Space Distortion"
+    ],
     "frequency": "Static",
     "tags": "[+Speed]",
     "notes": "",
@@ -38,14 +44,17 @@
   "flags": {
     "core": {
       "sourceId": "Compendium.ptu.feats.1awEqMUIA6867mcB"
+    },
+    "ptu": {
+      "prereqBackup": "Warping Ground, Space Distortion"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368079228,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

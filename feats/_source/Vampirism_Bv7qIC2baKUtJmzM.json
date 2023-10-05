@@ -11,7 +11,13 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Ghost Step, Type-Linked Skill at Expert",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Ghost Step",
+      "Type-Linked Skill at Expert"
+    ],
     "frequency": "Scene x2 - Free Action",
     "tags": "-",
     "notes": "",
@@ -31,14 +37,17 @@
   "flags": {
     "core": {
       "sourceId": "Compendium.ptu.feats.FIhB7d6PqKqlZv3s"
+    },
+    "ptu": {
+      "prereqBackup": "Ghost Step, Type-Linked Skill at Expert"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368078970,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

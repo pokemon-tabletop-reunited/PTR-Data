@@ -34,7 +34,13 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Aura Guardian, Adept Intuition",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Aura Guardian",
+      "Adept Intuition"
+    ],
     "frequency": "2 AP - Swift Action",
     "tags": "[+Attack or Special Attack]",
     "notes": "",
@@ -56,15 +62,16 @@
       "sourceId": "Compendium.ptu.feats.kJWgfyRkjqxKTj4m"
     },
     "ptu": {
-      "showInTokenPanel": true
+      "showInTokenPanel": true,
+      "prereqBackup": "Aura Guardian, Adept Intuition"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368079297,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

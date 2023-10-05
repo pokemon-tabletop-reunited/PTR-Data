@@ -288,7 +288,13 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Athlete, Master Athletics",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Athlete",
+      "Master Athletics"
+    ],
     "frequency": "Static",
     "tags": "[+HP][Ranked 3]",
     "notes": "",
@@ -308,14 +314,17 @@
   "flags": {
     "core": {
       "sourceId": "Compendium.ptu.feats.ci5GdLg2YoGB4BQH"
+    },
+    "ptu": {
+      "prereqBackup": "Athlete, Master Athletics"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368081777,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

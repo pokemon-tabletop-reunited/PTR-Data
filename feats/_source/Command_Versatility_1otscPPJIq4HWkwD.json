@@ -14,7 +14,9 @@
     "source": {
       "value": ""
     },
-    "prerequisites": "Adept Command, Guile, or Pokémon Education",
+    "prerequisites": [
+      "Adept Command or Guile or Pokémon Education"
+    ],
     "frequency": "1 AP - Free Action",
     "tags": "-",
     "notes": "",
@@ -36,7 +38,8 @@
       "sourceId": "Compendium.ptu.feats.Nujy6jDRBC6CU57o"
     },
     "ptu": {
-      "showInTokenPanel": true
+      "showInTokenPanel": true,
+      "prereqBackup": "Adept Command, Guile, or Pokémon Education"
     }
   },
   "_stats": {
@@ -44,7 +47,7 @@
     "systemVersion": "4.0.0.beta.11",
     "coreVersion": "11.311",
     "createdTime": 1683368081706,
-    "modifiedTime": 1696457440174,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

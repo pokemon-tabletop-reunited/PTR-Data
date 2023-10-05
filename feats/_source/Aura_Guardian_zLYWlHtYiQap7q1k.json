@@ -110,7 +110,12 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Elemental Connection (Fighting)",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Elemental Connection (Fighting)"
+    ],
     "frequency": "Static",
     "tags": "[Class][+Attack or Special Attack]",
     "notes": "",
@@ -130,14 +135,17 @@
   "flags": {
     "core": {
       "sourceId": "Compendium.ptu.feats.vRMWhMl3t4m8HPVO"
+    },
+    "ptu": {
+      "prereqBackup": "Elemental Connection (Fighting)"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368081799,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

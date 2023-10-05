@@ -11,7 +11,12 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Nature's Embrace Rank 3",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Nature's Embrace Rank 3"
+    ],
     "frequency": "2 AP – Swift Action",
     "tags": "-",
     "notes": "",
@@ -31,14 +36,17 @@
   "flags": {
     "core": {
       "sourceId": "Compendium.ptu.feats.JsbpygF2jgLaOaU2"
+    },
+    "ptu": {
+      "prereqBackup": "Nature's Embrace Rank 3"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368079331,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

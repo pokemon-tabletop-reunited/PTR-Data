@@ -14,7 +14,13 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Three Friendship 4 Pokemon, Any Adept Spirit Skill or Intimidate",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Three Friendship 4 Pokemon",
+      "Any Adept Spirit Skill or Intimidate"
+    ],
     "frequency": "1 AP - Extended Action",
     "tags": "[+HP]",
     "notes": "",
@@ -24,7 +30,8 @@
   "effects": [],
   "flags": {
     "ptu": {
-      "showInTokenPanel": true
+      "showInTokenPanel": true,
+      "prereqBackup": "Three Friendship 4 Pokemon, Any Adept Spirit Skill or Intimidate"
     },
     "exportSource": {
       "world": "tohou-the-wilderness",
@@ -35,10 +42,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.4",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1694145967479,
-    "modifiedTime": 1695812920550,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "IEYs9kNvy1ZZvcav",

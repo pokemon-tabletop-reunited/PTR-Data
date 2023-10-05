@@ -35,7 +35,13 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Elemental Connection (Psychic), Novice Focus",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Elemental Connection (Psychic)",
+      "Novice Focus"
+    ],
     "frequency": "At Will - Standard Action",
     "tags": "[Class] [+Speed]",
     "notes": "",
@@ -51,16 +57,17 @@
   },
   "flags": {
     "ptu": {
-      "showInTokenPanel": true
+      "showInTokenPanel": true,
+      "prereqBackup": "Elemental Connection (Psychic), Novice Focus"
     },
     "core": {}
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.4",
-    "coreVersion": "11.309",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1695152947504,
-    "modifiedTime": 1696169058930,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "mHufrikSlUHSjjt7",

@@ -11,7 +11,13 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Novice Intimidate, Untrained Command",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Novice Intimidate",
+      "Untrained Command"
+    ],
     "frequency": "At-Will - Special",
     "tags": "[Training][Orders]",
     "notes": "",
@@ -27,7 +33,8 @@
   "flags": {
     "core": {},
     "ptu": {
-      "showInTokenPanel": true
+      "showInTokenPanel": true,
+      "prereqBackup": "Novice Intimidate, Untrained Command"
     },
     "exportSource": {
       "world": "pokemon-template",
@@ -38,10 +45,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368078871,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

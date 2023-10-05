@@ -18,7 +18,12 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Ground Out",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Ground Out"
+    ],
     "frequency": "2 AP - Swift Action",
     "tags": "[+Defense]",
     "notes": "",
@@ -38,14 +43,17 @@
   "flags": {
     "core": {
       "sourceId": "Compendium.ptu.feats.eCnm4NIdvjbZMIDh"
+    },
+    "ptu": {
+      "prereqBackup": "Ground Out"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368084402,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

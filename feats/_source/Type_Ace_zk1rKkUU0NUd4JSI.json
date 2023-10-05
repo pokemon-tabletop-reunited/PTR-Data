@@ -11,7 +11,15 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "2 Different Pokémon of the chosen Type, Type-Linked Skill* at Novice\nOR\nElemental Connection (of the chosen Type), 1 Pokémon of the chosen Type, Type-Linked Skill* at Novice\n*See Extras - Class Mechanics for details.",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "2 Different Pokémon of the chosen Type",
+      "Type-Linked Skill* at Novice\nOR\nElemental Connection (of the chosen Type)",
+      "1 Pokémon of the chosen Type",
+      "..."
+    ],
     "frequency": "At-Will - Extended Action",
     "tags": "[Class][Branch]",
     "notes": "",
@@ -31,14 +39,17 @@
   "flags": {
     "core": {
       "sourceId": "Compendium.ptu.feats.x1AWRni8hXkkhNqD"
+    },
+    "ptu": {
+      "prereqBackup": "2 Different Pokémon of the chosen Type, Type-Linked Skill* at Novice\nOR\nElemental Connection (of the chosen Type), 1 Pokémon of the chosen Type, Type-Linked Skill* at Novice\n*See Extras - Class Mechanics for details."
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368079248,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

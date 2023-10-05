@@ -23,7 +23,13 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Space Distortion, Expert Focus",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Space Distortion",
+      "Expert Focus"
+    ],
     "frequency": "2x Scene - Full Action",
     "tags": "[Speed], Close Blast 5, Friendly",
     "notes": "",
@@ -39,16 +45,17 @@
   },
   "flags": {
     "ptu": {
-      "showInTokenPanel": true
+      "showInTokenPanel": true,
+      "prereqBackup": "Space Distortion, Expert Focus"
     },
     "core": {}
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.7",
+    "systemVersion": "4.0.0.beta.11",
     "coreVersion": "11.311",
     "createdTime": 1695643914323,
-    "modifiedTime": 1696262893593,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "2DSMRKrDwkjvmadE",

@@ -11,7 +11,14 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "I'm a Doctor Rank 1, Field Clinic, Expert Medicine Education",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "I'm a Doctor Rank 1",
+      "Field Clinic",
+      "Expert Medicine Education"
+    ],
     "frequency": "Static",
     "tags": "-",
     "notes": "",
@@ -31,14 +38,17 @@
   "flags": {
     "core": {
       "sourceId": "Compendium.ptu.feats.LYjUHdZ2hy0d5rN6"
+    },
+    "ptu": {
+      "prereqBackup": "I'm a Doctor Rank 1, Field Clinic, Expert Medicine Education"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368079029,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

@@ -11,7 +11,13 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "A Major Gift, GM Permission",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "A Major Gift",
+      "GM Permission"
+    ],
     "frequency": "Static",
     "tags": "[Ranked 4][Patron Stat]",
     "notes": "",
@@ -31,14 +37,17 @@
   "flags": {
     "core": {
       "sourceId": "Compendium.ptu.feats.di2TORVeS0qkB9sO"
+    },
+    "ptu": {
+      "prereqBackup": "A Major Gift, GM Permission"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368078911,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

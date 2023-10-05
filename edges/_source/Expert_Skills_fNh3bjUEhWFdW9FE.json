@@ -221,7 +221,9 @@
         "mode": "add",
         "path": "{item|flags.ptu.rulesSelections.{item|id}}",
         "value": 1,
-        "priority": 10
+        "priority": 10,
+        "predicate": [],
+        "phase": "applyAEs"
       }
     ],
     "slug": "",
@@ -230,7 +232,12 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Level 6",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Level 6"
+    ],
     "notes": "",
     "free": false,
     "name": "Expert Skills",
@@ -244,14 +251,17 @@
     "DsHOL7PqMABKgssN": 3
   },
   "flags": {
-    "core": {}
+    "core": {},
+    "ptu": {
+      "prereqBackup": "Level 6"
+    }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683367953819,
-    "modifiedTime": 1695027500519,
+    "modifiedTime": 1696520038034,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

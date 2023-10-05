@@ -39,7 +39,13 @@
       }
     },
     "referenceEffect": "",
-    "prerequisites": "Nomad, Adept Focus",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Nomad",
+      "Adept Focus"
+    ],
     "frequency": "Static",
     "tags": "[+Speed]",
     "notes": "",
@@ -66,15 +72,16 @@
         "id": "gmV1mYAtE9PJ62Sp",
         "onDelete": "detach"
       },
-      "showInTokenPanel": true
+      "showInTokenPanel": true,
+      "prereqBackup": "Nomad, Adept Focus"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.4",
-    "coreVersion": "11.309",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368079166,
-    "modifiedTime": 1696169066626,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": "SMepfD0qveoA3YvU",

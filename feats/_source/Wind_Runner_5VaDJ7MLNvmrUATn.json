@@ -26,7 +26,14 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Elemental Connection (Flying), Novice Acrobatics, Novice Perception",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Elemental Connection (Flying)",
+      "Novice Acrobatics",
+      "Novice Perception"
+    ],
     "frequency": "Static",
     "tags": "[Class][+Speed]",
     "notes": "",
@@ -48,15 +55,16 @@
       "sourceId": "Compendium.ptu.feats.GsNFGCimWQhpH4Dg"
     },
     "ptu": {
-      "showInTokenPanel": true
+      "showInTokenPanel": true,
+      "prereqBackup": "Elemental Connection (Flying), Novice Acrobatics, Novice Perception"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.4",
-    "coreVersion": "11.309",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368078886,
-    "modifiedTime": 1696169206724,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

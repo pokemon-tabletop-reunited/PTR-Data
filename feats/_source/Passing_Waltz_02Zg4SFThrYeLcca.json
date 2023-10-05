@@ -23,7 +23,10 @@
     "source": {
       "value": ""
     },
-    "prerequisites": "Dance Practice, Master Acrobatics, Athletics, or Charm",
+    "prerequisites": [
+      "Dance Practice",
+      "Master Acrobatics or Athletics or Charm"
+    ],
     "frequency": "1 AP - Free Action",
     "tags": "[+Speed]",
     "notes": "",
@@ -45,7 +48,8 @@
       "sourceId": "Compendium.ptu.feats.oS0CWOaB1d7icJ8e"
     },
     "ptu": {
-      "showInTokenPanel": true
+      "showInTokenPanel": true,
+      "prereqBackup": "Dance Practice, Master Acrobatics, Athletics, or Charm"
     }
   },
   "_stats": {
@@ -53,7 +57,7 @@
     "systemVersion": "4.0.0.beta.11",
     "coreVersion": "11.311",
     "createdTime": 1683368079175,
-    "modifiedTime": 1696455621597,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

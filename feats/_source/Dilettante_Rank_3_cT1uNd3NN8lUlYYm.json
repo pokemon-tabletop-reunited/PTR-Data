@@ -11,7 +11,12 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Hobbyist",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Hobbyist"
+    ],
     "frequency": "Static",
     "tags": "[Ranked 4]",
     "notes": "",
@@ -31,14 +36,17 @@
   "flags": {
     "core": {
       "sourceId": "Compendium.ptu.feats.a0HfGg7GPWRP09hA"
+    },
+    "ptu": {
+      "prereqBackup": "Hobbyist"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368081783,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

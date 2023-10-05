@@ -18,7 +18,13 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Silent Assassin, Expert Intimidate or Occult Education",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Silent Assassin",
+      "Expert Intimidate or Occult Education"
+    ],
     "frequency": "Bind 2 AP - Swift Action",
     "tags": "[+Attack]",
     "notes": "",
@@ -38,14 +44,17 @@
   "flags": {
     "core": {
       "sourceId": "Compendium.ptu.feats.l3bmGiyyJMpx1CD0"
+    },
+    "ptu": {
+      "prereqBackup": "Silent Assassin, Expert Intimidate or Occult Education"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368079271,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

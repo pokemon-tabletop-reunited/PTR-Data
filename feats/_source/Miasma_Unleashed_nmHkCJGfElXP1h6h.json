@@ -30,7 +30,13 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Miasma’s Call, Master Stealth or Guile",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Miasma’s Call",
+      "Master Stealth or Guile"
+    ],
     "frequency": "Static",
     "tags": "[+Defense]",
     "notes": "",
@@ -50,14 +56,17 @@
   "flags": {
     "core": {
       "sourceId": "Compendium.ptu.feats.K6g2J9mIoUdt34uz"
+    },
+    "ptu": {
+      "prereqBackup": "Miasma’s Call, Master Stealth or Guile"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368084409,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

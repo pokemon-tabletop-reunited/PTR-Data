@@ -23,7 +23,9 @@
     "source": {
       "value": ""
     },
-    "prerequisites": "Training Regime",
+    "prerequisites": [
+      "Training Regime"
+    ],
     "frequency": "1 AP - Free Action",
     "tags": "[+HP]",
     "notes": "",
@@ -39,7 +41,8 @@
   "flags": {
     "core": {},
     "ptu": {
-      "showInTokenPanel": true
+      "showInTokenPanel": true,
+      "prereqBackup": "Training Regime"
     },
     "exportSource": {
       "world": "tohou-the-wilderness",
@@ -53,7 +56,7 @@
     "systemVersion": "4.0.0.beta.11",
     "coreVersion": "11.311",
     "createdTime": 1683368079063,
-    "modifiedTime": 1696455804535,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": "NlEB7XJnDWyGbZnQ",

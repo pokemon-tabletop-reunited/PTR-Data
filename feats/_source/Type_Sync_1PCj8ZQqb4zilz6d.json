@@ -14,7 +14,12 @@
     "source": {
       "value": ""
     },
-    "prerequisites": "Elemental Connection, a Type-Linked Class*, Adept Medicine, Occult, or Tech Education.",
+    "prerequisites": [
+      "Elemental Connection",
+      "a Type-Linked Class*",
+      "Adept Medicine",
+      "..."
+    ],
     "frequency": "Special - Extended Action",
     "tags": "-",
     "notes": "",
@@ -36,7 +41,8 @@
       "sourceId": "Compendium.ptu.feats.mqqvGRXQ6cAVa13D"
     },
     "ptu": {
-      "showInTokenPanel": true
+      "showInTokenPanel": true,
+      "prereqBackup": "Elemental Connection, a Type-Linked Class*, Adept Medicine, Occult, or Tech Education."
     }
   },
   "_stats": {
@@ -44,7 +50,7 @@
     "systemVersion": "4.0.0.beta.11",
     "coreVersion": "11.311",
     "createdTime": 1683368079293,
-    "modifiedTime": 1696454281477,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

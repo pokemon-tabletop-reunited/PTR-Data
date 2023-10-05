@@ -14,7 +14,9 @@
     "source": {
       "value": ""
     },
-    "prerequisites": "Repel Crafter",
+    "prerequisites": [
+      "Repel Crafter"
+    ],
     "frequency": "At-Will - Extended Action",
     "tags": "[Chemistry Research Field][Branch]",
     "notes": "",
@@ -36,7 +38,8 @@
       "sourceId": "Compendium.ptu.feats.Qf9e2z6fpOiZfDco"
     },
     "ptu": {
-      "showInTokenPanel": true
+      "showInTokenPanel": true,
+      "prereqBackup": "Repel Crafter"
     }
   },
   "_stats": {
@@ -44,7 +47,7 @@
     "systemVersion": "4.0.0.beta.11",
     "coreVersion": "11.311",
     "createdTime": 1683368081737,
-    "modifiedTime": 1696455029443,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

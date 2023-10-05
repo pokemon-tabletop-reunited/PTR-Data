@@ -18,7 +18,12 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Novice Athletics or Survival",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Novice Athletics or Survival"
+    ],
     "notes": "",
     "free": false,
     "name": "Swimmer",
@@ -31,13 +36,17 @@
     "default": 0,
     "DsHOL7PqMABKgssN": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "prereqBackup": "Novice Athletics or Survival"
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683367953821,
-    "modifiedTime": 1695027500519,
+    "modifiedTime": 1696519165265,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

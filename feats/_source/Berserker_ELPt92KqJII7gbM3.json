@@ -18,7 +18,13 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Novice Combat, Novice Intimidate",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Novice Combat",
+      "Novice Intimidate"
+    ],
     "frequency": "Static",
     "tags": "[Class][+HP][Weapon]",
     "notes": "",
@@ -38,14 +44,17 @@
   "flags": {
     "core": {
       "sourceId": "Compendium.ptu.feats.lbCa1FW3yTs5kZG0"
+    },
+    "ptu": {
+      "prereqBackup": "Novice Combat, Novice Intimidate"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368078973,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

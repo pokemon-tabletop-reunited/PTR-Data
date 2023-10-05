@@ -18,7 +18,14 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Hunter, Adept Stealth, Adept Survival",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Hunter",
+      "Adept Stealth",
+      "Adept Survival"
+    ],
     "frequency": "Static",
     "tags": "[+Speed]",
     "notes": "",
@@ -38,14 +45,17 @@
   "flags": {
     "core": {
       "sourceId": "Compendium.ptu.feats.zx1hSuaQ2W75EqPe"
+    },
+    "ptu": {
+      "prereqBackup": "Hunter, Adept Stealth, Adept Survival"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368078862,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

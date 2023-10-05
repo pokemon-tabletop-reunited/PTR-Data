@@ -11,7 +11,12 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Stat Ace",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Stat Ace"
+    ],
     "frequency": "At-Will - Extended Action",
     "tags": "[Branch]",
     "notes": "",
@@ -31,14 +36,17 @@
   "flags": {
     "core": {
       "sourceId": "Compendium.ptu.feats.AIvK3uO5bftQP4er"
+    },
+    "ptu": {
+      "prereqBackup": "Stat Ace"
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368081699,
-    "modifiedTime": 1695027507910,
+    "modifiedTime": 1696536226024,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
