@@ -1,0 +1,57 @@
+{
+  "folder": "SMepfD0qveoA3YvU",
+  "name": "Space Distortion",
+  "type": "feat",
+  "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Trigger: Using an Action or Feature that references or utilizes your Teleporter Capability.\nEffect: Drain 2 AP to double your Teleporter Capability, or 3 AP to triple your Teleporter Capability.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "prerequisites": "Nomad, Adept Focus",
+    "frequency": "X AP - Free Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false,
+    "class": "Nomad"
+  },
+  "effects": [],
+  "ownership": {
+    "default": 2,
+    "NA7QpMLUEKEq35bh": 3,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695153793842,
+    "modifiedTime": 1696169058930,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "eSzlsDCPw1pEkNEr",
+  "sort": 200000,
+  "_key": "!items!eSzlsDCPw1pEkNEr"
+}

@@ -1,0 +1,504 @@
+{
+  "folder": "HhvSYLxhOsh0CDCj",
+  "name": "Dungeon",
+  "type": "species",
+  "img": "systems/ptu/static/css/images/icons/dex_icon.png",
+  "system": {
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "dexentry": "",
+    "number": 1995,
+    "form": "",
+    "stats": {
+      "hp": 11,
+      "atk": 10,
+      "def": 13,
+      "spatk": 7,
+      "spdef": 6,
+      "spd": 7
+    },
+    "types": [
+      "Ground"
+    ],
+    "abilities": {
+      "basic": [
+        {
+          "slug": "sand-veil",
+          "uuid": "Compendium.ptu.abilities.Item.Ewr9Oh7DddMKcWLZ"
+        },
+        {
+          "slug": "sand-rush",
+          "uuid": "Compendium.ptu.abilities.Item.zXedk9ljVUiQ7ssV"
+        }
+      ],
+      "advanced": [
+        {
+          "slug": "arena-trap",
+          "uuid": "Compendium.ptu.abilities.Item.X2YtNsIATMTDMR6o"
+        },
+        {
+          "slug": "dig-away",
+          "uuid": "Compendium.ptu.abilities.Item.NbiagXHCpBW7SPC1"
+        }
+      ],
+      "high": [
+        {
+          "slug": "sand-stream",
+          "uuid": "Compendium.ptu.abilities.Item.dNI65Cb2U5AKUhmu"
+        }
+      ]
+    },
+    "evolutions": [
+      {
+        "level": 1,
+        "uuid": "Compendium.ptu.species.Item.u0vJNmW9NyFphsjE",
+        "slug": "eevee",
+        "other": {
+          "restrictions": [
+            ""
+          ]
+        }
+      },
+      {
+        "level": 25,
+        "uuid": "Item.xDDHyhEQlLodMCFc",
+        "slug": "dungeon",
+        "other": {
+          "restrictions": [
+            ""
+          ]
+        }
+      }
+    ],
+    "size": {
+      "height": 0.6,
+      "weight": 30,
+      "sizeClass": "Small",
+      "weightClass": 3
+    },
+    "breeding": {
+      "genderRatio": 0,
+      "eggGroups": [
+        "Field"
+      ],
+      "hatchRate": 0
+    },
+    "diet": [
+      "Terravore"
+    ],
+    "habitats": [
+      "Caves",
+      "Urban"
+    ],
+    "capabilities": {
+      "overland": 6,
+      "sky": 0,
+      "swim": 3,
+      "levitate": 0,
+      "burrow": 5,
+      "highJump": 1,
+      "longJump": 2,
+      "power": 4,
+      "naturewalk": "",
+      "other": [
+        {
+          "slug": "tracker",
+          "uuid": "Compendium.ptu.capabilities.Item.W1Zt8pLS50kjTL1d"
+        },
+        {
+          "slug": "groundshaper",
+          "uuid": "Compendium.ptu.capabilities.Item.gneJRPErFFv5Kz3g"
+        }
+      ]
+    },
+    "moves": {
+      "level": [
+        {
+          "level": 5,
+          "uuid": "Compendium.ptu.moves.Item.IU5XxUVfxPggP6Rx",
+          "slug": "sand-attack"
+        },
+        {
+          "level": 9,
+          "uuid": "Compendium.ptu.moves.Item.rDlHKWGG9k3AxIlP",
+          "slug": "mud-slap"
+        },
+        {
+          "level": 13,
+          "uuid": "Compendium.ptu.moves.Item.oVue0OGsxZn0kQGX",
+          "slug": "quick-attack"
+        },
+        {
+          "level": 17,
+          "uuid": "Compendium.ptu.moves.Item.QMaJ91E3XBatUcV9",
+          "slug": "bite"
+        },
+        {
+          "level": 21,
+          "uuid": "Compendium.ptu.moves.Item.J2l5Cmp9LEW7Jvgu",
+          "slug": "bulldoze"
+        },
+        {
+          "level": 25,
+          "uuid": "Compendium.ptu.moves.Item.AVg7omn9VOzv0724",
+          "slug": "dig"
+        },
+        {
+          "level": 29,
+          "uuid": "Compendium.ptu.moves.Item.nJnfeqvu1znRWtOl",
+          "slug": "spikes"
+        },
+        {
+          "level": 33,
+          "uuid": "Compendium.ptu.moves.Item.gL2f9k8qYJ1OwiZO",
+          "slug": "sand-tomb"
+        },
+        {
+          "level": 37,
+          "uuid": "Compendium.ptu.moves.Item.qQGrbuuO6EcG6b7c",
+          "slug": "earthquake"
+        },
+        {
+          "level": 41,
+          "uuid": "Compendium.ptu.moves.Item.syEhvBKtqQTBqyct",
+          "slug": "last-resort"
+        },
+        {
+          "level": 45,
+          "uuid": "Compendium.ptu.moves.Item.YSxU9QCnB3OBqtgh",
+          "slug": "fissure"
+        }
+      ],
+      "machine": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.E8b4fi2ZakBHepmr",
+          "slug": "work-up"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.tmNtPcrGH82Ll5Su",
+          "slug": "toxic"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.du6VccHCQ2VjQ0D8",
+          "slug": "bulk-up"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.dUETXbMQMsjLOsfo",
+          "slug": "hidden-power"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.MCQLg3rc60IsoiCe",
+          "slug": "sunny-day"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.WV86ctKatPhQpZC3",
+          "slug": "hyper-beam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.L3SlDw7Vz1QpAN7Z",
+          "slug": "protect"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.uXdhVq2qq2KMn7WD",
+          "slug": "rain-dance"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.QbOpkuydT0R2mo0z",
+          "slug": "frustration"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.qQGrbuuO6EcG6b7c",
+          "slug": "earthquake"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.yjo9WADdCK1VkuOf",
+          "slug": "return"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.NEr3K7O8pAoI6mBn",
+          "slug": "shadow-ball"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.K7UB9TkJk18A5zvS",
+          "slug": "double-team"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.XC3ObpOOy8mGk8s8",
+          "slug": "sandstorm"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.mrYbUoEGQqVbkd8D",
+          "slug": "facade"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.9xBKv8W7Bus0tIly",
+          "slug": "rest"
+        },
+        {
+          "uuid": "Item.pkCCnaDZ3ETCEglt",
+          "slug": "spikes"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Y1brXQWXKmLFHLEe",
+          "slug": "attract"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.CCIib8kjCbVHJqC4",
+          "slug": "round"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.K67dXQdgED0HJTut",
+          "slug": "stone-edge"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.z5hgetbLhLvsd800",
+          "slug": "swords-dance"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.vCNkUzsXMkuEvfyf",
+          "slug": "echoed-voice"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.73AHUIh6V65adbTW",
+          "slug": "swagger"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.yeX0bso0PRJIS9XL",
+          "slug": "sleep-talk"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.vypDpjMbQDlUywfo",
+          "slug": "substitute"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.IW5JN8hhwgXFV72V",
+          "slug": "confide"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.rmDcfFfrdq5PgwF9",
+          "slug": "take-down"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.rDlHKWGG9k3AxIlP",
+          "slug": "mud-slap"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.MLCGs5okqB4BLJKc",
+          "slug": "swift"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.qBTkrmyYzB0z6MVB",
+          "slug": "mud-shot"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.AVg7omn9VOzv0724",
+          "slug": "dig"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.uZjoE8y3gbmlRVcc",
+          "slug": "baton-pass"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.PVOl5xnPtVbzUzVm",
+          "slug": "tera-blast"
+        }
+      ],
+      "egg": [],
+      "tutor": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.y1VwfIlyeMqezi6Q",
+          "slug": "body-slam"
+        },
+        {
+          "uuid": "Item.HieoyGdlaWfxfN6X",
+          "slug": "bulldoze"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.pbK4VGlz6E9tL9q0",
+          "slug": "covet-n"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.s9sKmw7ifRzzW9OL",
+          "slug": "double-edge"
+        },
+        {
+          "uuid": "Item.GxTlp7uhuO5K5TYo",
+          "slug": "earth-power"
+        },
+        {
+          "uuid": "Item.q57DoakZVj0Fa5rW",
+          "slug": "fissure"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.np8CcTiP69qraLbs",
+          "slug": "heal-bell"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.T3tBrl9gp4fbRMrt",
+          "slug": "helping-hand-n"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.LzgFHxtZt3QAVE7J",
+          "slug": "hyper-voice"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.FYXpqo7I3cw01MLZ",
+          "slug": "iron-tail"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.1w5JBCPMLaRGhVLH",
+          "slug": "laser-focus"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.wal0wZtqnIiFtRsA",
+          "slug": "last-resort"
+        },
+        {
+          "uuid": "Item.pOuPaTy66hVQ4Sos",
+          "slug": "magnitude"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.HwJtRDsnRTiuwZqL",
+          "slug": "mud-slap"
+        },
+        {
+          "uuid": "Item.Cpi0z6xzslzIrldC",
+          "slug": "rototiller"
+        },
+        {
+          "uuid": "Item.OD6XSWyQgHsKaCyH",
+          "slug": "sand-tomb"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.pho7PM46TLfGqXMk",
+          "slug": "snore"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.6PNJNM1ZqktBzDUR",
+          "slug": "swift"
+        }
+      ]
+    },
+    "skills": {
+      "acrobatics": {
+        "value": 3,
+        "modifier": 1,
+        "type": "body"
+      },
+      "athletics": {
+        "value": 4,
+        "modifier": 2,
+        "type": "body"
+      },
+      "charm": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "combat": {
+        "value": 3,
+        "modifier": 1,
+        "type": "body"
+      },
+      "command": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "generalEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "medicineEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "occultEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "pokemonEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "techEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "focus": {
+        "value": 4,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "guile": {
+        "value": 2,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "intimidate": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      },
+      "intuition": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "perception": {
+        "value": 4,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "stealth": {
+        "value": 4,
+        "modifier": 2,
+        "type": "body"
+      },
+      "survival": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      }
+    },
+    "slug": "",
+    "rules": [],
+    "type": {
+      "0": "Ground",
+      "1": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "y4EIjJlrc2eCclW7": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "exportSource": {
+      "world": "tohou-the-wilderness",
+      "system": "ptu",
+      "coreVersion": "11.308",
+      "systemVersion": "4.0.0.alpha.25"
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
+    "createdTime": 1694013232936,
+    "modifiedTime": 1695027540431,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "U3wajsyQAAgVpTw4",
+  "sort": 0,
+  "_key": "!items!U3wajsyQAAgVpTw4"
+}

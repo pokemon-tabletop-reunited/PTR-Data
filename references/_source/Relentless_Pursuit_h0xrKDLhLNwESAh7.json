@@ -1,0 +1,34 @@
+{
+  "name": "Relentless Pursuit",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Capture Techniques",
+    "effect": "Prerequisites: 3 of Acrobatics, Athletics, Stealth, Survival, Guile, or Perception Skills at Expert Rank 2 AP – Free Action, Interrupt Trigger: A foe attempts to run away Effect: Before the target moves from its starting location, one of your Pokémon on the field may immediately Shift and use a Struggle Attack as an Interrupt. If this attack hits, the target is Tripped.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "h0xrKDLhLNwESAh7",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!h0xrKDLhLNwESAh7"
+}

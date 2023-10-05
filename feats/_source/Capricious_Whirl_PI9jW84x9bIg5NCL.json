@@ -1,17 +1,25 @@
 {
   "name": "Capricious Whirl",
   "system": {
-    "name": "Capricious Whirl",
     "origin": "",
     "effect": "Target: Your Pokémon\nEffect: While this Feature is Bound, the target has a +3 bonus to its Evasion but deals 5 less damage with all damaging attacks.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Trickster Orders",
     "frequency": "Bind 2 AP - Standard Action",
     "tags": "[Orders][Stratagem]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Capricious Whirl",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368078933,
-    "modifiedTime": 1683383582635,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 27300000,
   "_id": "PI9jW84x9bIg5NCL",
   "_key": "!items!PI9jW84x9bIg5NCL"
 }

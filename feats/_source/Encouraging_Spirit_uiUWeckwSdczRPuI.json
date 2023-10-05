@@ -1,0 +1,54 @@
+{
+  "folder": "NlEB7XJnDWyGbZnQ",
+  "name": "Encouraging Spirit",
+  "type": "feat",
+  "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Any Pokemon that has Positive Spirit at the end of the Adventuring Day may spend Spirit for Resting as if they had one more Spirit. This would allow you to spend one more Spirit than your cap.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": "Any Spirit Skill Expert, Three Friendship 4 Pokemon or One Friendship 5 Pokemon",
+    "frequency": "Static",
+    "tags": "[+Def or Special Def]",
+    "notes": "",
+    "free": false,
+    "class": ""
+  },
+  "effects": [],
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    },
+    "exportSource": {
+      "world": "tohou-the-wilderness",
+      "system": "ptu",
+      "coreVersion": "11.308",
+      "systemVersion": "4.0.0.alpha.25"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
+    "createdTime": 1694145864684,
+    "modifiedTime": 1696454235132,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "uiUWeckwSdczRPuI",
+  "sort": 5000000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "_key": "!items!uiUWeckwSdczRPuI"
+}

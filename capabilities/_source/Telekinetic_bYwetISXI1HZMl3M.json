@@ -6,12 +6,19 @@
     "origin": "",
     "effect": "Telekinetic Pokémon and Trainers can move objects with their mind. They can lift things with Telekinesis as if they were using a Power Capability equal to their Focus Rank. When lifting Staggering Weights with Telekinesis, they roll Focus instead of Athletics, and the DC is 10 instead of 4. They can target objects up to 8 meters away. Count the combined weight of all objects when determining whether they can lift all of them. Using this Capability to lift the user’s Drag Weight or greater leaves discoverable psychic residue. Additionally, the user may use Struggle Attacks at a range of X, where X is the user’s Focus Rank. These Struggle Attacks deal Normal-Type Damage as usual, but the user may add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. The user may perform the Disarm, Trip, and Push Maneuvers at the range of your Telekinetic Capability and using the Focus Skill for all opposed rolls. When the Push Maneuver is used this way, the user does not repeat the Push but instead Pushes the target a number of meters equal to half their Focus Rank.  If a Pokémon learns the Move Psychic or Telekinesis and does not have the Telekinetic Capability, they gain Telekinetic.",
     "snippet": "",
-    "rules": [],
-    "slug": null,
+    "rules": [
+      {
+        "key": "RollOption",
+        "domain": "struggle",
+        "option": "normal"
+      }
+    ],
+    "slug": "",
     "schema": {
-      "version": null,
+      "version": 0.11,
       "lastMigration": null
-    }
+    },
+    "referenceEffect": ""
   },
   "_id": "bYwetISXI1HZMl3M",
   "effects": [],
@@ -24,10 +31,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.alpha.13",
+    "systemVersion": "4.0.0.beta.3",
     "coreVersion": "11.308",
     "createdTime": 1693042188180,
-    "modifiedTime": 1693118851776,
+    "modifiedTime": 1695027494151,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!bYwetISXI1HZMl3M"

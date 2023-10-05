@@ -2,7 +2,7 @@
   "type": "species",
   "system": {
     "schema": {
-      "version": 0.102,
+      "version": 0.11,
       "lastMigration": {
         "datetime": "2023-08-15T11:56:10.195Z",
         "version": {
@@ -564,7 +564,7 @@
   "name": "Volbeat",
   "_id": "tJeXaU4QJ48Q0oSZ",
   "effects": [],
-  "sort": 0,
+  "sort": 100800000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -572,10 +572,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.alpha.13",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.4",
+    "coreVersion": "11.309",
     "createdTime": 1689609527590,
-    "modifiedTime": 1693122418948,
+    "modifiedTime": 1696169282411,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!tJeXaU4QJ48Q0oSZ"

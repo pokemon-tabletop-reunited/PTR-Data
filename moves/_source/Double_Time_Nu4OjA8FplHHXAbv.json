@@ -1,0 +1,38 @@
+{
+  "type": "contestmove",
+  "name": "Double Time",
+  "system": {
+    "origin": "",
+    "effect": "You lose 2 Voltage. Roll +1d6 for every point of Voltage competitors adjacent to you have, minus 1d6 for each point of Voltage you have remaining after the reduction.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "type": "cool",
+    "frequency": "EOT",
+    "dice": -1
+  },
+  "img": "/systems/ptu/static/css/images/types2/CoolIC_Icon.png",
+  "folder": "Ud4fHEQ32UJKeOPC",
+  "_id": "Nu4OjA8FplHHXAbv",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
+    "createdTime": 1694192813466,
+    "modifiedTime": 1695027521779,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!Nu4OjA8FplHHXAbv"
+}

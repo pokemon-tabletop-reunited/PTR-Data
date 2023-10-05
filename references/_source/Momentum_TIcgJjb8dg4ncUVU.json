@@ -1,0 +1,34 @@
+{
+  "name": "Momentum",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Duelist",
+    "effect": "Mechanic – Momentum: » Your Pokémon begins each Scene with 0 Momentum. » At the end of each Combat round, your Pokémon gains +1 Momentum. » Whenever your Pokémon hits a Tagged foe, they gain +1 Momentum. » Your Pokémon has a maximum of 6 Momentum. So use a d6 to track it. » All Momentum is lost when your Pokémon Faints, your Pokémon is recalled, or combat ends.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "TIcgJjb8dg4ncUVU",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!TIcgJjb8dg4ncUVU"
+}

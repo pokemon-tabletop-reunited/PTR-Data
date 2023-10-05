@@ -6,12 +6,19 @@
     "origin": "",
     "effect": "The user’s struggle Attacks may be Electric-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. Multiple Electric-Type Moves grant Zapper.",
     "snippet": "",
-    "rules": [],
-    "slug": null,
+    "rules": [
+      {
+        "key": "RollOption",
+        "domain": "struggle",
+        "option": "electric"
+      }
+    ],
+    "slug": "",
     "schema": {
-      "version": null,
+      "version": 0.11,
       "lastMigration": null
-    }
+    },
+    "referenceEffect": ""
   },
   "_id": "v3QyNdZYDVwlG2tY",
   "effects": [],
@@ -24,10 +31,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.alpha.13",
+    "systemVersion": "4.0.0.beta.3",
     "coreVersion": "11.308",
     "createdTime": 1693042188180,
-    "modifiedTime": 1693118851776,
+    "modifiedTime": 1695027494151,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!v3QyNdZYDVwlG2tY"

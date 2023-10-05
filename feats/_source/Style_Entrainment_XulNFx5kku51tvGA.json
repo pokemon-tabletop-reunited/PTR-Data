@@ -1,17 +1,25 @@
 {
   "name": "Style Entrainment",
   "system": {
-    "name": "Style Entrainment",
     "origin": "",
     "effect": "Target: Your Pokémon\nEffect: Your Pokémon gains one of the following Abilities corresponding to your chosen Contest Stat for the rest of the Scene, even if it is switched out. Style Entrainment may only grant one Ability to a Pokémon at a time. If it is used a second time on the same target, it replaces the first granted Ability.\n»» Beauty gives Gentle Vibe or Serene Grace\n»» Cool gives Defiant or Sniper\n»» Cute gives Cute Charm or Cute Tears\n»» Smart gives Analytic or Anticipation\n»» Tough gives Sturdy or Intimidate",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "4 Style Expert Features",
     "frequency": "1 AP - Swift Action, Priority (Limited)",
     "tags": "[Branch]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Style Entrainment",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368081738,
-    "modifiedTime": 1683383582951,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 37100000,
   "_id": "XulNFx5kku51tvGA",
   "_key": "!items!XulNFx5kku51tvGA"
 }

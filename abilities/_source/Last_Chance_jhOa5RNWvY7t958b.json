@@ -6,15 +6,117 @@
     "origin": "",
     "effect": "Last Chance Abilities are always associated with an Elemental Type. The user gains a +5 bonus to Damage Rolls when using attacks of that Type. This bonus increases to +10 when the user is under 1/3rd of their Maximum Hit Points.",
     "snippet": "",
-    "rules": [],
-    "slug": null,
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "flag": "lastchance",
+        "adjustName": true,
+        "choices": [
+          {
+            "label": "Bug",
+            "value": "bug"
+          },
+          {
+            "label": "Dark",
+            "value": "dark"
+          },
+          {
+            "label": "Dragon",
+            "value": "dragon"
+          },
+          {
+            "label": "Electric",
+            "value": "electric"
+          },
+          {
+            "label": "Fairy",
+            "value": "fairy"
+          },
+          {
+            "label": "Fighting",
+            "value": "fighting"
+          },
+          {
+            "label": "Fire",
+            "value": "fire"
+          },
+          {
+            "label": "Flying",
+            "value": "flying"
+          },
+          {
+            "label": "Ghost",
+            "value": "ghost"
+          },
+          {
+            "label": "Grass",
+            "value": "grass"
+          },
+          {
+            "label": "Ground",
+            "value": "ground"
+          },
+          {
+            "label": "Ice",
+            "value": "ice"
+          },
+          {
+            "label": "Normal",
+            "value": "normal"
+          },
+          {
+            "label": "Poison",
+            "value": "poison"
+          },
+          {
+            "label": "Psychic",
+            "value": "psychic"
+          },
+          {
+            "label": "Rock",
+            "value": "rock"
+          },
+          {
+            "label": "Steel",
+            "value": "steel"
+          },
+          {
+            "label": "Water",
+            "value": "water"
+          }
+        ]
+      },
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "hideIfDisabled": false,
+        "selectors": "{item|flags.ptu.rulesSelections.lastchance}-damage",
+        "value": {
+          "brackets": [
+            {
+              "start": -100,
+              "end": 33,
+              "value": 10
+            },
+            {
+              "start": 34,
+              "end": 100,
+              "value": 5
+            }
+          ],
+          "field": "actor|system.health.percent"
+        }
+      }
+    ],
+    "slug": "",
     "schema": {
-      "version": null,
+      "version": 0.11,
       "lastMigration": null
     },
-    "automation": [],
+    "referenceEffect": "",
     "frequency": "Static",
-    "tier": ""
+    "tier": "",
+    "automation": []
   },
   "_id": "jhOa5RNWvY7t958b",
   "effects": [],
@@ -24,13 +126,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.alpha.10",
-    "coreVersion": "11.307",
+    "systemVersion": "4.0.0.beta.5",
+    "coreVersion": "11.308",
     "createdTime": 1692968394056,
-    "modifiedTime": 1693041308277,
+    "modifiedTime": 1696170846004,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!jhOa5RNWvY7t958b"

@@ -1,0 +1,34 @@
+{
+  "name": "Energy Link",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Arcanist Rank 2 Power Manipulations",
+    "effect": "Effect: For one full round, the next Normal-Type attack to hit the target instead deals Damage of the same Type as this Attack. If the Attack Energy Link was applied to was already Normal-Typed, for one full round, the next Normal-Type attack to hit the target instead deals damage as if it was one step more Super-Effective.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "jIYS6tXrR8hNWfyB",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!jIYS6tXrR8hNWfyB"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Twisted Form",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Branded",
+    "effect": "Effect: Your very being becomes warped, taking on aspects of the one who Branded you. You gain the Elemental Types they possess as well as a +4 to Intimidation checks, but receive a -4 penalty on Charm and Guile checks, as these deformations are unsettling to most people and Pokémon.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "r2nUvK0BRQuBP08O",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!r2nUvK0BRQuBP08O"
+}

@@ -1,0 +1,115 @@
+{
+  "name": "Mega Evolve: Sceptile",
+  "type": "effect",
+  "img": "/systems/ptu/static/css/images/icons/effect_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "This effect will mega-evolve your Sceptile into a Mega-Scpetile",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "TokenImage",
+        "predicate": [
+          "species:sceptile",
+          "self:pokemon:shiny"
+        ],
+        "value": "/systems/ptu/static/images/sprites/254s_MEGA.webp"
+      },
+      {
+        "key": "TokenImage",
+        "predicate": {
+          "and": [
+            "species:sceptile",
+            {
+              "not": "self:pokemon:shiny"
+            }
+          ]
+        },
+        "value": "/systems/ptu/static/images/sprites/254_MEGA.webp"
+      },
+      {
+        "key": "TemporarySpecies",
+        "predicate": [
+          "species:sceptile"
+        ],
+        "uuid": "Compendium.ptu.species.Item.q8NvxY7vmTv8s18x"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [
+          "species:sceptile"
+        ],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.abilities.Item.fZgyeYuH8xV4VnmU",
+        "onDeleteActions": {
+          "grantee": "restrict",
+          "granter": "cascade"
+        }
+      },
+      {
+        "key": "TokenName",
+        "predicate": [
+          "species:sceptile"
+        ],
+        "value": "Mega Sceptile"
+      }
+    ],
+    "slug": "",
+    "schema": {
+      "version": 0.11,
+      "lastMigration": {
+        "datetime": "2023-09-18T08:52:04.635Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.308",
+          "system": "4.0.0.beta.3"
+        }
+      }
+    },
+    "referenceEffect": "",
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": -1,
+      "unit": "unlimited",
+      "expiry": null
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "target": null,
+    "tokenIcon": {
+      "show": true
+    },
+    "badge": null,
+    "context": null
+  },
+  "effects": [],
+  "folder": "TuFJ2nmx9i2k6KYk",
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "rejuvenation",
+      "system": "ptu",
+      "coreVersion": "11.308",
+      "systemVersion": "4.0.0.alpha.23"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.4",
+    "coreVersion": "11.309",
+    "createdTime": 1693561302689,
+    "modifiedTime": 1696169723818,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "B8mKuoLBgPjeiznG",
+  "sort": 1500000,
+  "_key": "!items!B8mKuoLBgPjeiznG"
+}

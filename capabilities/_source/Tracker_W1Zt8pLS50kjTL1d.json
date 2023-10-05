@@ -9,9 +9,10 @@
     "rules": [],
     "slug": null,
     "schema": {
-      "version": null,
+      "version": 0.11,
       "lastMigration": null
-    }
+    },
+    "referenceEffect": ""
   },
   "_id": "W1Zt8pLS50kjTL1d",
   "effects": [],
@@ -24,10 +25,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.alpha.13",
+    "systemVersion": "4.0.0.beta.3",
     "coreVersion": "11.308",
     "createdTime": 1693042188180,
-    "modifiedTime": 1693118851776,
+    "modifiedTime": 1695027494151,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!W1Zt8pLS50kjTL1d"

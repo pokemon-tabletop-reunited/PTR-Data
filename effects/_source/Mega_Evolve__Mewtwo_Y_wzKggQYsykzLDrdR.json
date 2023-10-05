@@ -1,0 +1,93 @@
+{
+  "name": "Mega Evolve: Mewtwo Y",
+  "type": "effect",
+  "img": "/systems/ptu/static/css/images/icons/effect_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "This effect will mega-evolve your Mewtwo into it's Y form.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "TokenImage",
+        "predicate": [
+          "species:mewtwo",
+          "self:pokemon:shiny"
+        ],
+        "value": "/systems/ptu/static/images/sprites/150s_MEGA_Y.webp"
+      },
+      {
+        "key": "TokenImage",
+        "predicate": {
+          "and": [
+            "species:mewtwo",
+            {
+              "not": "self:pokemon:shiny"
+            }
+          ]
+        },
+        "value": "/systems/ptu/static/images/sprites/150_MEGA_Y.webp"
+      },
+      {
+        "key": "TemporarySpecies",
+        "predicate": [
+          "species:mewtwo"
+        ],
+        "uuid": "Compendium.ptu.species.Item.Z4DqTHvELT9SDKot"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [
+          "species:mewtwo"
+        ],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.abilities.Item.Do6jdFRUO7lt5kz1"
+      }
+    ],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": -1,
+      "unit": "unlimited",
+      "expiry": "turn-start"
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "target": null,
+    "tokenIcon": {
+      "show": true
+    },
+    "badge": null,
+    "context": null
+  },
+  "effects": [],
+  "folder": "TuFJ2nmx9i2k6KYk",
+  "ownership": {
+    "default": 2,
+    "y4EIjJlrc2eCclW7": 3,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695125197762,
+    "modifiedTime": 1696169734938,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "wzKggQYsykzLDrdR",
+  "sort": 0,
+  "_key": "!items!wzKggQYsykzLDrdR"
+}

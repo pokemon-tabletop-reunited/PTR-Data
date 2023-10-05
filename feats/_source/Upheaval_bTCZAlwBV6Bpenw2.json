@@ -1,17 +1,25 @@
 {
   "name": "Upheaval",
   "system": {
-    "name": "Upheaval",
     "origin": "",
     "effect": "Trigger - Your Pokémon uses the Groundshaper Capability, or a Move with the Groundsource keyword\nEffect: Your Pokémon may make a Trip Attempt as a Free Action against any Pokémon targeted by the Move, or standing on a square changed by the Groundshaper capability. Your Pokémon gains a bonus to their Combat Roll equal to half of your Type-Linked Skill Rank.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Mold the Earth, Type-Linked Skill at Master",
     "frequency": "Daily x3 - Free Action",
     "tags": "-",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Upheaval",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368079169,
-    "modifiedTime": 1683383582267,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 41300000,
   "_id": "bTCZAlwBV6Bpenw2",
   "_key": "!items!bTCZAlwBV6Bpenw2"
 }

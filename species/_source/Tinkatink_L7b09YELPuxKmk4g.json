@@ -2,7 +2,7 @@
   "type": "species",
   "system": {
     "schema": {
-      "version": null,
+      "version": 0.11,
       "lastMigration": null
     },
     "dexentry": "",
@@ -538,11 +538,11 @@
     "rules": []
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
-  "folder": "awGJ0a80JEQlcSPE",
+  "folder": "dljUGxtO8AR0tERN",
   "name": "Tinkatink",
   "_id": "L7b09YELPuxKmk4g",
   "effects": [],
-  "sort": 0,
+  "sort": 40500000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
@@ -550,10 +550,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.alpha.13",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.4",
+    "coreVersion": "11.309",
     "createdTime": 1693120305329,
-    "modifiedTime": 1693120894579,
+    "modifiedTime": 1696169282411,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!L7b09YELPuxKmk4g"

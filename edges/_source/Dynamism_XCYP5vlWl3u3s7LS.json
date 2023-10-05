@@ -4,12 +4,21 @@
     "origin": "",
     "effect": "Your initiative is increased by your Guile Rank.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "hideIfDisabled": false,
+        "selectors": "initiative",
+        "value": "@actor.system.skills.guile.value.total"
+      }
+    ],
     "slug": "",
     "schema": {
-      "version": null,
+      "version": 0.11,
       "lastMigration": null
     },
+    "referenceEffect": "",
     "prerequisites": "Novice Guile",
     "notes": "",
     "free": false,
@@ -26,10 +35,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.alpha.7",
-    "coreVersion": "11.307",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683367953810,
-    "modifiedTime": 1692279009622,
+    "modifiedTime": 1695027500519,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

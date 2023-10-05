@@ -1,0 +1,34 @@
+{
+  "name": "Major Gift - Sight Sharing",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Lower Pantheon Gifts",
+    "effect": "Prerequisites: Minor Gift - Loyal Heart, *Special Static Effect: You must take this Major Gift alongside another person also taking this Major Gift, one of you gaining it through Latias and the other through Latios. The two of you are considered Link Partners. Whenever you wish, you may share your senses with your Link Partner or attempt to use their senses as long as both you and your Link Partner give mental consent and are conscious. You and your Link Partner never hit each other with Area of Effect Moves unless you want to.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "VuNyWXgwUdhFkbXa",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!VuNyWXgwUdhFkbXa"
+}

@@ -1,17 +1,48 @@
 {
   "name": "Ambient Aura",
   "system": {
-    "name": "Ambient Aura",
     "origin": "",
     "effect": "Trigger - You use a Move with the Aura keyword\nEffect: You gain an Aura Blessing that can be spent any time as a Free Action Interrupt. When you spend an Aura Blessing, you choose one of the effects below. You may only have one Aura Blessing at a time, and you must have the Aura Pulse Capability to use Ambient Aura.\n»» You create an energy barrier around you or an ally within 5 meters granting Damage Reduction equal to your Intuition Rank tripled until the end of your next turn.\n»» You cure yourself of a Volatile Status Affliction.\n»» Gain the Blindsense Capability until the end of the Scene.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "flag": "ambientAuraFeat",
+        "adjustName": false,
+        "prompt": "Choose which stat to increase.",
+        "choices": [
+          {
+            "label": "ATK",
+            "value": "system.modifiers.baseStats.atk.mod"
+          },
+          {
+            "label": "SPATK",
+            "value": "system.modifiers.baseStats.spatk.mod"
+          }
+        ]
+      },
+      {
+        "key": "ActiveEffectLike",
+        "path": "{item|flags.ptu.rulesSelections.ambientAuraFeat}",
+        "mode": "add",
+        "value": 1
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Aura Reader, Expert Intuition",
     "frequency": "Scene x2 - Swift Action",
     "tags": "[+Attack or Special Attack]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Ambient Aura",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +58,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368078831,
-    "modifiedTime": 1683383582700,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 52600000,
   "_id": "kJtHOFxztyTnl45H",
   "_key": "!items!kJtHOFxztyTnl45H"
 }

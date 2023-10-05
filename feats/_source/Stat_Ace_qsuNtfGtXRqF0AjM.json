@@ -1,17 +1,25 @@
 {
   "name": "Stat Ace",
   "system": {
-    "name": "Stat Ace",
     "origin": "",
     "effect": "Your Pokémon have their Chosen Base Stat increased by +1, and by +1 more for every 10 Levels they have (for example, a Level 20 Pokémon would have your Chosen Stat’s base value increased by +3). Additionally, your Pokémon may ignore Base Relations, as long as they are adding to the Stat chosen for Stat Ace, and you do not need to “correct” Stats due to this inflated Stat Value.\n\nNote: When you take Stat Ace, choose Attack, Defense, Special Attack, Special Defense, or Speed. This becomes your Pokémon’s Chosen Stat. You may take Stat Ace multiple times, choosing different Stats each time. If using Style Expert to qualify for Stat Ace, your Chosen Stat must be the Stat that correlates to your Chosen Contest Stat. Beauty is Special Attack, Cool is Attack, Cute is Speed, Smart is Special Defense, and Tough is Defense.  You may use the Stat in place of \"Stat\" in all Stat Ace features on this sheet, e.g. \"Attack Ace\" or \"Special Defense Link\".",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Ace Trainer or Style Expert, 1 Pokémon with the chosen stat at 15 or more, Novice Command or Focus\nOr\n3 Pokémon with the chosen stat at 20 or higher, Novice Command or Focus",
     "frequency": "Static",
     "tags": "[Class][Branch]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Stat Ace",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368084414,
-    "modifiedTime": 1683383583007,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 59700000,
   "_id": "qsuNtfGtXRqF0AjM",
   "_key": "!items!qsuNtfGtXRqF0AjM"
 }

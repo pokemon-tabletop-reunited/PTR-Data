@@ -1,0 +1,93 @@
+{
+  "name": "Mega Evolve: Gyarados",
+  "type": "effect",
+  "img": "/systems/ptu/static/css/images/icons/effect_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "This effect will evolve your Gyarados into a Mega-Gyarados.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "TokenImage",
+        "predicate": [
+          "species:gyarados",
+          "self:pokemon:shiny"
+        ],
+        "value": "/systems/ptu/static/images/sprites/130s_MEGA.webp"
+      },
+      {
+        "key": "TokenImage",
+        "predicate": {
+          "and": [
+            "species:gyarados",
+            {
+              "not": "self:pokemon:shiny"
+            }
+          ]
+        },
+        "value": "/systems/ptu/static/images/sprites/130_MEGA.webp"
+      },
+      {
+        "key": "TemporarySpecies",
+        "predicate": [
+          "species:gyarados"
+        ],
+        "uuid": "Compendium.ptu.species.Item.2y9cjb1V2LCoO9jr"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [
+          "species:gyarados"
+        ],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.abilities.Item.XUKqSH4Bt2Ofps47"
+      }
+    ],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": -1,
+      "unit": "unlimited",
+      "expiry": "turn-start"
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "target": null,
+    "tokenIcon": {
+      "show": true
+    },
+    "badge": null,
+    "context": null
+  },
+  "effects": [],
+  "folder": "TuFJ2nmx9i2k6KYk",
+  "ownership": {
+    "default": 2,
+    "y4EIjJlrc2eCclW7": 3,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.4",
+    "coreVersion": "11.309",
+    "createdTime": 1695081852315,
+    "modifiedTime": 1696169723818,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "znvgEviVbL2WnCGJ",
+  "sort": 1300000,
+  "_key": "!items!znvgEviVbL2WnCGJ"
+}

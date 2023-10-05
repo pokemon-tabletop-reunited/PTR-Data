@@ -1,0 +1,34 @@
+{
+  "name": "Blessed Strike",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Legendary Blessings: Rank 1 Blessings",
+    "effect": "Messiah: Scene x3 – Free Action Signer: Free Action Trigger: You hit an enemy with a Struggle Attack Messiah Effect: Your Struggle Attack’s Type matches that of your Patron. If your Patron has two Types, choose one. Signer Effect: Your Struggle Attack deals Typeless Damage.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "RU6ok1dtRlDhTo3a",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!RU6ok1dtRlDhTo3a"
+}

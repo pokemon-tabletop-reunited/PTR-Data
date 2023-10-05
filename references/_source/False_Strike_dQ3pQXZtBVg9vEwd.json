@@ -1,0 +1,34 @@
+{
+  "name": "False Strike",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Capture Techniques",
+    "effect": "Prerequisites: 3 of Acrobatics, Athletics, Stealth, Survival, Guile, or Perception at Expert Rank Scene x2 – Free Action Trigger: You or your Pokémon’s attack faints a Wild Pokémon. Effect: The Wild Pokémon is instead lowered to 1 Hit Point.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "dQ3pQXZtBVg9vEwd",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!dQ3pQXZtBVg9vEwd"
+}

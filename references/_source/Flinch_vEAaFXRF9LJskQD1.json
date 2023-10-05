@@ -1,0 +1,34 @@
+{
+  "name": "Flinch",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Flinch: Flinch lasts for 1 full round. While Flinched, the target is Vulnerable. In addition, the target takes a -5 penalty to initiative for the rest of the Scene, or until recalled, which may stack. Effects that remove a target’s Flinched Status will also remove the initiative penalty, and may be triggered to do so.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "vEAaFXRF9LJskQD1",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!vEAaFXRF9LJskQD1"
+}

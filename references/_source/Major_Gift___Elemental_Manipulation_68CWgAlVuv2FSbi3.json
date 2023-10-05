@@ -1,0 +1,34 @@
+{
+  "name": "Major Gift - Elemental Manipulation",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Lower Pantheon Gifts",
+    "effect": "Prerequisites: Minor Gift - Elemental Soul Effect: You gain a Capability based on which Legendary Bird or Beast granted you this Feature. Articuno grants Freezer, Moltres and Entei grant Firestarter, Zapdos and Raikou grant Zapper, and Suicune grants Fountain.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "68CWgAlVuv2FSbi3",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!68CWgAlVuv2FSbi3"
+}

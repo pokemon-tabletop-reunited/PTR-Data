@@ -1,17 +1,25 @@
 {
   "name": "Chef",
   "system": {
-    "name": "Chef",
     "origin": "",
     "effect": "You may use any Chef Recipe for which you qualify.\nRecipes - Meal Planner, Salty Surprise, Spicy Wrap, Sour Candy, Dry Wafer, Bitter Treat, Sweet Confection",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Basic Cooking, Novice Intuition",
     "frequency": "At-Will - Extended Action",
     "tags": "[Class]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Chef",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368084453,
-    "modifiedTime": 1683383582387,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 37900000,
   "_id": "YhVGlEUkq6BLORNM",
   "_key": "!items!YhVGlEUkq6BLORNM"
 }

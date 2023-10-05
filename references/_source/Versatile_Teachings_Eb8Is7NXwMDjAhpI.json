@@ -1,0 +1,34 @@
+{
+  "name": "Versatile Teachings",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Mentor Lessons",
+    "effect": "Prerequisites: Mentor, Pokémon Education as a Mentor Skill Target: A Pokémon with at least 1 Tutor Point Effect: The target loses 1 Tutor Point and may exchange one of its Basic Abilities for any other of its species’ Basic Abilities or one of its Advanced Abilities for any of its species’ Basic or Advanced Abilities. Note: You may NOT activate Versatile Teachings to reroll Abilities that require a roll to determine characteristics, such as Serpent’s Mark and Color Theory.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "Eb8Is7NXwMDjAhpI",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!Eb8Is7NXwMDjAhpI"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Blessed Power",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Legendary Blessings: Rank 2 Blessings",
+    "effect": "Prerequisites: Blessed Strike Messiah: Static Signer: Swift Action Messiah Effect: Choose a Damaging Move on your Patron’s Level Up List that has a Damage Base of 8 or lower and matches one of their Types. You learn this Move. Signer Effect: You instead gain this chosen Move until of combat. You may choose a different Move each time you activate this Sign.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "Uk2cfeJO0ATH2tR2",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!Uk2cfeJO0ATH2tR2"
+}

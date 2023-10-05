@@ -1,0 +1,34 @@
+{
+  "name": "Songs",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Musicians",
+    "effect": "Mechanic – Songs   Musician Songs can be triggered one of four ways. Regardless of the Area of Effect, Songs always affect the user. » When using a Move with the Sonic keyword, Songs may be triggered as a Swift Action, and the Song’s Area of Effect is the same as the triggering Move’s. » When using a Dance Move, Songs may be triggered as a Shift Action with an Area of Effect of Burst 2. » As a Standard Action, you may trigger one Song, with an Area of Effect of Burst 4. » As a Full Action, you may trigger two Songs, each with an Area of Effect of Burst 4.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "Z0sGUWoQHDuC4BLf",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!Z0sGUWoQHDuC4BLf"
+}

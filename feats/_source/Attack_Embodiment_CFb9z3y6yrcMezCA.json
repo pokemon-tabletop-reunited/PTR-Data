@@ -1,17 +1,25 @@
 {
   "name": "Attack Embodiment",
   "system": {
-    "name": "Attack Embodiment",
     "origin": "",
     "effect": "Target: Your Pokémon\nEffect: Your Pokémon gains Sheer Force or Defiant for the remainder of the Scene. Switching does not end this effect. Stat Embodiment may only grant one Ability to a Pokémon at a time. If it is used a second time on the same target, it replaces the first granted Ability.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "4 Stat Ace Features, Expert Command or Focus",
     "frequency": "1 AP - Swift Action",
     "tags": "[Branch]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Attack Embodiment",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368078834,
-    "modifiedTime": 1683383582727,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 13000000,
   "_id": "CFb9z3y6yrcMezCA",
   "_key": "!items!CFb9z3y6yrcMezCA"
 }

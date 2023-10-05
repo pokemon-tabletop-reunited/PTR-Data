@@ -5,14 +5,15 @@
   "folder": "lWQOqDm2AOGwGM16",
   "system": {
     "origin": "",
-    "effect": "The user becomes Curled Up. While Curled Up, the user becomes immune to Critical Hits, and gains 10 Damage Reduction and +1 Defense Combat Stage. However, while Curled Up, the user is Slowed and their Accuracy is lowered by 4. The user may stop being Curled Up as a Swift Action, or if they are Recalled or Take a Breather. If the user has Rollout or Ice Ball in their Move List, they do not become Slowed while Curled Up, and the user gains a +10 bonus to the damage rolls of those Moves and does not suffer Accuracy Penalties from being Curled Up.",
+    "effect": "The user becomes Curled Up. While Curled Up, the user becomes immune to Critical Hits, and gains 10 Damage Reduction and +1 Defense Combat Stage. However, while Curled Up, the user is Slowed and their Accuracy is lowered by 4. The user may stop being Curled Up as a Swift Action, or if they are Recalled or Take a Breather. If the user has Rollout or Ice Ball in their Move List, they do not become Slowed while Curled Up, and the user gains a +10 bonus to the damage rolls of those Moves and does not suffer Accuracy Penalties from being Curled Up when using those moves.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "",
     "schema": {
-      "version": null,
+      "version": 0.11,
       "lastMigration": null
     },
+    "referenceEffect": "",
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -21,7 +22,6 @@
     "megaLauncher": false,
     "punkRock": false,
     "strongJaw": false,
-    "automation": [],
     "type": "Normal",
     "category": "Status",
     "damageBase": "--",
@@ -31,7 +31,8 @@
     "contestType": "Cute - Sabotage",
     "stab": false,
     "damageBonus": 0,
-    "isStruggle": false
+    "isStruggle": false,
+    "automation": []
   },
   "_id": "Y5R5mbVcGq6fwoFj",
   "effects": [],
@@ -40,13 +41,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.alpha.10",
-    "coreVersion": "11.307",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1692963260348,
-    "modifiedTime": 1692966135854,
+    "modifiedTime": 1695032088824,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Y5R5mbVcGq6fwoFj"

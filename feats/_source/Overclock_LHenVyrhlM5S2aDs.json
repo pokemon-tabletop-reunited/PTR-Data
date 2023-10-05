@@ -1,17 +1,25 @@
 {
   "name": "Overclock",
   "system": {
-    "name": "Overclock",
     "origin": "",
     "effect": "Target: Your Pokébot\nEffect: The target is cured of all Persistent Statuses, resets all negative Combat Stages to default, and gains two Ticks of Temporary Hit Points. For the rest of the Scene, it deals and takes additional damage with all attacks equal to your Technology Education Rank.\nRecipe - Kitbash King",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Engineer, Expert Technology Education",
     "frequency": "Scene - Swift Action",
     "tags": "[Engineer Researcher Field]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Overclock",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368079001,
-    "modifiedTime": 1683383582498,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 22000000,
   "_id": "LHenVyrhlM5S2aDs",
   "_key": "!items!LHenVyrhlM5S2aDs"
 }

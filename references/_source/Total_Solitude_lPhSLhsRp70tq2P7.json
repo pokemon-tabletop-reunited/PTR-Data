@@ -1,0 +1,34 @@
+{
+  "name": "Total Solitude",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Branded",
+    "effect": "Effect: You completely lose your Aura and gain the Mindlock Capability. This makes you untraceable to Aura Readers, but you also cannot receive Aura Pulse or Telepathic messages at all. If you have a Psychic related class other than Type Ace, Channeler or Aura Guardian, your Feats in these classes are refunded.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "lPhSLhsRp70tq2P7",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!lPhSLhsRp70tq2P7"
+}

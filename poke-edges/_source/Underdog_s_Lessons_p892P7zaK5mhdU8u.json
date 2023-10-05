@@ -1,13 +1,20 @@
 {
   "name": "Underdog's Lessons",
   "system": {
-    "name": "Underdog's Lessons",
     "origin": "",
     "effect": "Choose a Level-Up Move from one of the user’s Final Evolutions that it can learn at or below its current Level. The user learns that Move as if it were a Level-Up Move and can now learn Moves from TMs, HMs, and Tutoring from the lists of that Final Evolution. Underdog’s Lessons may be taken up to three times but must use the same Final Evolution each time in the case of Pokémon with multiple Final Evolutions.",
     "snippet": "",
-    "useCount": 0,
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Underdog's Strength",
-    "cost": "1 TP"
+    "cost": "1 TP",
+    "name": "Underdog's Lessons",
+    "useCount": 0
   },
   "type": "pokeedge",
   "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
@@ -19,14 +26,14 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683369202689,
-    "modifiedTime": 1683369231424,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695455770637,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 3500000,
   "_id": "p892P7zaK5mhdU8u",
   "_key": "!items!p892P7zaK5mhdU8u"
 }

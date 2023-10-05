@@ -10,9 +10,10 @@
     "rules": [],
     "slug": null,
     "schema": {
-      "version": null,
+      "version": 0.11,
       "lastMigration": null
     },
+    "referenceEffect": "",
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -21,7 +22,6 @@
     "megaLauncher": false,
     "punkRock": false,
     "strongJaw": false,
-    "automation": [],
     "type": "Normal",
     "category": "Status",
     "damageBase": "--",
@@ -31,7 +31,8 @@
     "contestType": "Beauty - Attention Grabber",
     "stab": false,
     "damageBonus": 0,
-    "isStruggle": false
+    "isStruggle": false,
+    "automation": []
   },
   "_id": "xk1nwxIL49MK8h2R",
   "effects": [],
@@ -43,10 +44,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.alpha.10",
-    "coreVersion": "11.307",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1692963260348,
-    "modifiedTime": 1692966135854,
+    "modifiedTime": 1695027521779,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!xk1nwxIL49MK8h2R"

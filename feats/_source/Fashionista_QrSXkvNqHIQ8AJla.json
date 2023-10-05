@@ -1,17 +1,25 @@
 {
   "name": "Fashionista",
   "system": {
-    "name": "Fashionista",
     "origin": "",
     "effect": "You may craft any Fashionista Recipe for which you qualify. \nSpecial - When you take Fashionista, choose two of Charm, Command, Guile, Intimidate, or Intuition to become your Fashionista Skills. The Skills you choose must be at Novice Rank or higher.\nRecipes - Contest Trends, Adorable Fashion(Charm), Elegant Fashion(Intuition), Rad Fashion(Command), Rough Fashion(Intimidate), Slick Fashion(Guile)",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Two of Charm, Command, Guile, Intuition, or Intimidate at Novice",
     "frequency": "At-Will - Extended Action",
     "tags": "[Class]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Fashionista",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368078878,
-    "modifiedTime": 1683383582464,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 29000000,
   "_id": "QrSXkvNqHIQ8AJla",
   "_key": "!items!QrSXkvNqHIQ8AJla"
 }

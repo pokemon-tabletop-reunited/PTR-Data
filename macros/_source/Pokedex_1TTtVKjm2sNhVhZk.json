@@ -1,0 +1,25 @@
+{
+  "name": "Pokedex",
+  "type": "script",
+  "_id": "1TTtVKjm2sNhVhZk",
+  "author": "ODt7FhFvbVjW9f1k",
+  "img": "systems/ptu/images/item_icons/pokedex.webp",
+  "scope": "global",
+  "command": "game.ptu.macros.pokedex();",
+  "folder": null,
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.16",
+    "coreVersion": "11.308",
+    "createdTime": 1693216937639,
+    "modifiedTime": 1693414434486,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!macros!1TTtVKjm2sNhVhZk"
+}

@@ -2,7 +2,7 @@
   "type": "species",
   "system": {
     "schema": {
-      "version": 0.102,
+      "version": 0.11,
       "lastMigration": {
         "datetime": "2023-08-15T11:56:05.744Z",
         "version": {
@@ -24,8 +24,7 @@
       "spd": 10
     },
     "types": [
-      "Poison",
-      "null"
+      "Poison"
     ],
     "abilities": {
       "basic": [
@@ -57,19 +56,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.U9afganWa6SEn5oQ",
         "slug": "vectol",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.KDmuvfkR68t1Sfx9",
         "slug": "vectol-2",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -102,7 +105,7 @@
       "highJump": 0,
       "longJump": 0,
       "power": 3,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "mindlock",
@@ -480,7 +483,12 @@
       }
     },
     "slug": "vectol-2",
-    "rules": []
+    "rules": [],
+    "type": {
+      "0": "Poison",
+      "1": "",
+      "2": ""
+    }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "CMymFngAhNsaPlS5",
@@ -495,10 +503,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.alpha.1",
-    "coreVersion": "11.307",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1689609527590,
-    "modifiedTime": 1692123566368,
+    "modifiedTime": 1695027540431,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!KDmuvfkR68t1Sfx9"

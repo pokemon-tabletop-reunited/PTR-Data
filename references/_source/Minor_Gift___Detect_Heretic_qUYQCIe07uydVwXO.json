@@ -1,0 +1,34 @@
+{
+  "name": "Minor Gift - Detect Heretic",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "The Outsider Gifts",
+    "effect": "Prerequisites: GM Permission Static  Effect: You intuitively sense the presence of those with  non-MissingNo Gifts around you, though you have  no way of telling who they might be. The more Gifts  someone has, the further away you can sense them,  though you generally cannot sense even the strongest  of Gift holders at a distance of more than 15 meters  away from you.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "qUYQCIe07uydVwXO",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!qUYQCIe07uydVwXO"
+}

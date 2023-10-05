@@ -1,17 +1,25 @@
 {
   "name": "Sentry Runes",
   "system": {
-    "name": "Sentry Runes",
     "origin": "",
     "effect": "Target: A Glyph you have put down, regardless of distance\nEffect: The target Glyph becomes an Unown of your Trainer Level, its Stats allocated as you wish. This Unown knows a single instance of Hidden Power, identical to your own. The Glyph can fight on its own without needing you to command it. At the end of the encounter, or after 5 minutes, the Unown returns to Unown Space forever, destroying the Glyph. You may only have one Glyph active in this way at a time; if various Alarm Glyphs are triggered to become Sentries at the same time, only one does so; the others will do so once the previous one has been destroyed if the Trigger condition is still being met.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Expert Occult Education, Explosive Runes, Hidden Power",
     "frequency": "1 AP - Standard Action",
     "tags": "[+Attack or Special Attack]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Sentry Runes",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368078806,
-    "modifiedTime": 1683383583750,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 40600000,
   "_id": "auERL5Lm5ybHlWWZ",
   "_key": "!items!auERL5Lm5ybHlWWZ"
 }

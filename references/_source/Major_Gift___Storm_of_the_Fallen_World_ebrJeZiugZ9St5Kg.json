@@ -1,0 +1,34 @@
+{
+  "name": "Major Gift - Storm of the Fallen World",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "The Outsider Gifts",
+    "effect": "Prerequisites: Minor Gift - Detect Heretic Scene - Standard Action Target: Area Effect: For 5 rounds, the area becomes Bugged. While  Bugged, all combatants are treated as if they have had  the Move Heal Block applied to them, all combatants  become Typeless and all effects deal only Typeless  damage. At the beginning of each round, all combatants  lose 1/16th of their maximum Hit Points.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "ebrJeZiugZ9St5Kg",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!ebrJeZiugZ9St5Kg"
+}

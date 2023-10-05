@@ -1,0 +1,57 @@
+{
+  "folder": "SMepfD0qveoA3YvU",
+  "name": "Away With You!",
+  "type": "feat",
+  "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "All foes within Range are forcibly Pushed X meters away from you, where X is the value of your Teleport Capability. Each foe that is Pushed must still follow the rules of the Teleporter Capability.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "prerequisites": "Space Distortion, Expert Focus",
+    "frequency": "2x Scene - Full Action",
+    "tags": "[Speed], Close Blast 5, Friendly",
+    "notes": "",
+    "free": false,
+    "class": "Nomad"
+  },
+  "effects": [],
+  "ownership": {
+    "default": 2,
+    "y4EIjJlrc2eCclW7": 3,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.7",
+    "coreVersion": "11.311",
+    "createdTime": 1695643914323,
+    "modifiedTime": 1696262893593,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "2DSMRKrDwkjvmadE",
+  "sort": 100000,
+  "_key": "!items!2DSMRKrDwkjvmadE"
+}

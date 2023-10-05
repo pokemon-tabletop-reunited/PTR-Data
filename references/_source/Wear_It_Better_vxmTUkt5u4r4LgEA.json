@@ -1,0 +1,34 @@
+{
+  "name": "Wear It Better",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Backpacker Talents",
+    "effect": "Prerequisites: Expert Survival. Static. Effect: While wearing Body Equipment worth at least ₽1000, you gain +5 Damage Reduction. This does not stack with any damage reduction granted by any Body Equipment.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "vxmTUkt5u4r4LgEA",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!vxmTUkt5u4r4LgEA"
+}

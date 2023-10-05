@@ -1,0 +1,34 @@
+{
+  "name": "Berserk Blow",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Arcanist Rank 2 Power Manipulations",
+    "effect": "Condition: The Triggering Move is 1-Target Effect: The Move causes the target to become Vulnerable for 1 full round, and the Move’s Critical Hit Range is increased by +3.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "SPMUO2lZwmgUeCkE",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!SPMUO2lZwmgUeCkE"
+}

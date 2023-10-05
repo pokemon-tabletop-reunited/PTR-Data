@@ -1,13 +1,20 @@
 {
   "name": "Precise Threadings",
   "system": {
-    "name": "Precise Threadings",
     "origin": "",
     "effect": "The user may use their Threaded Capability at a range of 6 meters and with an AC of 3 rather than 6.",
     "snippet": "",
-    "useCount": 0,
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Level 20, Threaded Capability",
-    "cost": "1 TP"
+    "cost": "1 TP",
+    "name": "Precise Threadings",
+    "useCount": 0
   },
   "type": "pokeedge",
   "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
@@ -19,14 +26,14 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683369202701,
-    "modifiedTime": 1683369231438,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695455770637,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 900000,
   "_id": "CnGM8br6blYjvk1x",
   "_key": "!items!CnGM8br6blYjvk1x"
 }

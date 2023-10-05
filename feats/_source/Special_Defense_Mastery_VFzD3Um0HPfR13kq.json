@@ -1,17 +1,25 @@
 {
   "name": "Special Defense Mastery",
   "system": {
-    "name": "Special Defense Mastery",
     "origin": "",
     "effect": "Whenever your Pokémon would lose a Tick of Hit Points from Status Afflictions, Weather, or other effects, they lose 5 fewer Hit Points, to a minimum of 1.",
     "snippet": "",
-    "useCount": 0,
-    "automation": [],
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Stat Maneuver",
     "frequency": "Static",
     "tags": "[Branch]",
     "notes": "",
-    "free": false
+    "free": false,
+    "class": "",
+    "name": "Special Defense Mastery",
+    "useCount": 0,
+    "automation": []
   },
   "type": "feat",
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -27,14 +35,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683368081759,
-    "modifiedTime": 1683383582198,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695027507910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 34300000,
   "_id": "VFzD3Um0HPfR13kq",
   "_key": "!items!VFzD3Um0HPfR13kq"
 }

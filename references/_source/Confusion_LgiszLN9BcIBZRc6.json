@@ -1,0 +1,34 @@
+{
+  "name": "Confusion",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Confused targets cannot take Attacks of Opportunity. If a Confused target makes an Attack (even attacks without rolls), roll 1d2. On 1, after the attack is resolved, the Confused Pokémon loses Hit Points equal to half their Attack Stat if the Move was Physical, half or their Special Attack Stat if the Move was Special, or two Ticks of Hit Points if the Move was a Status Move. The target is cured of Confusion with a Save of 16+ made at end of turn.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "LgiszLN9BcIBZRc6",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!LgiszLN9BcIBZRc6"
+}

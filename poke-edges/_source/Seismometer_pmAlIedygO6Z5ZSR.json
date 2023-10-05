@@ -1,13 +1,20 @@
 {
   "name": "Seismometer",
   "system": {
-    "name": "Seismometer",
     "origin": "",
     "effect": "The user's Tremorsense range is increased by a number of meters equal to their Perception Rank.",
     "snippet": "",
-    "useCount": 0,
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
     "prerequisites": "Level 20, Tremorsense Capability",
-    "cost": "1 TP"
+    "cost": "1 TP",
+    "name": "Seismometer",
+    "useCount": 0
   },
   "type": "pokeedge",
   "img": "/systems/ptu/css/images/icons/poke_edge_icon.png",
@@ -19,14 +26,14 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "3.2.3.8",
-    "coreVersion": "10.291",
+    "systemVersion": "4.0.0.beta.3",
+    "coreVersion": "11.308",
     "createdTime": 1683369202707,
-    "modifiedTime": 1683369231448,
-    "lastModifiedBy": "DsHOL7PqMABKgssN"
+    "modifiedTime": 1695455770637,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 0,
+  "sort": 3600000,
   "_id": "pmAlIedygO6Z5ZSR",
   "_key": "!items!pmAlIedygO6Z5ZSR"
 }

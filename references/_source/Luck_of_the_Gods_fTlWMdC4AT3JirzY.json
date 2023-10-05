@@ -1,0 +1,34 @@
+{
+  "name": "Luck of the Gods",
+  "type": "reference",
+  "img": "/systems/ptu/static/css/images/icons/reference_icon.png",
+  "system": {
+    "origin": "Legendary Blessings: Rank 2 Blessings",
+    "effect": "Prerequisites: Paragon Messiah: Daily – Free Action Signer: Free Action Messiah Trigger – You fail a Skill Check or Accuracy Roll. Signer Trigger – You roll a Skill Check or Accuracy Roll. Messiah Effect: You may reroll this Skill Check or Accuracy Roll. Signer Effect: You may add +4 to this Skill Check or +2 to this Accuracy Roll.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    }
+  },
+  "_id": "fTlWMdC4AT3JirzY",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.alpha.23",
+    "coreVersion": "11.308",
+    "createdTime": 1693518703759,
+    "modifiedTime": 1693518703759,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!fTlWMdC4AT3JirzY"
+}
