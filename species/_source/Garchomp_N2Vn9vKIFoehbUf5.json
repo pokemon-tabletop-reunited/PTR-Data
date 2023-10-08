@@ -57,33 +57,27 @@
     },
     "evolutions": [
       {
-        "level": 1,
         "uuid": "Compendium.ptu.species.Item.NHhpOwhfm9cbkbLv",
         "slug": "gible",
+        "level": 1,
         "other": {
-          "restrictions": [
-            ""
-          ]
+          "restrictions": []
         }
       },
       {
-        "level": 20,
         "uuid": "Compendium.ptu.species.Item.VYvdsALpGps5ivBp",
         "slug": "gabite",
+        "level": 20,
         "other": {
-          "restrictions": [
-            ""
-          ]
+          "restrictions": []
         }
       },
       {
-        "level": 40,
         "uuid": "Compendium.ptu.species.Item.N2Vn9vKIFoehbUf5",
         "slug": "garchomp",
+        "level": 40,
         "other": {
-          "restrictions": [
-            ""
-          ]
+          "restrictions": []
         }
       }
     ],
@@ -510,12 +504,7 @@
       }
     },
     "slug": "garchomp",
-    "rules": [],
-    "type": {
-      "0": "Dragon",
-      "1": "Ground",
-      "2": ""
-    }
+    "rules": []
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -530,10 +519,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.7",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.0.beta.4",
+    "coreVersion": "11.309",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696262915897,
+    "modifiedTime": 1696169282411,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!N2Vn9vKIFoehbUf5"

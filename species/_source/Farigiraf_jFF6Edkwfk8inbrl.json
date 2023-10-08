@@ -50,19 +50,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.aNLMoYe9pzNF9gIf",
         "slug": "girafarig",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.jFF6Edkwfk8inbrl",
         "slug": "farigiraf",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -95,7 +99,7 @@
       "highJump": 2,
       "longJump": 2,
       "power": 4,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "darkvision",
@@ -608,7 +612,12 @@
       }
     },
     "slug": "farigiraf",
-    "rules": []
+    "rules": [],
+    "type": {
+      "0": "Normal",
+      "1": "Psychic",
+      "2": ""
+    }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -623,11 +632,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.4",
-    "coreVersion": "11.309",
+    "systemVersion": "4.0.0.beta.7",
+    "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696169282411,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1696541244284,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!jFF6Edkwfk8inbrl"
 }

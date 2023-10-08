@@ -57,19 +57,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.3J3T6um9bktiCYxB",
         "slug": "pawniard",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.C1lZLDOUU68fLhX9",
         "slug": "bisharp",
-        "level": 25,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
+        }
+      },
+      {
+        "level": 50,
+        "uuid": "Compendium.ptu.species.Item.3Z1v650coi2TaDMt",
+        "slug": "kingambit",
+        "other": {
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -102,7 +116,7 @@
       "highJump": 1,
       "longJump": 2,
       "power": 7,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "pack-mon",
@@ -526,7 +540,12 @@
       }
     },
     "slug": "bisharp",
-    "rules": []
+    "rules": [],
+    "type": {
+      "0": "Dark",
+      "1": "Steel",
+      "2": ""
+    }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -541,11 +560,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.4",
-    "coreVersion": "11.309",
+    "systemVersion": "4.0.0.beta.7",
+    "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696169282411,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1696541322130,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!C1lZLDOUU68fLhX9"
 }

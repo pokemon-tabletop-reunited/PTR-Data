@@ -50,25 +50,29 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.NbsWwvJXY3HmrLzX",
         "slug": "mankey",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 28,
         "uuid": "Compendium.ptu.species.Item.pguuAxogxKNVFegL",
         "slug": "primeape",
-        "level": 28,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 35,
         "uuid": "Compendium.ptu.species.Item.U0hmoL9rpAg3tnN0",
         "slug": "annihilape",
-        "level": 35,
         "other": {
           "restrictions": [
             "Rage Fist"
@@ -610,7 +614,12 @@
       }
     },
     "slug": "annihilape",
-    "rules": []
+    "rules": [],
+    "type": {
+      "0": "Fighting",
+      "1": "Ghost",
+      "2": ""
+    }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -625,11 +634,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.4",
-    "coreVersion": "11.309",
+    "systemVersion": "4.0.0.beta.7",
+    "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696169282411,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1696541209674,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!U0hmoL9rpAg3tnN0"
 }

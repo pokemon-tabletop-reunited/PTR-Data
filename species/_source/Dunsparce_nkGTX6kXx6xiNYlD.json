@@ -56,11 +56,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.nkGTX6kXx6xiNYlD",
         "slug": "dunsparce",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
+        }
+      },
+      {
+        "level": 30,
+        "uuid": "Compendium.ptu.species.Item.phEozygrYpN8qjgI",
+        "slug": "dudunsparce",
+        "other": {
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -95,7 +107,7 @@
       "highJump": 1,
       "longJump": 1,
       "power": 1,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "darkvision",
@@ -607,7 +619,11 @@
       }
     },
     "slug": "dunsparce",
-    "rules": []
+    "rules": [],
+    "type": {
+      "0": "Normal",
+      "1": ""
+    }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -622,11 +638,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.4",
-    "coreVersion": "11.309",
+    "systemVersion": "4.0.0.beta.7",
+    "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696169282411,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1696541282967,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!nkGTX6kXx6xiNYlD"
 }
