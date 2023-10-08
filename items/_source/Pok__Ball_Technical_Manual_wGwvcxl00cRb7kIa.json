@@ -5,7 +5,7 @@
     "effect": "Your all-in-one guide to balls.\n\nRank 1 - Novice Technology Education: Your material costs for crafting Poke Balls of any variety are reduced by 10%.\nRank 2 - Expert Technology Education: Poke Balls you craft gain a +2 Bonus to Accuracy Rolls.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "",
     "schema": {
       "version": 0.11,
       "lastMigration": {
@@ -18,11 +18,14 @@
       }
     },
     "referenceEffect": "",
+    "source": {
+      "value": "PTR Compendiums"
+    },
     "quantity": "1",
     "category": "",
     "cost": "1000",
     "consumable": "0",
-    "subtype": "pokeball",
+    "subtype": "",
     "container": false,
     "automation": [],
     "name": "Poké Ball Technical Manual",
@@ -35,13 +38,17 @@
     "default": 0,
     "DsHOL7PqMABKgssN": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368810392,
-    "modifiedTime": 1695027515118,
+    "modifiedTime": 1696691594780,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

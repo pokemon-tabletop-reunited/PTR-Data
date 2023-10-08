@@ -465,6 +465,9 @@
     "type": {
       "0": "Steel",
       "1": ""
+    },
+    "source": {
+      "value": "PTR Exclusive Dex"
     }
   },
   "effects": [],
@@ -484,10 +487,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1694009868249,
-    "modifiedTime": 1695027540431,
+    "modifiedTime": 1696689159826,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "d9gsP76zvr9FFNZd",

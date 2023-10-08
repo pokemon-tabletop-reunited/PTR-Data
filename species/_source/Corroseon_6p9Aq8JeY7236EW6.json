@@ -462,6 +462,9 @@
     "type": {
       "0": "Poison",
       "1": ""
+    },
+    "source": {
+      "value": "PTR Exclusive Dex"
     }
   },
   "effects": [],
@@ -481,10 +484,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1694012094263,
-    "modifiedTime": 1695027540431,
+    "modifiedTime": 1696689159826,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "6p9Aq8JeY7236EW6",

@@ -18,6 +18,9 @@
       }
     },
     "referenceEffect": "",
+    "source": {
+      "value": "PTR Compendiums"
+    },
     "quantity": "1",
     "category": "",
     "cost": "",
@@ -38,10 +41,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683368861072,
-    "modifiedTime": 1695027515118,
+    "modifiedTime": 1696691594780,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

@@ -452,7 +452,10 @@
       }
     },
     "slug": "hazma",
-    "rules": []
+    "rules": [],
+    "source": {
+      "value": "Fangame Uranium Dex"
+    }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "eBzxHM3RlUyuiO0g",
@@ -467,10 +470,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1695027540431,
+    "modifiedTime": 1696689159826,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Pa5vPFwCPmyTJnyc"

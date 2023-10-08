@@ -539,6 +539,9 @@
       "0": "Grass",
       "1": "Normal",
       "2": ""
+    },
+    "source": {
+      "value": "PTR Core Dex"
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -554,10 +557,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.4",
-    "coreVersion": "11.309",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696169282411,
+    "modifiedTime": 1696689159826,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!mBK3OqwDBhdUBx67"

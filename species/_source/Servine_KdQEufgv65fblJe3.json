@@ -457,7 +457,10 @@
       }
     },
     "slug": "servine",
-    "rules": []
+    "rules": [],
+    "source": {
+      "value": "PTR Core Dex"
+    }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -472,10 +475,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.4",
-    "coreVersion": "11.309",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696169282411,
+    "modifiedTime": 1696689159826,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!KdQEufgv65fblJe3"
