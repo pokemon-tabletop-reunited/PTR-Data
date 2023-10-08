@@ -21,7 +21,13 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Level 20, Tracker Capability",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Level 20",
+      "Tracker Capability"
+    ],
     "cost": "1 TP",
     "name": "Trail Sniffer",
     "useCount": 0
@@ -33,13 +39,17 @@
     "default": 0,
     "DsHOL7PqMABKgssN": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "prereqBackup": "Level 20, Tracker Capability"
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683369202729,
-    "modifiedTime": 1695455770637,
+    "modifiedTime": 1696685111970,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

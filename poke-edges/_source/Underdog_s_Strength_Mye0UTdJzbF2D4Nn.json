@@ -66,7 +66,13 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Level 15, User is an Underdog Pokémon",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Level 15",
+      "User is an Underdog Pokémon"
+    ],
     "cost": "1 TP",
     "name": "Underdog's Strength",
     "useCount": 0
@@ -78,13 +84,17 @@
     "default": 0,
     "DsHOL7PqMABKgssN": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "prereqBackup": "Level 15, User is an Underdog Pokémon"
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683369202715,
-    "modifiedTime": 1695455770637,
+    "modifiedTime": 1696685111970,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

@@ -11,7 +11,17 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Firestarter, Fountain, Freezer, Guster, Materializer, or Zapper",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Firestarter",
+      "Fountain",
+      "Freezer",
+      "Guster",
+      "Materializer",
+      "or Zapper"
+    ],
     "cost": "1 TP",
     "name": "Basic Ranged Attacks",
     "useCount": 0
@@ -23,13 +33,17 @@
     "default": 0,
     "DsHOL7PqMABKgssN": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "prereqBackup": "Firestarter, Fountain, Freezer, Guster, Materializer, or Zapper"
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683369202718,
-    "modifiedTime": 1695455770637,
+    "modifiedTime": 1696685111970,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

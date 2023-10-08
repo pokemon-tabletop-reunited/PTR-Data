@@ -11,7 +11,12 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Zapper",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Zapper"
+    ],
     "cost": "1 TP",
     "name": "Basic Ranged Attacks (Zapper)",
     "useCount": 0
@@ -23,13 +28,17 @@
     "default": 0,
     "DsHOL7PqMABKgssN": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "prereqBackup": "Zapper"
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683369202712,
-    "modifiedTime": 1695455770637,
+    "modifiedTime": 1696685041491,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

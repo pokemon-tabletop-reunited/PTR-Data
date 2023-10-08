@@ -21,23 +21,23 @@
         "key": "ActiveEffectLike",
         "mode": "add",
         "path": "system.modifiers.baseStats.spdef.mod",
-        "value": 1
+        "value": 1,
+        "predicate": [],
+        "phase": "applyAEs"
       }
     ],
-    "slug": null,
+    "slug": "",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
     "referenceEffect": "",
     "source": {
-      "value": ""
+      "value": "PTR Compendiums"
     },
     "prerequisites": [
       "Glitch Bender",
-      "Expert Perception",
-      "Occult Education",
-      "..."
+      "Expert Focus or Occult Education or Perception"
     ],
     "frequency": "Static",
     "tags": "[+Special Defense]",
@@ -60,7 +60,8 @@
       "sourceId": "Compendium.ptu.feats.4UNXUW6038SsM0ex"
     },
     "ptu": {
-      "prereqBackup": "Glitch Bender, Expert Perception, Occult Education, or Focus"
+      "prereqBackup": "Glitch Bender, Expert Perception, Occult Education, or Focus",
+      "showInTokenPanel": true
     }
   },
   "_stats": {
@@ -68,7 +69,7 @@
     "systemVersion": "4.0.0.beta.11",
     "coreVersion": "11.311",
     "createdTime": 1683368079307,
-    "modifiedTime": 1696679442060,
+    "modifiedTime": 1696760348741,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

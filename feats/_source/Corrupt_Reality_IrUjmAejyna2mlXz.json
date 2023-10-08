@@ -9,23 +9,23 @@
         "key": "ActiveEffectLike",
         "mode": "add",
         "path": "system.modifiers.baseStats.spdef.mod",
-        "value": 1
+        "value": 1,
+        "predicate": [],
+        "phase": "applyAEs"
       }
     ],
-    "slug": null,
+    "slug": "",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
     "referenceEffect": "",
     "source": {
-      "value": ""
+      "value": "PTR Compendiums"
     },
     "prerequisites": [
       "Glitch Bender",
-      "Adept Perception",
-      "Occult Education",
-      "..."
+      "Adept Perception or Occult Education or Focus"
     ],
     "frequency": "Scene - Free Action",
     "tags": "[+Special Defense]",
@@ -48,7 +48,8 @@
       "sourceId": "Compendium.ptu.feats.VWEU2xiwLoJsBhtq"
     },
     "ptu": {
-      "prereqBackup": "Glitch Bender, Adept Perception, Occult Education, or Focus"
+      "prereqBackup": "Glitch Bender, Adept Perception, Occult Education, or Focus",
+      "showInTokenPanel": true
     }
   },
   "_stats": {
@@ -56,7 +57,7 @@
     "systemVersion": "4.0.0.beta.11",
     "coreVersion": "11.311",
     "createdTime": 1683368078940,
-    "modifiedTime": 1696679442060,
+    "modifiedTime": 1696763113916,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

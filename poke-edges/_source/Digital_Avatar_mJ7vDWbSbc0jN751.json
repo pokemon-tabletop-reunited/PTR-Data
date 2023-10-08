@@ -19,7 +19,12 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Datajack Augmentation",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Datajack Augmentation"
+    ],
     "cost": "1 TP",
     "name": "Digital Avatar",
     "useCount": 0
@@ -31,13 +36,17 @@
     "default": 0,
     "DsHOL7PqMABKgssN": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "prereqBackup": "Datajack Augmentation"
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683369202684,
-    "modifiedTime": 1695455770637,
+    "modifiedTime": 1696685041491,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

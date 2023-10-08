@@ -9,7 +9,9 @@
         "key": "ActiveEffectLike",
         "mode": "add",
         "path": "system.modifiers.baseStats.hp.mod",
-        "value": 1
+        "value": 1,
+        "predicate": [],
+        "phase": "applyAEs"
       }
     ],
     "slug": "",
@@ -19,13 +21,11 @@
     },
     "referenceEffect": "",
     "source": {
-      "value": ""
+      "value": "PTR Compendiums"
     },
     "prerequisites": [
       "Novice Athletics",
-      "One of Athletic Initiative",
-      "Mounted Prowess",
-      "..."
+      "One of Athletic Initiative or Mounted Prowess or Power Boost or Stamina or Swimmer"
     ],
     "frequency": "At-Will – Extended Action",
     "tags": "[Class][+HP]",
@@ -48,7 +48,8 @@
       "sourceId": "Compendium.ptu.feats.oDHb1mXpc7QPz3SJ"
     },
     "ptu": {
-      "prereqBackup": "Novice Athletics, One of Athletic Initiative, Mounted Prowess, Power Boost, Stamina, or Swimmer"
+      "prereqBackup": "Novice Athletics, One of Athletic Initiative, Mounted Prowess, Power Boost, Stamina, or Swimmer",
+      "showInTokenPanel": true
     }
   },
   "_stats": {
@@ -56,7 +57,7 @@
     "systemVersion": "4.0.0.beta.11",
     "coreVersion": "11.311",
     "createdTime": 1683368078942,
-    "modifiedTime": 1696536226024,
+    "modifiedTime": 1696759917053,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

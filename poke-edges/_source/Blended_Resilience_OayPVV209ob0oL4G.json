@@ -18,7 +18,12 @@
       "lastMigration": null
     },
     "referenceEffect": "",
-    "prerequisites": "Invested at least 20 points in Defense and Sp. Def",
+    "source": {
+      "value": ""
+    },
+    "prerequisites": [
+      "Invested at least 20 points in Defense and Sp. Def"
+    ],
     "cost": "2 TP",
     "name": "Mixed Power",
     "useCount": 0
@@ -31,14 +36,17 @@
     "ODt7FhFvbVjW9f1k": 3
   },
   "flags": {
-    "core": {}
+    "core": {},
+    "ptu": {
+      "prereqBackup": "Invested at least 20 points in Defense and Sp. Def"
+    }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.4",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1683369202723,
-    "modifiedTime": 1695813117717,
+    "modifiedTime": 1696685041491,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
