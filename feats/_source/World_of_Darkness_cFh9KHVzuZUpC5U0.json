@@ -2,10 +2,10 @@
   "name": "World of Darkness",
   "system": {
     "origin": "",
-    "effect": "You create a zone of Shifting Darkness in a Burst 2 around you, which persists until the end of the encounter. All targets without Darkvision attacking from or i nto the Shifting Darkness receive a -3 penalty to Accuracy. You may count Shifting Darkness as complete darkness for the purposes of activating your Living Shadow. As a Static effect, you also gain the Darkvision Capability.",
+    "effect": "You create a zone of Shifting Darkness in a Burst 2 around you, which persists until the end of the encounter. All targets without Darkvision attacking from or into the Shifting Darkness receive a -3 penalty to Accuracy. You may count Shifting Darkness as complete darkness for the purposes of activating your Living Shadow. As a Static effect, you also gain the Darkvision Capability.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "world-of-darkness",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -39,7 +39,8 @@
       "sourceId": "Compendium.ptu.feats.q5xWYkfcfKVHR1UE"
     },
     "ptu": {
-      "prereqBackup": "Shade Caller, Adept Guile or Stealth"
+      "prereqBackup": "Shade Caller, Adept Guile or Stealth",
+      "showInTokenPanel": true
     }
   },
   "_stats": {
@@ -47,7 +48,7 @@
     "systemVersion": "4.0.0.beta.11",
     "coreVersion": "11.311",
     "createdTime": 1683368079202,
-    "modifiedTime": 1696691567516,
+    "modifiedTime": 1696774255293,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

@@ -1,0 +1,93 @@
+{
+  "folder": "DJzDYBNllxgyeiok",
+  "name": "Form Change: Morpeko Hangry Mode",
+  "type": "effect",
+  "img": "/systems/ptu/static/css/images/icons/effect_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "This effect will put your Morpeko into Hangry Mode. Please ensure that Full Belly Mode is removed from the Morpeko before adding this effect.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "label": "Hangry Mode",
+        "hideIfDisabled": false,
+        "selectors": "damage-roll",
+        "value": 5
+      },
+      {
+        "key": "TokenImage",
+        "predicate": [
+          "species:morpeko",
+          "self:pokemon:shiny"
+        ],
+        "value": "/systems/ptu/static/images/sprites/877s_Hangry.webp"
+      },
+      {
+        "key": "TokenImage",
+        "predicate": {
+          "and": [
+            "species:morpeko",
+            {
+              "not": "self:pokemon:shiny"
+            }
+          ]
+        },
+        "value": "/systems/ptu/static/images/sprites/877_Hangry.webp"
+      }
+    ],
+    "slug": "form-change-morpeko-hangry-mode",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": -1,
+      "unit": "unlimited",
+      "expiry": null
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "target": null,
+    "tokenIcon": {
+      "show": true
+    },
+    "badge": null,
+    "context": null
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "exportSource": {
+      "world": "the-chosen",
+      "system": "ptu",
+      "coreVersion": "11.313",
+      "systemVersion": "4.0.0.beta.10"
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
+    "createdTime": 1695892281573,
+    "modifiedTime": 1696772690243,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "1Xf6TOopEqz6zM2r",
+  "sort": 0,
+  "_key": "!items!1Xf6TOopEqz6zM2r"
+}

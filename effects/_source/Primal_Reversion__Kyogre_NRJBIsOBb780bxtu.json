@@ -49,6 +49,9 @@
       "lastMigration": null
     },
     "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
     "level": {
       "value": 1
     },
@@ -81,13 +84,13 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.4",
-    "coreVersion": "11.309",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
     "createdTime": 1695078664077,
-    "modifiedTime": 1696169739875,
+    "modifiedTime": 1696772778689,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "NRJBIsOBb780bxtu",
-  "sort": 0,
+  "sort": 400000,
   "_key": "!items!NRJBIsOBb780bxtu"
 }

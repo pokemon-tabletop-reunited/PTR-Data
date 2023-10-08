@@ -1,0 +1,84 @@
+{
+  "folder": "ioxT1WcxvVhgXJkU",
+  "name": "Order: Brutal",
+  "type": "effect",
+  "img": "/systems/ptu/static/css/images/icons/effect_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Brutal Pokémon increase the Critical-Hit and Effect Range of all attacks by +1.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.critRange.mod",
+        "value": 1
+      },
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.effectRange.mod",
+        "value": 1
+      }
+    ],
+    "slug": "",
+    "schema": {
+      "version": 0.111,
+      "lastMigration": {
+        "datetime": "2023-10-08T13:36:44.685Z",
+        "version": {
+          "schema": 0.11,
+          "foundry": "11.311",
+          "system": "4.0.0.beta.11"
+        }
+      }
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": 1,
+      "unit": "turn-start",
+      "expiry": "turn-start"
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "target": null,
+    "tokenIcon": {
+      "show": true
+    },
+    "badge": null,
+    "context": null
+  },
+  "effects": [],
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "pokemon-template",
+      "system": "ptu",
+      "coreVersion": "11.308",
+      "systemVersion": "4.0.0.alpha.32"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.11",
+    "coreVersion": "11.311",
+    "createdTime": 1694203308552,
+    "modifiedTime": 1696775545872,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "_id": "eJVB4rtFCpUrukL2",
+  "sort": 0,
+  "_key": "!items!eJVB4rtFCpUrukL2"
+}
