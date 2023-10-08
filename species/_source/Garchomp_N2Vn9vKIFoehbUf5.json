@@ -57,33 +57,27 @@
     },
     "evolutions": [
       {
-        "level": 1,
         "uuid": "Compendium.ptu.species.Item.NHhpOwhfm9cbkbLv",
         "slug": "gible",
+        "level": 1,
         "other": {
-          "restrictions": [
-            ""
-          ]
+          "restrictions": []
         }
       },
       {
-        "level": 20,
         "uuid": "Compendium.ptu.species.Item.VYvdsALpGps5ivBp",
         "slug": "gabite",
+        "level": 20,
         "other": {
-          "restrictions": [
-            ""
-          ]
+          "restrictions": []
         }
       },
       {
-        "level": 40,
         "uuid": "Compendium.ptu.species.Item.N2Vn9vKIFoehbUf5",
         "slug": "garchomp",
+        "level": 40,
         "other": {
-          "restrictions": [
-            ""
-          ]
+          "restrictions": []
         }
       }
     ],

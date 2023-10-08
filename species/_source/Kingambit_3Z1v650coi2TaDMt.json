@@ -50,27 +50,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.3J3T6um9bktiCYxB",
         "slug": "pawniard",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.C1lZLDOUU68fLhX9",
         "slug": "bisharp",
-        "level": 25,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 50,
         "uuid": "Compendium.ptu.species.Item.3Z1v650coi2TaDMt",
         "slug": "kingambit",
-        "level": 50,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -103,7 +109,7 @@
       "highJump": 1,
       "longJump": 2,
       "power": 10,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "darkvision",

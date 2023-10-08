@@ -50,25 +50,29 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.NbsWwvJXY3HmrLzX",
         "slug": "mankey",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 28,
         "uuid": "Compendium.ptu.species.Item.pguuAxogxKNVFegL",
         "slug": "primeape",
-        "level": 28,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 35,
         "uuid": "Compendium.ptu.species.Item.U0hmoL9rpAg3tnN0",
         "slug": "annihilape",
-        "level": 35,
         "other": {
           "restrictions": [
             "Rage Fist"

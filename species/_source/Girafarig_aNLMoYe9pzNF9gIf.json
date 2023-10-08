@@ -57,11 +57,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.aNLMoYe9pzNF9gIf",
         "slug": "girafarig",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
+        }
+      },
+      {
+        "level": 30,
+        "uuid": "Compendium.ptu.species.Item.jFF6Edkwfk8inbrl",
+        "slug": "farigiraf",
+        "other": {
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -94,7 +106,7 @@
       "highJump": 2,
       "longJump": 2,
       "power": 4,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "mountable-1"

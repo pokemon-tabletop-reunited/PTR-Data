@@ -56,11 +56,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.nkGTX6kXx6xiNYlD",
         "slug": "dunsparce",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
+        }
+      },
+      {
+        "level": 30,
+        "uuid": "Compendium.ptu.species.Item.phEozygrYpN8qjgI",
+        "slug": "dudunsparce",
+        "other": {
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -95,7 +107,7 @@
       "highJump": 1,
       "longJump": 1,
       "power": 1,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "darkvision",
