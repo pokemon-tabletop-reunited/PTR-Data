@@ -8,7 +8,7 @@
     "effect": "The user breaks all Grapples and Seeded effects at the end of this turn. All legal targets are now poisoned.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "mortal-spin",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -27,9 +27,9 @@
     "strongJaw": false,
     "type": "Poison",
     "category": "Physical",
-    "damageBase": 3,
+    "damageBase": "3",
     "frequency": "Scene x2",
-    "ac": 2,
+    "ac": "2",
     "range": "Burst 1 or Close Blast 2",
     "contestType": "Cool - Incentives",
     "stab": false,
@@ -39,19 +39,23 @@
   },
   "_id": "ErmSboSh9ei5u5QQ",
   "effects": [],
-  "sort": 0,
+  "sort": 19100000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1696691601608,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1697514175562,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!ErmSboSh9ei5u5QQ"
 }

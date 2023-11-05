@@ -7,8 +7,25 @@
     "origin": "",
     "effect": "All legal targets have their Attack and Special Attack lowered by 1 Combat Stage.",
     "snippet": "",
-    "rules": [],
-    "slug": null,
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "subtract",
+        "path": "system.stats.atk.stage.mod",
+        "phase": "applyAEs",
+        "value": 1
+      },
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "subtract",
+        "path": "system.stats.spatk.stage.mod",
+        "phase": "applyAEs",
+        "value": 1
+      }
+    ],
+    "slug": "tearful-look",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -29,7 +46,7 @@
     "category": "Status",
     "damageBase": "--",
     "frequency": "EOT",
-    "ac": 2,
+    "ac": "2",
     "range": "Burst 1, Social, Friendly",
     "contestType": "Cute - Sabotage",
     "stab": false,
@@ -39,19 +56,23 @@
   },
   "_id": "Xjf37kHgF5hjdt5r",
   "effects": [],
-  "sort": 0,
+  "sort": 48800000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1696691601608,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1698110687420,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!Xjf37kHgF5hjdt5r"
 }

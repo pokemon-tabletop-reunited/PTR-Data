@@ -9,12 +9,12 @@
     "number": 907,
     "form": "",
     "stats": {
-      "hp": 4,
-      "atk": 6,
-      "def": 5,
-      "spatk": 5,
-      "spdef": 5,
-      "spd": 7
+      "hp": 6,
+      "atk": 8,
+      "def": 6,
+      "spatk": 6,
+      "spdef": 6,
+      "spd": 8
     },
     "types": [
       "Grass"
@@ -49,27 +49,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.8vkxMXQORkd4aC8P",
         "slug": "sprigatito",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 16,
         "uuid": "Compendium.ptu.species.Item.Va4v1iZT7wvea6Ni",
         "slug": "floragato",
-        "level": 16,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 36,
         "uuid": "Compendium.ptu.species.Item.3kzxolNTuuQnwXrS",
         "slug": "meowscarada",
-        "level": 36,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -126,105 +132,109 @@
         {
           "slug": "sprouter",
           "uuid": "Compendium.ptu.capabilities.Item.dXGH5wmq6ZNADuye"
+        },
+        {
+          "slug": "stealth",
+          "uuid": "Compendium.ptu.capabilities.Item.a1N1M1GMjMClaOdj"
         }
       ]
     },
     "moves": {
       "level": [
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.1Sk8xyD2S2J6qU1K",
-          "slug": "scratch",
-          "level": 1
+          "slug": "scratch"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.6lQy212f7N3GH5KS",
-          "slug": "tail-whip",
-          "level": 1
+          "slug": "tail-whip"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.a9o7skroYTYFt9iG",
-          "slug": "leafage",
-          "level": 1
+          "slug": "leafage"
         },
         {
+          "level": 7,
           "uuid": "Compendium.ptu.moves.Item.QMaJ91E3XBatUcV9",
-          "slug": "bite",
-          "level": 7
+          "slug": "bite"
         },
         {
+          "level": 10,
           "uuid": "Compendium.ptu.moves.Item.rtmTimpeb0k1Njsy",
-          "slug": "hone-claws",
-          "level": 10
+          "slug": "hone-claws"
         },
         {
+          "level": 13,
           "uuid": "Compendium.ptu.moves.Item.qFkD5vP06XSTPXlE",
-          "slug": "magical-leaf",
-          "level": 13
+          "slug": "magical-leaf"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.wYz4RubDs84tDVul",
-          "slug": "razor-leaf",
-          "level": 18
-        },
-        {
+          "level": 15,
           "uuid": "Compendium.ptu.moves.Item.3IoUOnJtp47ClxG4",
-          "slug": "flatter",
-          "level": 20
+          "slug": "flatter"
         },
         {
+          "level": 18,
+          "uuid": "Compendium.ptu.moves.Item.wYz4RubDs84tDVul",
+          "slug": "razor-leaf"
+        },
+        {
+          "level": 22,
           "uuid": "Compendium.ptu.moves.Item.SU7t0kTAUe6uRJin",
-          "slug": "u-turn",
-          "level": 22
+          "slug": "u-turn"
         },
         {
+          "level": 24,
           "uuid": "Compendium.ptu.moves.Item.kBtOW4lhbgV3tltJ",
-          "slug": "fury-swipes",
-          "level": 24
+          "slug": "fury-swipes"
         },
         {
+          "level": 25,
           "uuid": "Compendium.ptu.moves.Item.s41RoaO2fbzPVqR6",
-          "slug": "worry-seed",
-          "level": 26
+          "slug": "worry-seed"
         },
         {
+          "level": 28,
           "uuid": "Compendium.ptu.moves.Item.sm3q5D8SkQcEmiGB",
-          "slug": "slash",
-          "level": 28
+          "slug": "slash"
         },
         {
+          "level": 32,
           "uuid": "Compendium.ptu.moves.Item.GPc4UqyAsng4fPup",
-          "slug": "energy-ball",
-          "level": 32
+          "slug": "energy-ball"
         },
         {
+          "level": 36,
           "uuid": "Compendium.ptu.moves.Item.MayZhpGvJzcbv8BT",
-          "slug": "play-rough",
-          "level": 36
+          "slug": "play-rough"
         },
         {
+          "level": 40,
           "uuid": "Compendium.ptu.moves.Item.wXMLKSFvWlsa0ee6",
-          "slug": "knock-off",
-          "level": 40
+          "slug": "knock-off"
         },
         {
+          "level": 44,
           "uuid": "Compendium.ptu.moves.Item.WRDjP0nlxlzd20a5",
-          "slug": "night-slash",
-          "level": 44
+          "slug": "night-slash"
         },
         {
+          "level": 48,
           "uuid": "Compendium.ptu.moves.Item.b18uGrjFdKGy0rBU",
-          "slug": "seed-bomb",
-          "level": 48
+          "slug": "seed-bomb"
         },
         {
+          "level": 48,
           "uuid": "Compendium.ptu.moves.Item.dXNYCLtPWarypUld",
-          "slug": "grassy-terrain",
-          "level": 48
+          "slug": "grassy-terrain"
         },
         {
+          "level": 52,
           "uuid": "Compendium.ptu.moves.Item.FBj8VAFE3YZoI8C1",
-          "slug": "leaf-storm",
-          "level": 52
+          "slug": "leaf-storm"
         }
       ],
       "machine": [
@@ -440,8 +450,28 @@
       "egg": [],
       "tutor": [
         {
+          "uuid": "Compendium.ptu.moves.Item.PvmLk3AU04nOjH4x",
+          "slug": "block"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.kkib04B5KkMnRQ2I",
+          "slug": "dual-chop"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.BHmRIX70tqHROfdN",
+          "slug": "double-team"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.gOhBiJMpOl84MLaX",
+          "slug": "echoed-voice"
+        },
+        {
           "uuid": "Compendium.ptu.moves.Item.YWFFDr5Ul470Pnyp",
           "slug": "fake-out"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.4W8tzNRKdmn0WRYd",
+          "slug": "fury-cutter"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.k7q1OgtEQ8jnd8eH",
@@ -450,6 +480,14 @@
         {
           "uuid": "Compendium.ptu.moves.Item.Gzp2WLwXl00fkJ2a",
           "slug": "grassy-glide"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.UsV1dE6qhSVDd2oN",
+          "slug": "grass-whistle"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.CEyWHL5uNXsDMDdG",
+          "slug": "hold-back"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.wXMLKSFvWlsa0ee6",
@@ -468,6 +506,10 @@
           "slug": "natural-gift"
         },
         {
+          "uuid": "Compendium.ptu.moves.Item.FNtFpxkWjT9PhvEb",
+          "slug": "nature-power"
+        },
+        {
           "uuid": "Compendium.ptu.moves.Item.6Q0qjfHVNHd5fsec",
           "slug": "secret-power"
         },
@@ -482,6 +524,14 @@
         {
           "uuid": "Compendium.ptu.moves.Item.zO24D3CxJw7guk2Y",
           "slug": "synthesis"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.0gi5EtY9Gq2yZ4eY",
+          "slug": "thunder-punch"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.5f5SrSIiFCEOkSWm",
+          "slug": "trick"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.s41RoaO2fbzPVqR6",
@@ -580,6 +630,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Grass",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -595,11 +649,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1696900152765,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!Va4v1iZT7wvea6Ni"
 }

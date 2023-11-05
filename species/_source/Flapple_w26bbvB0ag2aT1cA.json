@@ -57,17 +57,19 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.A0sBewaxj0epSaUU",
         "slug": "applin",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 20,
         "uuid": "Compendium.ptu.species.Item.w26bbvB0ag2aT1cA",
         "slug": "flapple",
-        "level": 20,
         "other": {
           "restrictions": [
             "Tart"
@@ -432,6 +434,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Grass",
+      "1": "Dragon",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -447,10 +454,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1699198176202,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!w26bbvB0ag2aT1cA"

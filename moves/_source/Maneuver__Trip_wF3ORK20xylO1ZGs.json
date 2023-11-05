@@ -1,0 +1,61 @@
+{
+  "folder": "3AhTAywjx4AYtRjv",
+  "name": "Maneuver: Trip",
+  "type": "move",
+  "img": "systems/ptu/static/css/images/types2/UntypedIC_Icon.png",
+  "system": {
+    "origin": "",
+    "effect": "You and the target each make opposed Combat or Acrobatics Checks. If you win, the target is knocked over and Tripped.",
+    "snippet": "",
+    "rules": [],
+    "slug": "maneuver-attack-of-opportunity",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "type": "Untyped",
+    "category": "Status",
+    "damageBase": "",
+    "frequency": "At-Will",
+    "ac": "6",
+    "range": "Melee, 1 Target",
+    "contestType": "",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "uL2FnS0CT2UJ45hb": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.12",
+    "coreVersion": "11.311",
+    "createdTime": 1696797763032,
+    "modifiedTime": 1699197605645,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "wF3ORK20xylO1ZGs",
+  "_key": "!items!wF3ORK20xylO1ZGs"
+}

@@ -50,19 +50,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.jVe1WVSlIH2mf132",
         "slug": "varoom",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 40,
         "uuid": "Compendium.ptu.species.Item.h2zVIMFEgX7UTmcm",
         "slug": "revavroom",
-        "level": 40,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -96,7 +100,7 @@
       "highJump": 3,
       "longJump": 3,
       "power": 7,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "forme-change",
@@ -104,6 +108,10 @@
         },
         {
           "slug": "mountable-2"
+        },
+        {
+          "slug": "enginework",
+          "uuid": "Compendium.ptu.capabilities.Item.S2xvX07hfcncZGs4"
         }
       ]
     },
@@ -556,6 +564,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Poison",
+      "1": "Steel",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -571,11 +584,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1697511617136,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!h2zVIMFEgX7UTmcm"
 }

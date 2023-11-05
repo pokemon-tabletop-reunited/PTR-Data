@@ -7,7 +7,7 @@
     "effect": "Trigger: The user’s damaging attack causes a foe to Faint\\nEffect: The user removes one Injury from themselves and gains Hit Points equal to 25% of their Max Hit Points.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "scavenger",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -28,14 +28,18 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1692968394056,
-    "modifiedTime": 1696691577981,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1697510999230,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!Lx5fKUlLXh8U7g59"
 }

@@ -8,7 +8,7 @@
     "effect": "If the user or an Ally within 2 meters of Crafty Shield's user is hit by a Status Move, you may use Crafty Shield as an Interrupt. All targets in Crafty Shield's area-of-effect, including the user, are instead not hit by the triggering Move and do not suffer any of its effect.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "crafty-shield",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -39,19 +39,23 @@
   },
   "_id": "l0AiZerwBOocjjsN",
   "effects": [],
-  "sort": 0,
+  "sort": 68400000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1696691601608,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1698279855970,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!l0AiZerwBOocjjsN"
 }

@@ -49,27 +49,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.WleT1OgzCIv6T9Pf",
         "slug": "quaxly",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 16,
         "uuid": "Compendium.ptu.species.Item.uredGuKpwMZPvKSX",
         "slug": "quaxwell",
-        "level": 16,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 36,
         "uuid": "Compendium.ptu.species.Item.K5fuZQCKkVy4jHPc",
         "slug": "quaquaval",
-        "level": 36,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -499,6 +505,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Water",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -514,11 +524,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1696903518545,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!uredGuKpwMZPvKSX"
 }

@@ -50,27 +50,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.L7b09YELPuxKmk4g",
         "slug": "tinkatink",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 24,
         "uuid": "Compendium.ptu.species.Item.PzsTqk3mmbQapWt7",
         "slug": "tinkatuff",
-        "level": 24,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 38,
         "uuid": "Compendium.ptu.species.Item.1iGVCSUD7Kuu5V2Y",
         "slug": "tinkaton",
-        "level": 38,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -103,7 +109,7 @@
       "highJump": 0,
       "longJump": 0,
       "power": 12,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "darkvision",
@@ -526,6 +532,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Fairy",
+      "1": "Steel",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -541,11 +552,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1697937700676,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!1iGVCSUD7Kuu5V2Y"
 }

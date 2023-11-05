@@ -8,7 +8,7 @@
     "effect": "The target falls asleep on 18+",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "wicked-torque",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -39,19 +39,23 @@
   },
   "_id": "fSw9Z1021LEkeilv",
   "effects": [],
-  "sort": 0,
+  "sort": 60700000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1696691601608,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1697515807258,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!fSw9Z1021LEkeilv"
 }

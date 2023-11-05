@@ -7,12 +7,15 @@
     "effect": "Pokémon that are Amorphous have an inconsistent shape. They can flatten and reform themselves like putty. They can stretch out their body material and condense themselves as well. They’re able to squeeze through tight spaces, such as under a door.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "amorphous",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": ""
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    }
   },
   "_id": "nWoI9YVnNO7M6UtR",
   "effects": [],
@@ -25,11 +28,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.12",
+    "coreVersion": "11.311",
     "createdTime": 1693042188180,
-    "modifiedTime": 1695027494151,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1697511602699,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!nWoI9YVnNO7M6UtR"
 }

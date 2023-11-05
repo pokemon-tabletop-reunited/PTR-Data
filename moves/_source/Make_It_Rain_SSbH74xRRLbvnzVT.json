@@ -8,7 +8,7 @@
     "effect": "Lower the user's Special Attack by 1 Combat Stage after damage is resolved. At the end of the encounter roll a d1000. The winner gains this much money.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "make-it-rain",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -39,19 +39,23 @@
   },
   "_id": "SSbH74xRRLbvnzVT",
   "effects": [],
-  "sort": 0,
+  "sort": 39000000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1696691601608,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1697514105513,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!SSbH74xRRLbvnzVT"
 }

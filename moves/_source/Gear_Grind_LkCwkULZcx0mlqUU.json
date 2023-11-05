@@ -8,7 +8,7 @@
     "effect": "--",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "gear-grind",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -27,9 +27,9 @@
     "strongJaw": false,
     "type": "Steel",
     "category": "Physical",
-    "damageBase": 5,
+    "damageBase": "5",
     "frequency": "EOT",
-    "ac": 3,
+    "ac": "3",
     "range": "Melee, 1 Target, Double Strike",
     "contestType": "Cool - Reliable",
     "stab": false,
@@ -39,19 +39,23 @@
   },
   "_id": "LkCwkULZcx0mlqUU",
   "effects": [],
-  "sort": 0,
+  "sort": 28400000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1696691601608,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1698109931917,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!LkCwkULZcx0mlqUU"
 }

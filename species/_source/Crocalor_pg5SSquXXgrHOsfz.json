@@ -49,27 +49,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.4y1o5qRL5E61i0g6",
         "slug": "fuecoco",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 16,
         "uuid": "Compendium.ptu.species.Item.pg5SSquXXgrHOsfz",
         "slug": "crocalor",
-        "level": 16,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 36,
         "uuid": "Compendium.ptu.species.Item.wdTSdV26FyACS2nR",
         "slug": "skeledirge",
-        "level": 36,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -129,99 +135,99 @@
     "moves": {
       "level": [
         {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.TqoaCRNjoH4lGBj4",
-          "slug": "yawn",
-          "level": "Evo"
+          "slug": "yawn"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.50Vtl0u0jPevwY4K",
-          "slug": "tackle",
-          "level": 1
+          "slug": "tackle"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.XQOEuOenSzYNz4eO",
-          "slug": "leer",
-          "level": 1
+          "slug": "leer"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.IH2EuCM09nw3lOgQ",
-          "slug": "ember",
-          "level": 1
+          "slug": "ember"
         },
         {
+          "level": 7,
           "uuid": "Compendium.ptu.moves.Item.GgdkAr3gDO6snP7r",
-          "slug": "round",
-          "level": 7
+          "slug": "round"
         },
         {
+          "level": 10,
           "uuid": "Compendium.ptu.moves.Item.QMaJ91E3XBatUcV9",
-          "slug": "bite",
-          "level": 10
+          "slug": "bite"
         },
         {
+          "level": 13,
           "uuid": "Compendium.ptu.moves.Item.uabUdNDKH4LCcTZI",
-          "slug": "incinerate",
-          "level": 13
+          "slug": "incinerate"
         },
         {
+          "level": 15,
           "uuid": "Compendium.ptu.moves.Item.TqoaCRNjoH4lGBj4",
-          "slug": "yawn",
-          "level": 15
+          "slug": "yawn"
         },
         {
+          "level": 18,
           "uuid": "Compendium.ptu.moves.Item.TiIjSQqYprGxlHAZ",
-          "slug": "fire-spin",
-          "level": 18
+          "slug": "fire-spin"
         },
         {
+          "level": 21,
           "uuid": "Compendium.ptu.moves.Item.jVruXIDWy3HEHAeA",
-          "slug": "snarl",
-          "level": 21
+          "slug": "snarl"
         },
         {
+          "level": 25,
           "uuid": "Compendium.ptu.moves.Item.sjIa2jm1cHAiMwmY",
-          "slug": "roar",
-          "level": 25
+          "slug": "roar"
         },
         {
+          "level": 28,
           "uuid": "Compendium.ptu.moves.Item.m01FTVITfrqlu0Kn",
-          "slug": "flamethrower",
-          "level": 28
+          "slug": "flamethrower"
         },
         {
+          "level": 32,
           "uuid": "Compendium.ptu.moves.Item.1Zrse7wrjRftpdXD",
-          "slug": "hyper-voice",
-          "level": 32
+          "slug": "hyper-voice"
         },
         {
+          "level": 36,
           "uuid": "Compendium.ptu.moves.Item.qltGKDIhEJpOqswU",
-          "slug": "will-o-wisp",
-          "level": 36
+          "slug": "will-o-wisp"
         },
         {
+          "level": 40,
           "uuid": "Compendium.ptu.moves.Item.66w0oT6I80QzeAMr",
-          "slug": "shadow-ball",
-          "level": 40
+          "slug": "shadow-ball"
         },
         {
+          "level": 44,
           "uuid": "Compendium.ptu.moves.Item.2J0IU5MKdpEwtTfM",
-          "slug": "fire-blast",
-          "level": 44
+          "slug": "fire-blast"
         },
         {
+          "level": 48,
           "uuid": "Compendium.ptu.moves.Item.TPm4Ml8gUM4sjXL6",
-          "slug": "overheat",
-          "level": 48
+          "slug": "overheat"
         },
         {
+          "level": 48,
           "uuid": "Compendium.ptu.moves.Item.l0VYJRDN4GADxkX2",
-          "slug": "night-shade",
-          "level": 48
+          "slug": "night-shade"
         },
         {
+          "level": 52,
           "uuid": "Compendium.ptu.moves.Item.eKo8Aq43yTIs1tus",
-          "slug": "burning-jealousy",
-          "level": 52
+          "slug": "burning-jealousy"
         }
       ],
       "machine": [
@@ -453,8 +459,16 @@
           "slug": "body-slam"
         },
         {
+          "uuid": "Compendium.ptu.moves.Item.eKo8Aq43yTIs1tus",
+          "slug": "burning-jealousy"
+        },
+        {
           "uuid": "Compendium.ptu.moves.Item.jTbqMYhNzo1hgOHO",
           "slug": "fake-tears"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.YWFFDr5Ul470Pnyp",
+          "slug": "fake-out"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.E01AjSiCCXvDiF7E",
@@ -467,18 +481,6 @@
         {
           "uuid": "Compendium.ptu.moves.Item.1Zrse7wrjRftpdXD",
           "slug": "hyper-voice"
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.rwXswCVSP0XtQtHh",
-          "slug": "lash-out"
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.k7q1OgtEQ8jnd8eH",
-          "slug": "grass-pledge"
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.wXMLKSFvWlsa0ee6",
-          "slug": "knock-off"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.rDlHKWGG9k3AxIlP",
@@ -601,6 +603,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Fire",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -616,11 +622,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1696901469065,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!pg5SSquXXgrHOsfz"
 }

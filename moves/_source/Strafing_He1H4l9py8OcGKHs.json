@@ -7,7 +7,7 @@
     "effect": "The user continues to use Strafing on each of its turns until they miss any target with Strafing, or are not able to hit any target with Strafing during their turn. Each successive use of Strafing increases Strafing's Damage Base by +4 to a maximum of DB 15.\\nBonus: This Pokemon can shift up to its Sky Capability each turn before striking and is considered Airborne for the purposes of being targeted. (Groundsource, non-airborne Melee attacks cannot target it)",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "strafing",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -26,7 +26,7 @@
     "strongJaw": false,
     "type": "Flying",
     "category": "Physical",
-    "damageBase": 3,
+    "damageBase": "3",
     "frequency": "At-Will",
     "ac": "4",
     "range": "Melee, Pass, Dash",
@@ -44,14 +44,18 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1693119119587,
-    "modifiedTime": 1696691601608,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1697515230631,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!He1H4l9py8OcGKHs"
 }

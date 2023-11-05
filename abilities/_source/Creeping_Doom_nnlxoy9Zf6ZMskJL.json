@@ -4,10 +4,10 @@
   "img": "/systems/ptu/css/images/icons/ability_icon.png",
   "system": {
     "origin": "",
-    "effect": "You create 4 swarms of centipedes up to 8-meters away from you, which need not be adjacent to one another. A centipede swarm is a hazard that causes anyone beginning their turn in them to lose a Tick of HP and is considered Bug type damage. Apply Weakness/Resistances. Do not apply stats. Pokemon or Trainers in a centipede swarm are Slowed but can move through them. You may create centipede swarms so that they share the area of other creatures. The swarms remain stationary unless you command them to move (a standard action to command any number of the swarms to move 3-meters). You cannot command a swarm to move more than 12-meters away from you and if you move more than 12-meters from any swarm, that swarm remains stationary.",
+    "effect": "You create 4 swarms of centipedes up to 8-meters away from you, which need not be adjacent to one another. A centipede swarm is a hazard that causes anyone beginning their turn in them to lose a Tick of HP and is considered Bug type damage. Apply Weakness/Resistances. Do not apply stats. Pokemon or Trainers in a centipede swarm are Slowed but can move through them, though these are considered Hazards. You may create centipede swarms so that they share the area of other creatures. The swarms remain stationary unless you command them to move (a standard action to command any number of the swarms to move 3-meters). You cannot command a swarm to move more than 12-meters away from you and if you move more than 12-meters from any swarm, that swarm remains stationary.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "creeping-doom",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -28,14 +28,18 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1692968394056,
-    "modifiedTime": 1696691577981,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1697938256061,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!nnlxoy9Zf6ZMskJL"
 }

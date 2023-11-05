@@ -7,7 +7,7 @@
     "effect": "Select a stat from Attack, Defense, Special Attack, Special Defense, Speed, or Accuracy. Raise the chosen stat of the target by 2 stages. The user may not target themselves with Inspire.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "inspire",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -44,14 +44,18 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1693119119587,
-    "modifiedTime": 1696691601608,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1698110094905,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!EtMJxpeRejyIoJXV"
 }

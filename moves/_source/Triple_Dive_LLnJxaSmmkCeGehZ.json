@@ -8,7 +8,7 @@
     "effect": "After attacking with Triple Dive, hit or miss, the user may Shift 2m, ignoring Attacks of Opportunity from their target. It may then make an additional attack with this Move on a different target. This effect may be repeated a second time, the third attack targeting a creature that has not yet been targeted by either prior attack. Before making each attack roll, the user can elect to give up triggering all remaining additional shifts and attacks. Increase Triple Dives' Damage Base by 3 for each attack that is given up.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "triple-dive",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -25,7 +25,7 @@
     "megaLauncher": false,
     "punkRock": false,
     "strongJaw": false,
-    "type": "Rock",
+    "type": "Water",
     "category": "Physical",
     "damageBase": "3",
     "frequency": "Scene x2",
@@ -39,19 +39,23 @@
   },
   "_id": "LLnJxaSmmkCeGehZ",
   "effects": [],
-  "sort": 0,
+  "sort": 28000000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1696691601608,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1697515689441,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!LLnJxaSmmkCeGehZ"
 }

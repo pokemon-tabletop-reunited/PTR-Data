@@ -5,10 +5,10 @@
   "folder": "lWQOqDm2AOGwGM16",
   "system": {
     "origin": "",
-    "effect": "The user may use Comeuppance as a Reaction Move upon being Hit by a Damaging Move, using up their next Standard Action as Normal. During the next turn where they have an available Standard Action, the user may Shift and then use Comeuppance, causing all Adjacent foes to lose X HP, where X is the amount of Damage taken since declaring use of Bide (Loss of life through effects such as Poison is not 'Damage'). Until Bide is released, the user may not voluntarily trigger any other effects that would use a Standard Action or prevent a Standard Action from being used.",
+    "effect": "The user may use Comeuppance as a Reaction Move upon being Hit by a Damaging Move, using up their next Standard Action as Normal. During the next turn where they have an available Standard Action, the user may Shift and then use Comeuppance, causing all Adjacent foes to lose X HP, where X is the amount of Damage taken since declaring use of Comeuppance (Loss of life through effects such as Poison is not 'Damage'). Until Bide is released, the user may not voluntarily trigger any other effects that would use a Standard Action or prevent a Standard Action from being used.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "comeuppance",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -29,7 +29,7 @@
     "category": "Status",
     "damageBase": "--",
     "frequency": "Scene x2",
-    "ac": "2",
+    "ac": "",
     "range": "Burst 1, Friendly",
     "contestType": "Tough - Sabotage",
     "stab": false,
@@ -39,19 +39,23 @@
   },
   "_id": "VZKr97dAK3WrtSlz",
   "effects": [],
-  "sort": 0,
+  "sort": 44500000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1696691601608,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1697513698449,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!VZKr97dAK3WrtSlz"
 }

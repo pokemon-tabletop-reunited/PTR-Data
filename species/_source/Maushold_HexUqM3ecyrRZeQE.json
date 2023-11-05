@@ -49,19 +49,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.SoV2au8tBqWyPoNY",
         "slug": "tandemaus",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.HexUqM3ecyrRZeQE",
         "slug": "maushold",
-        "level": 25,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -118,119 +122,124 @@
     "moves": {
       "level": [
         {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.lZlIuEyXp4Xt2It8",
-          "slug": "comet-punch",
-          "level": "Evo"
+          "slug": "comet-punch"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.ZptlbhF8Dnr6IyeX",
-          "slug": "double-slap",
-          "level": 1
+          "slug": "double-slap"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.dIkyKSyZGctjHX9O",
-          "slug": "baby-doll-eyes",
-          "level": 1
+          "slug": "baby-doll-eyes"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.x8xJKEwM5Zp3jqGw",
-          "slug": "after-you",
-          "level": 1
+          "slug": "after-you"
         },
         {
+          "level": 3,
           "uuid": "Compendium.ptu.moves.Item.xhZNseKRJl3pPnTZ",
-          "slug": "helping-hand",
-          "level": 3
+          "slug": "helping-hand"
         },
         {
+          "level": 5,
           "uuid": "Compendium.ptu.moves.Item.gOhBiJMpOl84MLaX",
-          "slug": "echoed-voice",
-          "level": 5
+          "slug": "echoed-voice"
         },
         {
+          "level": 8,
           "uuid": "Compendium.ptu.moves.Item.TgmOU36SFwwlN5di",
-          "slug": "charm",
-          "level": 8
+          "slug": "charm"
         },
         {
+          "level": 11,
           "uuid": "Compendium.ptu.moves.Item.jAWzTcuVWv9j5jYE",
-          "slug": "double-hit",
-          "level": 11
+          "slug": "double-hit"
         },
         {
+          "level": 14,
           "uuid": "Compendium.ptu.moves.Item.16Ij0HJODJxOy5j9",
-          "slug": "feint-attack",
-          "level": 14
+          "slug": "feint-attack"
         },
         {
+          "level": 16,
           "uuid": "Compendium.ptu.moves.Item.ptP5LFYkJR4BJHIu",
-          "slug": "bullet-seed",
-          "level": 16
+          "slug": "bullet-seed"
         },
         {
+          "level": 19,
           "uuid": "Compendium.ptu.moves.Item.UhvLxdWq2D7gOvMr",
-          "slug": "encore",
-          "level": 19
+          "slug": "encore"
         },
         {
+          "level": 22,
           "uuid": "Compendium.ptu.moves.Item.S4iliKMoFr7Ge4Zs",
-          "slug": "beat-up",
-          "level": 22
+          "slug": "beat-up"
         },
         {
+          "level": 25,
           "uuid": "Compendium.ptu.moves.Item.bQ9VP91WcvgiZi5g",
-          "slug": "hyper-fang",
-          "level": 25
+          "slug": "hyper-fang"
         },
         {
+          "level": 27,
           "uuid": "Compendium.ptu.moves.Item.foVUAPgmU09qFHrb",
-          "slug": "super-fang",
-          "level": 27
+          "slug": "super-fang"
         },
         {
+          "level": 29,
           "uuid": "Compendium.ptu.moves.Item.UhvLxdWq2D7gOvMr",
-          "slug": "encore",
-          "level": 29
+          "slug": "encore"
         },
         {
+          "level": 30,
           "uuid": "Compendium.ptu.moves.Item.MayZhpGvJzcbv8BT",
-          "slug": "play-rough",
-          "level": 30
+          "slug": "play-rough"
         },
         {
+          "level": 32,
           "uuid": "Compendium.ptu.moves.Item.SbluTZoOqsq2aRD0",
-          "slug": "copycat",
-          "level": 32
+          "slug": "copycat"
         },
         {
+          "level": 34,
           "uuid": "Compendium.ptu.moves.Item.1Zrse7wrjRftpdXD",
-          "slug": "hyper-voice",
-          "level": 34
+          "slug": "hyper-voice"
         },
         {
+          "level": 37,
           "uuid": "Compendium.ptu.moves.Item.5uY1ltFWijN07CKe",
-          "slug": "crunch",
-          "level": 37
+          "slug": "crunch"
         },
         {
+          "level": 40,
           "uuid": "Compendium.ptu.moves.Item.b18uGrjFdKGy0rBU",
-          "slug": "seed-bomb",
-          "level": 40
+          "slug": "seed-bomb"
         },
         {
+          "level": 43,
           "uuid": "Compendium.ptu.moves.Item.Lrp6HuVSBm9YBtPh",
-          "slug": "hug",
-          "level": 43
+          "slug": "hug"
         },
         {
+          "level": 46,
           "uuid": "Compendium.ptu.moves.Item.vjimrQDBH5muYXmT",
-          "slug": "population-bomb",
-          "level": 46
+          "slug": "population-bomb"
         },
         {
+          "level": 50,
           "uuid": "Compendium.ptu.moves.Item.EtMJxpeRejyIoJXV",
-          "slug": "inspire",
-          "level": 50
+          "slug": "inspire"
+        },
+        {
+          "level": 54,
+          "uuid": "Compendium.ptu.moves.Item.hPlehhtT03ujB31p",
+          "slug": "tidy-up"
         }
       ],
       "machine": [
@@ -566,6 +575,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Normal",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -581,11 +594,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1697515566022,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!HexUqM3ecyrRZeQE"
 }

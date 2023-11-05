@@ -8,7 +8,7 @@
     "effect": "If this attack deals Super Effective Damage, it is instead Doubly Super Effective.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "electro-drift",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -39,19 +39,23 @@
   },
   "_id": "RsvemgWnlsj5aa5k",
   "effects": [],
-  "sort": 0,
+  "sort": 37900000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1696691601608,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1697513698449,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!RsvemgWnlsj5aa5k"
 }

@@ -1,0 +1,56 @@
+{
+  "folder": null,
+  "name": "Cornerstone Mask",
+  "type": "item",
+  "img": "systems/ptu/static/css/images/icons/item_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "While Ogerpon is holding this, it gains the Rock Type and Rock Type moves DB are increased by 1.",
+    "snippet": "",
+    "rules": [],
+    "slug": "cornerstone-mask",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "quantity": "1",
+    "category": "Held Item",
+    "cost": "0",
+    "consumable": 0,
+    "subtype": "",
+    "container": false
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": false
+    },
+    "exportSource": {
+      "world": "tohou-the-wilderness",
+      "system": "ptu",
+      "coreVersion": "11.308",
+      "systemVersion": "4.0.0.beta.4"
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.12",
+    "coreVersion": "11.311",
+    "createdTime": 1695517601075,
+    "modifiedTime": 1699197799910,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "Uj9hFofymSS1ct0m",
+  "sort": 73700000,
+  "_key": "!items!Uj9hFofymSS1ct0m"
+}

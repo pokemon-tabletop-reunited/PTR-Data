@@ -13,12 +13,15 @@
         "option": "ghost"
       }
     ],
-    "slug": "",
+    "slug": "soul-siphon",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": ""
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    }
   },
   "_id": "G7awWLVxxtezLZ9F",
   "effects": [],
@@ -31,11 +34,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.12",
+    "coreVersion": "11.311",
     "createdTime": 1693042188180,
-    "modifiedTime": 1695027494151,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1697508129170,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!G7awWLVxxtezLZ9F"
 }

@@ -1,0 +1,65 @@
+{
+  "folder": "cCM0awlDiATvW03q",
+  "name": "Effect: Agility",
+  "type": "effect",
+  "_id": "Wt0bzGOtDVlfzZeb",
+  "img": "/systems/ptu/static/css/images/icons/effect_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Speed is Raised by 2 Combat Stages.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "add",
+        "path": "system.stats.spd.stage.value",
+        "phase": "applyAEs",
+        "value": 2
+      }
+    ],
+    "slug": "effect-agility",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": -1,
+      "unit": "unlimited",
+      "expiry": "turn-start"
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "target": null,
+    "tokenIcon": {
+      "show": true
+    },
+    "badge": null,
+    "context": null
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.beta.12",
+    "coreVersion": "11.311",
+    "createdTime": 1698280718430,
+    "modifiedTime": 1698280776914,
+    "lastModifiedBy": "xUomATnixLnn15IR"
+  },
+  "_key": "!items!Wt0bzGOtDVlfzZeb"
+}

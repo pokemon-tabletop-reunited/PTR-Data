@@ -11,10 +11,12 @@
         "key": "ActiveEffectLike",
         "mode": "subtract",
         "path": "system.stats.atk.stage.mod",
-        "value": 1
+        "value": 1,
+        "predicate": [],
+        "phase": "applyAEs"
       }
     ],
-    "slug": "",
+    "slug": "effect-baby-doll-eyes",
     "schema": {
       "version": 0.11,
       "lastMigration": {
@@ -27,6 +29,9 @@
       }
     },
     "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
     "level": {
       "value": 1
     },
@@ -57,11 +62,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.beta.12",
+    "coreVersion": "11.311",
     "createdTime": 1694440845174,
-    "modifiedTime": 1695027124661,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1698107861563,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_id": "EjQwuBuIqKQOQQ7M",
   "sort": 0,

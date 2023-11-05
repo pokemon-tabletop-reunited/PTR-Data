@@ -7,8 +7,17 @@
     "origin": "",
     "effect": "All Legal Targets have their Special Defense lowered by 2 Combat Stages.",
     "snippet": "",
-    "rules": [],
-    "slug": null,
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "subtract",
+        "path": "system.stats.spdef.stage.mod",
+        "phase": "applyAEs",
+        "value": 2
+      }
+    ],
+    "slug": "metal-sound",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -29,7 +38,7 @@
     "category": "Status",
     "damageBase": "--",
     "frequency": "EOT",
-    "ac": 4,
+    "ac": "4",
     "range": "Burst 2, Friendly, Sonic",
     "contestType": "Smart - Unsettling",
     "stab": false,
@@ -39,19 +48,23 @@
   },
   "_id": "FrDQDljR3YE3roFi",
   "effects": [],
-  "sort": 0,
+  "sort": 20300000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1696691601608,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1698110283115,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!FrDQDljR3YE3roFi"
 }

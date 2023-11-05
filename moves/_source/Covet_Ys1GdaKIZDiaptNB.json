@@ -8,7 +8,7 @@
     "effect": "Covet takes the target's Held Item or Accessory Slot Item and attaches it to Covet's user, if the user is not holding anything.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "covet",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -27,9 +27,9 @@
     "strongJaw": false,
     "type": "Normal",
     "category": "Physical",
-    "damageBase": 6,
+    "damageBase": "6",
     "frequency": "At-Will",
-    "ac": 2,
+    "ac": "2",
     "range": "Melee, 1 Target",
     "contestType": "Cute - Attention Grabber",
     "stab": false,
@@ -39,19 +39,23 @@
   },
   "_id": "Ys1GdaKIZDiaptNB",
   "effects": [],
-  "sort": 0,
+  "sort": 50900000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1696691601608,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1698109605601,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!Ys1GdaKIZDiaptNB"
 }

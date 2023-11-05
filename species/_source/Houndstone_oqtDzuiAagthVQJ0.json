@@ -49,19 +49,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.RhidZYWXVMIU7xDq",
         "slug": "greavard",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.oqtDzuiAagthVQJ0",
         "slug": "houndstone",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -96,7 +100,7 @@
       "highJump": 1,
       "longJump": 1,
       "power": 4,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "darkvision",
@@ -139,94 +143,94 @@
     "moves": {
       "level": [
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.50Vtl0u0jPevwY4K",
-          "slug": "tackle",
-          "level": 1
+          "slug": "tackle"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.9Bi4aMf4Ls0JdLNK",
-          "slug": "growl",
-          "level": 1
+          "slug": "growl"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.6ePYnDDvYpss2MsY",
-          "slug": "lick",
-          "level": 1
+          "slug": "lick"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.QMaJ91E3XBatUcV9",
-          "slug": "bite",
-          "level": 1
+          "slug": "bite"
         },
         {
+          "level": 6,
           "uuid": "Compendium.ptu.moves.Item.6lQy212f7N3GH5KS",
-          "slug": "tail-whip",
-          "level": 6
+          "slug": "tail-whip"
         },
         {
+          "level": 6,
           "uuid": "Compendium.ptu.moves.Item.ShchrVmRnyokSkTh",
-          "slug": "shadow-sneak",
-          "level": 6
+          "slug": "shadow-sneak"
         },
         {
+          "level": 9,
           "uuid": "Compendium.ptu.moves.Item.sjIa2jm1cHAiMwmY",
-          "slug": "roar",
-          "level": 9
+          "slug": "roar"
         },
         {
+          "level": 12,
           "uuid": "Compendium.ptu.moves.Item.4a68jMGmkXi2pkfF",
-          "slug": "headbutt",
-          "level": 12
+          "slug": "headbutt"
         },
         {
+          "level": 16,
           "uuid": "Compendium.ptu.moves.Item.AVg7omn9VOzv0724",
-          "slug": "dig",
-          "level": 16
+          "slug": "dig"
         },
         {
+          "level": 20,
           "uuid": "Compendium.ptu.moves.Item.TD9T2QEalKGQZicp",
-          "slug": "screech",
-          "level": 20
+          "slug": "screech"
         },
         {
+          "level": 24,
           "uuid": "Compendium.ptu.moves.Item.P0JIeR4lnilvg7K8",
-          "slug": "rest",
-          "level": 24
+          "slug": "rest"
         },
         {
+          "level": 28,
           "uuid": "Compendium.ptu.moves.Item.5uY1ltFWijN07CKe",
-          "slug": "crunch",
-          "level": 28
+          "slug": "crunch"
         },
         {
+          "level": 32,
           "uuid": "Compendium.ptu.moves.Item.MayZhpGvJzcbv8BT",
-          "slug": "play-rough",
-          "level": 32
+          "slug": "play-rough"
         },
         {
+          "level": 37,
           "uuid": "Compendium.ptu.moves.Item.xhZNseKRJl3pPnTZ",
-          "slug": "helping-hand",
-          "level": 37
+          "slug": "helping-hand"
         },
         {
+          "level": 41,
           "uuid": "Compendium.ptu.moves.Item.reV2bQhOVinmpzub",
-          "slug": "phantom-force",
-          "level": 41
+          "slug": "phantom-force"
         },
         {
+          "level": 46,
           "uuid": "Compendium.ptu.moves.Item.TgmOU36SFwwlN5di",
-          "slug": "charm",
-          "level": 46
+          "slug": "charm"
         },
         {
+          "level": 52,
           "uuid": "Compendium.ptu.moves.Item.7Gi57ZcOWjyjhU0A",
-          "slug": "double-edge",
-          "level": 52
+          "slug": "double-edge"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.SfzNA4iRWJQ71BjE",
-          "slug": "shadow-bone",
-          "level": 55
+          "level": 55,
+          "uuid": "Compendium.ptu.moves.Item.jwGAWj2BOOFkAqIi",
+          "slug": "last-respects"
         }
       ],
       "machine": [
@@ -602,6 +606,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Ghost",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -617,11 +625,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1697937726628,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!oqtDzuiAagthVQJ0"
 }

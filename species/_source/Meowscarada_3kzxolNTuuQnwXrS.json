@@ -487,12 +487,32 @@
       "egg": [],
       "tutor": [
         {
+          "uuid": "Compendium.ptu.moves.Item.kkib04B5KkMnRQ2I",
+          "slug": "dual-chop"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.PvmLk3AU04nOjH4x",
+          "slug": "block"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.BHmRIX70tqHROfdN",
+          "slug": "double-team"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.gOhBiJMpOl84MLaX",
+          "slug": "echoed-voice"
+        },
+        {
           "uuid": "Compendium.ptu.moves.Item.YWFFDr5Ul470Pnyp",
           "slug": "fake-out"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.GqkPwf1nlRMfhrZE",
           "slug": "frenzy-plant"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.4W8tzNRKdmn0WRYd",
+          "slug": "fury-cutter"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.k7q1OgtEQ8jnd8eH",
@@ -505,6 +525,10 @@
         {
           "uuid": "Compendium.ptu.moves.Item.xhZNseKRJl3pPnTZ",
           "slug": "helping-hand"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.CEyWHL5uNXsDMDdG",
+          "slug": "hold-back"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.rtmTimpeb0k1Njsy",
@@ -531,6 +555,10 @@
           "slug": "mud-slap"
         },
         {
+          "uuid": "Compendium.ptu.moves.Item.rkPaIX8nSuJmwQiC",
+          "slug": "natural-gift"
+        },
+        {
           "uuid": "Compendium.ptu.moves.Item.6Q0qjfHVNHd5fsec",
           "slug": "secret-power"
         },
@@ -541,6 +569,26 @@
         {
           "uuid": "Compendium.ptu.moves.Item.s6hVuNnG75HkMapT",
           "slug": "snatch"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.RRgY3N3vFTIbzl53",
+          "slug": "snore"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.zO24D3CxJw7guk2Y",
+          "slug": "synthesis"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.0gi5EtY9Gq2yZ4eY",
+          "slug": "thunder-punch"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.5f5SrSIiFCEOkSWm",
+          "slug": "trick"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.s41RoaO2fbzPVqR6",
+          "slug": "worry-seed"
         }
       ]
     },
@@ -655,11 +703,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.0.beta.12",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1696900697795,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!3kzxolNTuuQnwXrS"
 }
