@@ -57,27 +57,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.wbgjTtcIGWU4wrJq",
         "slug": "igglybuff",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 10,
         "uuid": "Compendium.ptu.species.Item.GP4pPG0fKURePVsD",
         "slug": "jigglypuff",
-        "level": 10,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 20,
         "uuid": "Compendium.ptu.species.Item.rvRKKqXLLKHWZgEY",
         "slug": "wigglytuff",
-        "level": 20,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -620,6 +626,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Normal",
+      "1": "Fairy",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -635,11 +646,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699476533705,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!GP4pPG0fKURePVsD"
 }

@@ -29,16 +29,16 @@
       ],
       "advanced": [
         {
-          "slug": "war-machine",
-          "uuid": "Compendium.ptu.abilities.Item.ZxdRdQDrdFAbSkLz"
-        },
-        {
-          "slug": "flame-body",
-          "uuid": "Compendium.ptu.abilities.Item.vF0vjHMDikFAthFY"
+          "slug": "magma-armor",
+          "uuid": "Compendium.ptu.abilities.Item.hMzd6dUVY7WpGbfh"
         },
         {
           "slug": "sniper",
           "uuid": "Compendium.ptu.abilities.Item.tc2hu0HycAIRYAPk"
+        },
+        {
+          "slug": "dark-shroud",
+          "uuid": "Compendium.ptu.abilities.Item.BIw7KblluB24yoCb"
         }
       ],
       "high": [
@@ -50,11 +50,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.W2ikHXdC0Na6XMP8",
         "slug": "chi-yu",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -87,7 +89,7 @@
       "highJump": 2,
       "longJump": 3,
       "power": 2,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "groundshaper",
@@ -110,10 +112,6 @@
           "uuid": "Compendium.ptu.capabilities.Item.zzJWpOj40dLelBm5"
         },
         {
-          "slug": "ruined",
-          "uuid": "Compendium.ptu.capabilities.Item.zrWRYVDRmlXJodOn"
-        },
-        {
           "slug": "breathless",
           "uuid": "Compendium.ptu.capabilities.Item.GQ53gx8t1mfqgydo"
         }
@@ -122,94 +120,94 @@
     "moves": {
       "level": [
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.IH2EuCM09nw3lOgQ",
-          "slug": "ember",
-          "level": 1
+          "slug": "ember"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.7sMVSFGaJax6lWuM",
-          "slug": "spite",
-          "level": 1
+          "slug": "spite"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.mddjD9rQYW5169un",
-          "slug": "mean-look",
-          "level": 1
+          "slug": "mean-look"
         },
         {
+          "level": 4,
           "uuid": "Compendium.ptu.moves.Item.cDe2PIlHkOV2msto",
-          "slug": "flame-wheel",
-          "level": 5
+          "slug": "flame-wheel"
         },
         {
+          "level": 8,
           "uuid": "Compendium.ptu.moves.Item.8frJ1rnKqBmGvKC0",
-          "slug": "payback",
-          "level": 10
+          "slug": "payback"
         },
         {
+          "level": 12,
           "uuid": "Compendium.ptu.moves.Item.qltGKDIhEJpOqswU",
-          "slug": "will-o-wisp",
-          "level": 15
+          "slug": "will-o-wisp"
         },
         {
+          "level": 16,
           "uuid": "Compendium.ptu.moves.Item.TeL0p7BkR386XexV",
-          "slug": "flame-charge",
-          "level": 20
+          "slug": "flame-charge"
         },
         {
+          "level": 20,
           "uuid": "Compendium.ptu.moves.Item.uabUdNDKH4LCcTZI",
-          "slug": "incinerate",
-          "level": 25
+          "slug": "incinerate"
         },
         {
+          "level": 24,
           "uuid": "Compendium.ptu.moves.Item.WUgXHLrvnUAn2vky",
-          "slug": "confuse-ray",
-          "level": 30
+          "slug": "confuse-ray"
         },
         {
+          "level": 28,
           "uuid": "Compendium.ptu.moves.Item.z0iMHqLi2ctCy2nb",
-          "slug": "nasty-plot",
-          "level": 35
+          "slug": "nasty-plot"
         },
         {
+          "level": 32,
           "uuid": "Compendium.ptu.moves.Item.M9VSBteeyEya9Qcf",
-          "slug": "dark-pulse",
-          "level": 40
+          "slug": "dark-pulse"
         },
         {
+          "level": 36,
           "uuid": "Compendium.ptu.moves.Item.WpFzl62EYkpKipF5",
-          "slug": "lava-plume",
-          "level": 45
+          "slug": "lava-plume"
         },
         {
+          "level": 40,
           "uuid": "Compendium.ptu.moves.Item.WW47bPwUK1T7ti2d",
-          "slug": "ruination",
-          "level": 50
+          "slug": "ruination"
         },
         {
+          "level": 44,
           "uuid": "Compendium.ptu.moves.Item.ttL8PRerkMtAJOVR",
-          "slug": "bounce",
-          "level": 55
+          "slug": "bounce"
         },
         {
+          "level": 48,
           "uuid": "Compendium.ptu.moves.Item.arxy479cTjkB8mML",
-          "slug": "swagger",
-          "level": 60
+          "slug": "swagger"
         },
         {
+          "level": 52,
           "uuid": "Compendium.ptu.moves.Item.f25cGYvLApdYt14w",
-          "slug": "inferno",
-          "level": 65
+          "slug": "inferno"
         },
         {
+          "level": 56,
           "uuid": "Compendium.ptu.moves.Item.GM2n72N4lfcq8Xrt",
-          "slug": "memento",
-          "level": 70
+          "slug": "memento"
         },
         {
+          "level": 60,
           "uuid": "Compendium.ptu.moves.Item.TPm4Ml8gUM4sjXL6",
-          "slug": "overheat",
-          "level": 75
+          "slug": "overheat"
         }
       ],
       "machine": [
@@ -521,6 +519,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Dark",
+      "1": "Fire",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -536,11 +539,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699494246961,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!W2ikHXdC0Na6XMP8"
 }

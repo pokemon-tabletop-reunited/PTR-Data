@@ -1,0 +1,693 @@
+{
+  "type": "species",
+  "system": {
+    "schema": {
+      "version": 0.11,
+      "lastMigration": {
+        "datetime": "2023-08-15T11:56:07.904Z",
+        "version": {
+          "schema": null,
+          "foundry": "11.307",
+          "system": "0.21"
+        }
+      }
+    },
+    "dexentry": "",
+    "number": 3727,
+    "form": "",
+    "stats": {
+      "hp": 11,
+      "atk": 9,
+      "def": 16,
+      "spatk": 9,
+      "spdef": 15,
+      "spd": 9
+    },
+    "types": [
+      "Dragon",
+      "Rock"
+    ],
+    "abilities": {
+      "basic": [
+        {
+          "slug": "pressure",
+          "uuid": "Compendium.ptu.abilities.Item.rJkN7krRcS1HXp1k"
+        }
+      ],
+      "advanced": [
+        {
+          "slug": "sturdy",
+          "uuid": "Compendium.ptu.abilities.Item.Mx1PiNPbtfrTeh0M"
+        },
+        {
+          "slug": "magic-guard",
+          "uuid": "Compendium.ptu.abilities.Item.kZG1cUD5WWnEjlkd"
+        },
+        {
+          "slug": "battle-armor",
+          "uuid": "Compendium.ptu.abilities.Item.qHHEZ1yeh6mLjXqO"
+        }
+      ],
+      "high": [
+        {
+          "slug": "solid-rock",
+          "uuid": "Compendium.ptu.abilities.Item.InUQqQ66JeJpvsbn"
+        }
+      ]
+    },
+    "evolutions": [
+      {
+        "level": 1,
+        "uuid": "Compendium.ptu.species.Item.aBMkcSEyBwI2aGKG",
+        "slug": "quetzar-statue",
+        "other": {
+          "restrictions": [
+            ""
+          ]
+        }
+      }
+    ],
+    "size": {
+      "height": 6,
+      "weight": 718.6,
+      "sizeClass": "Gigantic",
+      "weightClass": 6
+    },
+    "breeding": {
+      "genderRatio": -1,
+      "eggGroups": [
+        "None"
+      ],
+      "hatchRate": 75
+    },
+    "diet": [
+      "Nullivore"
+    ],
+    "habitats": [
+      "Mountain"
+    ],
+    "capabilities": {
+      "overland": 8,
+      "sky": 5,
+      "swim": 6,
+      "levitate": 0,
+      "burrow": 6,
+      "highJump": 3,
+      "longJump": 3,
+      "power": 14,
+      "naturewalk": [
+        "Mountain"
+      ],
+      "other": [
+        {
+          "slug": "aura-reader",
+          "uuid": "Compendium.ptu.capabilities.Item.TtY94KGl4bDY1e0b"
+        },
+        {
+          "slug": "celestial-shifter",
+          "uuid": "Compendium.ptu.capabilities.Item.eSAtXF23EomKYrXx"
+        },
+        {
+          "slug": "forme-change",
+          "uuid": "Compendium.ptu.capabilities.Item.ywnV2YQL6Fp1xRMR"
+        },
+        {
+          "slug": "groundshaper",
+          "uuid": "Compendium.ptu.capabilities.Item.oJrqacLCHwMFfSMw"
+        },
+        {
+          "slug": "materializer",
+          "uuid": "Compendium.ptu.capabilities.Item.HtXP9UnyzxdhWjZB"
+        },
+        {
+          "slug": "mountable-4",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
+        },
+        {
+          "slug": "reach",
+          "uuid": "Compendium.ptu.capabilities.Item.RB4kYUBNJD7e9fh4"
+        },
+        {
+          "slug": "telekinetic",
+          "uuid": "Compendium.ptu.capabilities.Item.cR6F3WzpD42BsxjI"
+        },
+        {
+          "slug": "telepath",
+          "uuid": "Compendium.ptu.capabilities.Item.GGL4PYCES358IeIb"
+        }
+      ]
+    },
+    "moves": {
+      "level": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.MxHhuT9dB2f6MBai",
+          "slug": "scary-face",
+          "level": 1
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.TSfx5EyRZpXvDLl9",
+          "slug": "twister",
+          "level": 1
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.DZ4oRYPBReJO1U9d",
+          "slug": "nature-power",
+          "level": 4
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.miVYvdLAUKtgTt1d",
+          "slug": "dragon-breath",
+          "level": 7
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.L3YzU5Jt0j0MFEHt",
+          "slug": "slash",
+          "level": 12
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.FHwZKX2Bm3GjNQJ0",
+          "slug": "ancient-power",
+          "level": 15
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.NUGoonKvKnXt5QUQ",
+          "slug": "rock-tomb",
+          "level": 19
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.pltNJl9RuJZGA8zF",
+          "slug": "rock-polish",
+          "level": 22
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.VF8IxrBqNJpR4wmx",
+          "slug": "stone-edge",
+          "level": 26
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ciP4rNtWicqWa4va",
+          "slug": "cosmic-ascent",
+          "level": 30
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.FrwwHwQUOpvQYQYT",
+          "slug": "dragon-dance",
+          "level": 32
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.LzgFHxtZt3QAVE7J",
+          "slug": "hyper-voice",
+          "level": 36
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Sba5efnjqgagAR4d",
+          "slug": "dragon-pulse",
+          "level": 40
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.PxvFMzMThcJoJjBH",
+          "slug": "outrage",
+          "level": 44
+        }
+      ],
+      "machine": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.rWrBAgk3W5jpixme",
+          "slug": "psyshock"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.92Qjd515ZN1vwfeh",
+          "slug": "calm-mind"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Q0hhMpcKPhHxR33t",
+          "slug": "roar"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.tmNtPcrGH82Ll5Su",
+          "slug": "toxic"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.p0OwgadqqFVK3LbP",
+          "slug": "hail"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.dUETXbMQMsjLOsfo",
+          "slug": "hidden-power"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.MCQLg3rc60IsoiCe",
+          "slug": "sunny-day"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.OVqIFzzDlbMKS7Ew",
+          "slug": "blizzard"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.sKKY6tSr3LMJbPYe",
+          "slug": "hyper-beam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.NRxIwpKjTu85dUVX",
+          "slug": "light-screen"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.L3SlDw7Vz1QpAN7Z",
+          "slug": "protect"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.uXdhVq2qq2KMn7WD",
+          "slug": "rain-dance"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Uh0x7iGbtMTYQ9jb",
+          "slug": "roost"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.lQscT0t5wrmRQmrd",
+          "slug": "safeguard"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.QbOpkuydT0R2mo0z",
+          "slug": "frustration"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.YBbdogj0lLbkZSuX",
+          "slug": "solar-beam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.INBFzQXbYI2AODME",
+          "slug": "smack-down"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.RU4x9q8v9nPC4uD9",
+          "slug": "thunderbolt"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.dkn2qf1zA4GDA8XV",
+          "slug": "thunder"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.DWLf0wREud7OIpI5",
+          "slug": "earthquake"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.yjo9WADdCK1VkuOf",
+          "slug": "return"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.fNTeS4W4Vr47pr6w",
+          "slug": "psychic"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.NEr3K7O8pAoI6mBn",
+          "slug": "shadow-ball"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.fWnVHLD5rpdJgdjs",
+          "slug": "brick-break"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.K7UB9TkJk18A5zvS",
+          "slug": "double-team"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.lFNhIJay9mPURkFm",
+          "slug": "reflect"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.7UHdFzgiftRsHjl1",
+          "slug": "flamethrower"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.J3Cv2ToMarFjVTow",
+          "slug": "sandstorm"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.BpKImQnGt9NWPsHt",
+          "slug": "fire-blast"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.NUGoonKvKnXt5QUQ",
+          "slug": "rock-tomb"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ID8S7h0VtaFMVHJO",
+          "slug": "aerial-ace"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.criXpvHyXHy0Q9l1",
+          "slug": "torment"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.mrYbUoEGQqVbkd8D",
+          "slug": "facade"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.9xBKv8W7Bus0tIly",
+          "slug": "rest"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.CCIib8kjCbVHJqC4",
+          "slug": "round"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.vCNkUzsXMkuEvfyf",
+          "slug": "echoed-voice"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.jTuUN8OUZo8iJlRl",
+          "slug": "steel-wing"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.jTMgxLvRP1muAbJJ",
+          "slug": "focus-blast"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.avEsFVtB5dNUNLZ6",
+          "slug": "energy-ball"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.aRDYvzNCZSbpr1Ws",
+          "slug": "charge-beam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.SswMaY6cmHiBK6FK",
+          "slug": "will-o-wisp"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.4VUyfLLqyIuah3Jr",
+          "slug": "payback"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.R0fRdbL8YlfekNFW",
+          "slug": "smart-strike"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.wK6kD8fSEYerRcEl",
+          "slug": "giga-impact"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.pltNJl9RuJZGA8zF",
+          "slug": "rock-polish"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.VF8IxrBqNJpR4wmx",
+          "slug": "stone-edge"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.mZMFjQsI2rJYQvUG",
+          "slug": "thunder-wave"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Kv0LGRDTgL1btqIT",
+          "slug": "fly"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Ar8iJt7Ge8oT2MS1",
+          "slug": "psych-up"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.frVbSRp5OkcQElvY",
+          "slug": "bulldoze"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.XzsRTOf3C836MCl7",
+          "slug": "rock-slide"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.pHJcniTqCCrIKzzN",
+          "slug": "dragon-tail"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.73AHUIh6V65adbTW",
+          "slug": "swagger"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.yeX0bso0PRJIS9XL",
+          "slug": "sleep-talk"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.jD2v2b69Def77hsj",
+          "slug": "u-turn"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.vypDpjMbQDlUywfo",
+          "slug": "substitute"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.jFzsG8hO9r3xPDFv",
+          "slug": "flash-cannon"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.hYRQHiHltorilAZt",
+          "slug": "trick-room"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.vjFApM5I5wqUhg9G",
+          "slug": "dark-pulse"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.IW5JN8hhwgXFV72V",
+          "slug": "confide"
+        }
+      ],
+      "egg": [],
+      "tutor": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.FHwZKX2Bm3GjNQJ0",
+          "slug": "ancient-power"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.bALTv4rchoz2wXmw",
+          "slug": "avalanche"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.y1VwfIlyeMqezi6Q",
+          "slug": "body-slam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.s9sKmw7ifRzzW9OL",
+          "slug": "double-edge"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.9ctsajRuxfXNvEnv",
+          "slug": "draco-meteor"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Sba5efnjqgagAR4d",
+          "slug": "dragon-pulse"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.sR0Qn8MCh9xi1EGb",
+          "slug": "earth-power"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.RAU2oNTyq2N0qMnZ",
+          "slug": "endure"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.IJV97ydwGu5g51JC",
+          "slug": "gravity"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.00rhCLvsoytJwyeh",
+          "slug": "heat-wave"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.LzgFHxtZt3QAVE7J",
+          "slug": "hyper-voice"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ieelWjGWIFKne4uX",
+          "slug": "icy-wind"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.79hUQHdOjX8IQa4B",
+          "slug": "iron-defense"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Dj4KHl36LrnSbpUi",
+          "slug": "iron-head"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.FYXpqo7I3cw01MLZ",
+          "slug": "iron-tail"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.ZADstgvxP72sqSdU",
+          "slug": "knock-off"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.UrCJ1HI555kcJXYv",
+          "slug": "magic-coat"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.dIbzOgPi7zOMbrPx",
+          "slug": "magic-room"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.PxvFMzMThcJoJjBH",
+          "slug": "outrage"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Gg4TyqfA7ymJWe77",
+          "slug": "shock-wave"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.pho7PM46TLfGqXMk",
+          "slug": "snore"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.7bLEUf7hVQXJR0Tl",
+          "slug": "stealth-rock"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.Y7HrWaotoqDkLPe5",
+          "slug": "stomping-tantrum"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.TouxmX26cjlkF34c",
+          "slug": "superpower"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.jP8mqjq6migOyy5a",
+          "slug": "telekinesis"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.TSfx5EyRZpXvDLl9",
+          "slug": "twister-n"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.7g7WRoZ3iGgCsY7m",
+          "slug": "uproar"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.i1HUz6aQYIyStaIp",
+          "slug": "wonder-room"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.XrkJFL2zOLIt3Gi5",
+          "slug": "zen-headbutt"
+        }
+      ]
+    },
+    "skills": {
+      "acrobatics": {
+        "value": 4,
+        "modifier": 0,
+        "type": "body"
+      },
+      "athletics": {
+        "value": 6,
+        "modifier": 2,
+        "type": "body"
+      },
+      "charm": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "combat": {
+        "value": 5,
+        "modifier": 0,
+        "type": "body"
+      },
+      "command": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "generalEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "medicineEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "occultEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "pokemonEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "techEd": {
+        "value": 1,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "focus": {
+        "value": 6,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "guile": {
+        "value": 2,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "intimidate": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      },
+      "intuition": {
+        "value": 2,
+        "modifier": 0,
+        "type": "spirit"
+      },
+      "perception": {
+        "value": 4,
+        "modifier": 0,
+        "type": "mind"
+      },
+      "stealth": {
+        "value": 5,
+        "modifier": 2,
+        "type": "body"
+      },
+      "survival": {
+        "value": 2,
+        "modifier": 0,
+        "type": "body"
+      }
+    },
+    "slug": "quetzar-statue",
+    "rules": [],
+    "source": {
+      "value": "Fangame Sage Dex"
+    },
+    "type": {
+      "0": "Dragon",
+      "1": "Rock",
+      "2": ""
+    }
+  },
+  "img": "/systems/ptu/css/images/icons/dex_icon.png",
+  "folder": "CMymFngAhNsaPlS5",
+  "name": "Quetzar Statue",
+  "_id": "aBMkcSEyBwI2aGKG",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
+    "createdTime": 1689609527590,
+    "modifiedTime": 1700237629026,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!aBMkcSEyBwI2aGKG"
+}

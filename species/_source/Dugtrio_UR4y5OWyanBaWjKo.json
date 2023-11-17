@@ -56,19 +56,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.C04DJ14VjOqUA4HR",
         "slug": "diglett",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.UR4y5OWyanBaWjKo",
         "slug": "dugtrio",
-        "level": 25,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -102,7 +106,7 @@
       "highJump": 0,
       "longJump": 0,
       "power": 4,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "tremorsense",
@@ -451,6 +455,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Ground",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -466,11 +474,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699457512396,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!UR4y5OWyanBaWjKo"
 }

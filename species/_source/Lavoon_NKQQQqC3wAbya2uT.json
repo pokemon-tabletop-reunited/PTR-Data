@@ -99,15 +99,20 @@
       "swim": 8,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 3,
+      "longJump": 3,
       "power": 8,
       "naturewalk": [
         "Ocean"
       ],
       "other": [
         {
-          "slug": "warmer-firestarter"
+          "slug": "egg-warmer",
+          "uuid": "Compendium.ptu.capabilities.Item.oUu1gl2PSeNeepXc"
+        },
+        {
+          "slug": "firestarter",
+          "uuid": "Compendium.ptu.capabilities.Item.nAIkONF3gtaYfEyX"
         },
         {
           "slug": "fountain",
@@ -126,11 +131,10 @@
           "uuid": "Compendium.ptu.capabilities.Item.IKJKnRsuagR1F8HO"
         },
         {
-          "slug": "mountable-10"
+          "slug": "mountable-10",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         }
-      ],
-      "jumpH": 3,
-      "jumpL": 3
+      ]
     },
     "moves": {
       "level": [
@@ -570,10 +574,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!NKQQQqC3wAbya2uT"

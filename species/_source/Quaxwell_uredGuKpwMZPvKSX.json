@@ -32,12 +32,12 @@
       ],
       "advanced": [
         {
-          "slug": "moxie",
-          "uuid": "Compendium.ptu.abilities.Item.LKlXsNHcGUO0NVKe"
+          "slug": "aqua-boost",
+          "uuid": "Compendium.ptu.abilities.Item.HcmWYYnYlUSLKxpv"
         },
         {
-          "slug": "reckless",
-          "uuid": "Compendium.ptu.abilities.Item.rCJBNK2adHEKBYfG"
+          "slug": "moxie",
+          "uuid": "Compendium.ptu.abilities.Item.LKlXsNHcGUO0NVKe"
         }
       ],
       "high": [
@@ -59,7 +59,7 @@
         }
       },
       {
-        "level": 16,
+        "level": 15,
         "uuid": "Compendium.ptu.species.Item.uredGuKpwMZPvKSX",
         "slug": "quaxwell",
         "other": {
@@ -69,7 +69,7 @@
         }
       },
       {
-        "level": 36,
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.K5fuZQCKkVy4jHPc",
         "slug": "quaquaval",
         "other": {
@@ -126,94 +126,94 @@
     "moves": {
       "level": [
         {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.PdslVg2qIvDMDHiA",
-          "slug": "low-sweep",
-          "level": "Evo"
+          "slug": "low-sweep"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.9svLFVhuPrSbsm6v",
-          "slug": "pound",
-          "level": 1
+          "slug": "pound"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.9Bi4aMf4Ls0JdLNK",
-          "slug": "growl",
-          "level": 1
+          "slug": "growl"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.rYLmG0KWrwYOCkmR",
-          "slug": "water-gun",
-          "level": 1
+          "slug": "water-gun"
         },
         {
+          "level": 7,
           "uuid": "Compendium.ptu.moves.Item.gCofXErMduyn6zwf",
-          "slug": "work-up",
-          "level": 7
+          "slug": "work-up"
         },
         {
+          "level": 10,
           "uuid": "Compendium.ptu.moves.Item.kdkh4n6TWXFCaL9I",
-          "slug": "wing-attack",
-          "level": 10
+          "slug": "wing-attack"
         },
         {
+          "level": 13,
           "uuid": "Compendium.ptu.moves.Item.Htb3LXoNd24yFNEG",
-          "slug": "aqua-jet",
-          "level": 13
+          "slug": "aqua-jet"
         },
         {
+          "level": 17,
           "uuid": "Compendium.ptu.moves.Item.jAWzTcuVWv9j5jYE",
-          "slug": "double-hit",
-          "level": 17
+          "slug": "double-hit"
         },
         {
+          "level": 21,
           "uuid": "Compendium.ptu.moves.Item.rfFmMC7BlgtCXFQX",
-          "slug": "aqua-cutter",
-          "level": 21
+          "slug": "aqua-cutter"
         },
         {
+          "level": 22,
           "uuid": "Compendium.ptu.moves.Item.Zl9s4r9bKURTf07l",
-          "slug": "air-slash",
-          "level": 22
+          "slug": "air-slash"
         },
         {
+          "level": 24,
           "uuid": "Compendium.ptu.moves.Item.87puwvWzfGqdOQVN",
-          "slug": "triple-kick",
-          "level": 24
+          "slug": "triple-kick"
         },
         {
+          "level": 26,
           "uuid": "Compendium.ptu.moves.Item.TbqvNIqswHYAVHOW",
-          "slug": "focus-energy",
-          "level": 26
+          "slug": "focus-energy"
         },
         {
+          "level": 30,
           "uuid": "Compendium.ptu.moves.Item.VsFJounIwoSOu8g4",
-          "slug": "acrobatics",
-          "level": 30
+          "slug": "acrobatics"
         },
         {
+          "level": 35,
           "uuid": "Compendium.ptu.moves.Item.iRpfWZ1PSCAeyUEX",
-          "slug": "liquidation",
-          "level": 35
+          "slug": "liquidation"
         },
         {
+          "level": 38,
           "uuid": "Compendium.ptu.moves.Item.P6WwfKrGPuSohaOH",
-          "slug": "mega-kick",
-          "level": 38
+          "slug": "mega-kick"
         },
         {
+          "level": 42,
           "uuid": "Compendium.ptu.moves.Item.etQ46pkobBuyW3Xx",
-          "slug": "feather-dance",
-          "level": 42
+          "slug": "feather-dance"
         },
         {
+          "level": 45,
           "uuid": "Compendium.ptu.moves.Item.oRu76Vk1LfE93pky",
-          "slug": "hydro-pump",
-          "level": 45
+          "slug": "hydro-pump"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.XNmCCgclMJf0MP6C",
-          "slug": "wave-crash",
-          "level": 50
+          "level": 50,
+          "uuid": "Item.bHiHzGiAKoa5dlsF",
+          "slug": "wave-crash"
         }
       ],
       "machine": [
@@ -524,11 +524,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696903518545,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1699437084778,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!uredGuKpwMZPvKSX"
 }

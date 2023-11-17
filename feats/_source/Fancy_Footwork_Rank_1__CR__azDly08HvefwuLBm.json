@@ -1,0 +1,62 @@
+{
+  "name": "Fancy Footwork Rank 1 [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: You learn two Dance Moves marked with the Rank of this Feature you are taking or lower.\nRank 1 : Feather Dance, Fiery Dance, Swords Dance, Teeter Dance\nRank 2: Dragon Dance, Petal Dance, Aqua Step",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "fancy-footwork-rank-1-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Dancer"
+    ],
+    "frequency": "Static",
+    "tags": "[Ranked 2] [+Speed]",
+    "notes": "",
+    "free": false,
+    "class": "Dancer",
+    "name": "Fancy Footwork [CR]Rank 1 [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "5JFKPKlyJEga6GKY",
+  "_id": "azDly08HvefwuLBm",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789250007,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!azDly08HvefwuLBm"
+}

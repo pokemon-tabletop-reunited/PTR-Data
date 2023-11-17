@@ -57,19 +57,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.XJUzUn5XacQfEXke",
         "slug": "zorua-hisuian",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.OqCZvbmPyb3k1x3O",
         "slug": "zoroark-hisuian",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -138,39 +142,84 @@
     "moves": {
       "level": [
         {
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.XQOEuOenSzYNz4eO",
+          "slug": "leer"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.1Sk8xyD2S2J6qU1K",
+          "slug": "scratch"
+        },
+        {
+          "level": 5,
+          "uuid": "Compendium.ptu.moves.Item.4zyVHZ1t6PJsYzGX",
+          "slug": "pursuit"
+        },
+        {
+          "level": 9,
+          "uuid": "Compendium.ptu.moves.Item.7sMVSFGaJax6lWuM",
+          "slug": "spite"
+        },
+        {
+          "level": 13,
           "uuid": "Compendium.ptu.moves.Item.ShchrVmRnyokSkTh",
-          "slug": "shadow-sneak",
-          "level": 1
+          "slug": "shadow-sneak"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.jVruXIDWy3HEHAeA",
-          "slug": "snarl",
-          "level": 6
+          "level": 17,
+          "uuid": "Compendium.ptu.moves.Item.TD0L4L2JEH8VpTFW",
+          "slug": "ominous-wind"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.MLCGs5okqB4BLJKc",
-          "slug": "swift",
-          "level": 11
+          "level": 21,
+          "uuid": "Compendium.ptu.moves.Item.5A0ZjnRjOwj1i7n8",
+          "slug": "curse"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.8aqszN69WWvUfFrL",
-          "slug": "bitter-malice",
-          "level": 18
+          "level": 25,
+          "uuid": "Compendium.ptu.moves.Item.PPcOINwAtEYByNNN",
+          "slug": "taunt"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.sm3q5D8SkQcEmiGB",
-          "slug": "slash",
-          "level": 25
+          "level": 29,
+          "uuid": "Compendium.ptu.moves.Item.ckL9G6vvS6TUl57i",
+          "slug": "foul-play"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.pT1I4vwhSiqnVRkr",
-          "slug": "shadow-claw",
-          "level": 34
+          "level": 33,
+          "uuid": "Compendium.ptu.moves.Item.zgeymOL0WIKgT6lq",
+          "slug": "torment"
         },
         {
+          "level": 37,
+          "uuid": "Compendium.ptu.moves.Item.aS33KlxhRCP0s5Zd",
+          "slug": "agility"
+        },
+        {
+          "level": 41,
+          "uuid": "Compendium.ptu.moves.Item.a71ua5UPPcL0IxqO",
+          "slug": "extrasensory"
+        },
+        {
+          "level": 45,
+          "uuid": "Compendium.ptu.moves.Item.DzD1pun72sIQFQle",
+          "slug": "body-slam"
+        },
+        {
+          "level": 49,
           "uuid": "Compendium.ptu.moves.Item.z0iMHqLi2ctCy2nb",
-          "slug": "nasty-plot",
-          "level": 43
+          "slug": "nasty-plot"
+        },
+        {
+          "level": 53,
+          "uuid": "Compendium.ptu.moves.Item.66w0oT6I80QzeAMr",
+          "slug": "shadow-ball"
+        },
+        {
+          "level": 57,
+          "uuid": "Compendium.ptu.moves.Item.8aqszN69WWvUfFrL",
+          "slug": "bitter-malice"
         }
       ],
       "machine": [],
@@ -301,6 +350,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Normal",
+      "1": "Ghost",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -316,11 +370,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699654333998,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!XJUzUn5XacQfEXke"
 }

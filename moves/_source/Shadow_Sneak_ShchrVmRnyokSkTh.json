@@ -8,7 +8,7 @@
     "effect": "--",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "shadow-sneak",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -27,9 +27,9 @@
     "strongJaw": false,
     "type": "Ghost",
     "category": "Physical",
-    "damageBase": 4,
+    "damageBase": "4",
     "frequency": "At-Will",
-    "ac": 2,
+    "ac": "2",
     "range": "Melee, 1 Target, Priority",
     "contestType": "Smart - Saving Grace",
     "stab": false,
@@ -44,13 +44,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1697513698449,
+    "modifiedTime": 1699495510261,
     "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!ShchrVmRnyokSkTh"

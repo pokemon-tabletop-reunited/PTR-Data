@@ -32,18 +32,18 @@
       ],
       "advanced": [
         {
-          "slug": "rattled",
-          "uuid": "Compendium.ptu.abilities.Item.TcxNWzXMpxjBZbgo"
+          "slug": "spiteful-intervention",
+          "uuid": "Compendium.ptu.abilities.Item.PwuToX9yuTRWxzJw"
         },
         {
-          "slug": "sound-boost",
-          "uuid": "Compendium.ptu.abilities.Item.veGuHqHgtJxG965D"
+          "slug": "rattled",
+          "uuid": "Compendium.ptu.abilities.Item.TcxNWzXMpxjBZbgo"
         }
       ],
       "high": [
         {
-          "slug": "conqueror",
-          "uuid": "Compendium.ptu.abilities.Item.Xz4QIzfP5tuvCiaU"
+          "slug": "dig-away",
+          "uuid": "Compendium.ptu.abilities.Item.NbiagXHCpBW7SPC1"
         }
       ]
     },
@@ -101,7 +101,12 @@
       "longJump": 3,
       "power": 9,
       "naturewalk": "",
-      "other": []
+      "other": [
+        {
+          "slug": "darkvision",
+          "uuid": "Compendium.ptu.capabilities.Item.zzJWpOj40dLelBm5"
+        }
+      ]
     },
     "moves": {
       "level": [
@@ -576,6 +581,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Normal",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -591,11 +600,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699471065576,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!phEozygrYpN8qjgI"
 }

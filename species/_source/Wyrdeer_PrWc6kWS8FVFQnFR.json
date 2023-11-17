@@ -57,19 +57,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.Am8NFlXdWzawkjO3",
         "slug": "stantler",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.PrWc6kWS8FVFQnFR",
         "slug": "wyrdeer",
-        "level": 25,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -102,10 +106,11 @@
       "highJump": 2,
       "longJump": 2,
       "power": 5,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
-          "slug": "mountable-1"
+          "slug": "mountable-1",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         },
         {
           "slug": "telekinetic",
@@ -120,39 +125,94 @@
     "moves": {
       "level": [
         {
-          "uuid": "Compendium.ptu.moves.Item.wGfMIdaCB5sim3hx",
-          "slug": "confusion",
-          "level": 5
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.3abHb5scrH2j6qMF",
-          "slug": "hypnosis",
-          "level": 9
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.fTu9Cq4z0G7PDH2x",
-          "slug": "calm-mind",
-          "level": 15
-        },
-        {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.JnXFFcatZKsX67bc",
-          "slug": "psyshield-bash",
-          "level": 21
+          "slug": "psyshield-bash"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.a71ua5UPPcL0IxqO",
-          "slug": "extrasensory",
-          "level": 29
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.50Vtl0u0jPevwY4K",
+          "slug": "tackle"
         },
         {
+          "level": 3,
+          "uuid": "Compendium.ptu.moves.Item.XQOEuOenSzYNz4eO",
+          "slug": "leer"
+        },
+        {
+          "level": 7,
+          "uuid": "Compendium.ptu.moves.Item.VtkRa05N67wR9RcG",
+          "slug": "astonish"
+        },
+        {
+          "level": 10,
+          "uuid": "Compendium.ptu.moves.Item.3abHb5scrH2j6qMF",
+          "slug": "hypnosis"
+        },
+        {
+          "level": 13,
+          "uuid": "Compendium.ptu.moves.Item.99QTjxycWPkoSfze",
+          "slug": "stomp"
+        },
+        {
+          "level": 16,
+          "uuid": "Compendium.ptu.moves.Item.IU5XxUVfxPggP6Rx",
+          "slug": "sand-attack"
+        },
+        {
+          "level": 21,
+          "uuid": "Compendium.ptu.moves.Item.rmDcfFfrdq5PgwF9",
+          "slug": "take-down"
+        },
+        {
+          "level": 23,
+          "uuid": "Compendium.ptu.moves.Item.WUgXHLrvnUAn2vky",
+          "slug": "confuse-ray"
+        },
+        {
+          "level": 27,
+          "uuid": "Compendium.ptu.moves.Item.fTu9Cq4z0G7PDH2x",
+          "slug": "calm-mind"
+        },
+        {
+          "level": 33,
+          "uuid": "Compendium.ptu.moves.Item.pg083RFf3Tf7a3pX",
+          "slug": "role-play"
+        },
+        {
+          "level": 38,
           "uuid": "Compendium.ptu.moves.Item.bbYMsmddMV20isEx",
-          "slug": "zen-headbutt",
-          "level": 37
+          "slug": "zen-headbutt"
         },
         {
+          "level": 43,
+          "uuid": "Compendium.ptu.moves.Item.X5S085dhT6JG9Top",
+          "slug": "jump-kick"
+        },
+        {
+          "level": 49,
+          "uuid": "Compendium.ptu.moves.Item.rmcnLyXMgD9aKb21",
+          "slug": "imprison"
+        },
+        {
+          "level": 49,
+          "uuid": "Compendium.ptu.moves.Item.a71ua5UPPcL0IxqO",
+          "slug": "extrasensory"
+        },
+        {
+          "level": 53,
+          "uuid": "Compendium.ptu.moves.Item.4Bf7QbKy0NepUHk0",
+          "slug": "captivate"
+        },
+        {
+          "level": 58,
           "uuid": "Compendium.ptu.moves.Item.7Gi57ZcOWjyjhU0A",
-          "slug": "double-edge",
-          "level": 47
+          "slug": "double-edge"
+        },
+        {
+          "level": 60,
+          "uuid": "Compendium.ptu.moves.Item.StGpIzCBfyxbhlSv",
+          "slug": "megahorn"
         }
       ],
       "machine": [],
@@ -315,6 +375,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Normal",
+      "1": "Psychic",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -330,11 +395,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699647187220,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!PrWc6kWS8FVFQnFR"
 }

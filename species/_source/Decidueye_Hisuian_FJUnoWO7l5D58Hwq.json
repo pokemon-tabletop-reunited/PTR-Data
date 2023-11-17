@@ -57,35 +57,43 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.dqbhtvhGn8frA9p1",
         "slug": "rowlet",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 15,
         "uuid": "Compendium.ptu.species.Item.9SJp8TM0qgx74tHj",
         "slug": "dartrix",
-        "level": 15,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.vnz455Jj1vLuPnGk",
         "slug": "decidueye",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.FJUnoWO7l5D58Hwq",
         "slug": "decidueye-hisuian",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -118,7 +126,7 @@
       "highJump": 3,
       "longJump": 3,
       "power": 5,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "darkvision",
@@ -133,59 +141,89 @@
     "moves": {
       "level": [
         {
-          "uuid": "Compendium.ptu.moves.Item.jZzomtDAHtgzeeSV",
-          "slug": "rock-smash",
-          "level": "Evo"
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.a9o7skroYTYFt9iG",
-          "slug": "leafage",
-          "level": 6
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.ytI4ym6JnQcVWGkM",
-          "slug": "roost",
-          "level": 11
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.9TD6e8JoZBjIuuAP",
-          "slug": "aerial-ace",
-          "level": 18
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.qFkD5vP06XSTPXlE",
-          "slug": "magical-leaf",
-          "level": 21
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.Zl9s4r9bKURTf07l",
-          "slug": "air-slash",
-          "level": 25
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.gYkmoTL90zOWT5lv",
-          "slug": "aura-sphere",
-          "level": 30
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.0wyKb3JsjxCnVsr6",
-          "slug": "leaf-blade",
-          "level": 34
-        },
-        {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.0aTjK9XQlBWmqI3C",
-          "slug": "triple-arrows",
-          "level": 34
+          "slug": "triple-arrows"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.SahvKAgxHSXkU2rv",
-          "slug": "brave-bird",
-          "level": 40
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.gYkmoTL90zOWT5lv",
+          "slug": "aura-sphere"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.FBj8VAFE3YZoI8C1",
-          "slug": "leaf-storm",
-          "level": 43
+          "slug": "leaf-storm"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.a9o7skroYTYFt9iG",
+          "slug": "leafage"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.SU7t0kTAUe6uRJin",
+          "slug": "u-turn"
+        },
+        {
+          "level": 4,
+          "uuid": "Compendium.ptu.moves.Item.9Bi4aMf4Ls0JdLNK",
+          "slug": "growl"
+        },
+        {
+          "level": 8,
+          "uuid": "Compendium.ptu.moves.Item.NyWuI63z9ECPszTk",
+          "slug": "peck"
+        },
+        {
+          "level": 14,
+          "uuid": "Compendium.ptu.moves.Item.wYz4RubDs84tDVul",
+          "slug": "razor-leaf"
+        },
+        {
+          "level": 16,
+          "uuid": "Compendium.ptu.moves.Item.ShchrVmRnyokSkTh",
+          "slug": "shadow-sneak"
+        },
+        {
+          "level": 24,
+          "uuid": "Compendium.ptu.moves.Item.VCxGumWgpdoxEx9T",
+          "slug": "pluck"
+        },
+        {
+          "level": 28,
+          "uuid": "Compendium.ptu.moves.Item.zO24D3CxJw7guk2Y",
+          "slug": "synthesis"
+        },
+        {
+          "level": 33,
+          "uuid": "Compendium.ptu.moves.Item.du6VccHCQ2VjQ0D8",
+          "slug": "bulk-up"
+        },
+        {
+          "level": 38,
+          "uuid": "Compendium.ptu.moves.Item.PdslVg2qIvDMDHiA",
+          "slug": "low-sweep"
+        },
+        {
+          "level": 44,
+          "uuid": "Compendium.ptu.moves.Item.QGRRWu7evV8MKgs4",
+          "slug": "sucker-punch"
+        },
+        {
+          "level": 49,
+          "uuid": "Compendium.ptu.moves.Item.0wyKb3JsjxCnVsr6",
+          "slug": "leaf-blade"
+        },
+        {
+          "level": 55,
+          "uuid": "Compendium.ptu.moves.Item.etQ46pkobBuyW3Xx",
+          "slug": "feather-dance"
+        },
+        {
+          "level": 60,
+          "uuid": "Compendium.ptu.moves.Item.SahvKAgxHSXkU2rv",
+          "slug": "brave-bird"
         }
       ],
       "machine": [],
@@ -202,6 +240,10 @@
         {
           "uuid": "Compendium.ptu.moves.Item.GPc4UqyAsng4fPup",
           "slug": "energy-ball"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.GqkPwf1nlRMfhrZE",
+          "slug": "frenzy-plant"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.DfuvLNHQ0TBVgPN4",
@@ -344,6 +386,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Grass",
+      "1": "Fighting",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -359,11 +406,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699633379700,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!FJUnoWO7l5D58Hwq"
 }

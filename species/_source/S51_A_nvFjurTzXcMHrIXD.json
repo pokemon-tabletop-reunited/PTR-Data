@@ -57,14 +57,16 @@
     },
     "evolutions": [
       {
-        "slug": "s51a",
+        "slug": "s51",
+        "uuid": "Compendium.ptu.species.Item.0IpCz29M7Yqobtli",
         "level": 1,
         "other": {
           "restrictions": []
         }
       },
       {
-        "slug": "s5a1-a",
+        "slug": "s51-a",
+        "uuid": "Compendium.ptu.species.Item.nvFjurTzXcMHrIXD",
         "level": 30,
         "other": {
           "restrictions": []
@@ -96,13 +98,14 @@
       "swim": 2,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 1,
+      "longJump": 1,
       "power": 6,
       "naturewalk": [],
       "other": [
         {
-          "slug": "teleporter-6"
+          "slug": "teleporter-6",
+          "uuid": "Compendium.ptu.capabilities.Item.ylhIk5i0Xtp65asH"
         },
         {
           "slug": "darkvision",
@@ -116,9 +119,7 @@
           "slug": "telekinetic",
           "uuid": "Compendium.ptu.capabilities.Item.cR6F3WzpD42BsxjI"
         }
-      ],
-      "jumpH": 1,
-      "jumpL": 1
+      ]
     },
     "moves": {
       "level": [
@@ -606,11 +607,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1697514480122,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1700237629026,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!nvFjurTzXcMHrIXD"
 }

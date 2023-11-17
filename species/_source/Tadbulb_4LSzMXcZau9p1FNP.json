@@ -22,22 +22,22 @@
     "abilities": {
       "basic": [
         {
+          "slug": "levitate",
+          "uuid": "Compendium.ptu.abilities.Item.WsNZitOqUrhu9k78"
+        }
+      ],
+      "advanced": [
+        {
           "slug": "own-tempo",
           "uuid": "Compendium.ptu.abilities.Item.Fp7nWb0csK9MHRsZ"
         },
         {
           "slug": "static",
           "uuid": "Compendium.ptu.abilities.Item.zskFfuRkiVBWICxG"
-        }
-      ],
-      "advanced": [
+        },
         {
           "slug": "damp",
           "uuid": "Compendium.ptu.abilities.Item.VeCeKD06r2h3Iuyd"
-        },
-        {
-          "slug": "fluffy-charge",
-          "uuid": "Compendium.ptu.abilities.Item.bUiMiOU66wPoi3Kd"
         }
       ],
       "high": [
@@ -49,17 +49,19 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.4LSzMXcZau9p1FNP",
         "slug": "tadbulb",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.KbGkZrordhtcilQI",
         "slug": "bellibolt",
-        "level": 25,
         "other": {
           "restrictions": [
             "Thunderstone"
@@ -101,10 +103,6 @@
       ],
       "other": [
         {
-          "slug": "bioluminescence",
-          "uuid": "Compendium.ptu.capabilities.Item.h9ZPDMNiqGTivW2f"
-        },
-        {
           "slug": "glow",
           "uuid": "Compendium.ptu.capabilities.Item.v4OOr4KlIO0DKw5r"
         },
@@ -113,12 +111,8 @@
           "uuid": "Compendium.ptu.capabilities.Item.AIbbzjfDZix8YFkU"
         },
         {
-          "slug": "wired",
-          "uuid": "Compendium.ptu.capabilities.Item.qL3NoxglZIBtFB1r"
-        },
-        {
-          "slug": "x-ray-vision",
-          "uuid": "Compendium.ptu.capabilities.Item.Ur20jokx7wBTH2zJ"
+          "slug": "zapper",
+          "uuid": "Compendium.ptu.capabilities.Item.v3QyNdZYDVwlG2tY"
         }
       ]
     },
@@ -598,11 +592,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699443893326,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!4LSzMXcZau9p1FNP"
 }

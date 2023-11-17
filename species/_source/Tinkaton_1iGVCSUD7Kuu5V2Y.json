@@ -37,14 +37,14 @@
           "uuid": "Compendium.ptu.abilities.Item.8m9FR9xTLgOLRRZY"
         },
         {
-          "slug": "sheer-force",
-          "uuid": "Compendium.ptu.abilities.Item.f2Wd9jSdqyZfsv7r"
+          "slug": "hustle",
+          "uuid": "Compendium.ptu.abilities.Item.Fi2GT4YpvrH2Qa7l"
         }
       ],
       "high": [
         {
-          "slug": "feisty",
-          "uuid": "Compendium.ptu.abilities.Item.9CDXU41ybyKjOKJr"
+          "slug": "huge-power",
+          "uuid": "Compendium.ptu.abilities.Item.oNB76oqVYrjhYd7W"
         }
       ]
     },
@@ -60,7 +60,7 @@
         }
       },
       {
-        "level": 24,
+        "level": 15,
         "uuid": "Compendium.ptu.species.Item.PzsTqk3mmbQapWt7",
         "slug": "tinkatuff",
         "other": {
@@ -70,7 +70,7 @@
         }
       },
       {
-        "level": 38,
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.1iGVCSUD7Kuu5V2Y",
         "slug": "tinkaton",
         "other": {
@@ -112,10 +112,6 @@
       "naturewalk": "",
       "other": [
         {
-          "slug": "darkvision",
-          "uuid": "Compendium.ptu.capabilities.Item.zzJWpOj40dLelBm5"
-        },
-        {
           "slug": "mystical",
           "uuid": "Compendium.ptu.capabilities.Item.3yPHfYMfVXDJt2T4"
         },
@@ -132,99 +128,84 @@
     "moves": {
       "level": [
         {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.Mx6n0bjtLQXq1QVa",
-          "slug": "gigaton-hammer",
-          "level": "Evo"
+          "slug": "gigaton-hammer"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.VtkRa05N67wR9RcG",
-          "slug": "astonish",
-          "level": 1
+          "slug": "astonish"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.ii13x169fQL7gbd6",
-          "slug": "dashing-deceit",
-          "level": 1
-        },
-        {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.jZzomtDAHtgzeeSV",
-          "slug": "rock-smash",
-          "level": 1
+          "slug": "rock-smash"
         },
         {
+          "level": 5,
           "uuid": "Compendium.ptu.moves.Item.dIkyKSyZGctjHX9O",
-          "slug": "baby-doll-eyes",
-          "level": 5
+          "slug": "baby-doll-eyes"
         },
         {
+          "level": 8,
           "uuid": "Compendium.ptu.moves.Item.XkiKEwN1gZtlAkUi",
-          "slug": "metal-claw",
-          "level": 8
+          "slug": "metal-claw"
         },
         {
+          "level": 11,
           "uuid": "Compendium.ptu.moves.Item.Ys1GdaKIZDiaptNB",
-          "slug": "covet",
-          "level": 11
+          "slug": "covet"
         },
         {
+          "level": 14,
           "uuid": "Compendium.ptu.moves.Item.YWFFDr5Ul470Pnyp",
-          "slug": "fake-out",
-          "level": 14
+          "slug": "fake-out"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.7iC45AoAhQraFlUM",
-          "slug": "playful-pommel",
-          "level": 17
-        },
-        {
+          "level": 20,
           "uuid": "Compendium.ptu.moves.Item.PyKNQmVYYDDxeL5J",
-          "slug": "magnet-bomb",
-          "level": 20
+          "slug": "magnet-bomb"
         },
         {
+          "level": 23,
           "uuid": "Compendium.ptu.moves.Item.0cpoDUWBYwTiDlnG",
-          "slug": "sweet-kiss",
-          "level": 23
+          "slug": "sweet-kiss"
         },
         {
+          "level": 25,
           "uuid": "Compendium.ptu.moves.Item.MrGSomQEncQd3zt6",
-          "slug": "brutal-swing",
-          "level": 25
+          "slug": "brutal-swing"
         },
         {
+          "level": 28,
           "uuid": "Compendium.ptu.moves.Item.YG7EABDKQsFjDi8E",
-          "slug": "smack-down",
-          "level": 28
+          "slug": "smack-down"
         },
         {
+          "level": 33,
           "uuid": "Compendium.ptu.moves.Item.xSWKEGt7GbGNhXw8",
-          "slug": "skitter-smack",
-          "level": 33
+          "slug": "skitter-smack"
         },
         {
+          "level": 36,
           "uuid": "Compendium.ptu.moves.Item.wXMLKSFvWlsa0ee6",
-          "slug": "knock-off",
-          "level": 36
+          "slug": "knock-off"
         },
         {
+          "level": 39,
           "uuid": "Compendium.ptu.moves.Item.MayZhpGvJzcbv8BT",
-          "slug": "play-rough",
-          "level": 39
+          "slug": "play-rough"
         },
         {
+          "level": 43,
           "uuid": "Compendium.ptu.moves.Item.3IoUOnJtp47ClxG4",
-          "slug": "flatter",
-          "level": 43
+          "slug": "flatter"
         },
         {
+          "level": 47,
           "uuid": "Compendium.ptu.moves.Item.4Ph5FUIidlcv8CNI",
-          "slug": "meteor-mash",
-          "level": 47
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.fyPQ73PudZoy588D",
-          "slug": "dragon-hammer",
-          "level": 52
+          "slug": "meteor-mash"
         }
       ],
       "machine": [
@@ -552,11 +533,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1697937700676,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1699457113092,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!1iGVCSUD7Kuu5V2Y"
 }

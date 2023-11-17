@@ -29,16 +29,16 @@
       ],
       "advanced": [
         {
-          "slug": "war-machine",
-          "uuid": "Compendium.ptu.abilities.Item.ZxdRdQDrdFAbSkLz"
-        },
-        {
           "slug": "overshadow",
           "uuid": "Compendium.ptu.abilities.Item.8PqBcayhdjGjI9HG"
         },
         {
-          "slug": "rain-dish",
-          "uuid": "Compendium.ptu.abilities.Item.nodKAkLraePEpPt1"
+          "slug": "dark-shroud",
+          "uuid": "Compendium.ptu.abilities.Item.BIw7KblluB24yoCb"
+        },
+        {
+          "slug": "solid-rock",
+          "uuid": "Compendium.ptu.abilities.Item.Hdfr0IG4HkCuksBB"
         }
       ],
       "high": [
@@ -50,18 +50,20 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.MYqjbAMalxAQbM4S",
         "slug": "ting-lu",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
     "size": {
       "height": 2.7,
       "weight": 699.7,
-      "sizeClass": "Large",
+      "sizeClass": "Huge",
       "weightClass": 7
     },
     "breeding": {
@@ -87,10 +89,13 @@
       "highJump": 2,
       "longJump": 2,
       "power": 15,
-      "naturewalk": [],
+      "naturewalk": [
+        "Mountain"
+      ],
       "other": [
         {
-          "slug": "mountable-1"
+          "slug": "mountable-1",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         },
         {
           "slug": "darkvision",
@@ -109,10 +114,6 @@
           "uuid": "Compendium.ptu.capabilities.Item.zKqdzjSzDVJuyZDZ"
         },
         {
-          "slug": "ruined",
-          "uuid": "Compendium.ptu.capabilities.Item.zrWRYVDRmlXJodOn"
-        },
-        {
           "slug": "breathless",
           "uuid": "Compendium.ptu.capabilities.Item.GQ53gx8t1mfqgydo"
         },
@@ -125,94 +126,94 @@
     "moves": {
       "level": [
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.mddjD9rQYW5169un",
-          "slug": "mean-look",
-          "level": 1
+          "slug": "mean-look"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.gL2f9k8qYJ1OwiZO",
-          "slug": "sand-tomb",
-          "level": 1
+          "slug": "sand-tomb"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.7sMVSFGaJax6lWuM",
-          "slug": "spite",
-          "level": 1
+          "slug": "spite"
         },
         {
+          "level": 4,
           "uuid": "Compendium.ptu.moves.Item.nJnfeqvu1znRWtOl",
-          "slug": "spikes",
-          "level": 5
+          "slug": "spikes"
         },
         {
+          "level": 8,
           "uuid": "Compendium.ptu.moves.Item.8frJ1rnKqBmGvKC0",
-          "slug": "payback",
-          "level": 10
+          "slug": "payback"
         },
         {
+          "level": 12,
           "uuid": "Compendium.ptu.moves.Item.99QTjxycWPkoSfze",
-          "slug": "stomp",
-          "level": 15
+          "slug": "stomp"
         },
         {
+          "level": 16,
           "uuid": "Compendium.ptu.moves.Item.J2l5Cmp9LEW7Jvgu",
-          "slug": "bulldoze",
-          "level": 20
+          "slug": "bulldoze"
         },
         {
+          "level": 20,
           "uuid": "Compendium.ptu.moves.Item.DCD0giVPub7Agz5U",
-          "slug": "whirlwind",
-          "level": 25
+          "slug": "whirlwind"
         },
         {
+          "level": 24,
           "uuid": "Compendium.ptu.moves.Item.PPcOINwAtEYByNNN",
-          "slug": "taunt",
-          "level": 30
+          "slug": "taunt"
         },
         {
+          "level": 28,
           "uuid": "Compendium.ptu.moves.Item.czDZWjn9TbP9ON4q",
-          "slug": "thrash",
-          "level": 35
+          "slug": "thrash"
         },
         {
+          "level": 32,
           "uuid": "Compendium.ptu.moves.Item.M9VSBteeyEya9Qcf",
-          "slug": "dark-pulse",
-          "level": 40
+          "slug": "dark-pulse"
         },
         {
+          "level": 36,
           "uuid": "Compendium.ptu.moves.Item.2sgLgahHycXD5OuT",
-          "slug": "stomping-tantrum",
-          "level": 45
+          "slug": "stomping-tantrum"
         },
         {
+          "level": 40,
           "uuid": "Compendium.ptu.moves.Item.WW47bPwUK1T7ti2d",
-          "slug": "ruination",
-          "level": 50
+          "slug": "ruination"
         },
         {
+          "level": 44,
           "uuid": "Compendium.ptu.moves.Item.lh8CZDIXVYVWsbCF",
-          "slug": "throat-chop",
-          "level": 55
+          "slug": "throat-chop"
         },
         {
+          "level": 48,
           "uuid": "Compendium.ptu.moves.Item.AvGyaqir7qFsEzxk",
-          "slug": "rock-slide",
-          "level": 60
+          "slug": "rock-slide"
         },
         {
+          "level": 52,
           "uuid": "Compendium.ptu.moves.Item.GM2n72N4lfcq8Xrt",
-          "slug": "memento",
-          "level": 65
+          "slug": "memento"
         },
         {
+          "level": 56,
           "uuid": "Compendium.ptu.moves.Item.qQGrbuuO6EcG6b7c",
-          "slug": "earthquake",
-          "level": 70
+          "slug": "earthquake"
         },
         {
+          "level": 60,
           "uuid": "Compendium.ptu.moves.Item.YSxU9QCnB3OBqtgh",
-          "slug": "fissure",
-          "level": 75
+          "slug": "fissure"
         }
       ],
       "machine": [
@@ -552,6 +553,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Dark",
+      "1": "Ground",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -567,11 +573,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699494689774,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!MYqjbAMalxAQbM4S"
 }

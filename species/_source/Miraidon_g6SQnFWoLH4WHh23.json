@@ -37,8 +37,8 @@
           "uuid": "Compendium.ptu.abilities.Item.aOBGGKUF5d2oGykz"
         },
         {
-          "slug": "download",
-          "uuid": "Compendium.ptu.abilities.Item.2QcBRFuNlyFtyeI8"
+          "slug": "competitive",
+          "uuid": "Compendium.ptu.abilities.Item.x1VbzOOsXuMk9Tzg"
         }
       ],
       "high": [
@@ -50,11 +50,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.g6SQnFWoLH4WHh23",
         "slug": "miraidon",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -88,10 +90,11 @@
       "highJump": 5,
       "longJump": 6,
       "power": 9,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
-          "slug": "mountable-1"
+          "slug": "mountable-1",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         },
         {
           "slug": "wallclimber",
@@ -110,84 +113,89 @@
     "moves": {
       "level": [
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.j1LhD3Z6maB3Y9pi",
-          "slug": "electric-terrain",
-          "level": 1
+          "slug": "electric-terrain"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.HhQrSZjCBL95D1zV",
-          "slug": "thunder-shock",
-          "level": 1
+          "slug": "thunder-shock"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.sEpnYIBn1Bkm9ZXd",
-          "slug": "dragon-breath",
+          "slug": "dragon-breath"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.uomsKYZy3Di509MG",
+          "slug": "rock-climb",
           "level": 1
         },
         {
+          "level": 7,
           "uuid": "Compendium.ptu.moves.Item.i3pBrEvJz6tycWOT",
-          "slug": "shock-wave",
-          "level": 7
+          "slug": "shock-wave"
         },
         {
+          "level": 14,
           "uuid": "Compendium.ptu.moves.Item.qRvLgOrsmdXEsBsU",
-          "slug": "charge",
-          "level": 14
+          "slug": "charge"
         },
         {
+          "level": 21,
           "uuid": "Compendium.ptu.moves.Item.auckyPDvFlAeuhKr",
-          "slug": "parabolic-charge",
-          "level": 21
+          "slug": "parabolic-charge"
         },
         {
+          "level": 28,
           "uuid": "Compendium.ptu.moves.Item.0KazDGc9T8CETH5f",
-          "slug": "discharge",
-          "level": 28
+          "slug": "discharge"
         },
         {
+          "level": 35,
           "uuid": "Compendium.ptu.moves.Item.fDdSnTzTyAbJY2nf",
-          "slug": "agility",
-          "level": 35
+          "slug": "agility"
         },
         {
+          "level": 42,
           "uuid": "Compendium.ptu.moves.Item.qOem2TUbrvmdG1Fu",
-          "slug": "dragon-pulse",
-          "level": 42
+          "slug": "dragon-pulse"
         },
         {
+          "level": 56,
           "uuid": "Compendium.ptu.moves.Item.RsvemgWnlsj5aa5k",
-          "slug": "electro-drift",
-          "level": 56
+          "slug": "electro-drift"
         },
         {
+          "level": 63,
           "uuid": "Compendium.ptu.moves.Item.FrDQDljR3YE3roFi",
-          "slug": "metal-sound",
-          "level": 63
+          "slug": "metal-sound"
         },
         {
+          "level": 70,
           "uuid": "Compendium.ptu.moves.Item.70ikTYAJeGbsEN9K",
-          "slug": "mirror-coat",
-          "level": 70
+          "slug": "mirror-coat"
         },
         {
+          "level": 77,
           "uuid": "Compendium.ptu.moves.Item.Pc0fIapOkBRR4J8L",
-          "slug": "outrage",
-          "level": 77
+          "slug": "outrage"
         },
         {
+          "level": 84,
           "uuid": "Compendium.ptu.moves.Item.w5E02WXdvxiY8n0Z",
-          "slug": "thunder",
-          "level": 84
+          "slug": "thunder"
         },
         {
+          "level": 91,
           "uuid": "Compendium.ptu.moves.Item.TPm4Ml8gUM4sjXL6",
-          "slug": "overheat",
-          "level": 91
+          "slug": "overheat"
         },
         {
+          "level": 98,
           "uuid": "Compendium.ptu.moves.Item.WV86ctKatPhQpZC3",
-          "slug": "hyper-beam",
-          "level": 98
+          "slug": "hyper-beam"
         }
       ],
       "machine": [
@@ -559,6 +567,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Electric",
+      "1": "Dragon",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -574,11 +587,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699497071043,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!g6SQnFWoLH4WHh23"
 }

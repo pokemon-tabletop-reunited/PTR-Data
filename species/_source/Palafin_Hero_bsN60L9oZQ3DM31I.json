@@ -22,18 +22,18 @@
     "abilities": {
       "basic": [
         {
-          "slug": "zero-to-hero",
-          "uuid": "Compendium.ptu.abilities.Item.Xtl31lyqhDvfE1Dc"
+          "slug": "water-veil",
+          "uuid": "Compendium.ptu.abilities.Item.44jyROrQWp9z6jOx"
+        },
+        {
+          "slug": "aqua-bullet",
+          "uuid": "Compendium.ptu.abilities.Item.zKMZu1mXxkBQA3Af"
         }
       ],
       "advanced": [
         {
-          "slug": "justified",
-          "uuid": "Compendium.ptu.abilities.Item.TWqOpCg6UmlH5dy9"
-        },
-        {
-          "slug": "bodyguard",
-          "uuid": "Compendium.ptu.abilities.Item.8O7o6xH3FIi4RXi9"
+          "slug": "perception",
+          "uuid": "Compendium.ptu.abilities.Item.npbIziNlGUgPqn5M"
         },
         {
           "slug": "brave-heart",
@@ -42,6 +42,10 @@
       ],
       "high": [
         {
+          "slug": "zero-to-hero",
+          "uuid": "Compendium.ptu.abilities.Item.Xtl31lyqhDvfE1Dc"
+        },
+        {
           "slug": "defy-death",
           "uuid": "Compendium.ptu.abilities.Item.hccoP35m1qpEJxeW"
         }
@@ -49,19 +53,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.tHVM9407ZhO7XaOu",
         "slug": "finizen",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 35,
         "uuid": "Compendium.ptu.species.Item.2DQAPWNuTQaQHOMW",
         "slug": "palafin",
-        "level": 35,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -122,99 +130,94 @@
     "moves": {
       "level": [
         {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.Hu61b2V3edzwrS1L",
-          "slug": "flip-turn",
-          "level": "Evo"
+          "slug": "flip-turn"
         },
         {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.BA3VBZIXucsP3fWz",
-          "slug": "jet-punch",
-          "level": "Evo"
+          "slug": "jet-punch"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.I8d7of2dA9eAP0OG",
-          "slug": "supersonic",
-          "level": 1
+          "slug": "supersonic"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.rYLmG0KWrwYOCkmR",
-          "slug": "water-gun",
-          "level": 1
+          "slug": "water-gun"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.TbqvNIqswHYAVHOW",
-          "slug": "focus-energy",
-          "level": 1
+          "slug": "focus-energy"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.50Vtl0u0jPevwY4K",
-          "slug": "tackle",
-          "level": 1
+          "slug": "tackle"
         },
         {
+          "level": 7,
           "uuid": "Compendium.ptu.moves.Item.VtkRa05N67wR9RcG",
-          "slug": "astonish",
-          "level": 7
+          "slug": "astonish"
         },
         {
+          "level": 10,
           "uuid": "Compendium.ptu.moves.Item.UhvLxdWq2D7gOvMr",
-          "slug": "encore",
-          "level": 10
+          "slug": "encore"
         },
         {
+          "level": 13,
           "uuid": "Compendium.ptu.moves.Item.Htb3LXoNd24yFNEG",
-          "slug": "aqua-jet",
-          "level": 13
+          "slug": "aqua-jet"
         },
         {
+          "level": 17,
           "uuid": "Compendium.ptu.moves.Item.jAWzTcuVWv9j5jYE",
-          "slug": "double-hit",
-          "level": 17
+          "slug": "double-hit"
         },
         {
+          "level": 21,
           "uuid": "Compendium.ptu.moves.Item.5P4ZKecoBzCd8vh5",
-          "slug": "dive",
-          "level": 21
+          "slug": "dive"
         },
         {
+          "level": 25,
           "uuid": "Compendium.ptu.moves.Item.TgmOU36SFwwlN5di",
-          "slug": "charm",
-          "level": 25
+          "slug": "charm"
         },
         {
+          "level": 29,
           "uuid": "Compendium.ptu.moves.Item.VsFJounIwoSOu8g4",
-          "slug": "acrobatics",
-          "level": 29
+          "slug": "acrobatics"
         },
         {
+          "level": 34,
           "uuid": "Compendium.ptu.moves.Item.UhvLxdWq2D7gOvMr",
-          "slug": "encore",
-          "level": 34
+          "slug": "encore"
         },
         {
+          "level": 39,
           "uuid": "Compendium.ptu.moves.Item.O8DwOJXqhrynxm8B",
-          "slug": "aqua-tail",
-          "level": 39
+          "slug": "aqua-tail"
         },
         {
+          "level": 44,
           "uuid": "Compendium.ptu.moves.Item.uaOHYAjzdGsqGBJ0",
-          "slug": "mist",
-          "level": 44
+          "slug": "mist"
         },
         {
+          "level": 50,
           "uuid": "Compendium.ptu.moves.Item.oRu76Vk1LfE93pky",
-          "slug": "hydro-pump",
-          "level": 50
+          "slug": "hydro-pump"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.IzqVQrIRTAEsGuaH",
-          "slug": "playful-storm",
-          "level": 54
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.XNmCCgclMJf0MP6C",
-          "slug": "wave-crash",
-          "level": 58
+          "level": 58,
+          "uuid": "Item.bHiHzGiAKoa5dlsF",
+          "slug": "wave-crash"
         }
       ],
       "machine": [
@@ -546,6 +549,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Water",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -561,11 +568,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699458904021,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!bsN60L9oZQ3DM31I"
 }

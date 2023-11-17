@@ -1,0 +1,52 @@
+{
+  "folder": "TajSsOGM13zplgIH",
+  "name": "Hardened Heart",
+  "type": "feat",
+  "_id": "QQ20giUrp7WlLiaI",
+  "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Target: Your Shadow Pokémon\nEffect: The target enters Hyper Mode immediately. While this feature is bound, the target gains +5 Bonus to initiative, cannot end Hyper Mode with a successful save, and receives +2 Damage Reduction for each Injury it has.\n\n",
+    "snippet": "",
+    "rules": [],
+    "slug": "hardened-heart",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Tyrant",
+      "Expert Intimidate"
+    ],
+    "frequency": "Bind 2 AP - Standard Action",
+    "tags": "[+HP or Speed][Order][Strategem]",
+    "notes": "",
+    "free": false,
+    "class": "Tyrant"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "uL2FnS0CT2UJ45hb": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1697680717341,
+    "modifiedTime": 1700226845749,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!QQ20giUrp7WlLiaI"
+}

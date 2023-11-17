@@ -1,0 +1,58 @@
+{
+  "name": "Hex Maniac [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: Choose Cursed Body or Omen. You gain the Chosen Ability.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.hp.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Novice Occult Education"
+    ],
+    "frequency": "Static",
+    "tags": "[Class] [+HP]",
+    "notes": "",
+    "free": false,
+    "class": "Hex Maniac",
+    "name": "Hex Maniac [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "type": "feat",
+  "folder": "ulRWJYcSU9YnBGQX",
+  "_id": "HZXJEBlDf682Sl4R",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789272124,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!HZXJEBlDf682Sl4R"
+}

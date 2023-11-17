@@ -1,0 +1,77 @@
+{
+  "name": "Stalwart Bastion [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: While this Feature is Bound, you and all adjacent allies gain Physical Damage Reduction equal to your Combat Rank and Special Damage Reduction equal to your Focus Rank.\nBonus: You gain the Shield Proficiency General Feature, even if you don't meet the prerequisites.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "adjustName": true,
+        "flag": "stalwartbastion",
+        "choices": [
+          {
+            "value": "def",
+            "label": "Defense"
+          },
+          {
+            "value": "spdef",
+            "label": "Special Defense"
+          }
+        ]
+      },
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.{item|flags.ptu.rulesSelections.stalwartbastion}.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "stalwart-bastion-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Fortress"
+    ],
+    "frequency": "Bind 2 AP – Standard Action",
+    "tags": "[+Defense or Special Defense]",
+    "notes": "",
+    "free": false,
+    "class": "Fortress",
+    "name": "Stalwart Bastion [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "ZBJ3dlw6Ug7RBgxO",
+  "_id": "tP0cjxPsUP71FxlX",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1700090652060,
+    "lastModifiedBy": "xUomATnixLnn15IR"
+  },
+  "_key": "!items!tP0cjxPsUP71FxlX"
+}

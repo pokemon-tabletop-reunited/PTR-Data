@@ -1,0 +1,51 @@
+{
+  "folder": "TajSsOGM13zplgIH",
+  "name": "Silver Bullet",
+  "type": "feat",
+  "_id": "olAH0skYARcNK6nu",
+  "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Target: Your non-Shadow Pokémon with at least 1 Tutor Points\nEffect: The target loses 1 Tutor Point and learns either Heartful Embrace or Empathy Pulse.",
+    "snippet": "",
+    "rules": [],
+    "slug": "silver-bullet",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Redeemer"
+    ],
+    "frequency": "At-Will - Extended Action",
+    "tags": "[+Defense or Special Defense]",
+    "notes": "",
+    "free": false,
+    "class": "Redeemer"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1697669033530,
+    "modifiedTime": 1700226845749,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!olAH0skYARcNK6nu"
+}

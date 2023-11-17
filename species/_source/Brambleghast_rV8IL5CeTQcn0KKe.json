@@ -23,12 +23,12 @@
     "abilities": {
       "basic": [
         {
-          "slug": "windveiled",
-          "uuid": "Compendium.ptu.abilities.Item.rTE4w4C9aplyiUtk"
-        },
-        {
           "slug": "cursed-body",
           "uuid": "Compendium.ptu.abilities.Item.eq6HX7kv2a2Fo51U"
+        },
+        {
+          "slug": "wind-rider",
+          "uuid": "Compendium.ptu.abilities.Item.C6aRawvdZOrPx2xK"
         }
       ],
       "advanced": [
@@ -50,19 +50,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.uqAeveft71GTMPHN",
         "slug": "bramblin",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 20,
         "uuid": "Compendium.ptu.species.Item.rV8IL5CeTQcn0KKe",
         "slug": "brambleghast",
-        "level": 20,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -115,98 +119,99 @@
     "moves": {
       "level": [
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.Y5R5mbVcGq6fwoFj",
-          "slug": "defense-curl",
-          "level": 1
+          "slug": "defense-curl"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.VtkRa05N67wR9RcG",
-          "slug": "astonish",
-          "level": 1
+          "slug": "astonish"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.nqmef2okZR7dY0eY",
-          "slug": "branch-poke",
-          "level": 1
+          "slug": "branch-poke"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.nzhedIfXpsZWaEx9",
-          "slug": "rollout",
-          "level": 1
+          "slug": "rollout"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.zEIiTcsXhPE8v0fF",
-          "slug": "absorb",
-          "level": 5
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.dvjTasujiwEqMKec",
-          "slug": "rapid-spin",
-          "level": 9
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.ptP5LFYkJR4BJHIu",
-          "slug": "bullet-seed",
-          "level": 13
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.trOCAfV84TLLTKk0",
-          "slug": "infestation",
-          "level": 16
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.Ma0Yb0fLx263208P",
-          "slug": "disable",
-          "level": 18
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.XbAfCHhH425Ldmj4",
-          "slug": "hex",
-          "level": 21
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.9PVNtUbbwbRhZimy",
-          "slug": "mega-drain",
-          "level": 25
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.tx9xc6m8Z6bTqBcv",
-          "slug": "forests-curse",
-          "level": 29
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.66w0oT6I80QzeAMr",
-          "slug": "shadow-ball",
-          "level": 32
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.reV2bQhOVinmpzub",
-          "slug": "phantom-force",
-          "level": 35
-        },
-        {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.mGvVlposKAYCa15m",
           "slug": "giga-drain"
         },
         {
+          "level": 5,
+          "uuid": "Compendium.ptu.moves.Item.zEIiTcsXhPE8v0fF",
+          "slug": "absorb"
+        },
+        {
+          "level": 9,
+          "uuid": "Compendium.ptu.moves.Item.dvjTasujiwEqMKec",
+          "slug": "rapid-spin"
+        },
+        {
+          "level": 13,
+          "uuid": "Compendium.ptu.moves.Item.ptP5LFYkJR4BJHIu",
+          "slug": "bullet-seed"
+        },
+        {
+          "level": 16,
+          "uuid": "Compendium.ptu.moves.Item.trOCAfV84TLLTKk0",
+          "slug": "infestation"
+        },
+        {
+          "level": 18,
+          "uuid": "Compendium.ptu.moves.Item.Ma0Yb0fLx263208P",
+          "slug": "disable"
+        },
+        {
+          "level": 21,
+          "uuid": "Compendium.ptu.moves.Item.XbAfCHhH425Ldmj4",
+          "slug": "hex"
+        },
+        {
+          "level": 25,
+          "uuid": "Compendium.ptu.moves.Item.9PVNtUbbwbRhZimy",
+          "slug": "mega-drain"
+        },
+        {
+          "level": 29,
+          "uuid": "Compendium.ptu.moves.Item.tx9xc6m8Z6bTqBcv",
+          "slug": "forests-curse"
+        },
+        {
+          "level": 32,
+          "uuid": "Compendium.ptu.moves.Item.66w0oT6I80QzeAMr",
+          "slug": "shadow-ball"
+        },
+        {
+          "level": 35,
+          "uuid": "Compendium.ptu.moves.Item.reV2bQhOVinmpzub",
+          "slug": "phantom-force"
+        },
+        {
+          "level": 40,
           "uuid": "Compendium.ptu.moves.Item.5A0ZjnRjOwj1i7n8",
-          "slug": "curse",
-          "level": 40
+          "slug": "curse"
         },
         {
+          "level": 42,
           "uuid": "Compendium.ptu.moves.Item.3MnTvYAhInGZLcdW",
-          "slug": "horn-leech",
-          "level": 42
+          "slug": "horn-leech"
         },
         {
+          "level": 45,
           "uuid": "Compendium.ptu.moves.Item.6tEUiL2W8EBFwkEU",
-          "slug": "power-whip",
-          "level": 45
+          "slug": "power-whip"
         },
         {
+          "level": 50,
           "uuid": "Compendium.ptu.moves.Item.DO1UIDQKBBUxPcTj",
-          "slug": "pain-split",
-          "level": 50
+          "slug": "pain-split"
         }
       ],
       "machine": [
@@ -522,6 +527,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Grass",
+      "1": "Ghost",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -537,11 +547,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699451403228,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!rV8IL5CeTQcn0KKe"
 }

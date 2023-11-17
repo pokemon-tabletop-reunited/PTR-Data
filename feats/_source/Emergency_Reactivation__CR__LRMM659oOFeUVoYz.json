@@ -1,0 +1,49 @@
+{
+  "name": "Emergency Reactivation [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Trigger: You or your Pokémon suffer Augmentation Shock\nEffect: The triggering user does not suffer Augmentation Shock and their Augmentations are not disabled. This Feature may affect a target only once per Scene.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Upgrader",
+      "Adept Technology Education"
+    ],
+    "frequency": "1 AP – Free Action",
+    "tags": "",
+    "notes": "",
+    "free": false,
+    "class": "Researcher",
+    "name": "Emergency Reactivation [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "wKlgeANt8BWt41q1",
+  "_id": "LRMM659oOFeUVoYz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789311072,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!LRMM659oOFeUVoYz"
+}

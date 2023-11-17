@@ -7,7 +7,7 @@
     "effect": "The user gains a +5 Bonus to all Damage Rolls against targets with an initiative lower than itself that have not yet acted that round (having Ante’d up your Action via an Interrupt or similar on a previous round does not count as having acted that round).",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "vanguard",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -23,18 +23,22 @@
   "_id": "LfQUndsQtprQgocE",
   "effects": [],
   "folder": null,
-  "sort": 18500000,
+  "sort": 19900000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692968394056,
-    "modifiedTime": 1696691577981,
+    "modifiedTime": 1699721156284,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!LfQUndsQtprQgocE"

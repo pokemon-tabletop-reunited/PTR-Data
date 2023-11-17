@@ -41,29 +41,38 @@
         {
           "slug": "serpents-mark",
           "uuid": "Compendium.ptu.abilities.Item.OKYrWl8UkVEub2n6"
+        },
+        {
+          "slug": "serpents-mark",
+          "uuid": "Compendium.ptu.abilities.Item.OKYrWl8UkVEub2n6"
         }
       ],
       "high": [
         {
-          "slug": ""
+          "slug": "serpents-mark",
+          "uuid": "Compendium.ptu.abilities.Item.OKYrWl8UkVEub2n6"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.8YJiFSF29HFr69QU",
         "slug": "ekans",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 20,
         "uuid": "Compendium.ptu.species.Item.KHUUSzLEi6WfYaZW",
         "slug": "arbok",
-        "level": 20,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -492,6 +501,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Poison",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -507,11 +520,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.3",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1700215222123,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!KHUUSzLEi6WfYaZW"
 }

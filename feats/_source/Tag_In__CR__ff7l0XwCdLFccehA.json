@@ -1,0 +1,59 @@
+{
+  "name": "Tag In [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Trigger: You recall a Pokémon\nEffect: The next Pokémon you send out is treated as if the recalled Pokémon had used Baton Pass on it.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Round Trip",
+      "Expert Acrobatics or Guile"
+    ],
+    "frequency": "1 AP - Free Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false,
+    "class": "Juggler",
+    "name": "Tag In [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "u4sxjQFNU2N2zGmv",
+  "_id": "ff7l0XwCdLFccehA",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789278761,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!ff7l0XwCdLFccehA"
+}

@@ -1,7 +1,11 @@
 {
   "name": "Sky Fall",
   "type": "move",
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "effects": [],
   "_id": "45lX3Vb7f1M9YFVv",
   "system": {
@@ -9,7 +13,7 @@
     "effect": "Sky Fall Paralyzes the target on 15+.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "sky-fall",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -47,14 +51,14 @@
   },
   "img": "/systems/ptu/css/images/types2/FlyingIC_Icon.png",
   "folder": "CKiVqPT3ASdUeaM0",
-  "sort": 0,
+  "sort": 500000,
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.3",
     "coreVersion": "11.311",
     "createdTime": 1689606523899,
-    "modifiedTime": 1696691601608,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1700096469640,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!45lX3Vb7f1M9YFVv"
 }

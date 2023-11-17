@@ -4,7 +4,7 @@
   "img": "/systems/ptu/css/images/icons/ability_icon.png",
   "system": {
     "origin": "",
-    "effect": "The Field becomes Electrified, as if affected by the Move Electric Terrain, for one full round.\\nBonus: While this Pokemon is in Electric Terrain, it's Sp. Atk. is +2 CS.",
+    "effect": "Connection - Electric Terrain. The user uses Electric Terrain as Swift Action, ignoring Frequency and as if the Move was on its Movelist.\nBonus: While this Pokemon is in Electric Terrain, the user gains +2 Special Attack Combat Stages.",
     "snippet": "",
     "rules": [],
     "slug": "hadron-engine",
@@ -16,14 +16,14 @@
     "source": {
       "value": "PTR Compendiums"
     },
-    "frequency": "Scene x3 - Swift Action",
+    "frequency": "Scene - Swift Action",
     "tier": "",
     "automation": []
   },
   "_id": "meLoW2lriB0Pz6fo",
   "effects": [],
   "folder": null,
-  "sort": 40900000,
+  "sort": 42300000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
@@ -35,11 +35,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692968394056,
-    "modifiedTime": 1697510493613,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1699721156284,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!meLoW2lriB0Pz6fo"
 }

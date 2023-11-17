@@ -1,0 +1,74 @@
+{
+  "name": "Dark Soul [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: Choose Shadow Tag or Super Luck. You gain the chosen Ability.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "adjustName": true,
+        "flag": "darksoul",
+        "choices": [
+          {
+            "value": "atk",
+            "label": "Attack"
+          },
+          {
+            "value": "spatk",
+            "label": "Special Attack"
+          }
+        ]
+      },
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.{item|flags.ptu.rulesSelections.darksoul}.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Shade Caller",
+      "Master Guile or Stealth"
+    ],
+    "frequency": "Static",
+    "tags": "[+Attack or Special Attack]",
+    "notes": "",
+    "free": false,
+    "class": "Shade Caller",
+    "name": "Dark Soul [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "QemdecWjlqq4mCe7",
+  "_id": "PVHu6OoaUDKPQ9Hv",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1700090652060,
+    "lastModifiedBy": "xUomATnixLnn15IR"
+  },
+  "_key": "!items!PVHu6OoaUDKPQ9Hv"
+}

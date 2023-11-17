@@ -1,0 +1,51 @@
+{
+  "folder": "TajSsOGM13zplgIH",
+  "name": "Unrivaled Battle Power Rank 3",
+  "type": "feat",
+  "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Effect: You learn 3 Moves chosen from the list below, marked with the Rank of this Feature you are gaining or lower.\nRank 3: Shadow Half, Shadow Sky, Shadow Storm, Shadow Crush, Shadow End",
+    "snippet": "",
+    "rules": [],
+    "slug": "unrivaled-battle-power-rank-3",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Expert Intimidation or Combat"
+    ],
+    "frequency": "Static",
+    "tags": "[Ranked 3][+Attack or Special Attack]",
+    "notes": "",
+    "free": false,
+    "class": "Heartless"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
+    "createdTime": 1697669940555,
+    "modifiedTime": 1700228881211,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "bpS6M9S47y1SbNg4",
+  "_key": "!items!bpS6M9S47y1SbNg4"
+}

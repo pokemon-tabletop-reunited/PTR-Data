@@ -29,32 +29,34 @@
       ],
       "advanced": [
         {
-          "slug": "diamond-cut",
-          "uuid": "Compendium.ptu.abilities.Item.ma5jrdnjUlgFQCoa"
+          "slug": "filter",
+          "uuid": "Compendium.ptu.abilities.Item.0cDFgfGwpSj2uYE2"
+        },
+        {
+          "slug": "inner-focus",
+          "uuid": "Compendium.ptu.abilities.Item.uM561WHxXwcdrMWl"
         },
         {
           "slug": "strong-jaw",
           "uuid": "Compendium.ptu.abilities.Item.Gqv7K8YBzWY2e5Zt"
-        },
-        {
-          "slug": "sand-stream",
-          "uuid": "Compendium.ptu.abilities.Item.dNI65Cb2U5AKUhmu"
         }
       ],
       "high": [
         {
-          "slug": "conditioning",
-          "uuid": "Compendium.ptu.abilities.Item.iT5CV1hCPp88Wt1o"
+          "slug": "sand-stream",
+          "uuid": "Compendium.ptu.abilities.Item.dNI65Cb2U5AKUhmu"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.HIGIYWGwKr2cDalJ",
         "slug": "iron-thorns",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -97,14 +99,6 @@
           "uuid": "Compendium.ptu.capabilities.Item.GQ53gx8t1mfqgydo"
         },
         {
-          "slug": "blindsense",
-          "uuid": "Compendium.ptu.capabilities.Item.vA7vGdfceeDzi5sc"
-        },
-        {
-          "slug": "darkvision",
-          "uuid": "Compendium.ptu.capabilities.Item.zzJWpOj40dLelBm5"
-        },
-        {
           "slug": "glow",
           "uuid": "Compendium.ptu.capabilities.Item.v4OOr4KlIO0DKw5r"
         },
@@ -125,104 +119,104 @@
     "moves": {
       "level": [
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.ciR11ELc7B3ulJzA",
-          "slug": "rock-throw",
-          "level": 1
+          "slug": "rock-throw"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.K7oM1QaqyugwZzbF",
-          "slug": "iron-defense",
-          "level": 1
+          "slug": "iron-defense"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.FWdcrF4mgW14bOCZ",
-          "slug": "thunder-fang",
-          "level": 1
+          "slug": "thunder-fang"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.j1LhD3Z6maB3Y9pi",
-          "slug": "electric-terrain",
-          "level": 1
+          "slug": "electric-terrain"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.TD9T2QEalKGQZicp",
-          "slug": "screech",
-          "level": 4
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.gL2f9k8qYJ1OwiZO",
-          "slug": "sand-tomb",
-          "level": 8
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.TYpDbl848dGUkN3q",
-          "slug": "rock-tomb",
-          "level": 12
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.QMaJ91E3XBatUcV9",
-          "slug": "bite",
-          "level": 16
-        },
-        {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.QDqTpQ7sJUvhU2v4",
-          "slug": "fire-fang",
-          "level": 18
+          "slug": "fire-fang"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.uGIN68MryZnqXa5w",
-          "slug": "ice-fang",
-          "level": 18
+          "slug": "ice-fang"
         },
         {
+          "level": 4,
+          "uuid": "Compendium.ptu.moves.Item.TD9T2QEalKGQZicp",
+          "slug": "screech"
+        },
+        {
+          "level": 8,
+          "uuid": "Compendium.ptu.moves.Item.gL2f9k8qYJ1OwiZO",
+          "slug": "sand-tomb"
+        },
+        {
+          "level": 12,
+          "uuid": "Compendium.ptu.moves.Item.TYpDbl848dGUkN3q",
+          "slug": "rock-tomb"
+        },
+        {
+          "level": 16,
+          "uuid": "Compendium.ptu.moves.Item.QMaJ91E3XBatUcV9",
+          "slug": "bite"
+        },
+        {
+          "level": 20,
           "uuid": "Compendium.ptu.moves.Item.qRvLgOrsmdXEsBsU",
-          "slug": "charge",
-          "level": 20
+          "slug": "charge"
         },
         {
+          "level": 24,
           "uuid": "Compendium.ptu.moves.Item.XC3ObpOOy8mGk8s8",
-          "slug": "sandstorm",
-          "level": 24
+          "slug": "sandstorm"
         },
         {
+          "level": 28,
           "uuid": "Compendium.ptu.moves.Item.zQDRgnFwCOuGBf1r",
-          "slug": "pin-missile",
-          "level": 28
+          "slug": "pin-missile"
         },
         {
+          "level": 30,
           "uuid": "Compendium.ptu.moves.Item.XklsarNBfkknbU8O",
-          "slug": "stealth-rock",
-          "level": 30
+          "slug": "stealth-rock"
         },
         {
+          "level": 32,
           "uuid": "Compendium.ptu.moves.Item.idhhi7YJRDHnUUMR",
-          "slug": "wild-charge",
-          "level": 32
+          "slug": "wild-charge"
         },
         {
+          "level": 34,
           "uuid": "Compendium.ptu.moves.Item.FvTnYPJPje5PF7sJ",
-          "slug": "spiky-shield",
-          "level": 34
+          "slug": "spiky-shield"
         },
         {
+          "level": 36,
           "uuid": "Compendium.ptu.moves.Item.K67dXQdgED0HJTut",
-          "slug": "stone-edge",
-          "level": 36
+          "slug": "stone-edge"
         },
         {
+          "level": 40,
           "uuid": "Compendium.ptu.moves.Item.qQGrbuuO6EcG6b7c",
-          "slug": "earthquake",
-          "level": 40
+          "slug": "earthquake"
         },
         {
+          "level": 48,
           "uuid": "Compendium.ptu.moves.Item.AvGyaqir7qFsEzxk",
-          "slug": "rock-slide",
-          "level": 48
+          "slug": "rock-slide"
         },
         {
+          "level": 52,
           "uuid": "Compendium.ptu.moves.Item.WGOQso4iji1XKrdK",
-          "slug": "giga-impact",
-          "level": 52
+          "slug": "giga-impact"
         }
       ],
       "machine": [
@@ -566,7 +560,7 @@
         "type": "body"
       },
       "athletics": {
-        "value": 4,
+        "value": 5,
         "modifier": 2,
         "type": "body"
       },
@@ -612,7 +606,7 @@
       },
       "focus": {
         "value": 3,
-        "modifier": 2,
+        "modifier": 3,
         "type": "spirit"
       },
       "guile": {
@@ -636,7 +630,7 @@
         "type": "mind"
       },
       "stealth": {
-        "value": 3,
+        "value": 2,
         "modifier": 0,
         "type": "body"
       },
@@ -650,6 +644,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Rock",
+      "1": "Electric",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -665,11 +664,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699491939559,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!HIGIYWGwKr2cDalJ"
 }

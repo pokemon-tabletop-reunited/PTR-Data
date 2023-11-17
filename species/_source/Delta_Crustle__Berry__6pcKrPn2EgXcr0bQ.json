@@ -57,15 +57,17 @@
     },
     "evolutions": [
       {
-        "slug": "delta-berry",
+        "slug": "delta-dwebble-berry",
+        "uuid": "Compendium.ptu.species.Item.ejnbwKD59u8Xn5Ym",
         "level": 1,
         "other": {
           "restrictions": []
         }
       },
       {
-        "slug": "delta-berry",
-        "level": 1,
+        "slug": "delta-crustle-berry",
+        "uuid": "Compendium.ptu.species.Item.6pcKrPn2EgXcr0bQ",
+        "level": 30,
         "other": {
           "restrictions": []
         }
@@ -97,19 +99,18 @@
       "swim": 1,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 1,
+      "longJump": 1,
       "power": 5,
       "naturewalk": [
         "Forest"
       ],
       "other": [
         {
-          "slug": "planter-berries"
+          "slug": "planter-berries",
+          "uuid": "Compendium.ptu.capabilities.Item.YqHfwitF4fSQwn1s"
         }
-      ],
-      "jumpH": 1,
-      "jumpL": 1
+      ]
     },
     "moves": {
       "level": [
@@ -486,10 +487,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!6pcKrPn2EgXcr0bQ"

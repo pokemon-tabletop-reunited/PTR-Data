@@ -1,0 +1,50 @@
+{
+  "folder": "NlEB7XJnDWyGbZnQ",
+  "name": "Showmanship",
+  "type": "feat",
+  "_id": "lDtSR5iXYDXsCCcT",
+  "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
+  "system": {
+    "origin": "[Contest Playtest]",
+    "effect": "For each rank in this feat, the trainer learns 3 Contest Moves from the Contest Move List. These moves can then be taught to a Pokemon at the cost of 1 Tutor Point per move.",
+    "snippet": "",
+    "rules": [],
+    "slug": "showmanship",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Novice Charm or Command or Guile or Intimidate or Intuition"
+    ],
+    "frequency": "Static",
+    "tags": "Ranked 4",
+    "notes": "",
+    "free": false,
+    "class": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": false
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.0.release-candidate.1",
+    "coreVersion": "11.311",
+    "createdTime": 1699268574088,
+    "modifiedTime": 1699268657258,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!lDtSR5iXYDXsCCcT"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Play Them Like a Fiddle [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Trigger: You hit with Leer, Confide, Baby-Doll Eyes, or\na Provocateur Move\nEffect: The Move gains additional effects as listed below. You may use the effects of each Move only once per Scene.\n- Baby-Doll Eyes: The target becomes Infatuated with you for the rest of the Scene, and cannot be cured of this condition by any means, including Taking a Breather. This does not bypass immunity to Infatuation.\n- Confide: You choose a Move the target has used this Scene. That Move becomes Disabled for the target. Leer: The target’s Defense is lowered an additional Combat Stage, and their Special Defense is lowered by 2 Combat Stages.\n- Sweet Kiss: While the target is Confused, they may not perform Disengage Maneuvers, and whenever they hit themselves in Confusion, they provoke an Attack of Opportunity from all of their adjacent foes.\n- Taunt: For 1 full round, the next damaging attack to hit the target of Taunt deals +3d8+10 Damage.\n- Torment: The target’s Ability is disabled until the end of the encounter. If the target has more than one Ability, you choose one of them to disable.\n- Lovely Kiss: The target’s Evasion is lowered by 2 for the rest of the Scene.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Powerful Motivator",
+      "a Provocateur Skill at Expert Rank."
+    ],
+    "frequency": "Scene x3 – Swift Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false,
+    "class": "Provocateur",
+    "name": "Play Them Like a Fiddle [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "mS7fmuAZxBzZ1J7B",
+  "_id": "T3kK6YbIm2JThpux",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789309103,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!T3kK6YbIm2JThpux"
+}

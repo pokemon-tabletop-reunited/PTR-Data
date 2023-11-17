@@ -1,0 +1,43 @@
+{
+  "folder": "GxOcRgTdTg3A1OUR",
+  "name": "Basic Ranged Attacks (Malevolent)",
+  "type": "pokeedge",
+  "_id": "OHk1FG9TCQp8il2o",
+  "img": "systems/ptu/static/css/images/icons/poke_edge_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Struggle Attacks modified by Malevolent may now be made at a range of up to 6 meters.",
+    "snippet": "",
+    "rules": [],
+    "slug": "basic-ranged-attacks-malevolent",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Malevolent"
+    ],
+    "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1697670983803,
+    "modifiedTime": 1700226921654,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!OHk1FG9TCQp8il2o"
+}

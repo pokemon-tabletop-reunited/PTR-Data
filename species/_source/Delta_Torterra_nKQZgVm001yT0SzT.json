@@ -106,8 +106,8 @@
       "swim": 6,
       "levitate": 0,
       "burrow": 2,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 1,
+      "longJump": 1,
       "power": 7,
       "naturewalk": [],
       "other": [
@@ -120,11 +120,10 @@
           "uuid": "Compendium.ptu.capabilities.Item.rFLLjjCXn07D0qqp"
         },
         {
-          "slug": "mountable"
+          "slug": "mountable",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         }
-      ],
-      "jumpH": 1,
-      "jumpL": 1
+      ]
     },
     "moves": {
       "level": [
@@ -529,10 +528,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!nKQZgVm001yT0SzT"

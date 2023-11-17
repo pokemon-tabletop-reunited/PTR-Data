@@ -1,0 +1,59 @@
+{
+  "name": "Herald of Pride [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: When wielding Melee Weapons, you may use Command or Intimidate instead of Combat to determine\nthe Damage Base of your Struggle Attacks, to resist Disarm Maneuvers, and to qualify for a Weapon’s Moves. Your Weapon Attacks ignore Damage Reduction up to your Command or Intimidate Rank.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.atk.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Elemental Connection (Dragon)",
+      "Novice Command or Novice Intimidate"
+    ],
+    "frequency": "Static",
+    "tags": "[Class] [+Attack] [Weapon]",
+    "notes": "",
+    "free": false,
+    "class": "Herald of Pride",
+    "name": "Herald of Pride [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "type": "feat",
+  "folder": "lZqjsR5bQoFGXnFK",
+  "_id": "e4vK07oR7q91N1dC",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789271185,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!e4vK07oR7q91N1dC"
+}

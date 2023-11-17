@@ -1,0 +1,65 @@
+{
+  "name": "Shadow Fire",
+  "type": "move",
+  "img": "systems/ptu/static/css/images/types2/ShadowIC_Icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Shadow Fire Burns its target on 19+.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "type": "Shadow",
+    "category": "Special",
+    "damageBase": "9",
+    "frequency": "EOT",
+    "ac": "2",
+    "range": "4, 1 Target",
+    "contestType": "",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "effects": [],
+  "folder": "O2vsL1IY0u9DOERr",
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    },
+    "core": {
+      "sourceId": "Compendium.forge-vtt-shared-compendiums-shadow-moves.item-1-shadopw-moves.Item.mD4W7P6gSPrq6tjv"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1694870526357,
+    "modifiedTime": 1700226888777,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "JzWsfd5BLhosTavI",
+  "ownership": {
+    "default": 0,
+    "WhlnHKyCf2rNFP17": 3,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "sort": 171875,
+  "_key": "!items!JzWsfd5BLhosTavI"
+}

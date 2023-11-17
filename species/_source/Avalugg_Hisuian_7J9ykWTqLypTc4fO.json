@@ -57,19 +57,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.Dbpdr4XzmNQTaybH",
         "slug": "bergmite",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.7J9ykWTqLypTc4fO",
         "slug": "avalugg-hisuian",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -116,61 +120,87 @@
           "uuid": "Compendium.ptu.capabilities.Item.O0LMo4PRnTk008ds"
         },
         {
-          "slug": "mountable-2"
+          "slug": "mountable-2",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         }
       ]
     },
     "moves": {
       "level": [
         {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.AvGyaqir7qFsEzxk",
-          "slug": "rock-slide",
-          "level": "Evo"
+          "slug": "rock-slide"
         },
         {
+          "level": 5,
           "uuid": "Compendium.ptu.moves.Item.l4TzdGjtPZHycF5b",
-          "slug": "powder-snow",
-          "level": 5
+          "slug": "powder-snow"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.SUduMarNZi7p42fG",
-          "slug": "ice-shard",
-          "level": 9
+          "level": 10,
+          "uuid": "Compendium.ptu.moves.Item.OI05tbugvNMMOqmc",
+          "slug": "icy-wind"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.QMaJ91E3XBatUcV9",
-          "slug": "bite",
-          "level": 15
+          "level": 15,
+          "uuid": "Compendium.ptu.moves.Item.rmDcfFfrdq5PgwF9",
+          "slug": "take-down"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.K7oM1QaqyugwZzbF",
-          "slug": "iron-defense",
-          "level": 21
+          "level": 20,
+          "uuid": "Compendium.ptu.moves.Item.0T6UdFilX3WHVIyg",
+          "slug": "sharpen"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.5uY1ltFWijN07CKe",
-          "slug": "crunch",
-          "level": 29
+          "level": 22,
+          "uuid": "Compendium.ptu.moves.Item.5A0ZjnRjOwj1i7n8",
+          "slug": "curse"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.VZYf1f6nsz9bp7vw",
-          "slug": "earth-power",
-          "level": 29
+          "level": 26,
+          "uuid": "Compendium.ptu.moves.Item.uGIN68MryZnqXa5w",
+          "slug": "ice-fang"
         },
         {
+          "level": 30,
+          "uuid": "Compendium.ptu.moves.Item.ex74EBhS1mJeFGhG",
+          "slug": "ice-ball"
+        },
+        {
+          "level": 35,
+          "uuid": "Compendium.ptu.moves.Item.dvjTasujiwEqMKec",
+          "slug": "rapid-spin"
+        },
+        {
+          "level": 42,
+          "uuid": "Compendium.ptu.moves.Item.UcNQuMWgO1s8OxcP",
+          "slug": "avalanche"
+        },
+        {
+          "level": 46,
           "uuid": "Compendium.ptu.moves.Item.PLqSrKOBY11DlwE2",
-          "slug": "mountain-gale",
-          "level": 37
+          "slug": "mountain-gale"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.OaCO337ux9X8zQ2s",
-          "slug": "blizzard",
-          "level": 37
+          "level": 51,
+          "uuid": "Compendium.ptu.moves.Item.qJILuzcs4SDgylfD",
+          "slug": "recover"
         },
         {
+          "level": 56,
           "uuid": "Compendium.ptu.moves.Item.7Gi57ZcOWjyjhU0A",
-          "slug": "double-edge",
-          "level": 47
+          "slug": "double-edge"
+        },
+        {
+          "level": 60,
+          "uuid": "Compendium.ptu.moves.Item.USJx4QKRdpmiRYKv",
+          "slug": "skull-bash"
+        },
+        {
+          "level": 65,
+          "uuid": "Compendium.ptu.moves.Item.5uY1ltFWijN07CKe",
+          "slug": "crunch"
         }
       ],
       "machine": [],
@@ -345,6 +375,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Ice",
+      "1": "Rock",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -360,11 +395,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699646810905,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!7J9ykWTqLypTc4fO"
 }

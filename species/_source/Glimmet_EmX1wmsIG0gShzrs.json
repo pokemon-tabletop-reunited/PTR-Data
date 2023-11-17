@@ -23,6 +23,10 @@
     "abilities": {
       "basic": [
         {
+          "slug": "levitate",
+          "uuid": "Compendium.ptu.abilities.Item.WsNZitOqUrhu9k78"
+        },
+        {
           "slug": "toxic-debris",
           "uuid": "Compendium.ptu.abilities.Item.lJJvHhKSS1g2CfYl"
         }
@@ -31,10 +35,6 @@
         {
           "slug": "corrosion",
           "uuid": "Compendium.ptu.abilities.Item.rdCRiZiEx4ZI1zlE"
-        },
-        {
-          "slug": "levitate",
-          "uuid": "Compendium.ptu.abilities.Item.WsNZitOqUrhu9k78"
         },
         {
           "slug": "crippling-poison",
@@ -50,19 +50,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.EmX1wmsIG0gShzrs",
         "slug": "glimmet",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.zAHrb8P2gjaqglo7",
         "slug": "glimmora",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -94,12 +98,8 @@
       "highJump": 0,
       "longJump": 1,
       "power": 1,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
-        {
-          "slug": "bioluminescence",
-          "uuid": "Compendium.ptu.capabilities.Item.h9ZPDMNiqGTivW2f"
-        },
         {
           "slug": "dead-silent",
           "uuid": "Compendium.ptu.capabilities.Item.27U7ZioOgyZFzxDx"
@@ -111,6 +111,10 @@
         {
           "slug": "underdog",
           "uuid": "Compendium.ptu.capabilities.Item.AIbbzjfDZix8YFkU"
+        },
+        {
+          "slug": "glow",
+          "uuid": "Compendium.ptu.capabilities.Item.v4OOr4KlIO0DKw5r"
         }
       ]
     },
@@ -567,6 +571,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Poison",
+      "1": "Rock",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -582,11 +591,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699464946500,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!EmX1wmsIG0gShzrs"
 }

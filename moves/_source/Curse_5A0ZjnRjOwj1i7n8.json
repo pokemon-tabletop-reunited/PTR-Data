@@ -8,7 +8,7 @@
     "effect": "If the user is not a Ghost Type, Curse has a Frequency of EOT, and when used the user lowers its Speed by 1 Combat Stage, but raises its Attack and Defense by 1 Combat Stage each. If the user is a Ghost Type, Curse has a Frequency of Scene, and when used the user loses 1/3rd of their Max Hit Points and a target Pokémon or Trainer within 8 meters of the user becomes Cursed. This Hit Point loss cannot be prevented in any way.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "curse",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -44,13 +44,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1697513698449,
+    "modifiedTime": 1699645102114,
     "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!5A0ZjnRjOwj1i7n8"

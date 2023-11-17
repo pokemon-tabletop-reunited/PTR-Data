@@ -1,0 +1,65 @@
+{
+  "name": "Shadow Hold",
+  "type": "move",
+  "img": "systems/ptu/static/css/images/types2/ShadowIC_Icon.png",
+  "system": {
+    "origin": "",
+    "effect": "The Target is Trapped and Slowed for the remainder of the encounter.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "type": "Shadow",
+    "category": "Status",
+    "damageBase": "",
+    "frequency": "EOT",
+    "ac": "4",
+    "range": "6, 1 Target",
+    "contestType": "",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "effects": [],
+  "folder": "O2vsL1IY0u9DOERr",
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    },
+    "core": {
+      "sourceId": "Compendium.forge-vtt-shared-compendiums-shadow-moves.item-1-shadopw-moves.Item.EKl0GdQygnvXDMbc"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1694871047137,
+    "modifiedTime": 1700226888777,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "CcEasi84O10SiFBr",
+  "ownership": {
+    "default": 0,
+    "WhlnHKyCf2rNFP17": 3,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "sort": 550000,
+  "_key": "!items!CcEasi84O10SiFBr"
+}

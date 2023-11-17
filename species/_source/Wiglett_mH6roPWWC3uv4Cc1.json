@@ -32,12 +32,12 @@
       ],
       "advanced": [
         {
-          "slug": "sturdy",
-          "uuid": "Compendium.ptu.abilities.Item.AaDXWUAMnhxLbyn3"
+          "slug": "sand-veil",
+          "uuid": "Compendium.ptu.abilities.Item.Ewr9Oh7DddMKcWLZ"
         },
         {
-          "slug": "combo-striker",
-          "uuid": "Compendium.ptu.abilities.Item.1mMBmncywOEakBEy"
+          "slug": "sturdy",
+          "uuid": "Compendium.ptu.abilities.Item.AaDXWUAMnhxLbyn3"
         }
       ],
       "high": [
@@ -49,19 +49,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.mH6roPWWC3uv4Cc1",
         "slug": "wiglett",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.P9nP3xDM0tqeqiSD",
         "slug": "wugtrio",
-        "level": 26,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -94,7 +98,7 @@
       "highJump": 1,
       "longJump": 1,
       "power": 3,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "gilled",
@@ -490,6 +494,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Water",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -505,11 +513,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699457568792,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!mH6roPWWC3uv4Cc1"
 }

@@ -57,24 +57,25 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.IrLii48xLtziUMOx",
         "slug": "delta-litwick",
-        "level": 1,
         "other": {
           "restrictions": []
         }
       },
       {
-        "slug": "delta-lampent",
         "level": 20,
+        "uuid": "Compendium.ptu.species.Item.mZNpIqL7zLd8Cwjk",
+        "slug": "delta-lampent",
         "other": {
           "restrictions": []
         }
       },
       {
+        "level": 35,
         "uuid": "Compendium.ptu.species.Item.hYhaPQa7jv97gfip",
         "slug": "delta-chandelure",
-        "level": 1,
         "other": {
           "restrictions": []
         }
@@ -106,10 +107,10 @@
       "swim": 2,
       "levitate": 5,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 1,
+      "longJump": 1,
       "power": 1,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "firestarter",
@@ -131,9 +132,7 @@
           "slug": "underdog",
           "uuid": "Compendium.ptu.capabilities.Item.DyqTXmu2rrRFni89"
         }
-      ],
-      "jumpH": 1,
-      "jumpL": 1
+      ]
     },
     "moves": {
       "level": [
@@ -488,6 +487,11 @@
     "rules": [],
     "source": {
       "value": "Fangame Insurgence Dex"
+    },
+    "type": {
+      "0": "Fairy",
+      "1": "Fire",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -503,10 +507,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237832355,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!IrLii48xLtziUMOx"

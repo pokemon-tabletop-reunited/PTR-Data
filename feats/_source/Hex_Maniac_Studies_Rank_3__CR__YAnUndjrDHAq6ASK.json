@@ -1,0 +1,63 @@
+{
+  "name": "Hex Maniac Studies Rank 3 [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: Learn two Hex Maniac Moves. You may choose any Move marked with the Hex Maniac Studies Rank you are taking or lower.\nRank 1: Confuse Ray, Curse, Hypnosis, Spite, Will-O-Wisp,\nRank 3: Hex, Dream Eater\nNote: When using Curse, you must use Curse as if you were a Ghost-Type Pokémon.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.hp.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "hex-maniac-studies-rank-3-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Hex Maniac",
+      "Expert Occult Education"
+    ],
+    "frequency": "Static",
+    "tags": "[+HP] [Ranked 3]",
+    "notes": "",
+    "free": false,
+    "class": "Hex Maniac",
+    "name": "Hex Maniac Studies [CR]Rank 1 [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "ulRWJYcSU9YnBGQX",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1700228783754,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "YAnUndjrDHAq6ASK",
+  "_key": "!items!YAnUndjrDHAq6ASK"
+}

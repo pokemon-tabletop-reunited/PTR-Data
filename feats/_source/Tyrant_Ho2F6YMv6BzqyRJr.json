@@ -1,0 +1,54 @@
+{
+  "folder": "TajSsOGM13zplgIH",
+  "name": "Tyrant",
+  "type": "feat",
+  "_id": "Ho2F6YMv6BzqyRJr",
+  "img": "systems/ptu/static/css/images/icons/class_feat_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Effect: Any Shadow Pokémon you own can level up from experience, evolve and spend Tutor Points. All other conditions and restrictions still apply as normal.\n\nNote: this Feature is exclusive from Redeemer, you cannot select Tyrant if you already have Redeemer.",
+    "snippet": "",
+    "rules": [],
+    "slug": "tyrant",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Adept Intimidation",
+      "Novice Command",
+      "does not have Redeemer",
+      "GM Permission"
+    ],
+    "frequency": "Static",
+    "tags": "[Class][+HP or Speed]",
+    "notes": "",
+    "free": false,
+    "class": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "uL2FnS0CT2UJ45hb": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1697680486198,
+    "modifiedTime": 1700226845749,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!Ho2F6YMv6BzqyRJr"
+}

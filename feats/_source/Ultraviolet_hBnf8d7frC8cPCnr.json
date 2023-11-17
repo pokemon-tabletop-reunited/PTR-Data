@@ -1,0 +1,53 @@
+{
+  "folder": "TajSsOGM13zplgIH",
+  "name": "Ultraviolet",
+  "type": "feat",
+  "_id": "hBnf8d7frC8cPCnr",
+  "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Target: Your Pokémon under the effects of Hyper Mode\nEffect: Your Pokémon under the effects of Hyper Mode gains the following effects until the condition ends:\n\n»» Critical Range and Effect Range increase of Hyper Mode now affects all Physical and Special Damaging Moves the Pokémon knows, not just Shadow Type Moves.\n»» Deals 8 Bonus Damage on super effective Damaging Attacks.\n\nA Pokémon can be targeted by Ultraviolet once per day.",
+    "snippet": "",
+    "rules": [],
+    "slug": "ultraviolet",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Hardened Heart",
+      "This Machine",
+      "Master Intimidate or Master Command"
+    ],
+    "frequency": "At Will - Standard Action",
+    "tags": "[+HP or Speed][Order]",
+    "notes": "",
+    "free": false,
+    "class": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "uL2FnS0CT2UJ45hb": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
+    "createdTime": 1697680964563,
+    "modifiedTime": 1700229377687,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!hBnf8d7frC8cPCnr"
+}

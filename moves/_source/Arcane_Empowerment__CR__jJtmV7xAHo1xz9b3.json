@@ -1,0 +1,61 @@
+{
+  "folder": "laXYP0SFSLCeWOcn",
+  "name": "Arcane Empowerment [CR]",
+  "type": "move",
+  "_id": "jJtmV7xAHo1xz9b3",
+  "img": "systems/ptu/static/css/images/types2/NormalIC_Icon.png",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: The user gains +1 Special Attack, and increase the user's Accuracy by +1.\nLimitation: None\n",
+    "snippet": "",
+    "rules": [],
+    "slug": "arcane-empowerment-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "type": "Normal",
+    "category": "Status",
+    "damageBase": "",
+    "frequency": "EOT",
+    "ac": "",
+    "range": "Self",
+    "contestType": "",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "uL2FnS0CT2UJ45hb": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699701779793,
+    "modifiedTime": 1699789439157,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!jJtmV7xAHo1xz9b3"
+}

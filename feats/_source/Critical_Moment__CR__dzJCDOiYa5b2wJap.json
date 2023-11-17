@@ -1,0 +1,53 @@
+{
+  "name": "Critical Moment [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Target: Your Pokemon with [Training] Features applied\nEffect: The bonuses from your Pokemon’s [Training] are tripled until the end of your next turn.",
+    "snippet": "",
+    "rules": [],
+    "slug": "critical-moment-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Elite Trainer",
+      "Adept Command"
+    ],
+    "frequency": "Scene x2 – Standard Action",
+    "tags": "[Orders]",
+    "notes": "",
+    "free": false,
+    "class": "Ace Trainer",
+    "name": "Critical Moment [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "18LvSoVBoPmxJnOL",
+  "_id": "dzJCDOiYa5b2wJap",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789227261,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!dzJCDOiYa5b2wJap"
+}

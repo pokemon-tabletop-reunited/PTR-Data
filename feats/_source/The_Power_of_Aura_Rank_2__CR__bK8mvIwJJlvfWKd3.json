@@ -1,0 +1,76 @@
+{
+  "folder": "p9yRJ8QVFrEtl0mK",
+  "name": "The Power of Aura Rank 2 [CR]",
+  "type": "feat",
+  "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: Each rank, chose one of Scrappy, Aura Storm, and Mega Launcher. You gain the chosen Ability.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "adjustName": true,
+        "flag": "auraguardian",
+        "choices": [
+          {
+            "value": "atk",
+            "label": "Attack"
+          },
+          {
+            "value": "spatk",
+            "label": "Special Attack"
+          }
+        ]
+      },
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "add",
+        "path": "system.modifiers.baseStats.{item|flags.ptu.rulesSelections.auraguardian}.mod",
+        "phase": "applyAEs",
+        "value": 1
+      }
+    ],
+    "slug": "the-power-of-aura-rank-2-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Aura Guardian",
+      "Expert Intuition"
+    ],
+    "frequency": "Static",
+    "tags": "[+Attack or Special Attack][Ranked 2]",
+    "notes": "",
+    "free": false,
+    "class": "Aura Guardian"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
+    "createdTime": 1700000012643,
+    "modifiedTime": 1700229272462,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "bK8mvIwJJlvfWKd3",
+  "_key": "!items!bK8mvIwJJlvfWKd3"
+}

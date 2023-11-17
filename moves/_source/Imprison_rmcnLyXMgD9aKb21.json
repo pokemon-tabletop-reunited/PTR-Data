@@ -8,7 +8,7 @@
     "effect": "The target is Locked for the rest of the Scene. A Locked target may not use any Moves the user knows. Imprison cannot miss.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "imprison",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -44,13 +44,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1697513698449,
+    "modifiedTime": 1699647101695,
     "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!rmcnLyXMgD9aKb21"

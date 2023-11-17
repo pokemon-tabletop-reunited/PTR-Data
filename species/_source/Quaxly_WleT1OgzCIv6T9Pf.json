@@ -32,12 +32,12 @@
       ],
       "advanced": [
         {
-          "slug": "moxie",
-          "uuid": "Compendium.ptu.abilities.Item.LKlXsNHcGUO0NVKe"
+          "slug": "aqua-boost",
+          "uuid": "Compendium.ptu.abilities.Item.HcmWYYnYlUSLKxpv"
         },
         {
-          "slug": "reckless",
-          "uuid": "Compendium.ptu.abilities.Item.rCJBNK2adHEKBYfG"
+          "slug": "moxie",
+          "uuid": "Compendium.ptu.abilities.Item.LKlXsNHcGUO0NVKe"
         }
       ],
       "high": [
@@ -59,7 +59,7 @@
         }
       },
       {
-        "level": 16,
+        "level": 15,
         "uuid": "Compendium.ptu.species.Item.uredGuKpwMZPvKSX",
         "slug": "quaxwell",
         "other": {
@@ -69,7 +69,7 @@
         }
       },
       {
-        "level": 36,
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.K5fuZQCKkVy4jHPc",
         "slug": "quaquaval",
         "other": {
@@ -202,7 +202,7 @@
         },
         {
           "level": 50,
-          "uuid": "Compendium.ptu.moves.Item.XNmCCgclMJf0MP6C",
+          "uuid": "Item.bHiHzGiAKoa5dlsF",
           "slug": "wave-crash"
         }
       ],
@@ -547,11 +547,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696903286244,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1699437004962,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!WleT1OgzCIv6T9Pf"
 }

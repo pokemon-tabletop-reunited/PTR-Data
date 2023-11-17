@@ -1,0 +1,63 @@
+{
+  "name": "PK Combat [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: You may also wield weapons and items with your Telekinesis capability, as long as you are able to lift them. This means you may use Items and Melee Weapons that normally require you to be adjacent to your target at a range limited only by your Telekinesis. When wielding Weapons with your Telekinesis, you qualify for Moves using Focus instead of Combat and may add your Special Attack instead of your Attack Stat. The Attacks remain Physical, however.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spatk.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "pk-combat-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Telekinetic",
+      "Adept Focus"
+    ],
+    "frequency": "Bind 1 AP – Standard Action",
+    "tags": "[+Special Attack] [Weapon]",
+    "notes": "",
+    "free": false,
+    "class": "Telekinetic",
+    "name": "PK Combat [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "k9NMANuFU8PfFW1I",
+  "_id": "BF6fmfFhEzqXRYCA",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789331691,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!BF6fmfFhEzqXRYCA"
+}

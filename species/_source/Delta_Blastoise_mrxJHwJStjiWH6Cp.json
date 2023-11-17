@@ -44,7 +44,8 @@
           "uuid": "Compendium.ptu.abilities.Item.MVaRU62VzWbErVbY"
         },
         {
-          "slug": "shadow-dance"
+          "slug": "shadow-dance",
+          "uuid": "Compendium.ptu.abilities.Item.Bvrv4SX3gmS10ghW"
         }
       ],
       "high": [
@@ -105,8 +106,8 @@
       "swim": 8,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 1,
+      "longJump": 1,
       "power": 10,
       "naturewalk": [
         "Urban"
@@ -117,15 +118,14 @@
           "uuid": "Compendium.ptu.capabilities.Item.KW3vbaoowF1el58D"
         },
         {
-          "slug": "mountable-1"
+          "slug": "mountable-1",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         },
         {
           "slug": "stealth",
           "uuid": "Compendium.ptu.capabilities.Item.v1ksvxUrvIhkV7aD"
         }
-      ],
-      "jumpH": 1,
-      "jumpL": 1
+      ]
     },
     "moves": {
       "level": [
@@ -627,10 +627,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!mrxJHwJStjiWH6Cp"

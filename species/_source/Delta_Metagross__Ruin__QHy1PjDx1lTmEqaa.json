@@ -57,22 +57,25 @@
     },
     "evolutions": [
       {
-        "slug": "delta-ruin",
+        "slug": "delta-beldum-ruin",
+        "uuid": "Compendium.ptu.species.Item.Rf3t9YFCQd2GfQLh",
         "level": 1,
         "other": {
           "restrictions": []
         }
       },
       {
-        "slug": "delta-ruin",
-        "level": 1,
+        "slug": "delta-metang-ruin",
+        "uuid": "Compendium.ptu.species.Item.V3LyQ9m2wa8WQHDy",
+        "level": 20,
         "other": {
           "restrictions": []
         }
       },
       {
-        "slug": "delta-ruin",
-        "level": 1,
+        "slug": "delta-metagross-ruin",
+        "uuid": "Compendium.ptu.species.Item.QHy1PjDx1lTmEqaa",
+        "level": 40,
         "other": {
           "restrictions": []
         }
@@ -104,19 +107,18 @@
       "swim": 3,
       "levitate": 6,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 1,
+      "longJump": 1,
       "power": 14,
       "naturewalk": [
         "Forest"
       ],
       "other": [
         {
-          "slug": "mountable-2"
+          "slug": "mountable-2",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         }
-      ],
-      "jumpH": 1,
-      "jumpL": 1
+      ]
     },
     "moves": {
       "level": [
@@ -187,6 +189,7 @@
         },
         {
           "slug": "crystal-rush",
+          "uuid": "Compendium.ptu.moves.Item.praDjXaVyxB8GWrp",
           "level": 65
         }
       ],
@@ -538,10 +541,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!QHy1PjDx1lTmEqaa"

@@ -33,28 +33,30 @@
           "uuid": "Compendium.ptu.abilities.Item.74sIRYCg4JdBkxVx"
         },
         {
-          "slug": "sturdy",
-          "uuid": "Compendium.ptu.abilities.Item.AaDXWUAMnhxLbyn3"
+          "slug": "cave-crasher",
+          "uuid": "Compendium.ptu.abilities.Item.KbDf9PYW1vwrlAg4"
         },
         {
-          "slug": "punk-rock",
-          "uuid": "Compendium.ptu.abilities.Item.tGUi7mWP6heTEOoW"
+          "slug": "sturdy",
+          "uuid": "Compendium.ptu.abilities.Item.AaDXWUAMnhxLbyn3"
         }
       ],
       "high": [
         {
-          "slug": "war-machine",
-          "uuid": "Compendium.ptu.abilities.Item.ZxdRdQDrdFAbSkLz"
+          "slug": "adaptability",
+          "uuid": "Compendium.ptu.abilities.Item.MBgvgf5LwdH5UGib"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.O62IvinXuQHapsjH",
         "slug": "sandy-shocks",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -87,12 +89,8 @@
       "highJump": 1,
       "longJump": 1,
       "power": 7,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
-        {
-          "slug": "dead-silent",
-          "uuid": "Compendium.ptu.capabilities.Item.27U7ZioOgyZFzxDx"
-        },
         {
           "slug": "magnetic",
           "uuid": "Compendium.ptu.capabilities.Item.O00WEaCeKskK8vY4"
@@ -556,6 +554,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Electric",
+      "1": "Ground",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -571,11 +574,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699482336517,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!O62IvinXuQHapsjH"
 }

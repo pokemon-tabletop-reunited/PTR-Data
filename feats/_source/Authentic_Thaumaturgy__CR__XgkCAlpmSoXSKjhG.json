@@ -1,0 +1,63 @@
+{
+  "name": "Authentic Thaumaturgy [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Trigger: You use a Special Move\nEffect: You may apply a Rank 2 Power Manipulation to your attack.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spatk.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "authentic-thaumaturgy-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Arcanist",
+      "Expert Occult Education"
+    ],
+    "frequency": "Scene x2 – Swift Action",
+    "tags": "[+Special Attack]",
+    "notes": "",
+    "free": false,
+    "class": "Arcanist",
+    "name": "Authentic Thaumaturgy [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "ArQ1VkEqvLAXjU2D",
+  "_id": "XgkCAlpmSoXSKjhG",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789235210,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!XgkCAlpmSoXSKjhG"
+}

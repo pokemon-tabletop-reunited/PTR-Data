@@ -1,0 +1,65 @@
+{
+  "name": "Shadow End",
+  "type": "move",
+  "img": "systems/ptu/static/css/images/types2/ShadowIC_Icon.png",
+  "system": {
+    "origin": "",
+    "effect": "If Shadow End hits, the user deals damage and then loses 1/2 of their current Hit Points. This Hit Point loss cannot be prevented or reduced in any way.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "type": "Shadow",
+    "category": "Physical",
+    "damageBase": "12",
+    "frequency": "Scene x2",
+    "ac": "6",
+    "range": "Melee, 1 Target, Dash, Smite, Reckless",
+    "contestType": "",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "effects": [],
+  "folder": "O2vsL1IY0u9DOERr",
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    },
+    "core": {
+      "sourceId": "Compendium.forge-vtt-shared-compendiums-shadow-moves.item-1-shadopw-moves.Item.tOl3RaeOGRo0ELma"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1694870349919,
+    "modifiedTime": 1700226888777,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "jNuZznhN6F3R36Me",
+  "ownership": {
+    "default": 0,
+    "WhlnHKyCf2rNFP17": 3,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "sort": 412500,
+  "_key": "!items!jNuZznhN6F3R36Me"
+}

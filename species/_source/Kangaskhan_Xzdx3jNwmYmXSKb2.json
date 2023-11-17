@@ -56,11 +56,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.Xzdx3jNwmYmXSKb2",
         "slug": "kangaskhan",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -93,13 +95,8 @@
       "highJump": 3,
       "longJump": 3,
       "power": 7,
-      "naturewalk": [],
-      "other": [
-        {
-          "slug": "marsupial",
-          "uuid": "Compendium.ptu.capabilities.Item.vke2JxH32NgHosSP"
-        }
-      ]
+      "naturewalk": "",
+      "other": []
     },
     "moves": {
       "level": [
@@ -617,6 +614,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Normal",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -632,11 +633,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699488011275,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!Xzdx3jNwmYmXSKb2"
 }

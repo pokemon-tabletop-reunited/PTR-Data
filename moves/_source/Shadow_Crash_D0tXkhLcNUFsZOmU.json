@@ -1,0 +1,65 @@
+{
+  "name": "Shadow Crash",
+  "type": "move",
+  "img": "systems/ptu/static/css/images/types2/ShadowIC_Icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Shadow Crash may be used as a Free Action at the end of a Sprint Maneuver taken as a Standard Action, as long as the user Shifted at least 3 meters in a straight line towards the target. When used this way, Shadow Crash gains the Smite keyword.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "type": "Shadow",
+    "category": "Physical",
+    "damageBase": "8",
+    "frequency": "EOT",
+    "ac": "5",
+    "range": "Melee, 1 Target, Dash",
+    "contestType": "",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "effects": [],
+  "folder": "O2vsL1IY0u9DOERr",
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    },
+    "core": {
+      "sourceId": "Compendium.forge-vtt-shared-compendiums-shadow-moves.item-1-shadopw-moves.Item.lVrXcksZ0WZLYVKN"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1694872136642,
+    "modifiedTime": 1700226888777,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "D0tXkhLcNUFsZOmU",
+  "ownership": {
+    "default": 0,
+    "WhlnHKyCf2rNFP17": 3,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "sort": 168750,
+  "_key": "!items!D0tXkhLcNUFsZOmU"
+}

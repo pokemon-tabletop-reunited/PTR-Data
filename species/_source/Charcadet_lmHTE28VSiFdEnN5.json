@@ -32,47 +32,49 @@
       ],
       "advanced": [
         {
-          "slug": "blaze-boost",
-          "uuid": "Compendium.ptu.abilities.Item.htJlklZ7oog0fZfx"
+          "slug": "flame-body",
+          "uuid": "Compendium.ptu.abilities.Item.vF0vjHMDikFAthFY"
         },
         {
-          "slug": "weak-armor",
-          "uuid": "Compendium.ptu.abilities.Item.Biwc7xoa5cREFAE1"
+          "slug": "blaze-boost",
+          "uuid": "Compendium.ptu.abilities.Item.htJlklZ7oog0fZfx"
         }
       ],
       "high": [
         {
-          "slug": "no-guard",
-          "uuid": "Compendium.ptu.abilities.Item.muGRkhx0nnHRteP7"
+          "slug": "weak-armor",
+          "uuid": "Compendium.ptu.abilities.Item.Biwc7xoa5cREFAE1"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.lmHTE28VSiFdEnN5",
         "slug": "charcadet",
-        "level": 1,
-        "other": {
-          "restrictions": []
-        }
-      },
-      {
-        "uuid": "Compendium.ptu.species.Item.970fYf3VFG3FKQei",
-        "slug": "armarouge",
-        "level": 25,
         "other": {
           "restrictions": [
-            "Auspicious Armor"
+            ""
           ]
         }
       },
       {
-        "uuid": "Compendium.ptu.species.Item.CHDhHUH2jBBxpvZ3",
-        "slug": "ceruledge",
-        "level": 25,
+        "level": 30,
+        "uuid": "Compendium.ptu.species.Item.970fYf3VFG3FKQei",
+        "slug": "armarouge",
         "other": {
           "restrictions": [
-            "Malicious Armor"
+            ""
+          ]
+        }
+      },
+      {
+        "level": 30,
+        "uuid": "Compendium.ptu.species.Item.CHDhHUH2jBBxpvZ3",
+        "slug": "ceruledge",
+        "other": {
+          "restrictions": [
+            ""
           ]
         }
       }
@@ -94,9 +96,8 @@
       "Nullivore"
     ],
     "habitats": [
-      "Forest",
-      "Desert",
-      "Mountain"
+      "Volcanos",
+      "Ruins"
     ],
     "capabilities": {
       "overland": 4,
@@ -107,16 +108,8 @@
       "highJump": 1,
       "longJump": 1,
       "power": 3,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
-        {
-          "slug": "darkvision",
-          "uuid": "Compendium.ptu.capabilities.Item.zzJWpOj40dLelBm5"
-        },
-        {
-          "slug": "dead-silent",
-          "uuid": "Compendium.ptu.capabilities.Item.27U7ZioOgyZFzxDx"
-        },
         {
           "slug": "heater",
           "uuid": "Compendium.ptu.capabilities.Item.9DQsEtRIDXdw7ICw"
@@ -128,6 +121,10 @@
         {
           "slug": "underdog",
           "uuid": "Compendium.ptu.capabilities.Item.AIbbzjfDZix8YFkU"
+        },
+        {
+          "slug": "glow",
+          "uuid": "Compendium.ptu.capabilities.Item.v4OOr4KlIO0DKw5r"
         }
       ]
     },
@@ -606,6 +603,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Fire",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -621,11 +622,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699647462785,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!lmHTE28VSiFdEnN5"
 }

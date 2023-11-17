@@ -49,17 +49,19 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.zWfoTsuhhGe3KEVU",
         "slug": "cetoddle",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.y3MF07pc4j6frXSj",
         "slug": "cetitan",
-        "level": 25,
         "other": {
           "restrictions": [
             "Ice Stone"
@@ -105,7 +107,8 @@
           "uuid": "Compendium.ptu.capabilities.Item.4RJFVQvf9t70YWI3"
         },
         {
-          "slug": "mountable-1"
+          "slug": "mountable-1",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         }
       ]
     },
@@ -553,6 +556,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Ice",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -568,11 +575,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699468019100,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!y3MF07pc4j6frXSj"
 }

@@ -1,0 +1,48 @@
+{
+  "name": "Poké Ball Mods [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: You may craft any of the Poké Ball Modifications listed below.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Jailbreaker"
+    ],
+    "frequency": "Static",
+    "tags": "",
+    "notes": "",
+    "free": false,
+    "class": "Researcher",
+    "name": "Poké Ball Mods [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "wKlgeANt8BWt41q1",
+  "_id": "hRrOZUUem3uGm8hq",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789311072,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!hRrOZUUem3uGm8hq"
+}

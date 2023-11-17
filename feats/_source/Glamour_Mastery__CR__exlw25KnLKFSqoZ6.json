@@ -1,0 +1,62 @@
+{
+  "name": "Glamour Mastery [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: Choose two of Magic Guard, Magic Bounce, and Multiscale. You gain the Chosen Abilities.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spatk.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "glamour-mastery-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "4 Glamour Weaver Features"
+    ],
+    "frequency": "Static",
+    "tags": "[+Special Attack]",
+    "notes": "",
+    "free": false,
+    "class": "Glamour Weaver",
+    "name": "Glamour Mastery [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "V3fgrSa9KTcwmesO",
+  "_id": "exlw25KnLKFSqoZ6",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1700216215670,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
+  },
+  "_key": "!items!exlw25KnLKFSqoZ6"
+}

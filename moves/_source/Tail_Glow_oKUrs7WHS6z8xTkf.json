@@ -7,16 +7,7 @@
     "origin": "",
     "effect": "Raise the user's Special Attack by 3 Combat Stages.",
     "snippet": "",
-    "rules": [
-      {
-        "key": "ActiveEffectLike",
-        "predicate": [],
-        "mode": "add",
-        "path": "system.stats.spatk.stage.mod",
-        "phase": "applyAEs",
-        "value": 3
-      }
-    ],
+    "rules": [],
     "slug": "tail-glow",
     "schema": {
       "version": 0.11,
@@ -60,11 +51,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.0.release-candidate.1",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1698110657215,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1699268488917,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!oKUrs7WHS6z8xTkf"
 }

@@ -2,10 +2,19 @@
   "name": "Resilience",
   "system": {
     "origin": "",
-    "effect": "Trigger - Your Pokémon is hit by a Critical Hit or gains a Status Affliction (or both)\nEffect: Your Pokémon does not gain a Status Affliction, and the triggering attack does damage as if it was not a Critical Hit. Resilience may only be used once per target per Scene.",
+    "effect": "Trigger: Your Pokémon is hit by a Critical Hit or gains a Status Affliction (or both)\nEffect: Your Pokémon does not gain a Status Affliction, and the triggering attack does damage as if it was not a Critical Hit. Resilience may only be triggered once per Pokémon per Scene.",
     "snippet": "",
-    "rules": [],
-    "slug": null,
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "add",
+        "path": "system.modifiers.baseStats.hp.mod",
+        "phase": "applyAEs",
+        "value": 1
+      }
+    ],
+    "slug": "resilience",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -18,8 +27,8 @@
       "Awareness",
       "Expert Athletics or Focus"
     ],
-    "frequency": "2 AP - Free Action",
-    "tags": "-",
+    "frequency": "Scene x2 - Free Action",
+    "tags": "[+HP]",
     "notes": "",
     "free": false,
     "class": "Enduring Soul",
@@ -39,16 +48,17 @@
       "sourceId": "Compendium.ptu.feats.qWgF7FC438WEeDgB"
     },
     "ptu": {
-      "prereqBackup": "Awareness, Expert Athletics or Focus"
+      "prereqBackup": "Awareness, Expert Athletics or Focus",
+      "showInTokenPanel": true
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1683368081740,
-    "modifiedTime": 1696691567516,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699657698518,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "folder": null,
   "sort": 47600000,

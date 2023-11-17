@@ -91,13 +91,14 @@
       "swim": 3,
       "levitate": 7,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 2,
+      "longJump": 2,
       "power": 8,
       "naturewalk": "",
       "other": [
         {
-          "slug": "teleporter-4"
+          "slug": "teleporter-4",
+          "uuid": "Compendium.ptu.capabilities.Item.ylhIk5i0Xtp65asH"
         },
         {
           "slug": "glow",
@@ -111,9 +112,7 @@
           "slug": "unstable-fission",
           "uuid": "Compendium.ptu.capabilities.Item.gR2QhdTSR916Vcax"
         }
-      ],
-      "jumpH": 2,
-      "jumpL": 2
+      ]
     },
     "moves": {
       "level": [
@@ -523,11 +522,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1697514480122,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1700237629026,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!ekf74hB5UsWm93U0"
 }

@@ -50,7 +50,8 @@
       ],
       "high": [
         {
-          "slug": "absolution"
+          "slug": "absolution",
+          "uuid": "Compendium.ptu.abilities.Item.1V9ahlPaCoyAC1zQ"
         }
       ]
     },
@@ -97,13 +98,14 @@
       "swim": 3,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 1,
+      "longJump": 1,
       "power": 3,
       "naturewalk": [],
       "other": [
         {
-          "slug": "teleporter-4"
+          "slug": "teleporter-4",
+          "uuid": "Compendium.ptu.capabilities.Item.ylhIk5i0Xtp65asH"
         },
         {
           "slug": "chilled",
@@ -113,9 +115,7 @@
           "slug": "darkvision",
           "uuid": "Compendium.ptu.capabilities.Item.KW3vbaoowF1el58D"
         }
-      ],
-      "jumpH": 1,
-      "jumpL": 1
+      ]
     },
     "moves": {
       "level": [
@@ -180,6 +180,7 @@
           "level": 60
         },
         {
+          "uuid": "Compendium.ptu.moves.Item.91mEAdUJ7mTg3DbM",
           "slug": "spatial-rend",
           "level": 60
         }
@@ -425,7 +426,8 @@
           "slug": "snore"
         },
         {
-          "slug": "spatial-rend-n"
+          "slug": "spatial-rend-n",
+          "uuid": "Compendium.ptu.moves.Item.91mEAdUJ7mTg3DbM"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.qZEeTMIoNoWWBLPh",
@@ -444,7 +446,8 @@
           "slug": "wonder-room"
         },
         {
-          "slug": "zen-headbutt-delta-armor"
+          "slug": "zen-headbutt",
+          "uuid": "Compendium.ptu.moves.Item.bbYMsmddMV20isEx"
         }
       ]
     },
@@ -554,10 +557,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!1CIpW6Pgcpesbd81"

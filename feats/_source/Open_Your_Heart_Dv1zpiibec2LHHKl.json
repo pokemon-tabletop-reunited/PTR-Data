@@ -1,0 +1,52 @@
+{
+  "folder": "TajSsOGM13zplgIH",
+  "name": "Open Your Heart",
+  "type": "feat",
+  "_id": "Dv1zpiibec2LHHKl",
+  "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Cost: $1000 in materials\nTarget: Your Shadow Pokémon at Friendship Level 3\nEffect: You perform a Purification Ceremony on the target, granting Purification rewards. A Pokémon that undergoes Purification with this Feature gains 1 Friendship. At Master Charm, the Target changes to \"Your Shadow Pokémon at Friendship Level 2\".\nBonus: Your Purified Pokémon receive a total of X Points to distribute amongst their Base Stats, where X is equal to your Charm Skill Rank, and they gain 2 Tutor Points.",
+    "snippet": "",
+    "rules": [],
+    "slug": "open-your-heart",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Redeemer",
+      "Adept Charm"
+    ],
+    "frequency": "At-Will - Extended Action",
+    "tags": "[+Defense or Special Defense]",
+    "notes": "",
+    "free": false,
+    "class": "Redeemer"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1697669327791,
+    "modifiedTime": 1700226845749,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!Dv1zpiibec2LHHKl"
+}

@@ -57,19 +57,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.ZSgvfNUhJ3uvu6sx",
         "slug": "growlithe-hisuian",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.FIHT1bEa6vZuuW3L",
         "slug": "arcanine-hisuian",
-        "level": 25,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -120,44 +124,114 @@
     "moves": {
       "level": [
         {
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.sjIa2jm1cHAiMwmY",
+          "slug": "roar"
+        },
+        {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.50Vtl0u0jPevwY4K",
-          "slug": "tackle",
-          "level": 1
+          "slug": "tackle"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.IH2EuCM09nw3lOgQ",
-          "slug": "ember",
-          "level": 5
-        },
-        {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.QMaJ91E3XBatUcV9",
-          "slug": "bite",
-          "level": 9
+          "slug": "bite"
         },
         {
+          "level": 6,
+          "uuid": "Compendium.ptu.moves.Item.ciR11ELc7B3ulJzA",
+          "slug": "rock-throw"
+        },
+        {
+          "level": 6,
+          "uuid": "Compendium.ptu.moves.Item.IH2EuCM09nw3lOgQ",
+          "slug": "ember"
+        },
+        {
+          "level": 8,
+          "uuid": "Compendium.ptu.moves.Item.XQOEuOenSzYNz4eO",
+          "slug": "leer"
+        },
+        {
+          "level": 10,
+          "uuid": "Compendium.ptu.moves.Item.ODezCmXA3509k122",
+          "slug": "odor-sleuth"
+        },
+        {
+          "level": 12,
+          "uuid": "Compendium.ptu.moves.Item.xhZNseKRJl3pPnTZ",
+          "slug": "helping-hand"
+        },
+        {
+          "level": 17,
+          "uuid": "Compendium.ptu.moves.Item.cDe2PIlHkOV2msto",
+          "slug": "flame-wheel"
+        },
+        {
+          "level": 17,
+          "uuid": "Compendium.ptu.moves.Item.YG7EABDKQsFjDi8E",
+          "slug": "smack-down"
+        },
+        {
+          "level": 19,
+          "uuid": "Compendium.ptu.moves.Item.ekstCWqmGpJSMLj1",
+          "slug": "reversal"
+        },
+        {
+          "level": 21,
           "uuid": "Compendium.ptu.moves.Item.QDqTpQ7sJUvhU2v4",
-          "slug": "fire-fang",
-          "level": 15
+          "slug": "fire-fang"
         },
         {
+          "level": 23,
+          "uuid": "Compendium.ptu.moves.Item.rmDcfFfrdq5PgwF9",
+          "slug": "take-down"
+        },
+        {
+          "level": 28,
+          "uuid": "Compendium.ptu.moves.Item.JV9D80kHWzifgoYH",
+          "slug": "flame-burst"
+        },
+        {
+          "level": 30,
+          "uuid": "Compendium.ptu.moves.Item.MayZhpGvJzcbv8BT",
+          "slug": "play-rough"
+        },
+        {
+          "level": 32,
+          "uuid": "Compendium.ptu.moves.Item.P0VBbEO76A1KyQIM",
+          "slug": "retaliate"
+        },
+        {
+          "level": 34,
+          "uuid": "Compendium.ptu.moves.Item.m01FTVITfrqlu0Kn",
+          "slug": "flamethrower"
+        },
+        {
+          "level": 34,
           "uuid": "Compendium.ptu.moves.Item.AvGyaqir7qFsEzxk",
-          "slug": "rock-slide",
-          "level": 21
+          "slug": "rock-slide"
         },
         {
+          "level": 39,
           "uuid": "Compendium.ptu.moves.Item.5uY1ltFWijN07CKe",
-          "slug": "crunch",
-          "level": 29
+          "slug": "crunch"
         },
         {
+          "level": 41,
+          "uuid": "Compendium.ptu.moves.Item.K67dXQdgED0HJTut",
+          "slug": "stone-edge"
+        },
+        {
+          "level": 43,
           "uuid": "Compendium.ptu.moves.Item.7Gi57ZcOWjyjhU0A",
-          "slug": "double-edge",
-          "level": 37
+          "slug": "double-edge"
         },
         {
+          "level": 45,
           "uuid": "Compendium.ptu.moves.Item.VxO7N8CbFaW3889w",
-          "slug": "flare-blitz",
-          "level": 47
+          "slug": "flare-blitz"
         }
       ],
       "machine": [],
@@ -304,6 +378,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Fire",
+      "1": "Rock",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -319,11 +398,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699635209517,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!ZSgvfNUhJ3uvu6sx"
 }

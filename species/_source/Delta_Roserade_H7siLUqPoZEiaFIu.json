@@ -40,15 +40,18 @@
           "uuid": "Compendium.ptu.abilities.Item.KV17jkyz8R20107J"
         },
         {
-          "slug": "heliophobia"
+          "slug": "heliophobia",
+          "uuid": "Compendium.ptu.abilities.Item.Z0sHuCVJPHO1KTra"
         },
         {
-          "slug": "shadow-dance"
+          "slug": "shadow-dance",
+          "uuid": "Compendium.ptu.abilities.Item.Bvrv4SX3gmS10ghW"
         }
       ],
       "high": [
         {
-          "slug": "starglow"
+          "slug": "starlight",
+          "uuid": "Compendium.ptu.abilities.Item.2XQJ9ZKyx9faBLuy"
         }
       ]
     },
@@ -105,8 +108,8 @@
       "swim": 4,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 2,
+      "longJump": 3,
       "power": 4,
       "naturewalk": [],
       "other": [
@@ -114,9 +117,7 @@
           "slug": "darkvision",
           "uuid": "Compendium.ptu.capabilities.Item.KW3vbaoowF1el58D"
         }
-      ],
-      "jumpH": 2,
-      "jumpL": 3
+      ]
     },
     "moves": {
       "level": [
@@ -161,6 +162,7 @@
           "level": 28
         },
         {
+          "uuid": "Compendium.ptu.moves.Item.JimXmGi2lPrj7Zcc",
           "slug": "new-moon",
           "level": 31
         },
@@ -190,6 +192,7 @@
           "level": 46
         },
         {
+          "uuid": "eqsS14Ecq34nTPWc",
           "slug": "lunar-cannon",
           "level": 50
         },
@@ -615,10 +618,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!H7siLUqPoZEiaFIu"

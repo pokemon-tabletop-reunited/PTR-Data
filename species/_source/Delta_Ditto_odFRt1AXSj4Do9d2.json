@@ -33,7 +33,8 @@
           "uuid": "Compendium.ptu.abilities.Item.TGmYV5dPnpSRTKox"
         },
         {
-          "slug": "colour-change"
+          "slug": "color-change",
+          "uuid": "Compendium.ptu.abilities.Item.8LHjafD9K0e6b3Ol"
         }
       ],
       "advanced": [
@@ -93,8 +94,8 @@
       "swim": 4,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 1,
+      "longJump": 1,
       "power": 1,
       "naturewalk": "",
       "other": [
@@ -114,9 +115,7 @@
           "slug": "wallclimber",
           "uuid": "Compendium.ptu.capabilities.Item.Afqp4Bw6PemQdWi9"
         }
-      ],
-      "jumpH": 1,
-      "jumpL": 1
+      ]
     },
     "moves": {
       "level": [
@@ -127,12 +126,12 @@
         },
         {
           "level": 1,
-          "uuid": "",
+          "uuid": "Compendium.ptu.moves.Item.uOsyi8kPFhnNOI0B",
           "slug": "morph"
         },
         {
           "level": 1,
-          "uuid": "",
+          "uuid": "Compendium.ptu.moves.Item.wjtTPASd1lwZrmVX",
           "slug": "retrograde"
         }
       ],
@@ -246,10 +245,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!odFRt1AXSj4Do9d2"

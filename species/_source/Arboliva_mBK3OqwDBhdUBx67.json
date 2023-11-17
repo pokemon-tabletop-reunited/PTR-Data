@@ -127,109 +127,109 @@
     "moves": {
       "level": [
         {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.70ikTYAJeGbsEN9K",
-          "slug": "mirror-coat",
-          "level": "Evo"
+          "slug": "mirror-coat"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.nJhqaS0PzJJ7w1pS",
-          "slug": "sweet-scent",
-          "level": 1
+          "slug": "sweet-scent"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.DkpT2ACVxH31hpo0",
-          "slug": "safeguard",
-          "level": 1
+          "slug": "safeguard"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.50Vtl0u0jPevwY4K",
-          "slug": "tackle",
-          "level": 1
+          "slug": "tackle"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.zEIiTcsXhPE8v0fF",
-          "slug": "absorb",
-          "level": 1
+          "slug": "absorb"
         },
         {
+          "level": 3,
           "uuid": "Compendium.ptu.moves.Item.Jx4TeOVUk1DX8R45",
-          "slug": "leech-seed",
-          "level": 3
+          "slug": "leech-seed"
         },
         {
+          "level": 6,
           "uuid": "Compendium.ptu.moves.Item.Bcv2CeJg9qU1q0Cb",
-          "slug": "growth",
-          "level": 6
+          "slug": "growth"
         },
         {
+          "level": 8,
           "uuid": "Compendium.ptu.moves.Item.Gma6FE34GAXWT2Ib",
-          "slug": "stored-power",
-          "level": 8
+          "slug": "stored-power"
         },
         {
+          "level": 10,
           "uuid": "Compendium.ptu.moves.Item.rYLmG0KWrwYOCkmR",
-          "slug": "water-gun",
-          "level": 10
+          "slug": "water-gun"
         },
         {
+          "level": 13,
           "uuid": "Compendium.ptu.moves.Item.wYz4RubDs84tDVul",
-          "slug": "razor-leaf",
-          "level": 13
+          "slug": "razor-leaf"
         },
         {
+          "level": 16,
           "uuid": "Compendium.ptu.moves.Item.IWQXKwgnyM2CvDLV",
-          "slug": "flail",
-          "level": 16
+          "slug": "flail"
         },
         {
+          "level": 20,
           "uuid": "Compendium.ptu.moves.Item.9PVNtUbbwbRhZimy",
-          "slug": "mega-drain",
-          "level": 20
+          "slug": "mega-drain"
         },
         {
+          "level": 23,
           "uuid": "Compendium.ptu.moves.Item.dXNYCLtPWarypUld",
-          "slug": "grassy-terrain",
-          "level": 23
+          "slug": "grassy-terrain"
         },
         {
+          "level": 26,
           "uuid": "Compendium.ptu.moves.Item.MLCGs5okqB4BLJKc",
-          "slug": "swift",
-          "level": 26
+          "slug": "swift"
         },
         {
+          "level": 29,
           "uuid": "Compendium.ptu.moves.Item.9TnRLGZ6WIGqIeQ4",
-          "slug": "water-pulse",
-          "level": 29
+          "slug": "water-pulse"
         },
         {
+          "level": 32,
           "uuid": "Compendium.ptu.moves.Item.tqoJF3EAgEEv3l1l",
-          "slug": "dazzling-gleam",
-          "level": 32
+          "slug": "dazzling-gleam"
         },
         {
+          "level": 35,
           "uuid": "Compendium.ptu.moves.Item.GFnHPgKrM7fZd7LX",
-          "slug": "pollen-puff",
-          "level": 35
+          "slug": "pollen-puff"
         },
         {
+          "level": 39,
           "uuid": "Compendium.ptu.moves.Item.GPc4UqyAsng4fPup",
-          "slug": "energy-ball",
-          "level": 39
+          "slug": "energy-ball"
         },
         {
+          "level": 43,
           "uuid": "Compendium.ptu.moves.Item.AXMNhbrXPIaoOCyl",
-          "slug": "terrain-pulse",
-          "level": 43
+          "slug": "terrain-pulse"
         },
         {
+          "level": 47,
           "uuid": "Compendium.ptu.moves.Item.rlwUWKRTSzWzLfuk",
-          "slug": "petal-blizzard",
-          "level": 47
+          "slug": "petal-blizzard"
         },
         {
+          "level": 53,
           "uuid": "Compendium.ptu.moves.Item.JEquTUzbVYPNvhNp",
-          "slug": "petal-dance",
-          "level": 53
+          "slug": "petal-dance"
         }
       ],
       "machine": [
@@ -557,11 +557,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699438665871,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!mBK3OqwDBhdUBx67"
 }

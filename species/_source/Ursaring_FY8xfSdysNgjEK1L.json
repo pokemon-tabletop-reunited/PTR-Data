@@ -56,27 +56,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.MT1BfXHTobdNEkJK",
         "slug": "teddiursa",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 20,
         "uuid": "Compendium.ptu.species.Item.FY8xfSdysNgjEK1L",
         "slug": "ursaring",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.8dNSG4cMA6qGeg8l",
         "slug": "ursaluna",
-        "level": 35,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -124,54 +130,69 @@
     "moves": {
       "level": [
         {
+          "level": 8,
           "uuid": "Compendium.ptu.moves.Item.kBtOW4lhbgV3tltJ",
-          "slug": "fury-swipes",
-          "level": 8
+          "slug": "fury-swipes"
         },
         {
+          "level": 15,
           "uuid": "Compendium.ptu.moves.Item.16Ij0HJODJxOy5j9",
-          "slug": "feint-attack",
-          "level": 15
+          "slug": "feint-attack"
         },
         {
+          "level": 22,
           "uuid": "Compendium.ptu.moves.Item.nJhqaS0PzJJ7w1pS",
-          "slug": "sweet-scent",
-          "level": 22
+          "slug": "sweet-scent"
         },
         {
+          "level": 25,
+          "uuid": "Compendium.ptu.moves.Item.MayZhpGvJzcbv8BT",
+          "slug": "play-rough"
+        },
+        {
+          "level": 25,
           "uuid": "Compendium.ptu.moves.Item.1x4TfrhoZdHT7Sj2",
-          "slug": "play-nice",
-          "level": 25
+          "slug": "play-nice"
         },
         {
+          "level": 29,
           "uuid": "Compendium.ptu.moves.Item.sm3q5D8SkQcEmiGB",
-          "slug": "slash",
-          "level": 29
+          "slug": "slash"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.IRGZ3Cc7WrqjhF9u",
-          "slug": "scary-face",
-          "level": 38
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.P0JIeR4lnilvg7K8",
-          "slug": "rest",
-          "level": 47
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.RRgY3N3vFTIbzl53",
-          "slug": "snore",
-          "level": 49
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.czDZWjn9TbP9ON4q",
-          "slug": "thrash",
-          "level": 58
-        },
-        {
+          "level": 33,
           "uuid": "Compendium.ptu.moves.Item.fDc6STMtfRenewU6",
-          "slug": "fling",
-          "level": 67
+          "slug": "fling"
+        },
+        {
+          "level": 36,
+          "uuid": "Compendium.ptu.moves.Item.IRGZ3Cc7WrqjhF9u",
+          "slug": "scary-face"
+        },
+        {
+          "level": 41,
+          "uuid": "Compendium.ptu.moves.Item.P0JIeR4lnilvg7K8",
+          "slug": "rest"
+        },
+        {
+          "level": 43,
+          "uuid": "Compendium.ptu.moves.Item.RRgY3N3vFTIbzl53",
+          "slug": "snore"
+        },
+        {
+          "level": 48,
+          "uuid": "Compendium.ptu.moves.Item.czDZWjn9TbP9ON4q",
+          "slug": "thrash"
+        },
+        {
+          "level": 52,
+          "uuid": "Compendium.ptu.moves.Item.XteYd5rxLc3PYt9N",
+          "slug": "high-horsepower"
+        },
+        {
+          "level": 55,
+          "uuid": "Compendium.ptu.moves.Item.uX0GA4opzRCtDQVY",
+          "slug": "hammer-arm"
         }
       ],
       "machine": [
@@ -527,6 +548,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Normal",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -542,11 +567,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699649935562,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!FY8xfSdysNgjEK1L"
 }

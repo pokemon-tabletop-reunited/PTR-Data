@@ -1,0 +1,75 @@
+{
+  "folder": "p9yRJ8QVFrEtl0mK",
+  "name": "Aura Guardian [CR]",
+  "type": "feat",
+  "_id": "C1oWw23u7YYSVlYM",
+  "img": "systems/ptu/static/css/images/icons/class_feat_icon.png",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: Choose one of Detect, Vacuum Wave, or Force Palm. You learn the chosen Moves. You gain the Aura Reader Capability. If your Intuition Rank is Adept or higher, you also gain the Aura Pulse Capability.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "adjustName": true,
+        "flag": "auraguardian",
+        "choices": [
+          {
+            "value": "atk",
+            "label": "Attack"
+          },
+          {
+            "value": "spatk",
+            "label": "Special Attack"
+          }
+        ]
+      },
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "add",
+        "path": "system.modifiers.baseStats.{item|flags.ptu.rulesSelections.auraguardian}.mod",
+        "phase": "applyAEs",
+        "value": 1
+      }
+    ],
+    "slug": "aura-guardian-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Elemental Connection (Fighting)"
+    ],
+    "frequency": "Static",
+    "tags": "[Class][+Attack or Special Attack]",
+    "notes": "",
+    "free": false,
+    "class": "Aura Guardian"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
+    "createdTime": 1700000012643,
+    "modifiedTime": 1700229250340,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!C1oWw23u7YYSVlYM"
+}

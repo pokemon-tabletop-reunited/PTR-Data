@@ -7,16 +7,7 @@
     "origin": "",
     "effect": "Lower the target's Special Attack by 1 Combat Stage.",
     "snippet": "",
-    "rules": [
-      {
-        "key": "ActiveEffectLike",
-        "predicate": [],
-        "mode": "subtract",
-        "path": "system.stats.spatk.stage.mod",
-        "phase": "applyAEs",
-        "value": 1
-      }
-    ],
+    "rules": [],
     "slug": "confide",
     "schema": {
       "version": 0.11,
@@ -60,11 +51,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.0.release-candidate.1",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1698109509186,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1699268450531,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!43i757GW8pptWB5j"
 }

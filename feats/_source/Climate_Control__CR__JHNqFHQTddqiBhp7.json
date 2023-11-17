@@ -1,0 +1,48 @@
+{
+  "name": "Climate Control [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Trigger: A Move or Ability creates a Weather Effect while non-standard Weather is already in effect\nEffect: The triggering Weather Effect does not replace the already extant Weather in effect; both exist simultaneously on the field. If a new Weather effect is placed on the field after the two that are out, both are replaced by the third, unless you activate this Feature again to replace only one.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Climatology"
+    ],
+    "frequency": "1 AP – Free Action",
+    "tags": "",
+    "notes": "",
+    "free": false,
+    "class": "Researcher",
+    "name": "Climate Control [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "wKlgeANt8BWt41q1",
+  "_id": "JHNqFHQTddqiBhp7",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789311072,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!JHNqFHQTddqiBhp7"
+}

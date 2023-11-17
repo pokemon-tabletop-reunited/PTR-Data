@@ -1,0 +1,59 @@
+{
+  "name": "Double Shot [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: You make a Ranged Struggle Attack, with the following changes:\n- The Move gains +2 AC.\n- The Move gains the Double Strike Keyword.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.atk.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Marksman",
+      "Adept Combat"
+    ],
+    "frequency": "1 AP – Standard Action",
+    "tags": "[+Attack] [Weapon]",
+    "notes": "",
+    "free": false,
+    "class": "Marksman",
+    "name": "Double Shot [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "TTdZunMgErcrbby5",
+  "_id": "qEQnsZYhgtg7GKb4",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789290640,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!qEQnsZYhgtg7GKb4"
+}

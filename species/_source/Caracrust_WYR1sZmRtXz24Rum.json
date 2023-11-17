@@ -98,8 +98,8 @@
       "swim": 2,
       "levitate": 0,
       "burrow": 4,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 1,
+      "longJump": 1,
       "power": 4,
       "naturewalk": [],
       "other": [
@@ -115,9 +115,7 @@
           "slug": "wallclimber",
           "uuid": "Compendium.ptu.capabilities.Item.Afqp4Bw6PemQdWi9"
         }
-      ],
-      "jumpH": 1,
-      "jumpL": 1
+      ]
     },
     "moves": {
       "level": [
@@ -346,10 +344,12 @@
           "slug": "endure"
         },
         {
-          "slug": "iron-defense-fur"
+          "slug": "iron-defense",
+          "uuid": "Compendium.ptu.moves.Item.K7oM1QaqyugwZzbF"
         },
         {
-          "slug": "cutter"
+          "slug": "fury-cutter",
+          "uuid": "Compendium.ptu.moves.Item.4W8tzNRKdmn0WRYd"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.8TVeNmrxtt7wkUa1",
@@ -487,10 +487,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!WYR1sZmRtXz24Rum"

@@ -1,0 +1,73 @@
+{
+  "name": "Fiery Soul [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: Choose Flash Fire or Flame Body. You gain the chosen Ability.\nBonus: You gain the Heater Capability, and are immune to the Burn condition.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "adjustName": true,
+        "flag": "fierysoul",
+        "choices": [
+          {
+            "value": "atk",
+            "label": "Attack"
+          },
+          {
+            "value": "spatk",
+            "label": "Special Attack"
+          }
+        ]
+      },
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.{item|flags.ptu.rulesSelections.fierysoul}.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Fire Bringer"
+    ],
+    "frequency": "Static",
+    "tags": "[+Attack or Special Attack]",
+    "notes": "",
+    "free": false,
+    "class": "Fire Bringer",
+    "name": "Fiery Soul [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "FeVAuZAxeshdeg9p",
+  "_id": "Q1KxfCw4AdhMgpsS",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1700090652060,
+    "lastModifiedBy": "xUomATnixLnn15IR"
+  },
+  "_key": "!items!Q1KxfCw4AdhMgpsS"
+}

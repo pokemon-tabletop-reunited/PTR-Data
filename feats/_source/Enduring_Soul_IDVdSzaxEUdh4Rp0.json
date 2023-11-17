@@ -2,10 +2,19 @@
   "name": "Enduring Soul",
   "system": {
     "origin": "",
-    "effect": "You may add to your Pokémon’s HP stat when they level up, ignoring Base Relation, and you do not need to “correct” Stats due to this inflated HP.",
+    "effect": "Your Pokemon have their HP Base Stat increased by +1, and by +1 more for every 10 Levels they have. You and your Pokemon begin each Scene with Temporary HP equal to the higher of your Athletics or Focus Ranks.",
     "snippet": "",
-    "rules": [],
-    "slug": null,
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "add",
+        "path": "system.modifiers.baseStats.hp.mod",
+        "phase": "applyAEs",
+        "value": 1
+      }
+    ],
+    "slug": "enduring-soul",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -18,7 +27,7 @@
       "Novice Athletics and Focus"
     ],
     "frequency": "Static",
-    "tags": "[Class]",
+    "tags": "[Class] [+HP]",
     "notes": "",
     "free": false,
     "class": "",
@@ -38,16 +47,17 @@
       "sourceId": "Compendium.ptu.feats.vDmgulPBpSjAxIWY"
     },
     "ptu": {
-      "prereqBackup": "Novice Athletics and Focus"
+      "prereqBackup": "Novice Athletics and Focus",
+      "showInTokenPanel": true
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1683368079037,
-    "modifiedTime": 1696691567516,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699657025804,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "folder": null,
   "sort": 19200000,

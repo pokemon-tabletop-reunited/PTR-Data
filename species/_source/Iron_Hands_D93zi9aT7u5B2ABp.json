@@ -50,11 +50,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.D93zi9aT7u5B2ABp",
         "slug": "iron-hands",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -87,7 +89,7 @@
       "highJump": 1,
       "longJump": 1,
       "power": 14,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "breathless",
@@ -106,8 +108,8 @@
           "uuid": "Compendium.ptu.capabilities.Item.o7NdOFXqtOAIFv6x"
         },
         {
-          "slug": "wired",
-          "uuid": "Compendium.ptu.capabilities.Item.qL3NoxglZIBtFB1r"
+          "slug": "zapper",
+          "uuid": "Compendium.ptu.capabilities.Item.v3QyNdZYDVwlG2tY"
         }
       ]
     },
@@ -456,6 +458,10 @@
           "slug": "block"
         },
         {
+          "uuid": "Compendium.ptu.moves.Item.j1LhD3Z6maB3Y9pi",
+          "slug": "electric-terrain"
+        },
+        {
           "uuid": "Compendium.ptu.moves.Item.DzD1pun72sIQFQle",
           "slug": "body-slam"
         },
@@ -474,10 +480,6 @@
         {
           "uuid": "Compendium.ptu.moves.Item.qQGrbuuO6EcG6b7c",
           "slug": "earthquake"
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.j1LhD3Z6maB3Y9pi",
-          "slug": "electric-terrain-n"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.EA2vavVCPlHFLvwf",
@@ -528,10 +530,6 @@
           "slug": "throat-chop"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.0gi5EtY9Gq2yZ4eY",
-          "slug": "thunder-punch-n"
-        },
-        {
           "uuid": "Compendium.ptu.moves.Item.IWDclyABMiQ3puo0",
           "slug": "tri-attack"
         },
@@ -542,6 +540,10 @@
         {
           "uuid": "Compendium.ptu.moves.Item.ltI3ruaEiyhlwPjj",
           "slug": "volt-switch"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.0gi5EtY9Gq2yZ4eY",
+          "slug": "thunder-punch"
         }
       ]
     },
@@ -636,6 +638,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Fighting",
+      "1": "Electric",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -651,11 +658,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699485776057,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!D93zi9aT7u5B2ABp"
 }

@@ -1,0 +1,77 @@
+{
+  "name": "Winter is Coming [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: You gain the Frostbite Ability.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "adjustName": true,
+        "flag": "winteriscoming",
+        "choices": [
+          {
+            "value": "atk",
+            "label": "Attack"
+          },
+          {
+            "value": "spatk",
+            "label": "Special Attack"
+          }
+        ]
+      },
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.{item|flags.ptu.rulesSelections.winteriscoming}.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "winter-is-coming-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Master Athletics or Survival"
+    ],
+    "frequency": "Static",
+    "tags": "[+Attack or Special Attack]",
+    "notes": "",
+    "free": false,
+    "class": "Frost Touched",
+    "name": "Winter is Coming [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "4cnYn2XBox6Zkddc",
+  "_id": "9wUk8a5u8fKJ2nSA",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1700090652060,
+    "lastModifiedBy": "xUomATnixLnn15IR"
+  },
+  "_key": "!items!9wUk8a5u8fKJ2nSA"
+}

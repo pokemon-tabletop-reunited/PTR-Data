@@ -50,11 +50,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.xgvLPopwdoaDu5sm",
         "slug": "walking-wake",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -88,10 +90,11 @@
       "highJump": 3,
       "longJump": 3,
       "power": 12,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
-          "slug": "mountable-2"
+          "slug": "mountable-2",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         }
       ]
     },
@@ -605,6 +608,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Water",
+      "1": "Dragon",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -620,11 +628,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699497805722,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!xgvLPopwdoaDu5sm"
 }

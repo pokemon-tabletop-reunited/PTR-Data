@@ -1,0 +1,51 @@
+{
+  "folder": "TajSsOGM13zplgIH",
+  "name": "Shadow Sync",
+  "type": "feat",
+  "_id": "5wzCxnLJ3aC0FKx7",
+  "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Target: Your Pokémon with at least 1 Tutor Point\nEffect: The target loses 1 Tutor Point. Select 1 Move the Pokémon knows and change its Type to Shadow. A Pokémon may have only one Shadow-Synced Move in their Move List at a time; to Sync a new Move, the old Move must be forgotten.\n\nNote: Shadow Sync, and all other Malfeasance Research Field Features, may be used on Shadow Pokémon, in spite of the restrictions normally in place for Shadow Pokémon.",
+    "snippet": "",
+    "rules": [],
+    "slug": "shadow-sync",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Novice Technology Education"
+    ],
+    "frequency": "At Will - Extended Action",
+    "tags": "[Malfeasance Research Field][Branch]",
+    "notes": "",
+    "free": false,
+    "class": "Researcher (Malfeasance)"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1697668211147,
+    "modifiedTime": 1700226845749,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!5wzCxnLJ3aC0FKx7"
+}

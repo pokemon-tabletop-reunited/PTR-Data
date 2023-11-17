@@ -1,0 +1,52 @@
+{
+  "name": "From the Sidelines Rank 2 [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: At each rank, choose two moves from the following list.\nAssist, Brace, Heal Pulse, Beguile, Defensive Charm, Dispel, Offensive Charm, Speed Charm.",
+    "snippet": "",
+    "rules": [],
+    "slug": "from-the-sidelines-rank-2-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Expert Charm"
+    ],
+    "frequency": "Static",
+    "tags": "[Ranked 2]",
+    "notes": "",
+    "free": false,
+    "class": "Cheerleader",
+    "name": "From the Sidelines [CR]Rank 1 [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "gFSt4QEIkRBOMEOK",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1700228783754,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "u4TBgW9gdG3tAmmY",
+  "_key": "!items!u4TBgW9gdG3tAmmY"
+}

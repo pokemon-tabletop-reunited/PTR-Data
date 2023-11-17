@@ -57,35 +57,43 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.oXK3ghZxul4TT7sz",
         "slug": "cyndaquil",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 15,
         "uuid": "Compendium.ptu.species.Item.SpSbQeRKYomj9jbD",
         "slug": "quilava",
-        "level": 15,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.Ud30bFd1oUZ1vUf3",
         "slug": "typhlosion",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.bPALsGF8jgeoXvwe",
         "slug": "typhlosion-hisuian",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -143,57 +151,97 @@
     "moves": {
       "level": [
         {
-          "uuid": "Compendium.ptu.moves.Item.XbAfCHhH425Ldmj4",
-          "slug": "hex",
-          "level": "Evo"
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.IH2EuCM09nw3lOgQ",
-          "slug": "ember",
-          "level": 6
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.nzhedIfXpsZWaEx9",
-          "slug": "rollout",
-          "level": 11
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.cDe2PIlHkOV2msto",
-          "slug": "flame-wheel",
-          "level": 18
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.MLCGs5okqB4BLJKc",
-          "slug": "swift",
-          "level": 25
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.m01FTVITfrqlu0Kn",
-          "slug": "flamethrower",
-          "level": 34
-        },
-        {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.kVi9L3pHt4UQIo1F",
-          "slug": "infernal-parade",
-          "level": 40
+          "slug": "infernal-parade"
         },
         {
+          "level": 6,
+          "uuid": "Compendium.ptu.moves.Item.kvvdzOdMFvhMbQga",
+          "slug": "smokescreen"
+        },
+        {
+          "level": 10,
+          "uuid": "Compendium.ptu.moves.Item.IH2EuCM09nw3lOgQ",
+          "slug": "ember"
+        },
+        {
+          "level": 13,
+          "uuid": "Compendium.ptu.moves.Item.oVue0OGsxZn0kQGX",
+          "slug": "quick-attack"
+        },
+        {
+          "level": 20,
+          "uuid": "Compendium.ptu.moves.Item.cDe2PIlHkOV2msto",
+          "slug": "flame-wheel"
+        },
+        {
+          "level": 24,
+          "uuid": "Compendium.ptu.moves.Item.Y5R5mbVcGq6fwoFj",
+          "slug": "defense-curl"
+        },
+        {
+          "level": 31,
+          "uuid": "Compendium.ptu.moves.Item.TeL0p7BkR386XexV",
+          "slug": "flame-charge"
+        },
+        {
+          "level": 35,
+          "uuid": "Compendium.ptu.moves.Item.MLCGs5okqB4BLJKc",
+          "slug": "swift"
+        },
+        {
+          "level": 43,
+          "uuid": "Compendium.ptu.moves.Item.WpFzl62EYkpKipF5",
+          "slug": "lava-plume"
+        },
+        {
+          "level": 48,
+          "uuid": "Compendium.ptu.moves.Item.m01FTVITfrqlu0Kn",
+          "slug": "flamethrower"
+        },
+        {
+          "level": 48,
           "uuid": "Compendium.ptu.moves.Item.66w0oT6I80QzeAMr",
-          "slug": "shadow-ball",
-          "level": 43
+          "slug": "shadow-ball"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.TPm4Ml8gUM4sjXL6",
-          "slug": "overheat",
-          "level": 43
+          "level": 56,
+          "uuid": "Compendium.ptu.moves.Item.f25cGYvLApdYt14w",
+          "slug": "inferno"
+        },
+        {
+          "level": 61,
+          "uuid": "Compendium.ptu.moves.Item.XbAfCHhH425Ldmj4",
+          "slug": "hex"
+        },
+        {
+          "level": 61,
+          "uuid": "Compendium.ptu.moves.Item.nzhedIfXpsZWaEx9",
+          "slug": "rollout"
+        },
+        {
+          "level": 69,
+          "uuid": "Compendium.ptu.moves.Item.7Gi57ZcOWjyjhU0A",
+          "slug": "double-edge"
+        },
+        {
+          "level": 74,
+          "uuid": "Compendium.ptu.moves.Item.YKgO82Ma9kKBf4xk",
+          "slug": "burn-up"
+        },
+        {
+          "level": 82,
+          "uuid": "Compendium.ptu.moves.Item.Mmjh1FNVMsGEYklr",
+          "slug": "eruption"
         }
       ],
       "machine": [],
       "egg": [],
       "tutor": [
         {
-          "uuid": "Compendium.ptu.moves.Item.9TD6e8JoZBjIuuAP",
-          "slug": "aerial-ace"
+          "uuid": "Compendium.ptu.moves.Item.JfUfttZb9KAdmkZY",
+          "slug": "blast-burn"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.J2l5Cmp9LEW7Jvgu",
@@ -214,6 +262,10 @@
         {
           "uuid": "Compendium.ptu.moves.Item.m01FTVITfrqlu0Kn",
           "slug": "flamethrower"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.9TD6e8JoZBjIuuAP",
+          "slug": "aerial-ace"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.WGOQso4iji1XKrdK",
@@ -364,6 +416,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Fire",
+      "1": "Ghost",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -379,11 +436,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699633308085,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!bPALsGF8jgeoXvwe"
 }

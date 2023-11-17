@@ -57,8 +57,9 @@
     },
     "evolutions": [
       {
-        "slug": "enamorus",
         "level": 1,
+        "uuid": "Compendium.ptu.species.Item.3tMHWOi64NoWSgk4",
+        "slug": "enamorus-incarnate",
         "other": {
           "restrictions": []
         }
@@ -92,7 +93,7 @@
       "highJump": 2,
       "longJump": 2,
       "power": 6,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "forme-change",
@@ -115,49 +116,89 @@
     "moves": {
       "level": [
         {
-          "uuid": "Compendium.ptu.moves.Item.50Vtl0u0jPevwY4K",
-          "slug": "tackle",
-          "level": 1
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.VtkRa05N67wR9RcG",
+          "slug": "astonish"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.QMaJ91E3XBatUcV9",
-          "slug": "bite",
-          "level": 7
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.HmIauAep0pKBGFRh",
+          "slug": "fairy-wind"
         },
         {
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.zgeymOL0WIKgT6lq",
+          "slug": "torment"
+        },
+        {
+          "level": 4,
+          "uuid": "Compendium.ptu.moves.Item.3IoUOnJtp47ClxG4",
+          "slug": "flatter"
+        },
+        {
+          "level": 7,
           "uuid": "Compendium.ptu.moves.Item.CCtm8sYMR7X45ZwK",
-          "slug": "twister",
-          "level": 11
+          "slug": "twister"
         },
         {
+          "level": 10,
           "uuid": "Compendium.ptu.moves.Item.8BihXjkV4RVUcbMf",
-          "slug": "draining-kiss",
-          "level": 14
+          "slug": "draining-kiss"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.K7oM1QaqyugwZzbF",
-          "slug": "iron-defense",
-          "level": 22
-        },
-        {
+          "level": 13,
           "uuid": "Compendium.ptu.moves.Item.a71ua5UPPcL0IxqO",
-          "slug": "extrasensory",
-          "level": 31
+          "slug": "extrasensory"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.5uY1ltFWijN07CKe",
-          "slug": "crunch",
-          "level": 41
+          "level": 16,
+          "uuid": "Compendium.ptu.moves.Item.K7oM1QaqyugwZzbF",
+          "slug": "iron-defense"
         },
         {
+          "level": 19,
+          "uuid": "Compendium.ptu.moves.Item.rmcnLyXMgD9aKb21",
+          "slug": "imprison"
+        },
+        {
+          "level": 22,
+          "uuid": "Compendium.ptu.moves.Item.L3CLHVqdWQbUBvod",
+          "slug": "mystical-fire"
+        },
+        {
+          "level": 25,
+          "uuid": "Compendium.ptu.moves.Item.tqoJF3EAgEEv3l1l",
+          "slug": "dazzling-gleam"
+        },
+        {
+          "level": 28,
+          "uuid": "Compendium.ptu.moves.Item.Si0MaGpUCvDBY8Gd",
+          "slug": "uproar"
+        },
+        {
+          "level": 31,
+          "uuid": "Compendium.ptu.moves.Item.xwJMUiNv3k0k9VK6",
+          "slug": "superpower"
+        },
+        {
+          "level": 34,
+          "uuid": "Compendium.ptu.moves.Item.MDyKPjGyVmPQz2Fm",
+          "slug": "healing-wish"
+        },
+        {
+          "level": 37,
           "uuid": "Compendium.ptu.moves.Item.LkpfF5gcUddBm8CS",
-          "slug": "moonblast",
-          "level": 47
+          "slug": "moonblast"
         },
         {
+          "level": 40,
+          "uuid": "Compendium.ptu.moves.Item.Pc0fIapOkBRR4J8L",
+          "slug": "outrage"
+        },
+        {
+          "level": 45,
           "uuid": "Compendium.ptu.moves.Item.MQBFwd6gyr0JtnVf",
-          "slug": "springtide-storm",
-          "level": 52
+          "slug": "springtide-storm"
         }
       ],
       "machine": [],
@@ -300,6 +341,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Fairy",
+      "1": "Flying",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -315,11 +361,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699652324625,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!3tMHWOi64NoWSgk4"
 }

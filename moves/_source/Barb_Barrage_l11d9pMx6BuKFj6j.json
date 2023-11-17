@@ -8,7 +8,7 @@
     "effect": "The target is Poisoned on a 17+. Once a Scene, if Barb Barrage's target has a Status Condition, you may choose to not roll for Five Strike. Instead, treat Barb Barrage as though it automatically rolled an 8 for Five Strike.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "barb-barrage",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -27,9 +27,9 @@
     "strongJaw": false,
     "type": "Poison",
     "category": "Physical",
-    "damageBase": 2,
+    "damageBase": "2",
     "frequency": "EOT",
-    "ac": 2,
+    "ac": "2",
     "range": "6, 1 Target, Five Strike",
     "contestType": "Smart - Reliable",
     "stab": false,
@@ -44,13 +44,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1697513698449,
+    "modifiedTime": 1699631232723,
     "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!l11d9pMx6BuKFj6j"

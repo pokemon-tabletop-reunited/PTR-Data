@@ -1,0 +1,65 @@
+{
+  "name": "Shadow Mist",
+  "type": "move",
+  "img": "systems/ptu/static/css/images/types2/ShadowIC_Icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Targets hit by Shadow Mist targets gain a -2 Penalty to Evasion (Total Evasion may not be lowered to a negative value), and are Vulnerable for one full round.",
+    "snippet": "",
+    "rules": [],
+    "slug": "",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "type": "Shadow",
+    "category": "Status",
+    "damageBase": "",
+    "frequency": "Scene x2",
+    "ac": "",
+    "range": "Burst 2, Friendly",
+    "contestType": "",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "effects": [],
+  "folder": "O2vsL1IY0u9DOERr",
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    },
+    "core": {
+      "sourceId": "Compendium.forge-vtt-shared-compendiums-shadow-moves.item-1-shadopw-moves.Item.iawJ4lol0ayib0uZ"
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1694871112477,
+    "modifiedTime": 1700226888777,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "BTjzTlvN2KuWPdYe",
+  "ownership": {
+    "default": 0,
+    "WhlnHKyCf2rNFP17": 3,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "sort": 650000,
+  "_key": "!items!BTjzTlvN2KuWPdYe"
+}

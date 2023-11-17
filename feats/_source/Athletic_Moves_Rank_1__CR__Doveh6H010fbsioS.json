@@ -1,0 +1,52 @@
+{
+  "name": "Athletic Moves Rank 1 [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: You learn two Athlete Moves marked with the Rank of this Feature you are taking or lower.\nRank 1: Blind, Block, Slam, Strenght\nRank 2: Body Slam, Take Down, Extreme Speed\nRank 3: Mega Kick, Facade, Retaliate",
+    "snippet": "",
+    "rules": [],
+    "slug": "athletic-moves-rank-1-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Athlete"
+    ],
+    "frequency": "Static",
+    "tags": "",
+    "notes": "",
+    "free": false,
+    "class": "Athlete",
+    "name": "Athletic Moves [CR]Rank 1 [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "VZSMHMJcCWCVyQIC",
+  "_id": "Doveh6H010fbsioS",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789237250,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!Doveh6H010fbsioS"
+}

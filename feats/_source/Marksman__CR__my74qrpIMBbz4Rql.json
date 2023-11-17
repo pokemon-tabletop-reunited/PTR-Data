@@ -1,0 +1,58 @@
+{
+  "name": "Marksman [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: You gain the Sniper Ability.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.atk.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Novice Combat or Novice Perception"
+    ],
+    "frequency": "Static",
+    "tags": "[Class] [+Attack] [Weapon]",
+    "notes": "",
+    "free": false,
+    "class": "Marksman",
+    "name": "Marksman [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "type": "feat",
+  "folder": "TTdZunMgErcrbby5",
+  "_id": "my74qrpIMBbz4Rql",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789290640,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!my74qrpIMBbz4Rql"
+}

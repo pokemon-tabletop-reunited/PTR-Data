@@ -1,0 +1,62 @@
+{
+  "name": "Signature Manipulations Rank 1 [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: Each Rank, select a Power Manipulation of the same Signature Manipulation Rank you are taking or lower.\n- For Rank 1 Manipulations, this Manipulation may be used twice per Scene without spending AP to activate.\n- For Rank 2 Manipulations, this Manipulation may be used once per Scene without activating Authentic Thaumaturgy’s Frequency.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spatk.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "signature-manipulations-rank-1-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Metamagic"
+    ],
+    "frequency": "Static",
+    "tags": "[Ranked 2] [+Special Attack]",
+    "notes": "",
+    "free": false,
+    "class": "Arcanist",
+    "name": "Signature Manipulations [CR]Rank 1 [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "ArQ1VkEqvLAXjU2D",
+  "_id": "1Wo3J3dDuyTpgLyG",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789235210,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!1Wo3J3dDuyTpgLyG"
+}

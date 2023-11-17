@@ -4,7 +4,7 @@
   "img": "/systems/ptu/css/images/icons/ability_icon.png",
   "system": {
     "origin": "",
-    "effect": "When this Pokemon takes Physical damage, it may use Charge as a Free Action if it is on it's move list. Defensive.",
+    "effect": "Connection: Charge. When this Pokemon takes damage, it may use Charge as a Free Action. Defensive.",
     "snippet": "",
     "rules": [],
     "slug": "electromorphosis",
@@ -23,7 +23,7 @@
   "_id": "h4I0w5XoJj3vGBGz",
   "effects": [],
   "folder": null,
-  "sort": 36500000,
+  "sort": 37900000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
@@ -35,11 +35,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692968394056,
-    "modifiedTime": 1697510171271,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1699721156284,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!h4I0w5XoJj3vGBGz"
 }

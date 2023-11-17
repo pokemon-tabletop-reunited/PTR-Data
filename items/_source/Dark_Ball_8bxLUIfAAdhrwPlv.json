@@ -1,0 +1,49 @@
+{
+  "folder": "lpdptis936rBZFDU",
+  "name": "Dark Ball",
+  "type": "item",
+  "_id": "8bxLUIfAAdhrwPlv",
+  "img": "systems/ptu/static/images/item_icons/dark_ball.webp",
+  "system": {
+    "origin": "",
+    "effect": "Effect: -20 Modifier, if the target is Shadow Type.",
+    "snippet": "",
+    "rules": [],
+    "slug": "dark-ball",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "quantity": "1",
+    "category": "",
+    "cost": "1500",
+    "consumable": 0,
+    "subtype": "",
+    "container": false
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": false
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1697671845000,
+    "modifiedTime": 1700226867903,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!8bxLUIfAAdhrwPlv"
+}

@@ -100,20 +100,14 @@
       "swim": 2,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 1,
+      "longJump": 2,
       "power": 9,
       "naturewalk": [
         "Forest",
         "Wetland"
       ],
-      "other": [
-        {
-          "slug": "wetland"
-        }
-      ],
-      "jumpH": 1,
-      "jumpL": 2
+      "other": []
     },
     "moves": {
       "level": [
@@ -375,7 +369,8 @@
           "slug": "focus-punch"
         },
         {
-          "slug": "ice-defense"
+          "uuid": "Compendium.ptu.moves.Item.I0Cy1NP2brM1jq1h",
+          "slug": "ice-punch"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.79hUQHdOjX8IQa4B",
@@ -517,11 +512,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1697514480122,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1700237629026,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!EiIntlkohcD0yKmr"
 }

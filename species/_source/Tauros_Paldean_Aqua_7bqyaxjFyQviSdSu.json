@@ -50,11 +50,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.rf4v91RJmfWMcKI7",
         "slug": "tauros-paldean",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -86,10 +88,11 @@
       "highJump": 1,
       "longJump": 2,
       "power": 9,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
-          "slug": "mountable-1"
+          "slug": "mountable-1",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         },
         {
           "slug": "pack-mon",
@@ -100,74 +103,74 @@
     "moves": {
       "level": [
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.50Vtl0u0jPevwY4K",
-          "slug": "tackle",
-          "level": 1
+          "slug": "tackle"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.6lQy212f7N3GH5KS",
-          "slug": "tail-whip",
-          "level": 1
+          "slug": "tail-whip"
         },
         {
+          "level": 5,
           "uuid": "Compendium.ptu.moves.Item.gCofXErMduyn6zwf",
-          "slug": "work-up",
-          "level": 5
+          "slug": "work-up"
         },
         {
+          "level": 10,
           "uuid": "Compendium.ptu.moves.Item.24gRKtjHojSS9Vb0",
-          "slug": "double-kick",
-          "level": 10
+          "slug": "double-kick"
         },
         {
+          "level": 15,
           "uuid": "Compendium.ptu.moves.Item.Htb3LXoNd24yFNEG",
-          "slug": "aqua-jet",
-          "level": 15
+          "slug": "aqua-jet"
         },
         {
+          "level": 20,
           "uuid": "Compendium.ptu.moves.Item.4a68jMGmkXi2pkfF",
-          "slug": "headbutt",
-          "level": 20
+          "slug": "headbutt"
         },
         {
+          "level": 25,
           "uuid": "Compendium.ptu.moves.Item.IRGZ3Cc7WrqjhF9u",
-          "slug": "scary-face",
-          "level": 25
+          "slug": "scary-face"
         },
         {
+          "level": 30,
           "uuid": "Compendium.ptu.moves.Item.bbYMsmddMV20isEx",
-          "slug": "zen-headbutt",
-          "level": 30
+          "slug": "zen-headbutt"
         },
         {
+          "level": 35,
           "uuid": "Compendium.ptu.moves.Item.wzhf7DsPhu0IdowN",
-          "slug": "raging-bull",
-          "level": 35
+          "slug": "raging-bull"
         },
         {
+          "level": 40,
           "uuid": "Compendium.ptu.moves.Item.P0JIeR4lnilvg7K8",
-          "slug": "rest",
-          "level": 40
+          "slug": "rest"
         },
         {
+          "level": 45,
           "uuid": "Compendium.ptu.moves.Item.arxy479cTjkB8mML",
-          "slug": "swagger",
-          "level": 45
+          "slug": "swagger"
         },
         {
+          "level": 50,
           "uuid": "Compendium.ptu.moves.Item.czDZWjn9TbP9ON4q",
-          "slug": "thrash",
-          "level": 50
+          "slug": "thrash"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.XNmCCgclMJf0MP6C",
-          "slug": "wave-crash",
-          "level": 55
+          "level": 55,
+          "uuid": "Item.bHiHzGiAKoa5dlsF",
+          "slug": "wave-crash"
         },
         {
+          "level": 60,
           "uuid": "Compendium.ptu.moves.Item.7CkvaKCsI8Oyb3LO",
-          "slug": "close-combat",
-          "level": 60
+          "slug": "close-combat"
         }
       ],
       "machine": [
@@ -528,6 +531,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Fighting",
+      "1": "Water",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -543,11 +551,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699475617491,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!7bqyaxjFyQviSdSu"
 }

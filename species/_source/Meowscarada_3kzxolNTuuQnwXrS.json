@@ -60,7 +60,7 @@
         }
       },
       {
-        "level": 16,
+        "level": 15,
         "uuid": "Compendium.ptu.species.Item.Va4v1iZT7wvea6Ni",
         "slug": "floragato",
         "other": {
@@ -70,7 +70,7 @@
         }
       },
       {
-        "level": 36,
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.3kzxolNTuuQnwXrS",
         "slug": "meowscarada",
         "other": {
@@ -132,10 +132,6 @@
         {
           "slug": "fortune",
           "uuid": "Compendium.ptu.capabilities.Item.UqRhLjENqm9Vsk2v"
-        },
-        {
-          "slug": "blender",
-          "uuid": "Compendium.ptu.capabilities.Item.77fEVlIy87KrANwC"
         }
       ]
     },
@@ -703,11 +699,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696900697795,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1699436499176,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!3kzxolNTuuQnwXrS"
 }

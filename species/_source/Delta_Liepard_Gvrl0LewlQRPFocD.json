@@ -98,8 +98,8 @@
       "swim": 4,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 1,
+      "longJump": 1,
       "power": 4,
       "naturewalk": [
         "Urban"
@@ -121,9 +121,7 @@
           "slug": "stealth",
           "uuid": "Compendium.ptu.capabilities.Item.v1ksvxUrvIhkV7aD"
         }
-      ],
-      "jumpH": 1,
-      "jumpL": 1
+      ]
     },
     "moves": {
       "level": [
@@ -429,7 +427,12 @@
           "slug": "bounce"
         },
         {
-          "slug": "bullet-seed-n-covet"
+          "slug": "bullet-seed",
+          "uuid": "Compendium.ptu.moves.Item.ptP5LFYkJR4BJHIu"
+        },
+        {
+          "slug": "covet",
+          "uuid": "Compendium.ptu.moves.Item.Ys1GdaKIZDiaptNB"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.DjlwtT6NfMWn4vwF",
@@ -635,10 +638,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Gvrl0LewlQRPFocD"

@@ -43,37 +43,29 @@
       ],
       "high": [
         {
-          "slug": "no-guard",
-          "uuid": "Compendium.ptu.abilities.Item.muGRkhx0nnHRteP7"
+          "slug": "absolution",
+          "uuid": "Compendium.ptu.abilities.Item.1V9ahlPaCoyAC1zQ"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.lmHTE28VSiFdEnN5",
         "slug": "charcadet",
-        "level": 1,
-        "other": {
-          "restrictions": []
-        }
-      },
-      {
-        "uuid": "Compendium.ptu.species.Item.970fYf3VFG3FKQei",
-        "slug": "armarouge",
-        "level": 25,
         "other": {
           "restrictions": [
-            "Auspicious Armor"
+            ""
           ]
         }
       },
       {
-        "uuid": "Compendium.ptu.species.Item.CHDhHUH2jBBxpvZ3",
-        "slug": "ceruledge",
-        "level": 25,
+        "level": 30,
+        "uuid": "Compendium.ptu.species.Item.970fYf3VFG3FKQei",
+        "slug": "armarouge",
         "other": {
           "restrictions": [
-            "Malicious Armor"
+            ""
           ]
         }
       }
@@ -85,7 +77,7 @@
       "weightClass": 4
     },
     "breeding": {
-      "genderRatio": -1,
+      "genderRatio": 50,
       "eggGroups": [
         "Humanshape"
       ],
@@ -95,9 +87,8 @@
       "Nullivore"
     ],
     "habitats": [
-      "Forest",
-      "Desert",
-      "Mountain"
+      "Volcanos",
+      "Ruins"
     ],
     "capabilities": {
       "overland": 7,
@@ -108,16 +99,8 @@
       "highJump": 2,
       "longJump": 2,
       "power": 6,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
-        {
-          "slug": "darkvision",
-          "uuid": "Compendium.ptu.capabilities.Item.zzJWpOj40dLelBm5"
-        },
-        {
-          "slug": "dead-silent",
-          "uuid": "Compendium.ptu.capabilities.Item.27U7ZioOgyZFzxDx"
-        },
         {
           "slug": "firestarter",
           "uuid": "Compendium.ptu.capabilities.Item.nAIkONF3gtaYfEyX"
@@ -143,139 +126,139 @@
     "moves": {
       "level": [
         {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.cpRMxzdrs7dfFuC4",
-          "slug": "psyshock",
-          "level": "Evo"
+          "slug": "psyshock"
         },
         {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.L3CLHVqdWQbUBvod",
-          "slug": "mystical-fire",
-          "level": "Evo"
+          "slug": "mystical-fire"
         },
         {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.x0Ma0IW8uk7gyQ8z",
-          "slug": "wide-guard",
-          "level": "Evo"
+          "slug": "wide-guard"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.XQOEuOenSzYNz4eO",
-          "slug": "leer",
-          "level": 1
+          "slug": "leer"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.IH2EuCM09nw3lOgQ",
-          "slug": "ember",
-          "level": 1
+          "slug": "ember"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.qltGKDIhEJpOqswU",
-          "slug": "will-o-wisp",
-          "level": 1
+          "slug": "will-o-wisp"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.VtkRa05N67wR9RcG",
-          "slug": "astonish",
-          "level": 1
+          "slug": "astonish"
         },
         {
+          "level": 4,
           "uuid": "Compendium.ptu.moves.Item.4zyVHZ1t6PJsYzGX",
-          "slug": "pursuit",
-          "level": 4
+          "slug": "pursuit"
         },
         {
+          "level": 6,
           "uuid": "Compendium.ptu.moves.Item.TiIjSQqYprGxlHAZ",
-          "slug": "fire-spin",
-          "level": 6
+          "slug": "fire-spin"
         },
         {
+          "level": 9,
           "uuid": "Compendium.ptu.moves.Item.RKyKtJkj75j2CNJF",
-          "slug": "clear-smog",
-          "level": 9
+          "slug": "clear-smog"
         },
         {
+          "level": 12,
           "uuid": "Compendium.ptu.moves.Item.TeL0p7BkR386XexV",
-          "slug": "flame-charge",
-          "level": 12
+          "slug": "flame-charge"
         },
         {
+          "level": 14,
           "uuid": "Compendium.ptu.moves.Item.uabUdNDKH4LCcTZI",
-          "slug": "incinerate",
-          "level": 14
+          "slug": "incinerate"
         },
         {
+          "level": 16,
           "uuid": "Compendium.ptu.moves.Item.qltGKDIhEJpOqswU",
-          "slug": "will-o-wisp",
-          "level": 16
+          "slug": "will-o-wisp"
         },
         {
+          "level": 18,
           "uuid": "Compendium.ptu.moves.Item.Gma6FE34GAXWT2Ib",
-          "slug": "stored-power",
-          "level": 18
+          "slug": "stored-power"
         },
         {
+          "level": 21,
           "uuid": "Compendium.ptu.moves.Item.TD0L4L2JEH8VpTFW",
-          "slug": "ominous-wind",
-          "level": 21
+          "slug": "ominous-wind"
         },
         {
+          "level": 24,
           "uuid": "Compendium.ptu.moves.Item.sm3q5D8SkQcEmiGB",
-          "slug": "slash",
-          "level": 24
+          "slug": "slash"
         },
         {
+          "level": 26,
           "uuid": "Compendium.ptu.moves.Item.EA2vavVCPlHFLvwf",
-          "slug": "fire-punch",
-          "level": 26
+          "slug": "fire-punch"
         },
         {
+          "level": 28,
           "uuid": "Compendium.ptu.moves.Item.WpFzl62EYkpKipF5",
-          "slug": "lava-plume",
-          "level": 28
+          "slug": "lava-plume"
         },
         {
+          "level": 32,
           "uuid": "Compendium.ptu.moves.Item.BFyiKFMmD0rwvIl7",
-          "slug": "ally-switch",
-          "level": 32
+          "slug": "ally-switch"
         },
         {
+          "level": 35,
           "uuid": "Compendium.ptu.moves.Item.m01FTVITfrqlu0Kn",
-          "slug": "flamethrower",
-          "level": 35
+          "slug": "flamethrower"
         },
         {
+          "level": 38,
           "uuid": "Compendium.ptu.moves.Item.BGJbdXIYaUJJwOQN",
-          "slug": "iron-head",
-          "level": 38
+          "slug": "iron-head"
         },
         {
+          "level": 38,
           "uuid": "Compendium.ptu.moves.Item.926T6mncd7CobCCr",
-          "slug": "flash-cannon",
-          "level": 38
+          "slug": "flash-cannon"
         },
         {
+          "level": 41,
           "uuid": "Compendium.ptu.moves.Item.66w0oT6I80QzeAMr",
-          "slug": "shadow-ball",
-          "level": 41
+          "slug": "shadow-ball"
         },
         {
+          "level": 44,
           "uuid": "Compendium.ptu.moves.Item.pWHQNlyG1FYQmAJP",
-          "slug": "crushing-flames",
-          "level": 44
+          "slug": "crushing-flames"
         },
         {
+          "level": 46,
           "uuid": "Compendium.ptu.moves.Item.2J0IU5MKdpEwtTfM",
-          "slug": "fire-blast",
-          "level": 46
+          "slug": "fire-blast"
         },
         {
+          "level": 52,
           "uuid": "Compendium.ptu.moves.Item.flHTqqQtYzPLBLBg",
-          "slug": "expanding-force",
-          "level": 52
+          "slug": "expanding-force"
         },
         {
+          "level": 60,
           "uuid": "Compendium.ptu.moves.Item.GHnd27QJNXmIXfmx",
-          "slug": "armor-cannon",
-          "level": 60
+          "slug": "armor-cannon"
         }
       ],
       "machine": [
@@ -643,6 +626,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Fire",
+      "1": "Psychic",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -658,11 +646,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699648600330,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!970fYf3VFG3FKQei"
 }

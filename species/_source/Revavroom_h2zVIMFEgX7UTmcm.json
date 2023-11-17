@@ -43,8 +43,8 @@
       ],
       "high": [
         {
-          "slug": "torque-converter",
-          "uuid": "Compendium.ptu.abilities.Item.fcolRFc7EWH9BlhI"
+          "slug": "filter",
+          "uuid": "Compendium.ptu.abilities.Item.0cDFgfGwpSj2uYE2"
         }
       ]
     },
@@ -60,7 +60,7 @@
         }
       },
       {
-        "level": 40,
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.h2zVIMFEgX7UTmcm",
         "slug": "revavroom",
         "other": {
@@ -103,15 +103,16 @@
       "naturewalk": "",
       "other": [
         {
-          "slug": "forme-change",
-          "uuid": "Compendium.ptu.capabilities.Item.DECg3tjK13ZVqe1b"
+          "slug": "mountable-2",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         },
         {
-          "slug": "mountable-2"
+          "slug": "venom-sac",
+          "uuid": "Compendium.ptu.capabilities.Item.8D1RiKYJzi7vs54w"
         },
         {
-          "slug": "enginework",
-          "uuid": "Compendium.ptu.capabilities.Item.S2xvX07hfcncZGs4"
+          "slug": "massive-weight",
+          "uuid": "Compendium.ptu.capabilities.Item.zKqdzjSzDVJuyZDZ"
         }
       ]
     },
@@ -584,11 +585,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1697511617136,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1699460285428,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!h2zVIMFEgX7UTmcm"
 }

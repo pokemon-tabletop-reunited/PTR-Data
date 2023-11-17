@@ -70,7 +70,7 @@
         }
       },
       {
-        "level": 35,
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.mBK3OqwDBhdUBx67",
         "slug": "arboliva",
         "other": {
@@ -199,11 +199,6 @@
           "uuid": "Compendium.ptu.moves.Item.9TnRLGZ6WIGqIeQ4",
           "slug": "water-pulse",
           "level": 29
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.tqoJF3EAgEEv3l1l",
-          "slug": "dazzling-gleam",
-          "level": 32
         },
         {
           "uuid": "Compendium.ptu.moves.Item.GFnHPgKrM7fZd7LX",
@@ -538,11 +533,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1697507676985,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1699438638994,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!WlPrKgLQcmwhfoeZ"
 }

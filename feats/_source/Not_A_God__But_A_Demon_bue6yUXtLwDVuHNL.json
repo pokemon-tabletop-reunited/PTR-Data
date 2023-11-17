@@ -1,0 +1,52 @@
+{
+  "folder": "TajSsOGM13zplgIH",
+  "name": "Not A God, But A Demon",
+  "type": "feat",
+  "_id": "bue6yUXtLwDVuHNL",
+  "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Effect: You enter Hyper Mode without needing to meet one of the appropriate triggers or failing the initial Save roll.",
+    "snippet": "",
+    "rules": [],
+    "slug": "not-a-god-but-a-demon",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Heartless",
+      "Adept Intimidation or Combat"
+    ],
+    "frequency": "Scene x2 - Swift Action",
+    "tags": "[+Attack or Special Attack]",
+    "notes": "",
+    "free": false,
+    "class": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1697669839651,
+    "modifiedTime": 1700226845749,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!bue6yUXtLwDVuHNL"
+}

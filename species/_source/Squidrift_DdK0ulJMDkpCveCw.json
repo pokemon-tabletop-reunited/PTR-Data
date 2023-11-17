@@ -100,8 +100,8 @@
       "swim": 1,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 3,
+      "longJump": 3,
       "power": 3,
       "naturewalk": [
         "Forest"
@@ -112,11 +112,10 @@
           "uuid": "Compendium.ptu.capabilities.Item.0LMwCH4DmPe1na2l"
         },
         {
-          "slug": "sticky-hol"
+          "slug": "sticky-hold",
+          "uuid": "Compendium.ptu.capabilities.Item.BBQjPkbI532CmvQq"
         }
-      ],
-      "jumpH": 3,
-      "jumpL": 3
+      ]
     },
     "moves": {
       "level": [
@@ -528,10 +527,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!DdK0ulJMDkpCveCw"

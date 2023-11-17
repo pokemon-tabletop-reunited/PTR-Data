@@ -1,0 +1,58 @@
+{
+  "name": "Juggler [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: You gain the Quick Switch Feature, and using it costs only 1 AP.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Novice Acrobatics or Novice Guile"
+    ],
+    "frequency": "Static",
+    "tags": "[Class] [+Speed]",
+    "notes": "",
+    "free": false,
+    "class": "Juggler",
+    "name": "Juggler [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "type": "feat",
+  "folder": "u4sxjQFNU2N2zGmv",
+  "_id": "xU5YRXq7WUdeSpRv",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789278761,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!xU5YRXq7WUdeSpRv"
+}

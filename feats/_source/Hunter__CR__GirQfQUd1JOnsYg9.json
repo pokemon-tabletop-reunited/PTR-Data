@@ -1,0 +1,59 @@
+{
+  "name": "Hunter [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: Choose Pack Hunt or Teamwork. You gain the Chosen Ability.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Novice Survial",
+      "Novice Stealth"
+    ],
+    "frequency": "Static",
+    "tags": "[Class][+Speed]",
+    "notes": "",
+    "free": false,
+    "class": "Hunter",
+    "name": "Hunter [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "type": "feat",
+  "folder": "P0AeQaWQCaUDnVuY",
+  "_id": "GirQfQUd1JOnsYg9",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789273321,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!GirQfQUd1JOnsYg9"
+}

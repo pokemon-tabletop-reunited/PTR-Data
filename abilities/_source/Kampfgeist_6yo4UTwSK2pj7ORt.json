@@ -7,7 +7,7 @@
     "effect": "Trigger - The user takes Bug, Dark, or Rock-Type Damage\\nThe triggering damage is resisted one step further. The user gains STAB on Fighting-Type Moves.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "kampfgeist",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -23,18 +23,22 @@
   "_id": "6yo4UTwSK2pj7ORt",
   "effects": [],
   "folder": null,
-  "sort": 5900000,
+  "sort": 7400000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692968394056,
-    "modifiedTime": 1696691577981,
+    "modifiedTime": 1699721156284,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!6yo4UTwSK2pj7ORt"

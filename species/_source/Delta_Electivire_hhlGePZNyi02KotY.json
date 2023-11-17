@@ -40,7 +40,8 @@
       ],
       "advanced": [
         {
-          "slug": "shadow-dance"
+          "slug": "shadow-dance",
+          "uuid": "Compendium.ptu.abilities.Item.Bvrv4SX3gmS10ghW"
         },
         {
           "slug": "battle-armor",
@@ -106,8 +107,8 @@
       "swim": 3,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 2,
+      "longJump": 3,
       "power": 7,
       "naturewalk": [
         "Urban"
@@ -117,9 +118,7 @@
           "slug": "materializer",
           "uuid": "Compendium.ptu.capabilities.Item.HtXP9UnyzxdhWjZB"
         }
-      ],
-      "jumpH": 2,
-      "jumpL": 3
+      ]
     },
     "moves": {
       "level": [
@@ -189,6 +188,7 @@
           "level": 62
         },
         {
+          "uuid": "Compendium.ptu.moves.Item.JimXmGi2lPrj7Zcc",
           "slug": "new-moon",
           "level": 65
         }
@@ -370,7 +370,8 @@
           "slug": "ancient-power"
         },
         {
-          "slug": "ancient-roar-n"
+          "slug": "ancient-roar-n",
+          "uuid": "Compendium.ptu.moves.Item.rbt17HN0D19aABeC"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.y1VwfIlyeMqezi6Q",
@@ -437,7 +438,8 @@
           "slug": "mud-slap"
         },
         {
-          "slug": "new-moon-n"
+          "slug": "new-moon-n",
+          "uuid": "Compendium.ptu.moves.Item.JimXmGi2lPrj7Zcc"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.PxvFMzMThcJoJjBH",
@@ -591,10 +593,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!hhlGePZNyi02KotY"

@@ -1,0 +1,49 @@
+{
+  "name": "Tip The Scales [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Trigger: You give [Orders] that have Targets.\nEffect: All targets of the [Orders] gain +1 Combat Stage in their choice of Attack, Special Attack, or Speed, and +1 Combat Stage in Defense or Special Defense. Different targets may choose different stats.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Commander",
+      "Master Command"
+    ],
+    "frequency": "Scene x2 – Swift Action",
+    "tags": "",
+    "notes": "",
+    "free": false,
+    "class": "Commander",
+    "name": "Tip The Scales [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "g4rkUfI9kme8LqBH",
+  "_id": "8sOBcA0ZGj7MA58H",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789245386,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!8sOBcA0ZGj7MA58H"
+}

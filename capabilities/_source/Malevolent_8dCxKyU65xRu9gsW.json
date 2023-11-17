@@ -1,0 +1,39 @@
+{
+  "folder": "sBMZFUsKE5qNLzEJ",
+  "name": "Malevolent",
+  "type": "capability",
+  "_id": "8dCxKyU65xRu9gsW",
+  "img": "/systems/ptu/static/css/images/icons/capability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "The user’s Struggle Attacks may be Shadow-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. Multiple Shadow-Type Moves grant Malevolent.",
+    "snippet": "",
+    "rules": [],
+    "slug": "malevolent",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1697670824817,
+    "modifiedTime": 1700226814861,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!8dCxKyU65xRu9gsW"
+}

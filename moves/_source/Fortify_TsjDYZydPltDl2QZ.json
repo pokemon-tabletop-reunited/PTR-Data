@@ -1,0 +1,62 @@
+{
+  "folder": "fbTx2sE6CN3JvW6S",
+  "name": "Fortify",
+  "type": "move",
+  "img": "systems/ptu/static/css/images/types2/SteelIC_Icon.png",
+  "system": {
+    "origin": "Homebrew",
+    "effect": "The user gains +2 Defense and +2 Special Defense Combat Stages. All allies in the Burst gain +1 Defense and +1 Special Defense Combat Stage.",
+    "snippet": "",
+    "rules": [],
+    "slug": "fortify",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "type": "Steel",
+    "category": "Status",
+    "damageBase": "",
+    "frequency": "Daily x2",
+    "ac": "--",
+    "range": "Self, Burst 3, Friendly",
+    "contestType": "",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "uL2FnS0CT2UJ45hb": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1700091541604,
+    "modifiedTime": 1700226592676,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "TsjDYZydPltDl2QZ",
+  "sort": 0,
+  "_key": "!items!TsjDYZydPltDl2QZ"
+}

@@ -8,7 +8,7 @@
     "effect": "Trigger: This Pokemon enters Combat either from the beginning of a scene or being thrown out from a Pokeball.\nEffect: Target Ally gains 3 Ticks of HP.",
     "snippet": "",
     "rules": [],
-    "slug": "",
+    "slug": "hospitality",
     "schema": {
       "version": 0.11,
       "lastMigration": {
@@ -47,13 +47,13 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1694750808310,
-    "modifiedTime": 1699197862749,
+    "modifiedTime": 1699721156284,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "7XVQThc81TCeIypE",
-  "sort": 0,
+  "sort": 400000,
   "_key": "!items!7XVQThc81TCeIypE"
 }

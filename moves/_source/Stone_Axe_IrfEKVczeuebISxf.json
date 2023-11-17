@@ -5,10 +5,10 @@
   "folder": "lWQOqDm2AOGwGM16",
   "system": {
     "origin": "",
-    "effect": "Stone Axe is a critical hit on an 18+. Once per scene, on a hit, the target may be put in a Vortex.",
+    "effect": "The target is put in a Vortex.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "stone-axe",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -27,7 +27,7 @@
     "strongJaw": false,
     "type": "Rock",
     "category": "Physical",
-    "damageBase": 7,
+    "damageBase": "7",
     "frequency": "EOT",
     "ac": "4",
     "range": "Melee, 1 Target",
@@ -44,13 +44,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1697513698449,
+    "modifiedTime": 1699631626002,
     "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!IrfEKVczeuebISxf"

@@ -43,26 +43,30 @@
       ],
       "high": [
         {
-          "slug": "unaware",
-          "uuid": "Compendium.ptu.abilities.Item.eQiIEPjvWrRhdtdQ"
+          "slug": "electrodash",
+          "uuid": "Compendium.ptu.abilities.Item.4cIJr5LMQXpPUMah"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.gviaZomvXaScuIjY",
         "slug": "wattrel",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.FTa8XGucdiOOc766",
         "slug": "kilowattrel",
-        "level": 25,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -96,14 +100,15 @@
       "highJump": 1,
       "longJump": 2,
       "power": 6,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "guster",
           "uuid": "Compendium.ptu.capabilities.Item.St6x6ofobU8ztcts"
         },
         {
-          "slug": "mountable-1"
+          "slug": "mountable-1",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         },
         {
           "slug": "pack-mon",
@@ -548,6 +553,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Flying",
+      "1": "Electric",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -563,11 +573,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699445914986,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!FTa8XGucdiOOc766"
 }

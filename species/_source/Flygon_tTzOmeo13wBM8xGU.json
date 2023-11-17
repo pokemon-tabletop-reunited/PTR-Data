@@ -67,7 +67,7 @@
       {
         "uuid": "Compendium.ptu.species.Item.fhziHTKfX2W9fp6a",
         "slug": "vibrava",
-        "level": 25,
+        "level": 20,
         "other": {
           "restrictions": []
         }
@@ -75,7 +75,7 @@
       {
         "uuid": "Compendium.ptu.species.Item.tTzOmeo13wBM8xGU",
         "slug": "flygon",
-        "level": 45,
+        "level": 35,
         "other": {
           "restrictions": []
         }
@@ -115,7 +115,8 @@
       ],
       "other": [
         {
-          "slug": "mountable-1"
+          "slug": "mountable-1",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         }
       ]
     },

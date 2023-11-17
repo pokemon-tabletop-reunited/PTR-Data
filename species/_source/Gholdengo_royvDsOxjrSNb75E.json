@@ -37,8 +37,8 @@
           "uuid": "Compendium.ptu.abilities.Item.LrdIRV0dicIsE4fM"
         },
         {
-          "slug": "combo-striker",
-          "uuid": "Compendium.ptu.abilities.Item.1mMBmncywOEakBEy"
+          "slug": "frisk",
+          "uuid": "Compendium.ptu.abilities.Item.W64GEtQ6ZO7uxZCa"
         }
       ],
       "high": [
@@ -50,19 +50,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.LXCIqn5Knha0yT5f",
         "slug": "gimmighoul",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.royvDsOxjrSNb75E",
         "slug": "gholdengo",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -96,7 +100,7 @@
       "highJump": 1,
       "longJump": 1,
       "power": 5,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "breathless",
@@ -206,11 +210,6 @@
           "uuid": "Compendium.ptu.moves.Item.GM2n72N4lfcq8Xrt",
           "slug": "memento",
           "level": 44
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.SSbH74xRRLbvnzVT",
-          "slug": "make-it-rain",
-          "level": 48
         }
       ],
       "machine": [
@@ -646,6 +645,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Ghost",
+      "1": "Steel",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -661,11 +665,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699490784766,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!royvDsOxjrSNb75E"
 }

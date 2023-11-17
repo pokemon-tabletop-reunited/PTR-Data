@@ -57,27 +57,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.hr9wOqdl9L3JuKOR",
         "slug": "rookidee",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 15,
         "uuid": "Compendium.ptu.species.Item.4QcfiH8ygBjjGrB2",
         "slug": "corvisquire",
-        "level": 15,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.ZpvhYAKC95SC4nZ5",
         "slug": "corviknight",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -110,14 +116,15 @@
       "highJump": 4,
       "longJump": 4,
       "power": 7,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "guster",
           "uuid": "Compendium.ptu.capabilities.Item.St6x6ofobU8ztcts"
         },
         {
-          "slug": "mountable-2"
+          "slug": "mountable-2",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         }
       ]
     },
@@ -431,6 +438,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Flying",
+      "1": "Steel",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -446,11 +458,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699456103277,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!ZpvhYAKC95SC4nZ5"
 }

@@ -56,19 +56,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.Am8NFlXdWzawkjO3",
         "slug": "stantler",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.PrWc6kWS8FVFQnFR",
         "slug": "wyrdeer",
-        "level": 25,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -101,7 +105,7 @@
       "highJump": 2,
       "longJump": 2,
       "power": 4,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "tracker",
@@ -112,79 +116,84 @@
     "moves": {
       "level": [
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.50Vtl0u0jPevwY4K",
-          "slug": "tackle",
-          "level": 1
+          "slug": "tackle"
         },
         {
+          "level": 3,
           "uuid": "Compendium.ptu.moves.Item.XQOEuOenSzYNz4eO",
-          "slug": "leer",
-          "level": 3
+          "slug": "leer"
         },
         {
+          "level": 7,
           "uuid": "Compendium.ptu.moves.Item.VtkRa05N67wR9RcG",
-          "slug": "astonish",
-          "level": 7
+          "slug": "astonish"
         },
         {
+          "level": 10,
           "uuid": "Compendium.ptu.moves.Item.3abHb5scrH2j6qMF",
-          "slug": "hypnosis",
-          "level": 10
+          "slug": "hypnosis"
         },
         {
+          "level": 13,
           "uuid": "Compendium.ptu.moves.Item.99QTjxycWPkoSfze",
-          "slug": "stomp",
-          "level": 13
+          "slug": "stomp"
         },
         {
+          "level": 16,
           "uuid": "Compendium.ptu.moves.Item.IU5XxUVfxPggP6Rx",
-          "slug": "sand-attack",
-          "level": 16
+          "slug": "sand-attack"
         },
         {
+          "level": 21,
           "uuid": "Compendium.ptu.moves.Item.rmDcfFfrdq5PgwF9",
-          "slug": "take-down",
-          "level": 21
+          "slug": "take-down"
         },
         {
+          "level": 23,
           "uuid": "Compendium.ptu.moves.Item.WUgXHLrvnUAn2vky",
-          "slug": "confuse-ray",
-          "level": 23
+          "slug": "confuse-ray"
         },
         {
+          "level": 27,
           "uuid": "Compendium.ptu.moves.Item.fTu9Cq4z0G7PDH2x",
-          "slug": "calm-mind",
-          "level": 27
+          "slug": "calm-mind"
         },
         {
+          "level": 33,
           "uuid": "Compendium.ptu.moves.Item.pg083RFf3Tf7a3pX",
-          "slug": "role-play",
-          "level": 33
+          "slug": "role-play"
         },
         {
+          "level": 38,
           "uuid": "Compendium.ptu.moves.Item.bbYMsmddMV20isEx",
-          "slug": "zen-headbutt",
-          "level": 38
+          "slug": "zen-headbutt"
         },
         {
+          "level": 43,
           "uuid": "Compendium.ptu.moves.Item.X5S085dhT6JG9Top",
-          "slug": "jump-kick",
-          "level": 43
+          "slug": "jump-kick"
         },
         {
+          "level": 49,
           "uuid": "Compendium.ptu.moves.Item.rmcnLyXMgD9aKb21",
-          "slug": "imprison",
-          "level": 49
+          "slug": "imprison"
         },
         {
+          "level": 53,
           "uuid": "Compendium.ptu.moves.Item.4Bf7QbKy0NepUHk0",
-          "slug": "captivate",
-          "level": 53
+          "slug": "captivate"
         },
         {
+          "level": 55,
           "uuid": "Compendium.ptu.moves.Item.Zvyuo4sSpliuYCjX",
-          "slug": "me-first",
-          "level": 55
+          "slug": "me-first"
+        },
+        {
+          "level": 58,
+          "uuid": "Compendium.ptu.moves.Item.7Gi57ZcOWjyjhU0A",
+          "slug": "double-edge"
         }
       ],
       "machine": [
@@ -561,6 +570,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Normal",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -576,11 +589,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699647179150,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!Am8NFlXdWzawkjO3"
 }

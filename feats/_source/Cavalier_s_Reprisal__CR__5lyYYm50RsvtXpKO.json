@@ -1,0 +1,59 @@
+{
+  "name": "Cavalier’s Reprisal [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Trigger: An adjacent foe hits your Mount with an attack\nEffect: You may attempt a Push Maneuver against the attacking enemy. If this Push is successful, the attack misses.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Ride as One",
+      "Expert Acrobatics or Athletics"
+    ],
+    "frequency": "1 AP – Free Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false,
+    "class": "Rider",
+    "name": "Cavalier’s Reprisal [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "3tqdXgsWtyq6Ai5Q",
+  "_id": "5lyYYm50RsvtXpKO",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789312335,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!5lyYYm50RsvtXpKO"
+}

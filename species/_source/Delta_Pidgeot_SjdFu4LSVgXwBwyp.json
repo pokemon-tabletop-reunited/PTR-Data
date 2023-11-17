@@ -106,17 +106,16 @@
       "swim": 3,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 3,
+      "longJump": 3,
       "power": 5,
       "naturewalk": [],
       "other": [
         {
-          "slug": "mountable"
+          "slug": "mountable",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         }
-      ],
-      "jumpH": 3,
-      "jumpL": 3
+      ]
     },
     "moves": {
       "level": [
@@ -475,7 +474,8 @@
           "slug": "knock-off"
         },
         {
-          "slug": "medusa-ray-n"
+          "slug": "medusa-ray-n",
+          "uuid": "Compendium.ptu.moves.Item.Fhb8C4BZrU4XH5ov"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.5ZBEpaXaaoUDDxcJ",
@@ -633,10 +633,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!SjdFu4LSVgXwBwyp"

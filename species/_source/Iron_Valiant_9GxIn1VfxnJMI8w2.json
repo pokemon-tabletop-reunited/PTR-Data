@@ -50,11 +50,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.9GxIn1VfxnJMI8w2",
         "slug": "iron-valiant",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -100,20 +102,8 @@
           "uuid": "Compendium.ptu.capabilities.Item.GQ53gx8t1mfqgydo"
         },
         {
-          "slug": "darkvision",
-          "uuid": "Compendium.ptu.capabilities.Item.zzJWpOj40dLelBm5"
-        },
-        {
           "slug": "glow",
           "uuid": "Compendium.ptu.capabilities.Item.v4OOr4KlIO0DKw5r"
-        },
-        {
-          "slug": "magnetic",
-          "uuid": "Compendium.ptu.capabilities.Item.O00WEaCeKskK8vY4"
-        },
-        {
-          "slug": "stealth",
-          "uuid": "Compendium.ptu.capabilities.Item.a1N1M1GMjMClaOdj"
         },
         {
           "slug": "telekinetic",
@@ -743,6 +733,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Fighting",
+      "1": "Fairy",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -758,11 +753,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699495643419,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!9GxIn1VfxnJMI8w2"
 }

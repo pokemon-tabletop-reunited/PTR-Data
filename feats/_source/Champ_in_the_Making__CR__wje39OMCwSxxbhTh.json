@@ -1,0 +1,53 @@
+{
+  "name": "Champ in the Making [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Trigger: You use Ace Trainer to give Pokémon Trained Stats\nEffect: The default State of Trained Stats is +2 Combat Stages instead of +1.",
+    "snippet": "",
+    "rules": [],
+    "slug": "champ-in-the-making-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "4 Ace Trainer Features",
+      "Master Command"
+    ],
+    "frequency": "Drain 1 AP – Free Action",
+    "tags": "",
+    "notes": "",
+    "free": false,
+    "class": "Ace Trainer",
+    "name": "Champ in the Making [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "18LvSoVBoPmxJnOL",
+  "_id": "wje39OMCwSxxbhTh",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789227261,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!wje39OMCwSxxbhTh"
+}

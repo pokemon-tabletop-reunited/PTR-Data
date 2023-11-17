@@ -50,7 +50,8 @@
       ],
       "high": [
         {
-          "slug": "absolution"
+          "slug": "absolution",
+          "uuid": "Compendium.ptu.abilities.Item.1V9ahlPaCoyAC1zQ"
         }
       ]
     },
@@ -97,13 +98,14 @@
       "swim": 2,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 1,
+      "longJump": 1,
       "power": 2,
       "naturewalk": [],
       "other": [
         {
-          "slug": "teleporter-2"
+          "slug": "teleporter-2",
+          "uuid": "Compendium.ptu.capabilities.Item.ylhIk5i0Xtp65asH"
         },
         {
           "slug": "chilled",
@@ -117,9 +119,7 @@
           "slug": "underdog",
           "uuid": "Compendium.ptu.capabilities.Item.DyqTXmu2rrRFni89"
         }
-      ],
-      "jumpH": 1,
-      "jumpL": 1
+      ]
     },
     "moves": {
       "level": [
@@ -488,10 +488,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!aCI0QGPSK6QmQyzV"

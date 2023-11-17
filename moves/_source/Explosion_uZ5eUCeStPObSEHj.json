@@ -8,7 +8,7 @@
     "effect": "The user's HP is set to -50% of their full HP. This HP loss cannot be prevented or reduced in any way. The user's loyalty toward its trainer may be lowered.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "explosion",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -27,9 +27,9 @@
     "strongJaw": false,
     "type": "Normal",
     "category": "Physical",
-    "damageBase": 25,
+    "damageBase": "25",
     "frequency": "Daily",
-    "ac": 2,
+    "ac": "2",
     "range": "Burst 2, Smite",
     "contestType": "Beauty - Big Show",
     "stab": false,
@@ -44,13 +44,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1697513698449,
+    "modifiedTime": 1699654183285,
     "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!uZ5eUCeStPObSEHj"

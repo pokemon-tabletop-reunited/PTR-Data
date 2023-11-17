@@ -27,8 +27,8 @@
           "uuid": "Compendium.ptu.abilities.Item.osJgodPktGSkPJf4"
         },
         {
-          "slug": "rough-skin",
-          "uuid": "Compendium.ptu.abilities.Item.tlBBZXyklGWC4wyG"
+          "slug": "oblivious",
+          "uuid": "Compendium.ptu.abilities.Item.O2dMnMBgSN8ookBo"
         }
       ],
       "advanced": [
@@ -110,6 +110,14 @@
         {
           "slug": "underdog",
           "uuid": "Compendium.ptu.capabilities.Item.AIbbzjfDZix8YFkU"
+        },
+        {
+          "slug": "venom-sac",
+          "uuid": "Compendium.ptu.capabilities.Item.8D1RiKYJzi7vs54w"
+        },
+        {
+          "slug": "gilled",
+          "uuid": "Compendium.ptu.capabilities.Item.Sr5UjqsO8FydTuNw"
         }
       ]
     },
@@ -547,11 +555,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1697506793292,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1699470103892,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!6Bgfti5FCnHzgH47"
 }

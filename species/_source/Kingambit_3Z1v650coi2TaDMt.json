@@ -70,7 +70,7 @@
         }
       },
       {
-        "level": 50,
+        "level": 40,
         "uuid": "Compendium.ptu.species.Item.3Z1v650coi2TaDMt",
         "slug": "kingambit",
         "other": {
@@ -590,6 +590,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Dark",
+      "1": "Steel",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -605,11 +610,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699475779366,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!3Z1v650coi2TaDMt"
 }

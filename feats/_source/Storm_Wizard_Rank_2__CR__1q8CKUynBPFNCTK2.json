@@ -1,0 +1,62 @@
+{
+  "name": "Storm Wizard Rank 2 [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: You may learn three Moves from the list below, marked with the Storm Wizard Rank you are gaining or lower.\nRank 1: Charge, Charge Beam, Eerie Impulse, Shock Wave, Spark\nRank 2: Electro Ball, Thunder Punch, Thunder Wave ,Thunderbolt , Wild Charge\nRank 3: Discharge, Rising Voltage, Thunder, Volt Tackle, Zap Cannon",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "storm-wizard-rank-2-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Expert Acrobatics or Focus"
+    ],
+    "frequency": "Static",
+    "tags": "[Ranked 3] [+Speed]",
+    "notes": "",
+    "free": false,
+    "class": "Spark Master",
+    "name": "Storm Wizard [CR]Rank 1 [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "3iyoTE9LsCFKK2kz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1700228783754,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "1q8CKUynBPFNCTK2",
+  "_key": "!items!1q8CKUynBPFNCTK2"
+}

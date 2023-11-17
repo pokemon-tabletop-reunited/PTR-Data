@@ -7,16 +7,7 @@
     "origin": "",
     "effect": "Play Nice lowers the target's Attack by 1 Combat Stage.",
     "snippet": "",
-    "rules": [
-      {
-        "key": "ActiveEffectLike",
-        "predicate": [],
-        "mode": "subtract",
-        "path": "system.stats.atk.stage.mod",
-        "phase": "applyAEs",
-        "value": 1
-      }
-    ],
+    "rules": [],
     "slug": "play-nice",
     "schema": {
       "version": 0.11,
@@ -60,11 +51,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.0.release-candidate.1",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1698110434197,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1699268438447,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!1x4TfrhoZdHT7Sj2"
 }

@@ -1,0 +1,58 @@
+{
+  "name": "Dancer [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: Choose Spinning Dance or Own Tempo. You gain the chosen Ability.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Novice Acrobatics or Novice Athletics or Charm"
+    ],
+    "frequency": "Static",
+    "tags": "[Class][+Speed]",
+    "notes": "",
+    "free": false,
+    "class": "Dancer",
+    "name": "Dancer [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "type": "feat",
+  "folder": "5JFKPKlyJEga6GKY",
+  "_id": "4cvt6gLXQyBm8WLw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789250007,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!4cvt6gLXQyBm8WLw"
+}

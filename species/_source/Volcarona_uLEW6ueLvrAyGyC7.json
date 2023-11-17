@@ -57,19 +57,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.9kHXtDJQxJ1NhXGm",
         "slug": "larvesta",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.uLEW6ueLvrAyGyC7",
         "slug": "volcarona",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -102,7 +106,7 @@
       "highJump": 1,
       "longJump": 1,
       "power": 3,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "egg-warmer",
@@ -485,6 +489,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Bug",
+      "1": "Fire",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -500,11 +509,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699645553841,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!uLEW6ueLvrAyGyC7"
 }

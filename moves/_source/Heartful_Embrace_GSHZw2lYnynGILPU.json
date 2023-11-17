@@ -1,0 +1,61 @@
+{
+  "folder": "O2vsL1IY0u9DOERr",
+  "name": "Heartful Embrace",
+  "type": "move",
+  "_id": "GSHZw2lYnynGILPU",
+  "img": "systems/ptu/static/css/images/types2/FairyIC_Icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Heartful Embrace lowers the target’s Attack 1 Combat Stage on 18+, and is a Critical Hit on 19+.\nBonus: Heartful Embrace is treated as being super effective against the Shadow Type.",
+    "snippet": "",
+    "rules": [],
+    "slug": "heartful-embrace",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "type": "Fairy",
+    "category": "Physical",
+    "damageBase": "8",
+    "frequency": "EOT",
+    "ac": "2",
+    "range": "Melee, 1 Target",
+    "contestType": "",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1697668764147,
+    "modifiedTime": 1700226888777,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!GSHZw2lYnynGILPU"
+}

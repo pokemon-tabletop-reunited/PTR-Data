@@ -1,0 +1,48 @@
+{
+  "name": "Researcher [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: Choose two Researcher Fields of Study. You may take Features from those Fields with this instance of Researcher. Gain one Feature from a chosen Researcher Field for which you qualify.\nNote: Researcher is broken up into multiple Fields of Study. You may not take Features from a Field of Study you haven’t chosen with the base Researcher Feature. You may take Researcher any number of times, each time choosing two different Fields of Study.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "An Education Skill at Novice Rank"
+    ],
+    "frequency": "Static",
+    "tags": "[Class][Branch]",
+    "notes": "",
+    "free": false,
+    "class": "Researcher",
+    "name": "Researcher [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "type": "feat",
+  "folder": "wKlgeANt8BWt41q1",
+  "_id": "DX5O4NWzs5WtxgGw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789311072,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!DX5O4NWzs5WtxgGw"
+}

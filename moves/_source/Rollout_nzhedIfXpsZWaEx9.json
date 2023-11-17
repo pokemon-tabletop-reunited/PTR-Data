@@ -8,7 +8,7 @@
     "effect": "The user continues to use Rollout on each of its turns until they miss any target with Rollout, or are not able to hit any target with Rollout during their turn. Each successive use of Rollout increases Rollout's Damage Base by 4 to a maximum of Damage Base 15.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "rollout",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -27,9 +27,9 @@
     "strongJaw": false,
     "type": "Rock",
     "category": "Physical",
-    "damageBase": 3,
+    "damageBase": "3",
     "frequency": "At-Will",
-    "ac": 4,
+    "ac": "4",
     "range": "Melee, Pass",
     "contestType": "Tough - Reliable",
     "stab": false,
@@ -44,13 +44,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1697513698449,
+    "modifiedTime": 1699633082932,
     "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!nzhedIfXpsZWaEx9"

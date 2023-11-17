@@ -7,7 +7,7 @@
     "effect": "Their turn the user may originate a Grass or Ghost Type Move from any fully grown tree within 10 meters.  Moves performed this way gain a +2 Bonus on their Accuracy Rolls.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "forest-lord",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -23,18 +23,22 @@
   "_id": "fxNhRKgNCENc7sB9",
   "effects": [],
   "folder": null,
-  "sort": 35500000,
+  "sort": 36900000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692968394056,
-    "modifiedTime": 1696691577981,
+    "modifiedTime": 1699721156284,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!fxNhRKgNCENc7sB9"

@@ -1,0 +1,59 @@
+{
+  "name": "Shield Proficiency [CR]",
+  "system": {
+    "origin": "",
+    "effect": "Effect: When you have a Shield equipped, you gain +2 Evasion. While you have a Shield readied, you gain an additional +2 Evasion and +5 additional Damage Reduction.",
+    "snippet": "",
+    "rules": [],
+    "slug": "strike-again",
+    "schema": {
+      "version": 0.11,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "PTR Compendiums"
+    },
+    "prerequisites": [
+      "Adept Combat"
+    ],
+    "frequency": "At-Will - Standard Action",
+    "tags": "",
+    "notes": "",
+    "free": false,
+    "class": "",
+    "name": "Strike Again!",
+    "useCount": 0,
+    "automation": []
+  },
+  "type": "feat",
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "DsHOL7PqMABKgssN": 3,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.ptu.feats.K4bImTLFy0wBzeEl"
+    },
+    "ptu": {
+      "prereqBackup": "Ravager Orders",
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1683368078960,
+    "modifiedTime": 1699789266611,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "folder": "99i7IqV920YvWab8",
+  "sort": -100000,
+  "_id": "7FwvcmOST7yvtu6r",
+  "_key": "!items!7FwvcmOST7yvtu6r"
+}

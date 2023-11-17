@@ -1,0 +1,52 @@
+{
+  "folder": "TajSsOGM13zplgIH",
+  "name": "Obey Me!",
+  "type": "feat",
+  "_id": "2TL3QSmrwedzJF2G",
+  "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Trigger: You use an Order with a frequency of At-Will on a Pokémon in Hyper Mode.\nEffect: The Pokémon gains the effect of the Order as normal. You must still spend all required AP costs for any Orders that need them.",
+    "snippet": "",
+    "rules": [],
+    "slug": "obey-me",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Tyrant",
+      "Adept Command"
+    ],
+    "frequency": "1 AP - Free Action",
+    "tags": "[+HP or Speed]",
+    "notes": "",
+    "free": false,
+    "class": "Tyrant"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "uL2FnS0CT2UJ45hb": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1697680771997,
+    "modifiedTime": 1700226845749,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!2TL3QSmrwedzJF2G"
+}

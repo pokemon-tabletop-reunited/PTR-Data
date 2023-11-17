@@ -27,8 +27,8 @@
           "uuid": "Compendium.ptu.abilities.Item.zskFfuRkiVBWICxG"
         },
         {
-          "slug": "quick-charge",
-          "uuid": "Compendium.ptu.abilities.Item.PBD9xVRQv7z5DAts"
+          "slug": "fluffy-charge",
+          "uuid": "Compendium.ptu.abilities.Item.bUiMiOU66wPoi3Kd"
         }
       ],
       "advanced": [
@@ -43,34 +43,40 @@
       ],
       "high": [
         {
-          "slug": "combo-striker",
-          "uuid": "Compendium.ptu.abilities.Item.1mMBmncywOEakBEy"
+          "slug": "galvanize",
+          "uuid": "Compendium.ptu.abilities.Item.nSRrYGQZQt5ve3Ng"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.5FDsGdJgYsxQN06U",
         "slug": "pawmi",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 15,
         "uuid": "Compendium.ptu.species.Item.tqclQivBDUVdp1Mt",
         "slug": "pawmo",
-        "level": 15,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.1pFql1hcnwppyvZq",
         "slug": "pawmot",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -570,6 +576,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Electric",
+      "1": "Fighting",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -585,11 +596,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699437600394,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!tqclQivBDUVdp1Mt"
 }

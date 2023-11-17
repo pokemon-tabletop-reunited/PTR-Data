@@ -32,12 +32,12 @@
       ],
       "advanced": [
         {
-          "slug": "clear-body",
-          "uuid": "Compendium.ptu.abilities.Item.SgZgmNYHuMbt7JF2"
+          "slug": "sturdy",
+          "uuid": "Compendium.ptu.abilities.Item.AaDXWUAMnhxLbyn3"
         },
         {
-          "slug": "tingle",
-          "uuid": "Compendium.ptu.abilities.Item.tFwQz6LaHAstZ073"
+          "slug": "clear-body",
+          "uuid": "Compendium.ptu.abilities.Item.SgZgmNYHuMbt7JF2"
         }
       ],
       "high": [
@@ -49,27 +49,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.RSXAqkKksFScVBHF",
         "slug": "nacli",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 15,
         "uuid": "Compendium.ptu.species.Item.pKU9dmDzgBf5MXym",
         "slug": "naclstack",
-        "level": 24,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.9JcF2NI1V0EJlc17",
         "slug": "garganacl",
-        "level": 36,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -123,6 +129,10 @@
         {
           "slug": "underdog",
           "uuid": "Compendium.ptu.capabilities.Item.AIbbzjfDZix8YFkU"
+        },
+        {
+          "slug": "breathless",
+          "uuid": "Compendium.ptu.capabilities.Item.GQ53gx8t1mfqgydo"
         }
       ]
     },
@@ -524,6 +534,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Rock",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -539,11 +553,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699439777018,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!pKU9dmDzgBf5MXym"
 }

@@ -8,7 +8,7 @@
     "effect": "The target is Flinched on a 15+.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "mountain-gale",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -27,9 +27,9 @@
     "strongJaw": false,
     "type": "Ice",
     "category": "Physical",
-    "damageBase": 10,
-    "frequency": "EOT",
-    "ac": 5,
+    "damageBase": "10",
+    "frequency": "Scene x2",
+    "ac": "5",
     "range": "5, 1 Target",
     "contestType": "Cool - Sabotage",
     "stab": false,
@@ -44,13 +44,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1697513698449,
+    "modifiedTime": 1699631509466,
     "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!PLqSrKOBY11DlwE2"

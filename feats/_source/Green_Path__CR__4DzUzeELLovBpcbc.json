@@ -1,0 +1,52 @@
+{
+  "name": "Green Path [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: You gain the Naturewalk (Grassland) and Naturewalk (Forest) capabilities, and you are immune to Moves with the Powder keyword.\nBonus: You gain the Sap Sipper Ability.",
+    "snippet": "",
+    "rules": [],
+    "slug": "green-path-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Druid"
+    ],
+    "frequency": "Static",
+    "tags": "",
+    "notes": "",
+    "free": false,
+    "class": "Druid",
+    "name": "Green Path [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "O6BHcXeqEGOHzHQw",
+  "_id": "4DzUzeELLovBpcbc",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789251464,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!4DzUzeELLovBpcbc"
+}

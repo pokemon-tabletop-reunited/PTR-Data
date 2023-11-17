@@ -33,8 +33,8 @@
       ],
       "advanced": [
         {
-          "slug": "conqueror",
-          "uuid": "Compendium.ptu.abilities.Item.Xz4QIzfP5tuvCiaU"
+          "slug": "lancer",
+          "uuid": "Compendium.ptu.abilities.Item.Pa0AfSlUnIRrorkc"
         },
         {
           "slug": "regenerator",
@@ -43,18 +43,20 @@
       ],
       "high": [
         {
-          "slug": "overbear",
-          "uuid": "Compendium.ptu.abilities.Item.Fb93hrauELg6WF20"
+          "slug": "rock-head",
+          "uuid": "Compendium.ptu.abilities.Item.2N9Ih71fbWBeoUm0"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.Q4Oez7tIhaRW9D8L",
         "slug": "cyclizar",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -88,14 +90,15 @@
       "highJump": 3,
       "longJump": 4,
       "power": 7,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "drake-touched",
           "uuid": "Compendium.ptu.capabilities.Item.I2xn0KXaXJeVGksE"
         },
         {
-          "slug": "mountable-1"
+          "slug": "mountable-1",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         },
         {
           "slug": "trusting",
@@ -507,12 +510,12 @@
     },
     "skills": {
       "acrobatics": {
-        "value": 5,
+        "value": 4,
         "modifier": 0,
         "type": "body"
       },
       "athletics": {
-        "value": 4,
+        "value": 5,
         "modifier": 0,
         "type": "body"
       },
@@ -596,6 +599,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Dragon",
+      "1": "Normal",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -611,11 +619,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699463629976,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!Q4Oez7tIhaRW9D8L"
 }

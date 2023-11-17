@@ -34,34 +34,34 @@
         {
           "slug": "perception",
           "uuid": "Compendium.ptu.abilities.Item.npbIziNlGUgPqn5M"
-        },
-        {
-          "slug": "brave-heart",
-          "uuid": "Compendium.ptu.abilities.Item.Wcj7FgxmWWFZv6mD"
         }
       ],
       "high": [
         {
-          "slug": "zero-to-hero",
-          "uuid": "Compendium.ptu.abilities.Item.Xtl31lyqhDvfE1Dc"
+          "slug": "brave-heart",
+          "uuid": "Compendium.ptu.abilities.Item.Wcj7FgxmWWFZv6mD"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.tHVM9407ZhO7XaOu",
         "slug": "finizen",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.2DQAPWNuTQaQHOMW",
         "slug": "palafin",
-        "level": 35,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -503,6 +503,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Water",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -518,11 +522,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699458726771,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!tHVM9407ZhO7XaOu"
 }

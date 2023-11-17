@@ -93,8 +93,8 @@
       "swim": 4,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 2,
+      "longJump": 2,
       "power": 5,
       "naturewalk": [
         "Grassland",
@@ -113,9 +113,7 @@
           "slug": "stealth",
           "uuid": "Compendium.ptu.capabilities.Item.v1ksvxUrvIhkV7aD"
         }
-      ],
-      "jumpH": 2,
-      "jumpL": 2
+      ]
     },
     "moves": {
       "level": [
@@ -161,8 +159,8 @@
         },
         {
           "level": 35,
-          "uuid": "",
-          "slug": "cheap-shop"
+          "uuid": "Compendium.ptu.moves.Item.9Ws1g1oYoEshnfDq",
+          "slug": "cheap-shot"
         },
         {
           "level": 39,
@@ -570,10 +568,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!lnWPmpyhJBRi2Yvz"

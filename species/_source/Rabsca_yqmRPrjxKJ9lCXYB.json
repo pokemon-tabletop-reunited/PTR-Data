@@ -23,18 +23,18 @@
     "abilities": {
       "basic": [
         {
-          "slug": "synchronize",
-          "uuid": "Compendium.ptu.abilities.Item.UimyJIOtFUcks1aO"
-        },
-        {
           "slug": "compound-eyes",
           "uuid": "Compendium.ptu.abilities.Item.25NJNoqly3Vx4LiD"
+        },
+        {
+          "slug": "pickup",
+          "uuid": "Compendium.ptu.abilities.Item.mPHOvZFG51lOB2Tf"
         }
       ],
       "advanced": [
         {
-          "slug": "psych-out",
-          "uuid": "Compendium.ptu.abilities.Item.RgllwkMAWBzr40sF"
+          "slug": "synchronize",
+          "uuid": "Compendium.ptu.abilities.Item.UimyJIOtFUcks1aO"
         },
         {
           "slug": "telepathy",
@@ -43,26 +43,30 @@
       ],
       "high": [
         {
-          "slug": "wonder-skin",
-          "uuid": "Compendium.ptu.abilities.Item.bbz2GUIWzgyAbh4z"
+          "slug": "shed-skin",
+          "uuid": "Compendium.ptu.abilities.Item.pWARd2idBLFnfGi5"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.tEnagQHa6WjsUuW3",
         "slug": "rellor",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.yqmRPrjxKJ9lCXYB",
         "slug": "rabsca",
-        "level": 25,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -109,6 +113,10 @@
         {
           "slug": "telekinetic",
           "uuid": "Compendium.ptu.capabilities.Item.bYwetISXI1HZMl3M"
+        },
+        {
+          "slug": "telepath",
+          "uuid": "Compendium.ptu.capabilities.Item.Qy7Cft4o4FAbHQ8G"
         }
       ]
     },
@@ -553,6 +561,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Bug",
+      "1": "Psychic",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -568,11 +581,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699454234253,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!yqmRPrjxKJ9lCXYB"
 }

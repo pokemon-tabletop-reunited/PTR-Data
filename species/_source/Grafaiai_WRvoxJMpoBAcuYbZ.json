@@ -27,8 +27,8 @@
           "uuid": "Compendium.ptu.abilities.Item.5bTQ0JPg9VsyVKlt"
         },
         {
-          "slug": "crippling-poison",
-          "uuid": "Compendium.ptu.abilities.Item.UZZ0E1bnjOI9iwDW"
+          "slug": "pickpocket",
+          "uuid": "Compendium.ptu.abilities.Item.8m9FR9xTLgOLRRZY"
         }
       ],
       "advanced": [
@@ -37,8 +37,8 @@
           "uuid": "Compendium.ptu.abilities.Item.aAZUoLYxGu9SpoLZ"
         },
         {
-          "slug": "blur",
-          "uuid": "Compendium.ptu.abilities.Item.yBwnq22oyVk1PHec"
+          "slug": "poison-touch",
+          "uuid": "Compendium.ptu.abilities.Item.tZqCQEp1Y7W3J3TG"
         }
       ],
       "high": [
@@ -50,19 +50,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.8rttm23K8iWNwYf6",
         "slug": "shroodle",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.WRvoxJMpoBAcuYbZ",
         "slug": "grafaiai",
-        "level": 28,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -543,6 +547,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Poison",
+      "1": "Normal",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -558,11 +567,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699447383653,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!WRvoxJMpoBAcuYbZ"
 }

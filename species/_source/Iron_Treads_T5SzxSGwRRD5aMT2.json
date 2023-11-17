@@ -33,28 +33,30 @@
           "uuid": "Compendium.ptu.abilities.Item.sK4HKyvIQrumnNOm"
         },
         {
-          "slug": "iron-barbs",
-          "uuid": "Compendium.ptu.abilities.Item.JaCmBKcCCyFeASLS"
+          "slug": "rock-head",
+          "uuid": "Compendium.ptu.abilities.Item.2N9Ih71fbWBeoUm0"
         },
         {
-          "slug": "sand-rush",
-          "uuid": "Compendium.ptu.abilities.Item.zXedk9ljVUiQ7ssV"
+          "slug": "iron-barbs",
+          "uuid": "Compendium.ptu.abilities.Item.JaCmBKcCCyFeASLS"
         }
       ],
       "high": [
         {
-          "slug": "strong-jaw",
-          "uuid": "Compendium.ptu.abilities.Item.Gqv7K8YBzWY2e5Zt"
+          "slug": "bully",
+          "uuid": "Compendium.ptu.abilities.Item.77wWcWPZRDWaq8Dh"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.T5SzxSGwRRD5aMT2",
         "slug": "iron-treads",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -105,15 +107,12 @@
           "uuid": "Compendium.ptu.capabilities.Item.O00WEaCeKskK8vY4"
         },
         {
-          "slug": "mountable-1"
+          "slug": "mountable-1",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         },
         {
           "slug": "tracker",
           "uuid": "Compendium.ptu.capabilities.Item.W1Zt8pLS50kjTL1d"
-        },
-        {
-          "slug": "wired",
-          "uuid": "Compendium.ptu.capabilities.Item.qL3NoxglZIBtFB1r"
         }
       ]
     },
@@ -611,6 +610,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Ground",
+      "1": "Steel",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -626,11 +630,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699482719851,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!T5SzxSGwRRD5aMT2"
 }

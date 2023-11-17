@@ -57,19 +57,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.uFGnCiEY7OkMr6bu",
         "slug": "grimer-alolan",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.n76SnZWqYOgVKqfu",
         "slug": "muk-alolan",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -102,7 +106,7 @@
       "highJump": 1,
       "longJump": 1,
       "power": 3,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "amorphous",
@@ -563,6 +567,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Poison",
+      "1": "Dark",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -578,11 +587,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.3",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699916636341,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!uFGnCiEY7OkMr6bu"
 }

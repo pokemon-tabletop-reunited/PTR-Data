@@ -1,0 +1,58 @@
+{
+  "name": "Diffuse Pain [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Trigger: You use a Status-Class Move gained from Hex Maniac Studies\nEffect: Choose an additional target for the Move.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.hp.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Hex Maniac Studies Rank 1"
+    ],
+    "frequency": "2 AP – Swift Action",
+    "tags": "[+HP]",
+    "notes": "",
+    "free": false,
+    "class": "Hex Maniac",
+    "name": "Diffuse Pain [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "ulRWJYcSU9YnBGQX",
+  "_id": "6IerNDyn4bIy7aUe",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789272124,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!6IerNDyn4bIy7aUe"
+}

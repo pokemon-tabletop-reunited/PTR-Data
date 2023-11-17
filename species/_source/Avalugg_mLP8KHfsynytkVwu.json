@@ -56,19 +56,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.Dbpdr4XzmNQTaybH",
         "slug": "bergmite",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.mLP8KHfsynytkVwu",
         "slug": "avalugg",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -115,7 +119,8 @@
           "uuid": "Compendium.ptu.capabilities.Item.O0LMo4PRnTk008ds"
         },
         {
-          "slug": "mountable-3"
+          "slug": "mountable-3",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         }
       ]
     },
@@ -482,6 +487,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Ice",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -497,11 +506,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699646829854,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!mLP8KHfsynytkVwu"
 }

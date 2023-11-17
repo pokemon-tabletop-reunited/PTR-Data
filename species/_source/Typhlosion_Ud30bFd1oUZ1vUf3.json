@@ -56,27 +56,43 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.oXK3ghZxul4TT7sz",
         "slug": "cyndaquil",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 15,
         "uuid": "Compendium.ptu.species.Item.SpSbQeRKYomj9jbD",
         "slug": "quilava",
-        "level": 15,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.Ud30bFd1oUZ1vUf3",
         "slug": "typhlosion",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
+        }
+      },
+      {
+        "level": 30,
+        "uuid": "Compendium.ptu.species.Item.bPALsGF8jgeoXvwe",
+        "slug": "typhlosion-hisuian",
+        "other": {
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -529,6 +545,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Fire",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -544,11 +564,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699633389108,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!Ud30bFd1oUZ1vUf3"
 }

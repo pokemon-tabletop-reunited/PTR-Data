@@ -1,0 +1,62 @@
+{
+  "folder": "fbTx2sE6CN3JvW6S",
+  "name": "Origin Bolt",
+  "type": "move",
+  "img": "systems/ptu/static/css/images/types2/SteelIC_Icon.png",
+  "system": {
+    "origin": "Homebrew",
+    "effect": "Origin Bolt Paralyzes the target on 15+. If the user used the Move Fortify on their last turn, they gain three Ticks of Temporary Hit Points.",
+    "snippet": "",
+    "rules": [],
+    "slug": "origin-bolt",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "type": "Steel",
+    "category": "Physical",
+    "damageBase": "10",
+    "frequency": "Scene x2",
+    "ac": "2",
+    "range": "8, 1 Target, Smite",
+    "contestType": "",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "uL2FnS0CT2UJ45hb": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1700092880072,
+    "modifiedTime": 1700226594433,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "sC2mOn3R3z1jVlvo",
+  "sort": 0,
+  "_key": "!items!sC2mOn3R3z1jVlvo"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Showriding [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: You may roll an additional Xd6 during the Introduction Stage of a Contest, where X is half of your Athletics Rank. You may choose any Contest Stat to attempt to gain Dice for with this roll.⠀",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Rider"
+    ],
+    "frequency": "Static",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false,
+    "class": "Rider",
+    "name": "Showriding [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "3tqdXgsWtyq6Ai5Q",
+  "_id": "ExmmibLwTSKwAfQM",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789312335,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!ExmmibLwTSKwAfQM"
+}

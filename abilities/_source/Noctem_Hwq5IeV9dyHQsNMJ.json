@@ -1,0 +1,45 @@
+{
+  "folder": "rmoa0NFMp7Td9R3R",
+  "name": "Noctem",
+  "type": "ability",
+  "img": "/systems/ptu/static/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "The weather changes to be a New Moon for 1 full round.",
+    "snippet": "",
+    "rules": [],
+    "slug": "noctem",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "frequency": "Scene x3 – Swift Action",
+    "tier": ""
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.1.1",
+    "coreVersion": "11.311",
+    "createdTime": 1696781645037,
+    "modifiedTime": 1699631903134,
+    "lastModifiedBy": "xUomATnixLnn15IR"
+  },
+  "_id": "Hwq5IeV9dyHQsNMJ",
+  "sort": 600000,
+  "_key": "!items!Hwq5IeV9dyHQsNMJ"
+}

@@ -1,0 +1,51 @@
+{
+  "folder": "IT5MlkeTVPcxSRHe",
+  "name": "Exp. Candy XS",
+  "type": "item",
+  "img": "systems/ptu/static/images/item_icons/candyXS.webp",
+  "system": {
+    "origin": "",
+    "effect": "A Pokémon that consumes this rare confection receives 30 EXP.",
+    "snippet": "",
+    "rules": [],
+    "slug": "exp-candy-xs",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "quantity": "1",
+    "category": "",
+    "cost": "0",
+    "consumable": 0,
+    "subtype": "",
+    "container": false
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "WhlnHKyCf2rNFP17": 3,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": false
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
+    "createdTime": 1696985892382,
+    "modifiedTime": 1700229465228,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "tEjP0tBuWlO4FEfJ",
+  "sort": 0,
+  "_key": "!items!tEjP0tBuWlO4FEfJ"
+}

@@ -57,27 +57,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.JGdA7GyOyNTAxzVz",
         "slug": "goomy",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 20,
         "uuid": "Compendium.ptu.species.Item.6LinrOW2HoR49lWt",
         "slug": "sliggoo-hisuian",
-        "level": 15,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 40,
         "uuid": "Compendium.ptu.species.Item.lRn7YH6sUxjxJCs5",
         "slug": "goodra-hisuian",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -109,7 +115,7 @@
       "highJump": 0,
       "longJump": 1,
       "power": 2,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "amorphous",
@@ -136,39 +142,54 @@
     "moves": {
       "level": [
         {
-          "uuid": "Compendium.ptu.moves.Item.kbFCQpaR2tvABKMa",
-          "slug": "acid-spray",
-          "level": 6
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.joCaLnLmgcLh36ym",
-          "slug": "acid-armor",
-          "level": 11
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.9TnRLGZ6WIGqIeQ4",
-          "slug": "water-pulse",
-          "level": 18
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.BGJbdXIYaUJJwOQN",
-          "slug": "iron-head",
-          "level": 25
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.qOem2TUbrvmdG1Fu",
-          "slug": "dragon-pulse",
-          "level": 25
-        },
-        {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.vqthEMp3pOOhbf5a",
-          "slug": "shelter",
-          "level": 34
+          "slug": "shelter"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.oRu76Vk1LfE93pky",
-          "slug": "hydro-pump",
-          "level": 43
+          "level": 5,
+          "uuid": "Compendium.ptu.moves.Item.zEIiTcsXhPE8v0fF",
+          "slug": "absorb"
+        },
+        {
+          "level": 9,
+          "uuid": "Compendium.ptu.moves.Item.HfiQ6I7xp7aGazV0",
+          "slug": "protect"
+        },
+        {
+          "level": 13,
+          "uuid": "Compendium.ptu.moves.Item.3vdmhkXenPgplUwb",
+          "slug": "bide"
+        },
+        {
+          "level": 18,
+          "uuid": "Compendium.ptu.moves.Item.sEpnYIBn1Bkm9ZXd",
+          "slug": "dragon-breath"
+        },
+        {
+          "level": 25,
+          "uuid": "Compendium.ptu.moves.Item.TQrk7QpDTMSD7Ycz",
+          "slug": "rain-dance"
+        },
+        {
+          "level": 28,
+          "uuid": "Compendium.ptu.moves.Item.IWQXKwgnyM2CvDLV",
+          "slug": "flail"
+        },
+        {
+          "level": 32,
+          "uuid": "Compendium.ptu.moves.Item.BGJbdXIYaUJJwOQN",
+          "slug": "iron-head"
+        },
+        {
+          "level": 38,
+          "uuid": "Compendium.ptu.moves.Item.updKSTwGuQaZfbTk",
+          "slug": "muddy-water"
+        },
+        {
+          "level": 47,
+          "uuid": "Compendium.ptu.moves.Item.qOem2TUbrvmdG1Fu",
+          "slug": "dragon-pulse"
         }
       ],
       "machine": [],
@@ -315,6 +336,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Steel",
+      "1": "Dragon",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -330,11 +356,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699646037170,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!6LinrOW2HoR49lWt"
 }

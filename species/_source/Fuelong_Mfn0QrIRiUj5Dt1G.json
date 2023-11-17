@@ -99,8 +99,8 @@
       "swim": 3,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 3,
+      "longJump": 4,
       "power": 7,
       "naturewalk": [],
       "other": [
@@ -113,14 +113,14 @@
           "uuid": "Compendium.ptu.capabilities.Item.Lo40NOnB3BHuOH7J"
         },
         {
-          "slug": "mountable-1"
+          "slug": "mountable-1",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         },
         {
-          "slug": "volatile-bom"
+          "slug": "volatile-bomb",
+          "uuid": "Compendium.ptu.capabilities.Item.AwHMDdbqCI2nugGD"
         }
-      ],
-      "jumpH": 3,
-      "jumpL": 4
+      ]
     },
     "moves": {
       "level": [
@@ -572,10 +572,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Mfn0QrIRiUj5Dt1G"

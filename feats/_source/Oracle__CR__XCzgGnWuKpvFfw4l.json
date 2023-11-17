@@ -1,0 +1,59 @@
+{
+  "name": "Oracle [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: Roll a number of d20s equal to half your Perception Skill Rank and note the results as your Prophecies. Whenever a d20 roll is made by any creature, you may force the result of that roll to be any of the Prophecies you generated as an Interrupt Action. Unused Prophecies disappear after an Extended Rest.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spdef.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Mystic Senses",
+      "Novice Perception"
+    ],
+    "frequency": "Daily - Extended Action",
+    "tags": "[Class] [+Special Defense]",
+    "notes": "",
+    "free": false,
+    "class": "Oracle",
+    "name": "Oracle [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/class_feat_icon.png",
+  "type": "feat",
+  "folder": "xBwAXgt5P3gmtGcD",
+  "_id": "XCzgGnWuKpvFfw4l",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789306767,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!XCzgGnWuKpvFfw4l"
+}

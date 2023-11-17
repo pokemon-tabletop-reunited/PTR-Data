@@ -30,19 +30,30 @@
     "abilities": {
       "basic": [
         {
-          "slug": "intoxicate"
+          "slug": "intoxicate",
+          "uuid": "Compendium.ptu.abilities.Item.1zpahapWsus1oIao"
         }
       ],
       "advanced": [
         {
-          "slug": "sand-force-m-sand-rush-f"
+          "slug": "sand-force-m",
+          "uuid": "Compendium.ptu.abilities.Item.mrh8upnRkfCDcSxf"
+        },
+        {
+          "slug": "sand-rush-f",
+          "uuid": "Compendium.ptu.abilities.Item.zXedk9ljVUiQ7ssV"
         },
         {
           "slug": "deadly-poison",
           "uuid": "Compendium.ptu.abilities.Item.Ia7FYpyWsMJKS4zo"
         },
         {
-          "slug": "bully-m-run-away-f"
+          "slug": "bully-m",
+          "uuid": "Compendium.ptu.abilities.Item.77wWcWPZRDWaq8Dh"
+        },
+        {
+          "slug": "run-away-f",
+          "uuid": "Compendium.ptu.abilities.Item.G9hF2ZJDvnrp7Ezx"
         }
       ],
       "high": [
@@ -103,19 +114,18 @@
       "swim": 4,
       "levitate": 0,
       "burrow": 5,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 1,
+      "longJump": 1,
       "power": 6,
       "naturewalk": [
         "Desert"
       ],
       "other": [
         {
-          "slug": "lock"
+          "slug": "mind-lock",
+          "uuid": "Compendium.ptu.capabilities.Item.nWv1YhLcYfwOtDCF"
         }
-      ],
-      "jumpH": 1,
-      "jumpL": 1
+      ]
     },
     "moves": {
       "level": [
@@ -500,10 +510,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!FVkMZb1WEdnQtC8Z"

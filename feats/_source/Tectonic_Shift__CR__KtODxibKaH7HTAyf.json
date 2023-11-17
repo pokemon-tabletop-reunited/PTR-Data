@@ -1,0 +1,63 @@
+{
+  "name": "Tectonic Shift [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: Pick three of Dig, Earthquake, Earth Power, Sand Tomb, or Scorching Sands. You learn the chosen Moves.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.def.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "tectonic-shift-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Ground Out",
+      "Master Focus or Intuition"
+    ],
+    "frequency": "Static",
+    "tags": "[+Defense]",
+    "notes": "",
+    "free": false,
+    "class": "Earth Shaker",
+    "name": "Tectonic Shift [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "d3NxFgIfiV3ERXZj",
+  "_id": "KtODxibKaH7HTAyf",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789254489,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!KtODxibKaH7HTAyf"
+}

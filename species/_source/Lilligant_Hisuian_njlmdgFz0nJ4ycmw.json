@@ -57,19 +57,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.ePyE1KMeJiGABHHI",
         "slug": "petilil",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.njlmdgFz0nJ4ycmw",
         "slug": "lilligant-hisuian",
-        "level": 25,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -116,69 +120,74 @@
     "moves": {
       "level": [
         {
+          "level": "Evo",
+          "uuid": "Compendium.ptu.moves.Item.rlwUWKRTSzWzLfuk",
+          "slug": "petal-blizzard"
+        },
+        {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.jZzomtDAHtgzeeSV",
-          "slug": "rock-smash",
-          "level": "Evo"
+          "slug": "rock-smash"
         },
         {
+          "level": 5,
           "uuid": "Compendium.ptu.moves.Item.a9o7skroYTYFt9iG",
-          "slug": "leafage",
-          "level": 5
+          "slug": "leafage"
         },
         {
+          "level": 9,
           "uuid": "Compendium.ptu.moves.Item.XssTGMznjX8N33L7",
-          "slug": "stun-spore",
-          "level": 9
+          "slug": "stun-spore"
         },
         {
+          "level": 15,
           "uuid": "Compendium.ptu.moves.Item.NisjPhyvzfHCfgSx",
-          "slug": "poison-powder",
-          "level": 15
+          "slug": "poison-powder"
         },
         {
+          "level": 22,
           "uuid": "Compendium.ptu.moves.Item.GPc4UqyAsng4fPup",
-          "slug": "energy-ball",
-          "level": 21
+          "slug": "energy-ball"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.QhX27aIM6MPFqya8",
-          "slug": "sleep-powder",
-          "level": 29
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.Dr7Eh1TGQHwQcreV",
-          "slug": "drain-punch",
-          "level": 34
-        },
-        {
+          "level": 25,
           "uuid": "Compendium.ptu.moves.Item.qJILuzcs4SDgylfD",
-          "slug": "recover",
-          "level": 37
+          "slug": "recover"
         },
         {
+          "level": 28,
+          "uuid": "Compendium.ptu.moves.Item.QhX27aIM6MPFqya8",
+          "slug": "sleep-powder"
+        },
+        {
+          "level": 31,
+          "uuid": "Compendium.ptu.moves.Item.Dr7Eh1TGQHwQcreV",
+          "slug": "drain-punch"
+        },
+        {
+          "level": 37,
           "uuid": "Compendium.ptu.moves.Item.0wyKb3JsjxCnVsr6",
-          "slug": "leaf-blade",
-          "level": 37
+          "slug": "leaf-blade"
         },
         {
+          "level": 40,
+          "uuid": "Compendium.ptu.moves.Item.yFPrElmyn059pWTH",
+          "slug": "axe-kick"
+        },
+        {
+          "level": 44,
           "uuid": "Compendium.ptu.moves.Item.1bTs14SEhSkdDxxE",
-          "slug": "victory-dance",
-          "level": 42
+          "slug": "victory-dance"
         },
         {
+          "level": 46,
           "uuid": "Compendium.ptu.moves.Item.FBj8VAFE3YZoI8C1",
-          "slug": "leaf-storm",
-          "level": 47
+          "slug": "leaf-storm"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.JEquTUzbVYPNvhNp",
-          "slug": "petal-dance",
-          "level": 53
-        },
-        {
+          "level": 50,
           "uuid": "Compendium.ptu.moves.Item.7CkvaKCsI8Oyb3LO",
-          "slug": "close-combat",
-          "level": 57
+          "slug": "close-combat"
         }
       ],
       "machine": [],
@@ -325,6 +334,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Grass",
+      "1": "Fighting",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -340,11 +354,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699644621485,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!njlmdgFz0nJ4ycmw"
 }

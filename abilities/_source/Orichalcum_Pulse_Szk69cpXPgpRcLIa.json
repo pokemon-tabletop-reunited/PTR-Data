@@ -4,7 +4,7 @@
   "img": "/systems/ptu/css/images/icons/ability_icon.png",
   "system": {
     "origin": "",
-    "effect": "The Weather changes to be Sunny for 1 full round.\\nBonus: While in Sunny weather, this Pokemon gains 1 CS in Attack. While in Hail, this Pokemon loses 1 CS in Attack.",
+    "effect": "Connection - Sunny Day. The user uses Sunny Day as a Swift Action, ignoring Frequency and as if the Move was on its Movelist.\nBonus: While in Sunny weather, this Pokemon gains +1 Attack Combat Stages. While in Hail, this Pokemon loses -1 CS Attack Combat Stages.",
     "snippet": "",
     "rules": [],
     "slug": "orichalcum-pulse",
@@ -16,14 +16,14 @@
     "source": {
       "value": "PTR Compendiums"
     },
-    "frequency": "Scene x3 - Swift Action",
+    "frequency": "Scene - Swift Action",
     "tier": "",
     "automation": []
   },
   "_id": "Szk69cpXPgpRcLIa",
   "effects": [],
   "folder": null,
-  "sort": 24200000,
+  "sort": 25600000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
@@ -35,11 +35,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692968394056,
-    "modifiedTime": 1697510860130,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1699721156284,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Szk69cpXPgpRcLIa"
 }

@@ -29,12 +29,12 @@
       ],
       "advanced": [
         {
-          "slug": "ice-body",
-          "uuid": "Compendium.ptu.abilities.Item.frxDUj1Z8z3I7HHm"
-        },
-        {
           "slug": "coldfire-star",
           "uuid": "Compendium.ptu.abilities.Item.EzadWaH8DQwXpo2D"
+        },
+        {
+          "slug": "ice-body",
+          "uuid": "Compendium.ptu.abilities.Item.frxDUj1Z8z3I7HHm"
         },
         {
           "slug": "sharpness",
@@ -43,34 +43,40 @@
       ],
       "high": [
         {
-          "slug": "critical-resistance",
-          "uuid": "Compendium.ptu.abilities.Item.VzPZOKXiIVvbNN5l"
+          "slug": "sturdy",
+          "uuid": "Compendium.ptu.abilities.Item.AaDXWUAMnhxLbyn3"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.k0M1P8yzMsQZHvyr",
         "slug": "frigibax",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 35,
         "uuid": "Compendium.ptu.species.Item.PaUtPZnl7cYzBcld",
         "slug": "arctibax",
-        "level": 35,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 50,
         "uuid": "Compendium.ptu.species.Item.gYUSA5DAXKW9LLqw",
         "slug": "baxcalibur",
-        "level": 50,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -120,6 +126,11 @@
     },
     "moves": {
       "level": [
+        {
+          "uuid": "Compendium.ptu.moves.Item.pRtupyIihgfCW09B",
+          "slug": "hail",
+          "level": 1
+        },
         {
           "uuid": "Compendium.ptu.moves.Item.50Vtl0u0jPevwY4K",
           "slug": "tackle",
@@ -563,6 +574,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Dragon",
+      "1": "Ice",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -578,11 +594,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699492215201,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!k0M1P8yzMsQZHvyr"
 }

@@ -57,19 +57,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.oEloDPEyPLyAusmi",
         "slug": "rufflet",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.ogFge5xpV8cFVkPq",
         "slug": "braviary-hisuian",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -102,7 +106,7 @@
       "highJump": 3,
       "longJump": 3,
       "power": 6,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "telekinetic",
@@ -113,49 +117,84 @@
     "moves": {
       "level": [
         {
-          "uuid": "Compendium.ptu.moves.Item.9TD6e8JoZBjIuuAP",
-          "slug": "aerial-ace",
-          "level": 6
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.CCtm8sYMR7X45ZwK",
-          "slug": "twister",
-          "level": 11
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.sm3q5D8SkQcEmiGB",
-          "slug": "slash",
-          "level": 18
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.Zl9s4r9bKURTf07l",
-          "slug": "air-slash",
-          "level": 20
-        },
-        {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.KkMY9ELz4sIimIQB",
-          "slug": "esper-wing",
-          "level": 25
+          "slug": "esper-wing"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.ytI4ym6JnQcVWGkM",
-          "slug": "roost",
-          "level": 25
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.xwJMUiNv3k0k9VK6",
+          "slug": "superpower"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.7Gi57ZcOWjyjhU0A",
-          "slug": "double-edge",
-          "level": 34
+          "level": 5,
+          "uuid": "Compendium.ptu.moves.Item.dmfUspd2RR1hlXmU",
+          "slug": "fury-attack"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.SahvKAgxHSXkU2rv",
-          "slug": "brave-bird",
-          "level": 43
+          "level": 10,
+          "uuid": "Compendium.ptu.moves.Item.kdkh4n6TWXFCaL9I",
+          "slug": "wing-attack"
         },
         {
+          "level": 14,
+          "uuid": "Compendium.ptu.moves.Item.rtmTimpeb0k1Njsy",
+          "slug": "hone-claws"
+        },
+        {
+          "level": 19,
+          "uuid": "Compendium.ptu.moves.Item.IRGZ3Cc7WrqjhF9u",
+          "slug": "scary-face"
+        },
+        {
+          "level": 23,
+          "uuid": "Compendium.ptu.moves.Item.9TD6e8JoZBjIuuAP",
+          "slug": "aerial-ace"
+        },
+        {
+          "level": 28,
+          "uuid": "Compendium.ptu.moves.Item.sm3q5D8SkQcEmiGB",
+          "slug": "slash"
+        },
+        {
+          "level": 32,
+          "uuid": "Compendium.ptu.moves.Item.DANp8m02Ocfv3esu",
+          "slug": "defog"
+        },
+        {
+          "level": 37,
+          "uuid": "Compendium.ptu.moves.Item.1WQ6vh8cbOaUzhaf",
+          "slug": "tailwind"
+        },
+        {
+          "level": 41,
+          "uuid": "Compendium.ptu.moves.Item.Zl9s4r9bKURTf07l",
+          "slug": "air-slash"
+        },
+        {
+          "level": 46,
+          "uuid": "Compendium.ptu.moves.Item.eVSyXXrYk7ylFc13",
+          "slug": "crush-claw"
+        },
+        {
+          "level": 50,
+          "uuid": "Compendium.ptu.moves.Item.CZujTEpGpPnTGGB0",
+          "slug": "sky-drop"
+        },
+        {
+          "level": 57,
+          "uuid": "Compendium.ptu.moves.Item.DCD0giVPub7Agz5U",
+          "slug": "whirlwind"
+        },
+        {
+          "level": 63,
           "uuid": "Compendium.ptu.moves.Item.UuIiRIuykuszwDPE",
-          "slug": "hurricane",
-          "level": 52
+          "slug": "hurricane"
+        },
+        {
+          "level": 70,
+          "uuid": "Compendium.ptu.moves.Item.czDZWjn9TbP9ON4q",
+          "slug": "thrash"
         }
       ],
       "machine": [],
@@ -318,6 +357,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Psychic",
+      "1": "Flying",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -333,11 +377,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699645806508,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!ogFge5xpV8cFVkPq"
 }

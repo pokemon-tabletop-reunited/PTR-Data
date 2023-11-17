@@ -1,7 +1,11 @@
 {
   "name": "Tempest",
   "type": "move",
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "effects": [],
   "_id": "wlsVm3f8L7L7r3jV",
   "system": {
@@ -9,7 +13,7 @@
     "effect": "The Weather becomes Clear. Clear Weather is the default weather, conferring no innate bonuses or penalties of any sort.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "tempest",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -47,14 +51,14 @@
   },
   "img": "/systems/ptu/css/images/types2/FlyingIC_Icon.png",
   "folder": "CKiVqPT3ASdUeaM0",
-  "sort": 0,
+  "sort": 5500000,
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.3",
     "coreVersion": "11.311",
     "createdTime": 1689606523899,
-    "modifiedTime": 1696691601608,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1700099303471,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!wlsVm3f8L7L7r3jV"
 }

@@ -1,0 +1,62 @@
+{
+  "name": "Power of the Mind [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: You gain the Interference and Levitate Abilities.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spatk.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "power-of-the-mind-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Telekinetic"
+    ],
+    "frequency": "Static",
+    "tags": "[+Special Attack]",
+    "notes": "",
+    "free": false,
+    "class": "Telekinetic",
+    "name": "Power of the Mind [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "k9NMANuFU8PfFW1I",
+  "_id": "IuC2hBTeAYwL6AKl",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789331691,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!IuC2hBTeAYwL6AKl"
+}

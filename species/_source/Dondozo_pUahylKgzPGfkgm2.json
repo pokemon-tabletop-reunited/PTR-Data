@@ -100,111 +100,112 @@
           "uuid": "Compendium.ptu.capabilities.Item.ZRme14ZKXtdxknem"
         },
         {
-          "slug": "mountable-4"
+          "slug": "mountable-4",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         }
       ]
     },
     "moves": {
       "level": [
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.50Vtl0u0jPevwY4K",
-          "slug": "tackle",
-          "level": 1
+          "slug": "tackle"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.I8d7of2dA9eAP0OG",
-          "slug": "supersonic",
-          "level": 1
+          "slug": "supersonic"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.rYLmG0KWrwYOCkmR",
-          "slug": "water-gun",
-          "level": 1
+          "slug": "water-gun"
         },
         {
+          "level": 5,
           "uuid": "Compendium.ptu.moves.Item.u7mqJHkVCUIRhlaq",
-          "slug": "tickle",
-          "level": 5
+          "slug": "tickle"
         },
         {
+          "level": 10,
           "uuid": "Compendium.ptu.moves.Item.IWQXKwgnyM2CvDLV",
-          "slug": "flail",
-          "level": 10
+          "slug": "flail"
         },
         {
+          "level": 15,
           "uuid": "Compendium.ptu.moves.Item.P0JIeR4lnilvg7K8",
-          "slug": "rest",
-          "level": 15
+          "slug": "rest"
         },
         {
+          "level": 15,
           "uuid": "Compendium.ptu.moves.Item.Jfi9FN77Rplukh7W",
-          "slug": "sleep-talk",
-          "level": 15
+          "slug": "sleep-talk"
         },
         {
+          "level": 20,
           "uuid": "Compendium.ptu.moves.Item.CbxiHzGex7oTghfX",
-          "slug": "swallow",
-          "level": 20
+          "slug": "swallow"
         },
         {
+          "level": 20,
           "uuid": "Compendium.ptu.moves.Item.5P4ZKecoBzCd8vh5",
-          "slug": "dive",
-          "level": 20
+          "slug": "dive"
         },
         {
+          "level": 20,
           "uuid": "Compendium.ptu.moves.Item.VTgi7fLjJYUtu8GT",
-          "slug": "stockpile",
-          "level": 20
+          "slug": "stockpile"
         },
         {
+          "level": 20,
           "uuid": "Compendium.ptu.moves.Item.srUwReOeuVGAPTa5",
-          "slug": "spit-up",
-          "level": 20
+          "slug": "spit-up"
         },
         {
+          "level": 25,
           "uuid": "Compendium.ptu.moves.Item.AZxJ0mZxf9M32w2b",
-          "slug": "noble-roar",
-          "level": 25
+          "slug": "noble-roar"
         },
         {
+          "level": 30,
           "uuid": "Compendium.ptu.moves.Item.sKWmTZ2uB6fKrhmo",
-          "slug": "soak",
-          "level": 30
+          "slug": "soak"
         },
         {
+          "level": 35,
           "uuid": "Compendium.ptu.moves.Item.DzD1pun72sIQFQle",
-          "slug": "body-slam",
-          "level": 35
+          "slug": "body-slam"
         },
         {
+          "level": 40,
           "uuid": "Compendium.ptu.moves.Item.O8DwOJXqhrynxm8B",
-          "slug": "aqua-tail",
-          "level": 40
+          "slug": "aqua-tail"
         },
         {
+          "level": 45,
           "uuid": "Compendium.ptu.moves.Item.TQrk7QpDTMSD7Ycz",
-          "slug": "rain-dance",
-          "level": 45
+          "slug": "rain-dance"
         },
         {
+          "level": 50,
           "uuid": "Compendium.ptu.moves.Item.Q4vyTj8ohPd0IVak",
-          "slug": "order-up",
-          "level": 50
+          "slug": "order-up"
         },
         {
+          "level": 55,
           "uuid": "Compendium.ptu.moves.Item.W3CQUsjZCf2VJUCz",
-          "slug": "heavy-slam",
-          "level": 55
+          "slug": "heavy-slam"
         },
         {
+          "level": 60,
           "uuid": "Compendium.ptu.moves.Item.7Gi57ZcOWjyjhU0A",
-          "slug": "double-edge",
-          "level": 60
+          "slug": "double-edge"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.XNmCCgclMJf0MP6C",
-          "slug": "wave-crash",
-          "level": 65
+          "level": 65,
+          "uuid": "Item.bHiHzGiAKoa5dlsF",
+          "slug": "wave-crash"
         }
       ],
       "machine": [
@@ -556,11 +557,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699468685926,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!pUahylKgzPGfkgm2"
 }

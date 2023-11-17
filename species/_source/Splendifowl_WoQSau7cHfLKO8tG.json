@@ -106,8 +106,8 @@
       "swim": 2,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 3,
+      "longJump": 3,
       "power": 2,
       "naturewalk": [],
       "other": [
@@ -119,9 +119,7 @@
           "slug": "guster",
           "uuid": "Compendium.ptu.capabilities.Item.ab2fl2SzdSMAY3Xc"
         }
-      ],
-      "jumpH": 3,
-      "jumpL": 3
+      ]
     },
     "moves": {
       "level": [
@@ -494,11 +492,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1697514480122,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1700237629026,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!WoQSau7cHfLKO8tG"
 }

@@ -1,0 +1,46 @@
+{
+  "folder": null,
+  "name": "Corrosive Toxins",
+  "type": "ability",
+  "img": "/systems/ptu/static/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "Core",
+    "effect": "Effect: Connection - Toxic. The user may activate this Ability when using Toxic to allow the Move to ignore Immunity to the Status Affliction, Blessings, and the effects of Abilities that may prevent Hit Point loss from being Badly Poisoned (such as Magic Guard or Poison Heal).",
+    "snippet": "",
+    "rules": [],
+    "slug": "corrosive-toxins",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "frequency": "Scene - Free Action",
+    "tier": ""
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "uL2FnS0CT2UJ45hb": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.1.1",
+    "coreVersion": "11.311",
+    "createdTime": 1699487038051,
+    "modifiedTime": 1699721156284,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "Qk77Fwba7PeN49u7",
+  "sort": 100000,
+  "_key": "!items!Qk77Fwba7PeN49u7"
+}

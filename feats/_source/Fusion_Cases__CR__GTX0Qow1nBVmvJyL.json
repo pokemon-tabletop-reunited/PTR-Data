@@ -1,0 +1,49 @@
+{
+  "name": "Fusion Cases [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Ingredients: Two different types of Poké Ball Cases.\nEffect: You combine the two Poké Ball Cases into a single Fusion Case with both effects and types. Fusion Cases may not be used as Ingredients for this Feature.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Jailbreaker",
+      "Master Technology Education"
+    ],
+    "frequency": "At-Will – Extended Action",
+    "tags": "",
+    "notes": "",
+    "free": false,
+    "class": "Researcher",
+    "name": "Fusion Cases [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "wKlgeANt8BWt41q1",
+  "_id": "GTX0Qow1nBVmvJyL",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789311072,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!GTX0Qow1nBVmvJyL"
+}

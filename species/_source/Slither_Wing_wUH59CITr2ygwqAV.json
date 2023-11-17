@@ -29,8 +29,8 @@
       ],
       "advanced": [
         {
-          "slug": "anticipation",
-          "uuid": "Compendium.ptu.abilities.Item.ecHI9zYQZG8UWvuz"
+          "slug": "compound-eyes",
+          "uuid": "Compendium.ptu.abilities.Item.25NJNoqly3Vx4LiD"
         },
         {
           "slug": "guts",
@@ -50,11 +50,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.wUH59CITr2ygwqAV",
         "slug": "slither-wing",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -87,7 +89,7 @@
       "highJump": 1,
       "longJump": 1,
       "power": 10,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "egg-warmer",
@@ -106,94 +108,89 @@
     "moves": {
       "level": [
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.kdkh4n6TWXFCaL9I",
-          "slug": "wing-attack",
-          "level": 1
+          "slug": "wing-attack"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.IH2EuCM09nw3lOgQ",
-          "slug": "ember",
-          "level": 1
+          "slug": "ember"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.NOJaY2kH3aQcaexD",
-          "slug": "bug-bite",
-          "level": 1
+          "slug": "bug-bite"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.dOMKjZx7flfPZTtV",
-          "slug": "low-kick",
-          "level": 1
+          "slug": "low-kick"
         },
         {
+          "level": 4,
           "uuid": "Compendium.ptu.moves.Item.NisjPhyvzfHCfgSx",
-          "slug": "poison-powder",
-          "level": 4
+          "slug": "poison-powder"
         },
         {
+          "level": 4,
           "uuid": "Compendium.ptu.moves.Item.XssTGMznjX8N33L7",
-          "slug": "stun-spore",
-          "level": 4
+          "slug": "stun-spore"
         },
         {
+          "level": 8,
           "uuid": "Compendium.ptu.moves.Item.TeL0p7BkR386XexV",
-          "slug": "flame-charge",
-          "level": 8
+          "slug": "flame-charge"
         },
         {
+          "level": 12,
           "uuid": "Compendium.ptu.moves.Item.99QTjxycWPkoSfze",
-          "slug": "stomp",
-          "level": 12
+          "slug": "stomp"
         },
         {
+          "level": 16,
           "uuid": "Compendium.ptu.moves.Item.PdslVg2qIvDMDHiA",
-          "slug": "low-sweep",
-          "level": 16
+          "slug": "low-sweep"
         },
         {
+          "level": 20,
           "uuid": "Compendium.ptu.moves.Item.zUrh8yq6xkj8Ja3N",
-          "slug": "morning-sun",
-          "level": 20
+          "slug": "morning-sun"
         },
         {
+          "level": 24,
           "uuid": "Compendium.ptu.moves.Item.GVdOLqamIf4d7wJU",
-          "slug": "lunge",
-          "level": 24
+          "slug": "lunge"
         },
         {
+          "level": 28,
           "uuid": "Compendium.ptu.moves.Item.du6VccHCQ2VjQ0D8",
-          "slug": "bulk-up",
-          "level": 28
+          "slug": "bulk-up"
         },
         {
+          "level": 32,
           "uuid": "Compendium.ptu.moves.Item.x6Pk6ClFw3trGL9a",
-          "slug": "dual-wingbeat",
-          "level": 32
+          "slug": "dual-wingbeat"
         },
         {
+          "level": 36,
           "uuid": "Compendium.ptu.moves.Item.FewUYoJG43VJnop2",
-          "slug": "first-impression",
-          "level": 36
+          "slug": "first-impression"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.xwJMUiNv3k0k9VK6",
-          "slug": "superpower",
-          "level": 40
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.xwJMUiNv3k0k9VK6",
-          "slug": "superpower",
-          "level": 44
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.IqR2d6OPYZMNbYYl",
-          "slug": "leech-life",
-          "level": 48
-        },
-        {
+          "level": 44,
           "uuid": "Compendium.ptu.moves.Item.czDZWjn9TbP9ON4q",
-          "slug": "thrash",
-          "level": 52
+          "slug": "thrash"
+        },
+        {
+          "level": 48,
+          "uuid": "Compendium.ptu.moves.Item.IqR2d6OPYZMNbYYl",
+          "slug": "leech-life"
+        },
+        {
+          "level": 49,
+          "uuid": "Compendium.ptu.moves.Item.xwJMUiNv3k0k9VK6",
+          "slug": "superpower"
         }
       ],
       "machine": [
@@ -565,6 +562,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Bug",
+      "1": "Fighting",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -580,11 +582,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699478297818,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!wUH59CITr2ygwqAV"
 }

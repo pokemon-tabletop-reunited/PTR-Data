@@ -123,44 +123,84 @@
     "moves": {
       "level": [
         {
-          "uuid": "Compendium.ptu.moves.Item.50Vtl0u0jPevwY4K",
-          "slug": "tackle",
-          "level": 5
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.wxMkDV7tasspdddy",
-          "slug": "thunder-wave",
-          "level": 9
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.2Bldc8dEEOuOSx39",
-          "slug": "spark",
-          "level": 15
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.GPc4UqyAsng4fPup",
-          "slug": "energy-ball",
-          "level": 21
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.y9WyqqBWO4tAaX8G",
-          "slug": "thunderbolt",
-          "level": 29
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.w5E02WXdvxiY8n0Z",
-          "slug": "thunder",
-          "level": 37
-        },
-        {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.y6M9QbXfZQV59puS",
-          "slug": "chloroblast",
-          "level": 47
+          "slug": "chloroblast"
         },
         {
+          "level": 4,
+          "uuid": "Compendium.ptu.moves.Item.kLwGOMnWIIl2m3sU",
+          "slug": "sonic-boom"
+        },
+        {
+          "level": 6,
+          "uuid": "Compendium.ptu.moves.Item.XssTGMznjX8N33L7",
+          "slug": "stun-spore"
+        },
+        {
+          "level": 9,
+          "uuid": "Compendium.ptu.moves.Item.ptP5LFYkJR4BJHIu",
+          "slug": "bullet-seed"
+        },
+        {
+          "level": 11,
+          "uuid": "Compendium.ptu.moves.Item.nzhedIfXpsZWaEx9",
+          "slug": "rollout"
+        },
+        {
+          "level": 13,
+          "uuid": "Compendium.ptu.moves.Item.TD9T2QEalKGQZicp",
+          "slug": "screech"
+        },
+        {
+          "level": 16,
+          "uuid": "Compendium.ptu.moves.Item.Z38TtI0Rkj5fIHLD",
+          "slug": "charge-beam"
+        },
+        {
+          "level": 20,
+          "uuid": "Compendium.ptu.moves.Item.MLCGs5okqB4BLJKc",
+          "slug": "swift"
+        },
+        {
+          "level": 22,
+          "uuid": "Compendium.ptu.moves.Item.0OG6qacE7JQqxM5a",
+          "slug": "electro-ball"
+        },
+        {
+          "level": 26,
           "uuid": "Compendium.ptu.moves.Item.JJzbmEnsVa1QCx5V",
-          "slug": "self-destruct",
-          "level": 47
+          "slug": "self-destruct"
+        },
+        {
+          "level": 29,
+          "uuid": "Compendium.ptu.moves.Item.GPc4UqyAsng4fPup",
+          "slug": "energy-ball"
+        },
+        {
+          "level": 36,
+          "uuid": "Compendium.ptu.moves.Item.b18uGrjFdKGy0rBU",
+          "slug": "seed-bomb"
+        },
+        {
+          "level": 41,
+          "uuid": "Compendium.ptu.moves.Item.0KazDGc9T8CETH5f",
+          "slug": "discharge"
+        },
+        {
+          "level": 47,
+          "uuid": "Compendium.ptu.moves.Item.uZ5eUCeStPObSEHj",
+          "slug": "explosion"
+        },
+        {
+          "level": 54,
+          "uuid": "Compendium.ptu.moves.Item.jn8ej4sQ6o2PuUJx",
+          "slug": "gyro-ball"
+        },
+        {
+          "level": 58,
+          "uuid": "Compendium.ptu.moves.Item.dXNYCLtPWarypUld",
+          "slug": "grassy-terrain"
         }
       ],
       "machine": [],
@@ -319,11 +359,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699636510669,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!cIJzHmV0fMqEB7Rr"
 }

@@ -1,0 +1,63 @@
+{
+  "name": "Silent Assassin [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: While this Feature is Bound, your Struggle Attacks and Weapon Attacks Flinch targets on 18+ (if the Attack already has a chance of Flinching, extend the that Effect Range by +3), and they may deal Ghost-Type Damage if you wish.\nBonus: You gain the Dead Silent Capability, and a bonus to Stealth checks equal to half your Intimidate or Occult Education Rank.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.atk.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "silent-assassin-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Apparition",
+      "Adept Intimidate or Occult Education"
+    ],
+    "frequency": "Bind 2 AP – Standard Action",
+    "tags": "[+Attack] [Weapon]",
+    "notes": "",
+    "free": false,
+    "class": "Apparition",
+    "name": "Silent Assassin [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "9Lj9g7fcD9O4Gws1",
+  "_id": "TPYTuTGFepCKqlna",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789232237,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!TPYTuTGFepCKqlna"
+}

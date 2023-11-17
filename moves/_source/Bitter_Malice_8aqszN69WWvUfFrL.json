@@ -5,10 +5,10 @@
   "folder": "lWQOqDm2AOGwGM16",
   "system": {
     "origin": "",
-    "effect": "Legal targets hit by Bitter Malice are Stuck and Trapped until the end of their next turn on a 19+. Once a Scene, if Bitter Malice's target has a Status Condition, you may double Bitter Malice's Damage Base to 12 instead (3d12+10 /30).",
+    "effect": "On a 19+, legal targets hit by Bitter Malice are Stuck and Trapped until the end of their next turn. On a hit, lower the Attack of all legal targets by 1 Combat Stage.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "bitter-malice",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -27,9 +27,9 @@
     "strongJaw": false,
     "type": "Ghost",
     "category": "Special",
-    "damageBase": 6,
+    "damageBase": "8",
     "frequency": "At-Will",
-    "ac": 2,
+    "ac": "2",
     "range": "6, 1 Target",
     "contestType": "Smart - Unsettling",
     "stab": false,
@@ -44,13 +44,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1697513698449,
+    "modifiedTime": 1699631276819,
     "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!8aqszN69WWvUfFrL"

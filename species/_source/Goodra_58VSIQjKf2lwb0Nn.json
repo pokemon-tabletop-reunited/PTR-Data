@@ -56,27 +56,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.JGdA7GyOyNTAxzVz",
         "slug": "goomy",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 20,
         "uuid": "Compendium.ptu.species.Item.gf3Q2vv3aVEfaFRN",
         "slug": "sliggoo",
-        "level": 20,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 40,
         "uuid": "Compendium.ptu.species.Item.58VSIQjKf2lwb0Nn",
         "slug": "goodra",
-        "level": 40,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -109,7 +115,7 @@
       "highJump": 2,
       "longJump": 2,
       "power": 8,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "amorphous",
@@ -481,6 +487,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Dragon",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -496,11 +506,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699646451569,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!58VSIQjKf2lwb0Nn"
 }

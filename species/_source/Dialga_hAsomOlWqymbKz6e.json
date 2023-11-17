@@ -57,11 +57,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.hAsomOlWqymbKz6e",
         "slug": "dialga",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -93,14 +95,15 @@
       "highJump": 3,
       "longJump": 3,
       "power": 10,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "aura-reader",
           "uuid": "Compendium.ptu.capabilities.Item.TtY94KGl4bDY1e0b"
         },
         {
-          "slug": "mountable-2"
+          "slug": "mountable-2",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         },
         {
           "slug": "telekinetic",
@@ -521,6 +524,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Steel",
+      "1": "Dragon",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -536,11 +544,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699651268563,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!hAsomOlWqymbKz6e"
 }

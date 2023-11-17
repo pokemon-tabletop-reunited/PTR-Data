@@ -29,32 +29,34 @@
       ],
       "advanced": [
         {
-          "slug": "toxic-nourishment",
-          "uuid": "Compendium.ptu.abilities.Item.yyh8vUVk3EPRTi6k"
-        },
-        {
           "slug": "magma-armor",
           "uuid": "Compendium.ptu.abilities.Item.hMzd6dUVY7WpGbfh"
         },
         {
           "slug": "brimstone",
           "uuid": "Compendium.ptu.abilities.Item.LsevtHLkLeZf2FF4"
+        },
+        {
+          "slug": "corrosive-toxins",
+          "uuid": "Item.RNlv9uogyYuAPD8v"
         }
       ],
       "high": [
         {
-          "slug": "sunglow",
-          "uuid": "Compendium.ptu.abilities.Item.0TPJJRk1g6pa08Ey"
+          "slug": "deadly-poison",
+          "uuid": "Compendium.ptu.abilities.Item.oA45nsUcwtBPKXnW"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.x27MwhNbSoLUP2q8",
         "slug": "iron-moth",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -88,7 +90,7 @@
       "highJump": 1,
       "longJump": 1,
       "power": 5,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "breathless",
@@ -107,16 +109,12 @@
           "uuid": "Compendium.ptu.capabilities.Item.9DQsEtRIDXdw7ICw"
         },
         {
-          "slug": "lifesense",
-          "uuid": "Compendium.ptu.capabilities.Item.GMdVFw84glGqsOfb"
-        },
-        {
           "slug": "magnetic",
           "uuid": "Compendium.ptu.capabilities.Item.O00WEaCeKskK8vY4"
         },
         {
-          "slug": "wired",
-          "uuid": "Compendium.ptu.capabilities.Item.qL3NoxglZIBtFB1r"
+          "slug": "venom-sac",
+          "uuid": "Compendium.ptu.capabilities.Item.8D1RiKYJzi7vs54w"
         }
       ]
     },
@@ -597,6 +595,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Fire",
+      "1": "Poison",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -612,11 +615,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699487206193,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!x27MwhNbSoLUP2q8"
 }

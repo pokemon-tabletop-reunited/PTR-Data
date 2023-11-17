@@ -29,12 +29,12 @@
       ],
       "advanced": [
         {
-          "slug": "trinity",
-          "uuid": "Compendium.ptu.abilities.Item.gjBuKZIXrPPPYlAp"
-        },
-        {
           "slug": "malice",
           "uuid": "Compendium.ptu.abilities.Item.zGBkcq3Yq2drkdIv"
+        },
+        {
+          "slug": "pride",
+          "uuid": "Compendium.ptu.abilities.Item.8brN3Vlz1joXVmO2"
         },
         {
           "slug": "interference",
@@ -50,11 +50,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.4O3vH7BPMVwY7Nef",
         "slug": "iron-jugulis",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -87,19 +89,11 @@
       "highJump": 2,
       "longJump": 2,
       "power": 7,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
-        {
-          "slug": "blindsense",
-          "uuid": "Compendium.ptu.capabilities.Item.vA7vGdfceeDzi5sc"
-        },
         {
           "slug": "breathless",
           "uuid": "Compendium.ptu.capabilities.Item.GQ53gx8t1mfqgydo"
-        },
-        {
-          "slug": "lifesense",
-          "uuid": "Compendium.ptu.capabilities.Item.GMdVFw84glGqsOfb"
         },
         {
           "slug": "magnetic",
@@ -110,15 +104,16 @@
           "uuid": "Compendium.ptu.capabilities.Item.nWv1YhLcYfwOtDCF"
         },
         {
-          "slug": "mountable-1"
+          "slug": "mountable-1",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
+        },
+        {
+          "slug": "darkvision",
+          "uuid": "Compendium.ptu.capabilities.Item.zzJWpOj40dLelBm5"
         },
         {
           "slug": "stealth",
           "uuid": "Compendium.ptu.capabilities.Item.a1N1M1GMjMClaOdj"
-        },
-        {
-          "slug": "wired",
-          "uuid": "Compendium.ptu.capabilities.Item.qL3NoxglZIBtFB1r"
         }
       ]
     },
@@ -614,6 +609,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Dark",
+      "1": "Flying",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -629,11 +629,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699486415334,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!4O3vH7BPMVwY7Nef"
 }

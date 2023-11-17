@@ -23,8 +23,8 @@
     "abilities": {
       "basic": [
         {
-          "slug": "discipline",
-          "uuid": "Compendium.ptu.abilities.Item.kHDxnwsm7KNgQuQY"
+          "slug": "dodge",
+          "uuid": "Compendium.ptu.abilities.Item.TAtIrb9iZKJLUtQT"
         },
         {
           "slug": "swarm",
@@ -43,8 +43,8 @@
       ],
       "high": [
         {
-          "slug": "dodge",
-          "uuid": "Compendium.ptu.abilities.Item.TAtIrb9iZKJLUtQT"
+          "slug": "blur",
+          "uuid": "Compendium.ptu.abilities.Item.yBwnq22oyVk1PHec"
         }
       ]
     },
@@ -610,11 +610,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1697506662105,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1699437396644,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!tYChVtVHj3Gw45rh"
 }

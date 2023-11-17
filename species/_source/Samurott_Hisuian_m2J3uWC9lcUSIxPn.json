@@ -57,35 +57,43 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.1GQ6lg79KkyJOtJP",
         "slug": "oshawott",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 15,
         "uuid": "Compendium.ptu.species.Item.6ji7U877ZH49nJOa",
         "slug": "dewott",
-        "level": 15,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.WEn2R8Bj7LksMzmm",
         "slug": "samurott",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.m2J3uWC9lcUSIxPn",
         "slug": "samurott-hisuian",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -143,49 +151,89 @@
     "moves": {
       "level": [
         {
-          "uuid": "Compendium.ptu.moves.Item.WRDjP0nlxlzd20a5",
-          "slug": "night-slash",
-          "level": "Evo"
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.Htb3LXoNd24yFNEG",
-          "slug": "aqua-jet",
-          "level": 6
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.z5hgetbLhLvsd800",
-          "slug": "swords-dance",
-          "level": 11
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.9TnRLGZ6WIGqIeQ4",
-          "slug": "water-pulse",
-          "level": 18
-        },
-        {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.SJgQHdeEdZ98BPbU",
-          "slug": "ceaseless-edge",
-          "level": 21
+          "slug": "ceaseless-edge"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.sm3q5D8SkQcEmiGB",
-          "slug": "slash",
-          "level": 25
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.StGpIzCBfyxbhlSv",
+          "slug": "megahorn"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.O8DwOJXqhrynxm8B",
-          "slug": "aqua-tail",
-          "level": 34
+          "level": 5,
+          "uuid": "Compendium.ptu.moves.Item.6lQy212f7N3GH5KS",
+          "slug": "tail-whip"
         },
         {
+          "level": 7,
+          "uuid": "Compendium.ptu.moves.Item.rYLmG0KWrwYOCkmR",
+          "slug": "water-gun"
+        },
+        {
+          "level": 13,
+          "uuid": "Compendium.ptu.moves.Item.TbqvNIqswHYAVHOW",
+          "slug": "focus-energy"
+        },
+        {
+          "level": 18,
+          "uuid": "Compendium.ptu.moves.Item.OijK9459N1YEnF1Y",
+          "slug": "razor-shell"
+        },
+        {
+          "level": 26,
+          "uuid": "Compendium.ptu.moves.Item.4W8tzNRKdmn0WRYd",
+          "slug": "fury-cutter"
+        },
+        {
+          "level": 26,
+          "uuid": "Compendium.ptu.moves.Item.9TnRLGZ6WIGqIeQ4",
+          "slug": "water-pulse"
+        },
+        {
+          "level": 29,
+          "uuid": "Compendium.ptu.moves.Item.eWzbtm5EjwcP1GoO",
+          "slug": "revenge"
+        },
+        {
+          "level": 34,
+          "uuid": "Compendium.ptu.moves.Item.WRDjP0nlxlzd20a5",
+          "slug": "night-slash"
+        },
+        {
+          "level": 34,
+          "uuid": "Compendium.ptu.moves.Item.Htb3LXoNd24yFNEG",
+          "slug": "aqua-jet"
+        },
+        {
+          "level": 39,
+          "uuid": "Compendium.ptu.moves.Item.UhvLxdWq2D7gOvMr",
+          "slug": "encore"
+        },
+        {
+          "level": 46,
           "uuid": "Compendium.ptu.moves.Item.M9VSBteeyEya9Qcf",
-          "slug": "dark-pulse",
-          "level": 40
+          "slug": "dark-pulse"
         },
         {
+          "level": 46,
+          "uuid": "Compendium.ptu.moves.Item.O8DwOJXqhrynxm8B",
+          "slug": "aqua-tail"
+        },
+        {
+          "level": 51,
+          "uuid": "Compendium.ptu.moves.Item.P0VBbEO76A1KyQIM",
+          "slug": "retaliate"
+        },
+        {
+          "level": 58,
+          "uuid": "Compendium.ptu.moves.Item.z5hgetbLhLvsd800",
+          "slug": "swords-dance"
+        },
+        {
+          "level": 63,
           "uuid": "Compendium.ptu.moves.Item.oRu76Vk1LfE93pky",
-          "slug": "hydro-pump",
-          "level": 43
+          "slug": "hydro-pump"
         }
       ],
       "machine": [],
@@ -208,16 +256,12 @@
           "slug": "false-swipe"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.TbqvNIqswHYAVHOW",
-          "slug": "focus-energy"
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.WGOQso4iji1XKrdK",
-          "slug": "giga-impact"
-        },
-        {
           "uuid": "Compendium.ptu.moves.Item.WV86ctKatPhQpZC3",
           "slug": "hyper-beam"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.D74cXkXg5Ly3Bl4g",
+          "slug": "hydro-cannon"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.ipZPqONhX7WsWJ5U",
@@ -228,8 +272,16 @@
           "slug": "icy-wind"
         },
         {
+          "uuid": "Compendium.ptu.moves.Item.TbqvNIqswHYAVHOW",
+          "slug": "focus-energy"
+        },
+        {
           "uuid": "Compendium.ptu.moves.Item.bpb9SFiI7s9wqGyb",
           "slug": "iron-tail"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.WGOQso4iji1XKrdK",
+          "slug": "giga-impact"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.StGpIzCBfyxbhlSv",
@@ -356,6 +408,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Water",
+      "1": "Dark",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -371,11 +428,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699633726031,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!m2J3uWC9lcUSIxPn"
 }

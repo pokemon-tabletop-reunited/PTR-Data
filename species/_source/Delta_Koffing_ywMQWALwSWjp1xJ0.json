@@ -40,7 +40,8 @@
       ],
       "advanced": [
         {
-          "slug": "amplifier"
+          "slug": "amplifier",
+          "uuid": "Compendium.ptu.abilities.Item.PGoLGF0O3D9uOsi5"
         },
         {
           "slug": "volt-absorb",
@@ -98,8 +99,8 @@
       "swim": 1,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 1,
+      "longJump": 1,
       "power": 2,
       "naturewalk": [],
       "other": [
@@ -111,9 +112,7 @@
           "slug": "zapper",
           "uuid": "Compendium.ptu.capabilities.Item.dDuLGAOwrhePYNry"
         }
-      ],
-      "jumpH": 1,
-      "jumpL": 1
+      ]
     },
     "moves": {
       "level": [
@@ -557,10 +556,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!ywMQWALwSWjp1xJ0"

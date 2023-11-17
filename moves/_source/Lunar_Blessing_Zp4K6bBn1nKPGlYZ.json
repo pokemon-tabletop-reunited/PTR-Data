@@ -5,10 +5,10 @@
   "folder": "lWQOqDm2AOGwGM16",
   "system": {
     "origin": "",
-    "effect": "The user regains hit points equal to 50% of its Hit Point total, cures all of its Status conditions, and gains 2 Evasion.",
+    "effect": "All targets regain Hit Points equal to 25% of their respective Hit Point totals, and they are cured of all of their Status Ailments.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "lunar-blessing",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -30,7 +30,7 @@
     "damageBase": "",
     "frequency": "Daily",
     "ac": "",
-    "range": "Self",
+    "range": "Burst 4, Self, Healing",
     "contestType": "Beauty - Reflective Appeal",
     "stab": false,
     "damageBonus": 0,
@@ -45,13 +45,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1697513698449,
+    "modifiedTime": 1699631488079,
     "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!Zp4K6bBn1nKPGlYZ"

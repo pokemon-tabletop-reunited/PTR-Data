@@ -1,0 +1,58 @@
+{
+  "name": "Aiming Down The Sights [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: Your next Weapon Attack with a Long Range Weapon gains +2 to its Accuracy Roll and Critical Hit Range. This effect lasts until used or until the start of your next turn.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.atk.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Marksman"
+    ],
+    "frequency": "At Will – Shift Action",
+    "tags": "[+Attack] [Weapon]",
+    "notes": "",
+    "free": false,
+    "class": "Marksman",
+    "name": "Aiming Down The Sights [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "TTdZunMgErcrbby5",
+  "_id": "kVINbHKeyV5m4wL2",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789290640,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!kVINbHKeyV5m4wL2"
+}

@@ -2,10 +2,19 @@
   "name": "Not Yet!",
   "system": {
     "origin": "",
-    "effect": "Trigger - Your Pokémon is Fainted, but is not at less than -100% Hit Points\nEffect: Before fainting, the targeted Pokémon gains an Injury, and may then use a Move as an Interrupt. When the Move is resolved, the Pokémon then immediately faints. This consumes a Command as normal. This cannot be used with the Move Explosion, Flail, Pain Split, Reversal or Selfdestruct.",
+    "effect": "Trigger - Your Pokémon is Fainted, but is not at less than -100% Hit Points\nEffect: Before fainting, Your Pokémon gains an Injury, and may then take their turn as an Interrupt. When the Move is resolved, the Pokémon immediately faints if it would still be Fainted. This cannot be used with the Moves Explosion, Pain Split, or Self-Destruct.",
     "snippet": "",
-    "rules": [],
-    "slug": null,
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "add",
+        "path": "system.modifiers.baseStats.hp.mod",
+        "phase": "applyAEs",
+        "value": 1
+      }
+    ],
+    "slug": "not-yet",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -19,7 +28,7 @@
       "Expert Athletics or Focus"
     ],
     "frequency": "Scene - Free Action",
-    "tags": "-",
+    "tags": "[+HP]",
     "notes": "",
     "free": false,
     "class": "Enduring Soul",
@@ -39,16 +48,17 @@
       "sourceId": "Compendium.ptu.feats.ikMpNjO3xgmjBON3"
     },
     "ptu": {
-      "prereqBackup": "Enduring Soul, Expert Athletics or Focus"
+      "prereqBackup": "Enduring Soul, Expert Athletics or Focus",
+      "showInTokenPanel": true
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1683368079157,
-    "modifiedTime": 1696691567516,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699657913481,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "folder": null,
   "sort": 46000000,

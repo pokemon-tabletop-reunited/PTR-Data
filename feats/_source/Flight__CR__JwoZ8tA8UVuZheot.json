@@ -1,0 +1,59 @@
+{
+  "name": "Flight [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: You gain a Sky Speed equal to your Levitate Speed plus half of the higher of your Acrobatics or Perception Rank for the remainder of the round.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "One With the Winds",
+      "Adept Acrobatics"
+    ],
+    "frequency": "1 AP – Swift Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false,
+    "class": "Wind Runner",
+    "name": "Flight [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "m4L8vSCzreUH7otz",
+  "_id": "JwoZ8tA8UVuZheot",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789334762,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!JwoZ8tA8UVuZheot"
+}

@@ -26,8 +26,8 @@
           "uuid": "Compendium.ptu.abilities.Item.66iTF1CxOWtm2jOY"
         },
         {
-          "slug": "battle-armor",
-          "uuid": "Compendium.ptu.abilities.Item.gHfEkYe9Vdc6TqeX"
+          "slug": "infiltrator",
+          "uuid": "Compendium.ptu.abilities.Item.9nkIfAs2uDYCUGfb"
         }
       ],
       "advanced": [
@@ -42,8 +42,8 @@
       ],
       "high": [
         {
-          "slug": "creeping-doom",
-          "uuid": "Compendium.ptu.abilities.Item.nnlxoy9Zf6ZMskJL"
+          "slug": "ambush",
+          "uuid": "Compendium.ptu.abilities.Item.rlnJ3Qo2U9bHJWnW"
         }
       ]
     },
@@ -567,7 +567,7 @@
       },
       "stealth": {
         "value": 3,
-        "modifier": 1,
+        "modifier": 2,
         "type": "body"
       },
       "survival": {
@@ -599,11 +599,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1697506417934,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1699437296113,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!X7rDEhsttndcHSwr"
 }

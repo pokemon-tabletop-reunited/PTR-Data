@@ -1,0 +1,63 @@
+{
+  "name": "Adaptive Geography [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Trigger: You or your Pokémon gain Initiative\nEffect: The triggering target takes their turn as if they were in a terrain adjacent to the terrain they are in on the following graphic. For example, if you are standing in Wetlands terrain, you may act as if you are standing in Forest or Ocean Terrain. This affects Survivalist Features, Naturewalk Capabilities, Moves with the Environ Keyword, etc.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.hp.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "adaptive-geography-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "4 Survivalist Features",
+      "Master Survival"
+    ],
+    "frequency": "Scene x2 – Free Action",
+    "tags": "[+HP]",
+    "notes": "",
+    "free": false,
+    "class": "Survivalist",
+    "name": "Adaptive Geography [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "jwSUGJETAKuub2Ws",
+  "_id": "XLZ2gxJrmuCXPuRa",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789328542,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!XLZ2gxJrmuCXPuRa"
+}

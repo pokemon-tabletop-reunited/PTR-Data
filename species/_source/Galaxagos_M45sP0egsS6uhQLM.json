@@ -100,7 +100,7 @@
       "levitate": 0,
       "burrow": 0,
       "highJump": 0,
-      "longJump": 0,
+      "longJump": 1,
       "power": 5,
       "naturewalk": [],
       "other": [
@@ -108,9 +108,7 @@
           "slug": "telekinetic",
           "uuid": "Compendium.ptu.capabilities.Item.cR6F3WzpD42BsxjI"
         }
-      ],
-      "jumpH": 0,
-      "jumpL": 1
+      ]
     },
     "moves": {
       "level": [
@@ -155,6 +153,7 @@
           "level": 37
         },
         {
+          "uuid": "Compendium.ptu.moves.Item.5tMneV1YLxv83bsb",
           "slug": "asteroid-shot",
           "level": 42
         },
@@ -547,10 +546,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!M45sP0egsS6uhQLM"

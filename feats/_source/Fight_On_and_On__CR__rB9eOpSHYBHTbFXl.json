@@ -1,0 +1,63 @@
+{
+  "name": "Fight On and On [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Trigger: Your Hit Points are lowered to or below 0 while Enraged.\nEffect: You are not Fainted; you instead Faint upon reaching -50% of your Max Hit Points. If you have 5 or more injuries, you may use this Feature regardless of Frequency.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.hp.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "fight-on-and-on-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Lessons in Rage and Pain",
+      "Adept Combat"
+    ],
+    "frequency": "Daily – Free Action",
+    "tags": "[+HP]",
+    "notes": "",
+    "free": false,
+    "class": "Berserker",
+    "name": "Fight On and On [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "MSOd61MfWpXDlAfE",
+  "_id": "rB9eOpSHYBHTbFXl",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789238733,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!rB9eOpSHYBHTbFXl"
+}

@@ -1,0 +1,45 @@
+{
+  "folder": "rmoa0NFMp7Td9R3R",
+  "name": "Foundry",
+  "type": "ability",
+  "img": "/systems/ptu/static/css/images/icons/ability_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Trigger: The user uses a Rock-Type damaging Move\nEffect: The Move is changed to be Fire Type.",
+    "snippet": "",
+    "rules": [],
+    "slug": "foundry",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "frequency": "At-Will – Free Action",
+    "tier": ""
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.1.1",
+    "coreVersion": "11.311",
+    "createdTime": 1696781078044,
+    "modifiedTime": 1699631903134,
+    "lastModifiedBy": "xUomATnixLnn15IR"
+  },
+  "_id": "qqMo3m6SL36SrHBz",
+  "sort": 100000,
+  "_key": "!items!qqMo3m6SL36SrHBz"
+}

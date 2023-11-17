@@ -7,7 +7,7 @@
   "scope": "global",
   "command": "game.ptu.macros.pokedex();",
   "folder": null,
-  "sort": 200000,
+  "sort": 500000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
@@ -15,10 +15,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.alpha.16",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.0.release-candidate.1",
+    "coreVersion": "11.311",
     "createdTime": 1693216937639,
-    "modifiedTime": 1693414434486,
+    "modifiedTime": 1699269015548,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!macros!1TTtVKjm2sNhVhZk"

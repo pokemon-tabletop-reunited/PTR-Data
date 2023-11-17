@@ -1,0 +1,59 @@
+{
+  "name": "Hobbling Shot [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: Make a Ranged Struggle Attack attack with a -2 penalty to Accuracy. If you hit, the attack deals Damage as if it was resisted one step, but the target becomes Slowed, loses 1 Speed Combat Stage, and you initiate a Trip Maneuver against the target. You may use your Perception Skill to resolve the Opposed Check if you wish.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.atk.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Marksman",
+      "Expert Perception or Combat"
+    ],
+    "frequency": "2 AP – Full Action",
+    "tags": "[+Attack] [Weapon]",
+    "notes": "",
+    "free": false,
+    "class": "Marksman",
+    "name": "Hobbling Shot [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "TTdZunMgErcrbby5",
+  "_id": "D3RAboiNJKS0cQqT",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789290640,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!D3RAboiNJKS0cQqT"
+}

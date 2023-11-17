@@ -1,0 +1,53 @@
+{
+  "name": "Flexible Preparations [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Target: A Pokémon that has Contest Stats from Poffins\nEffect: The target may reallocate up to 2d6 of Poffin-Derived Contest Stats from one Contest Stat to another. This effect lasts until the end of the day.",
+    "snippet": "",
+    "rules": [],
+    "slug": "flexible-preparations-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Adaptable Performance",
+      "Adept Charm or Command or Guile or Intimidate or Intuition"
+    ],
+    "frequency": "Daily – Extended Action",
+    "tags": "",
+    "notes": "",
+    "free": false,
+    "class": "Coordinator",
+    "name": "Flexible Preparations [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "euLCRrhLfZkTxegt",
+  "_id": "5i3eQnpZTsBxyQ2H",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789247638,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!5i3eQnpZTsBxyQ2H"
+}

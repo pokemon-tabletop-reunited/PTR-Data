@@ -26,8 +26,8 @@
           "uuid": "Compendium.ptu.abilities.Item.zskFfuRkiVBWICxG"
         },
         {
-          "slug": "quick-charge",
-          "uuid": "Compendium.ptu.abilities.Item.PBD9xVRQv7z5DAts"
+          "slug": "fluffy-charge",
+          "uuid": "Compendium.ptu.abilities.Item.bUiMiOU66wPoi3Kd"
         }
       ],
       "advanced": [
@@ -42,8 +42,8 @@
       ],
       "high": [
         {
-          "slug": "combo-striker",
-          "uuid": "Compendium.ptu.abilities.Item.1mMBmncywOEakBEy"
+          "slug": "galvanize",
+          "uuid": "Compendium.ptu.abilities.Item.nSRrYGQZQt5ve3Ng"
         }
       ]
     },
@@ -623,11 +623,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1697506685612,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1699437539445,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!5FDsGdJgYsxQN06U"
 }

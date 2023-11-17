@@ -29,16 +29,16 @@
       ],
       "advanced": [
         {
-          "slug": "war-machine",
-          "uuid": "Compendium.ptu.abilities.Item.ZxdRdQDrdFAbSkLz"
-        },
-        {
           "slug": "shackle",
           "uuid": "Compendium.ptu.abilities.Item.oR8CFw84rjr0vz5u"
         },
         {
           "slug": "life-force",
           "uuid": "Compendium.ptu.abilities.Item.bpK8mB9HhdS1vybW"
+        },
+        {
+          "slug": "dark-shroud",
+          "uuid": "Compendium.ptu.abilities.Item.BIw7KblluB24yoCb"
         }
       ],
       "high": [
@@ -50,11 +50,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.2BSTo3cnLlxKlFu3",
         "slug": "wo-chien",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -97,15 +99,12 @@
           "uuid": "Compendium.ptu.capabilities.Item.gneJRPErFFv5Kz3g"
         },
         {
-          "slug": "mountable-2"
+          "slug": "mountable-2",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         },
         {
           "slug": "planter",
           "uuid": "Compendium.ptu.capabilities.Item.YqHfwitF4fSQwn1s"
-        },
-        {
-          "slug": "ruined",
-          "uuid": "Compendium.ptu.capabilities.Item.zrWRYVDRmlXJodOn"
         },
         {
           "slug": "darkvision",
@@ -120,99 +119,99 @@
     "moves": {
       "level": [
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.zEIiTcsXhPE8v0fF",
-          "slug": "absorb",
-          "level": 1
+          "slug": "absorb"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.7sMVSFGaJax6lWuM",
-          "slug": "spite",
-          "level": 1
+          "slug": "spite"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.mddjD9rQYW5169un",
-          "slug": "mean-look",
-          "level": 1
+          "slug": "mean-look"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.u7mqJHkVCUIRhlaq",
-          "slug": "tickle",
-          "level": 5
+          "slug": "tickle"
         },
         {
+          "level": 4,
           "uuid": "Compendium.ptu.moves.Item.8frJ1rnKqBmGvKC0",
-          "slug": "payback",
-          "level": 10
+          "slug": "payback"
         },
         {
+          "level": 8,
           "uuid": "Compendium.ptu.moves.Item.NisjPhyvzfHCfgSx",
-          "slug": "poison-powder",
-          "level": 15
+          "slug": "poison-powder"
         },
         {
+          "level": 12,
           "uuid": "Compendium.ptu.moves.Item.XssTGMznjX8N33L7",
-          "slug": "stun-spore",
-          "level": 15
+          "slug": "stun-spore"
         },
         {
+          "level": 16,
           "uuid": "Compendium.ptu.moves.Item.9PVNtUbbwbRhZimy",
-          "slug": "mega-drain",
-          "level": 20
+          "slug": "mega-drain"
         },
         {
+          "level": 20,
           "uuid": "Compendium.ptu.moves.Item.Jx4TeOVUk1DX8R45",
-          "slug": "leech-seed",
-          "level": 25
+          "slug": "leech-seed"
         },
         {
+          "level": 24,
           "uuid": "Compendium.ptu.moves.Item.Bcv2CeJg9qU1q0Cb",
-          "slug": "growth",
-          "level": 30
+          "slug": "growth"
         },
         {
+          "level": 28,
           "uuid": "Compendium.ptu.moves.Item.2ky0KrGcz81tQ5X3",
-          "slug": "ingrain",
-          "level": 35
+          "slug": "ingrain"
         },
         {
+          "level": 32,
           "uuid": "Compendium.ptu.moves.Item.M9VSBteeyEya9Qcf",
-          "slug": "dark-pulse",
-          "level": 40
+          "slug": "dark-pulse"
         },
         {
+          "level": 36,
           "uuid": "Compendium.ptu.moves.Item.mGvVlposKAYCa15m",
-          "slug": "giga-drain",
-          "level": 45
+          "slug": "giga-drain"
         },
         {
+          "level": 40,
           "uuid": "Compendium.ptu.moves.Item.WW47bPwUK1T7ti2d",
-          "slug": "ruination",
-          "level": 50
+          "slug": "ruination"
         },
         {
+          "level": 44,
           "uuid": "Compendium.ptu.moves.Item.ckL9G6vvS6TUl57i",
-          "slug": "foul-play",
-          "level": 55
+          "slug": "foul-play"
         },
         {
+          "level": 48,
           "uuid": "Compendium.ptu.moves.Item.6tEUiL2W8EBFwkEU",
-          "slug": "power-whip",
-          "level": 60
+          "slug": "power-whip"
         },
         {
+          "level": 52,
           "uuid": "Compendium.ptu.moves.Item.dXNYCLtPWarypUld",
-          "slug": "grassy-terrain",
-          "level": 65
+          "slug": "grassy-terrain"
         },
         {
+          "level": 56,
           "uuid": "Compendium.ptu.moves.Item.wXMLKSFvWlsa0ee6",
-          "slug": "knock-off",
-          "level": 70
+          "slug": "knock-off"
         },
         {
+          "level": 60,
           "uuid": "Compendium.ptu.moves.Item.FBj8VAFE3YZoI8C1",
-          "slug": "leaf-storm",
-          "level": 75
+          "slug": "leaf-storm"
         }
       ],
       "machine": [
@@ -568,6 +567,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Dark",
+      "1": "Grass",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -583,11 +587,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699494150405,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!2BSTo3cnLlxKlFu3"
 }

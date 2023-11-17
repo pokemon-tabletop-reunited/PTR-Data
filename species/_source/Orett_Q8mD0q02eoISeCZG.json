@@ -113,8 +113,8 @@
       "swim": 2,
       "levitate": 0,
       "burrow": 1,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 1,
+      "longJump": 1,
       "power": 4,
       "naturewalk": [
         "Cave",
@@ -129,9 +129,7 @@
           "slug": "underdog",
           "uuid": "Compendium.ptu.capabilities.Item.DyqTXmu2rrRFni89"
         }
-      ],
-      "jumpH": 1,
-      "jumpL": 1
+      ]
     },
     "moves": {
       "level": [
@@ -338,7 +336,8 @@
           "slug": "outrage"
         },
         {
-          "slug": "stealth-rock-size-information-height-2-4-0-7m-small-weight-189-8-lbs-86-1kg-4"
+          "slug": "stealth-rock",
+          "uuid": "Compendium.ptu.moves.Item.XklsarNBfkknbU8O"
         }
       ],
       "tutor": [
@@ -498,10 +497,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Q8mD0q02eoISeCZG"

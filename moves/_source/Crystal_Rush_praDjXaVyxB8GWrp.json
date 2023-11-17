@@ -1,0 +1,61 @@
+{
+  "folder": "CKiVqPT3ASdUeaM0",
+  "name": "Crystal Rush",
+  "type": "move",
+  "img": "systems/ptu/static/css/images/types2/NormalIC_Icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Prior to using this move, the user changes into the Crystal Type for the remainder of the Scene. Crystal Type moves always deal neutral damage. All non-Sonic attacks on Crystal Type Pokémon deal neutral damage. Sonic attacks instead deal super- effective damage.",
+    "snippet": "",
+    "rules": [],
+    "slug": "crystal-rush",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "sheerForce": false,
+    "toughClaws": false,
+    "technician": false,
+    "reckless": false,
+    "ironFist": false,
+    "megaLauncher": false,
+    "punkRock": false,
+    "strongJaw": false,
+    "type": "Normal",
+    "category": "Physical",
+    "damageBase": "5",
+    "frequency": "Scene",
+    "ac": "2",
+    "range": "Melee, 1 Target, Priority",
+    "contestType": "",
+    "stab": false,
+    "damageBonus": 0,
+    "isStruggle": false
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.1.1",
+    "coreVersion": "11.311",
+    "createdTime": 1696782936328,
+    "modifiedTime": 1699631948546,
+    "lastModifiedBy": "xUomATnixLnn15IR"
+  },
+  "_id": "praDjXaVyxB8GWrp",
+  "sort": 0,
+  "_key": "!items!praDjXaVyxB8GWrp"
+}

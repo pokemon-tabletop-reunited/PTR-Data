@@ -57,11 +57,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.5h6ER8CbxZgxCN6a",
         "slug": "landorus-therian",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -93,7 +95,7 @@
       "highJump": 3,
       "longJump": 3,
       "power": 8,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "forme-change",
@@ -104,7 +106,8 @@
           "uuid": "Compendium.ptu.capabilities.Item.gneJRPErFFv5Kz3g"
         },
         {
-          "slug": "mountable-1"
+          "slug": "mountable-1",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         },
         {
           "slug": "therian-forme",
@@ -119,84 +122,89 @@
     "moves": {
       "level": [
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.qBTkrmyYzB0z6MVB",
-          "slug": "mud-shot",
-          "level": 1
+          "slug": "mud-shot"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.TYpDbl848dGUkN3q",
-          "slug": "rock-tomb",
-          "level": 1
+          "slug": "rock-tomb"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.rmcnLyXMgD9aKb21",
-          "slug": "imprison",
-          "level": 1
+          "slug": "imprison"
         },
         {
+          "level": 4,
           "uuid": "Compendium.ptu.moves.Item.EIPvcavZN9cZIXET",
-          "slug": "punishment",
-          "level": 4
+          "slug": "punishment"
         },
         {
+          "level": 7,
           "uuid": "Compendium.ptu.moves.Item.J2l5Cmp9LEW7Jvgu",
-          "slug": "bulldoze",
-          "level": 7
+          "slug": "bulldoze"
         },
         {
+          "level": 10,
           "uuid": "Compendium.ptu.moves.Item.ciR11ELc7B3ulJzA",
-          "slug": "rock-throw",
-          "level": 10
+          "slug": "rock-throw"
         },
         {
+          "level": 13,
           "uuid": "Compendium.ptu.moves.Item.a71ua5UPPcL0IxqO",
-          "slug": "extrasensory",
-          "level": 13
+          "slug": "extrasensory"
         },
         {
+          "level": 16,
           "uuid": "Compendium.ptu.moves.Item.z5hgetbLhLvsd800",
-          "slug": "swords-dance",
-          "level": 16
+          "slug": "swords-dance"
         },
         {
+          "level": 19,
           "uuid": "Compendium.ptu.moves.Item.VZYf1f6nsz9bp7vw",
-          "slug": "earth-power",
-          "level": 19
+          "slug": "earth-power"
         },
         {
+          "level": 22,
           "uuid": "Compendium.ptu.moves.Item.AvGyaqir7qFsEzxk",
-          "slug": "rock-slide",
-          "level": 22
+          "slug": "rock-slide"
         },
         {
+          "level": 25,
           "uuid": "Compendium.ptu.moves.Item.qQGrbuuO6EcG6b7c",
-          "slug": "earthquake",
-          "level": 25
+          "slug": "earthquake"
         },
         {
+          "level": 28,
           "uuid": "Compendium.ptu.moves.Item.XC3ObpOOy8mGk8s8",
-          "slug": "sandstorm",
-          "level": 28
+          "slug": "sandstorm"
         },
         {
+          "level": 31,
           "uuid": "Compendium.ptu.moves.Item.YSxU9QCnB3OBqtgh",
-          "slug": "fissure",
-          "level": 31
+          "slug": "fissure"
         },
         {
+          "level": 34,
           "uuid": "Compendium.ptu.moves.Item.K67dXQdgED0HJTut",
-          "slug": "stone-edge",
-          "level": 34
+          "slug": "stone-edge"
         },
         {
+          "level": 37,
           "uuid": "Compendium.ptu.moves.Item.uX0GA4opzRCtDQVY",
-          "slug": "hammer-arm",
-          "level": 37
+          "slug": "hammer-arm"
         },
         {
+          "level": 40,
           "uuid": "Compendium.ptu.moves.Item.Pc0fIapOkBRR4J8L",
-          "slug": "outrage",
-          "level": 40
+          "slug": "outrage"
+        },
+        {
+          "level": 45,
+          "uuid": "Compendium.ptu.moves.Item.RyKdS3yRZjvCBXPz",
+          "slug": "sandsear-storm"
         }
       ],
       "machine": [
@@ -504,6 +512,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Ground",
+      "1": "Flying",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -519,11 +532,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699651743578,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!5h6ER8CbxZgxCN6a"
 }

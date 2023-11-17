@@ -32,36 +32,40 @@
       ],
       "advanced": [
         {
-          "slug": "sturdy",
-          "uuid": "Compendium.ptu.abilities.Item.AaDXWUAMnhxLbyn3"
+          "slug": "sand-veil",
+          "uuid": "Compendium.ptu.abilities.Item.Ewr9Oh7DddMKcWLZ"
         },
         {
-          "slug": "combo-striker",
-          "uuid": "Compendium.ptu.abilities.Item.1mMBmncywOEakBEy"
+          "slug": "sturdy",
+          "uuid": "Compendium.ptu.abilities.Item.AaDXWUAMnhxLbyn3"
         }
       ],
       "high": [
         {
-          "slug": "dangerous-depths",
-          "uuid": "Compendium.ptu.abilities.Item.vhULiHH0WQfL41bi"
+          "slug": "dig-away",
+          "uuid": "Compendium.ptu.abilities.Item.NbiagXHCpBW7SPC1"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.mH6roPWWC3uv4Cc1",
         "slug": "wiglett",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.P9nP3xDM0tqeqiSD",
         "slug": "wugtrio",
-        "level": 26,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -94,7 +98,7 @@
       "highJump": 1,
       "longJump": 1,
       "power": 6,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "gilled",
@@ -112,11 +116,6 @@
     },
     "moves": {
       "level": [
-        {
-          "uuid": "Compendium.ptu.moves.Item.Reejmjxb6kzYeqB9",
-          "slug": "drag-under",
-          "level": "Evo"
-        },
         {
           "uuid": "Compendium.ptu.moves.Item.rYLmG0KWrwYOCkmR",
           "slug": "water-gun",
@@ -191,11 +190,6 @@
           "uuid": "Compendium.ptu.moves.Item.qQGrbuuO6EcG6b7c",
           "slug": "earthquake",
           "level": 44
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.LLnJxaSmmkCeGehZ",
-          "slug": "triple-dive",
-          "level": 50
         }
       ],
       "machine": [
@@ -475,6 +469,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Water",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -490,11 +488,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699457757985,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!P9nP3xDM0tqeqiSD"
 }

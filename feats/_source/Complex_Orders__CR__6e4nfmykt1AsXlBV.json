@@ -1,0 +1,49 @@
+{
+  "name": "Complex Orders [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Trigger: You give [Orders] that have targets.\nEffect: You may choose a different [Order] to give to each Target. You must pay all AP costs and follow Frequency restrictions for all Orders used in this way.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Commander",
+      "at least two Features with the [Orders] Tag that have targets"
+    ],
+    "frequency": "At-Will – Shift Action",
+    "tags": "",
+    "notes": "",
+    "free": false,
+    "class": "Commander",
+    "name": "Complex Orders [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "g4rkUfI9kme8LqBH",
+  "_id": "6e4nfmykt1AsXlBV",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789245386,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!6e4nfmykt1AsXlBV"
+}

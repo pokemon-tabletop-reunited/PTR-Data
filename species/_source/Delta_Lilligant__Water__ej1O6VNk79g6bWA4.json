@@ -57,15 +57,17 @@
     },
     "evolutions": [
       {
-        "slug": "delta-water",
+        "slug": "delta-petilil-water",
+        "uuid": "Compendium.ptu.species.Item.uJ6w6ogspwIQBcWm",
         "level": 1,
         "other": {
           "restrictions": []
         }
       },
       {
-        "slug": "delta-water",
-        "level": 1,
+        "slug": "delta-lilligant-water",
+        "uuid": "Compendium.ptu.species.Item.ej1O6VNk79g6bWA4",
+        "level": 25,
         "other": {
           "restrictions": []
         }
@@ -96,8 +98,8 @@
       "swim": 5,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 1,
+      "longJump": 1,
       "power": 4,
       "naturewalk": [
         "Ocean"
@@ -111,9 +113,7 @@
           "slug": "heater",
           "uuid": "Compendium.ptu.capabilities.Item.IKJKnRsuagR1F8HO"
         }
-      ],
-      "jumpH": 1,
-      "jumpL": 1
+      ]
     },
     "moves": {
       "level": [
@@ -203,7 +203,8 @@
           "level": 44
         },
         {
-          "slug": "mystic-fire",
+          "uuid": "Compendium.ptu.moves.Item.L3CLHVqdWQbUBvod",
+          "slug": "mystical-fire",
           "level": 46
         },
         {
@@ -477,10 +478,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!ej1O6VNk79g6bWA4"

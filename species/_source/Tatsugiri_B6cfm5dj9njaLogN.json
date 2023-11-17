@@ -43,18 +43,20 @@
       ],
       "high": [
         {
-          "slug": "overbear",
-          "uuid": "Compendium.ptu.abilities.Item.Fb93hrauELg6WF20"
+          "slug": "aqua-boost",
+          "uuid": "Compendium.ptu.abilities.Item.HcmWYYnYlUSLKxpv"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.B6cfm5dj9njaLogN",
         "slug": "tatsugiri",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -86,7 +88,7 @@
       "highJump": 1,
       "longJump": 1,
       "power": 1,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "alluring",
@@ -529,6 +531,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Dragon",
+      "1": "Water",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -544,11 +551,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699469155686,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!B6cfm5dj9njaLogN"
 }

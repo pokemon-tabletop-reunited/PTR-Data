@@ -1,0 +1,52 @@
+{
+  "name": "Battle Synchronization [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: For one full round, whenever a Channeled Pokémon successfully hits a foe, all Channeled Pokémon gain +1 Accuracy and +1 Evasion against that foe for the duration of this Feature.",
+    "snippet": "",
+    "rules": [],
+    "slug": "battle-synchronization-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Channeler"
+    ],
+    "frequency": "Scene x3 – Standard Action",
+    "tags": "[Orders]",
+    "notes": "",
+    "free": false,
+    "class": "Channeler",
+    "name": "Battle Synchronization [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "9yZXbENPUjPRBtk6",
+  "_id": "bGlLNpECV3Z2eJF5",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789240790,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!bGlLNpECV3Z2eJF5"
+}

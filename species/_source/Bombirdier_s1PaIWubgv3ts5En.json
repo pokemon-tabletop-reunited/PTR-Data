@@ -33,8 +33,8 @@
       ],
       "advanced": [
         {
-          "slug": "delivery-bird",
-          "uuid": "Compendium.ptu.abilities.Item.uixGDKEw4a3TdDOF"
+          "slug": "cruelty",
+          "uuid": "Compendium.ptu.abilities.Item.6XpwCLUT2uMAN0aM"
         },
         {
           "slug": "scavenger",
@@ -50,11 +50,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.s1PaIWubgv3ts5En",
         "slug": "bombirdier",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -89,7 +91,7 @@
       "highJump": 2,
       "longJump": 2,
       "power": 10,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "guster",
@@ -100,7 +102,8 @@
           "uuid": "Compendium.ptu.capabilities.Item.M4cCdF20AGXHoFm7"
         },
         {
-          "slug": "mountable-1"
+          "slug": "mountable-1",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         }
       ]
     },
@@ -559,6 +562,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Flying",
+      "1": "Dark",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -574,11 +582,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699458272841,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!s1PaIWubgv3ts5En"
 }

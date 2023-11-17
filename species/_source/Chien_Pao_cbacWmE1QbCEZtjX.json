@@ -29,16 +29,16 @@
       ],
       "advanced": [
         {
-          "slug": "war-machine",
-          "uuid": "Compendium.ptu.abilities.Item.ZxdRdQDrdFAbSkLz"
-        },
-        {
-          "slug": "strong-jaw",
-          "uuid": "Compendium.ptu.abilities.Item.Gqv7K8YBzWY2e5Zt"
+          "slug": "tough-claws",
+          "uuid": "Compendium.ptu.abilities.Item.iWuCTYkVJZ0cqVjl"
         },
         {
           "slug": "dark-shroud",
           "uuid": "Compendium.ptu.abilities.Item.BIw7KblluB24yoCb"
+        },
+        {
+          "slug": "ice-body",
+          "uuid": "Compendium.ptu.abilities.Item.frxDUj1Z8z3I7HHm"
         }
       ],
       "high": [
@@ -50,11 +50,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.cbacWmE1QbCEZtjX",
         "slug": "chien-pao",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -104,15 +106,12 @@
           "uuid": "Compendium.ptu.capabilities.Item.o7NdOFXqtOAIFv6x"
         },
         {
-          "slug": "mountable-1"
+          "slug": "mountable-1",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         },
         {
           "slug": "freezer",
           "uuid": "Compendium.ptu.capabilities.Item.O0LMo4PRnTk008ds"
-        },
-        {
-          "slug": "ruined",
-          "uuid": "Compendium.ptu.capabilities.Item.zrWRYVDRmlXJodOn"
         },
         {
           "slug": "lifesense",
@@ -123,99 +122,99 @@
     "moves": {
       "level": [
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.7sMVSFGaJax6lWuM",
-          "slug": "spite",
-          "level": 1
+          "slug": "spite"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.l4TzdGjtPZHycF5b",
-          "slug": "powder-snow",
-          "level": 1
+          "slug": "powder-snow"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.mddjD9rQYW5169un",
-          "slug": "mean-look",
-          "level": 1
+          "slug": "mean-look"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.OI05tbugvNMMOqmc",
-          "slug": "icy-wind",
-          "level": 5
+          "slug": "icy-wind"
         },
         {
+          "level": 4,
           "uuid": "Compendium.ptu.moves.Item.8frJ1rnKqBmGvKC0",
-          "slug": "payback",
-          "level": 10
+          "slug": "payback"
         },
         {
+          "level": 8,
           "uuid": "Compendium.ptu.moves.Item.uaOHYAjzdGsqGBJ0",
-          "slug": "mist",
-          "level": 15
+          "slug": "mist"
         },
         {
+          "level": 12,
           "uuid": "Compendium.ptu.moves.Item.xOwF6QzLLB5POWAK",
-          "slug": "haze",
-          "level": 15
+          "slug": "haze"
         },
         {
+          "level": 16,
           "uuid": "Compendium.ptu.moves.Item.SUduMarNZi7p42fG",
-          "slug": "ice-shard",
-          "level": 20
+          "slug": "ice-shard"
         },
         {
+          "level": 20,
           "uuid": "Compendium.ptu.moves.Item.z5hgetbLhLvsd800",
-          "slug": "swords-dance",
-          "level": 25
+          "slug": "swords-dance"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.gmXMpunWFGvX3IQa",
-          "slug": "snowscape",
-          "level": 30
+          "level": 24,
+          "uuid": "Compendium.ptu.moves.Item.pRtupyIihgfCW09B",
+          "slug": "hail"
         },
         {
+          "level": 28,
           "uuid": "Compendium.ptu.moves.Item.WRDjP0nlxlzd20a5",
-          "slug": "night-slash",
-          "level": 35
+          "slug": "night-slash"
         },
         {
+          "level": 32,
           "uuid": "Compendium.ptu.moves.Item.M9VSBteeyEya9Qcf",
-          "slug": "dark-pulse",
-          "level": 40
+          "slug": "dark-pulse"
         },
         {
+          "level": 36,
           "uuid": "Compendium.ptu.moves.Item.IiLJ3J3xpWhhTqvw",
-          "slug": "icicle-crash",
-          "level": 45
+          "slug": "icicle-crash"
         },
         {
+          "level": 40,
           "uuid": "Compendium.ptu.moves.Item.WW47bPwUK1T7ti2d",
-          "slug": "ruination",
-          "level": 50
+          "slug": "ruination"
         },
         {
+          "level": 44,
           "uuid": "Compendium.ptu.moves.Item.QGRRWu7evV8MKgs4",
-          "slug": "sucker-punch",
-          "level": 55
+          "slug": "sucker-punch"
         },
         {
+          "level": 48,
           "uuid": "Compendium.ptu.moves.Item.Bj83ViTwIr0TcaX6",
-          "slug": "sacred-sword",
-          "level": 60
+          "slug": "sacred-sword"
         },
         {
+          "level": 52,
           "uuid": "Compendium.ptu.moves.Item.qJILuzcs4SDgylfD",
-          "slug": "recover",
-          "level": 65
+          "slug": "recover"
         },
         {
+          "level": 56,
           "uuid": "Compendium.ptu.moves.Item.lh8CZDIXVYVWsbCF",
-          "slug": "throat-chop",
-          "level": 70
+          "slug": "throat-chop"
         },
         {
+          "level": 60,
           "uuid": "Compendium.ptu.moves.Item.enDcfNIF6u9ZPOkV",
-          "slug": "sheer-cold",
-          "level": 75
+          "slug": "sheer-cold"
         }
       ],
       "machine": [
@@ -599,6 +598,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Dark",
+      "1": "Ice",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -614,11 +618,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699494401436,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!cbacWmE1QbCEZtjX"
 }

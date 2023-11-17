@@ -1,0 +1,53 @@
+{
+  "folder": "TajSsOGM13zplgIH",
+  "name": "Warrior of Light",
+  "type": "feat",
+  "_id": "n6m1KWLZ9PBIMAq8",
+  "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Target: Your Pokémon that has undergone a Purification Ceremony\nEffect: Your Pokémon enters Paragon Mode for 5 rounds. Paragon Mode has the following effects:\n\n»» The Pokémon gains +2 to Accuracy checks.\n»» The Pokémon deals +10 bonus damage to Shadow-Type Pokémon.\n»» Shadow-Type Moves used on the Pokémon are no longer super effective and are instead Resisted.\n»» When receiving damage that would cause the Pokémon in Paragon Mode to Faint, they are instead left with 1 HP. This can only happen once per day per Pokémon.",
+    "snippet": "",
+    "rules": [],
+    "slug": "warrior-of-light",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Light Within Darkness",
+      "Open Your Heart",
+      "Master Intuition or Master Charm"
+    ],
+    "frequency": "Daily x3 - Standard Action",
+    "tags": "[+Defense or Special Defense][Order]",
+    "notes": "",
+    "free": false,
+    "class": "Redeemer"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1697669469678,
+    "modifiedTime": 1700226845749,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!n6m1KWLZ9PBIMAq8"
+}

@@ -4,7 +4,7 @@
   "img": "/systems/ptu/css/images/icons/ability_icon.png",
   "system": {
     "origin": "",
-    "effect": "In a round’s queue, a Pokémon with Mycelium Might is always last. If a Pokémon goes to the end of the queue, the Pokémon with Mycelium Might is still the last to move. The user’s status moves used on their Initiative Count (not Priority or Interrupt) cannot be Interrupted, Intercepted, and will affect the target regardless of ability.",
+    "effect": "In a round’s queue, a Pokémon with Mycelium Might must act last if it wishes to use a Status Move. If a Pokémon goes to the end of the queue, the Pokémon with Mycelium Might is still the last to move. The user’s status moves used on their Initiative Count (not Priority or Interrupt) cannot be Interrupted, Intercepted, and will affect the target regardless of ability.",
     "snippet": "",
     "rules": [],
     "slug": "mycelium-might",
@@ -23,7 +23,7 @@
   "_id": "vNiEP8rYfaNJ1rYF",
   "effects": [],
   "folder": null,
-  "sort": 49100000,
+  "sort": 50500000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
@@ -35,11 +35,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692968394056,
-    "modifiedTime": 1697510779722,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1699721156284,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!vNiEP8rYfaNJ1rYF"
 }

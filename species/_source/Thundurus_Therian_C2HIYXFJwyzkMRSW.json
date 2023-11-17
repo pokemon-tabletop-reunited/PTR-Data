@@ -57,11 +57,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.C2HIYXFJwyzkMRSW",
         "slug": "thundurus-therian",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -107,7 +109,8 @@
           "uuid": "Compendium.ptu.capabilities.Item.St6x6ofobU8ztcts"
         },
         {
-          "slug": "mountable-1"
+          "slug": "mountable-1",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         },
         {
           "slug": "therian-forme",
@@ -122,84 +125,89 @@
     "moves": {
       "level": [
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.VtkRa05N67wR9RcG",
-          "slug": "astonish",
-          "level": 1
+          "slug": "astonish"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.HhQrSZjCBL95D1zV",
-          "slug": "thunder-shock",
-          "level": 1
+          "slug": "thunder-shock"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.arxy479cTjkB8mML",
-          "slug": "swagger",
-          "level": 1
+          "slug": "swagger"
         },
         {
+          "level": 4,
           "uuid": "Compendium.ptu.moves.Item.QMaJ91E3XBatUcV9",
-          "slug": "bite",
-          "level": 4
+          "slug": "bite"
         },
         {
+          "level": 7,
           "uuid": "Compendium.ptu.moves.Item.eWzbtm5EjwcP1GoO",
-          "slug": "revenge",
-          "level": 7
+          "slug": "revenge"
         },
         {
+          "level": 10,
           "uuid": "Compendium.ptu.moves.Item.i3pBrEvJz6tycWOT",
-          "slug": "shock-wave",
-          "level": 10
+          "slug": "shock-wave"
         },
         {
+          "level": 13,
           "uuid": "Compendium.ptu.moves.Item.sc65MsNIR00dmyTY",
-          "slug": "heal-block",
-          "level": 13
+          "slug": "heal-block"
         },
         {
+          "level": 16,
           "uuid": "Compendium.ptu.moves.Item.fDdSnTzTyAbJY2nf",
-          "slug": "agility",
-          "level": 16
+          "slug": "agility"
         },
         {
+          "level": 19,
           "uuid": "Compendium.ptu.moves.Item.0KazDGc9T8CETH5f",
-          "slug": "discharge",
-          "level": 19
+          "slug": "discharge"
         },
         {
+          "level": 22,
           "uuid": "Compendium.ptu.moves.Item.5uY1ltFWijN07CKe",
-          "slug": "crunch",
-          "level": 22
+          "slug": "crunch"
         },
         {
+          "level": 25,
           "uuid": "Compendium.ptu.moves.Item.qRvLgOrsmdXEsBsU",
-          "slug": "charge",
-          "level": 25
+          "slug": "charge"
         },
         {
+          "level": 28,
           "uuid": "Compendium.ptu.moves.Item.z0iMHqLi2ctCy2nb",
-          "slug": "nasty-plot",
-          "level": 28
+          "slug": "nasty-plot"
         },
         {
+          "level": 31,
           "uuid": "Compendium.ptu.moves.Item.w5E02WXdvxiY8n0Z",
-          "slug": "thunder",
-          "level": 31
+          "slug": "thunder"
         },
         {
+          "level": 34,
           "uuid": "Compendium.ptu.moves.Item.M9VSBteeyEya9Qcf",
-          "slug": "dark-pulse",
-          "level": 34
+          "slug": "dark-pulse"
         },
         {
+          "level": 37,
           "uuid": "Compendium.ptu.moves.Item.uX0GA4opzRCtDQVY",
-          "slug": "hammer-arm",
-          "level": 37
+          "slug": "hammer-arm"
         },
         {
+          "level": 40,
           "uuid": "Compendium.ptu.moves.Item.czDZWjn9TbP9ON4q",
-          "slug": "thrash",
-          "level": 40
+          "slug": "thrash"
+        },
+        {
+          "level": 45,
+          "uuid": "Compendium.ptu.moves.Item.Taiu7gMLWELeO6sN",
+          "slug": "wildbolt-storm"
         }
       ],
       "machine": [
@@ -531,6 +539,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Electric",
+      "1": "Flying",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -546,11 +559,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699651401251,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!C2HIYXFJwyzkMRSW"
 }

@@ -36,8 +36,8 @@
           "uuid": "Compendium.ptu.abilities.Item.T92I6kJvCeQS9tA4"
         },
         {
-          "slug": "thick-fat",
-          "uuid": "Compendium.ptu.abilities.Item.g9kAU2J4rkXhNDJv"
+          "slug": "bodyguard",
+          "uuid": "Compendium.ptu.abilities.Item.8O7o6xH3FIi4RXi9"
         }
       ],
       "high": [
@@ -49,19 +49,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.nDeeMKyKYjavBj1X",
         "slug": "maschiff",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.H9cWU32Wm6v1INRj",
         "slug": "mabosstiff",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -106,7 +110,8 @@
           "uuid": "Compendium.ptu.capabilities.Item.zzJWpOj40dLelBm5"
         },
         {
-          "slug": "mountable-1"
+          "slug": "mountable-1",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         },
         {
           "slug": "pack-mon",
@@ -586,6 +591,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Dark",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -601,11 +610,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699446414379,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!H9cWU32Wm6v1INRj"
 }

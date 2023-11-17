@@ -7,7 +7,7 @@
     "effect": "Trigger: A foe within 5 meters uses a Move or Ability to raise its Combat Stages\\nEffect: The user’s Attack raises by the same number of Combat Stages granted by the opponent’s Move or Ability",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "brave-heart",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -23,18 +23,22 @@
   "_id": "Wcj7FgxmWWFZv6mD",
   "effects": [],
   "folder": null,
-  "sort": 27300000,
+  "sort": 28700000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692968394056,
-    "modifiedTime": 1696691577981,
+    "modifiedTime": 1699721156284,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Wcj7FgxmWWFZv6mD"

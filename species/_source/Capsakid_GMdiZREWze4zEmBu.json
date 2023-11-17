@@ -49,17 +49,19 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.GMdiZREWze4zEmBu",
         "slug": "capsakid",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.sp9ZzJWI0kfS1Jgx",
         "slug": "scovillain",
-        "level": 25,
         "other": {
           "restrictions": [
             "Fire Stone"
@@ -101,20 +103,12 @@
       ],
       "other": [
         {
-          "slug": "alluring",
-          "uuid": "Compendium.ptu.capabilities.Item.kxQazrYjhK3WLEXG"
-        },
-        {
           "slug": "firestarter",
           "uuid": "Compendium.ptu.capabilities.Item.nAIkONF3gtaYfEyX"
         },
         {
           "slug": "heater",
           "uuid": "Compendium.ptu.capabilities.Item.9DQsEtRIDXdw7ICw"
-        },
-        {
-          "slug": "pack-mon",
-          "uuid": "Compendium.ptu.capabilities.Item.ENiUTVi0Rp11UNo3"
         },
         {
           "slug": "underdog",
@@ -125,89 +119,84 @@
     "moves": {
       "level": [
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.a9o7skroYTYFt9iG",
-          "slug": "leafage",
-          "level": 1
+          "slug": "leafage"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.XQOEuOenSzYNz4eO",
-          "slug": "leer",
-          "level": 1
+          "slug": "leer"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.IH2EuCM09nw3lOgQ",
-          "slug": "ember",
-          "level": 1
+          "slug": "ember"
         },
         {
+          "level": 4,
           "uuid": "Compendium.ptu.moves.Item.QMaJ91E3XBatUcV9",
-          "slug": "bite",
-          "level": 4
+          "slug": "bite"
         },
         {
+          "level": 8,
           "uuid": "Compendium.ptu.moves.Item.Bcv2CeJg9qU1q0Cb",
-          "slug": "growth",
-          "level": 8
+          "slug": "growth"
         },
         {
+          "level": 11,
           "uuid": "Compendium.ptu.moves.Item.wYz4RubDs84tDVul",
-          "slug": "razor-leaf",
-          "level": 11
+          "slug": "razor-leaf"
         },
         {
+          "level": 14,
           "uuid": "Compendium.ptu.moves.Item.JV9D80kHWzifgoYH",
-          "slug": "flame-burst",
-          "level": 14
+          "slug": "flame-burst"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.jVruXIDWy3HEHAeA",
-          "slug": "snarl",
-          "level": 17
-        },
-        {
+          "level": 20,
           "uuid": "Compendium.ptu.moves.Item.m787MkYyENqNyGOb",
-          "slug": "sunny-day",
-          "level": 20
+          "slug": "sunny-day"
         },
         {
+          "level": 20,
           "uuid": "Compendium.ptu.moves.Item.YnhquO69P2oNFEri",
-          "slug": "spicy-powder",
-          "level": 20
+          "slug": "spicy-powder"
         },
         {
+          "level": 23,
           "uuid": "Compendium.ptu.moves.Item.ptP5LFYkJR4BJHIu",
-          "slug": "bullet-seed",
-          "level": 23
+          "slug": "bullet-seed"
         },
         {
+          "level": 26,
           "uuid": "Compendium.ptu.moves.Item.5uY1ltFWijN07CKe",
-          "slug": "crunch",
-          "level": 26
+          "slug": "crunch"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.s41RoaO2fbzPVqR6",
-          "slug": "worry-seed",
-          "level": 29
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.b18uGrjFdKGy0rBU",
-          "slug": "seed-bomb",
-          "level": 32
-        },
-        {
+          "level": 28,
           "uuid": "Compendium.ptu.moves.Item.bbYMsmddMV20isEx",
-          "slug": "zen-headbutt",
-          "level": 35
+          "slug": "zen-headbutt"
         },
         {
+          "level": 29,
+          "uuid": "Compendium.ptu.moves.Item.s41RoaO2fbzPVqR6",
+          "slug": "worry-seed"
+        },
+        {
+          "level": 32,
+          "uuid": "Compendium.ptu.moves.Item.b18uGrjFdKGy0rBU",
+          "slug": "seed-bomb"
+        },
+        {
+          "level": 41,
           "uuid": "Compendium.ptu.moves.Item.6tEUiL2W8EBFwkEU",
-          "slug": "power-whip",
-          "level": 41
+          "slug": "power-whip"
         },
         {
+          "level": 48,
           "uuid": "Compendium.ptu.moves.Item.Oa9NuYFi7yvPQTIO",
-          "slug": "solar-beam",
-          "level": 48
+          "slug": "solar-beam"
         }
       ],
       "machine": [
@@ -238,6 +227,10 @@
         {
           "uuid": "Compendium.ptu.moves.Item.eRjK7eB733bE0D8o",
           "slug": "return"
+        },
+        {
+          "uuid": "Compendium.ptu.moves.Item.jVruXIDWy3HEHAeA",
+          "slug": "snarl"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.BHmRIX70tqHROfdN",
@@ -316,10 +309,6 @@
           "slug": "substitute"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.jVruXIDWy3HEHAeA",
-          "slug": "snarl"
-        },
-        {
           "uuid": "Compendium.ptu.moves.Item.43i757GW8pptWB5j",
           "slug": "confide"
         },
@@ -358,10 +347,6 @@
         {
           "uuid": "Compendium.ptu.moves.Item.ptP5LFYkJR4BJHIu",
           "slug": "bullet-seed"
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.bbYMsmddMV20isEx",
-          "slug": "zen-headbutt"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.2sgLgahHycXD5OuT",
@@ -560,6 +545,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Grass",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -575,11 +564,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699453398636,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!GMdiZREWze4zEmBu"
 }

@@ -98,8 +98,8 @@
       "swim": 7,
       "levitate": 4,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 2,
+      "longJump": 2,
       "power": 8,
       "naturewalk": [],
       "other": [
@@ -108,14 +108,14 @@
           "uuid": "Compendium.ptu.capabilities.Item.rFLLjjCXn07D0qqp"
         },
         {
-          "slug": "mountable-4"
+          "slug": "mountable-4",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         },
         {
-          "slug": "telepathy"
+          "slug": "telepath",
+          "uuid": "Compendium.ptu.capabilities.Item.Qy7Cft4o4FAbHQ8G"
         }
-      ],
-      "jumpH": 2,
-      "jumpL": 2
+      ]
     },
     "moves": {
       "level": [
@@ -484,11 +484,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1697514480122,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1700237629026,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!BeqjfFbqwznu6M04"
 }

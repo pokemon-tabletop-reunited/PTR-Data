@@ -57,15 +57,17 @@
     },
     "evolutions": [
       {
-        "slug": "delta-cake",
+        "slug": "delta-dwebble-cake",
+        "uuid": "Compendium.ptu.species.Item.nTqGgZ7xxksH0JmT",
         "level": 1,
         "other": {
           "restrictions": []
         }
       },
       {
-        "slug": "delta-cake",
-        "level": 1,
+        "slug": "delta-crustle-cake",
+        "uuid": "Compendium.ptu.species.Item.6z9EFMGBcyex7cKf",
+        "level": 30,
         "other": {
           "restrictions": []
         }
@@ -96,8 +98,8 @@
       "swim": 1,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 1,
+      "longJump": 1,
       "power": 5,
       "naturewalk": [
         "Forest"
@@ -111,9 +113,7 @@
           "slug": "chilled",
           "uuid": "Compendium.ptu.capabilities.Item.Riuj6SKghPrLOZ3r"
         }
-      ],
-      "jumpH": 1,
-      "jumpL": 1
+      ]
     },
     "moves": {
       "level": [
@@ -452,10 +452,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1700237629026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!6z9EFMGBcyex7cKf"

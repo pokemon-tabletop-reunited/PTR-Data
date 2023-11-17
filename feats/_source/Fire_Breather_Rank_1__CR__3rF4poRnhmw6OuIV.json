@@ -1,0 +1,77 @@
+{
+  "name": "Fire Breather Rank 1 [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: Learn three Fire Bringer Moves from the list below. You may choose any Move marked with the Fire Breather Rank you are taking or lower.\nRank 1: Fiery Dance, Fire Punch, Fire Spin, Flamethrower, Lava Plume\nRank 2: Blaze Kick, Burning Jealousy, Flare Blitz, Heat Wave, Inferno",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "adjustName": true,
+        "flag": "firebreatherrank1",
+        "choices": [
+          {
+            "value": "atk",
+            "label": "Attack"
+          },
+          {
+            "value": "spatk",
+            "label": "Special Attack"
+          }
+        ]
+      },
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.{item|flags.ptu.rulesSelections.firebreatherrank1}.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "fire-breather-rank-1-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Expert Focus or Combat"
+    ],
+    "frequency": "Static",
+    "tags": "[Ranked 2] [+Attack or Special Attack]",
+    "notes": "",
+    "free": false,
+    "class": "Fire Bringer",
+    "name": "Fire Breather [CR]Rank 1 [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "FeVAuZAxeshdeg9p",
+  "_id": "3rF4poRnhmw6OuIV",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1700090652060,
+    "lastModifiedBy": "xUomATnixLnn15IR"
+  },
+  "_key": "!items!3rF4poRnhmw6OuIV"
+}

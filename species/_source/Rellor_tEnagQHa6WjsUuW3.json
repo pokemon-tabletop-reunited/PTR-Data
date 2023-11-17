@@ -32,36 +32,40 @@
       ],
       "advanced": [
         {
-          "slug": "psych-out",
-          "uuid": "Compendium.ptu.abilities.Item.RgllwkMAWBzr40sF"
+          "slug": "swarm",
+          "uuid": "Compendium.ptu.abilities.Item.GQxRmCCwljxUs0Lj"
         },
         {
-          "slug": "telepathy",
-          "uuid": "Compendium.ptu.abilities.Item.KHtzAPwDaGBwCn5l"
+          "slug": "synchronize",
+          "uuid": "Compendium.ptu.abilities.Item.UimyJIOtFUcks1aO"
         }
       ],
       "high": [
         {
-          "slug": "wonder-skin",
-          "uuid": "Compendium.ptu.abilities.Item.bbz2GUIWzgyAbh4z"
+          "slug": "shed-skin",
+          "uuid": "Compendium.ptu.abilities.Item.pWARd2idBLFnfGi5"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.tEnagQHa6WjsUuW3",
         "slug": "rellor",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.yqmRPrjxKJ9lCXYB",
         "slug": "rabsca",
-        "level": 25,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -452,6 +456,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Bug",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -467,11 +475,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699454302622,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!tEnagQHa6WjsUuW3"
 }

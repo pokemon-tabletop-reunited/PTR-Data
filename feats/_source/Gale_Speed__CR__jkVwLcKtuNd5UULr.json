@@ -1,0 +1,63 @@
+{
+  "name": "Gale Speed [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: Choose Celebrate or Gale Wings. You gain the chosen Ability.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "gale-speed-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Raging Winds Rank 1",
+      "Master Acrobatics or Perception"
+    ],
+    "frequency": "Static",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false,
+    "class": "Wind Runner",
+    "name": "Gale Speed [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "m4L8vSCzreUH7otz",
+  "_id": "jkVwLcKtuNd5UULr",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789334762,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!jkVwLcKtuNd5UULr"
+}

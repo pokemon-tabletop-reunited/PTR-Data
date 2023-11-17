@@ -43,18 +43,20 @@
       ],
       "high": [
         {
-          "slug": "scavenger",
-          "uuid": "Compendium.ptu.abilities.Item.Lx5fKUlLXh8U7g59"
+          "slug": "regenerator",
+          "uuid": "Compendium.ptu.abilities.Item.eIl3V6VvOoYYiIAJ"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.8H7JVkcCwHkYc3MV",
         "slug": "veluza",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -102,10 +104,6 @@
         {
           "slug": "fountain",
           "uuid": "Compendium.ptu.capabilities.Item.ut911FJQTWb21u98"
-        },
-        {
-          "slug": "alluring",
-          "uuid": "Compendium.ptu.capabilities.Item.kxQazrYjhK3WLEXG"
         }
       ]
     },
@@ -574,6 +572,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Water",
+      "1": "Psychic",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -589,11 +592,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699468493274,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!8H7JVkcCwHkYc3MV"
 }

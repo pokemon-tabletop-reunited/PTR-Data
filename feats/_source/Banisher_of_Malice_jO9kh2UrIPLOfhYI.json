@@ -1,0 +1,52 @@
+{
+  "folder": "TajSsOGM13zplgIH",
+  "name": "Banisher of Malice",
+  "type": "feat",
+  "_id": "jO9kh2UrIPLOfhYI",
+  "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Static\nEffect: You learn the Move Benediction Field.",
+    "snippet": "",
+    "rules": [],
+    "slug": "banisher-of-malice",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Redeemer",
+      "Expert Charm"
+    ],
+    "frequency": "Static",
+    "tags": "[+Defense or Special Defense]",
+    "notes": "",
+    "free": false,
+    "class": "Redeemer"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1697669398536,
+    "modifiedTime": 1700226845749,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!jO9kh2UrIPLOfhYI"
+}

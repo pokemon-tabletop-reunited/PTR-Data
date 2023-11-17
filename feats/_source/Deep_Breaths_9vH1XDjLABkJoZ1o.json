@@ -1,0 +1,51 @@
+{
+  "folder": "TajSsOGM13zplgIH",
+  "name": "Deep Breaths",
+  "type": "feat",
+  "_id": "9vH1XDjLABkJoZ1o",
+  "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
+  "system": {
+    "origin": "",
+    "effect": "Trigger: A Shadow Pokemon you own is about to enter Hyper Mode\nEffect: The target does not enter Hyper Mode, gains two Ticks of Temporary HP, and is healed of any Volatile Status ailments.",
+    "snippet": "",
+    "rules": [],
+    "slug": "deep-breaths",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Redeemer"
+    ],
+    "frequency": "Scene x2 - Free Action, Interrupt",
+    "tags": "[+Defense or Special Defense]",
+    "notes": "",
+    "free": false,
+    "class": "Redeemer"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1697669108909,
+    "modifiedTime": 1700226845749,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!9vH1XDjLABkJoZ1o"
+}

@@ -57,27 +57,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.kXEklQdif0kXbfqg",
         "slug": "scyther",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.ocbE9axXRGPpuiys",
         "slug": "kleavor",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.FeWoypQoogBxQr7J",
         "slug": "scizor",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -120,49 +126,79 @@
     "moves": {
       "level": [
         {
-          "uuid": "Compendium.ptu.moves.Item.UrSzOSXlBYKS4JvG",
-          "slug": "silver-wind",
-          "level": 6
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.9TD6e8JoZBjIuuAP",
-          "slug": "aerial-ace",
-          "level": 11
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.jAWzTcuVWv9j5jYE",
-          "slug": "double-hit",
-          "level": 14
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.XklsarNBfkknbU8O",
-          "slug": "stealth-rock",
-          "level": 14
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.Zl9s4r9bKURTf07l",
-          "slug": "air-slash",
-          "level": 18
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.z5hgetbLhLvsd800",
-          "slug": "swords-dance",
-          "level": 25
-        },
-        {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.IrfEKVczeuebISxf",
-          "slug": "stone-axe",
-          "level": 29
+          "slug": "stone-axe"
         },
         {
+          "level": 5,
+          "uuid": "Compendium.ptu.moves.Item.TbqvNIqswHYAVHOW",
+          "slug": "focus-energy"
+        },
+        {
+          "level": 9,
+          "uuid": "Compendium.ptu.moves.Item.4zyVHZ1t6PJsYzGX",
+          "slug": "pursuit"
+        },
+        {
+          "level": 13,
+          "uuid": "Compendium.ptu.moves.Item.DfuvLNHQ0TBVgPN4",
+          "slug": "false-swipe"
+        },
+        {
+          "level": 17,
+          "uuid": "Compendium.ptu.moves.Item.aS33KlxhRCP0s5Zd",
+          "slug": "agility"
+        },
+        {
+          "level": 21,
+          "uuid": "Compendium.ptu.moves.Item.YG7EABDKQsFjDi8E",
+          "slug": "smack-down"
+        },
+        {
+          "level": 25,
+          "uuid": "Compendium.ptu.moves.Item.4W8tzNRKdmn0WRYd",
+          "slug": "fury-cutter"
+        },
+        {
+          "level": 29,
+          "uuid": "Compendium.ptu.moves.Item.sm3q5D8SkQcEmiGB",
+          "slug": "slash"
+        },
+        {
+          "level": 37,
+          "uuid": "Compendium.ptu.moves.Item.b1toUoLQY3BbeQJ5",
+          "slug": "razor-wind"
+        },
+        {
+          "level": 41,
+          "uuid": "Compendium.ptu.moves.Item.XklsarNBfkknbU8O",
+          "slug": "stealth-rock"
+        },
+        {
+          "level": 45,
           "uuid": "Compendium.ptu.moves.Item.oxBlIL3xxTpZFy8u",
-          "slug": "x-scissor",
-          "level": 34
+          "slug": "x-scissor"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.7CkvaKCsI8Oyb3LO",
-          "slug": "close-combat",
-          "level": 43
+          "level": 49,
+          "uuid": "Compendium.ptu.moves.Item.WRDjP0nlxlzd20a5",
+          "slug": "night-slash"
+        },
+        {
+          "level": 50,
+          "uuid": "Compendium.ptu.moves.Item.jAWzTcuVWv9j5jYE",
+          "slug": "double-hit"
+        },
+        {
+          "level": 57,
+          "uuid": "Compendium.ptu.moves.Item.AvGyaqir7qFsEzxk",
+          "slug": "rock-slide"
+        },
+        {
+          "level": 61,
+          "uuid": "Compendium.ptu.moves.Item.0LzmFA1iAyCrMaqh",
+          "slug": "feint"
         }
       ],
       "machine": [],
@@ -321,6 +357,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Bug",
+      "1": "Rock",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -336,11 +377,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699649236095,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!ocbE9axXRGPpuiys"
 }

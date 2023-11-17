@@ -1,0 +1,76 @@
+{
+  "folder": "p9yRJ8QVFrEtl0mK",
+  "name": "Aura Mastery Rank 2 [CR]",
+  "type": "feat",
+  "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Learn three moves from the following list: Aura Sphere, Focus Blast, Drain Punch, Focus Punch, Dragon Pulse, Dark Pulse, Water Pulse.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "adjustName": true,
+        "flag": "auraguardian",
+        "choices": [
+          {
+            "value": "atk",
+            "label": "Attack"
+          },
+          {
+            "value": "spatk",
+            "label": "Special Attack"
+          }
+        ]
+      },
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "add",
+        "path": "system.modifiers.baseStats.{item|flags.ptu.rulesSelections.auraguardian}.mod",
+        "phase": "applyAEs",
+        "value": 1
+      }
+    ],
+    "slug": "aura-mastery-rank-2-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Aura Guardian",
+      "Expert Intuition"
+    ],
+    "frequency": "Static",
+    "tags": "[+Attack or Special Attack][Ranked 2]",
+    "notes": "",
+    "free": false,
+    "class": "Aura Guardian"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
+    "createdTime": 1700000012643,
+    "modifiedTime": 1700229278755,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "mrslY2TrePjBrojJ",
+  "_key": "!items!mrslY2TrePjBrojJ"
+}

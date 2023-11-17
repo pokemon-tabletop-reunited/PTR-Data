@@ -7,16 +7,7 @@
     "origin": "",
     "effect": "If the user performs an Electric Move on their next turn that deals damage, add its Damage Dice Roll an extra time to the damage. Raise the user’s Special Defense 1 Combat Stage.",
     "snippet": "",
-    "rules": [
-      {
-        "key": "ActiveEffectLike",
-        "predicate": [],
-        "mode": "add",
-        "path": "system.stats.spdef.stage.mod",
-        "phase": "applyAEs",
-        "value": 1
-      }
-    ],
+    "rules": [],
     "slug": "charge",
     "schema": {
       "version": 0.11,
@@ -60,11 +51,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.0.release-candidate.1",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1698109386981,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1699268494312,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!qRvLgOrsmdXEsBsU"
 }

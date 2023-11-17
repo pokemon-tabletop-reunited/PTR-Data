@@ -1,0 +1,58 @@
+{
+  "name": "Lean In [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Trigger: You and your Mount both take Damage from a Burst, Blast, Cone, or Line\nEffect: Both you and your Mount Resist the attack one step further.",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spd.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Ride as One"
+    ],
+    "frequency": "Scene x2 – Free Action",
+    "tags": "[+Speed]",
+    "notes": "",
+    "free": false,
+    "class": "Rider",
+    "name": "Lean In [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "3tqdXgsWtyq6Ai5Q",
+  "_id": "FTN10zs5a7mK3oR3",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789312335,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!FTN10zs5a7mK3oR3"
+}

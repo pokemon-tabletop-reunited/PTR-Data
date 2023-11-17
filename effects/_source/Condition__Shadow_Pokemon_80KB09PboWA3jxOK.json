@@ -1,0 +1,132 @@
+{
+  "name": "Condition: Shadow Pokemon",
+  "type": "condition",
+  "img": "systems/ptu/static/css/images/types2/ShadowIC_Icon.png",
+  "system": {
+    "origin": "Shadow Subsytem",
+    "effect": "",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.abilities.Item.6XpwCLUT2uMAN0aM"
+      },
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "add",
+        "path": "system.stats.spd.stage.mod",
+        "phase": "applyAEs",
+        "value": 2
+      },
+      {
+        "key": "TypeOverwrite",
+        "value": [
+          "{actor|species.system.types}",
+          "Shadow"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "tint": "#9f9f9f"
+      },
+      {
+        "key": "TokenLight",
+        "value": {
+          "alpha": 1,
+          "angle": 360,
+          "bright": 0,
+          "coloration": 4,
+          "dim": 0.1,
+          "attenuation": 1,
+          "luminosity": 0.5,
+          "saturation": 1,
+          "contrast": 0,
+          "shadows": 1,
+          "animation": {
+            "type": "ghost",
+            "speed": 4,
+            "intensity": 7,
+            "reverse": false
+          },
+          "darkness": {
+            "min": 0,
+            "max": 1
+          },
+          "color": "#330000"
+        }
+      }
+    ],
+    "slug": "shadow-pokemon",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "duration": {
+      "value": -1,
+      "unit": "unlimited",
+      "expiry": "turn-start"
+    },
+    "value": {
+      "isValued": false,
+      "value": 0,
+      "autoIncrement": false
+    },
+    "references": {
+      "children": [],
+      "overrides": [],
+      "overriddenBy": []
+    },
+    "overrides": [],
+    "persistent": {
+      "dc": 5,
+      "decrease": false,
+      "type": "save"
+    },
+    "level": {
+      "value": 1
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "target": null,
+    "tokenIcon": {
+      "show": true
+    },
+    "badge": null,
+    "context": null
+  },
+  "effects": [],
+  "folder": "dDpOEXjREUS6rAWH",
+  "ownership": {
+    "default": 0,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "exportSource": {
+      "world": "ptr-dev-world",
+      "system": "ptu",
+      "coreVersion": "11.311",
+      "systemVersion": "4.0.2"
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.311",
+    "createdTime": 1699753663348,
+    "modifiedTime": 1699893773407,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "80KB09PboWA3jxOK",
+  "sort": 200000,
+  "_key": "!items!80KB09PboWA3jxOK"
+}

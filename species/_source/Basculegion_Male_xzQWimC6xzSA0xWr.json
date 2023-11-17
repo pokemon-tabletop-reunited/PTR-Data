@@ -65,17 +65,19 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.SDC4tyMN9t0C2ULR",
         "slug": "basculin-white",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.xzQWimC6xzSA0xWr",
         "slug": "basculegion-male",
-        "level": 25,
         "other": {
           "restrictions": [
             "Male"
@@ -132,51 +134,97 @@
           "uuid": "Compendium.ptu.capabilities.Item.Sr5UjqsO8FydTuNw"
         },
         {
-          "slug": "mountable-2"
+          "slug": "mountable-2",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         }
       ]
     },
     "moves": {
       "level": [
         {
-          "uuid": "Compendium.ptu.moves.Item.Htb3LXoNd24yFNEG",
-          "slug": "aqua-jet",
-          "level": 6
+          "level": 3,
+          "uuid": "Compendium.ptu.moves.Item.Si0MaGpUCvDBY8Gd",
+          "slug": "uproar"
         },
         {
+          "level": 5,
+          "uuid": "Compendium.ptu.moves.Item.4a68jMGmkXi2pkfF",
+          "slug": "headbutt"
+        },
+        {
+          "level": 7,
           "uuid": "Compendium.ptu.moves.Item.QMaJ91E3XBatUcV9",
-          "slug": "bite",
-          "level": 11
+          "slug": "bite"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.XbAfCHhH425Ldmj4",
-          "slug": "hex",
-          "level": 11
+          "level": 9,
+          "uuid": "Compendium.ptu.moves.Item.Htb3LXoNd24yFNEG",
+          "slug": "aqua-jet"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.bbYMsmddMV20isEx",
-          "slug": "zen-headbutt",
-          "level": 18
+          "level": 11,
+          "uuid": "Compendium.ptu.moves.Item.jA1lUJTWb7izUm2l",
+          "slug": "chip-away"
         },
         {
+          "level": 14,
+          "uuid": "Compendium.ptu.moves.Item.rmDcfFfrdq5PgwF9",
+          "slug": "take-down"
+        },
+        {
+          "level": 17,
           "uuid": "Compendium.ptu.moves.Item.5uY1ltFWijN07CKe",
-          "slug": "crunch",
-          "level": 25
+          "slug": "crunch"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.66w0oT6I80QzeAMr",
-          "slug": "shadow-ball",
-          "level": 25
+          "level": 20,
+          "uuid": "Compendium.ptu.moves.Item.O8DwOJXqhrynxm8B",
+          "slug": "aqua-tail"
         },
         {
+          "level": 23,
+          "uuid": "Compendium.ptu.moves.Item.sKWmTZ2uB6fKrhmo",
+          "slug": "soak"
+        },
+        {
+          "level": 26,
           "uuid": "Compendium.ptu.moves.Item.XNmCCgclMJf0MP6C",
-          "slug": "wave-crash",
-          "level": 34
+          "slug": "wave-crash"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.7Gi57ZcOWjyjhU0A",
-          "slug": "double-edge",
-          "level": 43
+          "level": 30,
+          "uuid": "Compendium.ptu.moves.Item.IRGZ3Cc7WrqjhF9u",
+          "slug": "scary-face"
+        },
+        {
+          "level": 34,
+          "uuid": "Compendium.ptu.moves.Item.IWQXKwgnyM2CvDLV",
+          "slug": "flail"
+        },
+        {
+          "level": 38,
+          "uuid": "Compendium.ptu.moves.Item.jwGAWj2BOOFkAqIi",
+          "slug": "last-respects"
+        },
+        {
+          "level": 42,
+          "uuid": "Compendium.ptu.moves.Item.66w0oT6I80QzeAMr",
+          "slug": "shadow-ball"
+        },
+        {
+          "level": 46,
+          "uuid": "Compendium.ptu.moves.Item.czDZWjn9TbP9ON4q",
+          "slug": "thrash"
+        },
+        {
+          "level": 50,
+          "uuid": "Compendium.ptu.moves.Item.reV2bQhOVinmpzub",
+          "slug": "phantom-force"
+        },
+        {
+          "level": 54,
+          "uuid": "Compendium.ptu.moves.Item.IeLVMhoSWyAuznBv",
+          "slug": "head-smash"
         }
       ],
       "machine": [],
@@ -331,6 +379,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Water",
+      "1": "Ghost",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -346,11 +399,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699650988950,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!xzQWimC6xzSA0xWr"
 }

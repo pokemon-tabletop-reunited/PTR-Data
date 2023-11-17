@@ -29,16 +29,16 @@
       ],
       "advanced": [
         {
+          "slug": "white-flame",
+          "uuid": "Compendium.ptu.abilities.Item.VhXF2GEX2WWHmkqF"
+        },
+        {
           "slug": "enduring-rage",
           "uuid": "Compendium.ptu.abilities.Item.SPD8UhzfdpeeTrCS"
         },
         {
           "slug": "effect-spore",
           "uuid": "Compendium.ptu.abilities.Item.UiXw0PSczAe8X9BF"
-        },
-        {
-          "slug": "ragelope",
-          "uuid": "Compendium.ptu.abilities.Item.75v2VtTChiVSf9oh"
         }
       ],
       "high": [
@@ -50,11 +50,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.bbgrSxiCGrO1B81l",
         "slug": "brute-bonnet",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -94,16 +96,8 @@
       ],
       "other": [
         {
-          "slug": "bioluminescence",
-          "uuid": "Compendium.ptu.capabilities.Item.h9ZPDMNiqGTivW2f"
-        },
-        {
           "slug": "blender",
           "uuid": "Compendium.ptu.capabilities.Item.77fEVlIy87KrANwC"
-        },
-        {
-          "slug": "dead-silent",
-          "uuid": "Compendium.ptu.capabilities.Item.27U7ZioOgyZFzxDx"
         },
         {
           "slug": "mushroom-harvest",
@@ -112,6 +106,10 @@
         {
           "slug": "shrinkable",
           "uuid": "Compendium.ptu.capabilities.Item.fMjX7EV6NN5Iu5a5"
+        },
+        {
+          "slug": "glow",
+          "uuid": "Compendium.ptu.capabilities.Item.v4OOr4KlIO0DKw5r"
         }
       ]
     },
@@ -589,6 +587,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Grass",
+      "1": "Dark",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -604,11 +607,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699477420721,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!bbgrSxiCGrO1B81l"
 }

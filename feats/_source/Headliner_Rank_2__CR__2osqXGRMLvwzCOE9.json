@@ -1,0 +1,63 @@
+{
+  "name": "Headliner Rank 2 [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: You learn two Musician Moves marked with the Rank of this Feature you are taking or lower.\nRank 1: Sing, Supersonic, Sonic Boom\nRank 2: Screech, Metal Sound, Snarl, Echoed Voice\nRank 3: Hyper Voice, Uproar, Round, Chatter\nRank 4: Boomburst, Overdrive, Ancient Roar",
+    "snippet": "",
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spatk.mod",
+        "value": 1,
+        "priority": 20,
+        "predicate": [],
+        "phase": "applyAEs"
+      }
+    ],
+    "slug": "headliner-rank-2-cr",
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Musician",
+      "Adept Charm or Focus"
+    ],
+    "frequency": "Static",
+    "tags": "[+Special Attack][Ranked 4]",
+    "notes": "",
+    "free": false,
+    "class": "Musician",
+    "name": "Headliner [CR]Rank 1 [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "WRKXvQaKG4o08kOu",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1700228881211,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_id": "2osqXGRMLvwzCOE9",
+  "_key": "!items!2osqXGRMLvwzCOE9"
+}

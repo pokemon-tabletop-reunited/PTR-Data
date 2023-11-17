@@ -26,8 +26,8 @@
           "uuid": "Compendium.ptu.abilities.Item.0b8forax0LGEg6Mx"
         },
         {
-          "slug": "bulletproof",
-          "uuid": "Compendium.ptu.abilities.Item.sK4HKyvIQrumnNOm"
+          "slug": "sand-veil",
+          "uuid": "Compendium.ptu.abilities.Item.Ewr9Oh7DddMKcWLZ"
         }
       ],
       "advanced": [
@@ -42,18 +42,20 @@
       ],
       "high": [
         {
-          "slug": "iron-fist",
-          "uuid": "Compendium.ptu.abilities.Item.Ro8jM65y4N3lP1tq"
+          "slug": "bulletproof",
+          "uuid": "Compendium.ptu.abilities.Item.sK4HKyvIQrumnNOm"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.n8GOxIBMUAt0Ho9L",
         "slug": "orthworm",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -86,14 +88,15 @@
       "highJump": 2,
       "longJump": 3,
       "power": 10,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "groundshaper",
           "uuid": "Compendium.ptu.capabilities.Item.gneJRPErFFv5Kz3g"
         },
         {
-          "slug": "mountable-2"
+          "slug": "mountable-2",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         },
         {
           "slug": "reach",
@@ -126,16 +129,6 @@
           "uuid": "Compendium.ptu.moves.Item.rDlHKWGG9k3AxIlP",
           "slug": "mud-slap",
           "level": 1
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.vIUPVX3M1r2jsyKN",
-          "slug": "bullet-punch",
-          "level": 5
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.tfZD8XbANRwj7C1a",
-          "slug": "mach-punch",
-          "level": 5
         },
         {
           "uuid": "Compendium.ptu.moves.Item.gL2f9k8qYJ1OwiZO",
@@ -176,11 +169,6 @@
           "uuid": "Compendium.ptu.moves.Item.XC3ObpOOy8mGk8s8",
           "slug": "sandstorm",
           "level": 30
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.QGRRWu7evV8MKgs4",
-          "slug": "sucker-punch",
-          "level": 32
         },
         {
           "uuid": "Compendium.ptu.moves.Item.K7oM1QaqyugwZzbF",
@@ -503,28 +491,12 @@
           "slug": "counter"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.Dr7Eh1TGQHwQcreV",
-          "slug": "drain-punch"
-        },
-        {
           "uuid": "Compendium.ptu.moves.Item.CyMarrube3yoGcuy",
           "slug": "drill-run"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.vg4sghb5ZX1spGho",
-          "slug": "dynamic-punch"
-        },
-        {
           "uuid": "Compendium.ptu.moves.Item.VZYf1f6nsz9bp7vw",
           "slug": "earth-power"
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.EA2vavVCPlHFLvwf",
-          "slug": "fire-punch"
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.JwDy34HQ8GT4v6Jv",
-          "slug": "focus-punch"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.XteYd5rxLc3PYt9N",
@@ -533,10 +505,6 @@
         {
           "uuid": "Compendium.ptu.moves.Item.N0EkteKIFV2WtAJ6",
           "slug": "magnet-rise"
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.fCWLpvekbsjaPVHA",
-          "slug": "power-up-punch"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.XklsarNBfkknbU8O",
@@ -643,6 +611,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Steel",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -658,11 +630,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699464510301,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!n8GOxIBMUAt0Ho9L"
 }

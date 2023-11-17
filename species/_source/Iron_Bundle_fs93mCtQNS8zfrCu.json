@@ -29,16 +29,16 @@
       ],
       "advanced": [
         {
+          "slug": "frostbite",
+          "uuid": "Compendium.ptu.abilities.Item.I0qzmUj5HSvUYTKX"
+        },
+        {
           "slug": "giver",
           "uuid": "Compendium.ptu.abilities.Item.WZ1VHsaaL31r0EC4"
         },
         {
           "slug": "winters-kiss",
           "uuid": "Compendium.ptu.abilities.Item.ysdI7l7jNsUsmsqt"
-        },
-        {
-          "slug": "helper",
-          "uuid": "Compendium.ptu.abilities.Item.wxQ2OjTbX4tdeTkV"
         }
       ],
       "high": [
@@ -50,11 +50,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.fs93mCtQNS8zfrCu",
         "slug": "iron-bundle",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -102,10 +104,6 @@
           "uuid": "Compendium.ptu.capabilities.Item.4RJFVQvf9t70YWI3"
         },
         {
-          "slug": "fortune",
-          "uuid": "Compendium.ptu.capabilities.Item.UqRhLjENqm9Vsk2v"
-        },
-        {
           "slug": "glow",
           "uuid": "Compendium.ptu.capabilities.Item.v4OOr4KlIO0DKw5r"
         },
@@ -114,12 +112,8 @@
           "uuid": "Compendium.ptu.capabilities.Item.O00WEaCeKskK8vY4"
         },
         {
-          "slug": "wielder",
-          "uuid": "Compendium.ptu.capabilities.Item.TCK4KX0iwhgf1PGe"
-        },
-        {
-          "slug": "wired",
-          "uuid": "Compendium.ptu.capabilities.Item.qL3NoxglZIBtFB1r"
+          "slug": "freezer",
+          "uuid": "Compendium.ptu.capabilities.Item.O0LMo4PRnTk008ds"
         }
       ]
     },
@@ -131,13 +125,13 @@
           "level": 1
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.rYLmG0KWrwYOCkmR",
-          "slug": "water-gun",
+          "uuid": "Compendium.ptu.moves.Item.DUWjQv05jUb2p6gj",
+          "slug": "whirlpool",
           "level": 1
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.DUWjQv05jUb2p6gj",
-          "slug": "whirlpool",
+          "uuid": "Compendium.ptu.moves.Item.rYLmG0KWrwYOCkmR",
+          "slug": "water-gun",
           "level": 1
         },
         {
@@ -169,11 +163,6 @@
           "uuid": "Compendium.ptu.moves.Item.AZn05DqBo1RGVRLH",
           "slug": "freeze-dry",
           "level": 24
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.Su5ZgZzuuBOI6fdE",
-          "slug": "snipe-shot",
-          "level": 28
         },
         {
           "uuid": "Compendium.ptu.moves.Item.ipZPqONhX7WsWJ5U",
@@ -440,10 +429,6 @@
           "slug": "electric-terrain"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.KkMY9ELz4sIimIQB",
-          "slug": "esper-wing"
-        },
-        {
           "uuid": "Compendium.ptu.moves.Item.joekwsOGEcyJt9BB",
           "slug": "flash"
         },
@@ -476,16 +461,8 @@
           "slug": "muddy-water"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.tDMkTUqGOU9Lxcw7",
-          "slug": "pay-day"
-        },
-        {
           "uuid": "Compendium.ptu.moves.Item.yUba2OWKoxAE3txP",
           "slug": "recycle"
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.kJK4H8XRW4Yk4c1J",
-          "slug": "soft-boiled"
         },
         {
           "uuid": "Compendium.ptu.moves.Item.IWDclyABMiQ3puo0",
@@ -496,7 +473,7 @@
           "slug": "water-pulse"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.XNmCCgclMJf0MP6C",
+          "uuid": "Item.bHiHzGiAKoa5dlsF",
           "slug": "wave-crash"
         }
       ]
@@ -592,6 +569,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Ice",
+      "1": "Water",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -607,11 +589,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699485755325,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!fs93mCtQNS8zfrCu"
 }

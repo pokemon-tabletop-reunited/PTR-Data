@@ -29,40 +29,44 @@
       ],
       "advanced": [
         {
-          "slug": "liquid-ooze",
-          "uuid": "Compendium.ptu.abilities.Item.4Eajhd1jemnWDwl9"
+          "slug": "dry-skin",
+          "uuid": "Compendium.ptu.abilities.Item.dfNUGlG3CmFkmvS2"
+        },
+        {
+          "slug": "tochukaso",
+          "uuid": "Compendium.ptu.abilities.Item.zh8PTv5UFMRuL3tN"
         },
         {
           "slug": "sprint",
           "uuid": "Compendium.ptu.abilities.Item.83eqtrEv4q3MGyRS"
-        },
-        {
-          "slug": "water-absorb",
-          "uuid": "Compendium.ptu.abilities.Item.QpL0f8jY8uoEJ2Fv"
         }
       ],
       "high": [
         {
-          "slug": "tochukaso",
-          "uuid": "Compendium.ptu.abilities.Item.zh8PTv5UFMRuL3tN"
+          "slug": "effect-spore",
+          "uuid": "Compendium.ptu.abilities.Item.UiXw0PSczAe8X9BF"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.2jksIqSeczxfSvdN",
         "slug": "toedscool",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.CHbot6tkmAaSHY7O",
         "slug": "toedscruel",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -102,132 +106,120 @@
       ],
       "other": [
         {
-          "slug": "bioluminescence",
-          "uuid": "Compendium.ptu.capabilities.Item.h9ZPDMNiqGTivW2f"
-        },
-        {
-          "slug": "gilled",
-          "uuid": "Compendium.ptu.capabilities.Item.Sr5UjqsO8FydTuNw"
-        },
-        {
-          "slug": "herb-growth",
-          "uuid": "Compendium.ptu.capabilities.Item.1RQbR6z2tls0Yy6r"
-        },
-        {
-          "slug": "shrinkable",
-          "uuid": "Compendium.ptu.capabilities.Item.fMjX7EV6NN5Iu5a5"
-        },
-        {
           "slug": "underdog",
           "uuid": "Compendium.ptu.capabilities.Item.AIbbzjfDZix8YFkU"
         },
         {
           "slug": "undergrowth",
           "uuid": "Compendium.ptu.capabilities.Item.JNDUauyCvLE9Q46n"
+        },
+        {
+          "slug": "mushroom-harvest",
+          "uuid": "Compendium.ptu.capabilities.Item.QaSdSfiVl9s0Nov4"
         }
       ]
     },
     "moves": {
       "level": [
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.26DAmIlAg7WbPpsM",
-          "slug": "wrap",
-          "level": 1
+          "slug": "wrap"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.rDlHKWGG9k3AxIlP",
-          "slug": "mud-slap",
-          "level": 1
+          "slug": "mud-slap"
         },
         {
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.rDlHKWGG9k3AxIlP",
+          "slug": "mud-slap"
+        },
+        {
+          "level": 4,
           "uuid": "Compendium.ptu.moves.Item.zEIiTcsXhPE8v0fF",
-          "slug": "absorb",
-          "level": 1
+          "slug": "absorb"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.rDlHKWGG9k3AxIlP",
-          "slug": "mud-slap",
-          "level": 1
-        },
-        {
+          "level": 4,
           "uuid": "Compendium.ptu.moves.Item.Zd5zIiSeQFZidPBO",
-          "slug": "constrict",
-          "level": 4
+          "slug": "constrict"
         },
         {
+          "level": 8,
           "uuid": "Compendium.ptu.moves.Item.NisjPhyvzfHCfgSx",
-          "slug": "poison-powder",
-          "level": 8
+          "slug": "poison-powder"
         },
         {
+          "level": 8,
           "uuid": "Compendium.ptu.moves.Item.XssTGMznjX8N33L7",
-          "slug": "stun-spore",
-          "level": 8
+          "slug": "stun-spore"
         },
         {
+          "level": 12,
           "uuid": "Compendium.ptu.moves.Item.I8d7of2dA9eAP0OG",
-          "slug": "supersonic",
-          "level": 12
+          "slug": "supersonic"
         },
         {
+          "level": 14,
           "uuid": "Compendium.ptu.moves.Item.Jx4TeOVUk1DX8R45",
-          "slug": "leech-seed",
-          "level": 14
+          "slug": "leech-seed"
         },
         {
+          "level": 16,
           "uuid": "Compendium.ptu.moves.Item.9PVNtUbbwbRhZimy",
-          "slug": "mega-drain",
-          "level": 16
+          "slug": "mega-drain"
         },
         {
+          "level": 20,
           "uuid": "Compendium.ptu.moves.Item.TD9T2QEalKGQZicp",
-          "slug": "screech",
-          "level": 20
+          "slug": "screech"
         },
         {
+          "level": 24,
           "uuid": "Compendium.ptu.moves.Item.qBTkrmyYzB0z6MVB",
-          "slug": "mud-shot",
-          "level": 24
+          "slug": "mud-shot"
         },
         {
+          "level": 26,
           "uuid": "Compendium.ptu.moves.Item.soZ40VFFxCDiniJu",
-          "slug": "spore",
-          "level": 26
+          "slug": "spore"
         },
         {
+          "level": 28,
           "uuid": "Compendium.ptu.moves.Item.XbAfCHhH425Ldmj4",
-          "slug": "hex",
-          "level": 28
+          "slug": "hex"
         },
         {
+          "level": 32,
           "uuid": "Compendium.ptu.moves.Item.b18uGrjFdKGy0rBU",
-          "slug": "seed-bomb",
-          "level": 32
+          "slug": "seed-bomb"
         },
         {
+          "level": 36,
           "uuid": "Compendium.ptu.moves.Item.Bcv2CeJg9qU1q0Cb",
-          "slug": "growth",
-          "level": 36
+          "slug": "growth"
         },
         {
+          "level": 40,
           "uuid": "Compendium.ptu.moves.Item.mGvVlposKAYCa15m",
-          "slug": "giga-drain",
-          "level": 40
+          "slug": "giga-drain"
         },
         {
+          "level": 48,
           "uuid": "Compendium.ptu.moves.Item.VZYf1f6nsz9bp7vw",
-          "slug": "earth-power",
-          "level": 48
+          "slug": "earth-power"
         },
         {
+          "level": 52,
           "uuid": "Compendium.ptu.moves.Item.6tEUiL2W8EBFwkEU",
-          "slug": "power-whip",
-          "level": 52
+          "slug": "power-whip"
         },
         {
+          "level": 56,
           "uuid": "Compendium.ptu.moves.Item.zDwVpqzROx6ATlaW",
-          "slug": "crush-grip",
-          "level": 56
+          "slug": "crush-grip"
         }
       ],
       "machine": [
@@ -588,6 +580,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Grass",
+      "1": "Ground",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -603,11 +600,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699450967892,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!2jksIqSeczxfSvdN"
 }

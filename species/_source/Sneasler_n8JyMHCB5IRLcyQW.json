@@ -57,19 +57,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.WV0YiM9lYXU3iGJv",
         "slug": "sneasel-hisuian",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.n8JyMHCB5IRLcyQW",
         "slug": "sneasler",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -117,34 +121,94 @@
     "moves": {
       "level": [
         {
+          "level": "Evo",
+          "uuid": "Compendium.ptu.moves.Item.ltef9Qa7iTb0LMow",
+          "slug": "dire-claw"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.XQOEuOenSzYNz4eO",
+          "slug": "leer"
+        },
+        {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.jZzomtDAHtgzeeSV",
-          "slug": "rock-smash",
-          "level": 5
+          "slug": "rock-smash"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.MLCGs5okqB4BLJKc",
-          "slug": "swift",
-          "level": 11
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.1Sk8xyD2S2J6qU1K",
+          "slug": "scratch"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.sm3q5D8SkQcEmiGB",
-          "slug": "slash",
-          "level": 18
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.fDc6STMtfRenewU6",
+          "slug": "fling"
         },
         {
+          "level": 8,
+          "uuid": "Compendium.ptu.moves.Item.oVue0OGsxZn0kQGX",
+          "slug": "quick-attack"
+        },
+        {
+          "level": 10,
+          "uuid": "Compendium.ptu.moves.Item.16Ij0HJODJxOy5j9",
+          "slug": "feint-attack"
+        },
+        {
+          "level": 14,
           "uuid": "Compendium.ptu.moves.Item.TFFIb8CygY9dB625",
-          "slug": "poison-jab",
-          "level": 25
+          "slug": "poison-jab"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.z5hgetbLhLvsd800",
-          "slug": "swords-dance",
-          "level": 34
+          "level": 16,
+          "uuid": "Compendium.ptu.moves.Item.QD9iT4AII5PpKxab",
+          "slug": "brick-break"
         },
         {
+          "level": 20,
+          "uuid": "Compendium.ptu.moves.Item.aS33KlxhRCP0s5Zd",
+          "slug": "agility"
+        },
+        {
+          "level": 22,
+          "uuid": "Compendium.ptu.moves.Item.XkiKEwN1gZtlAkUi",
+          "slug": "metal-claw"
+        },
+        {
+          "level": 25,
+          "uuid": "Compendium.ptu.moves.Item.rtmTimpeb0k1Njsy",
+          "slug": "hone-claws"
+        },
+        {
+          "level": 28,
+          "uuid": "Compendium.ptu.moves.Item.sm3q5D8SkQcEmiGB",
+          "slug": "slash"
+        },
+        {
+          "level": 32,
+          "uuid": "Compendium.ptu.moves.Item.TD9T2QEalKGQZicp",
+          "slug": "screech"
+        },
+        {
+          "level": 35,
           "uuid": "Compendium.ptu.moves.Item.7CkvaKCsI8Oyb3LO",
-          "slug": "close-combat",
-          "level": 43
+          "slug": "close-combat"
+        },
+        {
+          "level": 40,
+          "uuid": "Compendium.ptu.moves.Item.s6hVuNnG75HkMapT",
+          "slug": "snatch"
+        },
+        {
+          "level": 44,
+          "uuid": "Compendium.ptu.moves.Item.EIPvcavZN9cZIXET",
+          "slug": "punishment"
+        },
+        {
+          "level": 47,
+          "uuid": "Compendium.ptu.moves.Item.tfZD8XbANRwj7C1a",
+          "slug": "mach-punch"
         }
       ],
       "machine": [],
@@ -315,6 +379,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Fighting",
+      "1": "Poison",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -330,11 +399,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699644254145,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!n8JyMHCB5IRLcyQW"
 }

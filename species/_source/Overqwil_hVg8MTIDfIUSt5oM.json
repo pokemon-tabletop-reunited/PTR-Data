@@ -57,19 +57,23 @@
     },
     "evolutions": [
       {
-        "uuid": "Compendium.ptu.species.Item.41wkrpC4qmi0z6fR",
-        "slug": "qwilfish",
         "level": 1,
+        "uuid": "Compendium.ptu.species.Item.LIUqOZWyrPPY6rya",
+        "slug": "qwilfish-hisuian",
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.hVg8MTIDfIUSt5oM",
         "slug": "overqwil",
-        "level": 25,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -101,7 +105,7 @@
       "highJump": 2,
       "longJump": 2,
       "power": 4,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "darkvision",
@@ -116,56 +120,117 @@
           "uuid": "Compendium.ptu.capabilities.Item.ZRme14ZKXtdxknem"
         },
         {
-          "slug": "mountable-1"
+          "slug": "mountable-1",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         }
       ]
     },
     "moves": {
       "level": [
         {
-          "uuid": "Compendium.ptu.moves.Item.nJnfeqvu1znRWtOl",
-          "slug": "spikes",
-          "level": 5
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.zQDRgnFwCOuGBf1r",
-          "slug": "pin-missile",
-          "level": 9
-        },
-        {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.l11d9pMx6BuKFj6j",
-          "slug": "barb-barrage",
-          "level": 15
+          "slug": "barb-barrage"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.9TnRLGZ6WIGqIeQ4",
-          "slug": "water-pulse",
-          "level": 21
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.Zy5IjFmrIxowfntS",
+          "slug": "poison-sting"
         },
         {
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.50Vtl0u0jPevwY4K",
+          "slug": "tackle"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.nJnfeqvu1znRWtOl",
+          "slug": "spikes"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.QMaJ91E3XBatUcV9",
+          "slug": "bite"
+        },
+        {
+          "level": 9,
+          "uuid": "Compendium.ptu.moves.Item.Mw6vBLeHYty112VS",
+          "slug": "harden"
+        },
+        {
+          "level": 9,
+          "uuid": "Compendium.ptu.moves.Item.UMrn1csxFsoMatFC",
+          "slug": "minimize"
+        },
+        {
+          "level": 13,
+          "uuid": "Compendium.ptu.moves.Item.5h0l5eITZN4LdYqj",
+          "slug": "bubble"
+        },
+        {
+          "level": 17,
+          "uuid": "Compendium.ptu.moves.Item.nzhedIfXpsZWaEx9",
+          "slug": "rollout"
+        },
+        {
+          "level": 21,
+          "uuid": "Compendium.ptu.moves.Item.LyEh7DPaMxvOwU3G",
+          "slug": "toxic-spikes"
+        },
+        {
+          "level": 25,
+          "uuid": "Compendium.ptu.moves.Item.srUwReOeuVGAPTa5",
+          "slug": "spit-up"
+        },
+        {
+          "level": 25,
+          "uuid": "Compendium.ptu.moves.Item.VTgi7fLjJYUtu8GT",
+          "slug": "stockpile"
+        },
+        {
+          "level": 29,
+          "uuid": "Compendium.ptu.moves.Item.iQXpUEYL3sawCfvM",
+          "slug": "acupressure"
+        },
+        {
+          "level": 33,
           "uuid": "Compendium.ptu.moves.Item.M9VSBteeyEya9Qcf",
-          "slug": "dark-pulse",
-          "level": 26
+          "slug": "dark-pulse"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.TFFIb8CygY9dB625",
-          "slug": "poison-jab",
-          "level": 29
+          "level": 37,
+          "uuid": "Compendium.ptu.moves.Item.zQDRgnFwCOuGBf1r",
+          "slug": "pin-missile"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.O8DwOJXqhrynxm8B",
-          "slug": "aqua-tail",
-          "level": 37
-        },
-        {
+          "level": 41,
           "uuid": "Compendium.ptu.moves.Item.7Gi57ZcOWjyjhU0A",
-          "slug": "double-edge",
-          "level": 47
+          "slug": "double-edge"
         },
         {
+          "level": 45,
+          "uuid": "Compendium.ptu.moves.Item.5uY1ltFWijN07CKe",
+          "slug": "crunch"
+        },
+        {
+          "level": 49,
+          "uuid": "Compendium.ptu.moves.Item.TFFIb8CygY9dB625",
+          "slug": "poison-jab"
+        },
+        {
+          "level": 53,
+          "uuid": "Compendium.ptu.moves.Item.jam3Tqd8arclLpHn",
+          "slug": "destiny-bond"
+        },
+        {
+          "level": 57,
           "uuid": "Compendium.ptu.moves.Item.JJzbmEnsVa1QCx5V",
-          "slug": "self-destruct",
-          "level": 57
+          "slug": "self-destruct"
+        },
+        {
+          "level": 60,
+          "uuid": "Compendium.ptu.moves.Item.RjTMjxxZSdIu2xZL",
+          "slug": "fell-stinger"
         }
       ],
       "machine": [],
@@ -320,6 +385,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Dark",
+      "1": "Poison",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -335,11 +405,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699643468746,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!hVg8MTIDfIUSt5oM"
 }

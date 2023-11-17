@@ -57,19 +57,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.kXEklQdif0kXbfqg",
         "slug": "scyther",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.FeWoypQoogBxQr7J",
         "slug": "scizor",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -111,79 +115,84 @@
     "moves": {
       "level": [
         {
+          "level": "Evo",
+          "uuid": "Compendium.ptu.moves.Item.vIUPVX3M1r2jsyKN",
+          "slug": "bullet-punch"
+        },
+        {
+          "level": 5,
           "uuid": "Compendium.ptu.moves.Item.TbqvNIqswHYAVHOW",
-          "slug": "focus-energy",
-          "level": 5
+          "slug": "focus-energy"
         },
         {
+          "level": 9,
           "uuid": "Compendium.ptu.moves.Item.4zyVHZ1t6PJsYzGX",
-          "slug": "pursuit",
-          "level": 9
+          "slug": "pursuit"
         },
         {
+          "level": 13,
           "uuid": "Compendium.ptu.moves.Item.DfuvLNHQ0TBVgPN4",
-          "slug": "false-swipe",
-          "level": 13
+          "slug": "false-swipe"
         },
         {
+          "level": 17,
           "uuid": "Compendium.ptu.moves.Item.fDdSnTzTyAbJY2nf",
-          "slug": "agility",
-          "level": 17
+          "slug": "agility"
         },
         {
+          "level": 21,
           "uuid": "Compendium.ptu.moves.Item.XkiKEwN1gZtlAkUi",
-          "slug": "metal-claw",
-          "level": 21
+          "slug": "metal-claw"
         },
         {
+          "level": 25,
           "uuid": "Compendium.ptu.moves.Item.4W8tzNRKdmn0WRYd",
-          "slug": "fury-cutter",
-          "level": 25
+          "slug": "fury-cutter"
         },
         {
+          "level": 29,
           "uuid": "Compendium.ptu.moves.Item.sm3q5D8SkQcEmiGB",
-          "slug": "slash",
-          "level": 29
+          "slug": "slash"
         },
         {
+          "level": 33,
           "uuid": "Compendium.ptu.moves.Item.b1toUoLQY3BbeQJ5",
-          "slug": "razor-wind",
-          "level": 33
+          "slug": "razor-wind"
         },
         {
+          "level": 37,
           "uuid": "Compendium.ptu.moves.Item.K7oM1QaqyugwZzbF",
-          "slug": "iron-defense",
-          "level": 37
+          "slug": "iron-defense"
         },
         {
+          "level": 41,
           "uuid": "Compendium.ptu.moves.Item.oxBlIL3xxTpZFy8u",
-          "slug": "x-scissor",
-          "level": 41
+          "slug": "x-scissor"
         },
         {
+          "level": 45,
           "uuid": "Compendium.ptu.moves.Item.WRDjP0nlxlzd20a5",
-          "slug": "night-slash",
-          "level": 45
+          "slug": "night-slash"
         },
         {
+          "level": 49,
           "uuid": "Compendium.ptu.moves.Item.jAWzTcuVWv9j5jYE",
-          "slug": "double-hit",
-          "level": 49
+          "slug": "double-hit"
         },
         {
+          "level": 50,
           "uuid": "Compendium.ptu.moves.Item.BGJbdXIYaUJJwOQN",
-          "slug": "iron-head",
-          "level": 50
+          "slug": "iron-head"
         },
         {
+          "level": 57,
           "uuid": "Compendium.ptu.moves.Item.z5hgetbLhLvsd800",
-          "slug": "swords-dance",
-          "level": 57
+          "slug": "swords-dance"
         },
         {
+          "level": 61,
           "uuid": "Compendium.ptu.moves.Item.0LzmFA1iAyCrMaqh",
-          "slug": "feint",
-          "level": 61
+          "slug": "feint"
         }
       ],
       "machine": [
@@ -487,6 +496,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Bug",
+      "1": "Steel",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -502,11 +516,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699648887291,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!FeWoypQoogBxQr7J"
 }

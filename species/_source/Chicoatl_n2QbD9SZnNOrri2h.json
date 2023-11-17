@@ -112,8 +112,8 @@
       "swim": 3,
       "levitate": 0,
       "burrow": 0,
-      "highJump": 0,
-      "longJump": 0,
+      "highJump": 2,
+      "longJump": 2,
       "power": 1,
       "naturewalk": [
         "Forest"
@@ -123,9 +123,7 @@
           "slug": "underdog",
           "uuid": "Compendium.ptu.capabilities.Item.DyqTXmu2rrRFni89"
         }
-      ],
-      "jumpH": 2,
-      "jumpL": 2
+      ]
     },
     "moves": {
       "level": [
@@ -522,11 +520,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1697514480122,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1700237629026,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!n2QbD9SZnNOrri2h"
 }

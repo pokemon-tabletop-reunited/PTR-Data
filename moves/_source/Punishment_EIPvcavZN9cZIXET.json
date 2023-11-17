@@ -8,7 +8,7 @@
     "effect": "Punishment's Damage Base is raised by 1 for each Combat Stage the target has, to a maximum of Damage Base 12.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "punishment",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -27,9 +27,9 @@
     "strongJaw": false,
     "type": "Dark",
     "category": "Physical",
-    "damageBase": 6,
+    "damageBase": "6",
     "frequency": "EOT",
-    "ac": 2,
+    "ac": "2",
     "range": "Melee, 1 Target",
     "contestType": "Smart - Catching Up",
     "stab": false,
@@ -44,13 +44,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692963260348,
-    "modifiedTime": 1697513698449,
+    "modifiedTime": 1699653995003,
     "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!EIPvcavZN9cZIXET"

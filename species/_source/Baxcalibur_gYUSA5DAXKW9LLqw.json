@@ -29,12 +29,12 @@
       ],
       "advanced": [
         {
-          "slug": "ice-body",
-          "uuid": "Compendium.ptu.abilities.Item.frxDUj1Z8z3I7HHm"
-        },
-        {
           "slug": "coldfire-star",
           "uuid": "Compendium.ptu.abilities.Item.EzadWaH8DQwXpo2D"
+        },
+        {
+          "slug": "ice-body",
+          "uuid": "Compendium.ptu.abilities.Item.frxDUj1Z8z3I7HHm"
         },
         {
           "slug": "sharpness",
@@ -43,34 +43,40 @@
       ],
       "high": [
         {
-          "slug": "critical-resistance",
-          "uuid": "Compendium.ptu.abilities.Item.VzPZOKXiIVvbNN5l"
+          "slug": "sturdy",
+          "uuid": "Compendium.ptu.abilities.Item.AaDXWUAMnhxLbyn3"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.k0M1P8yzMsQZHvyr",
         "slug": "frigibax",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 35,
         "uuid": "Compendium.ptu.species.Item.PaUtPZnl7cYzBcld",
         "slug": "arctibax",
-        "level": 35,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 50,
         "uuid": "Compendium.ptu.species.Item.gYUSA5DAXKW9LLqw",
         "slug": "baxcalibur",
-        "level": 50,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -109,7 +115,8 @@
       ],
       "other": [
         {
-          "slug": "mountable-1"
+          "slug": "mountable-1",
+          "uuid": "Compendium.ptu.capabilities.Item.XkFHXfisqlsZxNvQ"
         },
         {
           "slug": "chilled",
@@ -120,104 +127,104 @@
     "moves": {
       "level": [
         {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.8oVeT8puYM1HjI8Y",
-          "slug": "glaive-rush",
-          "level": "Evo"
+          "slug": "glaive-rush"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.gmXMpunWFGvX3IQa",
-          "slug": "snowscape",
-          "level": "Evo"
-        },
-        {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.lA7uzkBcGhFOexAT",
-          "slug": "breaking-swipe",
-          "level": "Evo"
+          "slug": "breaking-swipe"
         },
         {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.SUduMarNZi7p42fG",
-          "slug": "ice-shard",
-          "level": "Evo"
+          "slug": "ice-shard"
         },
         {
+          "level": 1,
+          "uuid": "Compendium.ptu.moves.Item.pRtupyIihgfCW09B",
+          "slug": "hail"
+        },
+        {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.50Vtl0u0jPevwY4K",
-          "slug": "tackle",
-          "level": 1
+          "slug": "tackle"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.XQOEuOenSzYNz4eO",
-          "slug": "leer",
-          "level": 1
+          "slug": "leer"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.fQxEojo3sSwnLk1q",
-          "slug": "dragon-tail",
-          "level": 1
+          "slug": "dragon-tail"
         },
         {
+          "level": 6,
           "uuid": "Compendium.ptu.moves.Item.OI05tbugvNMMOqmc",
-          "slug": "icy-wind",
-          "level": 6
+          "slug": "icy-wind"
         },
         {
+          "level": 12,
           "uuid": "Compendium.ptu.moves.Item.sEpnYIBn1Bkm9ZXd",
-          "slug": "dragon-breath",
-          "level": 12
+          "slug": "dragon-breath"
         },
         {
+          "level": 15,
           "uuid": "Compendium.ptu.moves.Item.rtmTimpeb0k1Njsy",
-          "slug": "hone-claws",
-          "level": 15
+          "slug": "hone-claws"
         },
         {
+          "level": 18,
           "uuid": "Compendium.ptu.moves.Item.TbqvNIqswHYAVHOW",
-          "slug": "focus-energy",
-          "level": 18
+          "slug": "focus-energy"
         },
         {
+          "level": 21,
           "uuid": "Compendium.ptu.moves.Item.ciR11ELc7B3ulJzA",
-          "slug": "rock-throw",
-          "level": 21
+          "slug": "rock-throw"
         },
         {
+          "level": 24,
           "uuid": "Compendium.ptu.moves.Item.QMaJ91E3XBatUcV9",
-          "slug": "bite",
-          "level": 24
+          "slug": "bite"
         },
         {
+          "level": 27,
           "uuid": "Compendium.ptu.moves.Item.lA7uzkBcGhFOexAT",
-          "slug": "breaking-swipe",
-          "level": 27
+          "slug": "breaking-swipe"
         },
         {
+          "level": 29,
           "uuid": "Compendium.ptu.moves.Item.uGIN68MryZnqXa5w",
-          "slug": "ice-fang",
-          "level": 29
+          "slug": "ice-fang"
         },
         {
+          "level": 32,
           "uuid": "Compendium.ptu.moves.Item.ulXmidTSzjPqUrfI",
-          "slug": "dragon-claw",
-          "level": 32
+          "slug": "dragon-claw"
         },
         {
+          "level": 36,
           "uuid": "Compendium.ptu.moves.Item.rmDcfFfrdq5PgwF9",
-          "slug": "take-down",
-          "level": 36
+          "slug": "take-down"
         },
         {
+          "level": 40,
           "uuid": "Compendium.ptu.moves.Item.ipZPqONhX7WsWJ5U",
-          "slug": "ice-beam",
-          "level": 40
+          "slug": "ice-beam"
         },
         {
+          "level": 44,
           "uuid": "Compendium.ptu.moves.Item.5uY1ltFWijN07CKe",
-          "slug": "crunch",
-          "level": 44
+          "slug": "crunch"
         },
         {
+          "level": 48,
           "uuid": "Compendium.ptu.moves.Item.IiLJ3J3xpWhhTqvw",
-          "slug": "icicle-crash",
-          "level": 48
+          "slug": "icicle-crash"
         }
       ],
       "machine": [
@@ -597,6 +604,11 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Dragon",
+      "1": "Ice",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -612,11 +624,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1696689159826,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699492231839,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!gYUSA5DAXKW9LLqw"
 }

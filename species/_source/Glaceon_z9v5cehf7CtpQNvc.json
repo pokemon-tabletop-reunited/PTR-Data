@@ -101,14 +101,13 @@
       "highJump": 1,
       "longJump": 2,
       "power": 3,
-      "naturewalk": [],
+      "naturewalk": [
+        "Tundra"
+      ],
       "other": [
         {
           "slug": "freezer",
           "uuid": "Compendium.ptu.capabilities.Item.O0LMo4PRnTk008ds"
-        },
-        {
-          "slug": "naturealk-tundra"
         },
         {
           "slug": "tracker",

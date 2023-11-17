@@ -121,10 +121,6 @@
           "uuid": "Compendium.ptu.capabilities.Item.LeXo6hUYsS06rDWa"
         },
         {
-          "slug": "heater",
-          "uuid": "Compendium.ptu.capabilities.Item.9DQsEtRIDXdw7ICw"
-        },
-        {
           "slug": "mystical",
           "uuid": "Compendium.ptu.capabilities.Item.3yPHfYMfVXDJt2T4"
         }
@@ -132,11 +128,6 @@
     },
     "moves": {
       "level": [
-        {
-          "level": "Evo",
-          "uuid": "Compendium.ptu.moves.Item.poVnWBHFe31qUGFk",
-          "slug": "strange-steam"
-        },
         {
           "level": 1,
           "uuid": "Compendium.ptu.moves.Item.50Vtl0u0jPevwY4K",
@@ -184,8 +175,8 @@
         },
         {
           "level": 19,
-          "uuid": "Compendium.ptu.moves.Item.AVg7omn9VOzv0724",
-          "slug": "dig"
+          "uuid": "Compendium.ptu.moves.Item.MayZhpGvJzcbv8BT",
+          "slug": "play-rough"
         },
         {
           "level": 22,
@@ -203,24 +194,14 @@
           "slug": "baton-pass"
         },
         {
-          "level": 28,
-          "uuid": "Compendium.ptu.moves.Item.MayZhpGvJzcbv8BT",
-          "slug": "play-rough"
-        },
-        {
-          "level": 30,
-          "uuid": "Compendium.ptu.moves.Item.5uY1ltFWijN07CKe",
-          "slug": "crunch"
+          "level": 31,
+          "uuid": "Compendium.ptu.moves.Item.AVg7omn9VOzv0724",
+          "slug": "dig"
         },
         {
           "level": 32,
           "uuid": "Compendium.ptu.moves.Item.sjIa2jm1cHAiMwmY",
           "slug": "roar"
-        },
-        {
-          "level": 35,
-          "uuid": "Compendium.ptu.moves.Item.fDc6STMtfRenewU6",
-          "slug": "fling"
         },
         {
           "level": 38,
@@ -233,24 +214,9 @@
           "slug": "double-edge"
         },
         {
-          "level": 42,
-          "uuid": "Compendium.ptu.moves.Item.5uY1ltFWijN07CKe",
-          "slug": "crunch"
-        },
-        {
           "level": 45,
           "uuid": "Compendium.ptu.moves.Item.syEhvBKtqQTBqyct",
           "slug": "last-resort"
-        },
-        {
-          "level": 48,
-          "uuid": "Compendium.ptu.moves.Item.BgnNtZpI9XfThqXv",
-          "slug": "stardust-crunch"
-        },
-        {
-          "level": 50,
-          "uuid": "Compendium.ptu.moves.Item.BqG5FGEWjcBkx83u",
-          "slug": "fairy-jinx"
         }
       ],
       "machine": [
@@ -577,11 +543,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1693120305329,
-    "modifiedTime": 1697507532808,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1699438485803,
+    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
   },
   "_key": "!items!rLoDpvIjAWn2GTw1"
 }

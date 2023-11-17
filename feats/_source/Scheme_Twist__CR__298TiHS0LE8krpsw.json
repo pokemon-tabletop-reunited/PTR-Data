@@ -1,0 +1,49 @@
+{
+  "name": "Scheme Twist [CR]",
+  "system": {
+    "origin": "Class Rework",
+    "effect": "Effect: You gain the Rally Ability. When you give [Orders], you may pay 1 AP to activate Rally, ignoring Frequency, targeting only the targets of the [Orders]. A target may only be affected by Rally in this way once per Scene.",
+    "snippet": "",
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": null,
+      "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "prerequisites": [
+      "Mobilize",
+      "Adept Command"
+    ],
+    "frequency": "Static",
+    "tags": "",
+    "notes": "",
+    "free": false,
+    "class": "Commander",
+    "name": "Scheme Twist [CR]"
+  },
+  "img": "/systems/ptu/css/images/icons/feat_icon.png",
+  "type": "feat",
+  "folder": "g4rkUfI9kme8LqBH",
+  "_id": "298TiHS0LE8krpsw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "xUomATnixLnn15IR": 3,
+    "ODt7FhFvbVjW9f1k": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ptu",
+    "systemVersion": "4.0.2",
+    "coreVersion": "11.311",
+    "createdTime": 1699736627730,
+    "modifiedTime": 1699789245386,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+  },
+  "_key": "!items!298TiHS0LE8krpsw"
+}

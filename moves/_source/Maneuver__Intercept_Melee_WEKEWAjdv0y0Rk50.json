@@ -8,7 +8,7 @@
     "effect": "Trigger: An Ally within Movement Range is hit by an adjacent for.\nEffect: You move to the Ally and Push the triggering Ally 1 Meter away from you, and Shift to occupy their space, and are hit by the triggering attack.\n\nNote: If the target that was Intercepted was hit by an Area of Effect Move, and the 1 meter push does not remove them from the Area of Effect, the Intercept has no effect since they are still in the area of the attack – it would cause the Interceptor to be hit by the Move however.\n\nAdditional Rules:\n» Pokémon and Trainers may only Intercept against Priority and Interrupt Moves if they are faster than the user of those Moves.\n» Moves that cannot miss (such as Aura Sphere or Swift) cannot be Intercepted.\n» Pokémon and Trainers cannot attempt Intercepts if they are Asleep, Confused, Enraged, Frozen, Stuck, Paralyzed, or otherwise unable to move.\n» Intercepts may not be used to move the Intercepting Pokémon or Trainer OUT of the way of an attack. They will always be hit, regardless.\n» Pokémon may spend Spirit down to -1 to Intercept.\n» Trainers by default may only Intercept using a Full Action, Interrupt.\n» Pokémon by default may only Intercept by spending their Shift & Swift action + 1 Spirit, as an Interrupt.",
     "snippet": "",
     "rules": [],
-    "slug": "maneuver-attack-of-opportunity",
+    "slug": "maneuver-intercept-melee",
     "schema": {
       "version": null,
       "lastMigration": null
@@ -50,10 +50,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.3",
+    "coreVersion": "11.314",
     "createdTime": 1696797763032,
-    "modifiedTime": 1699197605645,
+    "modifiedTime": 1700228817291,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "WEKEWAjdv0y0Rk50",

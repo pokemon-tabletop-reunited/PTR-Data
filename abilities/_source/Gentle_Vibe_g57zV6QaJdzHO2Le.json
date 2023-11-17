@@ -7,7 +7,7 @@
     "effect": "The user creates a Burst 2. Everything in the Burst, including the user, have their Combat Stages reset, and are cured of any Volatile Status Afflictions.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "gentle-vibe",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -23,18 +23,22 @@
   "_id": "g57zV6QaJdzHO2Le",
   "effects": [],
   "folder": null,
-  "sort": 35700000,
+  "sort": 37100000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1692968394056,
-    "modifiedTime": 1696691577981,
+    "modifiedTime": 1699721156284,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!g57zV6QaJdzHO2Le"

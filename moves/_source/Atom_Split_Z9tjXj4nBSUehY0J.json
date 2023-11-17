@@ -1,7 +1,11 @@
 {
   "name": "Atom Split",
   "type": "move",
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "effects": [],
   "_id": "Z9tjXj4nBSUehY0J",
   "system": {
@@ -9,7 +13,7 @@
     "effect": "The users Hit Points are set to -50% of their full Hit Point value. This Hit Point loss cannot be prevented or reduced in any way. The users loyalty toward its trainer may be lowered. Damp prevents this Move from being used.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "atom-split",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -47,14 +51,14 @@
   },
   "img": "/systems/ptu/css/images/types2/NormalIC_Icon.png",
   "folder": "CKiVqPT3ASdUeaM0",
-  "sort": 0,
+  "sort": 3200000,
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
+    "systemVersion": "4.0.1.1",
     "coreVersion": "11.311",
     "createdTime": 1689606523899,
-    "modifiedTime": 1696691601608,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1699654181288,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!Z9tjXj4nBSUehY0J"
 }
