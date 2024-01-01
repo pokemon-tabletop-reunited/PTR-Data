@@ -30,27 +30,27 @@
       "basic": [
         {
           "slug": "malice",
-          "uuid": "Compendium.ptu.abilities.Item.D1jKKYvl2nWmdfP6"
+          "uuid": "Compendium.ptu.abilities.Item.zGBkcq3Yq2drkdIv"
         }
       ],
       "advanced": [
         {
           "slug": "intimidate",
-          "uuid": "Compendium.ptu.abilities.Item.FR1xmYgL9H09YS7d"
+          "uuid": "Compendium.ptu.abilities.Item.NnYU42v8Ge5lmPQF"
         },
         {
           "slug": "interference",
-          "uuid": "Compendium.ptu.abilities.Item.Vle9ekBy0tYPT0pO"
+          "uuid": "Compendium.ptu.abilities.Item.NGesozzcq6yYzALH"
         },
         {
           "slug": "sturdy",
-          "uuid": "Compendium.ptu.abilities.Item.Mx1PiNPbtfrTeh0M"
+          "uuid": "Compendium.ptu.abilities.Item.AaDXWUAMnhxLbyn3"
         }
       ],
       "high": [
         {
           "slug": "magic-guard",
-          "uuid": "Compendium.ptu.abilities.Item.kZG1cUD5WWnEjlkd"
+          "uuid": "Compendium.ptu.abilities.Item.3zEQl6AsWskjTjQy"
         }
       ]
     },
@@ -119,38 +119,38 @@
       "other": [
         {
           "slug": "threaded",
-          "uuid": "Compendium.ptu.capabilities.Item.k5ib7NNoVDgC0zcf"
+          "uuid": "Compendium.ptu.capabilities.Item.FgI0NCLyoQbTmVvh"
         },
         {
           "slug": "underdog",
-          "uuid": "Compendium.ptu.capabilities.Item.DyqTXmu2rrRFni89"
+          "uuid": "Compendium.ptu.capabilities.Item.AIbbzjfDZix8YFkU"
         },
         {
           "slug": "wallclimber",
-          "uuid": "Compendium.ptu.capabilities.Item.Afqp4Bw6PemQdWi9"
+          "uuid": "Compendium.ptu.capabilities.Item.pvTnoGYp0kBhHmMD"
         }
       ]
     },
     "moves": {
       "level": [
         {
-          "uuid": "Compendium.ptu.moves.Item.fATlduVcdbN0Z4jc",
           "slug": "bug-bite",
+          "uuid": "Compendium.ptu.moves.Item.NOJaY2kH3aQcaexD",
           "level": 10
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.wEZE2iAj7rQPJNPk",
           "slug": "harden",
+          "uuid": "Compendium.ptu.moves.Item.Mw6vBLeHYty112VS",
           "level": 13
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.vCNkUzsXMkuEvfyf",
           "slug": "echoed-voice",
+          "uuid": "Compendium.ptu.moves.Item.gOhBiJMpOl84MLaX",
           "level": 17
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.NvLhoi1JMvrQLEwU",
           "slug": "screech",
+          "uuid": "Compendium.ptu.moves.Item.TD9T2QEalKGQZicp",
           "level": 21
         },
         {
@@ -159,8 +159,8 @@
           "level": 25
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.7g7WRoZ3iGgCsY7m",
           "slug": "uproar",
+          "uuid": "Compendium.ptu.moves.Item.Si0MaGpUCvDBY8Gd",
           "level": 29
         }
       ],
@@ -168,28 +168,28 @@
       "egg": [],
       "tutor": [
         {
-          "uuid": "Compendium.ptu.moves.Item.fATlduVcdbN0Z4jc",
-          "slug": "bug-bite"
+          "slug": "bug-bite",
+          "uuid": "Compendium.ptu.moves.Item.NOJaY2kH3aQcaexD"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.898nYpdsGUrgCkaH",
-          "slug": "electroweb"
+          "slug": "electroweb",
+          "uuid": "Compendium.ptu.moves.Item.dM7JNhVHOmnTxRhy"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.79hUQHdOjX8IQa4B",
-          "slug": "iron-defense"
+          "slug": "iron-defense",
+          "uuid": "Compendium.ptu.moves.Item.K7oM1QaqyugwZzbF"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.ENoKrlQZgviyXn1m",
-          "slug": "secret-power"
+          "slug": "secret-power",
+          "uuid": "Compendium.ptu.moves.Item.6Q0qjfHVNHd5fsec"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.pho7PM46TLfGqXMk",
-          "slug": "snore"
+          "slug": "snore",
+          "uuid": "Compendium.ptu.moves.Item.RRgY3N3vFTIbzl53"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.7g7WRoZ3iGgCsY7m",
-          "slug": "uproar"
+          "slug": "uproar",
+          "uuid": "Compendium.ptu.moves.Item.Si0MaGpUCvDBY8Gd"
         }
       ]
     },
@@ -299,10 +299,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.314",
+    "systemVersion": "4.0.4",
+    "coreVersion": "11.315",
     "createdTime": 1689609527590,
-    "modifiedTime": 1700237629026,
+    "modifiedTime": 1700245753955,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!ne16EK3IW0cftmlI"

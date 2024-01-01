@@ -31,27 +31,27 @@
       "basic": [
         {
           "slug": "levitate",
-          "uuid": "Compendium.ptu.abilities.Item.nfhFYl5cYPzSFinI"
+          "uuid": "Compendium.ptu.abilities.Item.WsNZitOqUrhu9k78"
         }
       ],
       "advanced": [
         {
           "slug": "liquid-ooze",
-          "uuid": "Compendium.ptu.abilities.Item.SRjCUITeLPy026N9"
+          "uuid": "Compendium.ptu.abilities.Item.4Eajhd1jemnWDwl9"
         },
         {
           "slug": "poison-point",
-          "uuid": "Compendium.ptu.abilities.Item.xFKRtlIDOHk3uLEr"
+          "uuid": "Compendium.ptu.abilities.Item.osJgodPktGSkPJf4"
         },
         {
           "slug": "friend-guard",
-          "uuid": "Compendium.ptu.abilities.Item.VZdhYPJ6dkQQtIpQ"
+          "uuid": "Compendium.ptu.abilities.Item.i0XQhctF8P16Pkg9"
         }
       ],
       "high": [
         {
           "slug": "absorb-force",
-          "uuid": "Compendium.ptu.abilities.Item.PJiFOXMc8rEIzcFm"
+          "uuid": "Compendium.ptu.abilities.Item.KjHj0iWe2S1gs9m6"
         }
       ]
     },
@@ -106,19 +106,19 @@
       "other": [
         {
           "slug": "amorphous",
-          "uuid": "Compendium.ptu.capabilities.Item.3JP4VLsekYndC7W9"
+          "uuid": "Compendium.ptu.capabilities.Item.nWoI9YVnNO7M6UtR"
         },
         {
           "slug": "fountain",
-          "uuid": "Compendium.ptu.capabilities.Item.BlzmsGZkgfW1BA0C"
+          "uuid": "Compendium.ptu.capabilities.Item.ut911FJQTWb21u98"
         },
         {
           "slug": "gilled",
-          "uuid": "Compendium.ptu.capabilities.Item.rFLLjjCXn07D0qqp"
+          "uuid": "Compendium.ptu.capabilities.Item.Sr5UjqsO8FydTuNw"
         },
         {
           "slug": "guster",
-          "uuid": "Compendium.ptu.capabilities.Item.ab2fl2SzdSMAY3Xc"
+          "uuid": "Compendium.ptu.capabilities.Item.St6x6ofobU8ztcts"
         },
         {
           "slug": "mountable",
@@ -129,43 +129,43 @@
     "moves": {
       "level": [
         {
-          "uuid": "Compendium.ptu.moves.Item.WkW3yprpI9SjYktn",
           "slug": "bubble",
+          "uuid": "Compendium.ptu.moves.Item.5h0l5eITZN4LdYqj",
           "level": 6
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.3lcEGehTc2Tddj2o",
           "slug": "toxic-spikes",
+          "uuid": "Compendium.ptu.moves.Item.LyEh7DPaMxvOwU3G",
           "level": 10
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.TSfx5EyRZpXvDLl9",
           "slug": "twister",
+          "uuid": "Compendium.ptu.moves.Item.CCtm8sYMR7X45ZwK",
           "level": 14
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.1G8ozk7nm8Y7p8WU",
           "slug": "poison-tail",
+          "uuid": "Compendium.ptu.moves.Item.MTBLJx5OwpfGk4xx",
           "level": 18
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.E1gurNYC1mXndUaV",
           "slug": "bubble-beam",
+          "uuid": "Compendium.ptu.moves.Item.0O3ntZlEtOYU7vqT",
           "level": 22
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.rCXkUNbNuZWEPHU6",
           "slug": "amnesia",
+          "uuid": "Compendium.ptu.moves.Item.0JDFAZ8Q0rDKNodB",
           "level": 26
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.QOGaZQMD62I1TlcF",
           "slug": "venoshock",
+          "uuid": "Compendium.ptu.moves.Item.DKcoWwUTCJWg58nw",
           "level": 30
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.miVYvdLAUKtgTt1d",
           "slug": "dragon-breath",
+          "uuid": "Compendium.ptu.moves.Item.sEpnYIBn1Bkm9ZXd",
           "level": 34
         },
         {
@@ -174,250 +174,250 @@
           "level": 39
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.ILRN7vvNLxqHaqST",
           "slug": "aqua-tail",
+          "uuid": "Compendium.ptu.moves.Item.O8DwOJXqhrynxm8B",
           "level": 44
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.hGaaEjUWG0AozHxl",
           "slug": "sludge-wave",
+          "uuid": "Compendium.ptu.moves.Item.HisedpFvMgmEqsbV",
           "level": 50
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.MrEG7kbSEi0eOFOW",
           "slug": "whirlwind",
+          "uuid": "Compendium.ptu.moves.Item.DCD0giVPub7Agz5U",
           "level": 56
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.wFIpRzhnk5IbQmBR",
           "slug": "recover",
+          "uuid": "Compendium.ptu.moves.Item.qJILuzcs4SDgylfD",
           "level": 62
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.iwnz0oF1SWZ1Ln7W",
           "slug": "hydro-pump",
+          "uuid": "Compendium.ptu.moves.Item.oRu76Vk1LfE93pky",
           "level": 68
         }
       ],
       "machine": [
         {
-          "uuid": "Compendium.ptu.moves.Item.tmNtPcrGH82Ll5Su",
-          "slug": "toxic"
+          "slug": "toxic",
+          "uuid": "Compendium.ptu.moves.Item.eFxRUdqQgdnJybY4"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.p0OwgadqqFVK3LbP",
-          "slug": "hail"
+          "slug": "hail",
+          "uuid": "Compendium.ptu.moves.Item.pRtupyIihgfCW09B"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.QOGaZQMD62I1TlcF",
-          "slug": "venoshock"
+          "slug": "venoshock",
+          "uuid": "Compendium.ptu.moves.Item.DKcoWwUTCJWg58nw"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.dUETXbMQMsjLOsfo",
-          "slug": "hidden-power"
+          "slug": "hidden-power",
+          "uuid": "Compendium.ptu.moves.Item.QyDgi8hL1jQLLhld"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.nN63dt3YVILxJXrL",
-          "slug": "ice-beam"
+          "slug": "ice-beam",
+          "uuid": "Compendium.ptu.moves.Item.ipZPqONhX7WsWJ5U"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.OVqIFzzDlbMKS7Ew",
-          "slug": "blizzard"
+          "slug": "blizzard",
+          "uuid": "Compendium.ptu.moves.Item.OaCO337ux9X8zQ2s"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.sKKY6tSr3LMJbPYe",
-          "slug": "hyper-beam"
+          "slug": "hyper-beam",
+          "uuid": "Compendium.ptu.moves.Item.WV86ctKatPhQpZC3"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.NRxIwpKjTu85dUVX",
-          "slug": "light-screen"
+          "slug": "light-screen",
+          "uuid": "Compendium.ptu.moves.Item.weEc5wlOZ5H7Tguh"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.L3SlDw7Vz1QpAN7Z",
-          "slug": "protect"
+          "slug": "protect",
+          "uuid": "Compendium.ptu.moves.Item.HfiQ6I7xp7aGazV0"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.uXdhVq2qq2KMn7WD",
-          "slug": "rain-dance"
+          "slug": "rain-dance",
+          "uuid": "Compendium.ptu.moves.Item.TQrk7QpDTMSD7Ycz"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.QbOpkuydT0R2mo0z",
-          "slug": "frustration"
+          "slug": "frustration",
+          "uuid": "Compendium.ptu.moves.Item.tkATQl42vxqWDfjd"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.DWLf0wREud7OIpI5",
-          "slug": "earthquake"
+          "slug": "earthquake",
+          "uuid": "Compendium.ptu.moves.Item.qQGrbuuO6EcG6b7c"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.yjo9WADdCK1VkuOf",
-          "slug": "return"
+          "slug": "return",
+          "uuid": "Compendium.ptu.moves.Item.eRjK7eB733bE0D8o"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.NEr3K7O8pAoI6mBn",
-          "slug": "shadow-ball"
+          "slug": "shadow-ball",
+          "uuid": "Compendium.ptu.moves.Item.66w0oT6I80QzeAMr"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.K7UB9TkJk18A5zvS",
-          "slug": "double-team"
+          "slug": "double-team",
+          "uuid": "Compendium.ptu.moves.Item.BHmRIX70tqHROfdN"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.lFNhIJay9mPURkFm",
-          "slug": "reflect"
+          "slug": "reflect",
+          "uuid": "Compendium.ptu.moves.Item.eDFWwKCjaJ7vNNbJ"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.hGaaEjUWG0AozHxl",
-          "slug": "sludge-wave"
+          "slug": "sludge-wave",
+          "uuid": "Compendium.ptu.moves.Item.HisedpFvMgmEqsbV"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.ksbwiRKXZTQsCQBv",
-          "slug": "sludge-bomb"
+          "slug": "sludge-bomb",
+          "uuid": "Compendium.ptu.moves.Item.T4KEAGNoEIpiO0G5"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.ID8S7h0VtaFMVHJO",
-          "slug": "aerial-ace"
+          "slug": "aerial-ace",
+          "uuid": "Compendium.ptu.moves.Item.9TD6e8JoZBjIuuAP"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.mrYbUoEGQqVbkd8D",
-          "slug": "facade"
+          "slug": "facade",
+          "uuid": "Compendium.ptu.moves.Item.QhQ2vUo3KMKo4Xou"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.9xBKv8W7Bus0tIly",
-          "slug": "rest"
+          "slug": "rest",
+          "uuid": "Compendium.ptu.moves.Item.P0JIeR4lnilvg7K8"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.Y1brXQWXKmLFHLEe",
-          "slug": "attract"
+          "slug": "attract",
+          "uuid": "Compendium.ptu.moves.Item.0VI0E6oSQYULcSUU"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.CCIib8kjCbVHJqC4",
-          "slug": "round"
+          "slug": "round",
+          "uuid": "Compendium.ptu.moves.Item.GgdkAr3gDO6snP7r"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.jTuUN8OUZo8iJlRl",
-          "slug": "steel-wing"
+          "slug": "steel-wing",
+          "uuid": "Compendium.ptu.moves.Item.iXFRlGUw8hfFQSlm"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.XvJkuBPZhZzpidXT",
-          "slug": "scald"
+          "slug": "scald",
+          "uuid": "Compendium.ptu.moves.Item.Nu3QmPfiZVzOccNU"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.BegjDnyr49VHCmzS",
-          "slug": "acrobatics"
+          "slug": "acrobatics",
+          "uuid": "Compendium.ptu.moves.Item.VsFJounIwoSOu8g4"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.4VUyfLLqyIuah3Jr",
-          "slug": "payback"
+          "slug": "payback",
+          "uuid": "Compendium.ptu.moves.Item.8frJ1rnKqBmGvKC0"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.wK6kD8fSEYerRcEl",
-          "slug": "giga-impact"
+          "slug": "giga-impact",
+          "uuid": "Compendium.ptu.moves.Item.WGOQso4iji1XKrdK"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.pHJcniTqCCrIKzzN",
-          "slug": "dragon-tail"
+          "slug": "dragon-tail",
+          "uuid": "Compendium.ptu.moves.Item.fQxEojo3sSwnLk1q"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.9Jy79zxEnXS01ATU",
-          "slug": "poison-jab"
+          "slug": "poison-jab",
+          "uuid": "Compendium.ptu.moves.Item.TFFIb8CygY9dB625"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.73AHUIh6V65adbTW",
-          "slug": "swagger"
+          "slug": "swagger",
+          "uuid": "Compendium.ptu.moves.Item.arxy479cTjkB8mML"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.yeX0bso0PRJIS9XL",
-          "slug": "sleep-talk"
+          "slug": "sleep-talk",
+          "uuid": "Compendium.ptu.moves.Item.Jfi9FN77Rplukh7W"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.vypDpjMbQDlUywfo",
-          "slug": "substitute"
+          "slug": "substitute",
+          "uuid": "Compendium.ptu.moves.Item.IGk8nNBogMKp3seI"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.orVQZOMAFDuF62u4",
-          "slug": "surf"
+          "slug": "surf",
+          "uuid": "Compendium.ptu.moves.Item.pRxBTVSGS7ScdK5s"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.UtbYhKJcIvhbkT3E",
-          "slug": "waterfall"
+          "slug": "waterfall",
+          "uuid": "Compendium.ptu.moves.Item.72Gli6hv7dk4QRdN"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.IW5JN8hhwgXFV72V",
-          "slug": "confide"
+          "slug": "confide",
+          "uuid": "Compendium.ptu.moves.Item.43i757GW8pptWB5j"
         }
       ],
       "egg": [],
       "tutor": [
         {
-          "uuid": "Compendium.ptu.moves.Item.IGPscE7OdJyABI5q",
-          "slug": "aqua-ring-n"
+          "slug": "aqua-ring-n",
+          "uuid": "Compendium.ptu.moves.Item.ywYeIhxlrHb9gOP1"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.ILRN7vvNLxqHaqST",
-          "slug": "aqua-tail"
+          "slug": "aqua-tail",
+          "uuid": "Compendium.ptu.moves.Item.O8DwOJXqhrynxm8B"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.y1VwfIlyeMqezi6Q",
-          "slug": "body-slam"
+          "slug": "body-slam",
+          "uuid": "Compendium.ptu.moves.Item.DzD1pun72sIQFQle"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.mxEMzOvQWNA1LloV",
-          "slug": "brine"
+          "slug": "brine",
+          "uuid": "Compendium.ptu.moves.Item.5ORKWU9EYYyzJOaH"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.XPzSD2Cvk1i3kXEN",
-          "slug": "dive"
+          "slug": "dive",
+          "uuid": "Compendium.ptu.moves.Item.5P4ZKecoBzCd8vh5"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.s9sKmw7ifRzzW9OL",
-          "slug": "double-edge"
+          "slug": "double-edge",
+          "uuid": "Compendium.ptu.moves.Item.7Gi57ZcOWjyjhU0A"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.Sba5efnjqgagAR4d",
-          "slug": "dragon-pulse"
+          "slug": "dragon-pulse",
+          "uuid": "Compendium.ptu.moves.Item.qOem2TUbrvmdG1Fu"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.RAU2oNTyq2N0qMnZ",
-          "slug": "endure"
+          "slug": "endure",
+          "uuid": "Compendium.ptu.moves.Item.IAFYzSRQGxZM1SSQ"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.7Yev7jq8hqu76wyo",
-          "slug": "gastro-acid"
+          "slug": "gastro-acid",
+          "uuid": "Compendium.ptu.moves.Item.MDlLKeBdiKEtjK3o"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.8TVeNmrxtt7wkUa1",
-          "slug": "giga-drain"
+          "slug": "giga-drain",
+          "uuid": "Compendium.ptu.moves.Item.mGvVlposKAYCa15m"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.JwfwxAkOyBKmGthM",
-          "slug": "gunk-shot"
+          "slug": "gunk-shot",
+          "uuid": "Compendium.ptu.moves.Item.WBkN88g7D8ruzV02"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.T3tBrl9gp4fbRMrt",
-          "slug": "helping-hand"
+          "slug": "helping-hand",
+          "uuid": "Compendium.ptu.moves.Item.xhZNseKRJl3pPnTZ"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.ieelWjGWIFKne4uX",
-          "slug": "icy-wind"
+          "slug": "icy-wind",
+          "uuid": "Compendium.ptu.moves.Item.OI05tbugvNMMOqmc"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.FYXpqo7I3cw01MLZ",
-          "slug": "iron-tail"
+          "slug": "iron-tail",
+          "uuid": "Compendium.ptu.moves.Item.bpb9SFiI7s9wqGyb"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.UrCJ1HI555kcJXYv",
-          "slug": "magic-coat"
+          "slug": "magic-coat",
+          "uuid": "Compendium.ptu.moves.Item.qfZVvzSa9Pytij7O"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.PxvFMzMThcJoJjBH",
-          "slug": "outrage"
+          "slug": "outrage",
+          "uuid": "Compendium.ptu.moves.Item.Pc0fIapOkBRR4J8L"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.pho7PM46TLfGqXMk",
-          "slug": "snore"
+          "slug": "snore",
+          "uuid": "Compendium.ptu.moves.Item.RRgY3N3vFTIbzl53"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.nw6gP4Lna9ZNSM9L",
-          "slug": "water-pulse"
+          "slug": "water-pulse",
+          "uuid": "Compendium.ptu.moves.Item.9TnRLGZ6WIGqIeQ4"
         }
       ]
     },
@@ -527,10 +527,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.314",
+    "systemVersion": "4.0.4",
+    "coreVersion": "11.315",
     "createdTime": 1689609527590,
-    "modifiedTime": 1700237629026,
+    "modifiedTime": 1700245753955,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!VcC2FGxDUyavEHwl"

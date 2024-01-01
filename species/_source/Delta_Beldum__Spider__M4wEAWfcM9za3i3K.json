@@ -31,27 +31,27 @@
       "basic": [
         {
           "slug": "immunity",
-          "uuid": "Compendium.ptu.abilities.Item.3R7t7MnUIDxIzNB1"
+          "uuid": "Compendium.ptu.abilities.Item.EIwNj0k0OfXcoUNa"
         },
         {
           "slug": "poison-heal",
-          "uuid": "Compendium.ptu.abilities.Item.LgCaJHWkdu0W0Tjf"
+          "uuid": "Compendium.ptu.abilities.Item.SAJxzWp6ojhQRUVr"
         }
       ],
       "advanced": [
         {
           "slug": "perception",
-          "uuid": "Compendium.ptu.abilities.Item.MecB0OQ0mH5II0G3"
+          "uuid": "Compendium.ptu.abilities.Item.npbIziNlGUgPqn5M"
         },
         {
           "slug": "poison-touch",
-          "uuid": "Compendium.ptu.abilities.Item.eI33GY5qITZ0W1rs"
+          "uuid": "Compendium.ptu.abilities.Item.tZqCQEp1Y7W3J3TG"
         }
       ],
       "high": [
         {
           "slug": "toxic-boost",
-          "uuid": "Compendium.ptu.abilities.Item.UwI4ZdOD2PmlwQOl"
+          "uuid": "Compendium.ptu.abilities.Item.VpG5HkNkA92qA5Jd"
         }
       ]
     },
@@ -116,43 +116,43 @@
       "other": [
         {
           "slug": "threaded",
-          "uuid": "Compendium.ptu.capabilities.Item.k5ib7NNoVDgC0zcf"
+          "uuid": "Compendium.ptu.capabilities.Item.FgI0NCLyoQbTmVvh"
         },
         {
           "slug": "underdog",
-          "uuid": "Compendium.ptu.capabilities.Item.DyqTXmu2rrRFni89"
+          "uuid": "Compendium.ptu.capabilities.Item.AIbbzjfDZix8YFkU"
         },
         {
           "slug": "wallclimber",
-          "uuid": "Compendium.ptu.capabilities.Item.Afqp4Bw6PemQdWi9"
+          "uuid": "Compendium.ptu.capabilities.Item.pvTnoGYp0kBhHmMD"
         }
       ]
     },
     "moves": {
       "level": [
         {
-          "uuid": "Compendium.ptu.moves.Item.fATlduVcdbN0Z4jc",
           "slug": "bug-bite",
+          "uuid": "Compendium.ptu.moves.Item.NOJaY2kH3aQcaexD",
           "level": 1
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.kDg8ukuxI8Wq5azx",
           "slug": "string-shot",
+          "uuid": "Compendium.ptu.moves.Item.kxvFjyRtAzf99FIX",
           "level": 1
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.HwJtRDsnRTiuwZqL",
           "slug": "mud-slap",
+          "uuid": "Compendium.ptu.moves.Item.rDlHKWGG9k3AxIlP",
           "level": 5
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.y7yc3uS38DLUVYf8",
           "slug": "spider-web",
+          "uuid": "Compendium.ptu.moves.Item.cVvKcL3mPp6NRRPG",
           "level": 15
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.UI9ALfnnkYxq2ujd",
           "slug": "sticky-web",
+          "uuid": "Compendium.ptu.moves.Item.vOj9bt7G9I4GixBZ",
           "level": 30
         }
       ],
@@ -160,16 +160,16 @@
       "egg": [],
       "tutor": [
         {
-          "uuid": "Compendium.ptu.moves.Item.fATlduVcdbN0Z4jc",
-          "slug": "bug-bite"
+          "slug": "bug-bite",
+          "uuid": "Compendium.ptu.moves.Item.NOJaY2kH3aQcaexD"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.898nYpdsGUrgCkaH",
-          "slug": "electroweb"
+          "slug": "electroweb",
+          "uuid": "Compendium.ptu.moves.Item.dM7JNhVHOmnTxRhy"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.kDg8ukuxI8Wq5azx",
-          "slug": "string-shot"
+          "slug": "string-shot",
+          "uuid": "Compendium.ptu.moves.Item.kxvFjyRtAzf99FIX"
         }
       ]
     },
@@ -279,10 +279,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.314",
+    "systemVersion": "4.0.4",
+    "coreVersion": "11.315",
     "createdTime": 1689609527590,
-    "modifiedTime": 1700237629026,
+    "modifiedTime": 1700245753955,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!M4wEAWfcM9za3i3K"

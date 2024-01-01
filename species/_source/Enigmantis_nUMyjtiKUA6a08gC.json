@@ -31,27 +31,27 @@
       "basic": [
         {
           "slug": "forewarn",
-          "uuid": "Compendium.ptu.abilities.Item.idB7iyGpEQcVAmtn"
+          "uuid": "Compendium.ptu.abilities.Item.QpPR5Ekvn9utWUTq"
         },
         {
           "slug": "omen",
-          "uuid": "Compendium.ptu.abilities.Item.LTJ18opjpyA9cKlX"
+          "uuid": "Compendium.ptu.abilities.Item.pMSDhQp6Tx0Cojng"
         }
       ],
       "advanced": [
         {
           "slug": "compound-eyes",
-          "uuid": "Compendium.ptu.abilities.Item.VKbLDaukIaTRqNqe"
+          "uuid": "Compendium.ptu.abilities.Item.25NJNoqly3Vx4LiD"
         },
         {
           "slug": "telepathy",
-          "uuid": "Compendium.ptu.abilities.Item.8onr2ZNpLhgAVaMb"
+          "uuid": "Compendium.ptu.abilities.Item.KHtzAPwDaGBwCn5l"
         }
       ],
       "high": [
         {
           "slug": "magic-guard",
-          "uuid": "Compendium.ptu.abilities.Item.kZG1cUD5WWnEjlkd"
+          "uuid": "Compendium.ptu.abilities.Item.3zEQl6AsWskjTjQy"
         }
       ]
     },
@@ -111,24 +111,24 @@
         },
         {
           "slug": "telepath",
-          "uuid": "Compendium.ptu.capabilities.Item.GGL4PYCES358IeIb"
+          "uuid": "Compendium.ptu.capabilities.Item.Qy7Cft4o4FAbHQ8G"
         },
         {
           "slug": "wallclimber",
-          "uuid": "Compendium.ptu.capabilities.Item.Afqp4Bw6PemQdWi9"
+          "uuid": "Compendium.ptu.capabilities.Item.pvTnoGYp0kBhHmMD"
         }
       ]
     },
     "moves": {
       "level": [
         {
-          "uuid": "Compendium.ptu.moves.Item.XCSzHPKu7Jwzvmap",
           "slug": "fury-cutter",
+          "uuid": "Compendium.ptu.moves.Item.4W8tzNRKdmn0WRYd",
           "level": 4
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.bqWybjrqdh8EscgX",
           "slug": "sweet-scent",
+          "uuid": "Compendium.ptu.moves.Item.nJhqaS0PzJJ7w1pS",
           "level": 8
         },
         {
@@ -137,8 +137,8 @@
           "level": 12
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.ed6wXMW3QIKZxnwb",
           "slug": "disable",
+          "uuid": "Compendium.ptu.moves.Item.Ma0Yb0fLx263208P",
           "level": 16
         },
         {
@@ -147,48 +147,48 @@
           "level": 20
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.ZWx3Em4ZK0lTQ3mf",
           "slug": "confuse-ray",
+          "uuid": "Compendium.ptu.moves.Item.WUgXHLrvnUAn2vky",
           "level": 24
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.JePPzDPK9R0eUfrA",
           "slug": "psybeam",
+          "uuid": "Compendium.ptu.moves.Item.P5vnPuSAjEqGKcHK",
           "level": 28
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.wU2pCl5DSS2u4zAr",
           "slug": "hypnosis",
+          "uuid": "Compendium.ptu.moves.Item.3abHb5scrH2j6qMF",
           "level": 33
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.WA6xmRwnzhqojjNJ",
           "slug": "signal-beam",
+          "uuid": "Compendium.ptu.moves.Item.XkVx9ch1TmBWwuwP",
           "level": 38
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.BFDrS5tAE7UXtTR3",
           "slug": "power-gem",
+          "uuid": "Compendium.ptu.moves.Item.supS2UO9UHy5af12",
           "level": 43
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.CBNW2iejqPJNdNtz",
           "slug": "extrasensory",
+          "uuid": "Compendium.ptu.moves.Item.a71ua5UPPcL0IxqO",
           "level": 48
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.92Qjd515ZN1vwfeh",
           "slug": "calm-mind",
+          "uuid": "Compendium.ptu.moves.Item.fTu9Cq4z0G7PDH2x",
           "level": 53
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.m7pSkxSBALd54hvo",
           "slug": "bug-buzz",
+          "uuid": "Compendium.ptu.moves.Item.e6iWUraE813j6eXu",
           "level": 58
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.dIbzOgPi7zOMbrPx",
           "slug": "magic-room",
+          "uuid": "Compendium.ptu.moves.Item.gkHbjclskfbhxEZs",
           "level": 63
         },
         {
@@ -197,270 +197,270 @@
           "level": 63
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.URqTsjqSYMiI5OxB",
           "slug": "future-sight",
+          "uuid": "Compendium.ptu.moves.Item.4gPfx0ONfNK8vio2",
           "level": 68
         }
       ],
       "machine": [
         {
-          "uuid": "Compendium.ptu.moves.Item.rWrBAgk3W5jpixme",
-          "slug": "psyshock"
+          "slug": "psyshock",
+          "uuid": "Compendium.ptu.moves.Item.cpRMxzdrs7dfFuC4"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.92Qjd515ZN1vwfeh",
-          "slug": "calm-mind"
+          "slug": "calm-mind",
+          "uuid": "Compendium.ptu.moves.Item.fTu9Cq4z0G7PDH2x"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.tmNtPcrGH82Ll5Su",
-          "slug": "toxic"
+          "slug": "toxic",
+          "uuid": "Compendium.ptu.moves.Item.eFxRUdqQgdnJybY4"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.dUETXbMQMsjLOsfo",
-          "slug": "hidden-power"
+          "slug": "hidden-power",
+          "uuid": "Compendium.ptu.moves.Item.QyDgi8hL1jQLLhld"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.MCQLg3rc60IsoiCe",
-          "slug": "sunny-day"
+          "slug": "sunny-day",
+          "uuid": "Compendium.ptu.moves.Item.m787MkYyENqNyGOb"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.sKKY6tSr3LMJbPYe",
-          "slug": "hyper-beam"
+          "slug": "hyper-beam",
+          "uuid": "Compendium.ptu.moves.Item.WV86ctKatPhQpZC3"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.NRxIwpKjTu85dUVX",
-          "slug": "light-screen"
+          "slug": "light-screen",
+          "uuid": "Compendium.ptu.moves.Item.weEc5wlOZ5H7Tguh"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.L3SlDw7Vz1QpAN7Z",
-          "slug": "protect"
+          "slug": "protect",
+          "uuid": "Compendium.ptu.moves.Item.HfiQ6I7xp7aGazV0"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.uXdhVq2qq2KMn7WD",
-          "slug": "rain-dance"
+          "slug": "rain-dance",
+          "uuid": "Compendium.ptu.moves.Item.TQrk7QpDTMSD7Ycz"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.lQscT0t5wrmRQmrd",
-          "slug": "safeguard"
+          "slug": "safeguard",
+          "uuid": "Compendium.ptu.moves.Item.DkpT2ACVxH31hpo0"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.QbOpkuydT0R2mo0z",
-          "slug": "frustration"
+          "slug": "frustration",
+          "uuid": "Compendium.ptu.moves.Item.tkATQl42vxqWDfjd"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.YBbdogj0lLbkZSuX",
-          "slug": "solar-beam"
+          "slug": "solar-beam",
+          "uuid": "Compendium.ptu.moves.Item.Oa9NuYFi7yvPQTIO"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.yjo9WADdCK1VkuOf",
-          "slug": "return"
+          "slug": "return",
+          "uuid": "Compendium.ptu.moves.Item.eRjK7eB733bE0D8o"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.cek90EGyjeB9cNfR",
-          "slug": "leech-life"
+          "slug": "leech-life",
+          "uuid": "Compendium.ptu.moves.Item.IqR2d6OPYZMNbYYl"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.fNTeS4W4Vr47pr6w",
-          "slug": "psychic"
+          "slug": "psychic",
+          "uuid": "Compendium.ptu.moves.Item.mw0PcwRSYEbxYyWs"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.NEr3K7O8pAoI6mBn",
-          "slug": "shadow-ball"
+          "slug": "shadow-ball",
+          "uuid": "Compendium.ptu.moves.Item.66w0oT6I80QzeAMr"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.K7UB9TkJk18A5zvS",
-          "slug": "double-team"
+          "slug": "double-team",
+          "uuid": "Compendium.ptu.moves.Item.BHmRIX70tqHROfdN"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.lFNhIJay9mPURkFm",
-          "slug": "reflect"
+          "slug": "reflect",
+          "uuid": "Compendium.ptu.moves.Item.eDFWwKCjaJ7vNNbJ"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.criXpvHyXHy0Q9l1",
-          "slug": "torment"
+          "slug": "torment",
+          "uuid": "Compendium.ptu.moves.Item.zgeymOL0WIKgT6lq"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.mrYbUoEGQqVbkd8D",
-          "slug": "facade"
+          "slug": "facade",
+          "uuid": "Compendium.ptu.moves.Item.QhQ2vUo3KMKo4Xou"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.9xBKv8W7Bus0tIly",
-          "slug": "rest"
+          "slug": "rest",
+          "uuid": "Compendium.ptu.moves.Item.P0JIeR4lnilvg7K8"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.Y1brXQWXKmLFHLEe",
-          "slug": "attract"
+          "slug": "attract",
+          "uuid": "Compendium.ptu.moves.Item.0VI0E6oSQYULcSUU"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.JxiwsM3wC96WjB8k",
-          "slug": "thief"
+          "slug": "thief",
+          "uuid": "Compendium.ptu.moves.Item.cu9K3c625G2F54lh"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.CCIib8kjCbVHJqC4",
-          "slug": "round"
+          "slug": "round",
+          "uuid": "Compendium.ptu.moves.Item.GgdkAr3gDO6snP7r"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.jTMgxLvRP1muAbJJ",
-          "slug": "focus-blast"
+          "slug": "focus-blast",
+          "uuid": "Compendium.ptu.moves.Item.HU7NSy5rYDet6DbI"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.avEsFVtB5dNUNLZ6",
-          "slug": "energy-ball"
+          "slug": "energy-ball",
+          "uuid": "Compendium.ptu.moves.Item.GPc4UqyAsng4fPup"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.CyTPNf3NSGfrNbrO",
-          "slug": "false-swipe"
+          "slug": "false-swipe",
+          "uuid": "Compendium.ptu.moves.Item.DfuvLNHQ0TBVgPN4"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.YSD5M4fPeyEKKa1O",
-          "slug": "fling"
+          "slug": "fling",
+          "uuid": "Compendium.ptu.moves.Item.fDc6STMtfRenewU6"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.wK6kD8fSEYerRcEl",
-          "slug": "giga-impact"
+          "slug": "giga-impact",
+          "uuid": "Compendium.ptu.moves.Item.WGOQso4iji1XKrdK"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.pltNJl9RuJZGA8zF",
-          "slug": "rock-polish"
+          "slug": "rock-polish",
+          "uuid": "Compendium.ptu.moves.Item.7M8aaHfxabHTcwau"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.VF8IxrBqNJpR4wmx",
-          "slug": "stone-edge"
+          "slug": "stone-edge",
+          "uuid": "Compendium.ptu.moves.Item.K67dXQdgED0HJTut"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.mZMFjQsI2rJYQvUG",
-          "slug": "thunder-wave"
+          "slug": "thunder-wave",
+          "uuid": "Compendium.ptu.moves.Item.wxMkDV7tasspdddy"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.Ar8iJt7Ge8oT2MS1",
-          "slug": "psych-up"
+          "slug": "psych-up",
+          "uuid": "Compendium.ptu.moves.Item.bg7PRJBIZOfUUSNJ"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.XzsRTOf3C836MCl7",
-          "slug": "rock-slide"
+          "slug": "rock-slide",
+          "uuid": "Compendium.ptu.moves.Item.AvGyaqir7qFsEzxk"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.3lGPDMwScjL3Nxnl",
-          "slug": "x-scissor"
+          "slug": "x-scissor",
+          "uuid": "Compendium.ptu.moves.Item.oxBlIL3xxTpZFy8u"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.tdGYELbvGhuukWyi",
-          "slug": "infestation"
+          "slug": "infestation",
+          "uuid": "Compendium.ptu.moves.Item.trOCAfV84TLLTKk0"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.vcG1vCH9jpkhZzrN",
-          "slug": "dream-eater"
+          "slug": "dream-eater",
+          "uuid": "Compendium.ptu.moves.Item.hGvLkFzRbc1D0FX0"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.rtC833U4a0VysK58",
-          "slug": "grass-knot"
+          "slug": "grass-knot",
+          "uuid": "Compendium.ptu.moves.Item.jh2qDsk9mirEzqvu"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.73AHUIh6V65adbTW",
-          "slug": "swagger"
+          "slug": "swagger",
+          "uuid": "Compendium.ptu.moves.Item.arxy479cTjkB8mML"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.yeX0bso0PRJIS9XL",
-          "slug": "sleep-talk"
+          "slug": "sleep-talk",
+          "uuid": "Compendium.ptu.moves.Item.Jfi9FN77Rplukh7W"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.vypDpjMbQDlUywfo",
-          "slug": "substitute"
+          "slug": "substitute",
+          "uuid": "Compendium.ptu.moves.Item.IGk8nNBogMKp3seI"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.jFzsG8hO9r3xPDFv",
-          "slug": "flash-cannon"
+          "slug": "flash-cannon",
+          "uuid": "Compendium.ptu.moves.Item.926T6mncd7CobCCr"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.hYRQHiHltorilAZt",
-          "slug": "trick-room"
+          "slug": "trick-room",
+          "uuid": "Compendium.ptu.moves.Item.Uut6FpUzRObtZvBm"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.IW5JN8hhwgXFV72V",
-          "slug": "confide"
+          "slug": "confide",
+          "uuid": "Compendium.ptu.moves.Item.43i757GW8pptWB5j"
         }
       ],
       "egg": [],
       "tutor": [
         {
-          "uuid": "Compendium.ptu.moves.Item.FHwZKX2Bm3GjNQJ0",
-          "slug": "ancient-power"
+          "slug": "ancient-power",
+          "uuid": "Compendium.ptu.moves.Item.JtVhKjrnr8wc4BAH"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.fATlduVcdbN0Z4jc",
-          "slug": "bug-bite"
+          "slug": "bug-bite",
+          "uuid": "Compendium.ptu.moves.Item.NOJaY2kH3aQcaexD"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.pbK4VGlz6E9tL9q0",
-          "slug": "covet"
+          "slug": "covet",
+          "uuid": "Compendium.ptu.moves.Item.Ys1GdaKIZDiaptNB"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.yg2lgjKqsBKRO17s",
-          "slug": "defense-curl"
+          "slug": "defense-curl",
+          "uuid": "Compendium.ptu.moves.Item.Y5R5mbVcGq6fwoFj"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.898nYpdsGUrgCkaH",
-          "slug": "electroweb"
+          "slug": "electroweb",
+          "uuid": "Compendium.ptu.moves.Item.dM7JNhVHOmnTxRhy"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.RAU2oNTyq2N0qMnZ",
-          "slug": "endure"
+          "slug": "endure",
+          "uuid": "Compendium.ptu.moves.Item.IAFYzSRQGxZM1SSQ"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.XCSzHPKu7Jwzvmap",
-          "slug": "fury-cutter"
+          "slug": "fury-cutter",
+          "uuid": "Compendium.ptu.moves.Item.4W8tzNRKdmn0WRYd"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.1w5JBCPMLaRGhVLH",
-          "slug": "laser-focus"
+          "slug": "laser-focus",
+          "uuid": "Compendium.ptu.moves.Item.mcLo2BLQjcZr88Ar"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.dIbzOgPi7zOMbrPx",
-          "slug": "magic-room"
+          "slug": "magic-room",
+          "uuid": "Compendium.ptu.moves.Item.gkHbjclskfbhxEZs"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.dssDjkhU0lt2BQ2S",
-          "slug": "magical-leaf-n"
+          "slug": "magical-leaf-n",
+          "uuid": "Compendium.ptu.moves.Item.qFkD5vP06XSTPXlE"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.sS6mbgnENS7keDnj",
-          "slug": "miracle-eye-n"
+          "slug": "miracle-eye-n",
+          "uuid": "Compendium.ptu.moves.Item.LaxMwhFm3DWDndFz"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.XoJhWzyB3ygVUGih",
-          "slug": "psycho-cut-n"
+          "slug": "psycho-cut-n",
+          "uuid": "Compendium.ptu.moves.Item.3OlN4vy8m6QbHNYo"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.ecbGKQbSoxGEIpbH",
-          "slug": "rollout"
+          "slug": "rollout",
+          "uuid": "Compendium.ptu.moves.Item.nzhedIfXpsZWaEx9"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.WA6xmRwnzhqojjNJ",
-          "slug": "signal-beam"
+          "slug": "signal-beam",
+          "uuid": "Compendium.ptu.moves.Item.XkVx9ch1TmBWwuwP"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.iTtBC6VScvUfu9Jl",
-          "slug": "silver-wind"
+          "slug": "silver-wind",
+          "uuid": "Compendium.ptu.moves.Item.UrSzOSXlBYKS4JvG"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.gbQagJKNrKcTAQ5K",
-          "slug": "skill-swap"
+          "slug": "skill-swap",
+          "uuid": "Compendium.ptu.moves.Item.VpNKUQKz3srKJvMv"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.pho7PM46TLfGqXMk",
-          "slug": "snore"
+          "slug": "snore",
+          "uuid": "Compendium.ptu.moves.Item.RRgY3N3vFTIbzl53"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.6PNJNM1ZqktBzDUR",
-          "slug": "swift"
+          "slug": "swift",
+          "uuid": "Compendium.ptu.moves.Item.MLCGs5okqB4BLJKc"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.jP8mqjq6migOyy5a",
-          "slug": "telekinesis"
+          "slug": "telekinesis",
+          "uuid": "Compendium.ptu.moves.Item.tNexDVIwrtPBsV0u"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.XrkJFL2zOLIt3Gi5",
-          "slug": "zen-headbutt"
+          "slug": "zen-headbutt",
+          "uuid": "Compendium.ptu.moves.Item.bbYMsmddMV20isEx"
         }
       ]
     },
@@ -570,10 +570,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.314",
+    "systemVersion": "4.0.4",
+    "coreVersion": "11.315",
     "createdTime": 1689609527590,
-    "modifiedTime": 1700237629026,
+    "modifiedTime": 1700245753955,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!nUMyjtiKUA6a08gC"

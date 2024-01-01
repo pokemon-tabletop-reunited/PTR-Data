@@ -31,27 +31,27 @@
       "basic": [
         {
           "slug": "sturdy",
-          "uuid": "Compendium.ptu.abilities.Item.Mx1PiNPbtfrTeh0M"
+          "uuid": "Compendium.ptu.abilities.Item.AaDXWUAMnhxLbyn3"
         }
       ],
       "advanced": [
         {
           "slug": "solid-rock",
-          "uuid": "Compendium.ptu.abilities.Item.InUQqQ66JeJpvsbn"
+          "uuid": "Compendium.ptu.abilities.Item.Hdfr0IG4HkCuksBB"
         },
         {
           "slug": "keen-eye",
-          "uuid": "Compendium.ptu.abilities.Item.9LRCweKbGcCznfCq"
+          "uuid": "Compendium.ptu.abilities.Item.WZYBAssGyy370eLf"
         },
         {
           "slug": "klutz",
-          "uuid": "Compendium.ptu.abilities.Item.ACOce0nigsE8eSsn"
+          "uuid": "Compendium.ptu.abilities.Item.v3cXCpyr3KY3RiCR"
         }
       ],
       "high": [
         {
           "slug": "rock-head",
-          "uuid": "Compendium.ptu.abilities.Item.egsS30nLax8JHFKC"
+          "uuid": "Compendium.ptu.abilities.Item.2N9Ih71fbWBeoUm0"
         }
       ]
     },
@@ -116,15 +116,15 @@
       "other": [
         {
           "slug": "underdog",
-          "uuid": "Compendium.ptu.capabilities.Item.DyqTXmu2rrRFni89"
+          "uuid": "Compendium.ptu.capabilities.Item.AIbbzjfDZix8YFkU"
         }
       ]
     },
     "moves": {
       "level": [
         {
-          "uuid": "Compendium.ptu.moves.Item.s9sKmw7ifRzzW9OL",
           "slug": "double-edge",
+          "uuid": "Compendium.ptu.moves.Item.7Gi57ZcOWjyjhU0A",
           "level": 1
         }
       ],
@@ -132,16 +132,16 @@
       "egg": [],
       "tutor": [
         {
-          "uuid": "Compendium.ptu.moves.Item.FHwZKX2Bm3GjNQJ0",
-          "slug": "ancient-power"
+          "slug": "ancient-power",
+          "uuid": "Compendium.ptu.moves.Item.JtVhKjrnr8wc4BAH"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.s9sKmw7ifRzzW9OL",
-          "slug": "double-edge"
+          "slug": "double-edge",
+          "uuid": "Compendium.ptu.moves.Item.7Gi57ZcOWjyjhU0A"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.XrkJFL2zOLIt3Gi5",
-          "slug": "zen-headbutt"
+          "slug": "zen-headbutt",
+          "uuid": "Compendium.ptu.moves.Item.bbYMsmddMV20isEx"
         }
       ]
     },
@@ -251,10 +251,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.314",
+    "systemVersion": "4.0.4",
+    "coreVersion": "11.315",
     "createdTime": 1689609527590,
-    "modifiedTime": 1700237629026,
+    "modifiedTime": 1700245753955,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Rf3t9YFCQd2GfQLh"

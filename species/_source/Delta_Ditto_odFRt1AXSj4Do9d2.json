@@ -30,7 +30,7 @@
       "basic": [
         {
           "slug": "protean",
-          "uuid": "Compendium.ptu.abilities.Item.TGmYV5dPnpSRTKox"
+          "uuid": "Compendium.ptu.abilities.Item.ZdEuIwaLMkKEl7Xt"
         },
         {
           "slug": "color-change",
@@ -40,17 +40,17 @@
       "advanced": [
         {
           "slug": "discipline",
-          "uuid": "Compendium.ptu.abilities.Item.7dPw8kr0Lt458Z2l"
+          "uuid": "Compendium.ptu.abilities.Item.kHDxnwsm7KNgQuQY"
         },
         {
           "slug": "trace",
-          "uuid": "Compendium.ptu.abilities.Item.WmijchrV6KqIvlCW"
+          "uuid": "Compendium.ptu.abilities.Item.OUq8IyTrVPZQHgiW"
         }
       ],
       "high": [
         {
           "slug": "sturdy",
-          "uuid": "Compendium.ptu.abilities.Item.Mx1PiNPbtfrTeh0M"
+          "uuid": "Compendium.ptu.abilities.Item.AaDXWUAMnhxLbyn3"
         }
       ]
     },
@@ -101,28 +101,28 @@
       "other": [
         {
           "slug": "amorphous",
-          "uuid": "Compendium.ptu.capabilities.Item.3JP4VLsekYndC7W9"
+          "uuid": "Compendium.ptu.capabilities.Item.nWoI9YVnNO7M6UtR"
         },
         {
           "slug": "shapeshifter",
-          "uuid": "Compendium.ptu.capabilities.Item.AQBKmeICe7JoPHYL"
+          "uuid": "Compendium.ptu.capabilities.Item.hGur8js8vWsnHvDI"
         },
         {
           "slug": "underdog",
-          "uuid": "Compendium.ptu.capabilities.Item.DyqTXmu2rrRFni89"
+          "uuid": "Compendium.ptu.capabilities.Item.AIbbzjfDZix8YFkU"
         },
         {
           "slug": "wallclimber",
-          "uuid": "Compendium.ptu.capabilities.Item.Afqp4Bw6PemQdWi9"
+          "uuid": "Compendium.ptu.capabilities.Item.pvTnoGYp0kBhHmMD"
         }
       ]
     },
     "moves": {
       "level": [
         {
-          "level": 1,
-          "uuid": "Compendium.ptu.moves.Item.vC34YKhjR2Ts9mhq",
-          "slug": "transform"
+          "slug": "transform",
+          "uuid": "Compendium.ptu.moves.Item.pN7pRkPFKKPF9vPi",
+          "level": 1
         },
         {
           "level": 1,
@@ -245,10 +245,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.314",
+    "systemVersion": "4.0.4",
+    "coreVersion": "11.315",
     "createdTime": 1689609527590,
-    "modifiedTime": 1700237629026,
+    "modifiedTime": 1700245753955,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!odFRt1AXSj4Do9d2"

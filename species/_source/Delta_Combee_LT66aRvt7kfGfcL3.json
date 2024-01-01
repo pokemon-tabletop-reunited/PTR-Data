@@ -31,27 +31,27 @@
       "basic": [
         {
           "slug": "levitate",
-          "uuid": "Compendium.ptu.abilities.Item.nfhFYl5cYPzSFinI"
+          "uuid": "Compendium.ptu.abilities.Item.WsNZitOqUrhu9k78"
         }
       ],
       "advanced": [
         {
           "slug": "pack-hunt",
-          "uuid": "Compendium.ptu.abilities.Item.qq5YsQoKHMWRejsa"
+          "uuid": "Compendium.ptu.abilities.Item.YTY79dfwdUWYjXl4"
         },
         {
           "slug": "speed-boost",
-          "uuid": "Compendium.ptu.abilities.Item.aFQGyB4xNO1nR9OL"
+          "uuid": "Compendium.ptu.abilities.Item.xVTWtc7EvwwNyRqt"
         },
         {
           "slug": "flash-fire",
-          "uuid": "Compendium.ptu.abilities.Item.5GPaaxl1dU5YncMX"
+          "uuid": "Compendium.ptu.abilities.Item.ZtDz88aFEkBCL83y"
         }
       ],
       "high": [
         {
           "slug": "aftermath",
-          "uuid": "Compendium.ptu.abilities.Item.UDgb6qnfxYPnU37E"
+          "uuid": "Compendium.ptu.abilities.Item.EAhDfKnNumHpy5QW"
         }
       ]
     },
@@ -105,38 +105,38 @@
       "other": [
         {
           "slug": "firestarter",
-          "uuid": "Compendium.ptu.capabilities.Item.nNO05pz4H2exg7C7"
+          "uuid": "Compendium.ptu.capabilities.Item.nAIkONF3gtaYfEyX"
         },
         {
           "slug": "heater",
-          "uuid": "Compendium.ptu.capabilities.Item.IKJKnRsuagR1F8HO"
+          "uuid": "Compendium.ptu.capabilities.Item.9DQsEtRIDXdw7ICw"
         },
         {
           "slug": "underdog",
-          "uuid": "Compendium.ptu.capabilities.Item.DyqTXmu2rrRFni89"
+          "uuid": "Compendium.ptu.capabilities.Item.AIbbzjfDZix8YFkU"
         }
       ]
     },
     "moves": {
       "level": [
         {
-          "uuid": "Compendium.ptu.moves.Item.5wzR62IGSLO0Fj35",
           "slug": "metal-sound",
+          "uuid": "Compendium.ptu.moves.Item.FrDQDljR3YE3roFi",
           "level": 1
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.BDMlwwKZE7ReCumH",
           "slug": "ember",
+          "uuid": "Compendium.ptu.moves.Item.IH2EuCM09nw3lOgQ",
           "level": 1
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.GeSJLtPHL7yYiJMW",
           "slug": "mirror-shot",
+          "uuid": "Compendium.ptu.moves.Item.hhrt3v2JFeROi3w8",
           "level": 13
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.mHI4MFVe3WDRSIJX",
           "slug": "lava-plume",
+          "uuid": "Compendium.ptu.moves.Item.WpFzl62EYkpKipF5",
           "level": 29
         }
       ],
@@ -144,28 +144,28 @@
       "egg": [],
       "tutor": [
         {
-          "uuid": "Compendium.ptu.moves.Item.DjlwtT6NfMWn4vwF",
-          "slug": "endeavor"
+          "slug": "endeavor",
+          "uuid": "Compendium.ptu.moves.Item.AZOdMOvyaPYtEXOQ"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.RAU2oNTyq2N0qMnZ",
-          "slug": "endure"
+          "slug": "endure",
+          "uuid": "Compendium.ptu.moves.Item.IAFYzSRQGxZM1SSQ"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.00rhCLvsoytJwyeh",
-          "slug": "heat-wave"
+          "slug": "heat-wave",
+          "uuid": "Compendium.ptu.moves.Item.Z0jlIyTMOL1QXcDb"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.sOsY4YFGSqUe4S6U",
-          "slug": "magnet-rise"
+          "slug": "magnet-rise",
+          "uuid": "Compendium.ptu.moves.Item.N0EkteKIFV2WtAJ6"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.WA6xmRwnzhqojjNJ",
-          "slug": "signal-beam"
+          "slug": "signal-beam",
+          "uuid": "Compendium.ptu.moves.Item.XkVx9ch1TmBWwuwP"
         },
         {
-          "uuid": "Compendium.ptu.moves.Item.pho7PM46TLfGqXMk",
-          "slug": "snore"
+          "slug": "snore",
+          "uuid": "Compendium.ptu.moves.Item.RRgY3N3vFTIbzl53"
         }
       ]
     },
@@ -275,10 +275,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.314",
+    "systemVersion": "4.0.4",
+    "coreVersion": "11.315",
     "createdTime": 1689609527590,
-    "modifiedTime": 1700237629026,
+    "modifiedTime": 1700245753955,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!LT66aRvt7kfGfcL3"

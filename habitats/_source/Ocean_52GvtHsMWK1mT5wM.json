@@ -2,63 +2,918 @@
   "name": "Ocean",
   "description": "A generated habitat table",
   "results": [
-    "G2EtxiowprAMzD7j",
-    "4Rb01dgbDCLlLh7p",
-    "7DJurte1Af2HFP5B",
-    "A8TgizqIRyqDKRIW",
-    "UbRcj46j1mSTC7pM",
-    "BzCLimsxRY3X4f19",
-    "GNgHYI27CzWcsJUd",
-    "1d5KwpzFzBE9urLA",
-    "Qng6RPfavBFu52W3",
-    "3T8lAbaVJyoNu7pY",
-    "93cR9Xr2nojcVpKm",
-    "YYycTcA8jOJas6OJ",
-    "tB1OAdhrJsl4jeYS",
-    "jeFXJpvY9P2bWRW2",
-    "KzcHe0VCYkPgFrUy",
-    "32vIuWzC8WFJize5",
-    "D85G3fTMLy1Sw2E6",
-    "N9o6r4VrlbkmFeOI",
-    "aJsfZqwkOv9BUHhx",
-    "4rCecEI9tHpDIHSb",
-    "kWvTv19ddKad6ZzW",
-    "ApyVnOKRSPwSHZK8",
-    "epCwNSL8LRcTQqrX",
-    "lI1ZWUPHGCbbOUwj",
-    "7CnA6RvxsuKRFQjV",
-    "XijSXTTnXePmXxyn",
-    "fXRr7NCBiQQhBRrB",
-    "rjKIe4wzPxTnoTZe",
-    "5sytv6lRIOcvA0OI",
-    "pBibHxUsOkDujMwb",
-    "YMyRnUwWrIPTYSgx",
-    "FrA8EsdQ1yapbBAL",
-    "AF8HzKFoOXnONmNk",
-    "oEObqYg4P6EGrP2R",
-    "fNtJmAxVCnLw8IaT",
-    "otzPDRLaDctmAI40",
-    "7EmqpdkuwNy2BGnq",
-    "4LsFjnDlsU8dEfyi",
-    "CHjhR1Fhq0UcGg1F",
-    "1wNnrPXmwh6eZWTM",
-    "5KwiCtuGMFmU7S4p",
-    "wlJ6xFIJ63iGK7WN",
-    "mLtxZK9uRSrWhWH7",
-    "s8U9DbjHoSdnYATG",
-    "GndiJlqIElipwCwp",
-    "cbu0eeUaRD0HhIxi",
-    "BjSooGsz9qDaEohX",
-    "stA2BTxZQaVt4qS5",
-    "U1jcOAeWD1ns1ivm",
-    "ZqU93TSq5BMcaUh7",
-    "8bo7ejNjaWs7GQgl",
-    "M2ZCiZwxGjtN6t8i",
-    "NYg5y3J8PkssUPGA",
-    "V6AYPTLsrXjpXMqp",
-    "EDvulD7fJyPuXCHE",
-    "AkIaHnpbBVS558d5",
-    "4SOIUi9zirTxVXAz"
+    {
+      "text": "Tentacool",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "T1GsQv1dPxZXqTIJ",
+      "img": "/systems/ptu/static/images/sprites/072.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "G2EtxiowprAMzD7j",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.G2EtxiowprAMzD7j"
+    },
+    {
+      "text": "Tentacruel",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "07C1xktkoENBPgjs",
+      "img": "/systems/ptu/static/images/sprites/073.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "4Rb01dgbDCLlLh7p",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.4Rb01dgbDCLlLh7p"
+    },
+    {
+      "text": "Shellder",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "nsDhLiq9wMeD4tZ5",
+      "img": "/systems/ptu/static/images/sprites/090.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "7DJurte1Af2HFP5B",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.7DJurte1Af2HFP5B"
+    },
+    {
+      "text": "Cloyster",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "IMU1AXYfsyrY7rxW",
+      "img": "/systems/ptu/static/images/sprites/091.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "A8TgizqIRyqDKRIW",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.A8TgizqIRyqDKRIW"
+    },
+    {
+      "text": "Horsea",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "mjMQHsAk1okVfwTp",
+      "img": "/systems/ptu/static/images/sprites/116.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "UbRcj46j1mSTC7pM",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.UbRcj46j1mSTC7pM"
+    },
+    {
+      "text": "Seadra",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "lRu9VtE89K7G2ATZ",
+      "img": "/systems/ptu/static/images/sprites/117.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "BzCLimsxRY3X4f19",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.BzCLimsxRY3X4f19"
+    },
+    {
+      "text": "Staryu",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "aoc4sceLBGES53zI",
+      "img": "/systems/ptu/static/images/sprites/120.webp",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "GNgHYI27CzWcsJUd",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.GNgHYI27CzWcsJUd"
+    },
+    {
+      "text": "Starmie",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "JCrX7OwxhFOJdRoy",
+      "img": "/systems/ptu/static/images/sprites/121.webp",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "1d5KwpzFzBE9urLA",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.1d5KwpzFzBE9urLA"
+    },
+    {
+      "text": "Magikarp",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "Vhe0fBLNUTU4poSO",
+      "img": "/systems/ptu/static/images/sprites/129.webp",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "Qng6RPfavBFu52W3",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.Qng6RPfavBFu52W3"
+    },
+    {
+      "text": "Gyarados",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "XkkxdHQAvX95GW7l",
+      "img": "/systems/ptu/static/images/sprites/130.webp",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "3T8lAbaVJyoNu7pY",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.3T8lAbaVJyoNu7pY"
+    },
+    {
+      "text": "Dragonite",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "JOjBazLK3c4fi51m",
+      "img": "/systems/ptu/static/images/sprites/149.webp",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "93cR9Xr2nojcVpKm",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.93cR9Xr2nojcVpKm"
+    },
+    {
+      "text": "Chinchou",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "mJ3MCOTTOlPPgYsG",
+      "img": "/systems/ptu/static/images/sprites/170.webp",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "YYycTcA8jOJas6OJ",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.YYycTcA8jOJas6OJ"
+    },
+    {
+      "text": "Lanturn",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "bh4rPN3ctDfoLocY",
+      "img": "/systems/ptu/static/images/sprites/171.webp",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "tB1OAdhrJsl4jeYS",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.tB1OAdhrJsl4jeYS"
+    },
+    {
+      "text": "Qwilfish",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "41wkrpC4qmi0z6fR",
+      "img": "/systems/ptu/static/images/sprites/211.webp",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "jeFXJpvY9P2bWRW2",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.jeFXJpvY9P2bWRW2"
+    },
+    {
+      "text": "Remoraid",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "oIhoFLwnNKQtx4Tu",
+      "img": "/systems/ptu/static/images/sprites/223.webp",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "KzcHe0VCYkPgFrUy",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.KzcHe0VCYkPgFrUy"
+    },
+    {
+      "text": "Octillery",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "H1H759ZVpWUWTkQq",
+      "img": "/systems/ptu/static/images/sprites/224.webp",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "32vIuWzC8WFJize5",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.32vIuWzC8WFJize5"
+    },
+    {
+      "text": "Mantine",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "7VdtN3lZeVzarHOa",
+      "img": "/systems/ptu/static/images/sprites/226.webp",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_id": "D85G3fTMLy1Sw2E6",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.D85G3fTMLy1Sw2E6"
+    },
+    {
+      "text": "Kingdra",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "p27kQT1V6wLOeFqo",
+      "img": "/systems/ptu/static/images/sprites/230.webp",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_id": "N9o6r4VrlbkmFeOI",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.N9o6r4VrlbkmFeOI"
+    },
+    {
+      "text": "Wingull",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "L8D4SYXuPcMlf2C6",
+      "img": "/systems/ptu/static/images/sprites/278.webp",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_id": "aJsfZqwkOv9BUHhx",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.aJsfZqwkOv9BUHhx"
+    },
+    {
+      "text": "Pelipper",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "SFWSyAb1Dz33bxqH",
+      "img": "/systems/ptu/static/images/sprites/279.webp",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "4rCecEI9tHpDIHSb",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.4rCecEI9tHpDIHSb"
+    },
+    {
+      "text": "Carvanha",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "I7Mx0eR5OqyrK60c",
+      "img": "/systems/ptu/static/images/sprites/318.webp",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "_id": "kWvTv19ddKad6ZzW",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.kWvTv19ddKad6ZzW"
+    },
+    {
+      "text": "Sharpedo",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "P3oLJ5IRHw3Prm02",
+      "img": "/systems/ptu/static/images/sprites/319.webp",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "_id": "ApyVnOKRSPwSHZK8",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.ApyVnOKRSPwSHZK8"
+    },
+    {
+      "text": "Wailmer",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "yJLT4xLZNDfnXyW2",
+      "img": "/systems/ptu/static/images/sprites/320.webp",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "_id": "epCwNSL8LRcTQqrX",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.epCwNSL8LRcTQqrX"
+    },
+    {
+      "text": "Wailord",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "FaqpweN55tMIeRCc",
+      "img": "/systems/ptu/static/images/sprites/321.webp",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "_id": "lI1ZWUPHGCbbOUwj",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.lI1ZWUPHGCbbOUwj"
+    },
+    {
+      "text": "Feebas",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "NiTq7iwq0LeStuHv",
+      "img": "/systems/ptu/static/images/sprites/349.webp",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "_id": "7CnA6RvxsuKRFQjV",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.7CnA6RvxsuKRFQjV"
+    },
+    {
+      "text": "Milotic",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "YxNx0ryElUreiPlg",
+      "img": "/systems/ptu/static/images/sprites/350.webp",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "_id": "XijSXTTnXePmXxyn",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.XijSXTTnXePmXxyn"
+    },
+    {
+      "text": "Clamperl",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "yAOTDKNStF3oqvp2",
+      "img": "/systems/ptu/static/images/sprites/366.webp",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "_id": "fXRr7NCBiQQhBRrB",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.fXRr7NCBiQQhBRrB"
+    },
+    {
+      "text": "Buizel",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "swX7xiVoywitZ3cT",
+      "img": "/systems/ptu/static/images/sprites/418.webp",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "_id": "rjKIe4wzPxTnoTZe",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.rjKIe4wzPxTnoTZe"
+    },
+    {
+      "text": "Floatzel",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "Fm5Sy4Kqr082hgZ7",
+      "img": "/systems/ptu/static/images/sprites/419.webp",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "_id": "5sytv6lRIOcvA0OI",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.5sytv6lRIOcvA0OI"
+    },
+    {
+      "text": "Finneon",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "EhX4hsj86RGPUJdP",
+      "img": "/systems/ptu/static/images/sprites/456.webp",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "_id": "pBibHxUsOkDujMwb",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.pBibHxUsOkDujMwb"
+    },
+    {
+      "text": "Mantyke",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "UgTVuXUWW108f7cs",
+      "img": "/systems/ptu/static/images/sprites/458.webp",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "_id": "YMyRnUwWrIPTYSgx",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.YMyRnUwWrIPTYSgx"
+    },
+    {
+      "text": "Phione",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "04HUofEWMHdMr0Ya",
+      "img": "/systems/ptu/static/images/sprites/489.webp",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "_id": "FrA8EsdQ1yapbBAL",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.FrA8EsdQ1yapbBAL"
+    },
+    {
+      "text": "Frillish",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "1RuHtzaJmjhC5Zcl",
+      "img": "/systems/ptu/static/images/sprites/592.webp",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "_id": "AF8HzKFoOXnONmNk",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.AF8HzKFoOXnONmNk"
+    },
+    {
+      "text": "Jellicent",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "19EhBsa4vAvm9sv3",
+      "img": "/systems/ptu/static/images/sprites/593.webp",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "_id": "oEObqYg4P6EGrP2R",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.oEObqYg4P6EGrP2R"
+    },
+    {
+      "text": "Alomomola",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "rkYERcVivCKp9B45",
+      "img": "/systems/ptu/static/images/sprites/594.webp",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "_id": "fNtJmAxVCnLw8IaT",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.fNtJmAxVCnLw8IaT"
+    },
+    {
+      "text": "Skrelp",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "X2kt21ojJnSBCSFZ",
+      "img": "/systems/ptu/static/images/sprites/690.webp",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "_id": "otzPDRLaDctmAI40",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.otzPDRLaDctmAI40"
+    },
+    {
+      "text": "Dragalge",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "UTl1jGyEfJ33ronS",
+      "img": "/systems/ptu/static/images/sprites/691.webp",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "_id": "7EmqpdkuwNy2BGnq",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.7EmqpdkuwNy2BGnq"
+    },
+    {
+      "text": "Clauncher",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "idETn2uwVWVuFgwh",
+      "img": "/systems/ptu/static/images/sprites/692.webp",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "_id": "4LsFjnDlsU8dEfyi",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.4LsFjnDlsU8dEfyi"
+    },
+    {
+      "text": "Clawitzer",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "Bbu9oDERiWKOo8Tf",
+      "img": "/systems/ptu/static/images/sprites/693.webp",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "_id": "CHjhR1Fhq0UcGg1F",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.CHjhR1Fhq0UcGg1F"
+    },
+    {
+      "text": "Wishiwashi-Solo",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "Vw4iNftgL4GGdDyA",
+      "img": "/systems/ptu/static/images/sprites/746.webp",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "_id": "1wNnrPXmwh6eZWTM",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.1wNnrPXmwh6eZWTM"
+    },
+    {
+      "text": "Mareanie",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "HbhPQReEOfDYq1rI",
+      "img": "/systems/ptu/static/images/sprites/747.webp",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "_id": "5KwiCtuGMFmU7S4p",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.5KwiCtuGMFmU7S4p"
+    },
+    {
+      "text": "Toxapex",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "KPSNJUJ7RmSXDRCp",
+      "img": "/systems/ptu/static/images/sprites/748.webp",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "_id": "wlJ6xFIJ63iGK7WN",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.wlJ6xFIJ63iGK7WN"
+    },
+    {
+      "text": "Dhelmise",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "LsTq2s7vgE5FbQKk",
+      "img": "/systems/ptu/static/images/sprites/781.webp",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "_id": "mLtxZK9uRSrWhWH7",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.mLtxZK9uRSrWhWH7"
+    },
+    {
+      "text": "Cramorant",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "zyXhWVwTmu553jFn",
+      "img": "/systems/ptu/static/images/sprites/845.webp",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "_id": "s8U9DbjHoSdnYATG",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.s8U9DbjHoSdnYATG"
+    },
+    {
+      "text": "Arrokuda",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "NxuuVfoktLTY7u5s",
+      "img": "/systems/ptu/static/images/sprites/846.webp",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "_id": "GndiJlqIElipwCwp",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.GndiJlqIElipwCwp"
+    },
+    {
+      "text": "Barraskewda",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "a3EntQYiPJedHdXV",
+      "img": "/systems/ptu/static/images/sprites/847.webp",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "_id": "cbu0eeUaRD0HhIxi",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.cbu0eeUaRD0HhIxi"
+    },
+    {
+      "text": "Clobbopus",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "mrz7a3b4Mc8sRp2a",
+      "img": "/systems/ptu/static/images/sprites/852.webp",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "_id": "BjSooGsz9qDaEohX",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.BjSooGsz9qDaEohX"
+    },
+    {
+      "text": "Grapploct",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "PdPfUBsJU6BrD3UJ",
+      "img": "/systems/ptu/static/images/sprites/853.webp",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "_id": "stA2BTxZQaVt4qS5",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.stA2BTxZQaVt4qS5"
+    },
+    {
+      "text": "Cursola",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "R2MTSFGbjnqfhX50",
+      "img": "/systems/ptu/static/images/sprites/864.webp",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "_id": "U1jcOAeWD1ns1ivm",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.U1jcOAeWD1ns1ivm"
+    },
+    {
+      "text": "Pincurchin",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "KaOfD81E4De8LZEU",
+      "img": "/systems/ptu/static/images/sprites/871.webp",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "_id": "ZqU93TSq5BMcaUh7",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.ZqU93TSq5BMcaUh7"
+    },
+    {
+      "text": "Overqwil",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "hVg8MTIDfIUSt5oM",
+      "img": "/systems/ptu/static/images/sprites/904.webp",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "_id": "8bo7ejNjaWs7GQgl",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.8bo7ejNjaWs7GQgl"
+    },
+    {
+      "text": "Wattrel",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "gviaZomvXaScuIjY",
+      "img": "/systems/ptu/static/images/sprites/940.webp",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "_id": "M2ZCiZwxGjtN6t8i",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.M2ZCiZwxGjtN6t8i"
+    },
+    {
+      "text": "Kilowattrel",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "FTa8XGucdiOOc766",
+      "img": "/systems/ptu/static/images/sprites/941.webp",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "_id": "NYg5y3J8PkssUPGA",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.NYg5y3J8PkssUPGA"
+    },
+    {
+      "text": "Bombirdier",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "s1PaIWubgv3ts5En",
+      "img": "/systems/ptu/static/images/sprites/962.webp",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "_id": "V6AYPTLsrXjpXMqp",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.V6AYPTLsrXjpXMqp"
+    },
+    {
+      "text": "Finizen",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "tHVM9407ZhO7XaOu",
+      "img": "/systems/ptu/static/images/sprites/963.webp",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "_id": "EDvulD7fJyPuXCHE",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.EDvulD7fJyPuXCHE"
+    },
+    {
+      "text": "Palafin",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "2DQAPWNuTQaQHOMW",
+      "img": "/systems/ptu/static/images/sprites/964.webp",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "_id": "AkIaHnpbBVS558d5",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.AkIaHnpbBVS558d5"
+    },
+    {
+      "text": "Veluza",
+      "type": 2,
+      "documentCollection": "ptu.species",
+      "documentId": "8H7JVkcCwHkYc3MV",
+      "img": "/systems/ptu/static/images/sprites/976.webp",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "_id": "4SOIUi9zirTxVXAz",
+      "flags": {},
+      "_key": "!tables.results!52GvtHsMWK1mT5wM.4SOIUi9zirTxVXAz"
+    }
   ],
   "formula": "1d57",
   "_id": "52GvtHsMWK1mT5wM",
