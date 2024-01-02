@@ -57,35 +57,43 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.Rle4bJGNlCpWd21G",
         "slug": "phlask",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 20,
         "uuid": "Compendium.ptu.species.Item.JJWZjPR1FFiHiZJs",
         "slug": "noxial",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 20,
         "uuid": "Compendium.ptu.species.Item.JJWZjPR1FFiHiZJs",
         "slug": "noxial",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 35,
         "uuid": "Compendium.ptu.species.Item.QoqAZLr5AyHApfV8",
         "slug": "fumighast",
-        "level": 35,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -117,7 +125,7 @@
       "highJump": 1,
       "longJump": 1,
       "power": 1,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "darkvision",
@@ -567,6 +575,11 @@
     "rules": [],
     "source": {
       "value": "Fangame Sage Dex"
+    },
+    "type": {
+      "0": "Poison",
+      "1": "Ghost",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -582,10 +595,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.4",
-    "coreVersion": "11.315",
+    "systemVersion": "4.0.6",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1700245753955,
+    "modifiedTime": 1704191363722,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Rle4bJGNlCpWd21G"

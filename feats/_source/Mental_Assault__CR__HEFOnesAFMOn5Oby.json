@@ -15,7 +15,7 @@
         "phase": "applyAEs"
       }
     ],
-    "slug": null,
+    "slug": "mental-assault-cr",
     "schema": {
       "version": null,
       "lastMigration": null
@@ -32,7 +32,7 @@
     "tags": "[+Special Defense]",
     "notes": "",
     "free": false,
-    "class": "Telepath",
+    "class": "Telepath [CR]",
     "name": "Mental Assault [CR]"
   },
   "img": "/systems/ptu/css/images/icons/feat_icon.png",
@@ -46,13 +46,17 @@
     "xUomATnixLnn15IR": 3,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.2",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.6",
+    "coreVersion": "11.314",
     "createdTime": 1699736627730,
-    "modifiedTime": 1699789333194,
+    "modifiedTime": 1704194679007,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!HEFOnesAFMOn5Oby"

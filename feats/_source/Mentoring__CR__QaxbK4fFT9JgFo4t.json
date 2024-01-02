@@ -2,7 +2,7 @@
   "name": "Mentoring [CR]",
   "system": {
     "origin": "Class Rework",
-    "effect": "Target: A Pokémon\nEffect: The target learns a Move from its TM or Tutor list (following the Tutoring Restrictions based on the target’s level) or any move on its level-up list learned at X Level or lower, where X is the target’s current Level plus the sum of your two highest Skill Ranks among this Features’s prerequisite Skills. Moves from the target’s level-up or those from the Tutor List marked with (N) count as if they were “natural” for organizational purposes.",
+    "effect": "Target: A Pokémon\nEffect: The target learns a Move from its Egg or Tutor list (following the Tutoring Restrictions based on the target’s level) or any move on its level-up list learned at X Level or lower, where X is the target’s current Level plus the sum of your two highest Skill Ranks among this Features’s prerequisite Skills. Moves from the target’s level-up or those from the Tutor List marked with (N) count as if they were “natural” for organizational purposes.",
     "snippet": "",
     "rules": [],
     "slug": "mentoring-cr",
@@ -41,10 +41,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
+    "systemVersion": "4.0.6",
     "coreVersion": "11.314",
     "createdTime": 1699736627730,
-    "modifiedTime": 1700229303263,
+    "modifiedTime": 1704191243115,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "QaxbK4fFT9JgFo4t",

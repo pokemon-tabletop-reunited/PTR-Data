@@ -104,7 +104,7 @@
         "uuid": "{item|flags.ptu.rulesSelections.move2}"
       }
     ],
-    "slug": "",
+    "slug": "aura-guardian",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -137,15 +137,16 @@
       "sourceId": "Compendium.ptu.feats.vRMWhMl3t4m8HPVO"
     },
     "ptu": {
-      "prereqBackup": "Elemental Connection (Fighting)"
+      "prereqBackup": "Elemental Connection (Fighting)",
+      "showInTokenPanel": true
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.6",
+    "coreVersion": "11.314",
     "createdTime": 1683368081799,
-    "modifiedTime": 1696691567516,
+    "modifiedTime": 1704192396087,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

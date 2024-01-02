@@ -57,35 +57,43 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.Rle4bJGNlCpWd21G",
         "slug": "phlask",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 20,
         "uuid": "Compendium.ptu.species.Item.JJWZjPR1FFiHiZJs",
         "slug": "noxial",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 20,
         "uuid": "Compendium.ptu.species.Item.JJWZjPR1FFiHiZJs",
         "slug": "noxial",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 35,
         "uuid": "Compendium.ptu.species.Item.QoqAZLr5AyHApfV8",
         "slug": "fumighast",
-        "level": 35,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -117,7 +125,7 @@
       "highJump": 2,
       "longJump": 2,
       "power": 3,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "amorphous",
@@ -148,74 +156,74 @@
     "moves": {
       "level": [
         {
-          "slug": "smog",
+          "level": 5,
           "uuid": "Compendium.ptu.moves.Item.1C4eSkywCcdopGkD",
-          "level": 5
+          "slug": "smog"
         },
         {
-          "slug": "disable",
+          "level": 8,
           "uuid": "Compendium.ptu.moves.Item.Ma0Yb0fLx263208P",
-          "level": 8
+          "slug": "disable"
         },
         {
-          "slug": "acid",
+          "level": 12,
           "uuid": "Compendium.ptu.moves.Item.Rj7PzPVf9YeEn5mG",
-          "level": 12
+          "slug": "acid"
         },
         {
-          "slug": "confuse-ray",
+          "level": 15,
           "uuid": "Compendium.ptu.moves.Item.WUgXHLrvnUAn2vky",
-          "level": 15
+          "slug": "confuse-ray"
         },
         {
+          "level": 19,
           "uuid": "Compendium.ptu.moves.Item.DCkAucGSEBcq5a7v",
-          "slug": "acid-rain",
-          "level": 19
+          "slug": "acid-rain"
         },
         {
-          "slug": "acid-spray",
-          "uuid": "Compendium.ptu.moves.Item.kbFCQpaR2tvABKMa",
-          "level": 22
-        },
-        {
-          "slug": "self-destruct",
+          "level": 21,
           "uuid": "Compendium.ptu.moves.Item.JJzbmEnsVa1QCx5V",
-          "level": 21
+          "slug": "self-destruct"
         },
         {
-          "slug": "toxic-spikes",
+          "level": 22,
+          "uuid": "Compendium.ptu.moves.Item.kbFCQpaR2tvABKMa",
+          "slug": "acid-spray"
+        },
+        {
+          "level": 31,
           "uuid": "Compendium.ptu.moves.Item.LyEh7DPaMxvOwU3G",
-          "level": 31
+          "slug": "toxic-spikes"
         },
         {
-          "slug": "sludge-bomb",
+          "level": 36,
           "uuid": "Compendium.ptu.moves.Item.T4KEAGNoEIpiO0G5",
-          "level": 36
+          "slug": "sludge-bomb"
         },
         {
-          "slug": "shadow-ball",
+          "level": 41,
           "uuid": "Compendium.ptu.moves.Item.66w0oT6I80QzeAMr",
-          "level": 41
+          "slug": "shadow-ball"
         },
         {
-          "slug": "imprison",
+          "level": 47,
           "uuid": "Compendium.ptu.moves.Item.rmcnLyXMgD9aKb21",
-          "level": 47
+          "slug": "imprison"
         },
         {
-          "slug": "destiny-bond",
+          "level": 52,
           "uuid": "Compendium.ptu.moves.Item.jam3Tqd8arclLpHn",
-          "level": 52
+          "slug": "destiny-bond"
         },
         {
+          "level": 58,
           "uuid": "Compendium.ptu.moves.Item.PCE42hdFSB3on0bl",
-          "slug": "terrorize",
-          "level": 58
+          "slug": "terrorize"
         },
         {
-          "slug": "explosion",
+          "level": 63,
           "uuid": "Compendium.ptu.moves.Item.uZ5eUCeStPObSEHj",
-          "level": 63
+          "slug": "explosion"
         }
       ],
       "machine": [
@@ -567,6 +575,11 @@
     "rules": [],
     "source": {
       "value": "Fangame Sage Dex"
+    },
+    "type": {
+      "0": "Poison",
+      "1": "Ghost",
+      "2": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -582,10 +595,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.4",
-    "coreVersion": "11.315",
+    "systemVersion": "4.0.6",
+    "coreVersion": "11.314",
     "createdTime": 1689609527590,
-    "modifiedTime": 1700245753955,
+    "modifiedTime": 1704191341986,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!QoqAZLr5AyHApfV8"
