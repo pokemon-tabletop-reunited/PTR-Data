@@ -5,7 +5,7 @@
     "effect": "Your Pokémon's Dragon-Type Attacks ignore Evasion against targets that have no other comnbatants besides yourself within 2 meters, and on 18+ cause the target to become Slowed for 1 full round.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "highlander",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -22,7 +22,7 @@
     "tags": "[-]",
     "notes": "",
     "free": false,
-    "class": "Type Ace (Draogn)",
+    "class": "Type Ace (Dragon)",
     "name": "Highlander",
     "useCount": 0,
     "automation": []
@@ -39,15 +39,16 @@
       "sourceId": "Compendium.ptu.feats.oF7umQr63JstKAtW"
     },
     "ptu": {
-      "prereqBackup": "Tyrant's Roar, Type-Linked Skill at Adept"
+      "prereqBackup": "Tyrant's Roar, Type-Linked Skill at Adept",
+      "showInTokenPanel": true
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.8",
+    "coreVersion": "12.316",
     "createdTime": 1683368078901,
-    "modifiedTime": 1696691567516,
+    "modifiedTime": 1705263408601,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
