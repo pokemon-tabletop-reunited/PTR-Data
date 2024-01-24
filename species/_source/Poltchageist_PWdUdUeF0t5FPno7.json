@@ -60,8 +60,8 @@
     },
     "evolutions": [
       {
-        "level": 1,
-        "uuid": "Item.CmFfJjzC34Rc2cu5",
+        "level": 0,
+        "uuid": "Compendium.ptu.species.Item.PWdUdUeF0t5FPno7",
         "slug": "poltchageist",
         "other": {
           "restrictions": [
@@ -71,8 +71,8 @@
       },
       {
         "level": 25,
-        "slug": "sinistcha",
         "uuid": "Compendium.ptu.species.Item.NDOxzMmxf3AlZYUU",
+        "slug": "sinistcha",
         "other": {
           "restrictions": [
             ""
@@ -141,13 +141,13 @@
       "level": [
         {
           "level": "Evo",
-          "uuid": "Compendium.ptu.moves.Item.69HtQAbcRz0e1Tbv",
-          "slug": "matcha-gotcha"
+          "uuid": "Compendium.ptu.moves.Item.7sMVSFGaJax6lWuM",
+          "slug": "spite"
         },
         {
           "level": "Evo",
-          "uuid": "Compendium.ptu.moves.Item.7sMVSFGaJax6lWuM",
-          "slug": "spite"
+          "uuid": "Compendium.ptu.moves.Item.69HtQAbcRz0e1Tbv",
+          "slug": "matcha-gotcha"
         },
         {
           "level": 1,
@@ -609,10 +609,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1694712904509,
-    "modifiedTime": 1706018864423,
+    "modifiedTime": 1706124610053,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "PWdUdUeF0t5FPno7",
