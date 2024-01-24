@@ -15,7 +15,7 @@
         "phase": "applyAEs"
       }
     ],
-    "slug": null,
+    "slug": "oracle-cr",
     "schema": {
       "version": null,
       "lastMigration": null
@@ -46,13 +46,17 @@
     "xUomATnixLnn15IR": 3,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.0.14",
+    "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1704194589046,
+    "modifiedTime": 1706115672385,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!XCzgGnWuKpvFfw4l"

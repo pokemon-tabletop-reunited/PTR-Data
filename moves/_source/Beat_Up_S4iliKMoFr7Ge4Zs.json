@@ -8,12 +8,12 @@
     "effect": "The user and up to two allies adjacent to the target may each make a Struggle Attack against the target. These Struggle Attacks hit for Dark-Type Damage instead of their usual Type. Beat Up may trigger Pack Hunt only once, no matter the number of attacks.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "beat-up",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.w7spGCtHnVP2tTEq",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -44,14 +44,18 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.12",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1697513698449,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1705331834130,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!S4iliKMoFr7Ge4Zs"
 }

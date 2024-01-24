@@ -68,6 +68,16 @@
             ""
           ]
         }
+      },
+      {
+        "level": 25,
+        "slug": "sinistcha",
+        "uuid": "Compendium.ptu.species.Item.NDOxzMmxf3AlZYUU",
+        "other": {
+          "restrictions": [
+            ""
+          ]
+        }
       }
     ],
     "size": {
@@ -131,13 +141,13 @@
       "level": [
         {
           "level": "Evo",
-          "uuid": "Compendium.ptu.moves.Item.7sMVSFGaJax6lWuM",
-          "slug": "spite"
+          "uuid": "Compendium.ptu.moves.Item.69HtQAbcRz0e1Tbv",
+          "slug": "matcha-gotcha"
         },
         {
           "level": "Evo",
-          "uuid": "Compendium.ptu.moves.Item.69HtQAbcRz0e1Tbv",
-          "slug": "matcha-gotcha"
+          "uuid": "Compendium.ptu.moves.Item.7sMVSFGaJax6lWuM",
+          "slug": "spite"
         },
         {
           "level": 1,
@@ -599,13 +609,13 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.12",
+    "coreVersion": "11.315",
     "createdTime": 1694712904509,
-    "modifiedTime": 1699198345448,
+    "modifiedTime": 1706018864423,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "PWdUdUeF0t5FPno7",
-  "sort": 0,
+  "sort": 1000000,
   "_key": "!items!PWdUdUeF0t5FPno7"
 }

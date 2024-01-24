@@ -6,13 +6,38 @@
     "origin": "",
     "effect": "The user gains +1 Evasion. This is increased to +2 Evasion while in Hail or snowy terrain. While in Hail, the user and adjacent allies do not lose Hit Points due to the Hail.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "add",
+        "path": "system.modifiers.evasion.physical.mod",
+        "phase": "applyAEs",
+        "value": 1
+      },
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "add",
+        "path": "system.modifiers.evasion.special.mod",
+        "phase": "applyAEs",
+        "value": 1
+      },
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "add",
+        "path": "system.modifiers.evasion.speed.mod",
+        "phase": "applyAEs",
+        "value": 1
+      }
+    ],
     "slug": "snow-cloak",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.c7ZNDXTlYlsS6RNW",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -35,10 +60,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.14",
+    "coreVersion": "12.316",
     "createdTime": 1692968394056,
-    "modifiedTime": 1699721156284,
+    "modifiedTime": 1706121334251,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!XGOKQvMtgXTgrckF"

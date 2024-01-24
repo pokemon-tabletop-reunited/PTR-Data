@@ -56,17 +56,19 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.vqQ5Ozh3ZXd5xiZr",
         "slug": "sinistea",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.qktaQNYZRNF8TFGr",
         "slug": "polteageist",
-        "level": 25,
         "other": {
           "restrictions": [
             "Cracked"
@@ -103,7 +105,7 @@
       "highJump": 0,
       "longJump": 1,
       "power": 1,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "darkvision",
@@ -399,6 +401,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Ghost",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -406,7 +412,7 @@
   "name": "Sinistea",
   "_id": "vqQ5Ozh3ZXd5xiZr",
   "effects": [],
-  "sort": 104800000,
+  "sort": 106400000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -414,10 +420,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.12",
+    "coreVersion": "11.315",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1706018864423,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!vqQ5Ozh3ZXd5xiZr"

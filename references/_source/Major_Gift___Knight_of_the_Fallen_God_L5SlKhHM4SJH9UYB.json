@@ -11,12 +11,16 @@
     "schema": {
       "version": null,
       "lastMigration": null
+    },
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
     }
   },
   "_id": "L5SlKhHM4SJH9UYB",
   "effects": [],
   "folder": null,
-  "sort": 0,
+  "sort": 10400000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
@@ -24,10 +28,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.alpha.23",
-    "coreVersion": "11.308",
+    "systemVersion": "4.0.12",
+    "coreVersion": "11.315",
     "createdTime": 1693518703759,
-    "modifiedTime": 1693518703759,
+    "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!L5SlKhHM4SJH9UYB"

@@ -66,7 +66,7 @@
         }
       },
       {
-        "level": 25,
+        "level": 20,
         "uuid": "Compendium.ptu.species.Item.pguuAxogxKNVFegL",
         "slug": "primeape",
         "other": {
@@ -76,12 +76,12 @@
         }
       },
       {
-        "level": 35,
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.U0hmoL9rpAg3tnN0",
         "slug": "annihilape",
         "other": {
           "restrictions": [
-            "Rage Fist"
+            ""
           ]
         }
       }
@@ -131,94 +131,99 @@
     "moves": {
       "level": [
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.TbqvNIqswHYAVHOW",
-          "slug": "focus-energy",
-          "level": 1
+          "slug": "focus-energy"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.XQOEuOenSzYNz4eO",
-          "slug": "leer",
-          "level": 1
+          "slug": "leer"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.dOMKjZx7flfPZTtV",
-          "slug": "low-kick",
-          "level": 1
+          "slug": "low-kick"
         },
         {
+          "level": 1,
           "uuid": "Compendium.ptu.moves.Item.1Sk8xyD2S2J6qU1K",
-          "slug": "scratch",
-          "level": 1
+          "slug": "scratch"
         },
         {
+          "level": 5,
           "uuid": "Compendium.ptu.moves.Item.kBtOW4lhbgV3tltJ",
-          "slug": "fury-swipes",
-          "level": 5
+          "slug": "fury-swipes"
         },
         {
+          "level": 8,
           "uuid": "Compendium.ptu.moves.Item.AJTIueQXgC9l1plL",
-          "slug": "karate-chop",
-          "level": 8
+          "slug": "karate-chop"
         },
         {
+          "level": 12,
           "uuid": "Compendium.ptu.moves.Item.4zyVHZ1t6PJsYzGX",
-          "slug": "pursuit",
-          "level": 12
+          "slug": "pursuit"
         },
         {
+          "level": 15,
           "uuid": "Compendium.ptu.moves.Item.jtmrf8Dol8bkamvO",
-          "slug": "seismic-toss",
-          "level": 15
+          "slug": "seismic-toss"
         },
         {
+          "level": 19,
           "uuid": "Compendium.ptu.moves.Item.arxy479cTjkB8mML",
-          "slug": "swagger",
-          "level": 19
+          "slug": "swagger"
         },
         {
+          "level": 22,
           "uuid": "Compendium.ptu.moves.Item.FUT3S0b75wJUZQrh",
-          "slug": "cross-chop",
-          "level": 22
+          "slug": "cross-chop"
         },
         {
+          "level": 26,
           "uuid": "Compendium.ptu.moves.Item.eQqKpKRD5wG1Hg7d",
-          "slug": "assurance",
-          "level": 26
+          "slug": "assurance"
         },
         {
+          "level": 29,
+          "uuid": "Compendium.ptu.moves.Item.EDjggvb2syCwBlkq",
+          "slug": "rage-fist"
+        },
+        {
+          "level": 29,
           "uuid": "Compendium.ptu.moves.Item.EIPvcavZN9cZIXET",
-          "slug": "punishment",
-          "level": 29
+          "slug": "punishment"
         },
         {
+          "level": 33,
           "uuid": "Compendium.ptu.moves.Item.czDZWjn9TbP9ON4q",
-          "slug": "thrash",
-          "level": 33
+          "slug": "thrash"
         },
         {
+          "level": 36,
           "uuid": "Compendium.ptu.moves.Item.7CkvaKCsI8Oyb3LO",
-          "slug": "close-combat",
-          "level": 36
+          "slug": "close-combat"
         },
         {
+          "level": 40,
           "uuid": "Compendium.ptu.moves.Item.TD9T2QEalKGQZicp",
-          "slug": "screech",
-          "level": 40
+          "slug": "screech"
         },
         {
+          "level": 43,
           "uuid": "Compendium.ptu.moves.Item.2sgLgahHycXD5OuT",
-          "slug": "stomping-tantrum",
-          "level": 43
+          "slug": "stomping-tantrum"
         },
         {
+          "level": 47,
           "uuid": "Compendium.ptu.moves.Item.Pc0fIapOkBRR4J8L",
-          "slug": "outrage",
-          "level": 47
+          "slug": "outrage"
         },
         {
+          "level": 50,
           "uuid": "Compendium.ptu.moves.Item.L0dp4EW2HVwYI8kd",
-          "slug": "final-gambit",
-          "level": 50
+          "slug": "final-gambit"
         }
       ],
       "machine": [
@@ -631,6 +636,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Fighting",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -638,7 +647,7 @@
   "name": "Mankey",
   "_id": "NbsWwvJXY3HmrLzX",
   "effects": [],
-  "sort": 45200000,
+  "sort": 46900000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -646,10 +655,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.12",
+    "coreVersion": "11.315",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1706018864423,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!NbsWwvJXY3HmrLzX"

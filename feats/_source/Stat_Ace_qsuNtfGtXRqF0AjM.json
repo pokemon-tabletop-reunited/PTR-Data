@@ -2,10 +2,10 @@
   "name": "Stat Ace",
   "system": {
     "origin": "",
-    "effect": "Your Pokémon have their Chosen Base Stat increased by +1, and by +1 more for every 10 Levels they have (for example, a Level 20 Pokémon would have your Chosen Stat’s base value increased by +3). Additionally, your Pokémon may ignore Base Relations, as long as they are adding to the Stat chosen for Stat Ace, and you do not need to “correct” Stats due to this inflated Stat Value.\n\nNote: When you take Stat Ace, choose Attack, Defense, Special Attack, Special Defense, or Speed. This becomes your Pokémon’s Chosen Stat. You may take Stat Ace multiple times, choosing different Stats each time. If using Style Expert to qualify for Stat Ace, your Chosen Stat must be the Stat that correlates to your Chosen Contest Stat. Beauty is Special Attack, Cool is Attack, Cute is Speed, Smart is Special Defense, and Tough is Defense.  You may use the Stat in place of \"Stat\" in all Stat Ace features on this sheet, e.g. \"Attack Ace\" or \"Special Defense Link\".",
+    "effect": "Your Pokémon have their Chosen Base Stat increased by +1, and by +1 more for every 10 Levels they have (for example, a Level 20 Pokémon would have your Chosen Stat’s base value increased by +3). Additionally, your Pokémon may ignore Base Relations, as long as they are adding to the Stat chosen for Stat Ace, and you do not need to “correct” Stats due to this inflated Stat Value.\n\nNote: When you take Stat Ace, choose Attack, Defense, Special Attack, Special Defense, or Speed. This becomes your Pokémon’s Chosen Stat. You may take Stat Ace multiple times, choosing different Stats each time. If using Style Expert to qualify for Stat Ace, your Chosen Stat must be the Stat that correlates to your Chosen Contest Stat. Beauty is Special Attack, Cool is Attack, Cute is Speed, Smart is Special Defense, and Tough is Defense.  You may use the Stat in place of \"Stat\" in all Stat Ace features on this sheet, e.g. \"Attack Ace\" or \"Special Defense Link\".\n\nYou can retool this automation effect for your mons: @UUID[Compendium.ptu.effects.Item.1nxph1eBRlqpr3xd]",
     "snippet": "",
     "rules": [],
-    "slug": "",
+    "slug": "stat-ace",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -49,10 +49,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.12",
+    "coreVersion": "11.315",
     "createdTime": 1683368084414,
-    "modifiedTime": 1696762822782,
+    "modifiedTime": 1705331779773,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

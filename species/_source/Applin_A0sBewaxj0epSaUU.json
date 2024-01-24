@@ -95,6 +95,16 @@
             "Syrupy"
           ]
         }
+      },
+      {
+        "level": 40,
+        "slug": "hydrapple",
+        "uuid": "Compendium.ptu.species.Item.jAIJeRtRc1sUekjO",
+        "other": {
+          "restrictions": [
+            ""
+          ]
+        }
       }
     ],
     "size": {
@@ -361,7 +371,7 @@
   "name": "Applin",
   "_id": "A0sBewaxj0epSaUU",
   "effects": [],
-  "sort": 18300000,
+  "sort": 20000000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -369,10 +379,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.12",
+    "coreVersion": "11.315",
     "createdTime": 1689609527590,
-    "modifiedTime": 1699198157224,
+    "modifiedTime": 1706018864423,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!A0sBewaxj0epSaUU"

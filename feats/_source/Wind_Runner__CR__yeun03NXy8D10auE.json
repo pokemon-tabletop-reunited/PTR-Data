@@ -13,9 +13,15 @@
         "priority": 20,
         "predicate": [],
         "phase": "applyAEs"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.abilities.Item.SKJicSWmXBMtgNpo"
       }
     ],
-    "slug": null,
+    "slug": "wind-runner-cr",
     "schema": {
       "version": null,
       "lastMigration": null
@@ -24,10 +30,7 @@
     "source": {
       "value": "Homebrew"
     },
-    "prerequisites": [
-      "Elemental Connection (Flying)",
-      "Novice Acrobatics or Novice Perception"
-    ],
+    "prerequisites": [],
     "frequency": "Static",
     "tags": "[Class] [+Speed]",
     "notes": "",
@@ -46,13 +49,17 @@
     "xUomATnixLnn15IR": 3,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.0.12",
+    "coreVersion": "11.315",
     "createdTime": 1699736627730,
-    "modifiedTime": 1704194589046,
+    "modifiedTime": 1705331461489,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!yeun03NXy8D10auE"

@@ -66,7 +66,7 @@
         }
       },
       {
-        "level": 25,
+        "level": 20,
         "uuid": "Compendium.ptu.species.Item.pguuAxogxKNVFegL",
         "slug": "primeape",
         "other": {
@@ -76,12 +76,12 @@
         }
       },
       {
-        "level": 35,
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.U0hmoL9rpAg3tnN0",
         "slug": "annihilape",
         "other": {
           "restrictions": [
-            "Rage Fist"
+            ""
           ]
         }
       }
@@ -126,79 +126,84 @@
     "moves": {
       "level": [
         {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.K3PXmG9E0s7QEUQ2",
-          "slug": "rage",
-          "level": "Evo"
+          "slug": "rage"
         },
         {
+          "level": 5,
           "uuid": "Compendium.ptu.moves.Item.kBtOW4lhbgV3tltJ",
-          "slug": "fury-swipes",
-          "level": 5
+          "slug": "fury-swipes"
         },
         {
+          "level": 8,
           "uuid": "Compendium.ptu.moves.Item.AJTIueQXgC9l1plL",
-          "slug": "karate-chop",
-          "level": 8
+          "slug": "karate-chop"
         },
         {
+          "level": 12,
           "uuid": "Compendium.ptu.moves.Item.4zyVHZ1t6PJsYzGX",
-          "slug": "pursuit",
-          "level": 12
+          "slug": "pursuit"
         },
         {
+          "level": 15,
           "uuid": "Compendium.ptu.moves.Item.jtmrf8Dol8bkamvO",
-          "slug": "seismic-toss",
-          "level": 15
+          "slug": "seismic-toss"
         },
         {
+          "level": 19,
           "uuid": "Compendium.ptu.moves.Item.arxy479cTjkB8mML",
-          "slug": "swagger",
-          "level": 19
+          "slug": "swagger"
         },
         {
+          "level": 22,
           "uuid": "Compendium.ptu.moves.Item.FUT3S0b75wJUZQrh",
-          "slug": "cross-chop",
-          "level": 22
+          "slug": "cross-chop"
         },
         {
+          "level": 26,
           "uuid": "Compendium.ptu.moves.Item.eQqKpKRD5wG1Hg7d",
-          "slug": "assurance",
-          "level": 26
+          "slug": "assurance"
         },
         {
+          "level": 30,
+          "uuid": "Compendium.ptu.moves.Item.EDjggvb2syCwBlkq",
+          "slug": "rage-fist"
+        },
+        {
+          "level": 30,
           "uuid": "Compendium.ptu.moves.Item.EIPvcavZN9cZIXET",
-          "slug": "punishment",
-          "level": 30
+          "slug": "punishment"
         },
         {
+          "level": 35,
           "uuid": "Compendium.ptu.moves.Item.czDZWjn9TbP9ON4q",
-          "slug": "thrash",
-          "level": 35
+          "slug": "thrash"
         },
         {
+          "level": 39,
           "uuid": "Compendium.ptu.moves.Item.7CkvaKCsI8Oyb3LO",
-          "slug": "close-combat",
-          "level": 39
+          "slug": "close-combat"
         },
         {
+          "level": 44,
           "uuid": "Compendium.ptu.moves.Item.TD9T2QEalKGQZicp",
-          "slug": "screech",
-          "level": 44
+          "slug": "screech"
         },
         {
+          "level": 48,
           "uuid": "Compendium.ptu.moves.Item.2sgLgahHycXD5OuT",
-          "slug": "stomping-tantrum",
-          "level": 48
+          "slug": "stomping-tantrum"
         },
         {
+          "level": 53,
           "uuid": "Compendium.ptu.moves.Item.Pc0fIapOkBRR4J8L",
-          "slug": "outrage",
-          "level": 53
+          "slug": "outrage"
         },
         {
+          "level": 57,
           "uuid": "Compendium.ptu.moves.Item.L0dp4EW2HVwYI8kd",
-          "slug": "final-gambit",
-          "level": 57
+          "slug": "final-gambit"
         }
       ],
       "machine": [
@@ -586,6 +591,10 @@
     "rules": [],
     "source": {
       "value": "PTR Core Dex"
+    },
+    "type": {
+      "0": "Fighting",
+      "1": ""
     }
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
@@ -593,7 +602,7 @@
   "name": "Primeape",
   "_id": "pguuAxogxKNVFegL",
   "effects": [],
-  "sort": 94300000,
+  "sort": 95900000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -601,10 +610,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.0.12",
+    "coreVersion": "11.315",
     "createdTime": 1689609527590,
-    "modifiedTime": 1696689159826,
+    "modifiedTime": 1706018864423,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!pguuAxogxKNVFegL"
