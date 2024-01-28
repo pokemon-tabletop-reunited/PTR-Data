@@ -7,12 +7,12 @@
     "effect": "Any allied Pokémon in the encounter gain a +2 Bonus to Accuracy Rolls.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "victory-star",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.wznfaAte7p4woIZq",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -28,13 +28,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1692968394056,
-    "modifiedTime": 1699721156284,
+    "modifiedTime": 1706452788823,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!dmn8Ks6BV45WdqI3"

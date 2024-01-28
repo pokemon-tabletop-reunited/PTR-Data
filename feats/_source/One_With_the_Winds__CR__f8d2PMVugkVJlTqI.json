@@ -15,12 +15,12 @@
         "phase": "applyAEs"
       }
     ],
-    "slug": null,
+    "slug": "one-with-the-winds-cr",
     "schema": {
       "version": null,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.QSBfXnEJ10NZnk0Z",
     "source": {
       "value": "Homebrew"
     },
@@ -45,13 +45,17 @@
     "xUomATnixLnn15IR": 3,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1704194589046,
+    "modifiedTime": 1706452990110,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!f8d2PMVugkVJlTqI"

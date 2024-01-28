@@ -13,50 +13,29 @@
       },
       {
         "key": "ChoiceSet",
-        "flag": "move1",
+        "flag": "move",
         "adjustName": false,
         "choices": [
           {
-            "value": "Compendium.ptu.moves.Item.Z38TtI0Rkj5fIHLD",
-            "predicate": {
-              "not": "move:charge-beam"
-            }
+            "value": "Compendium.ptu.moves.Item.qRvLgOrsmdXEsBsU"
           },
           {
-            "value": "Compendium.ptu.moves.Item.rW6YqKNIilq1npZJ",
-            "predicate": {
-              "not": "move:eerie-impulse"
-            }
+            "value": "Compendium.ptu.moves.Item.0gi5EtY9Gq2yZ4eY"
           },
           {
-            "value": "Compendium.ptu.moves.Item.i3pBrEvJz6tycWOT",
-            "predicate": {
-              "not": "move:shock-wave"
-            }
+            "value": "Compendium.ptu.moves.Item.y9WyqqBWO4tAaX8G"
           },
           {
-            "value": "Compendium.ptu.moves.Item.2Bldc8dEEOuOSx39",
-            "predicate": {
-              "not": "move:spark"
-            }
+            "value": "Compendium.ptu.moves.Item.2Bldc8dEEOuOSx39"
           },
           {
-            "value": "Compendium.ptu.moves.Item.qRvLgOrsmdXEsBsU",
-            "predicate": {
-              "not": "move:charge"
-            }
+            "value": "Compendium.ptu.moves.Item.Z38TtI0Rkj5fIHLD"
           },
           {
-            "value": "Compendium.ptu.moves.Item.0gi5EtY9Gq2yZ4eY",
-            "predicate": {
-              "not": "move:thunder-punch"
-            }
+            "value": "Compendium.ptu.moves.Item.rW6YqKNIilq1npZJ"
           },
           {
-            "value": "Compendium.ptu.moves.Item.y9WyqqBWO4tAaX8G",
-            "predicate": {
-              "not": "move:thunderbolt"
-            }
+            "value": "Compendium.ptu.moves.Item.i3pBrEvJz6tycWOT"
           }
         ]
       },
@@ -64,124 +43,33 @@
         "key": "GrantItem",
         "predicate": [],
         "allowDuplicate": false,
-        "uuid": "{item|flags.ptu.rulesSelections.move1}"
+        "uuid": "{item|flags.ptu.rulesSelections.move}"
       },
       {
         "key": "ChoiceSet",
-        "flag": "move2",
+        "flag": "move",
         "adjustName": false,
         "choices": [
           {
-            "value": "Compendium.ptu.moves.Item.Z38TtI0Rkj5fIHLD",
-            "predicate": [
-              {
-                "not": {
-                  "eq": [
-                    "{item|flags.ptu.rulesSelections.move1}",
-                    "Compendium.ptu.moves.Item.Z38TtI0Rkj5fIHLD"
-                  ]
-                }
-              },
-              {
-                "not": "move:charge-beam"
-              }
-            ]
+            "value": "Compendium.ptu.moves.Item.qRvLgOrsmdXEsBsU"
           },
           {
-            "value": "Compendium.ptu.moves.Item.rW6YqKNIilq1npZJ",
-            "predicate": [
-              {
-                "not": {
-                  "eq": [
-                    "{item|flags.ptu.rulesSelections.move1}",
-                    "Compendium.ptu.moves.Item.rW6YqKNIilq1npZJ"
-                  ]
-                }
-              },
-              {
-                "not": "move:eerie-impulse"
-              }
-            ]
+            "value": "Compendium.ptu.moves.Item.0gi5EtY9Gq2yZ4eY"
           },
           {
-            "value": "Compendium.ptu.moves.Item.i3pBrEvJz6tycWOT",
-            "predicate": [
-              {
-                "not": {
-                  "eq": [
-                    "{item|flags.ptu.rulesSelections.move1}",
-                    "Compendium.ptu.moves.Item.i3pBrEvJz6tycWOT"
-                  ]
-                }
-              },
-              {
-                "not": "move:shock-wave"
-              }
-            ]
+            "value": "Compendium.ptu.moves.Item.y9WyqqBWO4tAaX8G"
           },
           {
-            "value": "Compendium.ptu.moves.Item.2Bldc8dEEOuOSx39",
-            "predicate": [
-              {
-                "not": {
-                  "eq": [
-                    "{item|flags.ptu.rulesSelections.move1}",
-                    "Compendium.ptu.moves.Item.2Bldc8dEEOuOSx39"
-                  ]
-                }
-              },
-              {
-                "not": "move:spark"
-              }
-            ]
+            "value": "Compendium.ptu.moves.Item.2Bldc8dEEOuOSx39"
           },
           {
-            "value": "Compendium.ptu.moves.Item.qRvLgOrsmdXEsBsU",
-            "predicate": [
-              {
-                "not": {
-                  "eq": [
-                    "{item|flags.ptu.rulesSelections.move1}",
-                    "Compendium.ptu.moves.Item.qRvLgOrsmdXEsBsU"
-                  ]
-                }
-              },
-              {
-                "not": "move:charge"
-              }
-            ]
+            "value": "Compendium.ptu.moves.Item.Z38TtI0Rkj5fIHLD"
           },
           {
-            "value": "Compendium.ptu.moves.Item.0gi5EtY9Gq2yZ4eY",
-            "predicate": [
-              {
-                "not": {
-                  "eq": [
-                    "{item|flags.ptu.rulesSelections.move1}",
-                    "Compendium.ptu.moves.Item.0gi5EtY9Gq2yZ4eY"
-                  ]
-                }
-              },
-              {
-                "not": "move:thunder-punch"
-              }
-            ]
+            "value": "Compendium.ptu.moves.Item.rW6YqKNIilq1npZJ"
           },
           {
-            "value": "Compendium.ptu.moves.Item.y9WyqqBWO4tAaX8G",
-            "predicate": [
-              {
-                "not": {
-                  "eq": [
-                    "{item|flags.ptu.rulesSelections.move1}",
-                    "Compendium.ptu.moves.Item.y9WyqqBWO4tAaX8G"
-                  ]
-                }
-              },
-              {
-                "not": "move:thunderbolt"
-              }
-            ]
+            "value": "Compendium.ptu.moves.Item.i3pBrEvJz6tycWOT"
           }
         ]
       },
@@ -189,7 +77,7 @@
         "key": "GrantItem",
         "predicate": [],
         "allowDuplicate": false,
-        "uuid": "{item|flags.ptu.rulesSelections.move2}"
+        "uuid": "{item|flags.ptu.rulesSelections.move}"
       }
     ],
     "slug": null,
@@ -230,10 +118,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1683368084380,
-    "modifiedTime": 1696691567516,
+    "modifiedTime": 1706454288000,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

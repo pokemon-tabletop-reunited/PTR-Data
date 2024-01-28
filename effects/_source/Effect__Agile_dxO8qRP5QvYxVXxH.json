@@ -58,7 +58,8 @@
       "show": true
     },
     "badge": null,
-    "context": null
+    "context": null,
+    "stackSlugs": true
   },
   "effects": [],
   "flags": {
@@ -68,14 +69,17 @@
       "system": "ptu",
       "coreVersion": "11.308",
       "systemVersion": "4.0.0.alpha.32"
+    },
+    "ptu": {
+      "showInTokenPanel": true
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1694200467912,
-    "modifiedTime": 1696775496383,
+    "modifiedTime": 1706456267211,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "ownership": {

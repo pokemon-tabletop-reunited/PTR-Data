@@ -6,8 +6,15 @@
     "origin": "",
     "effect": "Trigger - The user uses Supersonic\\nConnection - Supersonic. The target of Supersonic loses Hit Points equal to the user’s Special Attack. This occurs even if Supersonic misses.",
     "snippet": "",
-    "rules": [],
-    "slug": null,
+    "rules": [
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.I8d7of2dA9eAP0OG"
+      }
+    ],
+    "slug": "sound-lance",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -28,13 +35,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1692968394056,
-    "modifiedTime": 1699721156284,
+    "modifiedTime": 1706453449719,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!5Ggs5ri8KolxSCmx"

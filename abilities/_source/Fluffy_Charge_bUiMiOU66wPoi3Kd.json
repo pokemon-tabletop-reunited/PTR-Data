@@ -7,12 +7,12 @@
     "effect": "Connection - Charge. Whenever the user uses Charge, they gain +1 CS to Defense.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "fluffy-charge",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.Fest7tdgmN3e67BK",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -28,13 +28,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1692968394056,
-    "modifiedTime": 1699721156284,
+    "modifiedTime": 1706452770591,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!bUiMiOU66wPoi3Kd"

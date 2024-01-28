@@ -28,6 +28,12 @@
         "priority": 20,
         "predicate": [],
         "phase": "applyAEs"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.abilities.Item.yZiHvAvegkNMcJxu"
       }
     ],
     "slug": "burning-passion-cr",
@@ -68,10 +74,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1704194589046,
+    "modifiedTime": 1706454288000,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!UVzPD1DYl2uGnGJL"

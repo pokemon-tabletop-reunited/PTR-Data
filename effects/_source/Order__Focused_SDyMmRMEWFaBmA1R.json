@@ -12,18 +12,20 @@
         "key": "ActiveEffectLike",
         "mode": "add",
         "path": "system.modifiers.skillBonus.mod",
-        "value": 2
+        "value": 2,
+        "predicate": [],
+        "phase": "applyAEs"
       },
       {
         "key": "FlatModifier",
         "predicate": [],
-        "label": "Focused Training",
+        "label": "Focused Order",
         "hideIfDisabled": false,
         "selectors": "attack-roll",
         "value": 1
       }
     ],
-    "slug": "",
+    "slug": "order-focused",
     "schema": {
       "version": 0.111,
       "lastMigration": {
@@ -45,7 +47,7 @@
     "duration": {
       "value": 1,
       "unit": "turn-start",
-      "expiry": "turn-start"
+      "expiry": "turn-end"
     },
     "start": {
       "value": 0,
@@ -66,14 +68,17 @@
       "system": "ptu",
       "coreVersion": "11.308",
       "systemVersion": "4.0.0.alpha.32"
+    },
+    "ptu": {
+      "showInTokenPanel": true
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1694203456698,
-    "modifiedTime": 1696775546995,
+    "modifiedTime": 1706455589460,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "ownership": {

@@ -7,8 +7,18 @@
     "origin": "",
     "effect": "Inferno Burns the target. Inferno ignores the target's Evasion if there are no other combatants or Rough or Blocking Terrain within 2 meters of the target.",
     "snippet": "",
-    "rules": [],
-    "slug": null,
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.NA1Vn8A2h6JIIUhj",
+        "range": "1",
+        "value": "",
+        "affects": "target"
+      }
+    ],
+    "slug": "inferno",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -27,15 +37,16 @@
     "strongJaw": false,
     "type": "Fire",
     "category": "Special",
-    "damageBase": 10,
+    "damageBase": "10",
     "frequency": "At-Will",
-    "ac": 9,
+    "ac": "9",
     "range": "6, 1 Target",
     "contestType": "Beauty - Steady Performance",
     "stab": false,
     "damageBonus": 0,
     "isStruggle": false,
-    "automation": []
+    "automation": [],
+    "stackSlugs": false
   },
   "_id": "f25cGYvLApdYt14w",
   "effects": [],
@@ -44,14 +55,18 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1697513698449,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1706462523323,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!f25cGYvLApdYt14w"
 }

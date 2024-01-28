@@ -127,14 +127,17 @@
       "coreVersion": "11.308",
       "systemVersion": "4.0.0.beta.13"
     },
-    "core": {}
+    "core": {},
+    "ptu": {
+      "showInTokenPanel": true
+    }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.release-candidate.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1694889689813,
-    "modifiedTime": 1699268806993,
+    "modifiedTime": 1706453156811,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "gsePGwVgjU3VgjIK",

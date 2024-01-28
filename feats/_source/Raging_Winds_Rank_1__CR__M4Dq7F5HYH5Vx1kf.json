@@ -13,6 +13,117 @@
         "priority": 20,
         "predicate": [],
         "phase": "applyAEs"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move1",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.moves.Item.x6Pk6ClFw3trGL9a",
+            "predicate": {
+              "not": "move:dual-wingbeat"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.avOW8t5qubeyPB2p",
+            "predicate": {
+              "not": "move:air-cutter"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.XFAP16yE2fKZRExS",
+            "predicate": {
+              "not": "move:gust"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.1WQ6vh8cbOaUzhaf",
+            "predicate": {
+              "not": "move:tailwind"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move1}"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move2",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.moves.Item.x6Pk6ClFw3trGL9a",
+            "predicate": {
+              "not": "move:dual-wingbeat"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.avOW8t5qubeyPB2p",
+            "predicate": {
+              "not": "move:air-cutter"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.XFAP16yE2fKZRExS",
+            "predicate": {
+              "not": "move:gust"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.1WQ6vh8cbOaUzhaf",
+            "predicate": {
+              "not": "move:tailwind"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move2}"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move3",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.moves.Item.x6Pk6ClFw3trGL9a",
+            "predicate": {
+              "not": "move:dual-wingbeat"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.avOW8t5qubeyPB2p",
+            "predicate": {
+              "not": "move:air-cutter"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.XFAP16yE2fKZRExS",
+            "predicate": {
+              "not": "move:gust"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.1WQ6vh8cbOaUzhaf",
+            "predicate": {
+              "not": "move:tailwind"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move3}"
       }
     ],
     "slug": "raging-winds-rank-1-cr",
@@ -24,9 +135,7 @@
     "source": {
       "value": "Homebrew"
     },
-    "prerequisites": [
-      "Wind Runner"
-    ],
+    "prerequisites": [],
     "frequency": "Static",
     "tags": "[Ranked 3] [+Speed]",
     "notes": "",
@@ -52,10 +161,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1704194589046,
+    "modifiedTime": 1706453860328,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!M4Dq7F5HYH5Vx1kf"

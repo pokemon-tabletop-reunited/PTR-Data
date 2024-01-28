@@ -49,7 +49,8 @@
       "show": true
     },
     "badge": null,
-    "context": null
+    "context": null,
+    "stackSlugs": true
   },
   "effects": [],
   "folder": "cCM0awlDiATvW03q",
@@ -58,17 +59,20 @@
     "ODt7FhFvbVjW9f1k": 3
   },
   "flags": {
-    "core": {}
+    "core": {},
+    "ptu": {
+      "showInTokenPanel": true
+    }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1694440845174,
-    "modifiedTime": 1705331825934,
+    "modifiedTime": 1706462023257,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "EjQwuBuIqKQOQQ7M",
-  "sort": 100000,
+  "sort": 600000,
   "_key": "!items!EjQwuBuIqKQOQQ7M"
 }

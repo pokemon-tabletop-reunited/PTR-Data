@@ -52,21 +52,26 @@
       "show": true
     },
     "badge": null,
-    "context": null
+    "context": null,
+    "stackSlugs": true
   },
   "effects": [],
-  "sort": 400000,
+  "sort": 800000,
   "ownership": {
     "default": 0,
     "xUomATnixLnn15IR": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1698280941763,
-    "modifiedTime": 1705331825934,
+    "modifiedTime": 1706462023257,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!eO5ycOqENdnKlMiJ"

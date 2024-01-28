@@ -30,6 +30,37 @@
         "path": "system.modifiers.baseStats.{item|flags.ptu.rulesSelections.auraguardian}.mod",
         "phase": "applyAEs",
         "value": 1
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move1",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.abilities.Item.LVKN9UuObrFnBbxc",
+            "predicate": {
+              "not": "ability:scrappy"
+            }
+          },
+          {
+            "value": "Compendium.ptu.abilities.Item.Id9Q9nTyuepCBG8Y",
+            "predicate": {
+              "not": "ability:aura-storm"
+            }
+          },
+          {
+            "value": "Compendium.ptu.abilities.Item.XHtToEMKCJmeQzYR",
+            "predicate": {
+              "not": "ability:mega-launcher"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move1}"
       }
     ],
     "slug": "the-power-of-aura-rank-1-cr",
@@ -65,10 +96,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1700000012643,
-    "modifiedTime": 1704194589046,
+    "modifiedTime": 1706454288000,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "nwJduLpzndc2nbAI",

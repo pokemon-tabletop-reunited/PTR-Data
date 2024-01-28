@@ -12,9 +12,7 @@
         "key": "ActiveEffectLike",
         "mode": "add",
         "path": "system.modifiers.baseStats.spd.mod",
-        "value": 1,
-        "predicate": [],
-        "phase": "applyAEs"
+        "value": 1
       },
       {
         "key": "GrantItem",
@@ -64,10 +62,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1695152947504,
-    "modifiedTime": 1696691567516,
+    "modifiedTime": 1706454288000,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "mHufrikSlUHSjjt7",

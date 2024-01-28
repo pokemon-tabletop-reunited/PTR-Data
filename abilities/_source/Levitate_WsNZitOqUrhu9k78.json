@@ -6,7 +6,14 @@
     "origin": "",
     "effect": "The Pokémon is immune to the damage and effects of Ground Type Moves, and gains a Levitate Speed of 4, or has existing Levitate Speeds increased by +2. Defensive.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "Effectiveness",
+        "predicate": [],
+        "type": "ground",
+        "value": 0
+      }
+    ],
     "slug": "levitate",
     "schema": {
       "version": 0.11,
@@ -35,10 +42,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1692968394056,
-    "modifiedTime": 1705331437656,
+    "modifiedTime": 1706453508506,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!WsNZitOqUrhu9k78"

@@ -13,6 +13,18 @@
         "priority": 20,
         "predicate": [],
         "phase": "applyAEs"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.abilities.Item.NGesozzcq6yYzALH"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.abilities.Item.WsNZitOqUrhu9k78"
       }
     ],
     "slug": "power-of-the-mind-cr",
@@ -52,10 +64,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1704194589046,
+    "modifiedTime": 1706453788700,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!IuC2hBTeAYwL6AKl"

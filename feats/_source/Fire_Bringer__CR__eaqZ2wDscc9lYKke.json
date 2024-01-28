@@ -28,6 +28,135 @@
         "priority": 20,
         "predicate": [],
         "phase": "applyAEs"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move1",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.moves.Item.JV9D80kHWzifgoYH",
+            "predicate": {
+              "not": "move:flame-burst"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.TeL0p7BkR386XexV",
+            "predicate": {
+              "not": "move:flame-charge"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.cDe2PIlHkOV2msto",
+            "predicate": {
+              "not": "move:flame-wheel"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.m787MkYyENqNyGOb",
+            "predicate": {
+              "not": "move:sunny-day"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.qltGKDIhEJpOqswU",
+            "predicate": {
+              "not": "move:will-o-wisp"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move1}"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move2",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.moves.Item.JV9D80kHWzifgoYH",
+            "predicate": {
+              "not": "move:flame-burst"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.TeL0p7BkR386XexV",
+            "predicate": {
+              "not": "move:flame-charge"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.cDe2PIlHkOV2msto",
+            "predicate": {
+              "not": "move:flame-wheel"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.m787MkYyENqNyGOb",
+            "predicate": {
+              "not": "move:sunny-day"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.qltGKDIhEJpOqswU",
+            "predicate": {
+              "not": "move:will-o-wisp"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move2}"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move3",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.moves.Item.JV9D80kHWzifgoYH",
+            "predicate": {
+              "not": "move:flame-burst"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.TeL0p7BkR386XexV",
+            "predicate": {
+              "not": "move:flame-charge"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.cDe2PIlHkOV2msto",
+            "predicate": {
+              "not": "move:flame-wheel"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.m787MkYyENqNyGOb",
+            "predicate": {
+              "not": "move:sunny-day"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.qltGKDIhEJpOqswU",
+            "predicate": {
+              "not": "move:will-o-wisp"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move3}"
       }
     ],
     "slug": null,
@@ -64,10 +193,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1704194589046,
+    "modifiedTime": 1706454288000,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!eaqZ2wDscc9lYKke"

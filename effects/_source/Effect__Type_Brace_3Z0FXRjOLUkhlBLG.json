@@ -11,7 +11,7 @@
         "key": "ActiveEffectLike",
         "predicate": [],
         "mode": "add",
-        "path": "system.modifiers.damageReduction.physical",
+        "path": "system.modifiers.damageReduction.physical.mod",
         "phase": "applyAEs",
         "value": 15
       },
@@ -19,7 +19,7 @@
         "key": "ActiveEffectLike",
         "predicate": [],
         "mode": "add",
-        "path": "system.modifiers.damageReduction.Special",
+        "path": "system.modifiers.damageReduction.special.mod",
         "phase": "applyAEs",
         "value": 15
       }
@@ -68,14 +68,17 @@
     "ODt7FhFvbVjW9f1k": 3
   },
   "flags": {
-    "core": {}
+    "core": {},
+    "ptu": {
+      "showInTokenPanel": true
+    }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1696532561216,
-    "modifiedTime": 1696772966458,
+    "modifiedTime": 1706455657750,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "3Z0FXRjOLUkhlBLG",

@@ -12,16 +12,20 @@
         "key": "ActiveEffectLike",
         "mode": "add",
         "path": "system.modifiers.critRange.mod",
-        "value": 1
+        "value": 1,
+        "predicate": [],
+        "phase": "applyAEs"
       },
       {
         "key": "ActiveEffectLike",
         "mode": "add",
         "path": "system.modifiers.effectRange.mod",
-        "value": 1
+        "value": 1,
+        "predicate": [],
+        "phase": "applyAEs"
       }
     ],
-    "slug": "",
+    "slug": "effect-brutal",
     "schema": {
       "version": 0.11,
       "lastMigration": {
@@ -34,6 +38,9 @@
       }
     },
     "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
     "level": {
       "value": 1
     },
@@ -51,7 +58,8 @@
       "show": true
     },
     "badge": null,
-    "context": null
+    "context": null,
+    "stackSlugs": true
   },
   "effects": [],
   "flags": {
@@ -61,14 +69,17 @@
       "system": "ptu",
       "coreVersion": "11.308",
       "systemVersion": "4.0.0.alpha.32"
+    },
+    "ptu": {
+      "showInTokenPanel": true
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1694203308552,
-    "modifiedTime": 1695027124661,
+    "modifiedTime": 1706456269228,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "ownership": {

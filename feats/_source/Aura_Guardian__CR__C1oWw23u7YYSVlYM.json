@@ -31,6 +31,48 @@
         "path": "system.modifiers.baseStats.{item|flags.ptu.rulesSelections.auraguardian}.mod",
         "phase": "applyAEs",
         "value": 1
+      },
+      {
+        "key": "GrantItem",
+        "predicate": {
+          "gte": [
+            "@actor.system.skills.guile.value.total",
+            4
+          ]
+        },
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.capabilities.Item.XTXkBsGDf4t4gKoa"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move1",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.moves.Item.Hn8ikOihbzcReurJ",
+            "predicate": {
+              "not": "move:detect"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.f6wiL5OLPxVtLVWi",
+            "predicate": {
+              "not": "move:vacuum-wave"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.WRDNnocUmynpRpWb",
+            "predicate": {
+              "not": "move:force-palm"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move1}"
       }
     ],
     "slug": "aura-guardian-cr",
@@ -65,10 +107,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1700000012643,
-    "modifiedTime": 1704194589046,
+    "modifiedTime": 1706454288000,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!C1oWw23u7YYSVlYM"

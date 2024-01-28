@@ -30,6 +30,85 @@
         "path": "system.modifiers.baseStats.{item|flags.ptu.rulesSelections.auraguardian}.mod",
         "phase": "applyAEs",
         "value": 1
+      },
+      {
+        "key": "GrantItem",
+        "predicate": {
+          "not": "move:detect"
+        },
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.Hn8ikOihbzcReurJ"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": {
+          "not": "move:vacuum-wave"
+        },
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.f6wiL5OLPxVtLVWi"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": {
+          "not": "move:force-palm"
+        },
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.WRDNnocUmynpRpWb"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move1",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.moves.Item.gYkmoTL90zOWT5lv",
+            "predicate": {
+              "not": "move:aura-sphere"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.HU7NSy5rYDet6DbI",
+            "predicate": {
+              "not": "move:focus-blast"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.Dr7Eh1TGQHwQcreV",
+            "predicate": {
+              "not": "move:drain-punch"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.JwDy34HQ8GT4v6Jv",
+            "predicate": {
+              "not": "move:focus-punch"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.qOem2TUbrvmdG1Fu",
+            "predicate": {
+              "not": "move:dragon-pulse"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.M9VSBteeyEya9Qcf",
+            "predicate": {
+              "not": "move:dark-pulse"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.9TnRLGZ6WIGqIeQ4",
+            "predicate": {
+              "not": "move:water-pulse"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move1}"
       }
     ],
     "slug": "aura-mastery-rank-1-cr",
@@ -65,10 +144,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1700000012643,
-    "modifiedTime": 1704194589046,
+    "modifiedTime": 1706454288000,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "NOPusIoaLwGDE2Po",

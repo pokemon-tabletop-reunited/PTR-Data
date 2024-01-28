@@ -13,6 +13,24 @@
         "priority": 20,
         "predicate": [],
         "phase": "applyAEs"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.tNexDVIwrtPBsV0u"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.mw0PcwRSYEbxYyWs"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.Ad8f7gyjwE4CR0GJ"
       }
     ],
     "slug": "pk-omega-cr",
@@ -24,10 +42,7 @@
     "source": {
       "value": "Homebrew"
     },
-    "prerequisites": [
-      "PK Alpha",
-      "Expert Focus"
-    ],
+    "prerequisites": [],
     "frequency": "Static",
     "tags": "[+Special Attack]",
     "notes": "",
@@ -53,10 +68,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1704194589046,
+    "modifiedTime": 1706453763961,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!bmwZs0XfRwDbrKMn"

@@ -8,7 +8,31 @@
     "origin": "",
     "effect": "Trigger: You hit one or more foes with an Attack\nEffect: One foe that is hit loses 1 Spirit. If this foe is a Trainer, they are Drained of 1 AP. You may spend another AP to expand this to all foes hit by the triggering Attack.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "adjustName": true,
+        "flag": "iShallBringYouDespair",
+        "choices": [
+          {
+            "value": "atk",
+            "label": "Attack"
+          },
+          {
+            "value": "spatk",
+            "label": "Special Attack"
+          }
+        ]
+      },
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "add",
+        "path": "system.modifiers.baseStats.{item|flags.ptu.rulesSelections.iShallBringYouDespair}.mod",
+        "phase": "applyAEs",
+        "value": 1
+      }
+    ],
     "slug": "i-shall-bring-you-despair",
     "schema": {
       "version": null,
@@ -41,10 +65,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1697669780745,
-    "modifiedTime": 1700226845749,
+    "modifiedTime": 1706454288000,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!p3I7VdQjV3OEfx9q"

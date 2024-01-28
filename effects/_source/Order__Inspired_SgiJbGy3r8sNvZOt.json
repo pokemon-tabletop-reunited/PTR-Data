@@ -12,30 +12,36 @@
         "key": "ActiveEffectLike",
         "mode": "add",
         "path": "system.modifiers.evasion.physical.mod",
-        "value": 1
+        "value": 1,
+        "predicate": [],
+        "phase": "applyAEs"
       },
       {
         "key": "ActiveEffectLike",
         "mode": "add",
         "path": "system.modifiers.evasion.special.mod",
-        "value": 1
+        "value": 1,
+        "predicate": [],
+        "phase": "applyAEs"
       },
       {
         "key": "ActiveEffectLike",
         "mode": "add",
         "path": "system.modifiers.evasion.speed.mod",
-        "value": 1
+        "value": 1,
+        "predicate": [],
+        "phase": "applyAEs"
       },
       {
         "key": "FlatModifier",
         "predicate": [],
-        "label": "Inspired Training",
+        "label": "Inspired Order",
         "hideIfDisabled": false,
         "selectors": "save-check",
         "value": 2
       }
     ],
-    "slug": "",
+    "slug": "order-inspired",
     "schema": {
       "version": 0.111,
       "lastMigration": {
@@ -57,7 +63,7 @@
     "duration": {
       "value": 1,
       "unit": "turn-start",
-      "expiry": "turn-start"
+      "expiry": "turn-end"
     },
     "start": {
       "value": 0,
@@ -78,14 +84,17 @@
       "coreVersion": "11.308",
       "systemVersion": "4.0.0.alpha.32"
     },
-    "core": {}
+    "core": {},
+    "ptu": {
+      "showInTokenPanel": true
+    }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1694199255975,
-    "modifiedTime": 1696775548144,
+    "modifiedTime": 1706455595526,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "ownership": {

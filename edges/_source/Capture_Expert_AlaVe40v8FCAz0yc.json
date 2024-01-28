@@ -7,8 +7,16 @@
     "origin": "",
     "effect": "Lower the AC for throwing a Pokeball from AC 4 to AC 3, as well as increasing your Crit Range by 1 when throwing a Pokeball.",
     "snippet": "",
-    "rules": [],
-    "slug": "",
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "hideIfDisabled": false,
+        "selectors": "pokeball-throw",
+        "value": 1
+      }
+    ],
+    "slug": "capture-expert",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -38,10 +46,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1693312299658,
-    "modifiedTime": 1696691582271,
+    "modifiedTime": 1706453593726,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "AlaVe40v8FCAz0yc",

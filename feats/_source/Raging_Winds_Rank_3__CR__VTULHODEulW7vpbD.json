@@ -13,6 +13,315 @@
         "priority": 20,
         "predicate": [],
         "phase": "applyAEs"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move1",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.moves.Item.x6Pk6ClFw3trGL9a",
+            "predicate": {
+              "not": "move:dual-wingbeat"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.avOW8t5qubeyPB2p",
+            "predicate": {
+              "not": "move:air-cutter"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.XFAP16yE2fKZRExS",
+            "predicate": {
+              "not": "move:gust"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.1WQ6vh8cbOaUzhaf",
+            "predicate": {
+              "not": "move:tailwind"
+            }
+          },
+          {
+            "value": "Item.5m5HIbpEBWwn68Ye",
+            "predicate": {
+              "not": "move:wind-dance"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.Zl9s4r9bKURTf07l",
+            "predicate": {
+              "not": "move:air-slash"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.DANp8m02Ocfv3esu",
+            "predicate": {
+              "not": "move:defog"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.etQ46pkobBuyW3Xx",
+            "predicate": {
+              "not": "move:feather-dance"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.wlsVm3f8L7L7r3jV",
+            "predicate": {
+              "not": "move:tempest"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.K0FacvVgLhcFubUs",
+            "predicate": {
+              "not": "move:wind-shear"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.SahvKAgxHSXkU2rv",
+            "predicate": {
+              "not": "move:brave-bird"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.CQtEgSitXIFDpydm",
+            "predicate": {
+              "not": "move:flying-press"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.2GaNyPhBHOu1K85n",
+            "predicate": {
+              "not": "move:mirror-move"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.Vtvj9SpaCa6X7NYK",
+            "predicate": {
+              "not": "move:sky-attack"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.UuIiRIuykuszwDPE",
+            "predicate": {
+              "not": "move:hurricane"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move1}"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move2",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.moves.Item.x6Pk6ClFw3trGL9a",
+            "predicate": {
+              "not": "move:dual-wingbeat"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.avOW8t5qubeyPB2p",
+            "predicate": {
+              "not": "move:air-cutter"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.XFAP16yE2fKZRExS",
+            "predicate": {
+              "not": "move:gust"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.1WQ6vh8cbOaUzhaf",
+            "predicate": {
+              "not": "move:tailwind"
+            }
+          },
+          {
+            "value": "Item.5m5HIbpEBWwn68Ye",
+            "predicate": {
+              "not": "move:wind-dance"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.Zl9s4r9bKURTf07l",
+            "predicate": {
+              "not": "move:air-slash"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.DANp8m02Ocfv3esu",
+            "predicate": {
+              "not": "move:defog"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.etQ46pkobBuyW3Xx",
+            "predicate": {
+              "not": "move:feather-dance"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.wlsVm3f8L7L7r3jV",
+            "predicate": {
+              "not": "move:tempest"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.K0FacvVgLhcFubUs",
+            "predicate": {
+              "not": "move:wind-shear"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.SahvKAgxHSXkU2rv",
+            "predicate": {
+              "not": "move:brave-bird"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.CQtEgSitXIFDpydm",
+            "predicate": {
+              "not": "move:flying-press"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.2GaNyPhBHOu1K85n",
+            "predicate": {
+              "not": "move:mirror-move"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.Vtvj9SpaCa6X7NYK",
+            "predicate": {
+              "not": "move:sky-attack"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.UuIiRIuykuszwDPE",
+            "predicate": {
+              "not": "move:hurricane"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move2}"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move3",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.moves.Item.x6Pk6ClFw3trGL9a",
+            "predicate": {
+              "not": "move:dual-wingbeat"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.avOW8t5qubeyPB2p",
+            "predicate": {
+              "not": "move:air-cutter"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.XFAP16yE2fKZRExS",
+            "predicate": {
+              "not": "move:gust"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.1WQ6vh8cbOaUzhaf",
+            "predicate": {
+              "not": "move:tailwind"
+            }
+          },
+          {
+            "value": "Item.5m5HIbpEBWwn68Ye",
+            "predicate": {
+              "not": "move:wind-dance"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.Zl9s4r9bKURTf07l",
+            "predicate": {
+              "not": "move:air-slash"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.DANp8m02Ocfv3esu",
+            "predicate": {
+              "not": "move:defog"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.etQ46pkobBuyW3Xx",
+            "predicate": {
+              "not": "move:feather-dance"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.wlsVm3f8L7L7r3jV",
+            "predicate": {
+              "not": "move:tempest"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.K0FacvVgLhcFubUs",
+            "predicate": {
+              "not": "move:wind-shear"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.SahvKAgxHSXkU2rv",
+            "predicate": {
+              "not": "move:brave-bird"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.CQtEgSitXIFDpydm",
+            "predicate": {
+              "not": "move:flying-press"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.2GaNyPhBHOu1K85n",
+            "predicate": {
+              "not": "move:mirror-move"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.Vtvj9SpaCa6X7NYK",
+            "predicate": {
+              "not": "move:sky-attack"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.UuIiRIuykuszwDPE",
+            "predicate": {
+              "not": "move:hurricane"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move3}"
       }
     ],
     "slug": "raging-winds-rank-3-cr",
@@ -24,9 +333,7 @@
     "source": {
       "value": "Homebrew"
     },
-    "prerequisites": [
-      "Master Acrobatics or Perception"
-    ],
+    "prerequisites": [],
     "frequency": "Static",
     "tags": "[Ranked 3] [+Speed]",
     "notes": "",
@@ -51,10 +358,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1704194589046,
+    "modifiedTime": 1706453965473,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "VTULHODEulW7vpbD",

@@ -28,6 +28,225 @@
         "priority": 20,
         "predicate": [],
         "phase": "applyAEs"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move1",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.moves.Item.TjyskB7OEbBoJ819",
+            "predicate": {
+              "not": "move:fiery-dance"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.EA2vavVCPlHFLvwf",
+            "predicate": {
+              "not": "move:fire-punch"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.TiIjSQqYprGxlHAZ",
+            "predicate": {
+              "not": "move:fire-spin"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.m01FTVITfrqlu0Kn",
+            "predicate": {
+              "not": "move:flamethrower"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.WpFzl62EYkpKipF5",
+            "predicate": {
+              "not": "move:lava-plume"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.Vj2gQXAHg94lFdNb",
+            "predicate": {
+              "not": "move:blaze-kick"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.eKo8Aq43yTIs1tus",
+            "predicate": {
+              "not": "move:burning-jealousy"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.VxO7N8CbFaW3889w",
+            "predicate": {
+              "not": "move:flare-blitz"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.Z0jlIyTMOL1QXcDb",
+            "predicate": {
+              "not": "move:heat-wave"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.f25cGYvLApdYt14w",
+            "predicate": {
+              "not": "move:inferno"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move1}"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move2",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.moves.Item.TjyskB7OEbBoJ819",
+            "predicate": {
+              "not": "move:fiery-dance"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.EA2vavVCPlHFLvwf",
+            "predicate": {
+              "not": "move:fire-punch"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.TiIjSQqYprGxlHAZ",
+            "predicate": {
+              "not": "move:fire-spin"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.m01FTVITfrqlu0Kn",
+            "predicate": {
+              "not": "move:flamethrower"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.WpFzl62EYkpKipF5",
+            "predicate": {
+              "not": "move:lava-plume"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.Vj2gQXAHg94lFdNb",
+            "predicate": {
+              "not": "move:blaze-kick"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.eKo8Aq43yTIs1tus",
+            "predicate": {
+              "not": "move:burning-jealousy"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.VxO7N8CbFaW3889w",
+            "predicate": {
+              "not": "move:flare-blitz"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.Z0jlIyTMOL1QXcDb",
+            "predicate": {
+              "not": "move:heat-wave"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.f25cGYvLApdYt14w",
+            "predicate": {
+              "not": "move:inferno"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move2}"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move3",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.moves.Item.TjyskB7OEbBoJ819",
+            "predicate": {
+              "not": "move:fiery-dance"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.EA2vavVCPlHFLvwf",
+            "predicate": {
+              "not": "move:fire-punch"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.TiIjSQqYprGxlHAZ",
+            "predicate": {
+              "not": "move:fire-spin"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.m01FTVITfrqlu0Kn",
+            "predicate": {
+              "not": "move:flamethrower"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.WpFzl62EYkpKipF5",
+            "predicate": {
+              "not": "move:lava-plume"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.Vj2gQXAHg94lFdNb",
+            "predicate": {
+              "not": "move:blaze-kick"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.eKo8Aq43yTIs1tus",
+            "predicate": {
+              "not": "move:burning-jealousy"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.VxO7N8CbFaW3889w",
+            "predicate": {
+              "not": "move:flare-blitz"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.Z0jlIyTMOL1QXcDb",
+            "predicate": {
+              "not": "move:heat-wave"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.f25cGYvLApdYt14w",
+            "predicate": {
+              "not": "move:inferno"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move3}"
       }
     ],
     "slug": "fire-breather-rank-2-cr",
@@ -66,10 +285,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.1",
+    "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1704194589046,
+    "modifiedTime": 1706454288000,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "9szn6GwuOeJkDNBv",
