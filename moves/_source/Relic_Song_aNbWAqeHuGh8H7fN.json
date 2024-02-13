@@ -8,7 +8,7 @@
     "effect": "All legal targets fall Asleep on 16+. As long as Meloetta knows Relic Song, it may change between Aria Form and Step Form as a Swift Action when using Relic Song or as a Standard Action otherwise. Both Aria and Step Form must be statted with the same HP Stat.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "relic-song",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -32,9 +32,9 @@
     "strongJaw": false,
     "type": "Normal",
     "category": "Special",
-    "damageBase": 8,
+    "damageBase": "8",
     "frequency": "Scene",
-    "ac": 2,
+    "ac": "2",
     "range": "Burst 3",
     "contestType": "Beauty - Excitement",
     "stab": false,
@@ -49,13 +49,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707815126463,
+    "modifiedTime": 1707830515479,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!aNbWAqeHuGh8H7fN"

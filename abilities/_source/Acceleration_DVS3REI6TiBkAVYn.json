@@ -6,7 +6,17 @@
     "origin": "",
     "effect": "All Priority moves DB are increased by 2.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [
+          "move:priority"
+        ],
+        "hideIfDisabled": false,
+        "selectors": "damage-base",
+        "value": 2
+      }
+    ],
     "slug": "acceleration",
     "schema": {
       "version": 0.11,
@@ -40,7 +50,7 @@
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1707829615817,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!DVS3REI6TiBkAVYn"

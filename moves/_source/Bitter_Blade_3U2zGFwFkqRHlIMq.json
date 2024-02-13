@@ -8,7 +8,7 @@
     "effect": "After the target takes damage, the user gains HP equal to half of the damage they dealt to the target.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "bitter-blade",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -19,7 +19,8 @@
     },
     "stackSlugs": false,
     "keywords": [
-      "Target 1"
+      "Target 1",
+      "Slice"
     ],
     "sheerForce": false,
     "toughClaws": false,
@@ -48,13 +49,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707815182675,
+    "modifiedTime": 1707828180572,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!3U2zGFwFkqRHlIMq"

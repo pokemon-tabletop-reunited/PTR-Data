@@ -8,7 +8,7 @@
     "effect": "Heat Wave Burns all Legal Targets on 18+.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "heat-wave",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -19,7 +19,8 @@
     },
     "stackSlugs": false,
     "keywords": [
-      "Smite"
+      "Smite",
+      "Wind"
     ],
     "sheerForce": false,
     "toughClaws": false,
@@ -31,9 +32,9 @@
     "strongJaw": false,
     "type": "Fire",
     "category": "Special",
-    "damageBase": 10,
+    "damageBase": "10",
     "frequency": "Scene x2",
-    "ac": 4,
+    "ac": "4",
     "range": "Close Blast 3",
     "contestType": "Beauty - Exhausting Act",
     "stab": false,
@@ -48,13 +49,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707815126463,
+    "modifiedTime": 1707849171455,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Z0jlIyTMOL1QXcDb"

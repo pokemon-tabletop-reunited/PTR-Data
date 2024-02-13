@@ -8,7 +8,7 @@
     "effect": "All targets are pushed X meters, where X is 8 minus their weight class. If the Line targets into a Smokescreen, the smoke is dispersed. All hazards in the Whirlwind are destroyed.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "whirlwind",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -18,7 +18,9 @@
       "value": "PTR Compendiums"
     },
     "stackSlugs": false,
-    "keywords": [],
+    "keywords": [
+      "Wind"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -31,7 +33,7 @@
     "category": "Status",
     "damageBase": "--",
     "frequency": "Scene x2",
-    "ac": 2,
+    "ac": "2",
     "range": "Line 6",
     "contestType": "Smart - Big Show",
     "stab": false,
@@ -46,13 +48,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707761817661,
+    "modifiedTime": 1707849267623,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!DCD0giVPub7Agz5U"

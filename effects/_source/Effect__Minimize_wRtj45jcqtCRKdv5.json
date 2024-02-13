@@ -35,10 +35,6 @@
       {
         "key": "TokenImage",
         "scale": 0.6
-      },
-      {
-        "key": "RollOption",
-        "option": "condition:cannot-attack"
       }
     ],
     "slug": "effect-minimize",
@@ -57,6 +53,8 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": true,
+    "keywords": [],
     "level": {
       "value": 1
     },
@@ -74,8 +72,7 @@
       "show": true
     },
     "badge": null,
-    "context": null,
-    "stackSlugs": true
+    "context": null
   },
   "effects": [],
   "ownership": {
@@ -90,10 +87,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1694687463422,
-    "modifiedTime": 1706462023257,
+    "modifiedTime": 1707827614481,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "wRtj45jcqtCRKdv5",

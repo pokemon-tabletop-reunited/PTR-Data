@@ -130,7 +130,7 @@
         "mode": "add",
         "path": "system.modifiers.resistanceSteps.mod",
         "phase": "applyAEs",
-        "value": 0.5
+        "value": 1
       }
     ],
     "slug": "effect-hardened",
@@ -142,6 +142,8 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "level": {
       "value": 1
     },
@@ -175,10 +177,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.14",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1695907824371,
-    "modifiedTime": 1706114813247,
+    "modifiedTime": 1707832614561,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "ed6GkfPq9AmYTTnf",

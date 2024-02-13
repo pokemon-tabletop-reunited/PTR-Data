@@ -7,7 +7,7 @@
     "effect": "Allies within 2m of the user gain a +5 bonus to damage rolls.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "power-spot",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -30,13 +30,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1707829329371,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!HLf20bk1RZXORlmp"

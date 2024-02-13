@@ -8,7 +8,7 @@
     "effect": "Air Cutter is a Critical Hit on 18+.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "air-cutter",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -18,7 +18,10 @@
       "value": "PTR Compendiums"
     },
     "stackSlugs": false,
-    "keywords": [],
+    "keywords": [
+      "Slice",
+      "Wind"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -29,9 +32,9 @@
     "strongJaw": false,
     "type": "Flying",
     "category": "Special",
-    "damageBase": 6,
+    "damageBase": "6",
     "frequency": "At-Will",
-    "ac": 2,
+    "ac": "2",
     "range": "Cone 2",
     "contestType": "Cool - Steady Performance",
     "stab": false,
@@ -46,13 +49,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707761817661,
+    "modifiedTime": 1707849140940,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!avOW8t5qubeyPB2p"

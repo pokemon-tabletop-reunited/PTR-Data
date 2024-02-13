@@ -2,10 +2,10 @@
   "name": "Repeat Ball",
   "system": {
     "origin": "",
-    "effect": "-20 Modifier if you already own a Pokémon of the target’s species.",
+    "effect": "-25 Modifier if you already own a Pokémon of the target’s species.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "repeat-ball",
     "schema": {
       "version": 0.11,
       "lastMigration": {
@@ -33,7 +33,8 @@
     "container": false,
     "automation": [],
     "name": "Repeat Ball",
-    "useCount": 0
+    "useCount": 0,
+    "modifier": null
   },
   "type": "item",
   "img": "systems/ptu/images/item_icons/repeat ball.webp",
@@ -42,13 +43,17 @@
     "default": 0,
     "DsHOL7PqMABKgssN": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1683368792662,
-    "modifiedTime": 1707755855042,
+    "modifiedTime": 1707827791171,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

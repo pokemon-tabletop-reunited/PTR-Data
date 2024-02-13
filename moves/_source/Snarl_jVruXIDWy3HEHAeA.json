@@ -8,7 +8,7 @@
     "effect": "Lower the Special Attack of all legal targets by 1 Combat Stage.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "snarl",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -31,9 +31,9 @@
     "strongJaw": false,
     "type": "Dark",
     "category": "Special",
-    "damageBase": 6,
+    "damageBase": "6",
     "frequency": "EOT",
-    "ac": 3,
+    "ac": "3",
     "range": "Cone 2",
     "contestType": "Cute - Excitement",
     "stab": false,
@@ -48,13 +48,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707815126463,
+    "modifiedTime": 1707830484614,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!jVruXIDWy3HEHAeA"

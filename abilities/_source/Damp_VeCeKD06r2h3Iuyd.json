@@ -7,7 +7,7 @@
     "effect": "Whenever anyone within 10 meters would use the Moves Self-Destruct, Explosion or Mind Blown, or activate the Aftermath ability, those effects fail and instead do nothing. The user gains a +1d10 Bonus to Damage Rolls with Water-Typed Moves.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "damp",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -30,13 +30,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1707843948748,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!VeCeKD06r2h3Iuyd"

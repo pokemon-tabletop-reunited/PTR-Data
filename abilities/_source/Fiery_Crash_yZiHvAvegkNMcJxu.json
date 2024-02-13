@@ -10,7 +10,7 @@
       {
         "key": "FlatModifier",
         "predicate": [
-          "move:range:dash"
+          "move:dash"
         ],
         "hideIfDisabled": false,
         "selectors": "damage-base",
@@ -50,7 +50,7 @@
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1707829367965,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!yZiHvAvegkNMcJxu"

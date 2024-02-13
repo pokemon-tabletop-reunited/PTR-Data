@@ -8,7 +8,7 @@
     "effect": "--",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "origin-pulse",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -19,7 +19,8 @@
     },
     "stackSlugs": false,
     "keywords": [
-      "Smite"
+      "Smite",
+      "Aura"
     ],
     "sheerForce": false,
     "toughClaws": false,
@@ -31,9 +32,9 @@
     "strongJaw": false,
     "type": "Water",
     "category": "Special",
-    "damageBase": 12,
+    "damageBase": "12",
     "frequency": "Scene x2",
-    "ac": 5,
+    "ac": "5",
     "range": "Close Blast 3",
     "contestType": "Beauty - Desperation",
     "stab": false,
@@ -48,13 +49,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707815126463,
+    "modifiedTime": 1707829829704,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!MwYnjuNCXSrSVPV7"

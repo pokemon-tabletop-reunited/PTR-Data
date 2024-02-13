@@ -8,7 +8,7 @@
     "effect": "Restores 50% of the target's max Hit Points. Heal Pulse's user may not target itself with Heal Pulse.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "heal-pulse",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -50,13 +50,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707816395131,
+    "modifiedTime": 1707829914863,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!nqcLxXATvTYyFTCs"

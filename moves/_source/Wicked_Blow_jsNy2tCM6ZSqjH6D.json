@@ -8,7 +8,7 @@
     "effect": "If Wicked Blow hits, it is a Critical Hit. The target is Pushed 6 meters minus their Weight Class. On a roll of 15+, the target is also Tripped.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "wicked-blow",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -20,7 +20,8 @@
     "stackSlugs": false,
     "keywords": [
       "Target 1",
-      "Push"
+      "Push",
+      "Punch"
     ],
     "sheerForce": false,
     "toughClaws": false,
@@ -32,9 +33,9 @@
     "strongJaw": false,
     "type": "Dark",
     "category": "Physical",
-    "damageBase": 8,
+    "damageBase": "8",
     "frequency": "EOT",
-    "ac": 2,
+    "ac": "2",
     "range": "Melee",
     "contestType": "Tough - Steady Performance",
     "stab": false,
@@ -49,13 +50,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707815182675,
+    "modifiedTime": 1707830355367,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!jsNy2tCM6ZSqjH6D"

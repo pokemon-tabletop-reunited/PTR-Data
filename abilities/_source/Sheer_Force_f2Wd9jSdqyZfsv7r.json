@@ -7,7 +7,7 @@
     "effect": "Moves with an Effect Range gain a +10 Bonus to Damage, but Effect Ranges can never be triggered.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "sheer-force",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -30,13 +30,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1707829409096,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!f2Wd9jSdqyZfsv7r"

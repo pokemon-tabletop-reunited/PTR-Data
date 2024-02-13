@@ -8,7 +8,7 @@
     "effect": "If the user is under the effects of a Terrain, Terrain Pulse has a Damage Base of 10 (3d8+10 / 24). In addition, Terrain Pulse becomes the Type that corresponds with the Move that creates that Terrain. (For example, if in Misty Terrain, it would become Fairy Type.) If the user is under the effects of multiple Terrains, choose one to affect this Move.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "terrain-pulse",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -18,7 +18,9 @@
       "value": "PTR Compendiums"
     },
     "stackSlugs": false,
-    "keywords": [],
+    "keywords": [
+      "Aura"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -29,9 +31,9 @@
     "strongJaw": false,
     "type": "Normal",
     "category": "Special",
-    "damageBase": 5,
+    "damageBase": "5",
     "frequency": "EOT",
-    "ac": 2,
+    "ac": "2",
     "range": "Close Blast 3",
     "contestType": "Cool - Reflective Appeal",
     "stab": false,
@@ -46,13 +48,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707761817661,
+    "modifiedTime": 1707829819716,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!AXMNhbrXPIaoOCyl"
