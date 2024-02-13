@@ -14,12 +14,15 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Orders"
+    ],
     "prerequisites": [
       "Master Command",
       "Expert Focus or Guile or Intimidate or Pokémon Education"
     ],
     "frequency": "At-Will - Standard Action + Swift Action",
-    "tags": "[Orders]",
     "notes": "",
     "free": false,
     "class": "",
@@ -45,10 +48,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368079070,
-    "modifiedTime": 1696759738915,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

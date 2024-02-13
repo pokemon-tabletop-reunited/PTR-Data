@@ -14,11 +14,12 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "prerequisites": [
       "Smart Scheme Rank 1"
     ],
     "frequency": "Daily x3 – Free Action",
-    "tags": "-",
     "notes": "",
     "free": false,
     "class": "Style Expert (Smart)",
@@ -43,10 +44,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368079288,
-    "modifiedTime": 1696691567516,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

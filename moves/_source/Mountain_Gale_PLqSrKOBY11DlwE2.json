@@ -17,6 +17,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Target 1"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "10",
     "frequency": "Scene x2",
     "ac": "5",
-    "range": "5, 1 Target",
+    "range": "Range 5",
     "contestType": "Cool - Sabotage",
     "stab": false,
     "damageBonus": 0,
@@ -51,11 +55,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1699631509466,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707816250828,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!PLqSrKOBY11DlwE2"
 }

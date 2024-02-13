@@ -35,11 +35,14 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+Speed"
+    ],
     "prerequisites": [
       "Warper"
     ],
     "frequency": "Static",
-    "tags": "[+Speed]",
     "notes": "",
     "free": false,
     "class": "Warper",
@@ -64,10 +67,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1683368079166,
-    "modifiedTime": 1706454288000,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

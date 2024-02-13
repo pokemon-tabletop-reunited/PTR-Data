@@ -24,12 +24,15 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+Speed"
+    ],
     "prerequisites": [
       "Nomad",
       "Adept Focus"
     ],
     "frequency": "2x Scene - Swift Action",
-    "tags": "[+Speed]",
     "notes": "",
     "free": false,
     "class": "Nomad"
@@ -50,10 +53,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1695153306800,
-    "modifiedTime": 1706454288000,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "0EMIquyVWV2HLAQ3",

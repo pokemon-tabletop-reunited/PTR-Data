@@ -23,12 +23,15 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+HP"
+    ],
     "prerequisites": [
       "Athlete",
       "Expert Athletics"
     ],
     "frequency": "Daily x3 - Free Action",
-    "tags": "[+HP]",
     "notes": "",
     "free": false,
     "class": "Athlete",
@@ -54,10 +57,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.release-candidate.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368078827,
-    "modifiedTime": 1699268820240,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

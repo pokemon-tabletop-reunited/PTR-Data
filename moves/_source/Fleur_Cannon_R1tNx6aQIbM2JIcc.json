@@ -17,6 +17,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Smite"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": 13,
     "frequency": "Scene",
     "ac": 4,
-    "range": "Line 9, Smite",
+    "range": "Line 9",
     "contestType": "Beauty - Seen Nothing Yet",
     "stab": false,
     "damageBonus": 0,
@@ -47,11 +51,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1697513698449,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707815126463,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!R1tNx6aQIbM2JIcc"
 }

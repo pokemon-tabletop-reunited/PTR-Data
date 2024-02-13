@@ -17,6 +17,11 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Friendly",
+      "Sonic"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +35,7 @@
     "damageBase": "--",
     "frequency": "EOT",
     "ac": "4",
-    "range": "Burst 2, Friendly, Sonic",
+    "range": "Burst 2",
     "contestType": "Smart - Unsettling",
     "stab": false,
     "damageBonus": 0,
@@ -51,11 +56,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1698280199361,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707815126463,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!TD9T2QEalKGQZicp"
 }

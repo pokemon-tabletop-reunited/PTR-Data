@@ -14,12 +14,15 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+Special Attack or Attack"
+    ],
     "prerequisites": [
       "Fire Bringer",
       "Adept Focus or Combat"
     ],
     "frequency": "Static",
-    "tags": "[+Special Attack or Attack]",
     "notes": "",
     "free": false,
     "class": "Fire Bringer",
@@ -44,10 +47,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368078917,
-    "modifiedTime": 1696691567516,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

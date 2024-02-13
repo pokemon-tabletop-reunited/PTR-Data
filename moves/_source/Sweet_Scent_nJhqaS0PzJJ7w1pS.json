@@ -17,6 +17,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Friendly"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "--",
     "frequency": "Scene",
     "ac": "2",
-    "range": "Burst 2, Friendly",
+    "range": "Burst 2",
     "contestType": "Cute - Excitement",
     "stab": false,
     "damageBonus": 0,
@@ -51,11 +55,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1698110577797,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707815126463,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!nJhqaS0PzJJ7w1pS"
 }

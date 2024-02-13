@@ -29,11 +29,14 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+HP"
+    ],
     "prerequisites": [
       "Staying Power"
     ],
     "frequency": "At-Will - Extended Action",
-    "tags": "[+HP]",
     "notes": "",
     "free": false,
     "class": "Enduring Soul",
@@ -59,11 +62,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368078992,
-    "modifiedTime": 1699657788798,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707818613949,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
   "sort": 29900000,

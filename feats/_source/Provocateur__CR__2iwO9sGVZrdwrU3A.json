@@ -24,13 +24,19 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Class",
+      "+Speed",
+      "Playtest",
+      "Class Rework"
+    ],
     "prerequisites": [
       "One of Confidence Artist",
       "Intimidating Presence",
       "or Charmer"
     ],
     "frequency": "Static",
-    "tags": "[Class] [+Speed]",
     "notes": "",
     "free": false,
     "class": "Provocateur [CR]",
@@ -50,10 +56,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1704194589046,
+    "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!2iwO9sGVZrdwrU3A"

@@ -14,6 +14,11 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Class",
+      "Branch"
+    ],
     "prerequisites": [
       "All A or B options",
       "A: 2 Different Pokémon of the chosen Type",
@@ -23,7 +28,6 @@
       "B: Type-Linked Skill at Novice"
     ],
     "frequency": "At-Will - Extended Action",
-    "tags": "[Class][Branch]",
     "notes": "",
     "free": false,
     "class": "",
@@ -49,10 +53,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368079248,
-    "modifiedTime": 1705331759002,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

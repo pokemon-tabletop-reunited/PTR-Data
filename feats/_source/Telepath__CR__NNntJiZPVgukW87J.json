@@ -24,13 +24,19 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Class",
+      "+Special Defense",
+      "Playtest",
+      "Class Rework"
+    ],
     "prerequisites": [
       "Elemental Connection (Psychic)",
       "Iron Mind",
       "Novice Intuition"
     ],
     "frequency": "Bind 2 AP – Swift Action",
-    "tags": "[Class] [+Special Defense]",
     "notes": "",
     "free": false,
     "class": "Telepath [CR]",
@@ -50,10 +56,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1704194589046,
+    "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!NNntJiZPVgukW87J"

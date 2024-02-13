@@ -11,9 +11,9 @@
       {
         "key": "ApplyEffect",
         "predicate": [],
-        "selectors": "damage-received",
+        "selectors": "{item|id}-damage-received",
         "uuid": "Compendium.ptu.effects.Item.xE6uIFWZoYXAZQxA",
-        "range": "15",
+        "range": "Range 15",
         "value": "",
         "affects": "target"
       }
@@ -27,6 +27,11 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Dash",
+      "Target 1"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -40,13 +45,12 @@
     "damageBase": "8",
     "frequency": "EOT",
     "ac": "4",
-    "range": "Melee, 1 Target, Dash",
+    "range": "Melee",
     "contestType": "Beauty - Desperation",
     "stab": false,
     "damageBonus": 0,
     "isStruggle": false,
-    "automation": [],
-    "stackSlugs": false
+    "automation": []
   },
   "_id": "bbYMsmddMV20isEx",
   "effects": [],
@@ -62,10 +66,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1706461858647,
+    "modifiedTime": 1707823304602,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!bbYMsmddMV20isEx"

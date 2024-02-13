@@ -14,11 +14,16 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Orders",
+      "Playtest",
+      "Class Rework"
+    ],
     "prerequisites": [
       "Ravager Orders"
     ],
     "frequency": "Scene - Standard Action",
-    "tags": "[Orders]",
     "notes": "",
     "free": false,
     "class": "",
@@ -46,10 +51,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368078960,
-    "modifiedTime": 1700229295453,
+    "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": "99i7IqV920YvWab8",

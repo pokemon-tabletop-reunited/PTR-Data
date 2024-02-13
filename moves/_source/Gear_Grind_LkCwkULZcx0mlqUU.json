@@ -17,6 +17,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Double Strike"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "5",
     "frequency": "EOT",
     "ac": "3",
-    "range": "Melee, 1 Target, Double Strike",
+    "range": "Melee",
     "contestType": "Cool - Reliable",
     "stab": false,
     "damageBonus": 0,
@@ -51,11 +55,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1698109931917,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707825851263,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!LkCwkULZcx0mlqUU"
 }

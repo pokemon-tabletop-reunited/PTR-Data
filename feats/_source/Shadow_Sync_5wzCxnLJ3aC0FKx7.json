@@ -18,11 +18,15 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Malfeasance Research Field",
+      "Branch"
+    ],
     "prerequisites": [
       "Novice Technology Education"
     ],
     "frequency": "At Will - Extended Action",
-    "tags": "[Malfeasance Research Field][Branch]",
     "notes": "",
     "free": false,
     "class": "Researcher (Malfeasance)"
@@ -41,10 +45,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1697668211147,
-    "modifiedTime": 1700226845749,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!5wzCxnLJ3aC0FKx7"

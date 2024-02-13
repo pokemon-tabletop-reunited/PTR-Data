@@ -17,6 +17,11 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Social",
+      "Target 1"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +35,7 @@
     "damageBase": "--",
     "frequency": "At-Will",
     "ac": "2",
-    "range": "6, 1 Target, Social",
+    "range": "Range 6",
     "contestType": "Smart - Excitement",
     "stab": false,
     "damageBonus": 0,
@@ -51,10 +56,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.release-candidate.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1699268444611,
+    "modifiedTime": 1707824227270,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!3IoUOnJtp47ClxG4"

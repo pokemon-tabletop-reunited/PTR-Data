@@ -14,11 +14,15 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Orders",
+      "Stratagem"
+    ],
     "prerequisites": [
       "Ravager Orders"
     ],
     "frequency": "Bind 2 AP – Standard Action",
-    "tags": "[Orders][Stratagem]",
     "notes": "",
     "free": false,
     "class": "",
@@ -44,10 +48,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368079031,
-    "modifiedTime": 1705331969861,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

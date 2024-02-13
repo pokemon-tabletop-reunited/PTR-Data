@@ -17,12 +17,15 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+HP"
+    ],
     "prerequisites": [
       "Three Friendship 4 Pokemon",
       "Any Adept Spirit Skill or Intimidate"
     ],
     "frequency": "1 AP - Extended Action",
-    "tags": "[+HP]",
     "notes": "",
     "free": false,
     "class": ""
@@ -42,10 +45,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1694145967479,
-    "modifiedTime": 1696691567516,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "IEYs9kNvy1ZZvcav",

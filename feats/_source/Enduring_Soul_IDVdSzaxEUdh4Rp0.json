@@ -23,11 +23,15 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Class",
+      "+HP"
+    ],
     "prerequisites": [
       "Novice Athletics and Focus"
     ],
     "frequency": "Static",
-    "tags": "[Class] [+HP]",
     "notes": "",
     "free": false,
     "class": "",
@@ -53,11 +57,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368079037,
-    "modifiedTime": 1699657025804,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707818613949,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
   "sort": 19200000,

@@ -23,11 +23,14 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+Speed"
+    ],
     "prerequisites": [
       "Advanced Capture Techniques Rank 2"
     ],
     "frequency": "At-Will - Free Action",
-    "tags": "[+Speed]",
     "notes": "",
     "free": false,
     "class": "Capture Specialist",
@@ -53,10 +56,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1683368081756,
-    "modifiedTime": 1706453991745,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

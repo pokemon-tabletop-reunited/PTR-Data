@@ -8,7 +8,7 @@
     "effect": "After attacking with Tripel Axel, hit or miss, the user may Disengage 2m and attack a different target with Triple Axel. This effect may be repeated a second time, targeting a creature that has not been targeted by either prior attack. Before making each attack roll, the user can elect to give up triggering all remaining additional shifts and attacks. Triple Axel gains 1 Accuracy and 1 Damage Base for each attack that is given up. Triple Axel always benefits from the Technician Ability.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "triple-axel",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -17,6 +17,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Target 1"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -27,10 +31,10 @@
     "strongJaw": false,
     "type": "Ice",
     "category": "Physical",
-    "damageBase": 6,
+    "damageBase": "6",
     "frequency": "EOT",
-    "ac": 4,
-    "range": "Melee, 1 Target",
+    "ac": "4",
+    "range": "Melee",
     "contestType": "Cool - Special Attention",
     "stab": false,
     "damageBonus": 0,
@@ -44,14 +48,18 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1697513698449,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707823352525,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!01QnwPWHk19nC3bz"
 }

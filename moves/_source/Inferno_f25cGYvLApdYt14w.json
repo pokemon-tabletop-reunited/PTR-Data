@@ -13,7 +13,7 @@
         "predicate": [],
         "selectors": "{item|id}-damage-received",
         "uuid": "Compendium.ptu.effects.Item.NA1Vn8A2h6JIIUhj",
-        "range": "1",
+        "range": "Range 1",
         "value": "",
         "affects": "target"
       }
@@ -27,6 +27,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Target 1"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -40,13 +44,12 @@
     "damageBase": "10",
     "frequency": "At-Will",
     "ac": "9",
-    "range": "6, 1 Target",
+    "range": "Range 6",
     "contestType": "Beauty - Steady Performance",
     "stab": false,
     "damageBonus": 0,
     "isStruggle": false,
-    "automation": [],
-    "stackSlugs": false
+    "automation": []
   },
   "_id": "f25cGYvLApdYt14w",
   "effects": [],
@@ -62,10 +65,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1706462523323,
+    "modifiedTime": 1707816395131,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!f25cGYvLApdYt14w"

@@ -17,6 +17,10 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Target 2"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "6",
     "frequency": "Scene x2",
     "ac": "4",
-    "range": "WR, 2 Targets",
+    "range": "WR",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -54,10 +58,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.2",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1699701779793,
-    "modifiedTime": 1699789440607,
+    "modifiedTime": 1707822677254,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "9m8HrDwvIQ4zwsUW",

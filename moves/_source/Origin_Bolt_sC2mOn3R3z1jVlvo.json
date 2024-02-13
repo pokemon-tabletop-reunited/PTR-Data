@@ -17,6 +17,11 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Target 1",
+      "Smite"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +35,7 @@
     "damageBase": "10",
     "frequency": "Scene x2",
     "ac": "2",
-    "range": "8, 1 Target, Smite",
+    "range": "Range 8",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -50,10 +55,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1700092880072,
-    "modifiedTime": 1700226594433,
+    "modifiedTime": 1707816395131,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "sC2mOn3R3z1jVlvo",

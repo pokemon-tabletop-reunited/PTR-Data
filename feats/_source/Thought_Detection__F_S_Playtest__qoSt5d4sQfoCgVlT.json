@@ -21,11 +21,16 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+Special Defense",
+      "Playtest",
+      "F&S"
+    ],
     "prerequisites": [
       "Telepathic Awareness"
     ],
     "frequency": "Scene - Standard Action",
-    "tags": "[+Special Defense]",
     "notes": "",
     "free": false,
     "class": "Telepath [F&S Playtest]",
@@ -51,10 +56,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368079163,
-    "modifiedTime": 1696691567516,
+    "modifiedTime": 1707827204534,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": "NlEB7XJnDWyGbZnQ",

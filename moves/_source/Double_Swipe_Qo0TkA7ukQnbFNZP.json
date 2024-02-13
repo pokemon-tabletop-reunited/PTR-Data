@@ -17,6 +17,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Double Strike"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "4",
     "frequency": "EOT",
     "ac": "2",
-    "range": "WR, 2 Targets; or WR, 1 Target, Double Strike",
+    "range": "WR",
     "contestType": "--",
     "stab": false,
     "damageBonus": 0,
@@ -51,11 +55,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1699653771685,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707816250828,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Qo0TkA7ukQnbFNZP"
 }

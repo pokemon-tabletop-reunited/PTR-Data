@@ -18,7 +18,7 @@
         "uuid": "Compendium.ptu.feats.Item.XyTgHDfEwN0LtoFv"
       }
     ],
-    "slug": null,
+    "slug": "ravager-orders",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -27,11 +27,12 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "prerequisites": [
       "Expert Command or Intimidate"
     ],
     "frequency": "Static",
-    "tags": "-",
     "notes": "",
     "free": false,
     "class": "",
@@ -51,15 +52,16 @@
       "sourceId": "Compendium.ptu.feats.FzXwymbJdrXtYPeR"
     },
     "ptu": {
-      "prereqBackup": "Expert Command or Intimidate"
+      "prereqBackup": "Expert Command or Intimidate",
+      "showInTokenPanel": true
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368079131,
-    "modifiedTime": 1696691567516,
+    "modifiedTime": 1707827284152,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

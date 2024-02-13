@@ -16,6 +16,11 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Pass",
+      "Dash"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -29,7 +34,7 @@
     "damageBase": "3",
     "frequency": "At-Will",
     "ac": "4",
-    "range": "Melee, Pass, Dash",
+    "range": "Melee",
     "contestType": "Cool - Big Show",
     "stab": false,
     "damageBonus": 0,
@@ -51,11 +56,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1693119119587,
-    "modifiedTime": 1697515230631,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707815126463,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!He1H4l9py8OcGKHs"
 }

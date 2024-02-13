@@ -468,7 +468,7 @@
         "type": "body"
       }
     },
-    "slug": "",
+    "slug": "dungeon",
     "rules": [],
     "type": {
       "0": "Ground",
@@ -476,7 +476,9 @@
     },
     "source": {
       "value": "PTR Exclusive Dex"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "effects": [],
   "ownership": {
@@ -495,10 +497,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.4",
-    "coreVersion": "11.315",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1694013232936,
-    "modifiedTime": 1700245753955,
+    "modifiedTime": 1707761842946,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "U3wajsyQAAgVpTw4",

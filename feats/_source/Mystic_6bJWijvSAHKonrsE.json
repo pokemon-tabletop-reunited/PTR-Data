@@ -17,12 +17,15 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Class"
+    ],
     "prerequisites": [
       "Adept Intuition and Novice Pokémon Education",
       "or Mystic Senses"
     ],
     "frequency": "Static",
-    "tags": "[Class]",
     "notes": "",
     "free": false,
     "class": ""
@@ -42,10 +45,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1694149224754,
-    "modifiedTime": 1706453116836,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "6bJWijvSAHKonrsE",

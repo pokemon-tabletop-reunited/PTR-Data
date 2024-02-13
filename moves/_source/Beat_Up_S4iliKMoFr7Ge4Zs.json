@@ -17,6 +17,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Target 1"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "See Effect",
     "frequency": "EOT",
     "ac": "--",
-    "range": "Melee, 1 Target",
+    "range": "Melee",
     "contestType": "Smart - Reliable",
     "stab": false,
     "damageBonus": 0,
@@ -51,10 +55,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1706455077485,
+    "modifiedTime": 1707815182675,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!S4iliKMoFr7Ge4Zs"

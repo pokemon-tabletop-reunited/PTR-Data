@@ -17,6 +17,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Smite"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "25",
     "frequency": "Daily",
     "ac": "2",
-    "range": "Burst 3, Smite",
+    "range": "Burst 3",
     "contestType": "Beauty - Big Show",
     "stab": false,
     "damageBonus": 0,
@@ -52,10 +56,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.14",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1706121445013,
+    "modifiedTime": 1707815126463,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "kUP8Q61AlJVMSbMb",

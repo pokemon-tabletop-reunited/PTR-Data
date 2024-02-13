@@ -25,11 +25,14 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "General"
+    ],
     "prerequisites": [
       "Novice Pokemon Education"
     ],
     "frequency": "Static",
-    "tags": "[General]",
     "notes": "",
     "free": false,
     "class": "",
@@ -50,10 +53,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1693313936720,
-    "modifiedTime": 1705331344974,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "vabusVvoCI8AWfsn",

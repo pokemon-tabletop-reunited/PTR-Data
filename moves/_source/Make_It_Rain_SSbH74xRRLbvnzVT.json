@@ -17,6 +17,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Smite"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "12",
     "frequency": "Daily",
     "ac": "2",
-    "range": "4, Ranged Blast 2, Smite",
+    "range": "Range 4, Ranged Blast 2",
     "contestType": "Tough - Reliable",
     "stab": false,
     "damageBonus": 0,
@@ -51,11 +55,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1699491215739,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707824065447,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!SSbH74xRRLbvnzVT"
 }

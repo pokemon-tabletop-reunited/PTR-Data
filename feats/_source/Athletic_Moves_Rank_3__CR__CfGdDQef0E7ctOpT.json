@@ -14,13 +14,17 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Playtest",
+      "Class Rework"
+    ],
     "prerequisites": [
       "Athlete",
       "Master Athletics",
       "Athletic Moves Rank 2"
     ],
     "frequency": "Static",
-    "tags": "",
     "notes": "",
     "free": false,
     "class": "Athlete [CR]",
@@ -43,10 +47,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1704194589046,
+    "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "CfGdDQef0E7ctOpT",

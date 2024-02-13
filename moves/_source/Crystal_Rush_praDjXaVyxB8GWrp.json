@@ -17,6 +17,11 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Priority",
+      "Target 1"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +35,7 @@
     "damageBase": "5",
     "frequency": "Scene",
     "ac": "2",
-    "range": "Melee, 1 Target, Priority",
+    "range": "Melee",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -49,11 +54,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1696782936328,
-    "modifiedTime": 1699631948546,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707823304602,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "praDjXaVyxB8GWrp",
   "sort": 0,

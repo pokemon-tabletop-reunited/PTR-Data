@@ -349,16 +349,20 @@
         "key": "ActiveEffectLike",
         "mode": "add",
         "value": 2,
-        "path": "system.skills.{item|flags.ptu.rulesSelections.skillEnhancement1}.modifier.mod"
+        "path": "system.skills.{item|flags.ptu.rulesSelections.skillEnhancement1}.modifier.mod",
+        "predicate": [],
+        "phase": "applyAEs"
       },
       {
         "key": "ActiveEffectLike",
         "mode": "add",
         "value": 2,
-        "path": "system.skills.{item|flags.ptu.rulesSelections.skillEnhancement2}.modifier.mod"
+        "path": "system.skills.{item|flags.ptu.rulesSelections.skillEnhancement2}.modifier.mod",
+        "predicate": [],
+        "phase": "applyAEs"
       }
     ],
-    "slug": "",
+    "slug": "skill-enhancement",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -367,9 +371,11 @@
     "source": {
       "value": "PTR Compendiums"
     },
-    "prerequisites": [
-      "-"
+    "stackSlugs": false,
+    "keywords": [
+      "Skill"
     ],
+    "prerequisites": [],
     "notes": "",
     "free": false,
     "name": "Skill Enhancement",
@@ -389,10 +395,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683367953767,
-    "modifiedTime": 1696691582271,
+    "modifiedTime": 1707826198795,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

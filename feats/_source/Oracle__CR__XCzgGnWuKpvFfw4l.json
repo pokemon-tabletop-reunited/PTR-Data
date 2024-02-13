@@ -24,12 +24,18 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Class",
+      "+Special Defense",
+      "Playtest",
+      "Class Rework"
+    ],
     "prerequisites": [
       "Mystic Senses",
       "Novice Perception"
     ],
     "frequency": "Daily - Extended Action",
-    "tags": "[Class] [+Special Defense]",
     "notes": "",
     "free": false,
     "class": "Oracle [CR]",
@@ -53,10 +59,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.14",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1706115672385,
+    "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!XCzgGnWuKpvFfw4l"

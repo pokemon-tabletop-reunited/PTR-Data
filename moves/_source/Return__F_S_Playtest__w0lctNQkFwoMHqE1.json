@@ -17,6 +17,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Target 1"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "X, See Effect",
     "frequency": "EOT",
     "ac": "2",
-    "range": "Melee, 1 Target",
+    "range": "Melee",
     "contestType": "Cute - Exhausting Act",
     "stab": false,
     "damageBonus": 0,
@@ -52,10 +56,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1696691601608,
+    "modifiedTime": 1707823304602,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "w0lctNQkFwoMHqE1",

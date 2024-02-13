@@ -7,7 +7,7 @@
     "effect": "",
     "snippet": "",
     "rules": [],
-    "slug": "",
+    "slug": "shadow-storm",
     "schema": {
       "version": null,
       "lastMigration": null
@@ -16,6 +16,8 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -29,7 +31,7 @@
     "damageBase": "10",
     "frequency": "Scene x2",
     "ac": "3",
-    "range": "8, Ranged Blast 3",
+    "range": "Range 8, Ranged Blast 3",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -47,10 +49,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1694871604277,
-    "modifiedTime": 1700226888777,
+    "modifiedTime": 1707824589796,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "cQjFQ21hgYxXU7Zy",

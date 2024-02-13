@@ -23,11 +23,15 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Class",
+      "+HP"
+    ],
     "prerequisites": [
       "Novice Survival"
     ],
     "frequency": "One Time Use - Extended Action",
-    "tags": "[Class][+HP]",
     "notes": "",
     "free": false,
     "class": "Survivalist",
@@ -53,11 +57,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368079024,
-    "modifiedTime": 1699657083402,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707818613949,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
   "sort": 68300000,

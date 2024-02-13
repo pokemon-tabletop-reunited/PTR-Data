@@ -18,12 +18,13 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "prerequisites": [
       "Expert Stealth",
       "GM Permission"
     ],
     "frequency": "Static",
-    "tags": "",
     "notes": "",
     "free": false,
     "class": ""
@@ -42,10 +43,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1697671047973,
-    "modifiedTime": 1700226845749,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Pmh53NT86fArgmyc"

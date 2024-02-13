@@ -17,6 +17,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Target 1"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "--",
     "frequency": "Scene",
     "ac": "2",
-    "range": "10, 1 Target",
+    "range": "Range 10",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -51,10 +55,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1700229567287,
+    "modifiedTime": 1707816561964,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "wjtTPASd1lwZrmVX",

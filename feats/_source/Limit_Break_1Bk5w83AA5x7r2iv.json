@@ -17,12 +17,15 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+HP or Attack"
+    ],
     "prerequisites": [
       "Hustler",
       "2 of Master Athletics or Acrobatics or Combat"
     ],
     "frequency": "Daily x2 – Full Action, Special, Pokemon at Weary 3",
-    "tags": "[+HP or Attack]",
     "notes": "",
     "free": false,
     "class": "Hustler"
@@ -42,10 +45,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1694147249059,
-    "modifiedTime": 1696691567516,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "1Bk5w83AA5x7r2iv",

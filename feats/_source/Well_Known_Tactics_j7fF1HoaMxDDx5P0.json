@@ -17,12 +17,13 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "prerequisites": [
       "Mystic",
       "Master Intuition or Master Pokémon Education"
     ],
     "frequency": "Static",
-    "tags": "",
     "notes": "",
     "free": false,
     "class": "Mystic"
@@ -42,10 +43,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1694149275274,
-    "modifiedTime": 1696691567516,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "j7fF1HoaMxDDx5P0",

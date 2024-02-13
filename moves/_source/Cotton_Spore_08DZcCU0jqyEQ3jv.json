@@ -17,6 +17,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Powder"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "--",
     "frequency": "EOT",
     "ac": "2",
-    "range": "Burst 1, Powder",
+    "range": "Burst 1",
     "contestType": "Beauty - Saving Grace",
     "stab": false,
     "damageBonus": 0,
@@ -51,11 +55,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1698279848499,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707815126463,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!08DZcCU0jqyEQ3jv"
 }

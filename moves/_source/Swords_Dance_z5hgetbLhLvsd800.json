@@ -17,6 +17,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Dance"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "--",
     "frequency": "EOT",
     "ac": "--",
-    "range": "Self, Dance",
+    "range": "Self",
     "contestType": "Beauty - Get Ready!",
     "stab": false,
     "damageBonus": 0,
@@ -51,10 +55,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.release-candidate.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1699268499984,
+    "modifiedTime": 1707824742284,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!z5hgetbLhLvsd800"

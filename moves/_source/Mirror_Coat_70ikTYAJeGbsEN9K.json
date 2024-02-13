@@ -17,6 +17,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Reaction"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "--",
     "frequency": "Scene x2",
     "ac": "--",
-    "range": "Any, 1 Target, Reaction",
+    "range": "Field",
     "contestType": "Beauty - Double Time",
     "stab": false,
     "damageBonus": 0,
@@ -51,11 +55,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1698791765833,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707825150212,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!70ikTYAJeGbsEN9K"
 }

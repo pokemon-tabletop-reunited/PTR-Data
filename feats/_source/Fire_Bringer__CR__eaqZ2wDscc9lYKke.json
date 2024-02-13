@@ -168,12 +168,18 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Class",
+      "+Attack or Special Attack",
+      "Playtest",
+      "Class Rework"
+    ],
     "prerequisites": [
       "Elemental Connection (Fire)",
       "Novice Combat"
     ],
     "frequency": "Static",
-    "tags": "[Class] [+Attack or Special Attack]",
     "notes": "",
     "free": false,
     "class": "Fire Bringer [CR]",
@@ -193,10 +199,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1706454288000,
+    "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!eaqZ2wDscc9lYKke"

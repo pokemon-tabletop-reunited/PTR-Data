@@ -260,11 +260,15 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Ranked 3",
+      "+Attack or Special Attack"
+    ],
     "prerequisites": [
       "Adept Intimidation or Combat"
     ],
     "frequency": "Static",
-    "tags": "[Ranked 3][+Attack or Special Attack]",
     "notes": "",
     "free": false,
     "class": "Heartless"
@@ -283,10 +287,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1697669940555,
-    "modifiedTime": 1706454288000,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "ZNO7wwC0jBJGN98G",

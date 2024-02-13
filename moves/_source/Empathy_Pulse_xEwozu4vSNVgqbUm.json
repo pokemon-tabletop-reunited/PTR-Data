@@ -18,6 +18,11 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Aura",
+      "Target 1"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -31,7 +36,7 @@
     "damageBase": "8",
     "frequency": "EOT",
     "ac": "2",
-    "range": "4, 1 Target, Aura",
+    "range": "Range 4",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -51,10 +56,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1697668842165,
-    "modifiedTime": 1700226888777,
+    "modifiedTime": 1707824336894,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!xEwozu4vSNVgqbUm"

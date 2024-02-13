@@ -16,6 +16,11 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Target 1",
+      "Dash"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -29,7 +34,7 @@
     "damageBase": "8",
     "frequency": "EOT",
     "ac": "5",
-    "range": "Melee, 1 Target, Dash",
+    "range": "Melee",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -47,10 +52,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1694872136642,
-    "modifiedTime": 1700226888777,
+    "modifiedTime": 1707815182675,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "D0tXkhLcNUFsZOmU",

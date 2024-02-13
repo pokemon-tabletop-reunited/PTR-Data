@@ -27,11 +27,15 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Playtest",
+      "Class Rework"
+    ],
     "prerequisites": [
       "Expert Command or Intimidate"
     ],
     "frequency": "Static",
-    "tags": "-",
     "notes": "",
     "free": false,
     "class": "",
@@ -59,10 +63,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368079131,
-    "modifiedTime": 1700229306155,
+    "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": "99i7IqV920YvWab8",

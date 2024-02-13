@@ -24,12 +24,17 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+Speed",
+      "Playtest",
+      "Class Rework"
+    ],
     "prerequisites": [
       "One With the Winds",
       "Adept Acrobatics"
     ],
     "frequency": "1 AP – Swift Action",
-    "tags": "[+Speed]",
     "notes": "",
     "free": false,
     "class": "Wind Runner [CR]",
@@ -49,10 +54,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1704194589046,
+    "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!JwoZ8tA8UVuZheot"

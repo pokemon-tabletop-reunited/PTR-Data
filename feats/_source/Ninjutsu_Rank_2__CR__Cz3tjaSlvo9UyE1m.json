@@ -24,12 +24,18 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+Speed",
+      "Ranked 2",
+      "Playtest",
+      "Class Rework"
+    ],
     "prerequisites": [
       "Poison Weapons",
       "Master Stealth"
     ],
     "frequency": "Static",
-    "tags": "[+Speed] [Ranked 2]",
     "notes": "",
     "free": false,
     "class": "Ninja [CR]",
@@ -52,10 +58,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1704194589046,
+    "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "Cz3tjaSlvo9UyE1m",

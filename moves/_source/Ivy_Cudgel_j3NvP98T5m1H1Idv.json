@@ -17,6 +17,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Target 1 or Burst 1"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "10",
     "frequency": "Scene x2",
     "ac": "2",
-    "range": "Melee, 1 Target or Burst 1",
+    "range": "Melee",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -55,11 +59,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1695517766480,
-    "modifiedTime": 1697513714096,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707815126463,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "j3NvP98T5m1H1Idv",
   "sort": 4000000,

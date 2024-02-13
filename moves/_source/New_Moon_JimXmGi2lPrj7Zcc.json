@@ -17,6 +17,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Weather"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "6",
     "frequency": "Daily x2",
     "ac": "",
-    "range": "Field, Weather",
+    "range": "Field",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -51,10 +55,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1700229529076,
+    "modifiedTime": 1707815126463,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "JimXmGi2lPrj7Zcc",

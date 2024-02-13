@@ -23,11 +23,17 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Class",
+      "+HP",
+      "Playtest",
+      "F&S"
+    ],
     "prerequisites": [
       "Novice Focus"
     ],
     "frequency": "Static",
-    "tags": "[Class][+HP]",
     "notes": "",
     "free": false,
     "class": "",
@@ -55,10 +61,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368079037,
-    "modifiedTime": 1705331796350,
+    "modifiedTime": 1707827204534,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": "UVQvHiZHa8JnNuHJ",

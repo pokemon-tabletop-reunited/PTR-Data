@@ -24,12 +24,17 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+Defense",
+      "Playtest",
+      "Class Rework"
+    ],
     "prerequisites": [
       "Roughneck",
       "Expert Intimidate"
     ],
     "frequency": "Static",
-    "tags": "[+Defense]",
     "notes": "",
     "free": false,
     "class": "Roughneck [CR]",
@@ -49,10 +54,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1704194589046,
+    "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!MoEdLEoMpCUFLYax"

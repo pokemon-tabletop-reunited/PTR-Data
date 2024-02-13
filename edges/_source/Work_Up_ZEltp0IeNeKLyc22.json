@@ -21,6 +21,8 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "prerequisites": [
       "Adept Focus"
     ],
@@ -43,10 +45,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683367953780,
-    "modifiedTime": 1696691582271,
+    "modifiedTime": 1707761797684,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

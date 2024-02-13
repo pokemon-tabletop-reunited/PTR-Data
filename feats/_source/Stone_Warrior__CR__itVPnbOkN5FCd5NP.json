@@ -86,12 +86,18 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Class",
+      "+Defense",
+      "Playtest",
+      "Class Rework"
+    ],
     "prerequisites": [
       "Elemental Connection (Rock)",
       "Novice Combat or Novice Survival"
     ],
     "frequency": "Static",
-    "tags": "[Class] [+Defense]",
     "notes": "",
     "free": false,
     "class": "Stone Warrior [CR]",
@@ -115,10 +121,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1706454305861,
+    "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!itVPnbOkN5FCd5NP"

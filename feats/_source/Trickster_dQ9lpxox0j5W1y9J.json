@@ -14,11 +14,14 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Class"
+    ],
     "prerequisites": [
       "Novice Guile"
     ],
     "frequency": "1 AP - Free Action",
-    "tags": "[Class]",
     "notes": "",
     "free": false,
     "class": "",
@@ -43,10 +46,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368079070,
-    "modifiedTime": 1696691567516,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

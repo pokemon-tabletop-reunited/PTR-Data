@@ -27,13 +27,17 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Class",
+      "+Speed"
+    ],
     "prerequisites": [
       "Elemental Connection (Flying)",
       "Novice Acrobatics",
       "Novice Perception"
     ],
     "frequency": "Static",
-    "tags": "[Class][+Speed]",
     "notes": "",
     "free": false,
     "class": "Wind Runner",
@@ -59,10 +63,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1683368078886,
-    "modifiedTime": 1706454288000,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

@@ -43,9 +43,14 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+Special Attack",
+      "Playtest",
+      "Class Rework"
+    ],
     "prerequisites": [],
     "frequency": "Static",
-    "tags": "[+Special Attack]",
     "notes": "",
     "free": false,
     "class": "Musician [CR]",
@@ -69,10 +74,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1706453701628,
+    "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!TQ0q60uVlsMzZ2Aa"

@@ -18,6 +18,11 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Target 1",
+      "Smite"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -31,7 +36,7 @@
     "damageBase": "14",
     "frequency": "Daily x2",
     "ac": "4",
-    "range": "6, 1 Target, Smite",
+    "range": "Range 6",
     "contestType": "Smart",
     "stab": false,
     "damageBonus": 0,
@@ -50,11 +55,11 @@
   "sort": 2200000,
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1689606523899,
-    "modifiedTime": 1699631945560,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707816395131,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!O1N84KWpeTxC81YS"
 }

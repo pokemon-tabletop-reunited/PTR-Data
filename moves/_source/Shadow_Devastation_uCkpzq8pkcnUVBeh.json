@@ -7,7 +7,7 @@
     "effect": "",
     "snippet": "",
     "rules": [],
-    "slug": "",
+    "slug": "shadow-devastation",
     "schema": {
       "version": null,
       "lastMigration": null
@@ -16,6 +16,10 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Smite"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -29,7 +33,7 @@
     "damageBase": "14",
     "frequency": "Daily",
     "ac": "5",
-    "range": "8, Ranged Blast 3, Smite",
+    "range": "Range 8, Ranged Blast 3",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -47,10 +51,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1694872252557,
-    "modifiedTime": 1700226888777,
+    "modifiedTime": 1707824579534,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "uCkpzq8pkcnUVBeh",

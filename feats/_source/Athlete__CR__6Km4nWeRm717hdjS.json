@@ -24,11 +24,17 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Class",
+      "+HP",
+      "Playtest",
+      "Class Rework"
+    ],
     "prerequisites": [
       "Novice Athletics or One of Athletic Initiative or Mounted Prowess or Power Boost or Stamina or Swimmer"
     ],
     "frequency": "At Will – Extended Action",
-    "tags": "[Class][+HP]",
     "notes": "",
     "free": false,
     "class": "Athlete [CR]",
@@ -52,10 +58,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1706453142581,
+    "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!6Km4nWeRm717hdjS"

@@ -24,6 +24,8 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -37,7 +39,7 @@
     "damageBase": "6",
     "frequency": "EOT",
     "ac": "4",
-    "range": "4, Ranged Blast 2",
+    "range": "Range 4, Ranged Blast 2",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -62,11 +64,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1694706234647,
-    "modifiedTime": 1697515390799,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707824382120,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "oKd3bholSLtezIEv",
   "sort": 0,

@@ -18,6 +18,10 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Hazard"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -31,7 +35,7 @@
     "damageBase": "",
     "frequency": "At-Will",
     "ac": "--",
-    "range": "5, Ranged Blast 3, Hazard",
+    "range": "Range 5, Ranged Blast 3",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -51,10 +55,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.2",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1699739765647,
-    "modifiedTime": 1699789442228,
+    "modifiedTime": 1707824706394,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!qWhz5Z5CCjZ1I4ma"

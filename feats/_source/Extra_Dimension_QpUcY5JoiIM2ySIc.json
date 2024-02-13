@@ -36,12 +36,15 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Speed"
+    ],
     "prerequisites": [
       "Nomad",
       "Expert Focus"
     ],
     "frequency": "Static",
-    "tags": "[Speed]",
     "notes": "",
     "free": false,
     "class": "Nomad"
@@ -62,10 +65,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1695644150596,
-    "modifiedTime": 1706454288000,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "QpUcY5JoiIM2ySIc",

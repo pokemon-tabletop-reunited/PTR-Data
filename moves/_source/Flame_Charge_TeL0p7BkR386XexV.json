@@ -14,7 +14,7 @@
         "affects": "origin",
         "selectors": "{item|id}-damage-dealt",
         "uuid": "Compendium.ptu.effects.Item.wy0n2XJqupaVQhMR",
-        "range": "1",
+        "range": "Range 1",
         "value": ""
       }
     ],
@@ -27,6 +27,11 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Dash",
+      "Target 1"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -40,13 +45,12 @@
     "damageBase": "5",
     "frequency": "At-Will",
     "ac": "2",
-    "range": "Melee, 1 Target, Dash",
+    "range": "Melee",
     "contestType": "Tough - Excitement",
     "stab": false,
     "damageBonus": 0,
     "isStruggle": false,
-    "automation": [],
-    "stackSlugs": false
+    "automation": []
   },
   "_id": "TeL0p7BkR386XexV",
   "effects": [],
@@ -62,10 +66,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1706462899830,
+    "modifiedTime": 1707823304602,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!TeL0p7BkR386XexV"

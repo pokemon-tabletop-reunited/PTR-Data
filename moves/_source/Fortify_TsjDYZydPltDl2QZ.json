@@ -17,6 +17,10 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Ally"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "",
     "frequency": "Daily x2",
     "ac": "--",
-    "range": "Self, Burst 3, Friendly",
+    "range": "Burst 3",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -50,10 +54,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1700091541604,
-    "modifiedTime": 1700226592676,
+    "modifiedTime": 1707823689020,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "TsjDYZydPltDl2QZ",

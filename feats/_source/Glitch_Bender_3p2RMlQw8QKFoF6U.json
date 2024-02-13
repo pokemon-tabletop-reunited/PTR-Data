@@ -29,12 +29,16 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Class",
+      "+Special Defense"
+    ],
     "prerequisites": [
       "Glitched Existence",
       "Novice Focus or Occult Education or Perception"
     ],
     "frequency": "Static",
-    "tags": "[Class][+Special Defense]",
     "notes": "",
     "free": false,
     "class": "",
@@ -60,10 +64,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368084458,
-    "modifiedTime": 1696760258219,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

@@ -17,6 +17,11 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Dash",
+      "Recoil 1/4"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +35,7 @@
     "damageBase": "6",
     "frequency": "Scene",
     "ac": "2",
-    "range": "Line 4, Dash, Recoil 1/4",
+    "range": "Line 4",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -54,10 +59,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.2",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1699701779793,
-    "modifiedTime": 1699789434539,
+    "modifiedTime": 1707815126463,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "e2FzQAiHpLJio4Dm",

@@ -17,6 +17,10 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Smite"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "10",
     "frequency": "Scene",
     "ac": "5",
-    "range": "6, Ranged Blast 3, Smite",
+    "range": "Range 6, Ranged Blast 3",
     "contestType": "Tough - Unsettling",
     "stab": false,
     "damageBonus": 0,
@@ -50,10 +54,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.2",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1699651632438,
-    "modifiedTime": 1699721978060,
+    "modifiedTime": 1707824065447,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!RyKdS3yRZjvCBXPz"

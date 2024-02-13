@@ -18,11 +18,14 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Ranked 4"
+    ],
     "prerequisites": [
       "Novice Charm or Command or Guile or Intimidate or Intuition"
     ],
     "frequency": "Static",
-    "tags": "Ranked 4",
     "notes": "",
     "free": false,
     "class": ""
@@ -40,10 +43,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.release-candidate.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1699268574088,
-    "modifiedTime": 1699268657258,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!lDtSR5iXYDXsCCcT"

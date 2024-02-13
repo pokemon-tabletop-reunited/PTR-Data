@@ -16,6 +16,13 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Dash",
+      "Smite",
+      "Reckless",
+      "Target 1"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -29,7 +36,7 @@
     "damageBase": "12",
     "frequency": "Scene x2",
     "ac": "6",
-    "range": "Melee, 1 Target, Dash, Smite, Reckless",
+    "range": "Melee",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -47,10 +54,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1694870349919,
-    "modifiedTime": 1700226888777,
+    "modifiedTime": 1707823304602,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "jNuZznhN6F3R36Me",

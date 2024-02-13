@@ -225,9 +225,15 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Ranked 3",
+      "+Speed",
+      "Playtest",
+      "Class Rework"
+    ],
     "prerequisites": [],
     "frequency": "Static",
-    "tags": "[Ranked 3] [+Speed]",
     "notes": "",
     "free": false,
     "class": "Wind Runner [CR]",
@@ -250,10 +256,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1706453918374,
+    "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "guj2JFhKUujBD5vw",

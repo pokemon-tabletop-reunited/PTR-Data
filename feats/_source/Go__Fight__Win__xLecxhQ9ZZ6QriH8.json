@@ -15,12 +15,15 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Orders"
+    ],
     "prerequisites": [
       "Moment of Action",
       "Expert Charm"
     ],
     "frequency": "Scene x3 - Standard Action",
-    "tags": "[Orders]",
     "notes": "",
     "free": false,
     "class": "Cheerleader"
@@ -41,10 +44,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1694697576841,
-    "modifiedTime": 1696691567516,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "xLecxhQ9ZZ6QriH8",

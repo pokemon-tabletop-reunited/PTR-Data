@@ -17,6 +17,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Set-Up"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "10",
     "frequency": "Scene x2",
     "ac": "2",
-    "range": "Line 6, Set-Up",
+    "range": "Line 6",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -51,10 +55,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1700229524596,
+    "modifiedTime": 1707815126463,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "eqsS14Ecq34nTPWc",

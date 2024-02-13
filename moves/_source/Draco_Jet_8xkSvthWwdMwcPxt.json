@@ -16,6 +16,11 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Target 1",
+      "Priority"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -29,7 +34,7 @@
     "damageBase": 6,
     "frequency": "At-Will",
     "ac": 4,
-    "range": "Melee, 1 Target, Priority",
+    "range": "Melee",
     "contestType": "Tough - Attention Grabber",
     "stab": false,
     "damageBonus": 0,
@@ -47,10 +52,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1693119119587,
-    "modifiedTime": 1696691601608,
+    "modifiedTime": 1707815182675,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!8xkSvthWwdMwcPxt"

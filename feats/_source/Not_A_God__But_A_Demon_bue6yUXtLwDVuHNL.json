@@ -42,12 +42,15 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+Attack or Special Attack"
+    ],
     "prerequisites": [
       "Heartless",
       "Adept Intimidation or Combat"
     ],
     "frequency": "Scene x2 - Swift Action",
-    "tags": "[+Attack or Special Attack]",
     "notes": "",
     "free": false,
     "class": ""
@@ -66,10 +69,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1697669839651,
-    "modifiedTime": 1706454288000,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!bue6yUXtLwDVuHNL"

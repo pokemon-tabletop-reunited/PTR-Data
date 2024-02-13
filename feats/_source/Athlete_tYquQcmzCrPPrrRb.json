@@ -23,12 +23,16 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Class",
+      "+HP"
+    ],
     "prerequisites": [
       "Novice Athletics",
       "One of Athletic Initiative or Mounted Prowess or Power Boost or Stamina or Swimmer"
     ],
     "frequency": "At-Will – Extended Action",
-    "tags": "[Class][+HP]",
     "notes": "",
     "free": false,
     "class": "",
@@ -54,10 +58,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.release-candidate.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368078942,
-    "modifiedTime": 1699268823224,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

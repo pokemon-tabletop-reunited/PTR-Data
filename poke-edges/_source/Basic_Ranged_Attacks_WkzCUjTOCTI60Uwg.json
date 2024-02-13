@@ -95,6 +95,8 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "prerequisites": [
       "Firestarter or Fountain or Freezer or Guster or Materializer or Zapper"
     ],
@@ -116,10 +118,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.16",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683369202718,
-    "modifiedTime": 1699198986092,
+    "modifiedTime": 1707761829447,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

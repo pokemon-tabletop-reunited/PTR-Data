@@ -18,13 +18,17 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+HP or Speed",
+      "Order"
+    ],
     "prerequisites": [
       "Hardened Heart",
       "This Machine",
       "Master Intimidate or Master Command"
     ],
     "frequency": "At Will - Standard Action",
-    "tags": "[+HP or Speed][Order]",
     "notes": "",
     "free": false,
     "class": ""
@@ -43,10 +47,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1697680964563,
-    "modifiedTime": 1700229377687,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!hBnf8d7frC8cPCnr"

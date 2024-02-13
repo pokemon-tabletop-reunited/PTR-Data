@@ -113,11 +113,15 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Class",
+      "+Attack or Special Attack"
+    ],
     "prerequisites": [
       "Elemental Connection (Fighting)"
     ],
     "frequency": "Static",
-    "tags": "[Class][+Attack or Special Attack]",
     "notes": "",
     "free": false,
     "class": "",
@@ -143,10 +147,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.6",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368081799,
-    "modifiedTime": 1704192396087,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

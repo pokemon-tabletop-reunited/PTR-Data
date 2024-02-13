@@ -17,6 +17,10 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Target 1"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "",
     "frequency": "At-Will",
     "ac": "2",
-    "range": "6, 1 Target",
+    "range": "Range 6",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -50,10 +54,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1696797763032,
-    "modifiedTime": 1700228817291,
+    "modifiedTime": 1707816395131,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "EHk6fkrj1wuCHnCX",

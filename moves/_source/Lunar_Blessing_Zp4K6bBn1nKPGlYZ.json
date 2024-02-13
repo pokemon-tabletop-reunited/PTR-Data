@@ -17,6 +17,11 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Self",
+      "Healing"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +35,7 @@
     "damageBase": "",
     "frequency": "Daily",
     "ac": "",
-    "range": "Burst 4, Self, Healing",
+    "range": "Burst 4",
     "contestType": "Beauty - Reflective Appeal",
     "stab": false,
     "damageBonus": 0,
@@ -52,11 +57,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1699631488079,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707815182675,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Zp4K6bBn1nKPGlYZ"
 }

@@ -71,11 +71,15 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+Speed",
+      "Ranked 3"
+    ],
     "prerequisites": [
       "Spark Master"
     ],
     "frequency": "Static",
-    "tags": "[+Speed][Ranked 3]",
     "notes": "",
     "free": false,
     "class": "Spark Master",
@@ -100,10 +104,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1683368079306,
-    "modifiedTime": 1706454288000,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

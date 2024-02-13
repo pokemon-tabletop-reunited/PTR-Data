@@ -18,6 +18,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Target 1"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -31,7 +35,7 @@
     "damageBase": "7",
     "frequency": "EOT",
     "ac": "2",
-    "range": "4, 1 Target",
+    "range": "Range 4",
     "contestType": "Cool",
     "stab": false,
     "damageBonus": 0,
@@ -50,11 +54,11 @@
   "sort": 1000000,
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1689606523899,
-    "modifiedTime": 1699631945560,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707816395131,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!A1JQ5m8AfYagGXzv"
 }

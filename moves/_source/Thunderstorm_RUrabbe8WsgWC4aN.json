@@ -17,6 +17,10 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Weather"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "",
     "frequency": "Daily x2",
     "ac": "None",
-    "range": "Field, Weather",
+    "range": "Field",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -49,11 +53,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1697666872721,
-    "modifiedTime": 1699632044184,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707815126463,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "RUrabbe8WsgWC4aN",
   "sort": 0,

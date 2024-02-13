@@ -14,9 +14,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "prerequisites": [],
     "frequency": "Daily x3 - Full Action, Interrupt",
-    "tags": "-",
     "notes": "",
     "free": false,
     "class": "",
@@ -42,10 +43,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368078936,
-    "modifiedTime": 1696759758592,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

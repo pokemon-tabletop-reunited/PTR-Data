@@ -17,6 +17,10 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Double Strike"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "4",
     "frequency": "EOT",
     "ac": "2",
-    "range": "WR, 1 Target, Double Strike",
+    "range": "WR",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -54,10 +58,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.2",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1699701779793,
-    "modifiedTime": 1699789439157,
+    "modifiedTime": 1707822683487,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "NLCTGbgK8mCz5aLT",

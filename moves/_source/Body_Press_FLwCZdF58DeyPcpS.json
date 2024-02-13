@@ -17,6 +17,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Target 1"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +34,7 @@
     "damageBase": "8",
     "frequency": "Scene x2",
     "ac": "2",
-    "range": "Melee, 1 Target",
+    "range": "Melee",
     "contestType": "Tough - Gamble",
     "stab": false,
     "damageBonus": 0,
@@ -51,10 +55,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1706020342993,
+    "modifiedTime": 1707815182675,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!FLwCZdF58DeyPcpS"

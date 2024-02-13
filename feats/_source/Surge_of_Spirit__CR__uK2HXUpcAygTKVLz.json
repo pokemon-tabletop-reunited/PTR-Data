@@ -14,11 +14,17 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Orders",
+      "Stratagem",
+      "Playtest",
+      "Class Rework"
+    ],
     "prerequisites": [
       "Channeler"
     ],
     "frequency": "Bind 2 AP – Standard Action",
-    "tags": "[Orders] [Stratagem]",
     "notes": "",
     "free": false,
     "class": "Channeler [CR]",
@@ -42,10 +48,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1706452973204,
+    "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!uK2HXUpcAygTKVLz"

@@ -1,7 +1,11 @@
 {
   "name": "Laser Pulse",
   "type": "move",
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "effects": [],
   "_id": "xe1I5wGhlScXmUBj",
   "system": {
@@ -9,7 +13,7 @@
     "effect": "After targeting Laser Pulse, roll 1d3. On a 1, this attack is Fire-Type; on a 2, it is Ice-Type; on a 3, it is Electric-Type. This Move benefits from Mega Launcher.",
     "snippet": "",
     "rules": [],
-    "slug": "",
+    "slug": "laser-pulse",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -18,6 +22,8 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -28,10 +34,10 @@
     "strongJaw": false,
     "type": "Untyped",
     "category": "Special",
-    "damageBase": 9,
+    "damageBase": "9",
     "frequency": "Scene",
-    "ac": 2,
-    "range": "6, Ranged Blast 3",
+    "ac": "2",
+    "range": "Range 6, Ranged Blast 3",
     "contestType": "Smart",
     "stab": false,
     "damageBonus": 0,
@@ -50,11 +56,11 @@
   "sort": 5800000,
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1689606523899,
-    "modifiedTime": 1699631945560,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707824550717,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!xe1I5wGhlScXmUBj"
 }

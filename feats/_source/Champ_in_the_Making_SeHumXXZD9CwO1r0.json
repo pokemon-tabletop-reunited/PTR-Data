@@ -14,12 +14,13 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "prerequisites": [
       "4 Ace Trainer Features",
       "Master Command"
     ],
     "frequency": "Drain 1 AP - Free Action",
-    "tags": "-",
     "notes": "",
     "free": false,
     "class": "Ace Trainer",
@@ -45,11 +46,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368084354,
-    "modifiedTime": 1699657163229,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707818613949,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
   "sort": 31000000,

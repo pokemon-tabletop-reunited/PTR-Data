@@ -17,6 +17,12 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Dash",
+      "Recoil 1/3",
+      "Target 1"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +36,7 @@
     "damageBase": 9,
     "frequency": "EOT",
     "ac": 5,
-    "range": "Melee, 1 Target, Dash, Recoil 1/3",
+    "range": "Melee",
     "contestType": "Tough - Steady Performance",
     "stab": false,
     "damageBonus": 0,
@@ -47,11 +53,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1697513698449,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707823304602,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!rmDcfFfrdq5PgwF9"
 }

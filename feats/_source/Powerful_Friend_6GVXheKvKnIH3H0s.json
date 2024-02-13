@@ -17,11 +17,12 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "prerequisites": [
       "Mystic"
     ],
     "frequency": "Static",
-    "tags": "",
     "notes": "",
     "free": false,
     "class": "Mystic"
@@ -41,10 +42,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1694149275274,
-    "modifiedTime": 1705331886785,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "6GVXheKvKnIH3H0s",

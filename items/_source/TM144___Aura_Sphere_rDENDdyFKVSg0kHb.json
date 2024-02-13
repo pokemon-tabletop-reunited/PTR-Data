@@ -15,6 +15,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "TM"
+    ],
     "quantity": 1,
     "category": "",
     "cost": null,
@@ -35,10 +39,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692967648964,
-    "modifiedTime": 1699197799910,
+    "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!rDENDdyFKVSg0kHb"

@@ -42,11 +42,14 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+Special Attack"
+    ],
     "prerequisites": [
       "4 Glamour Weaver Features"
     ],
     "frequency": "Static",
-    "tags": "[+Special Attack]",
     "notes": "",
     "free": false,
     "class": "Glamour Weaver",
@@ -72,11 +75,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368079017,
-    "modifiedTime": 1700216226059,
-    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
+    "modifiedTime": 1707818613949,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
   "sort": 63800000,

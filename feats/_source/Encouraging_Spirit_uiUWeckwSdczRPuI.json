@@ -17,12 +17,15 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+Def or Special Def"
+    ],
     "prerequisites": [
       "Any Spirit Skill Expert",
       "Three Friendship 4 Pokemon or One Friendship 5 Pokemon"
     ],
     "frequency": "Static",
-    "tags": "[+Def or Special Def]",
     "notes": "",
     "free": false,
     "class": ""
@@ -42,10 +45,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1694145864684,
-    "modifiedTime": 1696691567516,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "uiUWeckwSdczRPuI",

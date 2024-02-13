@@ -24,12 +24,17 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+HP",
+      "Playtest",
+      "Class Rework"
+    ],
     "prerequisites": [
       "Elite Trainer",
       "Adept Command"
     ],
     "frequency": "Daily x3 – Free Action",
-    "tags": "[+HP]",
     "notes": "",
     "free": false,
     "class": "Athlete [CR]",
@@ -53,10 +58,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1706453135572,
+    "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!aG9n7UAPWTyWXCLi"

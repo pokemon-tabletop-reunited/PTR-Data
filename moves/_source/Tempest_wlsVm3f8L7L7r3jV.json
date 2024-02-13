@@ -22,6 +22,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Spirit Surge"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -35,7 +39,7 @@
     "damageBase": "6",
     "frequency": "Scene",
     "ac": "2",
-    "range": "Close Burst 2, Spirit Surge",
+    "range": "Close Blast 2",
     "contestType": "Beauty",
     "stab": false,
     "damageBonus": 0,
@@ -54,11 +58,11 @@
   "sort": 5500000,
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1689606523899,
-    "modifiedTime": 1700099303471,
-    "lastModifiedBy": "uL2FnS0CT2UJ45hb"
+    "modifiedTime": 1707824726575,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!wlsVm3f8L7L7r3jV"
 }

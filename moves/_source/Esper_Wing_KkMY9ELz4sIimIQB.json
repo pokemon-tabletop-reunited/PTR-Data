@@ -17,6 +17,11 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Pass",
+      "Spirit Surge"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +35,7 @@
     "damageBase": "8",
     "frequency": "Scene x2",
     "ac": "4",
-    "range": "Melee, Pass, Spirit Surge",
+    "range": "Melee",
     "contestType": "Smart - Steady Performance",
     "stab": false,
     "damageBonus": 0,
@@ -51,11 +56,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1699631406035,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707815126463,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!KkMY9ELz4sIimIQB"
 }

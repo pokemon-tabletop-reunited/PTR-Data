@@ -16,6 +16,12 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Target 1",
+      "Exhaust",
+      "Smite"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -29,7 +35,7 @@
     "damageBase": "15",
     "frequency": "Scene",
     "ac": "4",
-    "range": "10, 1 Target, Exhaust, Smite",
+    "range": "Range 10",
     "contestType": "",
     "stab": false,
     "damageBonus": 0,
@@ -47,10 +53,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1694872778427,
-    "modifiedTime": 1700226888777,
+    "modifiedTime": 1707816561964,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "x0MXMVhMcbU8zleX",

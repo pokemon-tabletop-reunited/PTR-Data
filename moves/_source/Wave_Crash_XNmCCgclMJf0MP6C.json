@@ -17,6 +17,11 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Target 1",
+      "Recoil 1/3"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +35,7 @@
     "damageBase": "12",
     "frequency": "Scene x2",
     "ac": "2",
-    "range": "Melee, 1 Target, Recoil 1/3",
+    "range": "Melee",
     "contestType": "Tough - Steady Performance",
     "stab": false,
     "damageBonus": 0,
@@ -51,11 +56,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1699631688570,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707815182675,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!XNmCCgclMJf0MP6C"
 }

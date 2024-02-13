@@ -17,6 +17,8 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +32,7 @@
     "damageBase": "6",
     "frequency": "EOT",
     "ac": "2",
-    "range": "8, Ranged Blast 2",
+    "range": "Range 8, Ranged Blast 2",
     "contestType": "Beauty - Sabotage",
     "stab": false,
     "damageBonus": 0,
@@ -51,11 +53,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1699631433478,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707824065447,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!kVi9L3pHt4UQIo1F"
 }

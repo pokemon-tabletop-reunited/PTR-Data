@@ -16,6 +16,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Target 1"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -29,7 +33,7 @@
     "damageBase": "--",
     "frequency": "EOT",
     "ac": "5",
-    "range": "6, 1 Target",
+    "range": "Range 6",
     "contestType": "Smart - Sabotage",
     "stab": false,
     "damageBonus": 0,
@@ -47,10 +51,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1693119119587,
-    "modifiedTime": 1696691601608,
+    "modifiedTime": 1707816395131,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!YnhquO69P2oNFEri"

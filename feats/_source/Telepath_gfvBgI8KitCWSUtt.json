@@ -21,13 +21,17 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Class",
+      "+Special Defense"
+    ],
     "prerequisites": [
       "Elemental Connection (Psychic)",
       "Iron Mind",
       "Novice Intuition"
     ],
     "frequency": "2 AP - Swift Action",
-    "tags": "[Class][+Special Defense]",
     "notes": "",
     "free": false,
     "class": "",
@@ -52,10 +56,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368079020,
-    "modifiedTime": 1696691567516,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

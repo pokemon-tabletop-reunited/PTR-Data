@@ -18,12 +18,15 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+Attack or Special Attack"
+    ],
     "prerequisites": [
       "Not a God But a Demon",
       "Master Intimidation or Combat"
     ],
     "frequency": "Drain 2 AP - Free Action",
-    "tags": "[+Attack or Special Attack]",
     "notes": "",
     "free": false,
     "class": ""
@@ -42,10 +45,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1697670431226,
-    "modifiedTime": 1700226845749,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!UO2wiMe8cjQ8oqYR"

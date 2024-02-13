@@ -1,7 +1,11 @@
 {
   "name": "Expunge",
   "type": "move",
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "effects": [],
   "_id": "3ihCEnOGHoXbo2KL",
   "system": {
@@ -9,7 +13,7 @@
     "effect": "When calculating Weakness and Resistance for Expunge, Nuclear-Typed targets calculate damage as if Nuclear was weak to Nuclear; if the user has the Radioactive Ability, it treats the target at though the target was not Nuclear-Typed for the purposes of Radioactive. If the target is in Nuclear Fallout Weather, Expunge cannot miss.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "expunge",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -18,6 +22,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Smite"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -31,7 +39,7 @@
     "damageBase": "11",
     "frequency": "Scene x2",
     "ac": "7",
-    "range": "4, Ranged Blast 2, Smite",
+    "range": "Range 4, Ranged Blast 2",
     "contestType": "Smart",
     "stab": false,
     "damageBonus": 0,
@@ -50,11 +58,11 @@
   "sort": 400000,
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.1.1",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1689606523899,
-    "modifiedTime": 1699631945560,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707824375268,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!3ihCEnOGHoXbo2KL"
 }

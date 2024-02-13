@@ -14,11 +14,15 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Playtest",
+      "Class Rework"
+    ],
     "prerequisites": [
       "Level 10 or Two of Charm Intimidate Intuition or Pokémon Education at Adept Rank"
     ],
     "frequency": "Daily – Extended Action",
-    "tags": "",
     "notes": "",
     "free": false,
     "class": "",
@@ -44,10 +48,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.314",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1700229255814,
+    "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "FGyB6YCra96wP8nG",

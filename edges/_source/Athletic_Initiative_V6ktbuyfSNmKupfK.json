@@ -21,6 +21,10 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Move"
+    ],
     "prerequisites": [
       "Adept Athletics"
     ],
@@ -43,10 +47,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.8",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1683367953769,
-    "modifiedTime": 1705266573505,
+    "modifiedTime": 1707826352064,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

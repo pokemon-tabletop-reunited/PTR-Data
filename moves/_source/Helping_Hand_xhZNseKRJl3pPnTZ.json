@@ -17,6 +17,11 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Target 1",
+      "Priority"
+    ],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +35,7 @@
     "damageBase": "--",
     "frequency": "EOT",
     "ac": "--",
-    "range": "4, 1 Target, Priority",
+    "range": "Range 4",
     "contestType": "Smart - Good Show!",
     "stab": false,
     "damageBonus": 0,
@@ -51,10 +56,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1705331856950,
+    "modifiedTime": 1707816395131,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!xhZNseKRJl3pPnTZ"

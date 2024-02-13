@@ -23,11 +23,14 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "+HP"
+    ],
     "prerequisites": [
       "3 Enduring Soul Features"
     ],
     "frequency": "Static",
-    "tags": "[+HP]",
     "notes": "",
     "free": false,
     "class": "Enduring Soul [F&S Playtest]",
@@ -55,10 +58,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368078992,
-    "modifiedTime": 1699197482035,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": "UVQvHiZHa8JnNuHJ",

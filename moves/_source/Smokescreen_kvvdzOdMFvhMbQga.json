@@ -8,7 +8,7 @@
     "effect": "Smokescreen creates a blast of Smoke that covers the target area; the Smoke persists until the end of the encounter, or until Defog or Whirlwind are used. All targets attacking from or into the Smoke receive a -3 penalty to Accuracy.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "slug": "smokescreen",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -17,6 +17,8 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -30,7 +32,7 @@
     "damageBase": "--",
     "frequency": "EOT",
     "ac": "--",
-    "range": "5, Ranged Blast 3",
+    "range": "Range 5, Ranged Blast 3",
     "contestType": "Smart - Unsettling",
     "stab": false,
     "damageBonus": 0,
@@ -44,14 +46,18 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1697513698449,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1707824702466,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!kvvdzOdMFvhMbQga"
 }

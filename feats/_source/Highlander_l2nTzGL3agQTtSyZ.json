@@ -14,12 +14,13 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "prerequisites": [
       "Tyrant's Roar",
       "Type-Linked Skill at Adept"
     ],
     "frequency": "Static",
-    "tags": "[-]",
     "notes": "",
     "free": false,
     "class": "Type Ace (Dragon)",
@@ -45,10 +46,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.8",
+    "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1683368078901,
-    "modifiedTime": 1705263408601,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

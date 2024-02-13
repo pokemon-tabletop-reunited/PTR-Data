@@ -14,12 +14,16 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [
+      "Chemistry Research Field",
+      "Branch"
+    ],
     "prerequisites": [
       "Chemist",
       "Expert Technology Education"
     ],
     "frequency": "At-Will - Extended Action",
-    "tags": "[Chemistry Research Field][Branch]",
     "notes": "",
     "free": false,
     "class": "Researcher (Chemistry)",
@@ -44,10 +48,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1683368084455,
-    "modifiedTime": 1696691567516,
+    "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
