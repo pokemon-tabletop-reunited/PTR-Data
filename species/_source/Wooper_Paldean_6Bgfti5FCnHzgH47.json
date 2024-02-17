@@ -27,18 +27,18 @@
           "uuid": "Compendium.ptu.abilities.Item.osJgodPktGSkPJf4"
         },
         {
-          "slug": "oblivious",
-          "uuid": "Compendium.ptu.abilities.Item.O2dMnMBgSN8ookBo"
+          "slug": "water-absorb",
+          "uuid": "Compendium.ptu.abilities.Item.QpL0f8jY8uoEJ2Fv"
         }
       ],
       "advanced": [
         {
-          "slug": "water-absorb",
-          "uuid": "Compendium.ptu.abilities.Item.QpL0f8jY8uoEJ2Fv"
-        },
-        {
           "slug": "mud-dweller",
           "uuid": "Compendium.ptu.abilities.Item.kmiVtixIr3OaG1py"
+        },
+        {
+          "slug": "pollution-weather-playtest",
+          "uuid": "Compendium.ptu.abilities.Item.dxYIaMNxoXRM61cj"
         }
       ],
       "high": [
@@ -541,14 +541,15 @@
       "1": "Ground",
       "2": ""
     },
-    "keywords": []
+    "keywords": [],
+    "stackSlugs": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
   "name": "Wooper-Paldean",
   "_id": "6Bgfti5FCnHzgH47",
   "effects": [],
-  "sort": 14000000,
+  "sort": 14500000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
@@ -559,7 +560,7 @@
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1693120305329,
-    "modifiedTime": 1707761842946,
+    "modifiedTime": 1708102843666,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!6Bgfti5FCnHzgH47"

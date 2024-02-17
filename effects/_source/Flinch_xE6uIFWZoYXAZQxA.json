@@ -12,7 +12,9 @@
         "priority": 10,
         "mode": "add",
         "path": "system.modifiers.initiative.mod",
-        "value": "-(5 * @item.system.value.value)"
+        "value": "-(5 * @item.system.value.value)",
+        "predicate": [],
+        "phase": "applyAEs"
       },
       {
         "key": "GrantItem",
@@ -29,7 +31,9 @@
               "expiry": "full-round"
             }
           }
-        }
+        },
+        "predicate": [],
+        "allowDuplicate": false
       }
     ],
     "slug": "flinch",
@@ -45,6 +49,11 @@
       }
     },
     "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "stackSlugs": false,
+    "keywords": [],
     "duration": {
       "value": 0,
       "unit": "encounter",
@@ -78,10 +87,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1691878068601,
-    "modifiedTime": 1695027124661,
+    "modifiedTime": 1708099237487,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!xE6uIFWZoYXAZQxA"

@@ -49,26 +49,30 @@
       ],
       "high": [
         {
-          "slug": "aftermath",
-          "uuid": "Compendium.ptu.abilities.Item.EAhDfKnNumHpy5QW"
+          "slug": "pollution-weather-playtest",
+          "uuid": "Compendium.ptu.abilities.Item.dxYIaMNxoXRM61cj"
         }
       ]
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.DPG709Wd2UK5QxKr",
         "slug": "trubbish",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.3y0SvUMb9Y6A13JO",
         "slug": "garbodor",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -471,14 +475,19 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Poison",
+      "1": ""
+    },
+    "stackSlugs": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
   "name": "Trubbish",
   "_id": "DPG709Wd2UK5QxKr",
   "effects": [],
-  "sort": 26600000,
+  "sort": 27100000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -489,7 +498,7 @@
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1689609527590,
-    "modifiedTime": 1707761842946,
+    "modifiedTime": 1708103227454,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!DPG709Wd2UK5QxKr"

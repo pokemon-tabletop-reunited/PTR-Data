@@ -36,8 +36,8 @@
       ],
       "advanced": [
         {
-          "slug": "friend-guard",
-          "uuid": "Compendium.ptu.abilities.Item.i0XQhctF8P16Pkg9"
+          "slug": "morning-fog-weather-playtest",
+          "uuid": "Compendium.ptu.abilities.Item.lIFAbVVR3soUZdup"
         },
         {
           "slug": "overcoat",
@@ -57,19 +57,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.6m8tViV45oS4p8Io",
         "slug": "dewpider",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 20,
         "uuid": "Compendium.ptu.species.Item.GtqdzGUUqSRdQSH2",
         "slug": "araquanid",
-        "level": 20,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -103,7 +107,7 @@
       "highJump": 2,
       "longJump": 2,
       "power": 4,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "gilled",
@@ -448,14 +452,20 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Water",
+      "1": "Bug",
+      "2": ""
+    },
+    "stackSlugs": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
   "name": "Araquanid",
   "_id": "GtqdzGUUqSRdQSH2",
   "effects": [],
-  "sort": 33400000,
+  "sort": 33900000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -466,7 +476,7 @@
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1689609527590,
-    "modifiedTime": 1707761842946,
+    "modifiedTime": 1708102321725,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!GtqdzGUUqSRdQSH2"

@@ -39,8 +39,8 @@
       ],
       "advanced": [
         {
-          "slug": "pickpocket",
-          "uuid": "Compendium.ptu.abilities.Item.8m9FR9xTLgOLRRZY"
+          "slug": "shadow-dance",
+          "uuid": "Compendium.ptu.abilities.Item.Bvrv4SX3gmS10ghW"
         },
         {
           "slug": "overcoat",
@@ -56,27 +56,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.zjnIRR4bkHZJX4j2",
         "slug": "seedot",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 15,
         "uuid": "Compendium.ptu.species.Item.YgjnPn6H6XHEmX4Y",
         "slug": "nuzleaf",
-        "level": 15,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.DZbCjKEtWfTjXwWH",
         "slug": "shiftry",
-        "level": 25,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -458,14 +464,19 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Grass",
+      "1": ""
+    },
+    "stackSlugs": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
   "name": "Seedot",
   "_id": "zjnIRR4bkHZJX4j2",
   "effects": [],
-  "sort": 113400000,
+  "sort": 114000000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -476,7 +487,7 @@
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1689609527590,
-    "modifiedTime": 1707761842946,
+    "modifiedTime": 1708103538028,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!zjnIRR4bkHZJX4j2"

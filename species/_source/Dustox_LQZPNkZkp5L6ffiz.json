@@ -44,8 +44,8 @@
           "uuid": "Compendium.ptu.abilities.Item.UD8uB5remoP6mUQ8"
         },
         {
-          "slug": "flutter",
-          "uuid": "Compendium.ptu.abilities.Item.NPu2GzghOUmik64d"
+          "slug": "morning-fog-weather-playtest",
+          "uuid": "Compendium.ptu.abilities.Item.lIFAbVVR3soUZdup"
         }
       ],
       "high": [
@@ -57,27 +57,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.JCLL0uZaWIdivJK0",
         "slug": "wurmple",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 5,
         "uuid": "Compendium.ptu.species.Item.UVvSVwo5G3g50bzF",
         "slug": "cascoon",
-        "level": 5,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 10,
         "uuid": "Compendium.ptu.species.Item.LQZPNkZkp5L6ffiz",
         "slug": "dustox",
-        "level": 10,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -467,14 +473,20 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Bug",
+      "1": "Poison",
+      "2": ""
+    },
+    "stackSlugs": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
   "name": "Dustox",
   "_id": "LQZPNkZkp5L6ffiz",
   "effects": [],
-  "sort": 43400000,
+  "sort": 43900000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -485,7 +497,7 @@
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1689609527590,
-    "modifiedTime": 1707761842946,
+    "modifiedTime": 1708102339191,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!LQZPNkZkp5L6ffiz"

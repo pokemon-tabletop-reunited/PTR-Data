@@ -34,14 +34,14 @@
           "uuid": "Compendium.ptu.abilities.Item.ZiTUZHmZaIq0K2na"
         },
         {
-          "slug": "early-bird",
-          "uuid": "Compendium.ptu.abilities.Item.2ye1g3WRMq5oab5x"
+          "slug": "wind-rider-weather-playtest",
+          "uuid": "Compendium.ptu.abilities.Item.gZSorPchELl6j7pu"
         }
       ],
       "advanced": [
         {
-          "slug": "pickpocket",
-          "uuid": "Compendium.ptu.abilities.Item.8m9FR9xTLgOLRRZY"
+          "slug": "shadow-dance",
+          "uuid": "Compendium.ptu.abilities.Item.Bvrv4SX3gmS10ghW"
         },
         {
           "slug": "omen",
@@ -57,27 +57,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.zjnIRR4bkHZJX4j2",
         "slug": "seedot",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 15,
         "uuid": "Compendium.ptu.species.Item.YgjnPn6H6XHEmX4Y",
         "slug": "nuzleaf",
-        "level": 15,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.DZbCjKEtWfTjXwWH",
         "slug": "shiftry",
-        "level": 25,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -558,14 +564,20 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Grass",
+      "1": "Dark",
+      "2": ""
+    },
+    "stackSlugs": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
   "name": "Shiftry",
   "_id": "DZbCjKEtWfTjXwWH",
   "effects": [],
-  "sort": 26700000,
+  "sort": 27200000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -576,7 +588,7 @@
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1689609527590,
-    "modifiedTime": 1707761842946,
+    "modifiedTime": 1708103634013,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!DZbCjKEtWfTjXwWH"

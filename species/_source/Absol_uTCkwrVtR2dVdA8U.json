@@ -39,8 +39,8 @@
       ],
       "advanced": [
         {
-          "slug": "justified",
-          "uuid": "Compendium.ptu.abilities.Item.TWqOpCg6UmlH5dy9"
+          "slug": "noctem-weather-playtest",
+          "uuid": "Compendium.ptu.abilities.Item.zsUI5UfX8919TRuY"
         },
         {
           "slug": "forewarn",
@@ -56,11 +56,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.uTCkwrVtR2dVdA8U",
         "slug": "absol",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -655,20 +657,21 @@
     "slug": "absol",
     "rules": [],
     "type": {
-      "0": "",
+      "0": "Dark",
       "1": ""
     },
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "stackSlugs": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
   "name": "Absol",
   "_id": "uTCkwrVtR2dVdA8U",
   "effects": [],
-  "sort": 104000000,
+  "sort": 104600000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -679,7 +682,7 @@
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1689609527590,
-    "modifiedTime": 1707761842946,
+    "modifiedTime": 1708103264312,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!uTCkwrVtR2dVdA8U"

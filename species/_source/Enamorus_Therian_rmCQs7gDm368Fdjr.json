@@ -36,8 +36,8 @@
       ],
       "advanced": [
         {
-          "slug": "frisk",
-          "uuid": "Compendium.ptu.abilities.Item.W64GEtQ6ZO7uxZCa"
+          "slug": "morning-fog-weather-playtest",
+          "uuid": "Compendium.ptu.abilities.Item.lIFAbVVR3soUZdup"
         },
         {
           "slug": "pride",
@@ -61,7 +61,9 @@
         "uuid": "Compendium.ptu.species.Item.rmCQs7gDm368Fdjr",
         "slug": "enamorus-therian",
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -347,14 +349,15 @@
       "1": "Flying",
       "2": ""
     },
-    "keywords": []
+    "keywords": [],
+    "stackSlugs": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
   "name": "Enamorus-Therian",
   "_id": "rmCQs7gDm368Fdjr",
   "effects": [],
-  "sort": 99400000,
+  "sort": 100000000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -365,7 +368,7 @@
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1689609527590,
-    "modifiedTime": 1707761842946,
+    "modifiedTime": 1708102489038,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!rmCQs7gDm368Fdjr"

@@ -44,8 +44,8 @@
           "uuid": "Compendium.ptu.abilities.Item.MBgvgf5LwdH5UGib"
         },
         {
-          "slug": "analytic",
-          "uuid": "Compendium.ptu.abilities.Item.BmvqFZyTXoO12Gik"
+          "slug": "pollution-weather-playtest",
+          "uuid": "Compendium.ptu.abilities.Item.dxYIaMNxoXRM61cj"
         }
       ],
       "high": [
@@ -57,19 +57,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.X2kt21ojJnSBCSFZ",
         "slug": "skrelp",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.UTl1jGyEfJ33ronS",
         "slug": "dragalge",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -468,14 +472,20 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Poison",
+      "1": "Dragon",
+      "2": ""
+    },
+    "stackSlugs": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
   "name": "Dragalge",
   "_id": "UTl1jGyEfJ33ronS",
   "effects": [],
-  "sort": 58300000,
+  "sort": 58800000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -486,7 +496,7 @@
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1689609527590,
-    "modifiedTime": 1707761842946,
+    "modifiedTime": 1708102744406,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!UTl1jGyEfJ33ronS"

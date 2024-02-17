@@ -39,8 +39,8 @@
           "uuid": "Compendium.ptu.abilities.Item.QpPR5Ekvn9utWUTq"
         },
         {
-          "slug": "hypnotic",
-          "uuid": "Compendium.ptu.abilities.Item.p8Fw4crpH16CAZ5v"
+          "slug": "morning-fog-weather-playtest",
+          "uuid": "Compendium.ptu.abilities.Item.lIFAbVVR3soUZdup"
         },
         {
           "slug": "telepathy",
@@ -56,19 +56,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.genzrdlpkE0CuJDZ",
         "slug": "munna",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.iXmHLSzKuAL7dF8i",
         "slug": "musharna",
-        "level": 25,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -101,7 +105,7 @@
       "highJump": 1,
       "longJump": 1,
       "power": 5,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "dream-mist",
@@ -505,14 +509,19 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Psychic",
+      "1": ""
+    },
+    "stackSlugs": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
   "name": "Musharna",
   "_id": "iXmHLSzKuAL7dF8i",
   "effects": [],
-  "sort": 83400000,
+  "sort": 83900000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -523,7 +532,7 @@
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1689609527590,
-    "modifiedTime": 1707761842946,
+    "modifiedTime": 1708102429776,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!iXmHLSzKuAL7dF8i"

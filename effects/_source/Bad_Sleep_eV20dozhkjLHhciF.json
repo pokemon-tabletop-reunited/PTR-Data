@@ -31,10 +31,15 @@
       }
     },
     "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "stackSlugs": false,
+    "keywords": [],
     "duration": {
       "value": 0,
       "unit": "encounter",
-      "expiry": "turn-start"
+      "expiry": ""
     },
     "value": {
       "isValued": false,
@@ -67,10 +72,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "systemVersion": "4.1.4",
+    "coreVersion": "12.316",
     "createdTime": 1691878068601,
-    "modifiedTime": 1695027124661,
+    "modifiedTime": 1708098726672,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!eV20dozhkjLHhciF"

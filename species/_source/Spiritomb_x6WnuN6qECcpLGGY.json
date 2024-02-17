@@ -44,8 +44,8 @@
           "uuid": "Compendium.ptu.abilities.Item.NGesozzcq6yYzALH"
         },
         {
-          "slug": "shackle",
-          "uuid": "Compendium.ptu.abilities.Item.oR8CFw84rjr0vz5u"
+          "slug": "noctem-weather-playtest",
+          "uuid": "Compendium.ptu.abilities.Item.zsUI5UfX8919TRuY"
         }
       ],
       "high": [
@@ -57,11 +57,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.x6WnuN6qECcpLGGY",
         "slug": "spiritomb",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -95,7 +97,7 @@
       "highJump": 0,
       "longJump": 0,
       "power": 2,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "darkvision",
@@ -517,14 +519,20 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Ghost",
+      "1": "Dark",
+      "2": ""
+    },
+    "stackSlugs": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
   "name": "Spiritomb",
   "_id": "x6WnuN6qECcpLGGY",
   "effects": [],
-  "sort": 109200000,
+  "sort": 109800000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -535,7 +543,7 @@
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1689609527590,
-    "modifiedTime": 1707761842946,
+    "modifiedTime": 1708103452232,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!x6WnuN6qECcpLGGY"

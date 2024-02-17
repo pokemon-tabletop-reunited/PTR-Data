@@ -44,8 +44,8 @@
           "uuid": "Compendium.ptu.abilities.Item.f2Wd9jSdqyZfsv7r"
         },
         {
-          "slug": "rocket",
-          "uuid": "Compendium.ptu.abilities.Item.UpQj3d2jpjtCDwfx"
+          "slug": "windvane-weather-playtest",
+          "uuid": "Compendium.ptu.abilities.Item.Snr6DXwf2rBfkLvz"
         }
       ],
       "high": [
@@ -57,27 +57,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.kVDE0Ts5bExnZijI",
         "slug": "bagon",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 20,
         "uuid": "Compendium.ptu.species.Item.iojCYoloMgnHnJnZ",
         "slug": "shelgon",
-        "level": 20,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 40,
         "uuid": "Compendium.ptu.species.Item.natvqPKku321L9nX",
         "slug": "salamence",
-        "level": 40,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -110,7 +116,7 @@
       "highJump": 2,
       "longJump": 3,
       "power": 6,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "mountable-1",
@@ -528,14 +534,20 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Dragon",
+      "1": "Flying",
+      "2": ""
+    },
+    "stackSlugs": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
   "name": "Salamence",
   "_id": "natvqPKku321L9nX",
   "effects": [],
-  "sort": 90700000,
+  "sort": 91300000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -546,7 +558,7 @@
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1689609527590,
-    "modifiedTime": 1707761842946,
+    "modifiedTime": 1708102609730,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!natvqPKku321L9nX"

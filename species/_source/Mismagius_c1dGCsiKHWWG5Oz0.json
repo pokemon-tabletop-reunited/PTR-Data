@@ -39,8 +39,8 @@
           "uuid": "Compendium.ptu.abilities.Item.cgCkAFBGJKoCme2x"
         },
         {
-          "slug": "magician",
-          "uuid": "Compendium.ptu.abilities.Item.K87PPl3uolWMSdUr"
+          "slug": "noctem-weather-playtest",
+          "uuid": "Compendium.ptu.abilities.Item.zsUI5UfX8919TRuY"
         },
         {
           "slug": "omen",
@@ -56,19 +56,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.2McrY9IkLTo41eH4",
         "slug": "misdreavus",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.c1dGCsiKHWWG5Oz0",
         "slug": "mismagius",
-        "level": 25,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -101,7 +105,7 @@
       "highJump": 1,
       "longJump": 1,
       "power": 3,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "darkvision",
@@ -554,14 +558,19 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Ghost",
+      "1": ""
+    },
+    "stackSlugs": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
   "name": "Mismagius",
   "_id": "c1dGCsiKHWWG5Oz0",
   "effects": [],
-  "sort": 72200000,
+  "sort": 72700000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -572,7 +581,7 @@
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1689609527590,
-    "modifiedTime": 1707761842946,
+    "modifiedTime": 1708103414022,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!c1dGCsiKHWWG5Oz0"

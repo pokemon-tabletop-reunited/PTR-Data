@@ -40,8 +40,8 @@
       ],
       "advanced": [
         {
-          "slug": "big-pecks",
-          "uuid": "Compendium.ptu.abilities.Item.Deo4fYsYQEKwBe3H"
+          "slug": "windvane-weather-playtest",
+          "uuid": "Compendium.ptu.abilities.Item.Snr6DXwf2rBfkLvz"
         },
         {
           "slug": "blow-away",
@@ -57,27 +57,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.ahFk22OKDM9EkDF0",
         "slug": "pidgey",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 15,
         "uuid": "Compendium.ptu.species.Item.fQrMaWuWzSe1i6MI",
         "slug": "pidgeotto",
-        "level": 15,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.1VEdDC2thAnLLnkG",
         "slug": "pidgeot",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -110,7 +116,7 @@
       "highJump": 1,
       "longJump": 1,
       "power": 1,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "underdog",
@@ -462,14 +468,20 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Normal",
+      "1": "Flying",
+      "2": ""
+    },
+    "stackSlugs": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
   "name": "Pidgey",
   "_id": "ahFk22OKDM9EkDF0",
   "effects": [],
-  "sort": 69500000,
+  "sort": 70000000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -480,7 +492,7 @@
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1689609527590,
-    "modifiedTime": 1707761842946,
+    "modifiedTime": 1708102567965,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!ahFk22OKDM9EkDF0"

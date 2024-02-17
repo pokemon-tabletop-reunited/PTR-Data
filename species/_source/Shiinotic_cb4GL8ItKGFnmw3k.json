@@ -40,8 +40,8 @@
       ],
       "advanced": [
         {
-          "slug": "liquid-ooze",
-          "uuid": "Compendium.ptu.abilities.Item.4Eajhd1jemnWDwl9"
+          "slug": "noctem-weather-playtest",
+          "uuid": "Compendium.ptu.abilities.Item.zsUI5UfX8919TRuY"
         },
         {
           "slug": "root-down",
@@ -57,19 +57,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.6vpL0SZxRZoZtNrR",
         "slug": "morelull",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 20,
         "uuid": "Compendium.ptu.species.Item.cb4GL8ItKGFnmw3k",
         "slug": "shiinotic",
-        "level": 20,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -438,14 +442,20 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Grass",
+      "1": "Fairy",
+      "2": ""
+    },
+    "stackSlugs": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
   "name": "Shiinotic",
   "_id": "cb4GL8ItKGFnmw3k",
   "effects": [],
-  "sort": 73500000,
+  "sort": 74000000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -456,7 +466,7 @@
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1689609527590,
-    "modifiedTime": 1707761842946,
+    "modifiedTime": 1708103309326,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!cb4GL8ItKGFnmw3k"

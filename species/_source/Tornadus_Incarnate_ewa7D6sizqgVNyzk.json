@@ -49,8 +49,8 @@
       ],
       "high": [
         {
-          "slug": "drizzle",
-          "uuid": "Compendium.ptu.abilities.Item.r8QALyZIZbX2XI2q"
+          "slug": "windvane-weather-playtest",
+          "uuid": "Compendium.ptu.abilities.Item.Snr6DXwf2rBfkLvz"
         }
       ]
     },
@@ -512,14 +512,15 @@
       "0": "Flying",
       "1": ""
     },
-    "keywords": []
+    "keywords": [],
+    "stackSlugs": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
   "name": "Tornadus-Incarnate",
   "_id": "ewa7D6sizqgVNyzk",
   "effects": [],
-  "sort": 77300000,
+  "sort": 77800000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -530,7 +531,7 @@
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1689609527590,
-    "modifiedTime": 1707761842946,
+    "modifiedTime": 1708102686996,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!ewa7D6sizqgVNyzk"

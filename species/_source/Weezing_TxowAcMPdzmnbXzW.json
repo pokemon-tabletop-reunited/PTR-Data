@@ -43,8 +43,8 @@
           "uuid": "Compendium.ptu.abilities.Item.EAhDfKnNumHpy5QW"
         },
         {
-          "slug": "stench",
-          "uuid": "Compendium.ptu.abilities.Item.fqivRgdWsOTnf0Vq"
+          "slug": "pollution-weather-playtest",
+          "uuid": "Compendium.ptu.abilities.Item.dxYIaMNxoXRM61cj"
         }
       ],
       "high": [
@@ -56,27 +56,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.PvCR3F4My1rUMYDU",
         "slug": "koffing",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.0DnVp6TazfQRxtfY",
         "slug": "weezing-galarian",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.TxowAcMPdzmnbXzW",
         "slug": "weezing",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -110,7 +116,7 @@
       "highJump": 1,
       "longJump": 1,
       "power": 4,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "volatile-bomb",
@@ -449,14 +455,19 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Poison",
+      "1": ""
+    },
+    "stackSlugs": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
   "name": "Weezing",
   "_id": "TxowAcMPdzmnbXzW",
   "effects": [],
-  "sort": 57700000,
+  "sort": 58200000,
   "ownership": {
     "default": 0,
     "DsHOL7PqMABKgssN": 3
@@ -467,7 +478,7 @@
     "systemVersion": "4.1.4",
     "coreVersion": "12.316",
     "createdTime": 1689609527590,
-    "modifiedTime": 1707761842946,
+    "modifiedTime": 1708102781860,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!TxowAcMPdzmnbXzW"
