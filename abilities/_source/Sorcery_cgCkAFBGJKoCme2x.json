@@ -6,8 +6,19 @@
     "origin": "",
     "effect": "The user’s Base Special Attack Stat is increased by +5, and by +1 more for every 10 Levels the user has. Innate.",
     "snippet": "",
-    "rules": [],
-    "slug": null,
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "add",
+        "path": "system.modifiers.baseStats.spatk.mod",
+        "phase": "applyAEs",
+        "value": "5+floor(@actor.system.level.current/10)",
+        "priority": null
+      }
+    ],
+    "enabled": true,
+    "slug": "sorcery",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -30,13 +41,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
+    "systemVersion": "4.2.0",
     "coreVersion": "12.316",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1708346539210,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!cgCkAFBGJKoCme2x"

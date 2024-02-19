@@ -13,8 +13,95 @@
         "priority": 20,
         "predicate": [],
         "phase": "applyAEs"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move1",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.moves.Item.WUgXHLrvnUAn2vky",
+            "predicate": {
+              "not": "move:confuse-ray"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.5A0ZjnRjOwj1i7n8",
+            "predicate": {
+              "not": "move:curse"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.3abHb5scrH2j6qMF",
+            "predicate": {
+              "not": "move:hypnosis"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.7sMVSFGaJax6lWuM",
+            "predicate": {
+              "not": "move:spite"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.qltGKDIhEJpOqswU",
+            "predicate": {
+              "not": "move:will-o-wisp"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move1}"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move2",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.moves.Item.WUgXHLrvnUAn2vky",
+            "predicate": {
+              "not": "move:confuse-ray"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.5A0ZjnRjOwj1i7n8",
+            "predicate": {
+              "not": "move:curse"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.3abHb5scrH2j6qMF",
+            "predicate": {
+              "not": "move:hypnosis"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.7sMVSFGaJax6lWuM",
+            "predicate": {
+              "not": "move:spite"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.qltGKDIhEJpOqswU",
+            "predicate": {
+              "not": "move:will-o-wisp"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move2}"
       }
     ],
+    "enabled": true,
     "slug": "hex-maniac-studies-rank-2-cr",
     "schema": {
       "version": null,
@@ -57,10 +144,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
+    "systemVersion": "4.2.0",
     "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1707827243445,
+    "modifiedTime": 1708346984139,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "Lgi53eBApfFdGJZg",

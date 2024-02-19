@@ -13,9 +13,34 @@
         "priority": 20,
         "predicate": [],
         "phase": "applyAEs"
+      },
+      {
+        "key": "ChoiceSet",
+        "choices": [
+          {
+            "value": "Compendium.ptu.abilities.Item.pMSDhQp6Tx0Cojng",
+            "predicate": {
+              "not": "ability:omen"
+            }
+          },
+          {
+            "value": "Compendium.ptu.abilities.Item.eq6HX7kv2a2Fo51U",
+            "predicate": {
+              "not": "ability:cursed-body"
+            }
+          }
+        ],
+        "adjustName": false
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.hexManiacCR}"
       }
     ],
-    "slug": null,
+    "enabled": true,
+    "slug": "hex-maniac-cr",
     "schema": {
       "version": null,
       "lastMigration": null
@@ -51,13 +76,17 @@
     "xUomATnixLnn15IR": 3,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
+    "systemVersion": "4.2.0",
     "coreVersion": "12.316",
     "createdTime": 1699736627730,
-    "modifiedTime": 1707827243445,
+    "modifiedTime": 1708347020311,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!HZXJEBlDf682Sl4R"

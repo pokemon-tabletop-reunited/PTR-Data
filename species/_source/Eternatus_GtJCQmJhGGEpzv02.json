@@ -57,11 +57,13 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.GtJCQmJhGGEpzv02",
         "slug": "eternatus",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -93,7 +95,7 @@
       "highJump": 4,
       "longJump": 4,
       "power": 15,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "aura-reader",
@@ -429,7 +431,16 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [
+      "Legendary"
+    ],
+    "type": {
+      "0": "Poison",
+      "1": "Dragon",
+      "2": ""
+    },
+    "stackSlugs": false,
+    "enabled": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -444,10 +455,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
+    "systemVersion": "4.2.0",
     "coreVersion": "12.316",
     "createdTime": 1689609527590,
-    "modifiedTime": 1708094889604,
+    "modifiedTime": 1708346685618,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!GtJCQmJhGGEpzv02"

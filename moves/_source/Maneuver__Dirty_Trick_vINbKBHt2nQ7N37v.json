@@ -8,6 +8,7 @@
     "effect": "You may perform any of the Dirty Tricks listed below. You may use each trick only once each Scene per target.\n\n» Hinder: You and the target make Opposed Athletics Checks. If you win, the target is Slowed and takes a -2 penalty to all Skill Checks for one full round.\n» Blind: You and the target make Opposed Stealth Checks. If you win, the target is Blinded for one full round.\n» Low Blow: You and the target make Opposed Acrobatics Checks. If you win, the target is Vulnerable and has their Initiative set to 0 until the end of your next turn.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "maneuver-dirty-trick",
     "schema": {
       "version": null,
@@ -41,7 +42,7 @@
     "isStruggle": false
   },
   "effects": [],
-  "sort": 0,
+  "sort": 1100000,
   "ownership": {
     "default": 0,
     "uL2FnS0CT2UJ45hb": 3,
@@ -54,10 +55,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
+    "systemVersion": "4.2.0",
     "coreVersion": "12.316",
     "createdTime": 1696797763032,
-    "modifiedTime": 1707815182675,
+    "modifiedTime": 1708348809118,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "vINbKBHt2nQ7N37v",

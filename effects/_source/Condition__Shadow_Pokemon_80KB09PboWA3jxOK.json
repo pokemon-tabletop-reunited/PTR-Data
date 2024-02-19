@@ -19,7 +19,8 @@
         "mode": "add",
         "path": "system.stats.spd.stage.mod",
         "phase": "applyAEs",
-        "value": 2
+        "value": 2,
+        "priority": null
       },
       {
         "key": "TypeOverwrite",
@@ -59,6 +60,7 @@
         }
       }
     ],
+    "enabled": true,
     "slug": "shadow-pokemon",
     "schema": {
       "version": null,
@@ -68,10 +70,12 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "duration": {
       "value": -1,
       "unit": "unlimited",
-      "expiry": "turn-start"
+      "expiry": null
     },
     "value": {
       "isValued": false,
@@ -120,10 +124,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.3",
-    "coreVersion": "11.311",
+    "systemVersion": "4.2.0",
+    "coreVersion": "12.316",
     "createdTime": 1699753663348,
-    "modifiedTime": 1699893773407,
+    "modifiedTime": 1708349050722,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "80KB09PboWA3jxOK",

@@ -8,12 +8,13 @@
     "effect": "Raise the user's Accuracy by 1. If the user performs an Weapon Move on their next turn that deals damage, add its Damage Dice Roll an extra time to the damage.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "enabled": true,
+    "slug": "take-aim",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.19B5NNc6NhocDrms",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -46,13 +47,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
+    "systemVersion": "4.2.0",
     "coreVersion": "12.316",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707761817661,
+    "modifiedTime": 1708346427677,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!WfesNtj171NVSa7T"

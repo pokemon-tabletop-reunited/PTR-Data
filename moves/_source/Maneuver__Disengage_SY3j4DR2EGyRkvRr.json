@@ -8,6 +8,7 @@
     "effect": "You may Shift 1 Meter. Shifting this way does not provoke an Attack of Opportunity.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "maneuver-disengage",
     "schema": {
       "version": null,
@@ -39,7 +40,7 @@
     "isStruggle": false
   },
   "effects": [],
-  "sort": 0,
+  "sort": 500000,
   "ownership": {
     "default": 0,
     "uL2FnS0CT2UJ45hb": 3,
@@ -52,10 +53,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
+    "systemVersion": "4.2.0",
     "coreVersion": "12.316",
     "createdTime": 1696797763032,
-    "modifiedTime": 1707761817661,
+    "modifiedTime": 1708348809118,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "SY3j4DR2EGyRkvRr",

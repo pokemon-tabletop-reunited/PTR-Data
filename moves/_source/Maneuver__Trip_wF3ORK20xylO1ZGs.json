@@ -8,6 +8,7 @@
     "effect": "You and the target each make opposed Combat or Acrobatics Checks. If you win, the target is knocked over and Tripped.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "maneuver-trip",
     "schema": {
       "version": null,
@@ -41,7 +42,7 @@
     "isStruggle": false
   },
   "effects": [],
-  "sort": 0,
+  "sort": 1200000,
   "ownership": {
     "default": 0,
     "uL2FnS0CT2UJ45hb": 3,
@@ -54,10 +55,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
+    "systemVersion": "4.2.0",
     "coreVersion": "12.316",
     "createdTime": 1696797763032,
-    "modifiedTime": 1707815182675,
+    "modifiedTime": 1708348809118,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "wF3ORK20xylO1ZGs",

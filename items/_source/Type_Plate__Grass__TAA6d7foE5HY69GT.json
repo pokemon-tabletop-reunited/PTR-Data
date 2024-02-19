@@ -4,8 +4,26 @@
     "origin": "",
     "effect": "Acts as both a Type Booster (Grass) and a Type Brace (Grass). Accessory Slot Item for Trainers.",
     "snippet": "",
-    "rules": [],
-    "slug": null,
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "hideIfDisabled": false,
+        "selectors": "grass-damage",
+        "value": 5
+      },
+      {
+        "key": "EphemeralEffect",
+        "predicate": [
+          "move:type:grass"
+        ],
+        "selectors": "damage-received",
+        "affects": "origin",
+        "uuid": "Compendium.ptu.effects.Item.3Z0FXRjOLUkhlBLG"
+      }
+    ],
+    "enabled": true,
+    "slug": "type-plate-grass",
     "schema": {
       "version": 0.11,
       "lastMigration": {
@@ -44,13 +62,17 @@
     "default": 0,
     "DsHOL7PqMABKgssN": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": false
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
+    "systemVersion": "4.2.0",
     "coreVersion": "12.316",
     "createdTime": 1683368818954,
-    "modifiedTime": 1707755855042,
+    "modifiedTime": 1708346639576,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

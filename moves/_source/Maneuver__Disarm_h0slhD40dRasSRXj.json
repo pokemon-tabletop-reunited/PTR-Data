@@ -8,6 +8,7 @@
     "effect": "You and the target each make opposed Combat or Stealth Checks. If you win, the target's Held Item (Main Hand or Off-Hand for humans) fall to the ground.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "maneuver-disarm",
     "schema": {
       "version": null,
@@ -41,7 +42,7 @@
     "isStruggle": false
   },
   "effects": [],
-  "sort": 0,
+  "sort": 800000,
   "ownership": {
     "default": 0,
     "uL2FnS0CT2UJ45hb": 3,
@@ -54,10 +55,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
+    "systemVersion": "4.2.0",
     "coreVersion": "12.316",
     "createdTime": 1696797763032,
-    "modifiedTime": 1707815182675,
+    "modifiedTime": 1708348809118,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "h0slhD40dRasSRXj",

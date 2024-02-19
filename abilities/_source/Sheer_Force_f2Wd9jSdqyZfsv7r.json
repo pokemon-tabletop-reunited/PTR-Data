@@ -6,7 +6,19 @@
     "origin": "",
     "effect": "Moves with an Effect Range gain a +10 Bonus to Damage, but Effect Ranges can never be triggered.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [
+          "manual"
+        ],
+        "label": "Sheer Force (No Effect Range?) [Manual]",
+        "hideIfDisabled": false,
+        "selectors": "damage-roll",
+        "value": 10
+      }
+    ],
+    "enabled": true,
     "slug": "sheer-force",
     "schema": {
       "version": 0.11,
@@ -37,10 +49,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
+    "systemVersion": "4.2.0",
     "coreVersion": "12.316",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707829409096,
+    "modifiedTime": 1708346523446,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!f2Wd9jSdqyZfsv7r"
