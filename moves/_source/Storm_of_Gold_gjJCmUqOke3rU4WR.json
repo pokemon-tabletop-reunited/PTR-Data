@@ -13,6 +13,7 @@
     "effect": "This move Confuses targets on a roll of 19+. Storm of Gold scatters metal coins equal in value to 3d8 times the users level. If it is a trainer battle, the winner of the battle gets to pick up the coins.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "storm-of-gold",
     "schema": {
       "version": 0.11,
@@ -59,7 +60,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1689606523899,
     "modifiedTime": 1707824586861,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

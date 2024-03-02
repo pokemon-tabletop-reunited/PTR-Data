@@ -8,6 +8,7 @@
     "effect": "Captivate lowers the target's Special Attack by 2 Combat Stages. Captivate may not affect something that is the same gender as the user or something that is genderless.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -53,7 +54,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707815126463,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

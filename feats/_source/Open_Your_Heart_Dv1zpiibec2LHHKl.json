@@ -6,9 +6,10 @@
   "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
   "system": {
     "origin": "",
-    "effect": "Cost: $1000 in materials\nTarget: Your Shadow Pokémon at Friendship Level 3\nEffect: You perform a Purification Ceremony on the target, granting Purification rewards. A Pokémon that undergoes Purification with this Feature gains 1 Friendship. At Master Charm, the Target changes to \"Your Shadow Pokémon at Friendship Level 2\".\nBonus: Your Purified Pokémon receive a total of X Points to distribute amongst their Base Stats, where X is equal to your Charm Skill Rank, and they gain 2 Tutor Points.",
+    "effect": "Cost: $1000 in materials\nTarget: Your Shadow Pokémon at Friendship Level 3\nEffect: You perform a Purification Ceremony on the target, granting Purification rewards and receiving extra effects from Redeemer's Class Features. A Pokémon that undergoes Purification with this Feature gains 1 Friendship. At Master Charm, the Target changes to \"Your Shadow Pokémon at Friendship Level 2\".\nBonus: Your Purified Pokémon receive a total of X Points to distribute amongst their Base Stats, where X is equal to half your Charm Skill Rank, plus one.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "open-your-heart",
     "schema": {
       "version": null,
@@ -45,11 +46,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1697669327791,
-    "modifiedTime": 1707818613949,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1708646420673,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!Dv1zpiibec2LHHKl"
 }

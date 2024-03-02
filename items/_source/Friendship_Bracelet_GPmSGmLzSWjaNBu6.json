@@ -8,6 +8,7 @@
     "effect": "Held Item: While a Pokemon and Trainer both wear a matching Friendship Bracelet, the Friendship level of that Pokemon is considered 1 higher to a max of 4.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
@@ -17,6 +18,8 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "quantity": "1",
     "category": "",
     "cost": "1000",
@@ -39,7 +42,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1694116122243,
     "modifiedTime": 1696691594780,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

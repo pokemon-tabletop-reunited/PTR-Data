@@ -7,12 +7,18 @@
     "effect": "Pokémon with the Lifesense Capability can sense the location, number, and general size of living beings (including plant life) around them for up to 5 meters, almost as if they could see through the ground. They are immune to being blinded.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": ""
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "GMdVFw84glGqsOfb",
   "effects": [],
@@ -26,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "coreVersion": "12.317",
     "createdTime": 1693042188180,
     "modifiedTime": 1695027494151,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

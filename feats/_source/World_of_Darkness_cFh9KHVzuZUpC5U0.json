@@ -5,6 +5,7 @@
     "effect": "You create a zone of Shifting Darkness in a Burst 2 around you, which persists until the end of the encounter. All targets without Darkvision attacking from or into the Shifting Darkness receive a -3 penalty to Accuracy. You may count Shifting Darkness as complete darkness for the purposes of activating your Living Shadow. As a Static effect, you also gain the Darkvision Capability.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "world-of-darkness",
     "schema": {
       "version": 0.11,
@@ -49,7 +50,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079202,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

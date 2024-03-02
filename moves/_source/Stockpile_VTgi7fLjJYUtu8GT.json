@@ -8,6 +8,7 @@
     "effect": "The user adds 1 to their Stockpiled count to a maximum of 3. For each number a Stockpiled count is above 0, raise the user's Defense and Special Defense by 1 Combat Stage each. If a Stockpiled count is set to 0, any Combat Stages gained from the Stockpiled count are removed.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "stockpile",
     "schema": {
       "version": 0.11,
@@ -54,7 +55,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707761817661,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

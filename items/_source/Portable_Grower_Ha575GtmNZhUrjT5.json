@@ -5,6 +5,7 @@
     "effect": "Portable Growers can be used to grow berries and herbs. Portable Growers protect the plants within them from external weather, and never need to be fertilized. Each Grower holds one plant.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368819367,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

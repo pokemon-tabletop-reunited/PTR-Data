@@ -5,6 +5,7 @@
     "effect": "Effect: You gain the Rally Ability. When you give [Orders], you may pay 1 AP to activate Rally, ignoring Frequency, targeting only the targets of the [Orders]. A target may only be affected by Rally in this way once per Scene.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -44,7 +45,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

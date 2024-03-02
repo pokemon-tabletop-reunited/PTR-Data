@@ -7,6 +7,7 @@
     "effect": "Trigger - The user hits with a Water Type Move\\nBefore the Move “hits”, all Combat Stages on targets hit by the Move are reset to their default (usually 0), and all coats on the targets, except ones placed by Water Sport, are destroyed.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -34,7 +35,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

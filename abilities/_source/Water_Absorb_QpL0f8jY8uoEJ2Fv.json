@@ -7,6 +7,7 @@
     "effect": "The user is immune to the damage and effects of Water-Type attacks, and whenever they are hit with a Water Type attack, they gain a Tick of Temporary Hit Points. Defensive.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -34,7 +35,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

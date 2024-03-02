@@ -5,6 +5,7 @@
     "effect": "You may treat the local gravity as if it were 1 lower or 1 higher. Changing the setting on the suit is an At-Will Extended Action requiring time for the suit to adjust to the new settings. Body equipment slot.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -21,6 +22,8 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "quantity": "1",
     "category": "",
     "cost": "4000",
@@ -42,7 +45,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1683368803063,
     "modifiedTime": 1699197799910,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

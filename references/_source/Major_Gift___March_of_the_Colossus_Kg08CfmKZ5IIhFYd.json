@@ -7,6 +7,7 @@
     "effect": "Prerequisites: Minor Gift - Hands of the Creator 2 AP - Standard Action Target: Trainer or Pokémon Effect: For the next three rounds, the target has their  Attack and Speed halved. At the end of the third round,  increase the target’s Attack and Speed by two Combat  Stages each.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "Kg08CfmKZ5IIhFYd",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -5,6 +5,7 @@
     "effect": "Trigger - Your Pokémon reappears after using Ghost Step, or the set-up phase of Phantom Force or Shadow Force\nEffect: The next Ghost-Type attack the target makes that turn gains the Smite keyword and can’t be Intercepted or avoided in any way (Dodge, Parry, Shield Moves, etc).",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368081665,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

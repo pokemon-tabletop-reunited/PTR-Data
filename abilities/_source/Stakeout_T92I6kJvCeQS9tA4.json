@@ -7,6 +7,7 @@
     "effect": "The user gains a +2d6+4 bonus on damage rolls against foes that were released from a Pokéball or entered the encounter since the user's last turn.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "stakeout",
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707829414330,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

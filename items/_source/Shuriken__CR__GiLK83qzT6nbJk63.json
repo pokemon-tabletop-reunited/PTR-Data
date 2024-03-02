@@ -8,6 +8,7 @@
     "effect": "This item may be consumed in order to make a Ranged Physical Struggle Attack as a Weapon Move at a Range equal to your Throwing Range. Shuriken are not usually sold in stores, but may be found from specialty shops for $300.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "shuriken-cr",
     "schema": {
       "version": null,
@@ -17,6 +18,8 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "quantity": "1",
     "category": "",
     "cost": "300",
@@ -39,7 +42,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.2",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1699739492443,
     "modifiedTime": 1699789418091,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

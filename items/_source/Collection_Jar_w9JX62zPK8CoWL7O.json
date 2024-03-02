@@ -5,6 +5,7 @@
     "effect": "A simple sealable glass jar. Useful when collecting Items from Pokémon, such as Honey from Pokémon with the Honey Gather Ability, or MooMoo Milk from Pokémon with the Milk Collection Ability. Available almost everywhere.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368785082,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

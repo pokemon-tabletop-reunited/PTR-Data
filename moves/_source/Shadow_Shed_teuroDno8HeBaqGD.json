@@ -7,6 +7,7 @@
     "effect": "All Blessings, Coats, and Hazards are removed, and the Combat Stages of all Pokémon and Trainers are set to their default (usually 0).",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": null,
@@ -50,7 +51,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1694871456123,
     "modifiedTime": 1707761817661,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

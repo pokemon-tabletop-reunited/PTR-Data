@@ -7,6 +7,7 @@
     "effect": "Whenever the user’s Move causes a target to faint, it may raise its Special Attack Combat Stage by +1. You may only trigger Hubris once per Move, even if the Move causes multiple targets to faint.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "hubris",
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

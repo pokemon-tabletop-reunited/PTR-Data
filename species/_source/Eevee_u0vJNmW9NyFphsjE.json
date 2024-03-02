@@ -244,6 +244,16 @@
             ""
           ]
         }
+      },
+      {
+        "level": 25,
+        "slug": "maliceon",
+        "uuid": "Compendium.ptu.species.Item.bLdQhnLaxECDEpYl",
+        "other": {
+          "restrictions": [
+            "GM Permission"
+          ]
+        }
       }
     ],
     "size": {
@@ -658,7 +668,9 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "stackSlugs": false,
+    "enabled": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -673,11 +685,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1689609527590,
-    "modifiedTime": 1708094889604,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1708558081341,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!u0vJNmW9NyFphsjE"
 }

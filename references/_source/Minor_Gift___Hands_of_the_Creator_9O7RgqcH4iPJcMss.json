@@ -7,6 +7,7 @@
     "effect": "Prerequisites: GM Permission Static Effect: You get a +3 bonus to all Knowledge: Occult or  Knowledge: Petrology rolls to identify materials that  would be used in crafting or the purpose of a crafted  object.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "9O7RgqcH4iPJcMss",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -7,6 +7,7 @@
     "effect": "A Vulnerable Pokémon or Trainer cannot apply Evasion of any sort against attacks. ",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "vulnerable",
     "schema": {
       "version": 0.11,
@@ -59,7 +60,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1691878068601,
     "modifiedTime": 1708099246393,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

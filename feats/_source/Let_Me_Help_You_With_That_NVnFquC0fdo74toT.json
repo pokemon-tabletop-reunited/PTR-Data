@@ -5,6 +5,7 @@
     "effect": "Trigger - An allied Trainer fails a Skill Check in a Skill you have Ranked at Novice or higher.\nEffect: The ally may re-roll the Skill Check with a Bonus equal to your Skill Rank.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
@@ -44,7 +45,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368078936,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

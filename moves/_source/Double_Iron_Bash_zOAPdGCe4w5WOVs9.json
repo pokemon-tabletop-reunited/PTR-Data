@@ -8,6 +8,7 @@
     "effect": "Double Iron Bash Flinches the targets on 15+.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "double-iron-bash",
     "schema": {
       "version": 0.11,
@@ -57,7 +58,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707830231470,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

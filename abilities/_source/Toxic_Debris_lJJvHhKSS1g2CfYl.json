@@ -7,6 +7,7 @@
     "effect": "Connection: Toxic Spikes. When this Pokemon takes Physical damage, it may use Toxic Spikes as a Reaction.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "toxic-debris",
     "schema": {
       "version": 0.11,
@@ -37,7 +38,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1693041250760,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

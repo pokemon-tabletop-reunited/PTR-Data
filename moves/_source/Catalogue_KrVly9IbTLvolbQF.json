@@ -9,6 +9,7 @@
     "effect": "Randomly select another Pokmon on the users roster and then randomly select an Ability that Pokmon has. Catalogues user gains that Ability immediately until the end of the Scene, or until it uses this Move again. This may not select Abilities that may not be traced or swapped.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -53,7 +54,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1689606523899,
     "modifiedTime": 1707761817661,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

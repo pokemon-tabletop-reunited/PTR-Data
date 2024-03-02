@@ -8,6 +8,7 @@
     "effect": "The user gains +2 Defense and +2 Special Defense Combat Stages. All allies in the Burst gain +1 Defense and +1 Special Defense Combat Stage.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "fortify",
     "schema": {
       "version": null,
@@ -55,7 +56,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1700091541604,
     "modifiedTime": 1707823689020,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

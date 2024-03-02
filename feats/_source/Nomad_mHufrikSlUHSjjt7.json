@@ -5,14 +5,17 @@
   "img": "systems/ptu/static/css/images/icons/class_feat_icon.png",
   "system": {
     "origin": "",
-    "effect": "You gain the Moves Ally Switch and Teleport.",
+    "effect": "Effect: You gain the Moves Ally Switch and Teleport.\nBonus: For every 2 Nomad class features you possess (beyond Nomad), you gain +1 to to your Teleporter Speed.",
     "snippet": "",
     "rules": [
       {
         "key": "ActiveEffectLike",
         "mode": "add",
         "path": "system.modifiers.baseStats.spd.mod",
-        "value": 1
+        "value": 1,
+        "predicate": [],
+        "phase": "applyAEs",
+        "priority": null
       },
       {
         "key": "GrantItem",
@@ -27,7 +30,8 @@
         "uuid": "Compendium.ptu.moves.Item.BFyiKFMmD0rwvIl7"
       }
     ],
-    "slug": "",
+    "enabled": true,
+    "slug": "nomad",
     "schema": {
       "version": null,
       "lastMigration": null
@@ -66,10 +70,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1695152947504,
-    "modifiedTime": 1707818613949,
+    "modifiedTime": 1709366299668,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "mHufrikSlUHSjjt7",

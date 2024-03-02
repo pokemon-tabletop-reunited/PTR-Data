@@ -7,6 +7,7 @@
     "effect": "Prerequisites: Minor Gift – World Serpent’s Embrace Static Effect: You gain the Godslayer Feature. If you already  possess the Godslayer Feature, you may instead take  another Feature for which you qualify for instead.  When using Godslayer, the AC is now 8, and you do  not suffer from feedback.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "5cU67R3nYXgytMQb",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -7,6 +7,7 @@
     "effect": "Condition: The triggering Move is a Cone, Line, Burst, or Blast Effect: Instead of its usual range, you may use the Move as if it had a range of Burst 1, Cone 2, Close Blast 2, Line 4, or 2-Target with a range of 4.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "L6FARt9x9lPKsbMM",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

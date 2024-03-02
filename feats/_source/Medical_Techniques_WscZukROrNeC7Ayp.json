@@ -5,6 +5,7 @@
     "effect": "Trigger - You apply a Restorative Item\nEffect: The target gains a Tick of Hit Points, plus an additional amount of Hit Points equal to your Medicine Education Rank.\nRecipe - Hyper Cures",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -49,7 +50,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368084465,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

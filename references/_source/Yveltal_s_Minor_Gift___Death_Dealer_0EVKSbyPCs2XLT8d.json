@@ -7,6 +7,7 @@
     "effect": "Prerequisites: GM Permission Static Effect: Injuries you inflict will not heal at the normal  rate and require extensive medical treatment, such as  staying at a Poke Center, to heal. Instead of recovering  at the normal rate of three Injuries per day while at such  a facility, they heal at a rate of one injury a day.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "0EVKSbyPCs2XLT8d",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

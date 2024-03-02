@@ -8,6 +8,7 @@
     "effect": "Burns on 18+. The user heals half the damage dealt (rounded up)",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "matcha-gotcha",
     "schema": {
       "version": 0.11,
@@ -67,7 +68,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1694751659509,
     "modifiedTime": 1707816250828,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

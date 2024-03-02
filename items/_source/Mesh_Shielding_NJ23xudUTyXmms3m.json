@@ -5,6 +5,7 @@
     "effect": "An advanced anti-conductive fabric woven into a stiff jacket designed to shield sensitive electronics from damage and electrical shock. You gain 5 Damage Reduction against Electric Type damage. Whenever you would suffer Augmentation Shock, roll 1d2. On a 1, you suffer no ill effects.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -21,6 +22,8 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "quantity": "1",
     "category": "",
     "cost": "8000",
@@ -42,7 +45,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1683368834355,
     "modifiedTime": 1699197799910,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

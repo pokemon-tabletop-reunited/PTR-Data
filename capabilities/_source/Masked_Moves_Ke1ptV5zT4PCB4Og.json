@@ -8,6 +8,7 @@
     "effect": "Ogerpon cannot have the mask it wears removed against its will. It can only learn the following moves while it is wearing the mask that corresponds with the type of the move:\n\nRock:\nSmack Down\nRock Tomb\nRock Blast\nPower Gem\n\nFire:\nFlame Charge\nOverheat\nWill-o-Wisp\nFire Spin\n\nWater:\nScald\nWater Pulse\nChilling Water\nHydro Pump\nLiquidation",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "masked-moves",
     "schema": {
       "version": null,
@@ -16,7 +17,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "effects": [],
   "ownership": {
@@ -36,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1695518671494,
     "modifiedTime": 1699197818502,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

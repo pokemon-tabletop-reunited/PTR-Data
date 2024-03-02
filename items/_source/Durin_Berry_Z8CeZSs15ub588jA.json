@@ -5,6 +5,7 @@
     "effect": "Smart or Tough Poffin Ingredient. Tier 2.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -47,7 +48,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368798401,
     "modifiedTime": 1707760420858,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

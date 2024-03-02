@@ -5,6 +5,7 @@
     "effect": "Target: Your Pokémon with at least 1 Tutor Point\nEffect: Your Pokémon loses 1 Tutor Point, and learns a Move based on your Chosen Stat, even if your Pokémon cannot normally learn this Move:\n»» Attack: Swords Dance or Rage\n»» Defense: Iron Defense or Reflect\n»» Special Attack: Nasty Plot or Hidden Power\n»» Special Defense: Amnesia or Light Screen\n»» Speed: Agility or After You",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -47,7 +48,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368084441,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

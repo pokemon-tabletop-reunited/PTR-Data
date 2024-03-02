@@ -8,6 +8,7 @@
     "effect": "Ivy Cudgel Critical Strikes on 18+. It's type also matches Ogerpons Secondary Typing (if it has one), otherwise it is Grass. If anything other than Ogerpon uses this move, it is always Grass Type.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "ivy-cudgel",
     "schema": {
       "version": null,
@@ -60,7 +61,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1695517766480,
     "modifiedTime": 1707815126463,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

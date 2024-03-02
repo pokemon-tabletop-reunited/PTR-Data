@@ -5,6 +5,7 @@
     "effect": "This drug enhances the sensitivity of the user’s nerves, enhancing their perception and making it incredibly useful for scouts and recon missions. However, the enhanced sense of touch greatly lowers the user’s pain tolerance. The user gains a +3 bonus to Perception, Focus, and Guile and a +1 bonus to Accuracy. However, each time the user takes an Injury, they are Flinched. The effects of Shock Syringe last for an hour.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368787544,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

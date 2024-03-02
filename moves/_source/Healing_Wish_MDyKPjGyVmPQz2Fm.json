@@ -8,6 +8,7 @@
     "effect": "The user immediately Faints, lowering its HP to 0. The user takes no Injuries from HP Markers when using Healing Wish. The target is immediately cured of up to 3 injuries, healed to their Maximum Hit Points, and has the Frequency of all Moves restored. Healing Wish may target a Pokémon in a Poké Ball. Healing Wish does not restore the Frequency of Healing Wish or Lunar Dance. Injuries healed through Healing Wish count toward the total number of Injuries that can be healed each day, and this healing is limited by the same.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "healing-wish",
     "schema": {
       "version": 0.11,
@@ -57,7 +58,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707824239133,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

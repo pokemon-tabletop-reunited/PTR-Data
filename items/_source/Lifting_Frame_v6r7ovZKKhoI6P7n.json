@@ -5,6 +5,7 @@
     "effect": "A mechanized frame worn over each arm with motorized muscles. Grants +2 to Power Capability. The frames are too unwieldy to use other equipment such as weapons while wearing them. Main and Off Hand equipment slots.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -21,6 +22,8 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "quantity": "1",
     "category": "",
     "cost": "3000",
@@ -42,7 +45,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1683368790037,
     "modifiedTime": 1699197799910,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -5,6 +5,7 @@
     "effect": "This painkiller and adrenaline injection lets the user temporarily ignore their debilitating injuries. A user with 5 or more injuries does not suffer Hit Point loss equal to their number of injuries when taking Standard Actions. If you are using the optional rule to decrease combat stages for each Injury, the user ignores these combat stage losses. This effect lasts for 5 turns, and at the end of the effect, the user automatically takes another injury.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368837725,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

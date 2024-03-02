@@ -5,6 +5,7 @@
     "effect": "Target: A Willing Pokémon\nRank 1 Effect: You become adept at harvesting Seeds\nand Spores from Pokémon. You may target a willing Pokémon that knows Sleep Powder, Stun Spore, Poison Powder, or Powder. Add this move to your Move list for the remainder of the day. You may not use Seed Bag to have multiple instances of the same move in your Move list. Seed Bag may be used twice per day per Rank.\nRank 2 Effect: You may also harvest Cotton Spore, Leech Seed, Spore, Worry Seed, or Rage Powder.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "seed-bag-rank-2-cr",
     "schema": {
       "version": null,
@@ -47,7 +48,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

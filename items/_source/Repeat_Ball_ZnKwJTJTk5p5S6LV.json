@@ -5,6 +5,7 @@
     "effect": "-25 Modifier if you already own a Pokémon of the target’s species.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "repeat-ball",
     "schema": {
       "version": 0.11,
@@ -51,7 +52,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368792662,
     "modifiedTime": 1707827791171,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

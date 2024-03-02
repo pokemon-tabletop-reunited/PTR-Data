@@ -5,6 +5,7 @@
     "effect": "An illegal and dangerous substance produced by desert-dwelling Steelix. Taking the drug inflicts 3 injuries on the user and allows them to use either a Scry or Augury once. The user also gains the Psychic Navigator Edge for two hours. Habitual use of the drug can lead to addiction and health problems.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368791135,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

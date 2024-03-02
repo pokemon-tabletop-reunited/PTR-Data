@@ -7,6 +7,7 @@
     "effect": "Trigger - Someone within 10 meters uses a damaging Dance Move\\nThe user may immediately use the triggering Move as a Standard Action interrupt. Whenever the user uses a Dance Move, they gain +2 to Accuracy Rolls until the end of their next turn.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -34,7 +35,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

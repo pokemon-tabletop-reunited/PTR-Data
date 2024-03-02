@@ -8,6 +8,7 @@
     "effect": "If the target has a stored Food Buff or has traded in a Food Buff this Scene, the user may gain the effect of the Food Buff. This does no count towards the Usual limit on the user's Food Buffs.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "bug-bite",
     "schema": {
       "version": 0.11,
@@ -57,7 +58,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707830084290,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

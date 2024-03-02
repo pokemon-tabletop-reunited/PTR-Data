@@ -9,6 +9,7 @@
     "effect": "Effect: Any Shadow Pokémon you own can level up from experience, evolve and spend Tutor Points. All other conditions and restrictions still apply as normal.\n\nNote: this Feature is exclusive from Redeemer, you cannot select Tyrant if you already have Redeemer.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "tyrant",
     "schema": {
       "version": null,
@@ -49,7 +50,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1697680486198,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

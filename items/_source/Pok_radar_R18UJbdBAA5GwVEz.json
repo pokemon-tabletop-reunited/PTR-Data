@@ -5,6 +5,7 @@
     "effect": "Contrary to its name, this handheld device actually detects both human and Pokémon lifesigns in a 20 meter radius and can display their relative location to you on a screen. No information is given about specific species. Off Hand equipment slot.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -21,6 +22,8 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "quantity": "1",
     "category": "",
     "cost": "5000",
@@ -42,7 +45,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1683368835660,
     "modifiedTime": 1699197799910,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -9,6 +9,7 @@
     "effect": "<b>Trigger</b>: The user uses a Normal-Type damaging Move\n<b>Effect</b>: The Move is changed to be Nuclear-Type.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -37,7 +38,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1689606908412,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

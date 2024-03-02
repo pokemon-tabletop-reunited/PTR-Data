@@ -7,6 +7,7 @@
     "effect": "Prerequisites: Engineer Effect: You can create a Small Pokébot for $1000, a Medium Pokébot for $2000, or a Large Pokébot for $3000. Pokébots you create begin at Level 5. You can create and install Basic Combat and Basic Utility Parts for Pokébots. ",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "ADALNbQLjpyt5R17",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

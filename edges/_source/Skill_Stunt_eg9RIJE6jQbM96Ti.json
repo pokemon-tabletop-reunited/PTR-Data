@@ -5,6 +5,7 @@
     "effect": "Choose a Skill you have at Novice Rank or higher. Choose a specific use of that Skill; when rolling that skill under those circumstances, you may choose to roll one less dice, and instead add +6 to the result. You may take this Edge multiple times, choosing a different circumstance each time.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "skill-stunt",
     "schema": {
       "version": 0.11,
@@ -41,7 +42,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683367953827,
     "modifiedTime": 1707826203034,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

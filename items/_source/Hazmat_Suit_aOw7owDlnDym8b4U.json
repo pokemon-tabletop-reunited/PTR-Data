@@ -5,6 +5,7 @@
     "effect": "Acts as a Gas Mask but also grants the Hazard Immunity capability and immunity to non-damaging Poison Type Moves. Body and Head equipment slots.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -21,6 +22,8 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "quantity": "1",
     "category": "",
     "cost": "3500",
@@ -42,7 +45,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1683368800407,
     "modifiedTime": 1699197799910,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

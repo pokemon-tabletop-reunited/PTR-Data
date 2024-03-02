@@ -5,6 +5,7 @@
     "effect": "Trigger - Your Pokémon hits with a Steel-Type attack\nEffect: Your Pokémon may add its Defense Stat to their Damage Roll in place of the attack’s normal offensive stat.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368084373,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

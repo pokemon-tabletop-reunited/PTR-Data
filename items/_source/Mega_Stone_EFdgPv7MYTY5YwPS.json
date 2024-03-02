@@ -5,6 +5,7 @@
     "effect": "An item that allows a Pokémon to Mega Evolve when used in conjunction with a Mega Ring. Each Mega Stone is specific to one species and Mega Evolved form.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -47,7 +48,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368790108,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

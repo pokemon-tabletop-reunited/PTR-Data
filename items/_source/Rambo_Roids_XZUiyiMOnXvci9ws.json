@@ -5,6 +5,7 @@
     "effect": "The user treats their Power Capability as increased by 2 for the next hour. However, each time they lift an object or perform a feat of strength beyond their normal means, they must make an Athletics check with a DC of 12. If they fail, they take an Injury immediately. Each such feat of strength induces a cumulative -1 penalty to these Athletics checks.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368821221,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

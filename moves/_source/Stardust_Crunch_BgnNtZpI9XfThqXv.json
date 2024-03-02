@@ -6,7 +6,18 @@
     "origin": "",
     "effect": "Stardust Crunch lowers the targets Evasion by 1 on 19+.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "affects": "target",
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.pMSied2gA79y0msm",
+        "range": "19",
+        "value": ""
+      }
+    ],
+    "enabled": true,
     "slug": "stardust-crunch",
     "schema": {
       "version": 0.11,
@@ -43,7 +54,7 @@
   "_id": "BgnNtZpI9XfThqXv",
   "effects": [],
   "folder": null,
-  "sort": 0,
+  "sort": 400000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
@@ -55,10 +66,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1693119119587,
-    "modifiedTime": 1707823304602,
+    "modifiedTime": 1709371403866,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!BgnNtZpI9XfThqXv"

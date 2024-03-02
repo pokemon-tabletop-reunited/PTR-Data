@@ -7,6 +7,7 @@
     "effect": "Prerequisites: 3 of Acrobatics, Athletics, Stealth, Survival, Guile, or Perception Skills at Expert Rank 2 AP – Free Action, Interrupt Trigger: A foe attempts to run away Effect: Before the target moves from its starting location, one of your Pokémon on the field may immediately Shift and use a Struggle Attack as an Interrupt. If this attack hits, the target is Tripped.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "h0xrKDLhLNwESAh7",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

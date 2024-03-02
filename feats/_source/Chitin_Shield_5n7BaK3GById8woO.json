@@ -5,6 +5,7 @@
     "effect": "Trigger - Your Bug-Type Pokémon is hit by a Status-Class Move\nEffect: The effect misses, and your Pokemon becomes immune to that Move for the rest of the Scene. Chitin Shield may be triggered once per Scene per Pokemon.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079264,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

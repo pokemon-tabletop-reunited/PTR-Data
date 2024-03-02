@@ -8,6 +8,7 @@
     "effect": "Flying Press may deal Flying Type damage if the user wishes. NOTE: If Flying Press is Move Sync'd, it only changes the Fighting Type portion of the Move. You can still only choose between that Type and Flying Type; you cannot shift Flying Press to change the Flying part to another Type.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "flying-press",
     "schema": {
       "version": 0.11,
@@ -57,7 +58,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707824284111,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -8,6 +8,7 @@
     "effect": "Final Gambit lowers the user to 0 Hit Points and causes them to Faint. Final Gambit then deals 1 point of damage to the target for every Hit Point lost by the user. Final Gambit does not cause items to activate.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "final-gambit",
     "schema": {
       "version": 0.11,
@@ -56,7 +57,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707815182675,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

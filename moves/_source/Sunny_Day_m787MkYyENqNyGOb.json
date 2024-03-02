@@ -8,6 +8,7 @@
     "effect": "The weather becomes Sunny for 5 rounds. While Sunny, Fire-Type Attacks gain a +5 bonus to Damage Rolls, and Water-Type Attacks suffer a -5 Damage penalty.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "sunny-day",
     "schema": {
       "version": 0.11,
@@ -56,7 +57,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707828722629,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

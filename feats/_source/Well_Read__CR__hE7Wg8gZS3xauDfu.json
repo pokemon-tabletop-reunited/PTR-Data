@@ -5,6 +5,7 @@
     "effect": "Effect: You may use your General Education Rank to qualify for Books, instead of the Book’s usual Skill Prerequisites, provided you have the normal Prerequisite at least Novice Rank.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -44,7 +45,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

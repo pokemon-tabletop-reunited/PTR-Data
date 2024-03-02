@@ -131,6 +131,7 @@
         "value": 1
       }
     ],
+    "enabled": true,
     "slug": "athlete-training",
     "schema": {
       "version": 0.111,
@@ -147,6 +148,8 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "level": {
       "value": 1
     },
@@ -187,7 +190,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.1",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1694875366042,
     "modifiedTime": 1706453147844,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

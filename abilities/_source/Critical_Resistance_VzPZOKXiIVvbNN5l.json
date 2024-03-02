@@ -7,6 +7,7 @@
     "effect": "If any attack would lower this Pokémon to 0 Hit Points or less from full Hit Points, instead the Pokémon’s Hit Point value is set to 1. If any Critical Hit would lower this Pokémon to lower than 1 HP from HP above 1, instead the Pokémon's Hit Point value is set to 1. Pokémon with Critical Resistance do not gain Injuries from Massive Damage.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "critical-resistance",
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

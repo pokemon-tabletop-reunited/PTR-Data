@@ -8,6 +8,7 @@
     "effect": "Prior to using this move, the user changes into the Crystal Type for the remainder of the Scene. Crystal Type moves always deal neutral damage. All non-Sonic attacks on Crystal Type Pokémon deal neutral damage. Sonic attacks instead deal super- effective damage.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "crystal-rush",
     "schema": {
       "version": null,
@@ -55,7 +56,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1696782936328,
     "modifiedTime": 1707823304602,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

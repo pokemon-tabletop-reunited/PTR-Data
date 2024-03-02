@@ -5,6 +5,7 @@
     "effect": "Trigger - You or your Pokémon miss with an attack, fail a Skill Check, or fail a Save Check\nEffect: Add half of your General Education Rank to the next roll of the same type that the triggering user makes.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -48,7 +49,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368078916,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

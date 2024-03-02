@@ -8,6 +8,7 @@
     "effect": "Enhancers\n\nPrerequisites: Chemist\nCost: $100\nEffect: You can create any X-Item, Dire Hit, or Guard Spec.\nPester Balls: Disorient\n\nPrerequisites: Chemist\nCost: $50\nEffect: You create Pester Balls that can inflict Rage or Confusion.\nPester Balls: Pain\n\nPrerequisites: Chemical Warfare\nCost: $50\nEffect: You create Pester Balls that can inflict Burn or Poison.\nPester Balls: Shut Down\n\nPrerequisites: Caustic Chemistry\nCost: $50\nEffect: You create Pester Balls that can inflict Paralysis or Sleep.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -16,7 +17,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "effects": [],
   "ownership": {
@@ -30,7 +33,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.2",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1699737623598,
     "modifiedTime": 1699789380204,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -5,6 +5,7 @@
     "effect": "Trigger: Your Pokémon gains an Injury\nEffect: The target instead does not gain an Injury, and gains Temporary Hit Points equal to your Command Rank. Perseverance may activate only once per Scene per target.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "perseverance-cr",
     "schema": {
       "version": null,
@@ -47,7 +48,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

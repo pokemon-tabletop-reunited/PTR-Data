@@ -7,6 +7,7 @@
     "effect": "The accuracy of all foes within 3 meters is reduced by -2 for 1 full round.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "interference",
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

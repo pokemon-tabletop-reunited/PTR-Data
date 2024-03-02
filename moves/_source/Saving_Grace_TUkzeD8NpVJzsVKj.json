@@ -6,6 +6,7 @@
     "effect": "Gain automatic Appeal points equal to your Voltage in addition to the roll. You cannot gain Fumble/Negative Appeal from Competitor’s moves for the remainder of the round. Saving Grace has a frequency of Contest/Scene.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -34,7 +35,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1694192813466,
     "modifiedTime": 1707761817661,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

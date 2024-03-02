@@ -7,6 +7,7 @@
     "effect": "Prerequisites: Minor Gift - Elemental Soul Effect: You gain a Capability based on which Legendary Bird or Beast granted you this Feature. Articuno grants Freezer, Moltres and Entei grant Firestarter, Zapdos and Raikou grant Zapper, and Suicune grants Fountain.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "68CWgAlVuv2FSbi3",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

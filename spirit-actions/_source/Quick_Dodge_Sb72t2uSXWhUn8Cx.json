@@ -8,12 +8,18 @@
     "effect": "When being targeted for an attack and having determined it has hit, raise your evasion by +2, and recalculate the hit.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
     "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "stackSlugs": false,
+    "keywords": [],
     "cost": "2",
     "trigger": "When you got hit by an attack",
     "active": true
@@ -29,7 +35,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "coreVersion": "12.317",
     "createdTime": 1694340162234,
     "modifiedTime": 1695027433290,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

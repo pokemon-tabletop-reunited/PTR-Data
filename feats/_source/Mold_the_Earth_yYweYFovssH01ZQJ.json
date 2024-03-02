@@ -5,6 +5,7 @@
     "effect": "Trigger - Your Pokémon with the Groundshaper Capability uses a Ground-Type Move\nEffect: Your Pokémon may use the Groundshaper Capability as a Free Action. When used this way, Groundshaper creates Spike Hazards in each square turned into Rough or Slow Terrain. If you wish, instead of Groundshaper’s normal range, you may choose to affect the square targeted by the attack and all cardinally adjacent squares. If the triggering Move is a Burst, Blast, Line, or Cone, you may choose to affect all squares in the targeted area instead.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368084418,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

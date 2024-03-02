@@ -9,6 +9,7 @@
     "effect": "This item allows the user to use the Move \"Slick\" as a Standard Action. The item is then consumed. Oil Slick vials are not usually sold in stores, but may be found from specialty shops for $500.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "oil-slick-cr",
     "schema": {
       "version": null,
@@ -18,6 +19,8 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "quantity": "1",
     "category": "",
     "cost": "500",
@@ -40,7 +43,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.2",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1699739492443,
     "modifiedTime": 1699789418091,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

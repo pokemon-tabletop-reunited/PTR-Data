@@ -5,6 +5,7 @@
     "effect": "Effect: You gain three Skill Edges for which you qualify. These must be Skill Edges that Rank Up a Skill.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "very-skilled-cr",
     "schema": {
       "version": null,
@@ -50,7 +51,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

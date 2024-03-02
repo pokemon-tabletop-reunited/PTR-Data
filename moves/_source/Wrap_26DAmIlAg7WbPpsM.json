@@ -8,6 +8,7 @@
     "effect": "The user gains a +1 Bonus to Accuracy Rolls made to initiate Grapple Maneuvers, and +2 to Skill Checks made to initiate Grapple Maneuvers or gain Dominance. Whenever the user gains Dominance in a Grapple, the target of the Grapple loses a Tick of Hit Points.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "wrap",
     "schema": {
       "version": 0.11,
@@ -54,7 +55,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707815262537,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

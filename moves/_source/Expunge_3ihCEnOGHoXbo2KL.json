@@ -13,6 +13,7 @@
     "effect": "When calculating Weakness and Resistance for Expunge, Nuclear-Typed targets calculate damage as if Nuclear was weak to Nuclear; if the user has the Radioactive Ability, it treats the target at though the target was not Nuclear-Typed for the purposes of Radioactive. If the target is in Nuclear Fallout Weather, Expunge cannot miss.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "expunge",
     "schema": {
       "version": 0.11,
@@ -59,7 +60,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1689606523899,
     "modifiedTime": 1707824375268,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

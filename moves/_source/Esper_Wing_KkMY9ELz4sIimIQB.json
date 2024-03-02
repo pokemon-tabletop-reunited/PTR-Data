@@ -8,6 +8,7 @@
     "effect": "Esper Wing is a Critical Hit on an 18+. Raise the user's Speed by 1 Combat Stage.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "esper-wing",
     "schema": {
       "version": 0.11,
@@ -57,7 +58,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707815126463,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

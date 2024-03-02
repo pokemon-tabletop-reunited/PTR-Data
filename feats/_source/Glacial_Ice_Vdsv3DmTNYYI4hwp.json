@@ -5,6 +5,7 @@
     "effect": "Your Ice-Type Pokémon gain Damage Reduction equal to your Type-Linked Skill Rank against Fighting, Fire, Rock, and Steel-Typed Attacks from which they would take Super-Effective Damage.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079263,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

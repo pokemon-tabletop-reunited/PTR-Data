@@ -8,6 +8,7 @@
     "effect": "Both targets must be hit for Trick to succeed. The user may target itself or willing allies with Trick; you do not need to roll for Accuracy Check in these cases. Both targets lose their Held Item and gain the other target's Held Item. If a target has no Held Item, they still can gain the other target's Held Item.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "trick",
     "schema": {
       "version": 0.11,
@@ -56,7 +57,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707822557560,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

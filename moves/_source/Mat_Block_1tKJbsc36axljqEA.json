@@ -8,6 +8,7 @@
     "effect": "If the user or an adjacent ally is hit by a damaging attack, the user may use Mat Block. The attack instead does not hit any targets, and it deals no damage and has no effect. You may only use Mat Block during the first round of an encounter",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -54,7 +55,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707815126463,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

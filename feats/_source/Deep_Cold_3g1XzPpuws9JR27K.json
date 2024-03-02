@@ -5,6 +5,7 @@
     "effect": "Trigger - Your Pokémon hits with a damaging Ice-Type Move\nEffect: The target is Frozen, and has their Attack, Special Attack, and Speed Combat Stages lowered by 1 each. The target is automatically cured of the Frozen Condition after 1 full round. A foe may be affected by Deep Cold only once per Scene.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368084387,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

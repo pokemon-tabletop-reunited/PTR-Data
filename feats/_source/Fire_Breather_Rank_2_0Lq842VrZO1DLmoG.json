@@ -230,6 +230,7 @@
         "uuid": "{item|flags.ptu.rulesSelections.rank2move2}"
       }
     ],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -273,7 +274,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368078918,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

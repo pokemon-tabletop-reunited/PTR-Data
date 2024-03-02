@@ -5,6 +5,7 @@
     "effect": "Target: A Pokémon with at least 1 Tutor Point.\nEffect: The target loses 1 Tutor Point, and then learns a Move created with Innovation. See the next section on page 84 for details on creating Moves for this Feature. A Pokémon may only have one Move created by Innovation at a time.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -45,7 +46,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368081797,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

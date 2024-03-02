@@ -8,6 +8,7 @@
     "effect": "Set-Up Effect: If the weather is not Sunny, the user's gains 1 Attack Combat Stage and 1 Special Defense Combat Stage. If it is Sunny, immediately Resolve. Resolution Effect: Attack with Solar Blade. Half damage in Sandstorm, Hail, or Rain.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "solar-blade",
     "schema": {
       "version": 0.11,
@@ -58,7 +59,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707828284752,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

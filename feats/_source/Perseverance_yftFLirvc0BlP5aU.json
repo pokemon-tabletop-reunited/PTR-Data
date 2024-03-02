@@ -5,6 +5,7 @@
     "effect": "Trigger - Your Pokémon gains an Injury\nEffect: The target instead does not gain an Injury. Perseverance may activate only once per Scene per target.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -45,7 +46,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079226,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

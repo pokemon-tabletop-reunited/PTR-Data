@@ -5,6 +5,7 @@
     "effect": "Your human form is now considered your Avatar, and you gain a second set of stats for your Pokémon form. This form is that of the Legendary you usurped, starts at level 1 with the nature and abilities of your choice, and may gain experience as if it were a Pokémon you owned. Switching between your human form and this one takes a Standard Action. Usurpers cannot receive Gifts or Blessings from other Legendaries, as they are divinity themselves now. Any Touched, Branded, Messiah, and Signer Edges and Features you possessed up until this point are refunded. The Patron Stats for this Feature and all other Usurper Features matches the stats of the Legendary you Usurped.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -47,7 +48,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368078809,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

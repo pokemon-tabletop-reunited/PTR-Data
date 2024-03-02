@@ -7,6 +7,7 @@
     "effect": "Trigger - You hit with Bone Club, Bonemerang, or Bone Rush\\nConnection - Bonemerang. Once per Scene per Move, the following Moves may be used as if they had the following bonuses:\\n- Bone Club: Bone Club’s target loses 1 Defense and Special Attack CS.\\n- Bonemerang: Has a Range of Line 6 but loses the Double Strike keyword\\n- Bone Rush: Bone Rush automatically ‘hits’ four times (as per the Five Strike keyword).",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -34,7 +35,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

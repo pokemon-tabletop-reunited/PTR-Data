@@ -7,6 +7,7 @@
     "effect": "A Pokémon or Trainer that is Stuck cannot make a Shift Action to move and cannot apply their Speed Evasion to attacks. This condition may be removed by switching, or at the end of an Scene as an Extended Action. Ghost Type Pokémon are immune to the Stuck Condition.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "stuck",
     "schema": {
       "version": 0.11,
@@ -20,6 +21,11 @@
       }
     },
     "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "stackSlugs": false,
+    "keywords": [],
     "duration": {
       "value": 0,
       "unit": "unlimited",
@@ -54,7 +60,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "coreVersion": "12.317",
     "createdTime": 1691878068601,
     "modifiedTime": 1695027124661,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

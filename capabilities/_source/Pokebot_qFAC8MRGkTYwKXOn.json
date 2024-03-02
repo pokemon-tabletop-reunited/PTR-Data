@@ -7,12 +7,18 @@
     "effect": "Pokébots can gain Injuries but are immune to all Status Effects except for Burn, Frozen, Paralysis, Disabled, Suppressed, Trapped, Slowed and Flinch. Pokébots are Typeless and Genderless but count as Steel Type for the purposes of Magnet Pull and take Super-Effective damage from Fire, Electric, and Ground Moves. Pokébots are capable of using most Held Items, though not consumables.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": ""
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "qFAC8MRGkTYwKXOn",
   "effects": [],
@@ -26,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "coreVersion": "12.317",
     "createdTime": 1693042188180,
     "modifiedTime": 1695027494151,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

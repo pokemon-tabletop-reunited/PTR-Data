@@ -5,6 +5,7 @@
     "effect": "These dangerous and often illegal cases remove the failsafe on Poké Balls that prevents them from catching Pokémon that are at 0 Hit Points or less. It allows Poké Balls to catch Fainted Pokémon as normal, but automatically inflicts 2 Injuries when hitting a Pokémon - whether the Capture is successful or not.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368831319,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -7,6 +7,7 @@
     "effect": "Trigger - The user hits with a damaging Electric-Type Move\nOne target hit by the attack becomes one stage more vulnerable to the attack (applied after all other modifiers). Immune targets are treated as initially double-resistant for the purposes of this Ability, and may be damaged normally.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "transistor",
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707829450619,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

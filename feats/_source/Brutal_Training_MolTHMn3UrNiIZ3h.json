@@ -2,10 +2,11 @@
   "name": "Brutal Training",
   "system": {
     "origin": "",
-    "effect": "The target becomes @UUID[Compendium.ptu.effects.Item.GeViS4FLUZheGYB2]{Effect: Brutal} until the end of the effect duration. Brutal Pokémon increase the Critical-Hit and Effect Range of all attacks by +1.",
+    "effect": "The target becomes @UUID[Compendium.ptu.effects.Item.GeViS4FLUZheGYB2]{Effect: Brutal} until the end of the effect duration. Brutal Pokémon increase the Critical-Hit and Effect Range of all attacks by +1.\n\n@UUID[Compendium.ptu.effects.Item.eJVB4rtFCpUrukL2]",
     "snippet": "",
     "rules": [],
-    "slug": "",
+    "enabled": true,
+    "slug": "brutal-training",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -49,10 +50,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1683368078871,
-    "modifiedTime": 1707818613949,
+    "modifiedTime": 1709366550851,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

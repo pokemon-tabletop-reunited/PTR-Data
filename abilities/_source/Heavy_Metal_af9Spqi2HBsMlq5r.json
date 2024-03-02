@@ -7,6 +7,7 @@
     "effect": "The user's Weight Class is increased by +2 (to a maximum of 6, or 7 if it is already 6). Their Defense Base Stat is increased by +2, but their Speed Base Stat is decreased by 2. Innate.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -34,7 +35,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

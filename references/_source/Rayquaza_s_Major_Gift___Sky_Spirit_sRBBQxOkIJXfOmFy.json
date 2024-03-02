@@ -7,6 +7,7 @@
     "effect": "Prerequisites: Minor Gift - Clear Skies Daily - Standard Action Target: Self Effect: To use Sky Spirit, the current Weather must be  Clear as a result of Defog or Air Lock. For the next five  rounds, foes within 10 meters of you have their Sky and  Levitate Capabilities halved. Allies within 10 meters of  you add 10 to their Initiative.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "sRBBQxOkIJXfOmFy",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -5,6 +5,7 @@
     "effect": "Target: Your Pokémon\nEffect: The target may immediately take an additional Standard Action to use an At-Will attack.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "alpha-strike-cr",
     "schema": {
       "version": 0.11,
@@ -52,7 +53,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368078960,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

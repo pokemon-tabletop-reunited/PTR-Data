@@ -27,6 +27,7 @@
         "priority": null
       }
     ],
+    "enabled": true,
     "slug": "order-brutal",
     "schema": {
       "version": 0.111,
@@ -80,7 +81,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1694203308552,
     "modifiedTime": 1708099204492,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

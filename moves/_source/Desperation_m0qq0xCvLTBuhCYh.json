@@ -6,6 +6,7 @@
     "effect": "All results of 1 grant you an additional -1 Appeal, and all results of 6 grant you +1 more Appeal Point. This Stacks with being Center Stage. Desperation has a frequency of Contest/Scene.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -34,7 +35,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1694192813466,
     "modifiedTime": 1707761817661,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

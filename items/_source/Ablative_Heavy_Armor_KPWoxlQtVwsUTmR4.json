@@ -5,6 +5,7 @@
     "effect": "A weighty but brittle armor that is self-repairing. Grants 20 Damage Reduction, but each damaging attack removes 5 Damage Reduction from the armor. Every five minutes, the armor repairs 5 Damage Reduction. The user’s Speed Combat Stage defaults to -1.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -21,6 +22,8 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "quantity": "1",
     "category": "",
     "cost": "14500",
@@ -42,7 +45,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1683368852790,
     "modifiedTime": 1699197799910,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

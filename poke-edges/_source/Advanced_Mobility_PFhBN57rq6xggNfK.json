@@ -5,6 +5,7 @@
     "effect": "Increase one Movement Capability by 2. This Edge may be taken multiple times, but may not be applied more than once to the same Movement Capability.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683369202694,
     "modifiedTime": 1707761829447,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

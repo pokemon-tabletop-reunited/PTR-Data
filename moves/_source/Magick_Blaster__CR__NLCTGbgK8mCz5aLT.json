@@ -8,6 +8,7 @@
     "effect": "Effect: Magick Blaster Flinches the target on 19+.\nLimitation: Ranged Weapons Only",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "magick-blaster-cr",
     "schema": {
       "version": null,
@@ -59,7 +60,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699701779793,
     "modifiedTime": 1707822683487,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

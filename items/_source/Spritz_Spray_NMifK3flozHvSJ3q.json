@@ -5,6 +5,7 @@
     "effect": "A drug that improves reflexes at the cost of mental focus. The user of Spritz gains +5 initiative and +1 Evasion for the next 5 rounds of combat but suffers a -3 penalty to Perception and Focus checks for the next hour.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368835960,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

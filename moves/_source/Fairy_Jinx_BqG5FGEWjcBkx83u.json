@@ -7,6 +7,7 @@
     "effect": "Lowers one of the target's stats by 2 Combat Stages. The lowered stat is chosen at random from any stats that are not negative. If no stat is eligible, this move will fail.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -43,7 +44,7 @@
   "_id": "BqG5FGEWjcBkx83u",
   "effects": [],
   "folder": null,
-  "sort": 0,
+  "sort": 500000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
@@ -52,9 +53,9 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1693119119587,
-    "modifiedTime": 1707816250828,
+    "modifiedTime": 1709369365688,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!BqG5FGEWjcBkx83u"

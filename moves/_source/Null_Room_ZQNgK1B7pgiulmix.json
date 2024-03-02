@@ -9,6 +9,7 @@
     "effect": "The area becomes Null for 5 rounds. While Null, all Pokmon have one of their Abilities Disabled (determined at random, roll when either the area becomes Null, or when the Pokmon first enters or re-enters the Null area.)",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -53,7 +54,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1689606523899,
     "modifiedTime": 1707761817661,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

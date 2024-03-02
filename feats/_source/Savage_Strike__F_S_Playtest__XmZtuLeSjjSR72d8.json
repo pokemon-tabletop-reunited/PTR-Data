@@ -5,6 +5,7 @@
     "effect": "Target: Your Pokémon with at least 2 Tutor Points\nEffect: The target loses 2 Tutor Points, and gains the Cruelty Ability.\nBonus: Master Intimidate: All your Pokemon Cruelty abilities gain: When you trigger Cruelty, the target gains 1 Weary.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
@@ -49,7 +50,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079338,
     "modifiedTime": 1707827204534,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

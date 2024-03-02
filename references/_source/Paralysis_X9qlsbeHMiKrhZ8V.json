@@ -7,6 +7,7 @@
     "effect": "A paralyzed target’s Initiative is halved. Make a Save Check that succeeds on 11+ at start of the target’s turn. On a successful check the target may act normally, but on a failed check the following effects occur:  - The target can only take a Standard OR Shift Action that round, but not both.  - The target is Vulnerable for 1 full round. - The target cannot take attacks of opportunity for 1 full round.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "X9qlsbeHMiKrhZ8V",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

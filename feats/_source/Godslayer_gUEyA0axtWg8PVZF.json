@@ -5,6 +5,7 @@
     "effect": "You may attempt to shatter one of the target’s Legendary Auras. The AC of this action is 10. If you successfully disabled the Aura, but rolled a 10-15, the feedback from the action gives you an Injury.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -47,7 +48,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079267,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

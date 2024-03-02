@@ -8,6 +8,7 @@
     "effect": "The user uses the move Transform. After resolving the effects of Transform, the user copies the target’s Type(s). If the user is now single typed, it may either change that type, or add a second type of its choice. If the user is now double typed, it may remove one of those types, or change one of those types. These changes last until the end of the Scene, or the user changes Types again.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "morph",
     "schema": {
       "version": 0.11,
@@ -54,7 +55,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707761817661,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -8,6 +8,7 @@
     "effect": "This Pokemons Attacks inflict Badly Poisoned on targets on rolls of 16+, ignoring immunity on all targets except Poison types.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "toxic-chain",
     "schema": {
       "version": null,
@@ -43,7 +44,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1695087599835,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -7,6 +7,7 @@
     "effect": "Ingredients/Cost: Dive Ball / $250 Effect: Add one of the following keywords to the targeted Dive Ball: Arctic, Mountain, Desert, Grassland, Rainforest, Forest, Tundra, Taiga, Marsh, Beach, Freshwater, Urban or Cave. Instead of when underwater or underground, the modified Poké Ball subtracts 20 from its Capture Rolls when thrown in an area that corresponds with the keyword chosen.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "1FjnzbvNV3P9kCXs",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

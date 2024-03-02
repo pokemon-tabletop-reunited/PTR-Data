@@ -8,6 +8,7 @@
     "effect": "If the user or an Ally within 6 meters is about to be hit by an attack, the user may use Kinesis as an interrupt. The triggering Accuracy Roll receives a -4 penalty. This may cause Moves to miss.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "kinesis",
     "schema": {
       "version": 0.11,
@@ -58,7 +59,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707824254783,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

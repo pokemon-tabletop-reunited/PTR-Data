@@ -29,12 +29,12 @@
       ],
       "advanced": [
         {
-          "slug": "levitate",
-          "uuid": "Compendium.ptu.abilities.Item.WsNZitOqUrhu9k78"
+          "slug": "surge-surfer",
+          "uuid": "Compendium.ptu.abilities.Item.g00ozUCcRuCOuVUg"
         },
         {
-          "slug": "prime-fury",
-          "uuid": "Compendium.ptu.abilities.Item.aOBGGKUF5d2oGykz"
+          "slug": "levitate",
+          "uuid": "Compendium.ptu.abilities.Item.WsNZitOqUrhu9k78"
         },
         {
           "slug": "competitive",
@@ -43,8 +43,8 @@
       ],
       "high": [
         {
-          "slug": "beam-cannon",
-          "uuid": "Compendium.ptu.abilities.Item.oQGRnCpDOKK3uJgc"
+          "slug": "speed-boost",
+          "uuid": "Compendium.ptu.abilities.Item.xVTWtc7EvwwNyRqt"
         }
       ]
     },
@@ -573,7 +573,9 @@
       "1": "Dragon",
       "2": ""
     },
-    "keywords": []
+    "keywords": [],
+    "stackSlugs": false,
+    "enabled": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -588,11 +590,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1693120305329,
-    "modifiedTime": 1708094889604,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1708981556305,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!g6SQnFWoLH4WHh23"
 }

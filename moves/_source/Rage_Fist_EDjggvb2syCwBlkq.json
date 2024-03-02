@@ -8,6 +8,7 @@
     "effect": "The user becomes Enraged. Each time the user is Hit while enraged, increase the DB of this move by 1 until the end of the Scene.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "rage-fist",
     "schema": {
       "version": 0.11,
@@ -57,7 +58,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707830360046,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

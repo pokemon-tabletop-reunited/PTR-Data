@@ -8,6 +8,7 @@
     "effect": "The Weather becomes Clear, and all Blessings, Coats, and Hazards are destroyed. Clear Weather is the default weather, conferring no bonuses or penalties of any sort.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "defog",
     "schema": {
       "version": 0.11,
@@ -56,7 +57,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707851713796,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -5,6 +5,7 @@
     "effect": "A belt with six slots for Poké Balls. Poké Balls affixed to the belt are locked in place with a number pad password to unlock them. Tampering with the belt triggers the password prompt, and failure to input the correct password within a minute triggers a loud alarm system.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
@@ -50,7 +51,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368865392,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

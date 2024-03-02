@@ -7,6 +7,7 @@
     "effect": "Prerequisites: Mentor, Pokémon Education as a Mentor Skill Target: A Pokémon with at least 1 Tutor Point Effect: The target loses 1 Tutor Point and may exchange one of its Basic Abilities for any other of its species’ Basic Abilities or one of its Advanced Abilities for any of its species’ Basic or Advanced Abilities. Note: You may NOT activate Versatile Teachings to reroll Abilities that require a roll to determine characteristics, such as Serpent’s Mark and Color Theory.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "Eb8Is7NXwMDjAhpI",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

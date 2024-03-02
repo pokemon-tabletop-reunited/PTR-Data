@@ -7,6 +7,7 @@
     "effect": "Effect: The city is your jungle. You gain a +1 Bonus to your Jump Capabilities. Add half your Survival Rank to your Evasion against Push, Trip, and Attack of Opportunity Maneuvers.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "effects": [],
   "folder": "3mspjPD8gPzP1jmO",
@@ -30,7 +33,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.2",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1699789394393,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

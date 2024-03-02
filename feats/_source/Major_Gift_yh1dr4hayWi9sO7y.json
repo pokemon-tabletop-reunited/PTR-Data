@@ -5,6 +5,7 @@
     "effect": "You gain one of your Patron’s Major Gifts, found in the Blessed and Damned splatbook. This Major Gift may be of your GM’s choosing. This feat is able to be taken multiple times based on your GM’s discretion.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -48,7 +49,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079130,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

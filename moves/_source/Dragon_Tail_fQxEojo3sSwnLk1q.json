@@ -7,8 +7,19 @@
     "origin": "",
     "effect": "The target is Pushed 6 meters minus their Weight Class. The target is also Tripped on 15+.",
     "snippet": "",
-    "rules": [],
-    "slug": null,
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.4lqKV4CxikZxxNWJ",
+        "range": "15",
+        "value": "",
+        "affects": "target"
+      }
+    ],
+    "enabled": true,
+    "slug": "dragon-tail",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -32,9 +43,9 @@
     "strongJaw": false,
     "type": "Dragon",
     "category": "Physical",
-    "damageBase": 6,
+    "damageBase": "6",
     "frequency": "At-Will",
-    "ac": 3,
+    "ac": "3",
     "range": "Melee",
     "contestType": "Smart - Big Show",
     "stab": false,
@@ -49,13 +60,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707815182675,
+    "modifiedTime": 1709370332030,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!fQxEojo3sSwnLk1q"

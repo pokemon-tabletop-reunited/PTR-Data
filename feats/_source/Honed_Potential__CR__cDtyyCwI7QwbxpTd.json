@@ -5,6 +5,7 @@
     "effect": "Effect: Your Pokémon’s base Move List Limit is increased by +1 (Reminder: The default Move List Limit is 6). When either of the two qualifying prerequisite skills reaches Master Rank, your Pokémon may have up to 4 Moves from their Move List come from TMs or Move Tutors.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "honed-potential-cr",
     "schema": {
       "version": null,
@@ -49,7 +50,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

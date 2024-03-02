@@ -7,6 +7,7 @@
     "effect": "The Pokémon’s Moves Flinch Targets on a roll of 19+. If a move already has a chance of Flinching foes, The effect Range is increased by +2. During the Introduction Stage of a Contest using this Pokémon, any 6s that are rolled instead count as 1s.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -34,7 +35,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

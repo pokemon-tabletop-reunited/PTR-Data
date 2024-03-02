@@ -8,6 +8,7 @@
     "effect": "While this Pokemon is holding  one of the following masks, this Ability changes to the corresponding ability. It also gains +1 CS in the corresponding stat when it enters battle for the first time each scene.\n\nTeal Mask - Conqueror - Speed\nWellspring Mask - Water Absorb - Sp. Def\nHearthflame Mask - Flash Fire - Attack\nCornerstone Mask - Rock Head - Defense",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "embody-aspect",
     "schema": {
       "version": null,
@@ -43,7 +44,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1695517151124,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

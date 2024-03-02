@@ -8,6 +8,7 @@
     "effect": "If the target is airborne as a result of Bounce, Fly, or Sky Drop, Gust can hit them, ignoring Range and has a Damage Base of 8 instead. *Grants: Guster",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "gust",
     "schema": {
       "version": 0.11,
@@ -57,7 +58,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707849166338,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -7,6 +7,7 @@
     "effect": "Mechanic – Momentum: » Your Pokémon begins each Scene with 0 Momentum. » At the end of each Combat round, your Pokémon gains +1 Momentum. » Whenever your Pokémon hits a Tagged foe, they gain +1 Momentum. » Your Pokémon has a maximum of 6 Momentum. So use a d6 to track it. » All Momentum is lost when your Pokémon Faints, your Pokémon is recalled, or combat ends.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "TIcgJjb8dg4ncUVU",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

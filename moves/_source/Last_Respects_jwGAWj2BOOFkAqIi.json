@@ -8,6 +8,7 @@
     "effect": "This attacks DB is increased by 4 for each Fainted ally in the user's Party (max 25) ",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "last-respects",
     "schema": {
       "version": 0.11,
@@ -56,7 +57,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707815182675,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

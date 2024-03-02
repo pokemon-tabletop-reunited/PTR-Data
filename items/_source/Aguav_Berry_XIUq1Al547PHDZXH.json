@@ -5,6 +5,7 @@
     "effect": "Bitter Treat. Heals 1/8th of the Pokémon’s Max HP. If the user likes the Treat’s flavor, it heals 1/6th instead. If the user dislikes the treat’s flavor, the user is Confused. Smart Poffin Ingredient. Tier 2.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "aguav-berry",
     "schema": {
       "version": 0.11,
@@ -51,7 +52,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368839251,
     "modifiedTime": 1707760420858,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

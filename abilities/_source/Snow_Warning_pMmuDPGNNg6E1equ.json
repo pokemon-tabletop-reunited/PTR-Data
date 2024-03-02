@@ -7,6 +7,7 @@
     "effect": "The Weather changes to Hail for 1 full round. The user is immune to Hit Point loss from Hail.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "snow-warning",
     "schema": {
       "version": 0.11,
@@ -40,7 +41,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707852356152,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

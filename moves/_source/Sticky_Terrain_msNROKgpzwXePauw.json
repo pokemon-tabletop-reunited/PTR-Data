@@ -9,6 +9,7 @@
     "effect": "The Field becomes Sticky for five rounds. While the Field is Sticky, non-Flying and nonLevitating Pokmon cannot declare Priority or Interrupt Moves outside their own Initiatives. In addition, all Jumping Capabilities of creatures touching the ground are reduced by 2, to a minimum of 0.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -53,7 +54,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1689606523899,
     "modifiedTime": 1707761817661,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

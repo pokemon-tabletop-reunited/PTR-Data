@@ -5,6 +5,7 @@
     "effect": "A Spray Case may be filled with a Pester Ball or Repel of any variety. This consumes the used item. Upon hitting a target, the Spray Case is emptied, spraying the item it was filled with onto its target, automatically hitting. This can occur when attempting to catch Pokémon (the effect is resolved before the capture roll), or when releasing a Pokémon from its Poké Ball (the effect is resolved before the Pokémon within is released). Spray Cases may be refilled numerous times, but may only have one sort of consumable in them at a time.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368784568,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

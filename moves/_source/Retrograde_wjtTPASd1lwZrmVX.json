@@ -8,6 +8,7 @@
     "effect": "The target has all of its CS reset, and all Coats removed. If the target is under the effects of Mega Evolution, the move Transform, or any Moves, Capabilities, Abilities or Features that change a targets Form(e) or Type, those effects immediately end.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "retrograde",
     "schema": {
       "version": 0.11,
@@ -56,7 +57,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707816561964,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

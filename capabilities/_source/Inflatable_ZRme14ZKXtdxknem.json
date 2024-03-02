@@ -7,12 +7,18 @@
     "effect": "A Pokémon with the capability Inflatable can expand its size up to 125% of its normal size as a Standard Action. While Inflated, a Pokémon does not change its weight. When Inflated, Pokémon gain a -1 Penalty to Evasion, but become Blocking Terrain; you may not target through an Inflated Pokémon. Returning to normal size is a Shift Action. If a Pokémon learns the Move Growth or Stockpile and does not have the Inflatable Capability, they gain Inflatable. A Pokémon under the effects of Minimize may not become Inflated, and an Inflated Pokémon may not use the Move Minimize.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "Compendium.ptu.effects.Item.dyk9GIGBhVo3NGGZ"
+    "referenceEffect": "Compendium.ptu.effects.Item.dyk9GIGBhVo3NGGZ",
+    "source": {
+      "value": "Homebrew"
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "ZRme14ZKXtdxknem",
   "effects": [],
@@ -26,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "coreVersion": "12.317",
     "createdTime": 1693042188180,
     "modifiedTime": 1695027494151,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

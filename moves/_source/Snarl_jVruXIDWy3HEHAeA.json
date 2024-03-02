@@ -7,7 +7,18 @@
     "origin": "",
     "effect": "Lower the Special Attack of all legal targets by 1 Combat Stage.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "affects": "target",
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.dqug0lkN2cNObB7t",
+        "range": "1",
+        "value": ""
+      }
+    ],
+    "enabled": true,
     "slug": "snarl",
     "schema": {
       "version": 0.11,
@@ -55,10 +66,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707830484614,
+    "modifiedTime": 1709369826914,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!jVruXIDWy3HEHAeA"

@@ -5,6 +5,7 @@
     "effect": "Effect: Choose and perform one of the cheers below. You may perform each Cheer only once per Scene.\n» Don’t Stop Now!: All allies on the Field gain Temporary Hit Points equal to your Charm Rank and become Motivated.\n» I Believe In You!: All allies on the Field gain a +2 Bonus to evasion for 1 full round and become Cheered.\n» Show Your Best!: Choose Def, or Sp.Def, all allies on the Field gain +1 CS in the chosen Stat and become Excited.\n» You Can Do It!: Choose Atk, Sp.Atk, or Spd, all allies on the Field gain +1 CS in the chosen Stat and become Encouraged.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "go-fight-win-cr",
     "schema": {
       "version": null,
@@ -49,7 +50,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

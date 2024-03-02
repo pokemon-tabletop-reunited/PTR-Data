@@ -6,9 +6,10 @@
   "img": "/systems/ptu/static/css/images/icons/feat_icon.png",
   "system": {
     "origin": "",
-    "effect": "Target: Your Pokémon that has undergone a Purification Ceremony\nEffect: Your Pokémon enters Paragon Mode for 5 rounds. Paragon Mode has the following effects:\n\n»» The Pokémon gains +2 to Accuracy checks.\n»» The Pokémon deals +10 bonus damage to Shadow-Type Pokémon.\n»» Shadow-Type Moves used on the Pokémon are no longer super effective and are instead Resisted.\n»» When receiving damage that would cause the Pokémon in Paragon Mode to Faint, they are instead left with 1 HP. This can only happen once per day per Pokémon.",
+    "effect": "Target: Your Purified Pokémon\nEffect: The target enters Paragon Mode while Bound. Paragon Mode has the following effects:\n- The Pokémon gains +2 to Accuracy checks and +4 to Skill Rolls made as part of Combat Maneuvers.\n- Shadow-Type Moves used on the Pokémon are Resisted, rather than being Super-Effective.\n- Once per day for a Pokémon, the Pokémon does not expend a use of a Scene or Daily Frequency move.\n- Once per day for a Pokémon, when receiving damage that would cause the Pokémon to Faint, they are instead left with 1 HP.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "warrior-of-light",
     "schema": {
       "version": null,
@@ -28,7 +29,7 @@
       "Open Your Heart",
       "Master Intuition or Master Charm"
     ],
-    "frequency": "Daily x3 - Standard Action",
+    "frequency": "Bind 3 AP - Rapid Action",
     "notes": "",
     "free": false,
     "class": "Redeemer"
@@ -47,11 +48,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1697669469678,
-    "modifiedTime": 1707818613949,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1708646358441,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!n6m1KWLZ9PBIMAq8"
 }

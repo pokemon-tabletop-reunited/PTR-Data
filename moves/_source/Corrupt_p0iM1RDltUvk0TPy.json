@@ -13,6 +13,7 @@
     "effect": "The target gains -2 CS in two stats, determined randomly. Roll 2d6, re-rolling results of 6, and duplicate results. 1 is Attack, 2 is Defense, 3 is Special Attack, 4 is Special Defense, 5 is Speed. On a miss, the target only loses -1 CS in each stat.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "corrupt",
     "schema": {
       "version": 0.11,
@@ -59,7 +60,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1689606523899,
     "modifiedTime": 1707816395131,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -5,6 +5,7 @@
     "effect": "Trigger: You or an ally trades in a Food Buff from an item with a Taste\nEffect: The target gains a Food Buff according to the Taste of the Snack granting the Buff. This Food Buff matches that of the corresponding basic Tasty Snack recipe.\nRecipe - Leftovers",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -45,7 +46,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368081785,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

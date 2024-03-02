@@ -5,6 +5,7 @@
     "effect": "Target: Your Pokémon\nEffect: Your Pokémon gains 3 Tutor Points. A Pokémon may be targeted by Expand Horizons only once.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -45,7 +46,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368078882,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

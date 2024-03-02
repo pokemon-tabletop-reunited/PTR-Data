@@ -8,6 +8,7 @@
     "effect": "Targets hit have their current Held Item(s) unable to be used for the remainder of the Scene. In addition, Steel-Type targets hit lose their immunity to Poison until they Faint or Take A Breather; Poison instead counts as neutral against Steel.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -51,7 +52,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707761817661,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

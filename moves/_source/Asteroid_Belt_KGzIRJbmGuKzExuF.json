@@ -13,6 +13,7 @@
     "effect": "The user gains 5 Asteroid Counters. Whenever the user is hit by a Melee Attack the user may expend one Asteroid Counter. If they do, the triggering foe loses a Tick of Hit Points, and on a d20 roll of 20 is Frozen.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "asteroid-belt",
     "schema": {
       "version": 0.11,
@@ -57,7 +58,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1689606523899,
     "modifiedTime": 1707761817661,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -9,6 +9,7 @@
     "effect": "Trigger: You use an Order with a frequency of At-Will on a Pokémon in Hyper Mode.\nEffect: The Pokémon gains the effect of the Order as normal. You must still spend all required AP costs for any Orders that need them.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "obey-me",
     "schema": {
       "version": null,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1697680771997,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

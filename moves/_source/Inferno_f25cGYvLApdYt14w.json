@@ -10,7 +10,9 @@
     "rules": [
       {
         "key": "ApplyEffect",
-        "predicate": [],
+        "predicate": {
+          "not": "target:types:fire"
+        },
         "selectors": "{item|id}-damage-received",
         "uuid": "Compendium.ptu.effects.Item.NA1Vn8A2h6JIIUhj",
         "range": "1",
@@ -18,6 +20,7 @@
         "affects": "target"
       }
     ],
+    "enabled": true,
     "slug": "inferno",
     "schema": {
       "version": 0.11,
@@ -65,10 +68,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707840168612,
+    "modifiedTime": 1709368446434,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!f25cGYvLApdYt14w"

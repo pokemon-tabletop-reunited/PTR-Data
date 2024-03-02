@@ -7,6 +7,7 @@
     "effect": "Prerequisites: Paragon Messiah: Daily – Free Action Signer: Free Action Messiah Trigger – You fail a Skill Check or Accuracy Roll. Signer Trigger – You roll a Skill Check or Accuracy Roll. Messiah Effect: You may reroll this Skill Check or Accuracy Roll. Signer Effect: You may add +4 to this Skill Check or +2 to this Accuracy Roll.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "fTlWMdC4AT3JirzY",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

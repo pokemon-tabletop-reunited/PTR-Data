@@ -5,6 +5,7 @@
     "effect": "Target: Your Poison-Type Pokémon\nEffect: While this Feature is Bound, when the target sucessfully hits a Poisoned or Blighted foe with a Poison- Type Move, the foe gains a -2 penalty to Accuracy Rolls and Evasion for one full round.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -49,7 +50,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368084396,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

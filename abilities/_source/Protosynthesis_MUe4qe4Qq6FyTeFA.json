@@ -7,6 +7,7 @@
     "effect": "While in Sunny Weather, this Pokemon's Highest Stat (non-HP) gains +1 CS.\n\nBonus: This Pokemon is always considered in Sunny Weather while holding Booster Energy.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "protosynthesis",
     "schema": {
       "version": 0.11,
@@ -40,7 +41,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707828867090,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

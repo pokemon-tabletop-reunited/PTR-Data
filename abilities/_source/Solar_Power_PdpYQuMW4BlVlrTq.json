@@ -7,6 +7,7 @@
     "effect": "Trigger - The user rolls Damage\\nThe user loses a Tick of Hit Points, and gains a bonus to the triggering damage roll equal to 5 + their Tick Value. Solar Power may be activated ignoring frequency while in Sunny Weather.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "solar-power",
     "schema": {
       "version": 0.11,
@@ -40,7 +41,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707848821225,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -24,6 +24,7 @@
         "value": 15
       }
     ],
+    "enabled": true,
     "slug": "effect-type-brace",
     "schema": {
       "version": 0.111,
@@ -40,6 +41,8 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "level": {
       "value": 1
     },
@@ -76,7 +79,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.1",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1696532561216,
     "modifiedTime": 1706455657750,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

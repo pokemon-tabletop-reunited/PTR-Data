@@ -5,6 +5,7 @@
     "effect": "Effects depend on whether your Pokémon has the Tolerance or Exploit ability.\n»» Whenever your Pokémon with Tolerance takes Super-Effective damage from a Tagged foe, your Pokémon may lose 2 Momentum to Resist that attack one step.\n»» Whenever your Pokémon with Exploit deals Resisted damage to a Tagged foe, your Pokémon may lose 2 Momentum to increase the effectiveness of the attack one step.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079267,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

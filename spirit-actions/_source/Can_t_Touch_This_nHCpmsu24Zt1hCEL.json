@@ -8,12 +8,18 @@
     "effect": "When an Attack has Hit on this Pokemon, it is instead a Miss. This cannot be used on a move that cannot miss.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
     "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "stackSlugs": false,
+    "keywords": [],
     "cost": "3",
     "trigger": "You are hit by an Attack",
     "active": true
@@ -29,7 +35,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "coreVersion": "12.317",
     "createdTime": 1694339291185,
     "modifiedTime": 1695027433290,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

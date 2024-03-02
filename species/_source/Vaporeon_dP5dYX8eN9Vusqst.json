@@ -56,19 +56,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.u0vJNmW9NyFphsjE",
         "slug": "eevee",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 25,
         "uuid": "Compendium.ptu.species.Item.dP5dYX8eN9Vusqst",
         "slug": "vaporeon",
-        "level": 25,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -101,7 +105,7 @@
       "highJump": 1,
       "longJump": 2,
       "power": 3,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "amorphous",
@@ -474,7 +478,13 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Water",
+      "1": ""
+    },
+    "stackSlugs": false,
+    "enabled": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -489,11 +499,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1689609527590,
-    "modifiedTime": 1708094889604,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1708544577615,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!dP5dYX8eN9Vusqst"
 }

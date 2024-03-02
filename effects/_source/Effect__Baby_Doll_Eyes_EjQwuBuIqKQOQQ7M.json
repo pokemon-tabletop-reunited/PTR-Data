@@ -16,6 +16,7 @@
         "phase": "applyAEs"
       }
     ],
+    "enabled": true,
     "slug": "effect-baby-doll-eyes",
     "schema": {
       "version": 0.11,
@@ -32,6 +33,8 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": true,
+    "keywords": [],
     "level": {
       "value": 1
     },
@@ -49,8 +52,7 @@
       "show": true
     },
     "badge": null,
-    "context": null,
-    "stackSlugs": true
+    "context": null
   },
   "effects": [],
   "folder": "cCM0awlDiATvW03q",
@@ -67,7 +69,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.1",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1694440845174,
     "modifiedTime": 1706462023257,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

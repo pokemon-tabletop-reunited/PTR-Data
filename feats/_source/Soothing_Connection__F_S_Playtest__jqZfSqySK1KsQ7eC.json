@@ -5,6 +5,7 @@
     "effect": "Target: Channeled Pokémon\nEffect: Distribute 5 points in any way among Pokémon you are Channeling. For each point you assign to a Channeled Pokémon, they gain a Tick of Hit Points and 1 Spirit.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
@@ -50,7 +51,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079112,
     "modifiedTime": 1707827204534,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

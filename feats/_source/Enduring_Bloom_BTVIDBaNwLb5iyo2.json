@@ -5,6 +5,7 @@
     "effect": "Trigger - Your Grass-Type Pokémon is hit by a damaging Bug, Fire, Flying, Ice, or Poison attack that deals Super-Effective Damage\nEffect: Your Pokémon gains Temporary Hit Points equal to twice your Type-Linked Skill Rank, and gains +1 Combat Stage in the Stat of your choice. If it is Sunny, they may gain +1 Combat Stage in a second, different Stat. You may activate Enduring Bloom only once per Scene per Pokémon.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368078966,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

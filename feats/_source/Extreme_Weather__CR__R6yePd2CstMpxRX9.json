@@ -5,6 +5,7 @@
     "effect": "Trigger: You or your Pokémon create a Weather Condition\nEffect: The Weather is particularly intense and has additional effects as listed below.\n- Hail: All Trainers and Pokémon that take Hail Damage take a -5 Penalty to all Damage Rolls.\n- Rain: Trainers and Pokémon that are not Water or Grass Typed can only take Standard OR Shift Action during their turns, but not both.\n- Sandstorm: All Trainers and Pokémon that take Sandstorm damage take a -2 Penalty to Accuracy Rolls.\n- Sun: Trainers and Pokémon that are not Fire or Grass Typed can only use At-Will and EOT Frequency Moves.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -44,7 +45,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

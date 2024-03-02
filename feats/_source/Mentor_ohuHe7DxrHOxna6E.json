@@ -5,6 +5,7 @@
     "effect": "Target: A Pokémon with at least 1 Tutor Point remaining\nEffect: The target loses 1 Tutor Point, and then learns a move from its tutor list marked with a (N), or any move on its level-up list learned at X Level or lower, where X is the target’s current Level plus the sum of your Mentor Skill Ranks. Note that despite being Tutored, these Moves count as if they were “natural” for organizational purposes.\nSpecial - When you take Mentor, choose two of Charm, Intimidate, Intuition, and Pokémon Education to become your Mentor Skills. The Skills you choose must be at Novice Rank or higher.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
@@ -48,7 +49,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079285,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

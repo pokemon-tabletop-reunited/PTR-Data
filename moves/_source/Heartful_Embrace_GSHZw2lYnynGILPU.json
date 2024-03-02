@@ -8,7 +8,27 @@
     "origin": "",
     "effect": "Heartful Embrace lowers the target’s Attack 1 Combat Stage on 18+, and is a Critical Hit on 19+.\nBonus: Heartful Embrace is treated as being super effective against the Shadow Type.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "affects": "target",
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.XxsE2tDurOsmFpeJ",
+        "range": "18",
+        "value": ""
+      },
+      {
+        "key": "EphemeralEffect",
+        "predicate": [
+          "target:types:shadow"
+        ],
+        "affects": "target",
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.rRNxbPYAqUwY5x8x"
+      }
+    ],
+    "enabled": true,
     "slug": "heartful-embrace",
     "schema": {
       "version": null,
@@ -55,10 +75,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1697668764147,
-    "modifiedTime": 1707823304602,
+    "modifiedTime": 1709372117014,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!GSHZw2lYnynGILPU"

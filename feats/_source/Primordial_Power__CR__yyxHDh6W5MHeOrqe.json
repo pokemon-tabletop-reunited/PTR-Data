@@ -5,6 +5,7 @@
     "effect": "Target: Your Fossil Pokémon with at least 2 Tutor Points remaining\nEffect: The target loses 2 Tutor Points and gains your choice of the Solid Rock or Mountain Peak Ability. You may only target a Pokemon once with Primordial Power.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -44,7 +45,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -8,6 +8,7 @@
     "effect": "The user gains a Tick of Hit Points. Phototroph may only be used while the user is under 50% Hit Points or in Sunny Weather.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "phototroph",
     "schema": {
       "version": null,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1696781682048,
     "modifiedTime": 1707828867090,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

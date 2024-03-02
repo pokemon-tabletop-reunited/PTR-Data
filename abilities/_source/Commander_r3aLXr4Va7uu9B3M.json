@@ -7,6 +7,7 @@
     "effect": "When the Pokémon enters the battlefield or at the beginning of its turn, if their is an allied Dondozo on the field, it goes inside the mouth of Dondozo. This Pokémon then issues commands from there. This Pokemon is considered untargetable by all effects and abilities except recalling, and its own abilities until it leaves Dondozos mouth as a standard action. It can attack as normal from within Dondonzo, but cannot avoid AOE damage. As long as this Pokemon is in Dondozo's mouth, Dondozo cannot switch out, and it gain's +2 CS in all stats.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "commander",
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -8,6 +8,7 @@
     "effect": "Lower the Accuracy of all legal targets by 1. *Grants Glow",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "flash",
     "schema": {
       "version": 0.11,
@@ -54,7 +55,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707761817661,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

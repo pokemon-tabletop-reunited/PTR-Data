@@ -8,6 +8,7 @@
     "effect": "For each Stockpiled Count the user has, Spit Up's Damage Base is increased by 8. If the user has no Stockpiled count, Spit Up cannot be used.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "spit-up",
     "schema": {
       "version": 0.11,
@@ -56,7 +57,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707816395131,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

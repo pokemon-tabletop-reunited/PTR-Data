@@ -5,6 +5,7 @@
     "effect": "Increase Power or a Jump Capability by 1. Capability Training may be taken multiple times, each time increasing a different Capability.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683369202709,
     "modifiedTime": 1707761829447,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

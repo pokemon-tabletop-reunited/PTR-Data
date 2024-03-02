@@ -5,6 +5,7 @@
     "effect": "Trigger - You give [Orders] that have targets.\nEffect: You may choose a different Order to give to each Target. You must pay all AP costs and follow Frequency restrictions for all Orders used in this way.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079217,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

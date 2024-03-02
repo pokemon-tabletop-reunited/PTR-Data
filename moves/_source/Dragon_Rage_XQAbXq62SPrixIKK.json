@@ -7,8 +7,16 @@
     "origin": "",
     "effect": "Ignore any Armor, Damage Reduction, or changes in the target's Defense or Special Defense (such as from Combat Stages) when calculating damage. Dragon Rage may be used as either a Physical or Special Move.",
     "snippet": "",
-    "rules": [],
-    "slug": null,
+    "rules": [
+      {
+        "key": "EphemeralEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.IK1rQX84Oel7pChQ"
+      }
+    ],
+    "enabled": true,
+    "slug": "dragon-rage",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -31,9 +39,9 @@
     "strongJaw": false,
     "type": "Dragon",
     "category": "Special",
-    "damageBase": 5,
+    "damageBase": "5",
     "frequency": "At-Will",
-    "ac": 2,
+    "ac": "2",
     "range": "Range 4",
     "contestType": "Cool - Steady Performance",
     "stab": false,
@@ -48,13 +56,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707816395131,
+    "modifiedTime": 1709370300405,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!XQAbXq62SPrixIKK"

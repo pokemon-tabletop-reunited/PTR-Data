@@ -7,6 +7,7 @@
     "effect": "The user may activate Adorable to either gain +2 Cute Dice in a Contest, or to gain +1 Special Defense Combat Stage and cure all allies within 5 meters of the Infatuated Condition.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -34,7 +35,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

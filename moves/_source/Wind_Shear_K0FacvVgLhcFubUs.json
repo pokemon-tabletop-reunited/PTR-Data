@@ -8,6 +8,7 @@
     "effect": "If the target has not yet acted in this round, Wind Shear’s Damage Base is increased to Damage Base 10 (3d8+10 / 24)",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "wind-shear",
     "schema": {
       "version": 0.111,
@@ -63,7 +64,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707816395131,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

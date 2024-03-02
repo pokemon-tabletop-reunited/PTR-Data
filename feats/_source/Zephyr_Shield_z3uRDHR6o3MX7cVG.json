@@ -5,6 +5,7 @@
     "effect": "Your Flying-Type Pokémon may activate Zephyr Shield as a Standard Action Interrupt, or as a Shift Action during their turn. If they do, until the end of the user’s next turn, all ranged attacks targetting them take a -1 penalty to Accuracy and -10 penalty to damage, they become immune to the effects of Moves with the Powder keyword, and they do not lose Hit Points from Weather effects. Additionally, if Zephyr Shield is used as a Standard Action, that Pokémon may use the Resolution Effect of a Flying-Type Move with the Set- Up keyword on their next turn, skipping the Set-Up phase.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368081745,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

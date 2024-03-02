@@ -5,6 +5,7 @@
     "effect": "Trigger - Your Pokémon hits with a damaging Water- Type attack\nEffect: All targets of the attack are put in a Vortex, and take a penalty to all Damage Rolls equal to your Type-Linked Skill Rank while in the Vortex.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368081767,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

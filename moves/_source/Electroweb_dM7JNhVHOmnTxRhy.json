@@ -7,7 +7,18 @@
     "origin": "",
     "effect": "Lower the Speed of all legal targets by 1 Combat Stage.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "affects": "target",
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.tOcc4Jxj8sbqfvl2",
+        "range": "19",
+        "value": ""
+      }
+    ],
+    "enabled": true,
     "slug": "electroweb",
     "schema": {
       "version": 0.11,
@@ -53,10 +64,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707824371138,
+    "modifiedTime": 1709370779099,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!dM7JNhVHOmnTxRhy"

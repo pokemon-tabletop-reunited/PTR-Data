@@ -7,6 +7,7 @@
     "effect": "When Shadow Corruption hits, flip a coin to determine if the Target is Burned or Poisoned. On 19+, the Target is Burned and Poisoned.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": null,
@@ -52,7 +53,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1694872082117,
     "modifiedTime": 1707816250828,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

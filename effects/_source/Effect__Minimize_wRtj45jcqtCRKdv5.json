@@ -37,6 +37,7 @@
         "scale": 0.6
       }
     ],
+    "enabled": true,
     "slug": "effect-minimize",
     "schema": {
       "version": 0.11,
@@ -88,7 +89,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1694687463422,
     "modifiedTime": 1707827614481,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -7,6 +7,7 @@
     "effect": "Rotom gains an Ability depending on what Form it has taken. If Rotom is level 40 or higher, it also may use a Move based on its Forme as if it that Move was on their Move List. (Ability - Move)\\n\\nStandard Rotom: Levitate - None\\nHeat Rotom: Flash Fire - Overheat\\nWash Rotom: Water Absorb - Hydro Pump\\nFrost Rotom: Winter’s Kiss - Blizzard\\nFan Rotom: Windveiled - Hurricane\\nMow Rotom: Sap Sipper - Leaf Storm",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -34,7 +35,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

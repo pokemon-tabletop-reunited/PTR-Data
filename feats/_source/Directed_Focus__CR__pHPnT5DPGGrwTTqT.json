@@ -5,6 +5,7 @@
     "effect": "Effect: Whenever your Pokémon with the Exploit or Tolerance Ability are targeted by an [Order], deal Super-Effective Damage, or take Super-Effective Damage, they gain +1 Momentum after all effects of the Move or Order are resolved.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -43,7 +44,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

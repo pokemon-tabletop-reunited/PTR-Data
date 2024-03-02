@@ -8,6 +8,7 @@
     "effect": "Held Item: While at Friendship level 5, this Pokemon gains +1 to all Base Stats. If this Pokemon faints, its friendship drops to level 4 and loses this bonus. This bonus is also lost if this item is removed in any way.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
@@ -17,6 +18,8 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "quantity": "1",
     "category": "",
     "cost": "2200",
@@ -39,7 +42,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1694116190025,
     "modifiedTime": 1696691594780,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

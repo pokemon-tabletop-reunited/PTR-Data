@@ -8,6 +8,7 @@
     "effect": "The target becomes Seeded. This attack is one step more effective on Water and Steel types.\n\nThis seeded effect does not restore hitpoints to the user, but does deal double damage to Steel and Water Types.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "salt-cure",
     "schema": {
       "version": 0.11,
@@ -56,7 +57,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707816395131,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

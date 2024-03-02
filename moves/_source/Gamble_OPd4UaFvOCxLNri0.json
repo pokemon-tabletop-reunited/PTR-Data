@@ -3,10 +3,11 @@
   "name": "Gamble",
   "system": {
     "origin": "",
-    "effect": "If you have 2 or more voltage, instead roll Base 6d6; you then lose 2 Voltage",
+    "effect": "All results of 6 this round grant you +1 Voltage.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "enabled": true,
+    "slug": "gamble",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -19,7 +20,7 @@
     "keywords": [],
     "type": "smart",
     "frequency": "EOT",
-    "dice": 4
+    "dice": 2
   },
   "img": "/systems/ptu/static/css/images/types2/SmartIC_Icon.png",
   "folder": "Ud4fHEQ32UJKeOPC",
@@ -33,10 +34,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1694192813466,
-    "modifiedTime": 1707761817661,
+    "modifiedTime": 1709366683430,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!OPd4UaFvOCxLNri0"

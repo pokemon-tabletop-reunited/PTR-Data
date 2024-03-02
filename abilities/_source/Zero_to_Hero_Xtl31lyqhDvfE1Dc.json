@@ -7,6 +7,7 @@
     "effect": "The first time the user switches out in battle from any effect, forced or unforced, it comes out in battle for the rest of the scene in Hero Forme. This ability cannot be copied/overwritten/disabled by any ability/move/effect.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "zero-to-hero",
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

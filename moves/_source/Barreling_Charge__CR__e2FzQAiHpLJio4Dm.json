@@ -8,6 +8,7 @@
     "effect": "As a Swift Action, the user may relocate itself to any open square in Barreling Charge’s area of effect (not provoking any Attacks of Opportunity). If the user Shifted before using this Move, its DB increases to 11.\n",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "barreling-charge-cr",
     "schema": {
       "version": null,
@@ -60,7 +61,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699701779793,
     "modifiedTime": 1707815126463,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

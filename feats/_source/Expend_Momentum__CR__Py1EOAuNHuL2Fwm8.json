@@ -5,6 +5,7 @@
     "effect": "Target: Your Pokémon under the effects of Focused Training\nEffect: Apply one of the following effects on the target by spending that much Momentum.\n- Spend 1 Momentum: Your Pokémon regains use of a EOT Frequency Move.\n- Spend 3 Momentum: Your Pokémon regains a use of Scene Frequency Move. May be chosen only once per Scene per Pokémon.\n- Spend 5 Momentum: Your Pokémon regains a use of Daily Frequency Move. May be chosen only once per Day per Pokémon.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -44,7 +45,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

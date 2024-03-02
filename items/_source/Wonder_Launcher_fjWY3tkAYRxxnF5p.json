@@ -5,6 +5,7 @@
     "effect": "This strange and complicated two-handed machine can only be used by those that have an Expert-Level Medicine or Technology Education Skill. The wielder can spend 1 AP to activate it, and apply an X-Item at a Pokémon within 8 meters. X Items applied through the Wonder Launcher do not cause the target to forfeit any actions. Items combined by a Researcher may be used in the Wonder Launcher, and do not cause the target to forfeit any actions even if they are also a Restorative.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -49,7 +50,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368787485,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

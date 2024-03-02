@@ -7,6 +7,7 @@
     "effect": "Trigger - The user is hit by a damaging Dark Type Move or an Attack of Opportunity\\nThe user may raise its Attack by +1 Combat Stage. The user always gains a +4 bonus to Skill Checks made to Intercept.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "justified",
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

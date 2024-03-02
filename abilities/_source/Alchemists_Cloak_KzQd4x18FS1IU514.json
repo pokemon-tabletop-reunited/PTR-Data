@@ -7,6 +7,7 @@
     "effect": "The user may hold a Herbal item within their cloak. This is in addition to any held items being held normally. This Herbal item may be consumed by the user as normal when appropriate, and does not count towards the Snack Food limit for the user. This Herbal Item cannot be removed, stolen, consumed, or destroyed by any external forces.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -34,7 +35,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

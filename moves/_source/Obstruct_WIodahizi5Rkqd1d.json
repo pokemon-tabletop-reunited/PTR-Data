@@ -8,12 +8,13 @@
     "effect": "If the user is hit by a Move, the user may use Obstruct. The user is instead not hit by the Move. You do not take any damage nor are you affected by any of the Move's effect. In addition, if the triggering attack was Melee ranged, the attacker's Defense is lowered by 2 Combat Stages.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "enabled": true,
+    "slug": "obstruct",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.G4NC604j4ReoUBQv",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -50,13 +51,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707815126463,
+    "modifiedTime": 1709369786585,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!WIodahizi5Rkqd1d"

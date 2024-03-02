@@ -5,6 +5,7 @@
     "effect": "A Shield is an Off-Hand defensive item held in one hand or braced to an arm. Shields grant +1 Evasion. They may be readied as a Standard Action to instead grant +4 Evasion and 10 Damage Reduction until the end of your next turn, but also cause you to become Slowed for that duration. If used Two-Handed, shields can also function as a Small Melee Weapon.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "shield",
     "schema": {
       "version": 0.11,
@@ -52,7 +53,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368797926,
     "modifiedTime": 1707760420858,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

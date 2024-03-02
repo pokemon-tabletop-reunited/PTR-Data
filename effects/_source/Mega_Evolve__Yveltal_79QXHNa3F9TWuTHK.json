@@ -31,6 +31,7 @@
         "uuid": "Compendium.ptu.abilities.Item.LKlXsNHcGUO0NVKe"
       }
     ],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.111,
@@ -47,6 +48,8 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "level": {
       "value": 1
     },
@@ -79,7 +82,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1696239974238,
     "modifiedTime": 1696772780218,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -8,6 +8,7 @@
     "effect": "You may use Grudge as an Interrupt when a Damaging Attack causes the user to faint. Grudge is activated as a Free Action (does not take up a Command.) The attack is resolved as usual, and the user Faints. The attacker that caused the user to Faint becomes Suppressed for the remainder of the encounter; switching and Taking a Breather does not end Suppression when used this way.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -53,7 +54,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707816395131,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

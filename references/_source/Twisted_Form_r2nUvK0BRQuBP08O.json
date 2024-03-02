@@ -7,6 +7,7 @@
     "effect": "Effect: Your very being becomes warped, taking on aspects of the one who Branded you. You gain the Elemental Types they possess as well as a +4 to Intimidation checks, but receive a -4 penalty on Charm and Guile checks, as these deformations are unsettling to most people and Pokémon.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "r2nUvK0BRQuBP08O",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

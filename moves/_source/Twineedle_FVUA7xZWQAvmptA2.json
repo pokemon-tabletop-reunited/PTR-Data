@@ -7,7 +7,18 @@
     "origin": "",
     "effect": "Twineedle Poisons the target on an Accuracy Check of 18+.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.299X6pActAV8ITz7",
+        "range": "18",
+        "value": "",
+        "affects": "target"
+      }
+    ],
+    "enabled": true,
     "slug": "twineedle",
     "schema": {
       "version": 0.11,
@@ -55,10 +66,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707825863748,
+    "modifiedTime": 1709368957003,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!FVUA7xZWQAvmptA2"

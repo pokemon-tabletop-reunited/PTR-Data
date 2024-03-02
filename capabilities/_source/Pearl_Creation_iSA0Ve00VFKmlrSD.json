@@ -7,12 +7,18 @@
     "effect": "When a Pokémon with this Capability Evolves, it loses this Capability and creates a Pink Pearl Held Item.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": ""
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "iSA0Ve00VFKmlrSD",
   "effects": [],
@@ -26,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "coreVersion": "12.317",
     "createdTime": 1693042188180,
     "modifiedTime": 1695027494151,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

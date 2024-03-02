@@ -9,6 +9,7 @@
     "effect": "All targets hit by Genesis Shackles are Slowed and Trapped until they Take a Breather. After resolving damage from this Move, Quetzar transforms into Statue Forme. Scene as Cosmic Ascent.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -55,7 +56,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1689606523899,
     "modifiedTime": 1707815126463,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

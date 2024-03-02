@@ -5,6 +5,7 @@
     "effect": "Your Pokémon gain +2d6 to your chosen Contest Stat. These dice are counted as if coming from Poffins.\n\nNote: When you take Style Expert, choose from Beauty, Cool, Cute, Smart, or Tough. This becomes your Chosen Contest Stat. You may take Style Expert multiple times, each time choosing a different Contest Stat",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -49,7 +50,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368081694,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

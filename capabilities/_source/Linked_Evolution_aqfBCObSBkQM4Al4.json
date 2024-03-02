@@ -7,6 +7,7 @@
     "effect": "This Capability is always listed with one or more species of Pokémon in parenthesis, such as Linked Evolution (Shelmet). This Pokémon may treat members of the listed species as being a (non-consumable) Evolution Stone.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "linked-evolution",
     "schema": {
       "version": 0.11,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "aqfBCObSBkQM4Al4",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1693042188180,
     "modifiedTime": 1697508098759,
     "lastModifiedBy": "xUomATnixLnn15IR"

@@ -8,6 +8,7 @@
     "effect": "When spending at least 1 Hour training your Pokémon your Trained Pokémon get additional bonuses while above 0 Spirit:\n>> Effect Range +1\n>> All Movement Capabilities +1\n>> Initiative Bonus +5",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "powerful-friend",
     "schema": {
       "version": 0.11,
@@ -43,7 +44,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1694149275274,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

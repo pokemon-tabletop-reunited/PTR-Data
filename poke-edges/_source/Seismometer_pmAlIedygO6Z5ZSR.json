@@ -5,6 +5,7 @@
     "effect": "The user's Tremorsense range is increased by a number of meters equal to their Perception Rank.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -39,7 +40,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683369202707,
     "modifiedTime": 1707761829447,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

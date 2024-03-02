@@ -5,6 +5,7 @@
     "effect": "Using a Zygarde Cube, as an Extended Action, 10 Cells may be formed into a 10% Zygarde, and 50 Cells may be formed into a 50% Zygarde. These may be disassembled into the number of Cells that they were created from as an Extended Action. 100 Cells may form either a 10% or 50% Zygarde with the Power Construct Ability as a Bonus Ability. The resulting Zygarde may not be disassembled, but may be changed between 10% and 50% Formes as an Extended Action using the Cube. The GM determines the Nature and Level of any Zygarde formed. As an Extended Action, a Cube may Tutor Zygarde available Cube moves for 1 TP each.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -21,6 +22,8 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "quantity": "1",
     "category": "",
     "cost": "",
@@ -42,7 +45,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1683368784880,
     "modifiedTime": 1699197799910,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

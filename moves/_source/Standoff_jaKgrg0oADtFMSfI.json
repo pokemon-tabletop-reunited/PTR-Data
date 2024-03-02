@@ -13,6 +13,7 @@
     "effect": "The user and one foe in the Blast enter a Standoff with each other. While in a Standoff, creatures are Trapped, take a -3 penalty to accuracy against creatures outside the Standoff, and resist all damage from creatures outside the Standoff one step further. In addition, those in a Standoff may not voluntarily move more than 5m away from the other participant. If forced to move, they may not move in any way unless it brings them closer to the other participant. A Standoff ends when either participant Faints or is recalled (such as by U-Turn or Roar).",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "standoff",
     "schema": {
       "version": 0.11,
@@ -57,7 +58,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1689606523899,
     "modifiedTime": 1707824948027,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

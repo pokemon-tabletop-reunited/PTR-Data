@@ -7,6 +7,7 @@
     "effect": "Prerequisites: Minor Gift - Landmaster Daily - Standard Action Target: Self Effect: For the next three rounds, foes within 6 meters  of you do not gain the benefits of Sunny Day. Their  Fire Type Moves do not deal extra damage, Solar Beam  retains the default charge time, Abilities based on Sunny  Weather do not activate, and Moves such as Synthesis  do not gain added benefit. All detrimental effects of  Sunny Day still apply.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "BwwvbeWZVO6QrUYc",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

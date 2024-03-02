@@ -8,6 +8,7 @@
     "effect": "Effect: Connection - Toxic. The user may activate this Ability when using Toxic to allow the Move to ignore Immunity to the Status Affliction, Blessings, and the effects of Abilities that may prevent Hit Point loss from being Badly Poisoned (such as Magic Guard or Poison Heal).",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "corrosive-toxins",
     "schema": {
       "version": null,
@@ -37,7 +38,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699487038051,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

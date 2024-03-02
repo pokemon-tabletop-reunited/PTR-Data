@@ -8,6 +8,7 @@
     "effect": "The weather becomes a Thunderstorm for 5 rounds. While in a Thunderstorm, all non-Electric or Ground Type Pokémon lose a Tick of Hit Points at the beginning of their turn. Thunder never misses in a Thunderstorm.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "thunderstorm",
     "schema": {
       "version": null,
@@ -54,7 +55,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1697666872721,
     "modifiedTime": 1707815126463,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

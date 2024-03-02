@@ -8,6 +8,7 @@
     "effect": "All targets regain Hit Points equal to 25% of their respective Hit Point totals, and they are cured of all of their Status Ailments.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "lunar-blessing",
     "schema": {
       "version": 0.11,
@@ -58,7 +59,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707815182675,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

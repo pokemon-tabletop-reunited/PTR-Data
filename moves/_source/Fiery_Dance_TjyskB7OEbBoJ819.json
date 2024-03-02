@@ -7,8 +7,20 @@
     "origin": "",
     "effect": "If Fiery Dance successfully hits a foe, it raises the user's Special Attack by 1 Combat Stage on Even-Numbered Rolls.",
     "snippet": "",
-    "rules": [],
-    "slug": null,
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-dealt",
+        "uuid": "Compendium.ptu.effects.Item.VFdii6AArwnxfDAU",
+        "range": "even",
+        "value": "",
+        "affects": "origin",
+        "even": true
+      }
+    ],
+    "enabled": true,
+    "slug": "fiery-dance",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -18,10 +30,7 @@
       "value": "PTR Compendiums"
     },
     "stackSlugs": false,
-    "keywords": [
-      "Target 1",
-      "Dance"
-    ],
+    "keywords": [],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -32,9 +41,9 @@
     "strongJaw": false,
     "type": "Fire",
     "category": "Special",
-    "damageBase": 8,
+    "damageBase": "8",
     "frequency": "EOT",
-    "ac": 2,
+    "ac": "2",
     "range": "Range 4",
     "contestType": "Cool - Desperation",
     "stab": false,
@@ -49,13 +58,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707816395131,
+    "modifiedTime": 1709368614761,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!TjyskB7OEbBoJ819"

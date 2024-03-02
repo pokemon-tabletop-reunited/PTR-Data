@@ -7,12 +7,18 @@
     "effect": "A Pokémon with Pack Mon instinctively belong to a rigid pack structure, and are naturally inclined to the top of that structure. Wild Pokémon that are of this Pokémon’s unevolved form or at least 10 levels lower than the user will instantly obey the user’s commands; showing a Pokémon with Pack Mon to a group of Wilds will put them at a Fearful disposition. However, two Pack Mons of the same species and within 10 Levels of each other will fight for dominance of the group. If a Wild Pack Leader is ten levels higher than your Pokémon, it will expect your Pokémon to obey it, and may attack if it does not.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": ""
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "ENiUTVi0Rp11UNo3",
   "effects": [],
@@ -26,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "coreVersion": "12.317",
     "createdTime": 1693042188180,
     "modifiedTime": 1695027494151,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

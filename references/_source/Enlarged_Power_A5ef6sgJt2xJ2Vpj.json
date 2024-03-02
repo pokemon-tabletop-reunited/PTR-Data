@@ -7,6 +7,7 @@
     "effect": "Effect: The Move gains the keyword Burst 1 if Melee 1-Target, or Blast 2 if ranged 1-Target. If the Move is already a Burst, Blast, Cone, or Line, increase the size of the Move’s Range by 1.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "A5ef6sgJt2xJ2Vpj",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

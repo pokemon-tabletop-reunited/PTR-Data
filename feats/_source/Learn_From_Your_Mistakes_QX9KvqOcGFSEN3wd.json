@@ -5,6 +5,7 @@
     "effect": "Trigger - Your Pokémon fails a Skill Check:\n  Your Pokémon may re-roll the Skill Check with a Bonus equal to its number of Smart Dice from Poffins.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -45,7 +46,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079288,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

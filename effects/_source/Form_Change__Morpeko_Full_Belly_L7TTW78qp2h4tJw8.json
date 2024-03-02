@@ -16,6 +16,7 @@
         "phase": "applyAEs"
       }
     ],
+    "enabled": true,
     "slug": "form-change-morpeko-full-belly",
     "schema": {
       "version": null,
@@ -25,6 +26,8 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "level": {
       "value": 1
     },
@@ -58,7 +61,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1695891197328,
     "modifiedTime": 1706024522433,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

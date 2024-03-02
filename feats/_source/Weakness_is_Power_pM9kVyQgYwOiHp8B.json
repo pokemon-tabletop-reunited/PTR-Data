@@ -8,6 +8,7 @@
     "effect": "Trigger: Your Pokémon is Wearied and takes a Critical Hit, Super Effective Damage or is given an Injury.\nEffect: Your Pokémon gains a Tick of Hit Points for each level of Weary after resolving the attack. During this Pokemons next turn, consider your Weary to be Spirit for the purposes of spending Spirit.\n(If you were at 3 Weary, and spend 3 Spirit, you would end up at 0.)",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
@@ -45,7 +46,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1694147249059,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

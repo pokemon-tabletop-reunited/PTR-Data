@@ -8,6 +8,7 @@
     "effect": "Targets hit by Triple Arrows lose 1 Combat Stage in both Defense and Special Defense.\\nAfter attacking with Triple Arrows, hit or miss, the user may Disengage 2m and attack a different target with Triple Arrows. This effect may be repeated a second time, targeting a creature that has not been targeted by either prior attack. Before making each attack roll, the user can elect to give up triggering all remaining additional shifts and attacks. Triple Arrows gains 1 Accuracy and 1 Damage Base for each attack that is given up. Triple Arrows always benefits from the Technician Ability.\\n Once Daily, after all attacks with Triple Arrows have been resolved, the user becomes Pumped. While Pumped, the userâ€™s Critical Range is extended by 2, or 18+ if the Critical Range is not otherwise extended. Being switched will cause this effect to end.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -52,7 +53,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707816395131,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

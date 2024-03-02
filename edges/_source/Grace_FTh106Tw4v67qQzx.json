@@ -5,6 +5,7 @@
     "effect": "Your Pokémon may consume and benefit from 2 more Poffins each. If this Pokémon is traded to a Trainer without the Grace feature, these extra dice from additional Poffins are not lost, but a Trainer without Grace may not benefit from more than 6 Dice gained from Poffins. You may always use any of the Skills that are prerequisites for Grace in the Introduction Stage of a Contest to roll for Contest Stat Dice of any kind.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
@@ -39,7 +40,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683367953822,
     "modifiedTime": 1707761797684,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -5,6 +5,7 @@
     "effect": "Saddles help Trainers ride Pokémon. They are created with a specific Pokémon species in mind, and only Pokémon with that body type can wear the saddle. A common Saddle type fits Ponyta, Rapidash, Blitzle, and Zebstrika, for example. Saddles grant a +3 bonus to all Skill Checks made to mount Pokémon, or to remain on the Saddle when hit by an attack.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368859853,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

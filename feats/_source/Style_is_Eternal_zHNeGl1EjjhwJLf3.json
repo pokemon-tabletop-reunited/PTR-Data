@@ -5,6 +5,7 @@
     "effect": "Trigger - Your Pokémon is Disarmed or would have their Held Item removed by another effect such as Thief or Covet\nEffect: Your Pokémon instead retains their Held Item. Style is Eternal may only be used once per Scene per Pokémon.\nRecipe - Focused Fashion",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -45,7 +46,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368081790,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

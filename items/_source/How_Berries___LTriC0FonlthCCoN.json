@@ -5,6 +5,7 @@
     "effect": "A beginner’s guide to the proper care of berry plants.\n\nRank 1 - Adept General Education: Once per day when making a Yield Roll, add +1 to the result.\nRank 2 - Expert General Education: You may create Mulch from Food Scrap.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368814837,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

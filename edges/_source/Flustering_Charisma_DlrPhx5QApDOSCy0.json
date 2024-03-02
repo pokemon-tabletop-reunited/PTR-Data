@@ -5,6 +5,7 @@
     "effect": "When you hit with a Move with the Social keyword, the target takes a -2 penalty to Save Checks against Volatile Status Afflictions for 1 full round.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "flustering-charisma",
     "schema": {
       "version": 0.11,
@@ -39,7 +40,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683367953813,
     "modifiedTime": 1707826294375,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

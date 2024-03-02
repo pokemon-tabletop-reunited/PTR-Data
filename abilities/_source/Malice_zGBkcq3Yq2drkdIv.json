@@ -7,6 +7,7 @@
     "effect": "Whenever foes within 3m of the user lose hit points from an effect that is not directly an Attack (so, Recoil and Night Shade would not be affected, but Hail and Toxic would be), the hit points lost are multiplied by 1.5x. More than one Malice Ability does not stack.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "malice",
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

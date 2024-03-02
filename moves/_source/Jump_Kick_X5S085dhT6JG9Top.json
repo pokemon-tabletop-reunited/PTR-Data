@@ -8,6 +8,7 @@
     "effect": "If Jump Kick misses, the user loses Hit Points equal to 1/4th of their Max Hit Points. A failure to hit due to a Move with the Shield keyword does not count as a miss. This cannot be used if Gravity is in effect.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "jump-kick",
     "schema": {
       "version": 0.11,
@@ -58,7 +59,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707829752397,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

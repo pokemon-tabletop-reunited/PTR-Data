@@ -7,6 +7,7 @@
     "effect": "Targets hit by Shadow Mist targets gain a -2 Penalty to Evasion (Total Evasion may not be lowered to a negative value), and are Vulnerable for one full round.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "shadow-mist",
     "schema": {
       "version": null,
@@ -52,7 +53,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1694871112477,
     "modifiedTime": 1707820528741,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

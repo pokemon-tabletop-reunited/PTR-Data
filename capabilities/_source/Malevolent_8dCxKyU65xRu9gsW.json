@@ -9,6 +9,7 @@
     "effect": "The user’s Struggle Attacks may be Shadow-Typed if they wish. They may also add their Special Attack instead of their Attack and have the attack deal Special Damage, if they wish. Multiple Shadow-Type Moves grant Malevolent.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "malevolent",
     "schema": {
       "version": null,
@@ -17,7 +18,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "effects": [],
   "sort": 0,
@@ -30,7 +33,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.3",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1697670824817,
     "modifiedTime": 1700226814861,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

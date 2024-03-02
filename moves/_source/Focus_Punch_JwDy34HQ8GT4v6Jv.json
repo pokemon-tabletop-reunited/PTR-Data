@@ -8,6 +8,7 @@
     "effect": "Use of Focus Punch must be declared as a Priority (Limited) action at the beginning of the round. Nothing happens at this time. At the end of the round, if the target hasn't been hit by an attack dealing damage equal to at least 25% of the user's Maximum Hit Points, the user may Shift and use Focus Punch. Focus Punch's Frequency is not expended if it is negated by an attack.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "focus-punch",
     "schema": {
       "version": 0.11,
@@ -59,7 +60,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707830259608,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

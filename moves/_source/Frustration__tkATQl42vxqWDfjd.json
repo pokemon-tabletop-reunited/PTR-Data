@@ -8,6 +8,7 @@
     "effect": "The damage base of this move is equal to 2 times the number of non-fainted Pokémon you carry with Weary (Max DB 12). Note: If you run a campaign with a reduced number of Pokémon, this will need to be scaled accordingly. 4 mons would be 3x, 2 mons would be 6x, etc.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
@@ -57,7 +58,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707815182675,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

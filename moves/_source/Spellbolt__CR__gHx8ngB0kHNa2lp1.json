@@ -8,6 +8,7 @@
     "effect": "Effect: Spellbolt cannot miss.\nLimitation: None",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "spellbolt-cr",
     "schema": {
       "version": null,
@@ -60,7 +61,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699701779793,
     "modifiedTime": 1707822723313,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

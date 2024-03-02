@@ -5,6 +5,7 @@
     "effect": "Target: Your Pokémon with Positive Spirit Points\nEffect: Your Pokémon may spend 2 Spirit to use a Cheerleading move from your move list disregarding it's frequency.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "spirited-routine-cr",
     "schema": {
       "version": null,
@@ -49,7 +50,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

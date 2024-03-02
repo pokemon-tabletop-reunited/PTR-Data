@@ -7,6 +7,7 @@
     "effect": "When Vroom and Revavroom gain this Ability or have thier forme changed, change their secondary Typing based on which Forme they have taken.\\nStandard - Corrosion - None\\nMagical - Misty Surge - Fairy\\nBlazing - Speed Boost - Fire\\nCombat - Stamina - Fighting\\nNoxious - Toxic Debris - Poison\\nWicked - Intimidate - Dark",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "torque-converter",
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

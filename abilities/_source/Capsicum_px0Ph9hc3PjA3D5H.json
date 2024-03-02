@@ -7,6 +7,7 @@
     "effect": "This Pokemon's Melee attacks cause a burn on an 18+. If the attack already burns, increase the range by +2. This Pokemon's ranged attacks apply the effects of Leech Seed on the target on 18+.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "capsicum",
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

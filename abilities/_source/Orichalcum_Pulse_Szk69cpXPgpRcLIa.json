@@ -7,6 +7,7 @@
     "effect": "Connection - Sunny Day. The user uses Sunny Day as a Swift Action, ignoring Frequency and as if the Move was on its Movelist.\nBonus: While in Sunny weather, this Pokemon gains +1 Attack Combat Stages. While in Hail, this Pokemon loses -1 CS Attack Combat Stages.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "orichalcum-pulse",
     "schema": {
       "version": 0.11,
@@ -40,7 +41,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707828867090,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -7,6 +7,7 @@
     "effect": "Pokémon with the Wavesense Capability can sense the location, number, and general size of all objects in water around them for up to 5 meters, almost as if they could see through the water. They are immune to being blinded in water.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "wavesense",
     "schema": {
       "version": 0.11,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "drJ11za0H38dplKj",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1693042188180,
     "modifiedTime": 1697508221733,
     "lastModifiedBy": "xUomATnixLnn15IR"

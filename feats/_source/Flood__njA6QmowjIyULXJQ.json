@@ -5,6 +5,7 @@
     "effect": "Your Water-Type Pokemon may activate Flood! as a Shift Action to use a damaging Water-Type Move as if had a range of Line 4 or Close Blast 2 instead of its usual range.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368078942,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

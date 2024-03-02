@@ -7,6 +7,7 @@
     "effect": "Prerequisites: Mentor, Intimidate as a Mentor Skill Target: A Pokémon that has spent Tutor Points on a Poké Edge or a Feature’s effect Effect: The target loses one effect gained from a Poké Edge or Feature and refunds all Tutor Points spent on it.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "Qs80HP7ivbF8e28G",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

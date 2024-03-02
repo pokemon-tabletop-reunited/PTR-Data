@@ -9,6 +9,7 @@
     "effect": "The area becomes Neutral for 5 rounds. While Neutral, all attacks are treated as dealing Neutral Effective damage to all targets. This effectiveness may still be changed after the fact by Moves and Abilities.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -53,7 +54,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1689606523899,
     "modifiedTime": 1707761817661,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

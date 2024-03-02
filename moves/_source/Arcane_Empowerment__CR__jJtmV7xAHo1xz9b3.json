@@ -9,6 +9,7 @@
     "effect": "Effect: The user gains +1 Special Attack, and increase the user's Accuracy by +1.\nLimitation: None\n",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "arcane-empowerment-cr",
     "schema": {
       "version": null,
@@ -54,7 +55,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699701779793,
     "modifiedTime": 1707761817661,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

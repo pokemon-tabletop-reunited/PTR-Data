@@ -8,6 +8,7 @@
     "effect": "Effect: Set 6 square meters of Slick within your range, all 6 meters must be adjacent with at least one other space of Slick. Slick causes terrain to count as Slow Terrain, and a grounded foe that runs into a Slick hazard must succeed at a DC 12 Athletics or Acrobatics Check, or else it is Tripped. If a creature inside a square occupied by a Grease hazard, or the square itself, is affected by a damaging Fire-Type attack, then the hazard is destroyed and any creatures occupying the square take a Tick of Hit Points of Typeless or Fire-Type damage, whichever would be more effective, and is Burned if they can be.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "slick-cr",
     "schema": {
       "version": null,
@@ -55,7 +56,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699739765647,
     "modifiedTime": 1707816395131,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

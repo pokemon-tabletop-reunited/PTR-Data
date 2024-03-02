@@ -5,6 +5,7 @@
     "effect": "Basic Poké Ball; often called just a “Poké Ball”.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "basic-ball",
     "schema": {
       "version": 0.11,
@@ -51,7 +52,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368803956,
     "modifiedTime": 1707827815075,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

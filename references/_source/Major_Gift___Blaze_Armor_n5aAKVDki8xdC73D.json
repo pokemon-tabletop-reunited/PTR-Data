@@ -7,6 +7,7 @@
     "effect": "Prerequisites: Minor Gift - Chosen of Victory 2 AP - Free Action, Interrupt Effect: You take damage from the next Attack that  hits you as if you were Fire Type. If the Attack was  made in melee range, your attacker loses 1/8th of their  maximum HP as a Fire Type effect. Apply weakness  and resistance. Do not apply stats.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "n5aAKVDki8xdC73D",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

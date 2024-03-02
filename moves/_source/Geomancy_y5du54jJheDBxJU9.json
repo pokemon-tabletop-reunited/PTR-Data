@@ -8,12 +8,13 @@
     "effect": "Set-Up Effect: The user may not shift this round. The user may create as many squares of Rough Terrain as it wants within a Burst 3 as plants burst through the ground, regardless of the surface material. Resolution Effect: Geomancy raises the user's Special Attack, Special Defense, and Speed by 2 Combat Stages.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "enabled": true,
+    "slug": "geomancy",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.PWFiPAiS6UNblMEi",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -48,13 +49,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707815126463,
+    "modifiedTime": 1709371223310,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!y5du54jJheDBxJU9"

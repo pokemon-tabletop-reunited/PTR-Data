@@ -7,6 +7,7 @@
     "effect": "Trigger - The user is hit by a Melee Attack\nEffect: Disable one of the user’s Abilities for the rest of the Scene or until they are switched out.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "lingering-aroma",
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

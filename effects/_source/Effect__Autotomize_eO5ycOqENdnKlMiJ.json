@@ -26,6 +26,7 @@
         "value": ""
       }
     ],
+    "enabled": true,
     "slug": "effect-autotomize",
     "schema": {
       "version": null,
@@ -35,6 +36,8 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": true,
+    "keywords": [],
     "level": {
       "value": 1
     },
@@ -52,8 +55,7 @@
       "show": true
     },
     "badge": null,
-    "context": null,
-    "stackSlugs": true
+    "context": null
   },
   "effects": [],
   "sort": 800000,
@@ -69,7 +71,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.1",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1698280941763,
     "modifiedTime": 1706462023257,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

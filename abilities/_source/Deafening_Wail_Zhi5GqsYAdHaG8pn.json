@@ -7,6 +7,7 @@
     "effect": "Whenever the user uses a Move with the Sonic keyword, they may increase that Move’s Damage Base by +2 (if it has a Damage Base) and that Move Flinches on a roll of 19+. Any targets hit by a Move you have changed in this way are treated as if they have the Ability Soundproof until the end of your next turn.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "deafening-wail",
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -5,6 +5,7 @@
     "effect": "Target: Your Steel-Typed Pokemon.\nWhen this Feature becomes Bound, the target gains +1 Defense Combat Stage. While the Feature remains bound, the target’s Defense Stat cannot be lowered, and its Defense Combat Stages cannot be lowered.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -49,7 +50,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079139,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

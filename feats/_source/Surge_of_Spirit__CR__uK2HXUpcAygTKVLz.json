@@ -5,6 +5,7 @@
     "effect": "Target: A Channeled target\nEffect: While this Feature is Bound, the target receives +X to Bonus Damage to its Damage Rolls, Damage Reduction and Initiative Modifiers, with X being equal to your Intuition Rank.\nBonus: When bound, the target gains double the effects of Spirit.\n\n@UUID[Compendium.ptu.effects.Item.d8214x5aNOxtEyxX]",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "surge-of-spirit-cr",
     "schema": {
       "version": null,
@@ -49,7 +50,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

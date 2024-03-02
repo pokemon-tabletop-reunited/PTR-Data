@@ -5,6 +5,7 @@
     "effect": "Choose a specific weapon type. You gain a +2 Bonus on Opposed Rolls to prevent being disarmed while wielding weapons of your chosen type. If you would be disarmed anyway, you may pay 1 AP to prevent yourself from being Disarmed.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -39,7 +40,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683367953826,
     "modifiedTime": 1707761797684,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -8,6 +8,7 @@
     "effect": "Effect: Entropic Wasting's damage cannot bring a target lower than 1 HP. Merciful Smite cannot miss.\nLimitation: None",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "entropic-wasting-cr",
     "schema": {
       "version": null,
@@ -59,7 +60,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699701779793,
     "modifiedTime": 1707822640807,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

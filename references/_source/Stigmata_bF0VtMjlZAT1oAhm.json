@@ -7,6 +7,7 @@
     "effect": "Effect: You have a permanent pain in your wrists and feet, and whenever you have more than 3 Injuries, you will bleed from these points of pain. This bleeding will not allow you to recover from these Injuries without extensive medical care and rest. However, you no longer take max HP penalties from Injuries.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "bF0VtMjlZAT1oAhm",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

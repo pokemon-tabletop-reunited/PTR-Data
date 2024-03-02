@@ -5,6 +5,7 @@
     "effect": "As long as this feature is Bound, you can command your Pokébot using a Standard Action rather than a Pokémon turn. Your Pokébots may still only act once a round.\nRecipe - Firmware Update",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -48,7 +49,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079007,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

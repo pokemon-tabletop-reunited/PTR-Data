@@ -8,6 +8,7 @@
     "effect": "Light Screen, Reflect and Aurora Veil cannot be declared in response to Psychic Fangs.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "psychic-fangs",
     "schema": {
       "version": 0.11,
@@ -57,7 +58,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707830146624,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

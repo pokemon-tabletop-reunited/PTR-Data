@@ -7,6 +7,7 @@
     "effect": "Prerequisites: Technician\n1 AP – Full Action\nEffect: You may use Rock Smash, targeting against any number of adjacent foes. You do not count as Flanked for one full round.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "gS0LzGf5jGGCAhVo",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.14",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706115451945,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

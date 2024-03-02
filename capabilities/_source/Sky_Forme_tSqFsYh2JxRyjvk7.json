@@ -7,12 +7,18 @@
     "effect": "This Pokémon can transform into its Sky Forme as a Full Action in sunlight when it has Gracidea, a rare type of flower, nearby. It will be forced to revert into its normal form if it is hit by an Ice Type Move, if it touches ice, or if the sun is no longer shining. This Pokémon may have a different set of Moves for each Forme.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": ""
+    "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "tSqFsYh2JxRyjvk7",
   "effects": [],
@@ -26,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "coreVersion": "12.317",
     "createdTime": 1693042188180,
     "modifiedTime": 1695027494151,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

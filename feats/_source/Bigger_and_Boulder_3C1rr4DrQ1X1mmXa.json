@@ -5,6 +5,7 @@
     "effect": "Trigger - Your Pokémon hits with a damaging Rock-Type Move\nEffect: All targets hit by the triggering Move are pushed a number of meters equal to half your Type-Linked Skill Rank or less, and they become Vulnerable for one full round. Create a Stealth Rock Hazard adjacent to each foe hit this way.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368078883,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

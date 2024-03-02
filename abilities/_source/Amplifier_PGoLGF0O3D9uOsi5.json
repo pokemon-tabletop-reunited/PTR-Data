@@ -8,6 +8,7 @@
     "effect": "The user’s damaging Sonic moves gain a +10 Bonus to Damage.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "amplifier",
     "schema": {
       "version": null,
@@ -36,7 +37,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1696781028319,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

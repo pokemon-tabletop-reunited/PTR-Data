@@ -8,6 +8,7 @@
     "effect": "On a 19+, legal targets hit by Bitter Malice are Stuck and Trapped until the end of their next turn. On a hit, lower the Attack of all legal targets by 1 Combat Stage.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "bitter-malice",
     "schema": {
       "version": 0.11,
@@ -56,7 +57,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707816395131,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

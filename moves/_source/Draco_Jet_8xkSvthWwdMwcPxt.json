@@ -7,6 +7,7 @@
     "effect": "--",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -44,7 +45,7 @@
   "_id": "8xkSvthWwdMwcPxt",
   "effects": [],
   "folder": null,
-  "sort": 0,
+  "sort": 300000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
@@ -53,9 +54,9 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1693119119587,
-    "modifiedTime": 1707815182675,
+    "modifiedTime": 1709369365688,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!8xkSvthWwdMwcPxt"

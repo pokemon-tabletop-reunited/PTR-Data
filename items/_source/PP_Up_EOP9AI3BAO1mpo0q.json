@@ -5,6 +5,7 @@
     "effect": "Raise one of the user’s Move’s Frequency one level. Use only one per Pokémon.\n\nAt-Will Moves cannot have their Frequency increased further. EOT Moves become At-Will. Daily and Scene Moves gain an additional use in their Frequency’s unit of time. For example, a Daily Move becomes Daily x2, and a Scene x2 Move becomes Scene x3.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368830013,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

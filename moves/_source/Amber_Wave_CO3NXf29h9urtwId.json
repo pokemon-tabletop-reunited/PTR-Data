@@ -7,6 +7,7 @@
     "effect": "All legal targets become Stuck and have their Speed CS lowered by 1.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -41,7 +42,7 @@
   "_id": "CO3NXf29h9urtwId",
   "effects": [],
   "folder": null,
-  "sort": 0,
+  "sort": 700000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
@@ -50,9 +51,9 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1693119119587,
-    "modifiedTime": 1707761817661,
+    "modifiedTime": 1709369365688,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!CO3NXf29h9urtwId"

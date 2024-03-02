@@ -8,12 +8,13 @@
     "effect": "Memento may be used as a Free Action that does not consume a Command action when the user becomes Fainted. Lower each of the target's stats by 2 Combat Stages.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "enabled": true,
+    "slug": "memento",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.Tg1ey33pd5jw2FAN",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -50,13 +51,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707816395131,
+    "modifiedTime": 1709369717445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!GM2n72N4lfcq8Xrt"

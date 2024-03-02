@@ -5,6 +5,7 @@
     "effect": "Trigger: You hit with a Pester Ball or apply a Repel to a okémon\nEffect: Make a Technology Education Roll. All targets ffected by this Feature’s trigger lose Hit Points equal to your roll. This may only affect a target once per Scene.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -44,7 +45,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -5,6 +5,7 @@
     "effect": "A Poké Ball in a Bounce Case may bounce once when thrown or launched, up to a distance of 3 meters. This can be used to extend the effective range of a Poké Ball, hit around obstacles, or trigger effects such as the Capture Specialist’s Curve Ball on an additional target.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368787165,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

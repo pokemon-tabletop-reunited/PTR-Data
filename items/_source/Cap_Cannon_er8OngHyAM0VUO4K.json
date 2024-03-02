@@ -5,6 +5,7 @@
     "effect": "Capsule Cannons - or Cap Cannons for short - are two-handed pieces of Equipment which can be loaded with different types of Capsules (Caps) and fired. They can be fired as a Standard Action, and the range and effect of the Cannon depends on the Cap used. A Cap Cannon may have up to five Caps loaded in it at once, and they do not have to be fired in any particular order. You may load up to two Caps into a Cannon as a Standard Action. There are three types of Caps: Bean Caps, Glue Caps, and Net Caps. In addition to Caps, Capsule Cannons can also be loaded with Smoke Bombs, Pester Balls, and Poke Balls. When fired this way, these items behave normally but have a Range of 10 meters.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -21,6 +22,8 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "quantity": "1",
     "category": "",
     "cost": "5000",
@@ -42,7 +45,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1683368817819,
     "modifiedTime": 1699197799910,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

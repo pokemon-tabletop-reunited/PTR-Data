@@ -8,6 +8,7 @@
     "effect": "All Bug Type moves gain the Priority Keyword.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "encroach",
     "schema": {
       "version": 0.11,
@@ -37,7 +38,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1693118712766,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

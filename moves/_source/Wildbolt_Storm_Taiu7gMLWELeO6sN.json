@@ -7,7 +7,20 @@
     "origin": "",
     "effect": "The target is Paralyzed on a 17+. If the target is in Rainy Weather, Wildbolt Storm cannot miss.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": {
+          "not": "target:types:electric"
+        },
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.bzZaLfYxVyKbJOCo",
+        "range": "17",
+        "value": "",
+        "affects": "target"
+      }
+    ],
+    "enabled": true,
     "slug": "wildbolt-storm",
     "schema": {
       "version": 0.11,
@@ -56,10 +69,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707849264047,
+    "modifiedTime": 1709371061948,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Taiu7gMLWELeO6sN"

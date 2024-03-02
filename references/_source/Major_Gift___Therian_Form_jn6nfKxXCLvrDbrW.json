@@ -7,6 +7,7 @@
     "effect": "Prerequisites: Minor Gift - Cloud Reading Daily - Free Action Target: Self Effect: Create an extra stat block for yourself, redistributing any Stat Points you gained from level ups or [+Any Stat] tags as you wish. You may activate this Major Gift during an encounter to swap your stats to the extra stat block for the rest of the encounter. Therian Form may be ended early at any time as a Standard Action. Therian Form automatically deactivates if you Faint. While Therian Form is active, you take on slight Avian, Bestial, or Draconic characteristics depending on your patron Legendary.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "jn6nfKxXCLvrDbrW",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

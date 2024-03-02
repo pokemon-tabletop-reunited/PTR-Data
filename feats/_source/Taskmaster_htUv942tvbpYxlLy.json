@@ -5,6 +5,7 @@
     "effect": "Trigger - You apply Brutal Training as a Training action\nEffect: You may grant your Pokémon up to three injuries. If your Pokémon has at least one Injury, it becomes Hardened.  See Extras - Class Mechanics for Hardened details.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "taskmaster",
     "schema": {
       "version": 0.11,
@@ -49,7 +50,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368078813,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

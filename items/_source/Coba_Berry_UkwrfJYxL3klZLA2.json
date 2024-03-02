@@ -5,6 +5,7 @@
     "effect": "Grants a Food Buff which, when traded in, grants one step of resistance versus a foe's super effective Flying-type move. Tier 3.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -47,7 +48,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368796195,
     "modifiedTime": 1707760420858,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

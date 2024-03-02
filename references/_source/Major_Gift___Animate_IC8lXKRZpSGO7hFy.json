@@ -7,6 +7,7 @@
     "effect": "Prerequisites: Major Gift - Primal Craftsmanship Daily - Extended Action Target: Materials Effect: Create a small golem out of the inanimate  material of your choice. The material used will  determine the Type of the golem. Scrap metal may  create a steel type, lava a fire type, and granite a rock  type for example. Distribute a number of Stat Points  to the golem equal to your Trainer Level. The golem  is small size, weight class 1, and has Overland 4, Jump  0/0, Power 2, and Sinker. It can make Struggle Attacks  of its Type. The golem must be verbally commanded by  you to act. It cannot regain HP and is destroyed upon  Fainting. At the end of the day or if you Faint, the golem  crumbles and is destroyed. ",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "IC8lXKRZpSGO7hFy",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

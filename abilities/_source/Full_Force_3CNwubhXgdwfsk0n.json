@@ -9,6 +9,7 @@
     "effect": "When using a Move with a Damage Base that could be more than one value (not including Double Strike or Five Strike Moves), the Move is counted as being its highest Damage Base. This does not apply to moves that have a conditional damage boost that is of a different Frequency to the rest of the Move (such as Hex or Assurance).",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -37,7 +38,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1689606908412,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -5,12 +5,13 @@
     "effect": "Trigger: You spend at least half an hour training your Pokémon\nEffect: For each Pokémon that has been trained during this time, choose a Stat besides HP; that Stat becomes Trained until an Extended Rest is taken. The default State of Trained Stats is +1 Combat Stages instead of 0. A Pokémon may have only one Trained Stat at a time.\nNote: Just to clarify, this Feature Drains 1 AP per training session, not per Pokémon. So train as many as you can to get the most out of this Feature!",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "ace-trainer-cr",
     "schema": {
       "version": null,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.B28ejoG9fROULnvd",
     "source": {
       "value": "Homebrew"
     },
@@ -47,10 +48,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
-    "modifiedTime": 1707827243445,
+    "modifiedTime": 1709371508982,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Pp1FV8zTkBkc1FIi"

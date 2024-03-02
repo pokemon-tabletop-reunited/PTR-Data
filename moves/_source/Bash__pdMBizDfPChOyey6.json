@@ -8,6 +8,7 @@
     "effect": "Bash! lowers the target's Initiative to 0 for 1 full round on 15+.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "bash",
     "schema": {
       "version": 0.11,
@@ -56,7 +57,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707822604363,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

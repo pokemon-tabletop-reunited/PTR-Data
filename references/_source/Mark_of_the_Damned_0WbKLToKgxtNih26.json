@@ -7,6 +7,7 @@
     "effect": "Effect: You gain a literal Brand in the form of an unsettling tattoo on a noticeable part of your body, such as your face, hands, legs, arms, or torso. It may also take the form of a deformation such as one of your eyes becoming noticeably cursed or other such markings. This Brand allows the one who placed it upon you to communicate with you and locate you at any time, any they may even have advice or offer to help you on occasion. ",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "0WbKLToKgxtNih26",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

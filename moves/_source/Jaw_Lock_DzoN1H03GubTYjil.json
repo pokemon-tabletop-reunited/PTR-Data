@@ -8,6 +8,7 @@
     "effect": "You may perform a Grapple Maneuver against the target as a Free Action.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "jaw-lock",
     "schema": {
       "version": 0.11,
@@ -57,7 +58,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707830128255,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

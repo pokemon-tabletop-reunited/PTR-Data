@@ -5,6 +5,7 @@
     "effect": "Trigger - At the end of your Pokémon’s turn, their Chosen Stat is at its default number of Combat Stages or less\nEffect: The triggering Pokémon gains +1 Combat Stage in your Chosen Stat. (Note: The “Default” number of Combat Stages is usually 0)",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -47,7 +48,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368081795,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

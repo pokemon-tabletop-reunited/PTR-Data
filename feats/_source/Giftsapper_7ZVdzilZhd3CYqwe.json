@@ -5,6 +5,7 @@
     "effect": "As long as Giftsapper’s user is conscious, all Trainers within 10 meters must make a Focus Check with DC equal to three times the highest Skill Rank of Giftsapper’s user between Focus, Intimidate, or Command in order to activate their Gifts. This Check is made each time a Trainer attempts to use an activated Gift, and a failure means neither any resources such as AP nor the frequency of the Gift is expended. For Gifts with Static or ongoing effects, the Check is made each turn, and a failure ends the effect for that turn. Giftsapper’s user may never gain Gifts.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -48,7 +49,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079332,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

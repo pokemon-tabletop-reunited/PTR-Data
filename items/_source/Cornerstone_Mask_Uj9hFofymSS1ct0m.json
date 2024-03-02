@@ -8,6 +8,7 @@
     "effect": "While Ogerpon is holding this, it gains the Rock Type and Rock Type moves DB are increased by 1.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "cornerstone-mask",
     "schema": {
       "version": null,
@@ -17,6 +18,8 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "quantity": "1",
     "category": "Held Item",
     "cost": "0",
@@ -45,7 +48,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1695517601075,
     "modifiedTime": 1699197799910,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

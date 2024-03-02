@@ -8,6 +8,7 @@
     "effect": "Smokescreen creates a blast of Smoke that covers the target area; the Smoke persists until the end of the encounter, or until Defog or Whirlwind are used. All targets attacking from or into the Smoke receive a -3 penalty to Accuracy.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "smokescreen",
     "schema": {
       "version": 0.11,
@@ -54,7 +55,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707824702466,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

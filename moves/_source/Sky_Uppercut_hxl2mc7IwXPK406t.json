@@ -8,6 +8,7 @@
     "effect": "Sky Uppercut may be used as an Interrupt when against a target initiating Bounce, Fly, or Sky Drop to allow the user to Shift and use Sky Uppercut. If Sky Uppercut successfully hits its target, the triggering Move fails (though the target may take their next turn normally).",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "sky-uppercut",
     "schema": {
       "version": 0.11,
@@ -58,7 +59,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707830290668,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

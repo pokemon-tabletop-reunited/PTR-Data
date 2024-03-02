@@ -8,12 +8,13 @@
     "effect": "Raise the Special Defense of all allied legal targets by 1 Combat Stage.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "enabled": true,
+    "slug": "aromatic-mist",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.olm2VRK6NeZrRmHs",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -46,13 +47,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707761817661,
+    "modifiedTime": 1709371187146,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!PITSF6OhptqQFLxc"

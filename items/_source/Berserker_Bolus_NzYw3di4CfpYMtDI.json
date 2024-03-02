@@ -5,6 +5,7 @@
     "effect": "A combat drug used by street gangs. Immediately inflicts 1 injury on the user upon taking it, but for the duration of the Scene, the user is immune to Flinch effects, gains a +2 bonus to Save Rolls, and adds 5 to all Damage Rolls. However, they are Enraged and may not make Save Rolls to end the effect until all combat ceases for at least a few minutes.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368833369,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

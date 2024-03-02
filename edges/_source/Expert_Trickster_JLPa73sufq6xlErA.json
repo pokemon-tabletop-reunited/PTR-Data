@@ -5,6 +5,7 @@
     "effect": "You gain a +2 Opposed Checks with all Dirty Trick Maneuvers. The “Once per Scene per Foe” Limitation of each Dirty Trick Maneuver is expended only upon successfully affecting a foe with that Dirty Trick Maneuver.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -39,7 +40,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683367953771,
     "modifiedTime": 1707761797684,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

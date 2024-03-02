@@ -9,6 +9,7 @@
     "effect": "Effect: -20 Modifier, if the target is Shadow Type.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "dark-ball",
     "schema": {
       "version": null,
@@ -44,7 +45,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1697671845000,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

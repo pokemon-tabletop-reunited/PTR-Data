@@ -5,6 +5,7 @@
     "effect": "You know how to operate Dream Machines and can use them to study and influence a Pokémon’s dreams.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
@@ -39,7 +40,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683367953788,
     "modifiedTime": 1707761797684,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

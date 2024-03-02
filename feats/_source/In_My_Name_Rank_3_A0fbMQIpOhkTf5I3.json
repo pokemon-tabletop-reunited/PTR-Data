@@ -5,6 +5,7 @@
     "effect": "You gain a Blessing marked Rank 3 or lower. You must additionally meet any Prerequisites of the Blessing.\nRank 3 Blessings: Blessed Resilience, Insight of the Great Ones",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -49,7 +50,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368081700,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

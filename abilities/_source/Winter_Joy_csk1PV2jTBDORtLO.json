@@ -8,6 +8,7 @@
     "effect": "While in Hail, the user has their Attack and Special Attack raised by +1 Combat Stage. While in Sunny Weather, the user has their Attack and Special Attack lowered by -1 Combat Stage.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "winter-joy",
     "schema": {
       "version": null,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1696782608247,
     "modifiedTime": 1707828867090,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

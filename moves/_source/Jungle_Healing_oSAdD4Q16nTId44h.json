@@ -8,6 +8,7 @@
     "effect": "The user and any allies in the burst gain Hit Points equal to 1/4 of their Maximum Hit Point Value, and are cured of any Persistent or Volatile Status Conditions.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -51,7 +52,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707761817661,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

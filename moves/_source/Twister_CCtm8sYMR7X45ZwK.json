@@ -7,7 +7,18 @@
     "origin": "",
     "effect": "Twister Flinches the target on 18+. Small or Medium targets in the central square of the blast are not hit. Any Pokémon Airborne as a result of Bounce, Fly, or Sky Drop above the Blast are hit, ignoring range, and Twister has a Damage Base of 8 against those targets instead.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.xE6uIFWZoYXAZQxA",
+        "range": "18",
+        "value": "",
+        "affects": "target"
+      }
+    ],
+    "enabled": true,
     "slug": "twister",
     "schema": {
       "version": 0.11,
@@ -55,10 +66,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707849271728,
+    "modifiedTime": 1709370403204,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!CCtm8sYMR7X45ZwK"

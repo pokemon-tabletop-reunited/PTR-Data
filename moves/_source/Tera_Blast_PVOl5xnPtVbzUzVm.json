@@ -8,6 +8,7 @@
     "effect": "If Terastallized, the user deals damage with this attack as that type. This attacks category is also the higher of its Special Attack or Attack. If the user is Stellar type, this move is super-effective against Terastallized Pokemon.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "tera-blast",
     "schema": {
       "version": 0.11,
@@ -56,7 +57,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707816395131,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

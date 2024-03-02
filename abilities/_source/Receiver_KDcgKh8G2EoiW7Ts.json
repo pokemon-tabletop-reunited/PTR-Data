@@ -7,6 +7,7 @@
     "effect": "Each effect may be used once per Scene when triggered; 1) When an ally faints, the user selects one of their Abilities. The user gains that Ability until the end of the encounter.\\n2) When the user faints, they may grant use of their Basic Abilities to an ally on the field for the rest of the encounter.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -34,7 +35,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

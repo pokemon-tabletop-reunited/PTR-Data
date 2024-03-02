@@ -5,6 +5,7 @@
     "effect": "Trigger - Your Pokémon triggers Cruelty, or scores a Critical Hit with damaging attack.\nEffect: Your Pokemon may apply the effects of Cruelty to the attack without expending Cruelty’s Frequency. Cruelty’s effects may be purchased as if the foe had additional injuries equal to the number of injuries on the user. Desperate Strike may be used once per Scene per Pokémon.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368081712,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

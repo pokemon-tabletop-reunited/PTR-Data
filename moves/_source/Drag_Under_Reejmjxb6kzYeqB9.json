@@ -7,6 +7,7 @@
     "effect": "Set-Up Effect: Make Drag Under's Accuracy Check. If the user hits, the user and target are moved 25 meters into the water. The target forfeits their next turn and cannot Shift or take actions until Drag Under is resolved.\\nResolution Effect: Shift while in the water with both the user and the target heights back to what they were. Then apply Drag Unders Damage. If the target has the Inflatable or Phasing capabilites, Drag Under fails to deal damage. If the user cannot breathe underwater, the target takes damage as if Drag Under had a Damage Base of 12.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "drag-under",
     "schema": {
       "version": 0.11,
@@ -44,7 +45,7 @@
   "_id": "Reejmjxb6kzYeqB9",
   "effects": [],
   "folder": null,
-  "sort": 0,
+  "sort": 1200000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
@@ -57,9 +58,9 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1693119119587,
-    "modifiedTime": 1707815182675,
+    "modifiedTime": 1709369365688,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Reejmjxb6kzYeqB9"

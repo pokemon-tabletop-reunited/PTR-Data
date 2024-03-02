@@ -5,6 +5,7 @@
     "effect": "Trigger - Your Pokémon miss all targets with a Move\nEffect: That Move’s Frequency is not expended. This does not work with Moves that may fail to activate, such as moves with the Execute keyword.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079339,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

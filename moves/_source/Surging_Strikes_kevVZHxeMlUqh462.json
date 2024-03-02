@@ -8,6 +8,7 @@
     "effect": "If Surging Strikes hits, it is a Critical Hit. After attacking with Surging Strikes, hit or miss, the user may Shift 2m, ignoring Attacks of Opportunity from their target. It may then make an additional attack with this Move on a different target. This effect may be repeated a second time, the third attack targeting a creature that has not yet been targeted by either prior attack. Before making each attack roll, the user can elect to give up triggering all remaining additional shifts and attacks. Increase Surging Strikes' Damage Base by 3 for each attack that is given up.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "surging-strikes",
     "schema": {
       "version": 0.11,
@@ -57,7 +58,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707830358127,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -7,6 +7,7 @@
     "effect": "Trigger - The user hits a foe with a damaging Single-Target attack\\nThe user takes the target’s Held Item. This Ability may not be triggered if the user is already holding a Held Item.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "magician",
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

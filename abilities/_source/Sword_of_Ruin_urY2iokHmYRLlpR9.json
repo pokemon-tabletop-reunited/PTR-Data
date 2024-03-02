@@ -7,6 +7,7 @@
     "effect": "When this Pokemon is sent out onto the field (or enters combat) all combatants (except this one) within 5m lower their Def by 1 CS.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "sword-of-ruin",
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

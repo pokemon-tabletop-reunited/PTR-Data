@@ -8,6 +8,7 @@
     "effect": "Trigger: Your Pokémon above 0 Spirit is hit by an attack.\nEffect: Your Pokémon resists the attack one step more. If this would stop the Pokémon from fainting or gaining an injury, that Pokémon gains 1 Spirit.\n\nNote: This effect can only trigger once per Pokémon per Scene.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
@@ -43,7 +44,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1694149275274,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

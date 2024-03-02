@@ -5,6 +5,7 @@
     "effect": "A Capture Styler is a Main-Hand specialized piece of equipment used by some certified Pokémon Rangers in a region. It emits a string of energy that is used in a similar fashion to a lasso but is too weak to physically restrain a target. Instead, the energy has a calming effect on Pokémon. Trainers using a Capture Styler may use Survival in place of Charm when raising the Disposition of Pokémon. \n\nAcquiring a Capture Styler is easy for those who become certified Pokémon Rangers; most qualified Rangers receive one as part of the job. They are not for sale to the general public, and it’s easy to assume that someone who has a Capture Styler is a Ranger.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -47,7 +48,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368817566,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

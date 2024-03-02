@@ -5,6 +5,7 @@
     "effect": "If you are able to give two Pokémon that are compatible for breeding at least 4 hours of time alone, you may make a Pokémon Education Check with a DC of 12. If you succeed, the Pokémon are guaranteed to produce an egg if you give them an additional 4 hours.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -39,7 +40,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683367953823,
     "modifiedTime": 1707761797684,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

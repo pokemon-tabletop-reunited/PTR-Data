@@ -9,6 +9,7 @@
     "effect": "Target: Your Shadow Pokémon\nEffect: The target enters Hyper Mode immediately. While this feature is bound, the target gains +5 Bonus to initiative, cannot end Hyper Mode with a successful save, and receives +2 Damage Reduction for each Injury it has.\n\n",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "hardened-heart",
     "schema": {
       "version": null,
@@ -48,7 +49,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1697680717341,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -5,6 +5,7 @@
     "effect": "A nutritious food that causes young Pokémon to grow quickly. When consumed, increases Experience Gain of Pokémon at level 15 or lower by 20% for the rest of the day.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368858042,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -5,6 +5,7 @@
     "effect": "Trigger - Your Pokémon hits a foe suffering from a Status Affliction or one of the other conditions in the table on page 108 of the Core handbook\nEffect: Choose a Status Affliction or condition the triggering target is suffering from; the target suffers an additional effect according to the table. Stacked Deck may only affect a foe once per Scene.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368078887,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

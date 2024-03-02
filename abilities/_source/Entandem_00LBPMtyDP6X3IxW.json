@@ -7,6 +7,7 @@
     "effect": "Trigger - The user hits with a Move with the Five Strike keyword or Population Bomb\n\nEffect: The Triggering Move automatically hits 5 Times, or if its Population Bomb hits 5 + \"1 Five-Strike roll\" times.\n\nBonus: This Pokemon counts as an ally (or itself twice) for the use of moves and abilities that would count adjacent allies and counts. (Teamwork, Beat Up, Pack Hunt, Etc.) ",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "entandem",
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

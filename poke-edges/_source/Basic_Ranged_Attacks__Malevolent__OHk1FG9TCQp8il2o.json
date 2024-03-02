@@ -9,6 +9,7 @@
     "effect": "Struggle Attacks modified by Malevolent may now be made at a range of up to 6 meters.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "basic-ranged-attacks-malevolent",
     "schema": {
       "version": null,
@@ -36,7 +37,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1697670983803,
     "modifiedTime": 1707761829447,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

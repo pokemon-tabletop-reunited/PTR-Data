@@ -8,6 +8,7 @@
     "effect": "If the user has lost Combat Stages from a source other than itself since the end of its last turn, Lash Out is instead Damage Base 15 (4d10 + 20 / 45). Any given foe may be the target of this increased damage only once per Scene.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -52,7 +53,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707823304602,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -8,6 +8,7 @@
     "effect": "Snore Flinches all legal targets on 15+. Snore may only be used by Sleeping users.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "snore",
     "schema": {
       "version": 0.11,
@@ -56,7 +57,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707830484262,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

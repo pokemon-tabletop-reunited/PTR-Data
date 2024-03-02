@@ -6,7 +6,18 @@
     "origin": "",
     "effect": "Lower the user’s Special Attack and Special Defense by 1 CS after damage.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "affects": "origin",
+        "selectors": "{item|id}-damage-dealt",
+        "uuid": "Compendium.ptu.effects.Item.hsyudgU4FSPE4KNz",
+        "range": "1",
+        "value": ""
+      }
+    ],
+    "enabled": true,
     "slug": "playful-pommel",
     "schema": {
       "version": 0.11,
@@ -41,7 +52,7 @@
   "_id": "7iC45AoAhQraFlUM",
   "effects": [],
   "folder": null,
-  "sort": 0,
+  "sort": 200000,
   "ownership": {
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
@@ -53,10 +64,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1693119119587,
-    "modifiedTime": 1707761817661,
+    "modifiedTime": 1709371341792,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!7iC45AoAhQraFlUM"

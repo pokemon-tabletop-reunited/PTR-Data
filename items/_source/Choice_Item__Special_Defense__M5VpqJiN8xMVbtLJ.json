@@ -5,6 +5,7 @@
     "effect": "The default state of the holder's Special Defense Stat is +2 Combat Stages. However, the holder is Suppressed and cannot be cured until the end of Combat, even if the item is removed. Cannot be used by Trainers.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368864987,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

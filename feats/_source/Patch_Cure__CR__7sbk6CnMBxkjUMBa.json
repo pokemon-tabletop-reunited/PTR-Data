@@ -5,6 +5,7 @@
     "effect": "Target: A Restorative Item\nEffect: You distill the target, gaining 3 Restorative atches. Restorative Patches have the same effect as the tems from which they were created, but can only be applied as an Extended Action.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -44,7 +45,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

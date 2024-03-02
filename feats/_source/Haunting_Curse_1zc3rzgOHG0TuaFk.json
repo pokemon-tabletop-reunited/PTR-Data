@@ -5,6 +5,7 @@
     "effect": "Target: Your Pokémon\nEffect: While this Feature is bound, the target gains a Curse Token each time they use a Ghost-Type Move or Ghost Step. Ghost-Type Moves with a Set-Up and Resolution Phase give a Curse Token for each Phase. As a Standard Action during their turn, or as Free Action upon Fainting, the target may spend their Curse Tokens to apply conditions to a foe within 6 meters.\n»» 1 Curse Token: The target loses a Combat Stage of your choice.\n»» 2 Curse Tokens: The target becomes Cursed.\n»» 3 Curse Tokens: The target becomes Suppressed.\n»» 4 Curse Tokens: The target falls Asleep and gains Bad Sleep.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -49,7 +50,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368078830,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -5,6 +5,7 @@
     "effect": "Inflicts Rage on the target. After being hit by any Pester Ball, a target becomes immune to the effects of further Pester Balls for 1 hour. Throwing and hitting with Pester Balls is the same as with Poké Balls.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368787220,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

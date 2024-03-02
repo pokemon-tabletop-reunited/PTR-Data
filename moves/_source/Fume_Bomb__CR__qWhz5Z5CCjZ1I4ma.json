@@ -9,6 +9,7 @@
     "effect": "Effect: Fume Bomb creates Fume hazards in each square of the Blast; the Fumes persist until the end of the encounter, or until Defog or Whirlwind are used. Creatures within a square occupied by a Fume Hazard are Poisoned and Vulnerable until their next turn. Poison-Type creatures and creatures otherwise immune to Poison are unaffected by Fume hazards.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "fume-bomb-cr",
     "schema": {
       "version": null,
@@ -56,7 +57,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699739765647,
     "modifiedTime": 1707824706394,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

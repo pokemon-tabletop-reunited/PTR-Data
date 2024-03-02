@@ -491,7 +491,7 @@
         "type": "body"
       }
     },
-    "slug": "",
+    "slug": "illuseon",
     "rules": [],
     "type": {
       "0": "Ghost",
@@ -500,7 +500,9 @@
     "source": {
       "value": "PTR Exclusive Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "stackSlugs": false,
+    "enabled": false
   },
   "effects": [],
   "ownership": {
@@ -519,11 +521,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1694013808180,
-    "modifiedTime": 1707761842946,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1708460426490,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_id": "IiUh6UK79Apv1DIM",
   "sort": 0,

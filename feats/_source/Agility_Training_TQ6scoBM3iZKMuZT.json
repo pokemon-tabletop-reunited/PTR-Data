@@ -2,9 +2,10 @@
   "name": "Agility Training",
   "system": {
     "origin": "",
-    "effect": "The target becomes @UUID[Compendium.ptu.effects.Item.dxO8qRP5QvYxVXxH]{Effect: Agile} until the end of the effect duration. Agile Pokémon gain a +1 bonus to Movement Capabilities and +4 to Initiative.",
+    "effect": "The target becomes @UUID[Compendium.ptu.effects.Item.dxO8qRP5QvYxVXxH]{Effect: Agile} until the end of the effect duration. Agile Pokémon gain a +1 bonus to Movement Capabilities and +4 to Initiative.\n\n@UUID[Compendium.ptu.effects.Item.ZSzxtIbd5wcY7yD6]",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "agility-training",
     "schema": {
       "version": 0.11,
@@ -49,10 +50,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1683368081769,
-    "modifiedTime": 1707820108791,
+    "modifiedTime": 1709366563258,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

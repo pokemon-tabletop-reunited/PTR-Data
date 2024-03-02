@@ -5,6 +5,7 @@
     "effect": "Target: Any number of creatures you are Channeling\nEffect: Distribute 5 points in any way among the target(s). For each point you assign to a creature, they gain a Tick of Hit Points and 1 Spirit.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "soothing-connection-cr",
     "schema": {
       "version": null,
@@ -48,7 +49,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

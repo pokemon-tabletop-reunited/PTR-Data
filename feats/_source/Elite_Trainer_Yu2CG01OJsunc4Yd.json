@@ -31,6 +31,7 @@
         "uuid": "{item|flags.ptu.rulesSelections.move}"
       }
     ],
+    "enabled": true,
     "slug": "elite-trainer",
     "schema": {
       "version": 0.11,
@@ -72,7 +73,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368084456,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

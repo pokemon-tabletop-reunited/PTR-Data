@@ -79,6 +79,7 @@
         "value": "@actor.system.health.tick"
       }
     ],
+    "enabled": true,
     "slug": "adrinaline-rush",
     "schema": {
       "version": 0.111,
@@ -95,6 +96,8 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "level": {
       "value": 1
     },
@@ -135,7 +138,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.1",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1694889689813,
     "modifiedTime": 1706453156811,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

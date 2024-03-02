@@ -44,6 +44,7 @@
         "uuid": "Compendium.ptu.abilities.Item.pMmuDPGNNg6E1equ"
       }
     ],
+    "enabled": true,
     "slug": "mega-evolve-abomasnow",
     "schema": {
       "version": null,
@@ -53,6 +54,8 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "level": {
       "value": 1
     },
@@ -88,7 +91,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1695731403667,
     "modifiedTime": 1705331182369,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

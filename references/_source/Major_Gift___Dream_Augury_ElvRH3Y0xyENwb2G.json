@@ -7,6 +7,7 @@
     "effect": "Prerequisites: Minor Gift - Dream Mastery 2 AP - Extended Action Target: Self Effect: You fall into a deep sleep and dream a dream  that portends of things to come. If this Major Gift is  gained through Cresselia, you learn hints of a favorable  situation that will arise soon. If this Major Gift is gained  through Darkrai, you learn hints of a dangerous or  mournful situation that will arise soon. ",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "ElvRH3Y0xyENwb2G",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

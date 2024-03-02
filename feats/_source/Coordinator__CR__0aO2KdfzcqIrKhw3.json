@@ -5,6 +5,7 @@
     "effect": "Effect: Your Pokémon may reroll a single Appeal Roll or Damage Roll. This Ability may be used only once per Contest, and once per Pokémon per Scene.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "coordinator-cr",
     "schema": {
       "version": null,
@@ -49,7 +50,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

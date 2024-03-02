@@ -7,6 +7,7 @@
     "effect": "Prerequisites: Minor Gift - Vulcan’s Intuition Static | Scene - Free Action, Interrupt Static Effect: You are immune to the ambient heat of  volcanic areas. Unless you come into direct contact  with molten rock, you will not be harmed. You resist  Fire Type Moves by one step. Scene Effect: You may trigger Lava-blooded as an  interrupt when you are hit by a Fire Type Move. You  take no damage or other effects from the Move, and you  make a 1 meter burst. All targets caught in the burst  lose 1/16th of their maximum HP.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "MpxMDMcwbMKafAoS",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

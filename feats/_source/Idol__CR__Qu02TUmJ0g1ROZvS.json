@@ -5,6 +5,7 @@
     "effect": "Target: A Pokémon with at least 1 Tutor Point.\nEffect: You gain the Cute Charm ability. You may also teach this ability to a Pokemon at the cost of 2 Tutor Points.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "idol-cr",
     "schema": {
       "version": null,
@@ -47,7 +48,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

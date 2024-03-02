@@ -8,6 +8,7 @@
     "effect": "Trigger: This Pokemon gains intiative for the first time in a Scene\nEffect: All opposed Pokemon lose 1 Evasion in all evasions.\nBonus: When hit by a contact move, the target is Slowed for one full round.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
@@ -50,7 +51,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1694712455268,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

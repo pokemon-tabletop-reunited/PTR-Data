@@ -7,6 +7,7 @@
     "effect": "Mechanic: While Channeling a Pokémon, it may communicate its intentions, emotions, and motivations to you and you may communicate similarly with them; neither party may be deceitful in this exchange. You also become aware of all of its Moves, Abilities, and Capabilities. Allied Channeled Pokémon may always attempt Intercept Maneuvers for each other, regardless of Loyalty. If you are Fainted, you stop Channeling all Pokémon. Whenever you Channel a Pokémon, you have a vague knowledge of what has happened in the Pokémon’s past hour as if they were your own memories.  Note: Channeler has a couple Features with the [Orders] tag. However, because they require that a Pokémon be Channeled, which isn’t League Legal, they actually aren’t of any use in League Legal battles!  ",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "bPB96maA7rybMi6p",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -8,6 +8,7 @@
     "effect": "For each 10% of HP the user is missing, Water Spout's Damage Base is reduced by 1. Water Spout creates a 1 meter burst, but also affects an area 10 meters tall straight up.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "water-spout",
     "schema": {
       "version": 0.11,
@@ -54,7 +55,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707824654979,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -5,6 +5,7 @@
     "effect": "Whenever you land a Critical Hit on a foe, that foe becomes Vulnerable. Status-Class Moves with an Accuracy Roll can “Crit” for the purposes of activating this effect on a natural roll of 19 or higher, and any effects that expand your Critical-Hit Range also expand this range.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "demoralize",
     "schema": {
       "version": 0.11,
@@ -39,7 +40,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683367953775,
     "modifiedTime": 1707826339045,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

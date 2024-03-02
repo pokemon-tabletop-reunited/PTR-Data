@@ -5,6 +5,7 @@
     "effect": "Effect: You may craft an Antidote, Smoke Ball, Caltrops, Toxic Caltrops, Oil Slick, and Shuriken for $100. Starting at Expert Stealth, you may also craft Poison Gas Bombs, Net Bombs, Exploding Knife, or a batch of Blinding Ink for $250.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -43,7 +44,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

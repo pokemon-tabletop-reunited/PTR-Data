@@ -7,8 +7,19 @@
     "origin": "",
     "effect": "Roar of Time Slows all legal targets, even if the attack misses.",
     "snippet": "",
-    "rules": [],
-    "slug": null,
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.I2nVAxBFKDMe8EQt",
+        "range": "1",
+        "value": "",
+        "affects": "target"
+      }
+    ],
+    "enabled": true,
+    "slug": "roar-of-time",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -20,7 +31,8 @@
     "stackSlugs": false,
     "keywords": [
       "Smite",
-      "Exhaust"
+      "Exhaust",
+      "Spirit Surge"
     ],
     "sheerForce": false,
     "toughClaws": false,
@@ -32,9 +44,9 @@
     "strongJaw": false,
     "type": "Dragon",
     "category": "Special",
-    "damageBase": 15,
+    "damageBase": "15",
     "frequency": "Daily x2",
-    "ac": 4,
+    "ac": "4",
     "range": "Burst 8",
     "contestType": "Cool - Seen Nothing Yet",
     "stab": false,
@@ -49,13 +61,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707815126463,
+    "modifiedTime": 1709370383158,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!PiruGcShVrqS0l9V"

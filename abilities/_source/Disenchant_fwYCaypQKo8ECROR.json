@@ -13,6 +13,7 @@
     "effect": "<b>Effect</b>: The user is immune to Fairy-Type attacks. Defensive.\n<b>Bonus</b>: If the user is hit by a damaging Fairy-Type attack, the user of that attack loses 1 CS in the stat used to make that attack.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "disenchant",
     "schema": {
       "version": 0.11,
@@ -41,7 +42,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1689606908412,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

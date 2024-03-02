@@ -8,6 +8,7 @@
     "effect": "Target: Your Pokemon with 4 or higher Friendship and Weary. Effect: You take your Pokemon aside to encourage them. Roll a Check with any Prerequisite skill, adding the Pokemons Friendship level to the number. Rolls greater than or equal to the target DC cause the Pokemon to gain 1 Spirit. This cannot give a Pokemon Positive Spirit higher than 1.\n\nTarget DC\nWeary 3 = 22\nWeary 2 = 18\nWeary 1 = 14\nWeary 0 = 10",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1694145967479,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

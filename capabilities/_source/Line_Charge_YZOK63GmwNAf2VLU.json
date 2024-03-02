@@ -7,6 +7,7 @@
     "effect": "The user can only shift in cardinal directions on the grid. However, they do not provoke attacks of opportunity from Shifting.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "line-charge",
     "schema": {
       "version": 0.11,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "YZOK63GmwNAf2VLU",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1693042188180,
     "modifiedTime": 1697508090172,
     "lastModifiedBy": "xUomATnixLnn15IR"

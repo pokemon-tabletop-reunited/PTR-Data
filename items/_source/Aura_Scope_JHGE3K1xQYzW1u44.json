@@ -9,6 +9,7 @@
     "effect": "This device, either worn as a Head Item or used as an Accessory, allows the user to see the Aura of a living creature. This technology was originally innovated to identify Shadow Pokémon, which are indifferentiable from normal Pokémon.\n",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "aura-scope",
     "schema": {
       "version": null,
@@ -18,6 +19,8 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "quantity": "1",
     "category": "",
     "cost": "2000",
@@ -40,7 +43,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.3",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1697671485950,
     "modifiedTime": 1700226867903,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

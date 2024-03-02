@@ -5,6 +5,7 @@
     "effect": "Trigger - You use Ace Trainer to give Pokémon Trained Stats\nEffect: Choose two Trained Stats for each Pokémon instead of one. A Pokémon may only have two Trained Stats this way.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "champ-in-the-making",
     "schema": {
       "version": 0.11,
@@ -47,7 +48,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368084354,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

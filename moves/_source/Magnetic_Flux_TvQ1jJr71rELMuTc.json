@@ -5,10 +5,11 @@
   "folder": "lWQOqDm2AOGwGM16",
   "system": {
     "origin": "",
-    "effect": "Choose +1 or -1. All targets that are Electric-Type or have the Magnetic Capability receive that many Defense and Special Defense Combat Stages.",
+    "effect": "Choose +1 or -1. All targets that are Electric-Type or have the Magnetic Capability receive that many Defense and Special Defense Combat Stages.\n\n@UUID[Compendium.ptu.effects.Item.nlFYpVcKOUob2cBS]\n@UUID[Compendium.ptu.effects.Item.Vc8riaddym8tBktm]",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "enabled": true,
+    "slug": "magnetic-flux",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -46,13 +47,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707761817661,
+    "modifiedTime": 1709370802561,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!TvQ1jJr71rELMuTc"

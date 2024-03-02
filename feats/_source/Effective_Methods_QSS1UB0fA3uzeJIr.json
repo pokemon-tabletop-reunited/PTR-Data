@@ -5,6 +5,7 @@
     "effect": "Target: Your Pokémon with at least 2 Tutor Points remaining\nEffect: Your Pokémon loses 2 Tutor Points and gains your choice of the Exploit or Tolerance Ability. You may only target a Pokémon once with Effective Methods.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -45,7 +46,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079346,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -8,6 +8,7 @@
     "effect": "Wear Down lowers the target's Defense by 1 Combat Stage on Even-Numbered Rolls.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "wear-down",
     "schema": {
       "version": 0.11,
@@ -56,7 +57,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707822745316,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

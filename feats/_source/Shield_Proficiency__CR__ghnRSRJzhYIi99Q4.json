@@ -5,6 +5,7 @@
     "effect": "Effect: When you have a Shield equipped, you gain +2 Evasion. While you have a Shield readied, you gain an additional +2 Evasion and +5 additional Damage Reduction.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "shield-proficiency-cr",
     "schema": {
       "version": null,
@@ -47,7 +48,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

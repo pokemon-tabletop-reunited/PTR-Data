@@ -5,6 +5,7 @@
     "effect": "Target: Your Pokémon with at least 2 Tutor Points remaining.\nEffect: The target loses 2 Tutor Points and learns the Last Chance or Type Strategist Ability for your Chosen Type. You may target a Pokémon only once with Type Ace.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "type-ace",
     "schema": {
       "version": 0.11,
@@ -54,7 +55,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079248,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

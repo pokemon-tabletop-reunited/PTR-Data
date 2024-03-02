@@ -8,6 +8,7 @@
     "effect": "The user gains +1 Combat Stage in Special Attack and Special Defense. Innate.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "chlorofury",
     "schema": {
       "version": 0.11,
@@ -37,7 +38,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1693118700374,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

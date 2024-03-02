@@ -7,6 +7,7 @@
     "effect": "The users Evasion is increased by +2 while in a Grassy Terrain. The user and allies adjacent to the user gain double the health from Grassy Terrain. Defensive",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "grass-cloak",
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -5,6 +5,7 @@
     "effect": "Target: A Pokémon\nEffect: The target gains any three of the following Poké Edges: Skill Improvement, Advanced Mobility, or Capability Training. The target may gain Poké Edges this way even if they do not meet the prerequisites, however, they must still follow other limitations; Advanced Mobility can only improve a Movement Capability once, for example. A Pokémon may be targeted only once ever by Tutelage.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "tutelage-cr",
     "schema": {
       "version": null,
@@ -49,7 +50,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -9,6 +9,7 @@
     "effect": "",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "syringe",
     "schema": {
       "version": null,
@@ -18,6 +19,8 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "quantity": "1",
     "category": "",
     "cost": "100",
@@ -40,7 +43,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.3",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1697671292458,
     "modifiedTime": 1700226867903,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -5,6 +5,7 @@
     "effect": "Choose a Level-Up Move from one of the user’s Final Evolutions that it can learn at or below its current Level. The user learns that Move as if it were a Level-Up Move and can now learn Moves from TMs, HMs, and Tutoring from the lists of that Final Evolution. Underdog’s Lessons may be taken up to three times but must use the same Final Evolution each time in the case of Pokémon with multiple Final Evolutions.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683369202689,
     "modifiedTime": 1707761829447,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -9,6 +9,7 @@
     "effect": "This kit is used for the extraction of Pokemon DNA. The apparatus uses syringes to extract samples from a Pokemon. Syringes can be purchased for $100 each. A modified version of a Gene Extraction Kit can be purchased for as low as $5000 on the black market in order to extract more complicated, exotic genes.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "gene-extraction-kit",
     "schema": {
       "version": null,
@@ -18,6 +19,8 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "quantity": "1",
     "category": "",
     "cost": "1000",
@@ -40,7 +43,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.3",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1697671181127,
     "modifiedTime": 1700226867903,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

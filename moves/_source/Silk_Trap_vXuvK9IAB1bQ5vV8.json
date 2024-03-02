@@ -8,6 +8,7 @@
     "effect": "If the user is hit by a Move, the user may use Silk Trap. The user is instead not hit by the Move. The user does not take any damage nor is affected by any of the Move's effect. The user of the Attack that triggered Silk trap loses 1 Combat Stage in Speed.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "silk-trap",
     "schema": {
       "version": 0.11,
@@ -54,7 +55,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707761817661,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

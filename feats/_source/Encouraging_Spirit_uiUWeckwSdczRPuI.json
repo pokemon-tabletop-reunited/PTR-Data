@@ -8,6 +8,7 @@
     "effect": "Any Pokemon that has Positive Spirit at the end of the Adventuring Day may spend Spirit for Resting as if they had one more Spirit. This would allow you to spend one more Spirit than your cap.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1694145864684,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

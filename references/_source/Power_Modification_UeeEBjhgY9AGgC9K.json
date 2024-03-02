@@ -7,6 +7,7 @@
     "effect": "Ingredients/Cost: Nest Ball / $500 Effect: You change the Nest Ball into a Power Ball. It retains the conditional capture modifier of a Nest Ball, but additionally, when a Power Ball captures a target, the captured Pokémon is raised 1d4 levels upon capture.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "UeeEBjhgY9AGgC9K",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

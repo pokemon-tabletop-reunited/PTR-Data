@@ -5,6 +5,7 @@
     "effect": "Instead of Bait, some trainers may opt to use a Fishing Lure when attempting to Fish. Fishing Lures work just like Bait, but can be used multiple times. If the line snaps or the fish gets away, they may take your lure with them, however.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368791098,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

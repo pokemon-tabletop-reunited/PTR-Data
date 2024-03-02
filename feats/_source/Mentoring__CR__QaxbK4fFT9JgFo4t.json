@@ -5,6 +5,7 @@
     "effect": "Target: A Pokémon\nEffect: The target learns a Move from its Egg or Tutor list (following the Tutoring Restrictions based on the target’s level) or any move on its level-up list learned at X Level or lower, where X is the target’s current Level plus the sum of your two highest Skill Ranks among this Features’s prerequisite Skills. Moves from the target’s level-up or those from the Tutor List marked with (N) count as if they were “natural” for organizational purposes.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "mentoring-cr",
     "schema": {
       "version": null,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

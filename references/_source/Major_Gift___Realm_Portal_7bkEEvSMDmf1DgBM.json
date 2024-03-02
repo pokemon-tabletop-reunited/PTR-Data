@@ -7,6 +7,7 @@
     "effect": "Prerequisites: One Creation Trio Major Gift Daily - Extended Action Target: Area Effect: You open a small portal through your patron’s  realm to any location you have visited within 20 miles.  The portal lasts for two minutes, during which any  living thing which voluntarily wishes to enter the portal  may do so; any conscious trainers or Pokémon forced  through the portal involuntarily will not be affected by  the portal. After the two minutes are up or when you  step through the portal, it collapses.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": null,
@@ -15,7 +16,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "_id": "7bkEEvSMDmf1DgBM",
   "effects": [],
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.12",
-    "coreVersion": "11.315",
+    "coreVersion": "12.317",
     "createdTime": 1693518703759,
     "modifiedTime": 1706021187919,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

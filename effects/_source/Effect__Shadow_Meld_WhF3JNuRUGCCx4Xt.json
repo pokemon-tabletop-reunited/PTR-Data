@@ -49,6 +49,7 @@
         "tint": "#222224"
       }
     ],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
@@ -62,6 +63,11 @@
       }
     },
     "referenceEffect": "",
+    "source": {
+      "value": "Homebrew"
+    },
+    "stackSlugs": false,
+    "keywords": [],
     "level": {
       "value": 1
     },
@@ -92,7 +98,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "11.308",
+    "coreVersion": "12.317",
     "createdTime": 1694687746582,
     "modifiedTime": 1695027124661,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

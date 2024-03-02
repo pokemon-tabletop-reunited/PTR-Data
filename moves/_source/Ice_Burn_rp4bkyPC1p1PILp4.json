@@ -8,6 +8,7 @@
     "effect": "Set-Up Effect: The user may shift, then ends their turn. Resolution Effect: The user attacks with Ice Burn. Ice Burn Burns on 15+.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -54,7 +55,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707816561964,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

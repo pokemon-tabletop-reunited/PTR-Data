@@ -5,6 +5,7 @@
     "effect": "Increase the Spirit spending limit by 1 for your Pokemon (If your Pokemon could normally go to 0, now they can go to -1, etc.) You may also use Command on Pokemon to change their Disposition instead of Charm.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "beast-master-f-s-playtest",
     "schema": {
       "version": 0.11,
@@ -45,7 +46,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683367953815,
     "modifiedTime": 1707826613075,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

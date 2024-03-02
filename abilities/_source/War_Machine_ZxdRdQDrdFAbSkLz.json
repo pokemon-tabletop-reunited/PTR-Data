@@ -7,6 +7,7 @@
     "effect": "trigger: The user deals damage to a target with a Struggle Attack or Move.\\nThe target loses a Tick of Hit Points.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "war-machine",
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

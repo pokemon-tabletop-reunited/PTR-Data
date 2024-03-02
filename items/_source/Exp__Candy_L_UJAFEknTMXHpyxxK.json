@@ -8,6 +8,7 @@
     "effect": "A Pokémon that consumes this rare confection receives 420 EXP.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "exp-candy-l",
     "schema": {
       "version": null,
@@ -17,6 +18,8 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "quantity": "1",
     "category": "",
     "cost": "0",
@@ -40,7 +43,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.3",
-    "coreVersion": "11.314",
+    "coreVersion": "12.317",
     "createdTime": 1696986163261,
     "modifiedTime": 1700229445038,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

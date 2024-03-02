@@ -5,6 +5,7 @@
     "effect": "Pick a Move with an AC of 3 or higher; the AC of the target Move is permanently lowered by 1. This Poké Edge may be taken up to three times, each time selecting a different Move.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683369202696,
     "modifiedTime": 1707761829447,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -9,6 +9,7 @@
     "effect": "This Pokémon has two modes, Night and Day. In Night mode, the user’s default Special Attack CS is +1, and it gains a +2 bonus to Athletics and Acrobatics. In Day mode, the user’s default Defense CS is +1, and it gains a +3 bonus to Stealth. Switching modes is a Standard Action. Upon a change in modes, the old increased stat immediately loses 2 CS, and the new increased stat immediately gains 2 CS, representing a change in defaults. This ability may not be copied or swapped.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -37,7 +38,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1689606908412,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

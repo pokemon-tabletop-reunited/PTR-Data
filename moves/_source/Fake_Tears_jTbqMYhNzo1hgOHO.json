@@ -7,7 +7,18 @@
     "origin": "",
     "effect": "Lower the target's Special Defense by 2 Combat Stages.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "affects": "target",
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.AYqBHpfCxQX6Maa1",
+        "range": "1",
+        "value": ""
+      }
+    ],
+    "enabled": true,
     "slug": "fake-tears",
     "schema": {
       "version": 0.11,
@@ -56,10 +67,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707816395131,
+    "modifiedTime": 1709369618571,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!jTbqMYhNzo1hgOHO"

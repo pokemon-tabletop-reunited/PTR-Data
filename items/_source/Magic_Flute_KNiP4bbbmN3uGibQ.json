@@ -5,6 +5,7 @@
     "effect": "Magic Flutes are rare artifacts made only by skilled crafters with occult knowledge. They are not usually found in stores. When a Flute is crafted, it is tied to a particular Status Condition. Once per day, the Flute may be played as a Standard Action. All Pokémon and Trainers within 20 meters of the Flute are cured of that Status. These rare artifacts cannot be found in most ordinary stores but may cost upwards of $4000 from an appropriate occult vendor.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368833135,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

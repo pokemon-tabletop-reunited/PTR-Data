@@ -5,6 +5,7 @@
     "effect": "A small camera, microphone, and speaker set affixed to the outside of a Poké Ball or Case. These allow a Trainer to remotely release and command their Pokémon or attempt to capture a Pokémon.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368811344,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

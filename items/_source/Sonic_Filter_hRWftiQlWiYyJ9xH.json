@@ -5,6 +5,7 @@
     "effect": "Creates a portable field of directed white noise with a 2 meter radius when activated. Anyone within can hold a conversation normally, but anyone outside the field just hears static coming from the direction of the wearer. Moves with the Sonic Keyword aimed at a target within the field require 2 more on Accuracy Roll to hit. Accessory equipment slot.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -21,6 +22,8 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "quantity": "1",
     "category": "",
     "cost": "2500",
@@ -42,7 +45,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1683368817261,
     "modifiedTime": 1699197799910,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

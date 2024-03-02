@@ -7,6 +7,7 @@
     "effect": "When an attack causes this Pokemons HP to drop below 50% of Maximum. This Pokemon lowers its Sp. Def and Def. CS by 1 and raises its Att, Sp. Atk, and Speed CS by 1. If the user's HP goes above 50% of max, these combat stages are returned to normal.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -34,7 +35,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

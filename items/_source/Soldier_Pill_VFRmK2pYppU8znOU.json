@@ -5,6 +5,7 @@
     "effect": "A potentially dangerous stimulant that provides the user enough energy to go 24 hours without sleep. Upon taking the pill twice in a 48 hour period, the user begins to take 1 injury every 2 hours until they choose to go to sleep. The user of a Soldier Pill gets a +3 bonus to rolls to wake up from Sleep.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368790459,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

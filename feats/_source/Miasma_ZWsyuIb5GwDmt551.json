@@ -5,6 +5,7 @@
     "effect": "Trigger - Your Pokémon misses with a Poison-Type Move\nEffect: Your Pokémon may use either Smokescreen or Poison Gas as if they were on their Move List. When used this way, these Moves ignore Frequency Limitations, and are used as a Ranged Blast 3, with the blast centered on the square targeted by the triggering attack. Poison-Type Pokémon are not negatively affected by Smoke Screens created this way. Your Pokémon may also trigger Miasma deliberately as a Standard Action.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079334,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

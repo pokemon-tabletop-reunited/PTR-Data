@@ -25,6 +25,7 @@
         "label": "Agile Training"
       }
     ],
+    "enabled": true,
     "slug": "effect-agile",
     "schema": {
       "version": 0.11,
@@ -41,6 +42,8 @@
     "source": {
       "value": "Homebrew"
     },
+    "stackSlugs": true,
+    "keywords": [],
     "level": {
       "value": 1
     },
@@ -58,8 +61,7 @@
       "show": true
     },
     "badge": null,
-    "context": null,
-    "stackSlugs": true
+    "context": null
   },
   "effects": [],
   "flags": {
@@ -77,7 +79,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.1",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1694200467912,
     "modifiedTime": 1706456267211,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

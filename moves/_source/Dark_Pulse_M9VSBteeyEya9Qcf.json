@@ -7,8 +7,19 @@
     "origin": "",
     "effect": "Dark Pulse Flinches the target on 17+.",
     "snippet": "",
-    "rules": [],
-    "slug": null,
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "affects": "target",
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.xE6uIFWZoYXAZQxA",
+        "range": "17",
+        "value": ""
+      }
+    ],
+    "enabled": true,
+    "slug": "dark-pulse",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -32,9 +43,9 @@
     "strongJaw": false,
     "type": "Dark",
     "category": "Special",
-    "damageBase": 8,
+    "damageBase": "8",
     "frequency": "EOT",
-    "ac": 2,
+    "ac": "2",
     "range": "Range 8",
     "contestType": "Cool - Exhausting Act",
     "stab": false,
@@ -49,13 +60,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707816395131,
+    "modifiedTime": 1709369550540,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!M9VSBteeyEya9Qcf"

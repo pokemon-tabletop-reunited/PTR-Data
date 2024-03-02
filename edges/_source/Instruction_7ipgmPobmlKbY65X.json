@@ -5,6 +5,7 @@
     "effect": "Whenever you aid an ally in an Assisted Skill Check using an Education Skill you have at Novice Rank or higher, add your full Rank value as a bonus to their roll instead of half.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -39,7 +40,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683367953820,
     "modifiedTime": 1707761797684,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

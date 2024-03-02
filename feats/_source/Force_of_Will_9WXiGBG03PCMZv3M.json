@@ -5,6 +5,7 @@
     "effect": "Trigger - Your Pokémon uses a Psychic-Type Status Move with a range of Blessing, Field, Hazard, or Self.\nEffect: Your Pokémon may immediately use another Psychic-Type Status Move from its Move List with a range of Blessing, Field, Hazard, or Self.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368078951,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

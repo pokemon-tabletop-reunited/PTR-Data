@@ -5,6 +5,7 @@
     "effect": "Target: Your Pokémon 1 Tutor Slot remaining\nEffect: The target fills 1 Tutor Slot. Choose one Move on the Target’s Move List. That Move becomes the target’s Signature Technique, and you may apply one of the modifications on the next page to the Move. The Move being modified must fit the category of the modification.\nA Pokémon may only have one Signature Technique at a time; the TS is refunded if the Move is forgotten, or if you choose to make a different Move a Signature Technique.\n> Note: Be sure to give a cool name to your Pokémon’s Signature Technique!",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "signature-technique-cr",
     "schema": {
       "version": null,
@@ -48,7 +49,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

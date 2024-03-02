@@ -5,6 +5,7 @@
     "effect": "Effect: Your powers begin to take after either Arachnid's Embrace or Monarch's Embrace. Depending on your Embrace, you gain an Ability and Stat Tag. Whenever you gain a Swarmlord Feature, you gain the same Stat Tag\nArachnid's Embrace -> Unnerve -> [+Attack]\nMonarch’s Embrace -> Shield Dust -> [+Special Attack]",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "swarmlord-cr",
     "schema": {
       "version": null,
@@ -49,7 +50,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

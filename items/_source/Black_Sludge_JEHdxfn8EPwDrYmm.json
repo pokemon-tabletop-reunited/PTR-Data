@@ -5,7 +5,8 @@
     "effect": "Poison-Type Pokémon may consume the Black Sludge as a Snack Item; when the Food Buff is traded in, they recover 1/8th of their Max Hit Points at the beginning of each turn for the rest of the encounter.",
     "snippet": "",
     "rules": [],
-    "slug": null,
+    "enabled": true,
+    "slug": "black-sludge",
     "schema": {
       "version": 0.11,
       "lastMigration": {
@@ -17,7 +18,7 @@
         }
       }
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.MdsaTbmEPwcLaMVm",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -43,13 +44,17 @@
     "default": 0,
     "DsHOL7PqMABKgssN": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": false
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1683368824258,
-    "modifiedTime": 1707755855042,
+    "modifiedTime": 1709370128614,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

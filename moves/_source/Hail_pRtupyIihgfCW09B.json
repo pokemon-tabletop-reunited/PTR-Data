@@ -8,6 +8,7 @@
     "effect": "The weather changes to Hail for 5 rounds. While it is Hailing, all non-Ice Type Pokemon lose a Tick of Hit Points at the beginning of their turn.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "hail",
     "schema": {
       "version": 0.11,
@@ -56,7 +57,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707854370435,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

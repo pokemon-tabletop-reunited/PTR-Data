@@ -5,6 +5,7 @@
     "effect": "Trigger - Your Pokémon Faints; or an opponent sends out a Pokémon\nEffect: You may return and send out a Pokémon as a Free Action. You may perform this Feature on your turn without a Trigger. Pokémon sent out by Quick Switch cannot trigger another trainer’s Quick Switch. When you swap Pokémon using Quick Switch, you do not lose a Pokémon turn.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
@@ -45,7 +46,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079233,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

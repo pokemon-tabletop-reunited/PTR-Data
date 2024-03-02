@@ -5,6 +5,7 @@
     "effect": "Ingredient 1: Leftovers, Preserves, or a Snack made with Chef\nIngredient 2: Leftovers or Preserves\nEffect: You mix the two ingredients into one Snack that has the same effect as its ingredients. The two ingredients must be different items.\nDumplings cannot be used to make other Dumpling items.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -46,7 +47,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079023,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

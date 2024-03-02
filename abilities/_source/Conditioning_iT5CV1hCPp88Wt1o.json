@@ -13,6 +13,7 @@
     "effect": "Whenever this Pokémon is damaged by a damaging Move, it gains 5 DR against that Move for one full round. If it is damaged by a Move that it already has DR against, its existing DR is instead increased by 5, and the duration of the DR is refreshed to one full round. Defensive.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "conditioning",
     "schema": {
       "version": 0.11,
@@ -41,7 +42,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1689606908412,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

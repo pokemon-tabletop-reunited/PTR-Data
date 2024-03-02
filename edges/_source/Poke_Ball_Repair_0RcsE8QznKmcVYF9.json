@@ -5,6 +5,7 @@
     "effect": "You may attempt to fix any Poké Ball that has failed to capture a Pokémon and broke. Make a Technology Check with a DC of 15. If you succeed, the Poké Ball is fixed and is treated as if it had not broken. If you fail, the ball is permanently broken. Requires access to a Poké Ball Tool Box.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -39,7 +40,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683367953772,
     "modifiedTime": 1707761797684,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

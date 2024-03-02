@@ -5,6 +5,7 @@
     "effect": "Your Pokémon's Dragon-Type Attacks ignore Evasion against targets that have no other comnbatants besides yourself within 2 meters, and on 18+ cause the target to become Slowed for 1 full round.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "highlander",
     "schema": {
       "version": 0.11,
@@ -47,7 +48,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368078901,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -8,6 +8,7 @@
     "effect": "Trigger: The user uses a Rock-Type damaging Move\nEffect: The Move is changed to be Fire Type.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "foundry",
     "schema": {
       "version": null,
@@ -36,7 +37,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1696781078044,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

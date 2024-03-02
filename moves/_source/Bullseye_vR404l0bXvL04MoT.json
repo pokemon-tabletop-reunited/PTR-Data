@@ -8,6 +8,7 @@
     "effect": "Bullseye is a Critical Hit on 16+.\\nLimitation: Ranged Weapons Only",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "bullseye",
     "schema": {
       "version": 0.11,
@@ -56,7 +57,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707822616098,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

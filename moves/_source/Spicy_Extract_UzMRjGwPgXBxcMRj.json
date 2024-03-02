@@ -8,6 +8,7 @@
     "effect": "The target's Attack Combat Stages are increased by 2. The targets Defense Combat Stages are lowered by 2.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "spicy-extract",
     "schema": {
       "version": 0.11,
@@ -56,7 +57,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707816395131,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

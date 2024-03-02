@@ -5,6 +5,7 @@
     "effect": "Your Connection with one of your Patrons has reached such a point that even you are capable of performing the miracles they are renowned and worshiped for. Expending a use of Messiah allows you to perform such a miracle. For example, in a region where Shaymin is known to restore withered forests to their former glory, a Touched who is a Messiah of Shaymin might be able to cause a forest to start to rapidly recover from the aftermath of a wildfire. Such acts are usually, but not always, noticeably supernatural and divine.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -48,7 +49,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368079042,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

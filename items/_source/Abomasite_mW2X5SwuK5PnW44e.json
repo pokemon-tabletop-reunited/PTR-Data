@@ -5,6 +5,7 @@
     "effect": "Mega Evolves Abomasnow when used in conjuction with a Mega Ring.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "abomasite",
     "schema": {
       "version": 0.11,
@@ -50,7 +51,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368794688,
     "modifiedTime": 1707755855042,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

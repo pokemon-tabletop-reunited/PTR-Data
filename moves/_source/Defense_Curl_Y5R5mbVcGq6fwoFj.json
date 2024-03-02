@@ -8,12 +8,13 @@
     "effect": "The user becomes Curled Up. While Curled Up, the user becomes immune to Critical Hits, and gains 10 Damage Reduction and +1 Defense Combat Stage. However, while Curled Up, the user is Slowed and their Accuracy is lowered by 4. The user may stop being Curled Up as a Swift Action, or if they are Recalled or Take a Breather. If the user has Rollout or Ice Ball in their Move List, they do not become Slowed while Curled Up, and the user gains a +10 bonus to the damage rolls of those Moves and does not suffer Accuracy Penalties from being Curled Up when using those moves.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "defense-curl",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.2rVbX71BeIqrailD",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -53,10 +54,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "systemVersion": "4.2.1",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707761817661,
+    "modifiedTime": 1709369271226,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Y5R5mbVcGq6fwoFj"

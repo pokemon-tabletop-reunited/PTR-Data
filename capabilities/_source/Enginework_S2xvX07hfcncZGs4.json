@@ -8,6 +8,7 @@
     "effect": "As an extended Action, a Trainer can make a DC 18 Tech Education check to change the forme of this Pokemon to any of its other formes, once per day.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "enginework",
     "schema": {
       "version": null,
@@ -16,7 +17,9 @@
     "referenceEffect": "",
     "source": {
       "value": "Homebrew"
-    }
+    },
+    "stackSlugs": false,
+    "keywords": []
   },
   "effects": [],
   "folder": null,
@@ -29,7 +32,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1697511561477,
     "modifiedTime": 1697511595317,
     "lastModifiedBy": "xUomATnixLnn15IR"

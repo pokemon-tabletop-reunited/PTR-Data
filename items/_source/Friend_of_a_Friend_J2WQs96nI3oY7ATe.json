@@ -8,6 +8,7 @@
     "effect": "Held Item: After each Extended Rest, if this Pokemons Friendship level is 4 or higher, it gains 1 Temporary Spirit that is lost if not used by the next Extended Rest. This effect is lost if this held item is removed in anyway.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "",
     "schema": {
       "version": 0.11,
@@ -17,6 +18,8 @@
     "source": {
       "value": "PTR Compendiums"
     },
+    "stackSlugs": false,
+    "keywords": [],
     "quantity": "1",
     "category": "",
     "cost": "3500",
@@ -39,7 +42,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.11",
-    "coreVersion": "11.311",
+    "coreVersion": "12.317",
     "createdTime": 1694145554676,
     "modifiedTime": 1696691594780,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -8,6 +8,7 @@
     "effect": "Small or Medium targets in the central square of the blast are not hit. On 15+, all legal targets have their Accuracy lowered by 1.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "leaf-tornado",
     "schema": {
       "version": 0.11,
@@ -54,7 +55,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692963260348,
     "modifiedTime": 1707824531594,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

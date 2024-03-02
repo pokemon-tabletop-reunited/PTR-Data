@@ -5,6 +5,7 @@
     "effect": "You gain a Martial Achievement based on your chosen Ability.\n»» Guts: Wrestlemania\n»» Inner Focus: Heightened Intensity\n»» Iron Fist: Pummeling Momentum\n»» Limber: Bend Like the Willow\n»» Reckless: Soft Landing\n»» Technician: Whirlwind Strikes",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": null,
     "schema": {
       "version": 0.11,
@@ -45,7 +46,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1683368081703,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

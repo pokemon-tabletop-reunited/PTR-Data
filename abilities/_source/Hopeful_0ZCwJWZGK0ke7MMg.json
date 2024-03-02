@@ -7,6 +7,7 @@
     "effect": "TARGET: 1 Adjacent Ally\\nEffect:For the next 5 rounds, the target gains a +2 bonus to Accuracy and Skill checks and a +5 bonus to damage and Damage Reduction.",
     "snippet": "",
     "rules": [],
+    "enabled": true,
     "slug": "hopeful",
     "schema": {
       "version": 0.11,
@@ -38,7 +39,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.316",
+    "coreVersion": "12.317",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
