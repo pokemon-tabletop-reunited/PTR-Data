@@ -7,7 +7,17 @@
     "origin": "",
     "effect": "Double Iron Bash Flinches the targets on 15+.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.xE6uIFWZoYXAZQxA",
+        "range": "15",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "double-iron-bash",
     "schema": {
@@ -57,10 +67,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707830231470,
+    "modifiedTime": 1710782439380,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!zOAPdGCe4w5WOVs9"

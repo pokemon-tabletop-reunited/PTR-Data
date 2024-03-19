@@ -56,27 +56,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.WqQrMFs2dVB0vh1l",
         "slug": "charmander",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 15,
         "uuid": "Compendium.ptu.species.Item.eahXGXlNfrUFuZRV",
         "slug": "charmeleon",
-        "level": 15,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.dn9dly2jnGJmkae5",
         "slug": "charizard",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -554,7 +560,13 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Fire",
+      "1": ""
+    },
+    "stackSlugs": false,
+    "enabled": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -569,10 +581,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1689609527590,
-    "modifiedTime": 1708094889604,
+    "modifiedTime": 1710768006307,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!WqQrMFs2dVB0vh1l"

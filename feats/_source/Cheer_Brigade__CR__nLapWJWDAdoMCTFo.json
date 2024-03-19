@@ -4,7 +4,20 @@
     "origin": "Class Rework",
     "effect": "Effect: You learn the Move Helping Hand and gain the Helper Ability.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.abilities.Item.wxQ2OjTbX4tdeTkV"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.xhZNseKRJl3pPnTZ"
+      }
+    ],
     "enabled": true,
     "slug": "cheer-brigade-cr",
     "schema": {
@@ -47,10 +60,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1699736627730,
-    "modifiedTime": 1707827243445,
+    "modifiedTime": 1710769146642,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!nLapWJWDAdoMCTFo"

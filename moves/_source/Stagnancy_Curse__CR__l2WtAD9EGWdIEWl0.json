@@ -7,7 +7,17 @@
     "origin": "Class Rework",
     "effect": "Effect: Stagnancy Curse Slows the target for one full round on 17+.\nLimitation: Melee Weapons Only",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.I2nVAxBFKDMe8EQt",
+        "range": "17",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "stagnancy-curse-cr",
     "schema": {
@@ -57,10 +67,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1699701779793,
-    "modifiedTime": 1707761817661,
+    "modifiedTime": 1710850869354,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "l2WtAD9EGWdIEWl0",

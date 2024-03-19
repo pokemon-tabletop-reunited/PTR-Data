@@ -4,9 +4,30 @@
     "origin": "",
     "effect": "Acts as a Psychic Type Booster. If held by a Spoink, it also acts as a Special Attack Stat Booster.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [
+          "species:spoink"
+        ],
+        "mode": "add",
+        "path": "system.stats.spatk.stage.mod",
+        "phase": "afterDerived",
+        "value": "",
+        "priority": null
+      },
+      {
+        "key": "FlatModifier",
+        "predicate": [
+          "move:type:psychic"
+        ],
+        "hideIfDisabled": false,
+        "selectors": "damage-roll",
+        "value": 5
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "pink-pearl",
     "schema": {
       "version": 0.11,
       "lastMigration": {
@@ -43,13 +64,17 @@
     "default": 0,
     "DsHOL7PqMABKgssN": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": false
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1683368804348,
-    "modifiedTime": 1707755855042,
+    "modifiedTime": 1710773713852,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

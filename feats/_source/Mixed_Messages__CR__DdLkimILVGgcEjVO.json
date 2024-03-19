@@ -2,7 +2,7 @@
   "name": "Mixed Messages [CR]",
   "system": {
     "origin": "Class Rework",
-    "effect": "Effect: You learn the Moves Lovely Kiss and Torment.",
+    "effect": "Effect: You learn the Moves Sweet Kiss, Lovely Kiss and Torment.",
     "snippet": "",
     "rules": [
       {
@@ -13,10 +13,28 @@
         "priority": 20,
         "predicate": [],
         "phase": "applyAEs"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.0cpoDUWBYwTiDlnG"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.FtteBhLvsPR6XCEk"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.zgeymOL0WIKgT6lq"
       }
     ],
     "enabled": true,
-    "slug": null,
+    "slug": "mixed-messages-cr",
     "schema": {
       "version": null,
       "lastMigration": null
@@ -26,15 +44,8 @@
       "value": "Homebrew"
     },
     "stackSlugs": false,
-    "keywords": [
-      "+Speed",
-      "Playtest",
-      "Class Rework"
-    ],
-    "prerequisites": [
-      "Provocateur",
-      "two Provocateur Skills at Adept Rank"
-    ],
+    "keywords": [],
+    "prerequisites": [],
     "frequency": "Static",
     "notes": "",
     "free": false,
@@ -46,19 +57,23 @@
   "folder": "mS7fmuAZxBzZ1J7B",
   "_id": "DdLkimILVGgcEjVO",
   "effects": [],
-  "sort": 0,
+  "sort": 300000,
   "ownership": {
     "default": 0,
     "xUomATnixLnn15IR": 3,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1699736627730,
-    "modifiedTime": 1707827243445,
+    "modifiedTime": 1710765909004,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!DdLkimILVGgcEjVO"

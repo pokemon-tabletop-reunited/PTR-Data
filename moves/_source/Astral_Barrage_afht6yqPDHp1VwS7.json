@@ -7,7 +7,17 @@
     "origin": "",
     "effect": "Legal targets hit by Astral Barrage are Slowed for one full round.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.I2nVAxBFKDMe8EQt",
+        "range": "1",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "astral-barrage",
     "schema": {
@@ -57,10 +67,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707824669293,
+    "modifiedTime": 1710788664469,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!afht6yqPDHp1VwS7"

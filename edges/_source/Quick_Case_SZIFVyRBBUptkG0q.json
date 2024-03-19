@@ -2,7 +2,7 @@
   "name": "Quick Case",
   "system": {
     "origin": "",
-    "effect": "You may remove a Case from a Poké Ball as a Swift Action. You may apply a Case to a Poké Ball as a Shift Action. (Normally these would be Shift and Standard Actions respectively.)",
+    "effect": "You may remove a Case from a Poké Ball as a Rapid Action. You may apply a Case to a Poké Ball as a Shift Action. (Normally these would be Shift and Standard Actions respectively.)",
     "snippet": "",
     "rules": [],
     "enabled": true,
@@ -40,7 +40,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "coreVersion": "12.318",
     "createdTime": 1683367953806,
     "modifiedTime": 1707761797684,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

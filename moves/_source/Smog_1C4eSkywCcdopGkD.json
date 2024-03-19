@@ -7,7 +7,20 @@
     "origin": "",
     "effect": "Smog Poisons all legal targets on an Even-Numbered Roll.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": {
+          "not": "target:types:poison"
+        },
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.299X6pActAV8ITz7",
+        "range": "even",
+        "value": "",
+        "affects": "target",
+        "even": true
+      }
+    ],
     "enabled": true,
     "slug": "smog",
     "schema": {
@@ -54,10 +67,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707761817661,
+    "modifiedTime": 1710784434126,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!1C4eSkywCcdopGkD"

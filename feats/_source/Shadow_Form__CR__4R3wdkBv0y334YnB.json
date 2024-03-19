@@ -2,7 +2,7 @@
   "name": "Shadow Form [CR]",
   "system": {
     "origin": "Class Rework",
-    "effect": "Effect: While this Feature is Bound, your appearance becomes wan and obviously otherworldly. Your natural Weaknesses, Resistances, and Immunities change to match that of the Ghost Type. Additionally, while in Shadow Form, you are immune to the Cursed Status (if you were previously Cursed, you are instantly cured upon going into Shadow Form) and gain the Phasing Capability. You may unbind this Feature as a Swift Action, returning to your normal appearance.",
+    "effect": "Effect: While this Feature is Bound, your appearance becomes wan and obviously otherworldly. Your natural Weaknesses, Resistances, and Immunities change to match that of the Ghost Type. Additionally, while in Shadow Form, you are immune to the Cursed Status (if you were previously Cursed, you are instantly cured upon going into Shadow Form) and gain the Phasing Capability. You may unbind this Feature as a Rapid Action, returning to your normal appearance.",
     "snippet": "",
     "rules": [
       {
@@ -35,7 +35,7 @@
       "Silent Assassin",
       "Expert Intimidate or Occult Education"
     ],
-    "frequency": "Bind 2 AP – Swift Action",
+    "frequency": "Bind 2 AP – Rapid Action",
     "notes": "",
     "free": false,
     "class": "Apparition [CR]",
@@ -60,7 +60,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "coreVersion": "12.318",
     "createdTime": 1699736627730,
     "modifiedTime": 1707827243445,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

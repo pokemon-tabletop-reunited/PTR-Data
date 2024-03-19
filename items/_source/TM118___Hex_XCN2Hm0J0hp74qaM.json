@@ -3,7 +3,7 @@
   "type": "item",
   "system": {
     "origin": "",
-    "effect": "Once a Scene, if Hex's target has a Status Affliction, you may have Hex's Damage Base be 13 instead (4d10+10 / 35)",
+    "effect": "@Embed[Compendium.ptu.moves.Item.XbAfCHhH425Ldmj4]",
     "snippet": "",
     "rules": [],
     "enabled": true,
@@ -40,10 +40,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692967648964,
-    "modifiedTime": 1707755855042,
+    "modifiedTime": 1710854278462,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!XCN2Hm0J0hp74qaM"

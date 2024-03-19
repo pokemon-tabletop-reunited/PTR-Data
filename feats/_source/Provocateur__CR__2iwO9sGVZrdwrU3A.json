@@ -2,7 +2,7 @@
   "name": "Provocateur [CR]",
   "system": {
     "origin": "Class Rework",
-    "effect": "Effect: You learn the Moves Sweet Kiss and Taunt.\nNote: The Provocateur Skills are Charm, Guile, and Intimidation.",
+    "effect": "Effect: You learn the Moves Comeuppance and Taunt.\nNote: The Provocateur Skills are Charm, Guile, and Intimidation.",
     "snippet": "",
     "rules": [
       {
@@ -13,10 +13,22 @@
         "priority": 20,
         "predicate": [],
         "phase": "applyAEs"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.VZKr97dAK3WrtSlz"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.PPcOINwAtEYByNNN"
       }
     ],
     "enabled": true,
-    "slug": null,
+    "slug": "provocateur-cr",
     "schema": {
       "version": null,
       "lastMigration": null
@@ -26,16 +38,9 @@
       "value": "Homebrew"
     },
     "stackSlugs": false,
-    "keywords": [
-      "Class",
-      "+Speed",
-      "Playtest",
-      "Class Rework"
-    ],
+    "keywords": [],
     "prerequisites": [
-      "One of Confidence Artist",
-      "Intimidating Presence",
-      "or Charmer"
+      "One of Confidence Artist or Intimidating Presence or Charmer"
     ],
     "frequency": "Static",
     "notes": "",
@@ -48,19 +53,23 @@
   "folder": "mS7fmuAZxBzZ1J7B",
   "_id": "2iwO9sGVZrdwrU3A",
   "effects": [],
-  "sort": 0,
+  "sort": 200000,
   "ownership": {
     "default": 0,
     "xUomATnixLnn15IR": 3,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1699736627730,
-    "modifiedTime": 1707827243445,
+    "modifiedTime": 1710765909004,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!2iwO9sGVZrdwrU3A"

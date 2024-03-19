@@ -7,7 +7,24 @@
     "origin": "",
     "effect": "If Wicked Blow hits, it is a Critical Hit. The target is Pushed 6 meters minus their Weight Class. On a roll of 15+, the target is also Tripped.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "hideIfDisabled": false,
+        "selectors": "{item|id}-crit-range",
+        "value": 20
+      },
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.4lqKV4CxikZxxNWJ",
+        "range": "15",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "wicked-blow",
     "schema": {
@@ -58,10 +75,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707830355367,
+    "modifiedTime": 1710852468697,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!jsNy2tCM6ZSqjH6D"

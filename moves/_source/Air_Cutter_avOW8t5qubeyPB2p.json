@@ -7,7 +7,15 @@
     "origin": "",
     "effect": "Air Cutter is a Critical Hit on 18+.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "hideIfDisabled": false,
+        "selectors": "{item|id}-crit-range",
+        "value": 2
+      }
+    ],
     "enabled": true,
     "slug": "air-cutter",
     "schema": {
@@ -57,10 +65,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707849140940,
+    "modifiedTime": 1710851914834,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!avOW8t5qubeyPB2p"

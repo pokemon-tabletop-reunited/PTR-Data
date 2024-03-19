@@ -4,7 +4,7 @@
   "img": "/systems/ptu/css/images/icons/ability_icon.png",
   "system": {
     "origin": "",
-    "effect": "Connection - Rapid Spin. The user may activate this Ability to user Rapid Spin as a Swift Action.",
+    "effect": "Connection - Rapid Spin. The user may activate this Ability to user Rapid Spin as a Rapid Action.",
     "snippet": "",
     "rules": [],
     "enabled": true,
@@ -19,7 +19,7 @@
     },
     "stackSlugs": false,
     "keywords": [],
-    "frequency": "Scene - Swift Action",
+    "frequency": "Scene - Rapid Action",
     "tier": "",
     "automation": []
   },
@@ -35,7 +35,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "coreVersion": "12.318",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

@@ -3,7 +3,7 @@
   "type": "item",
   "system": {
     "origin": "",
-    "effect": "The user is set to their full Hit Point value. The user is cured of any Status ailments. Then, the user falls Asleep. The user cannot make Sleep Checks at the beginning of their turn. They are cured of the Sleep at the end of their turn in 2 rounds.",
+    "effect": "@Embed[Compendium.ptu.moves.Item.P0JIeR4lnilvg7K8]",
     "snippet": "",
     "rules": [],
     "enabled": true,
@@ -40,10 +40,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692967648964,
-    "modifiedTime": 1707755855042,
+    "modifiedTime": 1710854278462,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!1ayBcSxJDviS0G91"

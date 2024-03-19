@@ -28,10 +28,41 @@
         "priority": 20,
         "predicate": [],
         "phase": "applyAEs"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move1",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.abilities.Item.vF0vjHMDikFAthFY",
+            "predicate": {
+              "not": "ability:flame-body"
+            }
+          },
+          {
+            "value": "Compendium.ptu.abilities.Item.ZtDz88aFEkBCL83y",
+            "predicate": {
+              "not": "ability:flash-fire"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move1}"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.capabilities.Item.9DQsEtRIDXdw7ICw"
       }
     ],
     "enabled": true,
-    "slug": null,
+    "slug": "fiery-soul-cr",
     "schema": {
       "version": null,
       "lastMigration": null
@@ -66,13 +97,17 @@
     "xUomATnixLnn15IR": 3,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1699736627730,
-    "modifiedTime": 1707827243445,
+    "modifiedTime": 1710771687105,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Q1KxfCw4AdhMgpsS"

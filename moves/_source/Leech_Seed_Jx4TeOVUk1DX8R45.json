@@ -9,12 +9,12 @@
     "snippet": "",
     "rules": [],
     "enabled": true,
-    "slug": null,
+    "slug": "leech-seed",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.h3mI5ak5eazEafbP",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -34,7 +34,7 @@
     "category": "Status",
     "damageBase": "--",
     "frequency": "Daily x2",
-    "ac": 4,
+    "ac": "4",
     "range": "Range 6",
     "contestType": "Smart - Safe Option",
     "stab": false,
@@ -49,13 +49,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707816395131,
+    "modifiedTime": 1710788219854,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Jx4TeOVUk1DX8R45"

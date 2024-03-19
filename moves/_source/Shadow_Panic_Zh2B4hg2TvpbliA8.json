@@ -8,12 +8,12 @@
     "snippet": "",
     "rules": [],
     "enabled": true,
-    "slug": "",
+    "slug": "shadow-panic",
     "schema": {
       "version": null,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.pLKjxFPUOZQHAcXH",
     "source": {
       "value": "Homebrew"
     },
@@ -31,7 +31,7 @@
     "strongJaw": false,
     "type": "Shadow",
     "category": "Status",
-    "damageBase": "",
+    "damageBase": "--",
     "frequency": "Scene",
     "ac": "6",
     "range": "Cone 3",
@@ -52,10 +52,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1694871205436,
-    "modifiedTime": 1707815126463,
+    "modifiedTime": 1710767498614,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "Zh2B4hg2TvpbliA8",

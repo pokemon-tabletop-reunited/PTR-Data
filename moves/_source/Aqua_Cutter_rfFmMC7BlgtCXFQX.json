@@ -7,7 +7,15 @@
     "origin": "",
     "effect": "Aqua Cutter is a Critical Hit on 17+",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "hideIfDisabled": false,
+        "selectors": "{item|id}-crit-range",
+        "value": 3
+      }
+    ],
     "enabled": true,
     "slug": "aqua-cutter",
     "schema": {
@@ -58,10 +66,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707828188601,
+    "modifiedTime": 1710851921918,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!rfFmMC7BlgtCXFQX"

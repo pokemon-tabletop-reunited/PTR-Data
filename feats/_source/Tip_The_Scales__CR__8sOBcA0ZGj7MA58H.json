@@ -6,12 +6,12 @@
     "snippet": "",
     "rules": [],
     "enabled": true,
-    "slug": null,
+    "slug": "tip-the-scales-cr",
     "schema": {
       "version": null,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.DNQN6Beuu55A64pY",
     "source": {
       "value": "Homebrew"
     },
@@ -24,7 +24,7 @@
       "Commander",
       "Master Command"
     ],
-    "frequency": "Scene x2 – Swift Action",
+    "frequency": "Scene x2 – Rapid Action",
     "notes": "",
     "free": false,
     "class": "Commander [CR]",
@@ -41,13 +41,17 @@
     "xUomATnixLnn15IR": 3,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1699736627730,
-    "modifiedTime": 1707827243445,
+    "modifiedTime": 1710772687853,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!8sOBcA0ZGj7MA58H"

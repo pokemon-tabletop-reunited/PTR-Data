@@ -7,7 +7,17 @@
     "origin": "",
     "effect": "Rock Slide Flinches all legal targets on 17+.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.xE6uIFWZoYXAZQxA",
+        "range": "17",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "rock-slide",
     "schema": {
@@ -54,10 +64,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707824533923,
+    "modifiedTime": 1710783036451,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!AvGyaqir7qFsEzxk"

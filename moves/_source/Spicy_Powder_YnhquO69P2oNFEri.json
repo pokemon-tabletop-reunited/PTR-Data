@@ -8,12 +8,12 @@
     "snippet": "",
     "rules": [],
     "enabled": true,
-    "slug": "",
+    "slug": "spicy-powder",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.NA1Vn8A2h6JIIUhj",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -49,13 +49,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1693119119587,
-    "modifiedTime": 1709369365688,
+    "modifiedTime": 1710788325080,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!YnhquO69P2oNFEri"

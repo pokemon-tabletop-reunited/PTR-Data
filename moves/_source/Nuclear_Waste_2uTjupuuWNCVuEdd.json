@@ -1,7 +1,11 @@
 {
   "name": "Nuclear Waste",
   "type": "move",
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "effects": [],
   "_id": "2uTjupuuWNCVuEdd",
   "system": {
@@ -10,12 +14,12 @@
     "snippet": "",
     "rules": [],
     "enabled": true,
-    "slug": null,
+    "slug": "nuclear-waste",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.39Ty93ddaWcIhagZ",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -53,10 +57,10 @@
   "sort": 300000,
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1689606523899,
-    "modifiedTime": 1707761817661,
+    "modifiedTime": 1710765241566,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!2uTjupuuWNCVuEdd"

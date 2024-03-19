@@ -58,6 +58,12 @@
           },
           "color": "#330000"
         }
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.capabilities.Item.0C31b3ZhHHDPkI1A"
       }
     ],
     "enabled": true,
@@ -124,10 +130,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.2.0",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1699753663348,
-    "modifiedTime": 1708349050722,
+    "modifiedTime": 1710763532578,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "80KB09PboWA3jxOK",

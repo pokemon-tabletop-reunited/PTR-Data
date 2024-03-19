@@ -7,9 +7,19 @@
     "origin": "",
     "effect": "Lower the Attack of all legal targets by 1 Combat Stage.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.I5CmsDx20mkNk3VZ",
+        "range": "1",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "chilling-water",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -47,13 +57,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707761817661,
+    "modifiedTime": 1710765020254,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Mh5MHyCuN80yItfC"

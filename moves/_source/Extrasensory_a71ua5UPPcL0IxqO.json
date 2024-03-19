@@ -7,7 +7,17 @@
     "origin": "",
     "effect": "Extrasensory Flinches the target on 19+.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.xE6uIFWZoYXAZQxA",
+        "range": "19",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "extrasensory",
     "schema": {
@@ -56,10 +66,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707816395131,
+    "modifiedTime": 1710783347084,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!a71ua5UPPcL0IxqO"

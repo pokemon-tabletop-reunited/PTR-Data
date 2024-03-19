@@ -13,6 +13,128 @@
         "priority": 20,
         "predicate": [],
         "phase": "applyAEs"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move1",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.moves.Item.4zyVHZ1t6PJsYzGX",
+            "predicate": {
+              "not": "move:pursuit"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.QGRRWu7evV8MKgs4",
+            "predicate": {
+              "not": "move:sucker-punch"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.eQqKpKRD5wG1Hg7d",
+            "predicate": {
+              "not": "move:assurance"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.8frJ1rnKqBmGvKC0",
+            "predicate": {
+              "not": "move:payback"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.7sMVSFGaJax6lWuM",
+            "predicate": {
+              "not": "move:spite"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.IU5XxUVfxPggP6Rx",
+            "predicate": {
+              "not": "move:sand-attack"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.Zvyuo4sSpliuYCjX",
+            "predicate": {
+              "not": "move:me-first"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.lh8CZDIXVYVWsbCF",
+            "predicate": {
+              "not": "move:throat-chop"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move1}"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "move2",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.moves.Item.4zyVHZ1t6PJsYzGX",
+            "predicate": {
+              "not": "move:pursuit"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.QGRRWu7evV8MKgs4",
+            "predicate": {
+              "not": "move:sucker-punch"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.eQqKpKRD5wG1Hg7d",
+            "predicate": {
+              "not": "move:assurance"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.8frJ1rnKqBmGvKC0",
+            "predicate": {
+              "not": "move:payback"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.7sMVSFGaJax6lWuM",
+            "predicate": {
+              "not": "move:spite"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.IU5XxUVfxPggP6Rx",
+            "predicate": {
+              "not": "move:sand-attack"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.Zvyuo4sSpliuYCjX",
+            "predicate": {
+              "not": "move:me-first"
+            }
+          },
+          {
+            "value": "Compendium.ptu.moves.Item.lh8CZDIXVYVWsbCF",
+            "predicate": {
+              "not": "move:throat-chop"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move2}"
       }
     ],
     "enabled": true,
@@ -58,10 +180,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1699736627730,
-    "modifiedTime": 1707827243445,
+    "modifiedTime": 1710768843458,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "BbSBy7fU3NuWEQcP",

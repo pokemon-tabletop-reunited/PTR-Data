@@ -6,9 +6,21 @@
     "origin": "",
     "effect": "Shadow Fire Burns its target on 19+.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": {
+          "not": "target:types:fire"
+        },
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.NA1Vn8A2h6JIIUhj",
+        "range": "19",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
-    "slug": "",
+    "slug": "shadow-fire",
     "schema": {
       "version": null,
       "lastMigration": null
@@ -52,10 +64,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1694870526357,
-    "modifiedTime": 1707816395131,
+    "modifiedTime": 1710765342406,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "JzWsfd5BLhosTavI",

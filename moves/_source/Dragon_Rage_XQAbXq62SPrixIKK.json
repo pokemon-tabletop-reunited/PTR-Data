@@ -12,7 +12,8 @@
         "key": "EphemeralEffect",
         "predicate": [],
         "selectors": "{item|id}-damage-received",
-        "uuid": "Compendium.ptu.effects.Item.IK1rQX84Oel7pChQ"
+        "uuid": "Compendium.ptu.effects.Item.IK1rQX84Oel7pChQ",
+        "affects": "target"
       }
     ],
     "enabled": true,
@@ -63,10 +64,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.2.1",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1709370300405,
+    "modifiedTime": 1710783370889,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!XQAbXq62SPrixIKK"

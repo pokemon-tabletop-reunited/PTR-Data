@@ -6,9 +6,21 @@
     "origin": "",
     "effect": "Shadow Bolt Paralyzes its target on 18+.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": {
+          "not": "target:types:electric"
+        },
+        "affects": "target",
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.bzZaLfYxVyKbJOCo",
+        "range": "18",
+        "value": ""
+      }
+    ],
     "enabled": true,
-    "slug": "",
+    "slug": "shadow-bolt",
     "schema": {
       "version": null,
       "lastMigration": null
@@ -52,10 +64,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1694870021179,
-    "modifiedTime": 1707816250828,
+    "modifiedTime": 1710765289971,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "7SYAGpMVlguoEJvs",

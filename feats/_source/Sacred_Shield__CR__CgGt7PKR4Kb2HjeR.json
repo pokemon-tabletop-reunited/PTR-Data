@@ -13,10 +13,22 @@
         "priority": 20,
         "predicate": [],
         "phase": "applyAEs"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.eDFWwKCjaJ7vNNbJ"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.XKcx5LB3MJwO3rkS"
       }
     ],
     "enabled": true,
-    "slug": null,
+    "slug": "sacred-shield-cr",
     "schema": {
       "version": null,
       "lastMigration": null
@@ -51,13 +63,17 @@
     "xUomATnixLnn15IR": 3,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1699736627730,
-    "modifiedTime": 1707827243445,
+    "modifiedTime": 1710770174746,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!CgGt7PKR4Kb2HjeR"

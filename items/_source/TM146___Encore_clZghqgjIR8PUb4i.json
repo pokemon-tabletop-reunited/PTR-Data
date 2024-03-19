@@ -3,7 +3,7 @@
   "type": "item",
   "system": {
     "origin": "",
-    "effect": "Roll 1d6. On a result of 1 or 2, the target becomes Confused; on a result of 3 or 4 the target becomes Suppressed; on a result of 5 or 6 the target becomes Enraged.",
+    "effect": "@Embed[Compendium.ptu.moves.Item.UhvLxdWq2D7gOvMr]",
     "snippet": "",
     "rules": [],
     "enabled": true,
@@ -40,10 +40,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692967648964,
-    "modifiedTime": 1707755855042,
+    "modifiedTime": 1710854278462,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!clZghqgjIR8PUb4i"

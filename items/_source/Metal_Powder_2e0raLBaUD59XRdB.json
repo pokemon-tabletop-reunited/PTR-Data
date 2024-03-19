@@ -4,9 +4,36 @@
     "origin": "",
     "effect": "When held by an untransformed Ditto, increases both Defense and Special Defense by +2 Combat Stages. Cannot be used by Trainers.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "predicate": {
+          "and": [
+            "species:ditto"
+          ]
+        },
+        "mode": "add",
+        "path": "system.stats.def.stage.mod",
+        "phase": "afterDerived",
+        "value": 2,
+        "priority": null
+      },
+      {
+        "key": "ActiveEffectLike",
+        "predicate": {
+          "and": [
+            "species:ditto"
+          ]
+        },
+        "mode": "add",
+        "path": "system.stats.spdef.stage.mod",
+        "phase": "afterDerived",
+        "value": 2,
+        "priority": null
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "metal-powder",
     "schema": {
       "version": 0.11,
       "lastMigration": {
@@ -43,13 +70,17 @@
     "default": 0,
     "DsHOL7PqMABKgssN": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": false
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1683368820087,
-    "modifiedTime": 1707755855042,
+    "modifiedTime": 1710776488924,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

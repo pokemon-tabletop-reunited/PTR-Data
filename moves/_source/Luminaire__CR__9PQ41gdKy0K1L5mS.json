@@ -7,7 +7,17 @@
     "origin": "Class Rework",
     "effect": "Effect: Luminaire Blinds all legal targets for 1 full round on 17+.\nLimitation: None",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.g2QutQJutABxFIw6",
+        "range": "17",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "luminaire-cr",
     "schema": {
@@ -57,10 +67,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1699701779793,
-    "modifiedTime": 1707761817661,
+    "modifiedTime": 1710850567356,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "9PQ41gdKy0K1L5mS",

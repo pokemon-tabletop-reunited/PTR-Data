@@ -7,9 +7,19 @@
     "origin": "",
     "effect": "As a Shift Action, the user may Move to any open square in Muddy Water's area of effect without provoking any Attacks of Opportunity. On 16+, the Accuracy of all targets is lowered by 1.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.dZ06WIu0DfK78NlS",
+        "range": "16",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "muddy-water",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -30,9 +40,9 @@
     "strongJaw": false,
     "type": "Water",
     "category": "Special",
-    "damageBase": 9,
+    "damageBase": "9",
     "frequency": "EOT",
-    "ac": 2,
+    "ac": "2",
     "range": "Close Blast 2",
     "contestType": "Tough - Desperation",
     "stab": false,
@@ -47,13 +57,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707761817661,
+    "modifiedTime": 1710765001789,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!updKSTwGuQaZfbTk"

@@ -7,7 +7,17 @@
     "origin": "",
     "effect": "Hurricane Confuses its target on 15+. If the target is in Sunny Weather, Hurricane's Accuracy Check is 11. If the target is in Rainy Weather, Hurricane cannot miss. If the target is airborne as a result of Bounce, Fly, or Sky Drop, Hurricane cannot miss.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.pLKjxFPUOZQHAcXH",
+        "range": "15",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "hurricane",
     "schema": {
@@ -19,10 +29,7 @@
       "value": "PTR Compendiums"
     },
     "stackSlugs": false,
-    "keywords": [
-      "Smite",
-      "Wind"
-    ],
+    "keywords": [],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -57,10 +64,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707849176619,
+    "modifiedTime": 1710789058101,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!UuIiRIuykuszwDPE"

@@ -4,7 +4,7 @@
   "img": "systems/ptu/static/images/conditions/Sleep.svg",
   "system": {
     "origin": "Automated",
-    "effect": "Sleeping Trainers and Pokémon receive no bonuses from Evasion, and cannot take actions except for Free and Swift Actions that would cure Sleep (ex: activating the Shed Skin Ability). At the end of the sleeper’s turns, they may make a DC 16 Save Check to wake up. Whenever a Sleeping Pokémon takes Damage or loses life from an Attack, they wake up. This does not include loss of life from passive sources such as Poison or Burns, but active attacks and effects that cause Hit Point loss (such as being hit by the Press Feature, or Super Fang) would wake up their target. Sleeping targets cannot make Save Checks to be cured of Rage, Infatuation, or Confusion, but they also cannot hurt themselves in Confusion. Pokémon and Trainers may wake an adjacent ally as a Standard Action. The target also becomes Vulnerable.",
+    "effect": "Sleeping Trainers and Pokémon receive no bonuses from Evasion, and cannot take actions except for Free and Rapid Actions that would cure Sleep (ex: activating the Shed Skin Ability). At the end of the sleeper’s turns, they may make a DC 16 Save Check to wake up. Whenever a Sleeping Pokémon takes Damage or loses life from an Attack, they wake up. This does not include loss of life from passive sources such as Poison or Burns, but active attacks and effects that cause Hit Point loss (such as being hit by the Press Feature, or Super Fang) would wake up their target. Sleeping targets cannot make Save Checks to be cured of Rage, Infatuation, or Confusion, but they also cannot hurt themselves in Confusion. Pokémon and Trainers may wake an adjacent ally as a Standard Action. The target also becomes Vulnerable.",
     "snippet": "",
     "rules": [
       {
@@ -74,7 +74,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.3",
-    "coreVersion": "12.317",
+    "coreVersion": "12.318",
     "createdTime": 1691878068601,
     "modifiedTime": 1695027124661,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

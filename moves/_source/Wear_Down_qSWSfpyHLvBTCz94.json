@@ -7,14 +7,25 @@
     "origin": "",
     "effect": "Wear Down lowers the target's Defense by 1 Combat Stage on Even-Numbered Rolls.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.bqiqznj14sIHOpBR",
+        "range": "even",
+        "value": "",
+        "affects": "target",
+        "even": true
+      }
+    ],
     "enabled": true,
     "slug": "wear-down",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.bqiqznj14sIHOpBR",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -56,10 +67,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707822745316,
+    "modifiedTime": 1710851877815,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!qSWSfpyHLvBTCz94"

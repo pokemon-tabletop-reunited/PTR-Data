@@ -7,7 +7,17 @@
     "origin": "",
     "effect": "Hyper Fang Flinches the target on 19+.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.xE6uIFWZoYXAZQxA",
+        "range": "19",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "hyper-fang",
     "schema": {
@@ -57,10 +67,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707830110773,
+    "modifiedTime": 1710850525188,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!bQ9VP91WcvgiZi5g"

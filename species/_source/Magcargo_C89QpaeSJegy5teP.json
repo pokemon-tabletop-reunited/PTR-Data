@@ -57,19 +57,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.h6KPS25O2vQGzMd5",
         "slug": "slugma",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 30,
         "uuid": "Compendium.ptu.species.Item.C89QpaeSJegy5teP",
         "slug": "magcargo",
-        "level": 30,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -102,7 +106,7 @@
       "highJump": 0,
       "longJump": 0,
       "power": 4,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "egg-warmer",
@@ -502,7 +506,14 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Fire",
+      "1": "Rock",
+      "2": ""
+    },
+    "stackSlugs": false,
+    "enabled": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -517,11 +528,11 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1689609527590,
-    "modifiedTime": 1708094889604,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1710256154926,
+    "lastModifiedBy": "xUomATnixLnn15IR"
   },
   "_key": "!items!C89QpaeSJegy5teP"
 }

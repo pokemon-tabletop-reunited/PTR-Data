@@ -7,7 +7,17 @@
     "origin": "",
     "effect": "The user becomes Enraged. Each time the user is Hit while enraged, increase the DB of this move by 1 until the end of the Scene.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-dealt",
+        "uuid": "Compendium.ptu.effects.Item.XWqLLq9Vb9h0eZwh",
+        "range": "1",
+        "value": "",
+        "affects": "origin"
+      }
+    ],
     "enabled": true,
     "slug": "rage-fist",
     "schema": {
@@ -19,10 +29,7 @@
       "value": "PTR Compendiums"
     },
     "stackSlugs": false,
-    "keywords": [
-      "Target 1",
-      "Punch"
-    ],
+    "keywords": [],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -57,10 +64,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707830360046,
+    "modifiedTime": 1710788833555,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!EDjggvb2syCwBlkq"

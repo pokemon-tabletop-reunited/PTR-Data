@@ -7,7 +7,19 @@
     "origin": "",
     "effect": "Ice Punch Freezes the target on 19+.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": {
+          "not": "target:types:ice"
+        },
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.7F4dkJoDuD7wNcEK",
+        "range": "19",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "ice-punch",
     "schema": {
@@ -57,10 +69,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707830278653,
+    "modifiedTime": 1710784968972,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!I0Cy1NP2brM1jq1h"

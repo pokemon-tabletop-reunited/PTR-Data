@@ -4,9 +4,17 @@
     "origin": "",
     "effect": "Grants +1 Bonus to all Accuracy Rolls. A roll of 1 always misses. Cannot be used by Trainers.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "hideIfDisabled": false,
+        "selectors": "attack-roll",
+        "value": 1
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "luck-incense",
     "schema": {
       "version": 0.11,
       "lastMigration": {
@@ -44,13 +52,17 @@
     "default": 0,
     "DsHOL7PqMABKgssN": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": false
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1683368808986,
-    "modifiedTime": 1707755855042,
+    "modifiedTime": 1710776505026,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

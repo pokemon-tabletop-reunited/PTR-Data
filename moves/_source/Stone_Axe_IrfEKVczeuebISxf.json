@@ -7,7 +7,17 @@
     "origin": "",
     "effect": "The target is put in a Vortex.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "affects": "target",
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.BuK1xNKNhBn1DZDu",
+        "range": "1",
+        "value": ""
+      }
+    ],
     "enabled": true,
     "slug": "stone-axe",
     "schema": {
@@ -57,10 +67,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707828281429,
+    "modifiedTime": 1710783031222,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!IrfEKVczeuebISxf"

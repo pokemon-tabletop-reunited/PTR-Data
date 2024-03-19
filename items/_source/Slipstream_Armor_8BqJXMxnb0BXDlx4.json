@@ -2,7 +2,7 @@
   "name": "Slipstream Armor",
   "system": {
     "origin": "",
-    "effect": "A flexible and smooth light armor that can momentarily become nearly frictionless. Grants 5 Damage Reduction. Once a battle, the wearer may use a Swift Action to escape from being Stuck.",
+    "effect": "A flexible and smooth light armor that can momentarily become nearly frictionless. Grants 5 Damage Reduction. Once a battle, the wearer may use a Rapid Action to escape from being Stuck.",
     "snippet": "",
     "rules": [],
     "enabled": true,
@@ -45,7 +45,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.0.0.beta.12",
-    "coreVersion": "12.317",
+    "coreVersion": "12.318",
     "createdTime": 1683368813115,
     "modifiedTime": 1699197799910,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

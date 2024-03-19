@@ -7,7 +7,19 @@
     "origin": "",
     "effect": "The target is Burned on a 17+. If the target is in Rainy Weather, Sandsear Storm cannot miss.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": {
+          "not": "target:types:fire"
+        },
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.NA1Vn8A2h6JIIUhj",
+        "range": "17",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "sandsear-storm",
     "schema": {
@@ -56,10 +68,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1699651632438,
-    "modifiedTime": 1709369365688,
+    "modifiedTime": 1710787899471,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!RyKdS3yRZjvCBXPz"

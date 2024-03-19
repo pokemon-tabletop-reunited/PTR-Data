@@ -2,7 +2,7 @@
   "name": "Lessons In Rage & Pain [CR]",
   "system": {
     "origin": "Class Rework",
-    "effect": "Effect:  You gain the move Revenge and can use it as a Weapon Move.\nWhile you have at least 1 Injury, add +X to your Damage Rolls with Rage, Flail, Fury Swipes, Thrash, and Weapon Attacks. X is equal to your Intimidate Rank plus the number of Injuries you have. You do not lose Hit Points from being Heavily Injured, and Injuries beyond the 5th do not lower your Maximum Hit Points.",
+    "effect": "Effect:  You gain the move Revenge and can use it as a Weapon Move.\nWhile you have at least 1 Injury, add +X to your Damage Rolls with Rage, Flail, Double Edge, Thrash, and Weapon Attacks. X is equal to your Intimidate Rank plus the number of Injuries you have. You do not lose Hit Points from being Heavily Injured, and Injuries beyond the 5th do not lower your Maximum Hit Points.",
     "snippet": "",
     "rules": [
       {
@@ -26,15 +26,8 @@
       "value": "Homebrew"
     },
     "stackSlugs": false,
-    "keywords": [
-      "+HP",
-      "Playtest",
-      "Class Rework"
-    ],
-    "prerequisites": [
-      "Berserker",
-      "Adept Intimidate"
-    ],
+    "keywords": [],
+    "prerequisites": [],
     "frequency": "Static",
     "notes": "",
     "free": false,
@@ -59,10 +52,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1699736627730,
-    "modifiedTime": 1707827243445,
+    "modifiedTime": 1710767532193,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!mQq0ZI8ce6gaahWV"

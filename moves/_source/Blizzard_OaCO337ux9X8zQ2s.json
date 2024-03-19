@@ -7,7 +7,19 @@
     "origin": "",
     "effect": "Blizzard Freezes all legal target on 15+. If the target is in Hailing Weather, Blizzard cannot miss.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": {
+          "not": "target:types:ice"
+        },
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.7F4dkJoDuD7wNcEK",
+        "range": "15",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "blizzard",
     "schema": {
@@ -57,10 +69,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707849152928,
+    "modifiedTime": 1710784796609,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!OaCO337ux9X8zQ2s"

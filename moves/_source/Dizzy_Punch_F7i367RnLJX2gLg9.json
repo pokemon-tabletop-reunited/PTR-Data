@@ -7,7 +7,17 @@
     "origin": "",
     "effect": "Dizzy Punch Confuses the target on 17+.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.pLKjxFPUOZQHAcXH",
+        "range": "17",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "dizzy-punch",
     "schema": {
@@ -57,10 +67,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707830224755,
+    "modifiedTime": 1710850439657,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!F7i367RnLJX2gLg9"

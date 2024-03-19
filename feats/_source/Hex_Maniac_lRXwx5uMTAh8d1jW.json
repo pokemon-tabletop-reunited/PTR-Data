@@ -9,7 +9,10 @@
         "key": "ActiveEffectLike",
         "mode": "add",
         "path": "system.modifiers.baseStats.hp.mod",
-        "value": 1
+        "value": 1,
+        "predicate": [],
+        "phase": "applyAEs",
+        "priority": null
       },
       {
         "key": "ChoiceSet",
@@ -32,7 +35,7 @@
       }
     ],
     "enabled": true,
-    "slug": null,
+    "slug": "hex-maniac",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -69,15 +72,16 @@
       "sourceId": "Compendium.ptu.feats.UgplFROaJz4wSXV3"
     },
     "ptu": {
-      "prereqBackup": "Novice Occult Education"
+      "prereqBackup": "Novice Occult Education",
+      "showInTokenPanel": true
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1683368079216,
-    "modifiedTime": 1707818613949,
+    "modifiedTime": 1710768615368,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

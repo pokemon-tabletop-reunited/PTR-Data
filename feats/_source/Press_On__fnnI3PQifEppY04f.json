@@ -2,11 +2,11 @@
   "name": "Press On!",
   "system": {
     "origin": "",
-    "effect": "Your Hardened Pokemon gain the following benefits, based on your Intimidate Rank\n»» Expert: When your Pokemon Faints, you may pay 1 AP. If you do, your Pokemon Faints at -30% Hit Points instead.\n»» Master: While acting at 0 Hit Points or less, your Pokemon’s Critical Hit, Effect Range, Evasion, Initiative, Damage Reduction, and Resistance Bonuses from being Hardened are doubled.",
+    "effect": "Your Hardened Pokemon gain the following benefits, based on your Intimidate Rank\n»» Expert: When your Pokémon would Faint, you may pay 1 AP. If you do, your Pokémon does not Faint, has their HP set to 1, and then they gain 3 Ticks of HP. This may only be used once per Scene per Pokémon.\n»» Master: After you trigger the Expert Effect of Press On!, your Pokémon’s Critical Hit, Effect Range, Evasion, Initiative, Damage Reduction, and Resistance Bonuses from being Hardened are doubled until they Faint or the Scene ends.",
     "snippet": "",
     "rules": [],
     "enabled": true,
-    "slug": null,
+    "slug": "press-on",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -41,15 +41,16 @@
       "sourceId": "Compendium.ptu.feats.QoCRXAAXlHULgYTU"
     },
     "ptu": {
-      "prereqBackup": "Taskmaster, Expert Intimidate"
+      "prereqBackup": "Taskmaster, Expert Intimidate",
+      "showInTokenPanel": true
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1683368078905,
-    "modifiedTime": 1707818613949,
+    "modifiedTime": 1710767349298,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

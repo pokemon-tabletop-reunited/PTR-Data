@@ -12,7 +12,19 @@
     "origin": "",
     "effect": "Asteroid Shot Burns the target on a 19+.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": {
+          "not": "target:types:fire"
+        },
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.NA1Vn8A2h6JIIUhj",
+        "range": "19",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "asteroid-shot",
     "schema": {
@@ -59,10 +71,10 @@
   "folder": "lWQOqDm2AOGwGM16",
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1689606523899,
-    "modifiedTime": 1707816395131,
+    "modifiedTime": 1710782953997,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "5tMneV1YLxv83bsb",

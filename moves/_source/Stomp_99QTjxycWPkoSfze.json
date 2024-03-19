@@ -7,9 +7,19 @@
     "origin": "",
     "effect": "Stomp Flinches the target on 15+. If the target is at least one size category smaller than the user, Stomp deals an additional 10 damage.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "affects": "target",
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.xE6uIFWZoYXAZQxA",
+        "range": "15",
+        "value": ""
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "stomp",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -32,9 +42,9 @@
     "strongJaw": false,
     "type": "Normal",
     "category": "Physical",
-    "damageBase": 7,
+    "damageBase": "7",
     "frequency": "EOT",
-    "ac": 2,
+    "ac": "2",
     "range": "Melee",
     "contestType": "Tough - Steady Performance",
     "stab": false,
@@ -49,13 +59,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707815182675,
+    "modifiedTime": 1710850879713,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!99QTjxycWPkoSfze"

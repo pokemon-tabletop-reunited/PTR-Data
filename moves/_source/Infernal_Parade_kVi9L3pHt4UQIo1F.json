@@ -7,7 +7,19 @@
     "origin": "",
     "effect": "Legal targets hit by Infernal Parade are Burned on a 17+.\nOnce a Scene, if at least one of Infernal Parade's targets has a Status Condition, you may increase Infernal Parade's Damage Base to 12 instead (3d12+10 / 30).",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": {
+          "not": "target:types:fire"
+        },
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.NA1Vn8A2h6JIIUhj",
+        "range": "17",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "infernal-parade",
     "schema": {
@@ -54,10 +66,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707824065447,
+    "modifiedTime": 1710788804771,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!kVi9L3pHt4UQIo1F"

@@ -13,10 +13,29 @@
         "priority": 20,
         "predicate": [],
         "phase": "applyAEs"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "ability",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.abilities.Item.rlnJ3Qo2U9bHJWnW"
+          },
+          {
+            "value": "Compendium.ptu.abilities.Item.6XpwCLUT2uMAN0aM"
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.ability}"
       }
     ],
     "enabled": true,
-    "slug": null,
+    "slug": "underhanded-tactics-cr",
     "schema": {
       "version": null,
       "lastMigration": null
@@ -52,13 +71,17 @@
     "xUomATnixLnn15IR": 3,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1699736627730,
-    "modifiedTime": 1707827243445,
+    "modifiedTime": 1710768820407,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!DHyxAJc2TtuiCQAL"

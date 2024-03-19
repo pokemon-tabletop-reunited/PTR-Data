@@ -7,22 +7,29 @@
     "origin": "",
     "effect": "Superpower lowers the user's Attack and Defense by 1 Combat Stage each.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-dealt",
+        "uuid": "Compendium.ptu.effects.Item.4aEp37A6s7bxfTfC",
+        "range": "1",
+        "value": "",
+        "affects": "origin"
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "superpower",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.4aEp37A6s7bxfTfC",
     "source": {
       "value": "PTR Compendiums"
     },
     "stackSlugs": false,
-    "keywords": [
-      "Target 1",
-      "Dash"
-    ],
+    "keywords": [],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -33,9 +40,9 @@
     "strongJaw": false,
     "type": "Fighting",
     "category": "Physical",
-    "damageBase": 12,
+    "damageBase": "12",
     "frequency": "Scene x2",
-    "ac": 2,
+    "ac": "2",
     "range": "Melee",
     "contestType": "Tough - Desperation",
     "stab": false,
@@ -50,13 +57,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707815182675,
+    "modifiedTime": 1710789924399,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!xwJMUiNv3k0k9VK6"

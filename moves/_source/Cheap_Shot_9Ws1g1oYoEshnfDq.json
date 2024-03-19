@@ -7,7 +7,15 @@
     "origin": "",
     "effect": "If Cheap Shot hits, it is a Critical Hit.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "hideIfDisabled": false,
+        "selectors": "{item|id}-crit-range",
+        "value": 20
+      }
+    ],
     "enabled": true,
     "slug": "cheap-shot",
     "schema": {
@@ -56,10 +64,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707815182675,
+    "modifiedTime": 1710851962732,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "9Ws1g1oYoEshnfDq",

@@ -7,14 +7,32 @@
     "origin": "",
     "effect": "Freezing Glare Freezes the target on a 19+. Once per Scene, Freezing Glare may instead be used as an Ice-Type Move.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": {
+          "not": "target:types:ice"
+        },
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.7F4dkJoDuD7wNcEK",
+        "range": "19",
+        "value": "",
+        "affects": "target"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.rOxI8cNml842uFjZ"
+      }
+    ],
     "enabled": true,
     "slug": "freezing-glare",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.moves.Item.rOxI8cNml842uFjZ",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -56,10 +74,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707816250828,
+    "modifiedTime": 1710783332303,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!U4k8K0UKqSd1uLoS"

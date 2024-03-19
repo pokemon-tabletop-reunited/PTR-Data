@@ -12,7 +12,19 @@
     "origin": "",
     "effect": "Sky Fall Paralyzes the target on 15+.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": {
+          "not": "target:types:electric"
+        },
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.bzZaLfYxVyKbJOCo",
+        "range": "15",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "sky-fall",
     "schema": {
@@ -24,9 +36,7 @@
       "value": "PTR Compendiums"
     },
     "stackSlugs": false,
-    "keywords": [
-      "Target 1"
-    ],
+    "keywords": [],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -59,10 +69,10 @@
   "sort": 500000,
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1689606523899,
-    "modifiedTime": 1707816395131,
+    "modifiedTime": 1710789074782,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!45lX3Vb7f1M9YFVv"

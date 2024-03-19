@@ -4,11 +4,11 @@
   "img": "/systems/ptu/css/images/icons/ability_icon.png",
   "system": {
     "origin": "",
-    "effect": "Trigger - The user uses an Electric Attack\\nFor every allied Electric-Type Pokémon adjacent to the user, the triggering Attack deals an additional +3 Damage.",
+    "effect": "The user's Electric Type moves are resisted one step less to a maximum of neutral. Ground type Immunity instead counts as if it resisted Electric type moves.",
     "snippet": "",
     "rules": [],
     "enabled": true,
-    "slug": null,
+    "slug": "sequence",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -19,7 +19,7 @@
     },
     "stackSlugs": false,
     "keywords": [],
-    "frequency": "At-Will - Free Action",
+    "frequency": "Static",
     "tier": "",
     "automation": []
   },
@@ -31,13 +31,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1710763603403,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!YWRUQgKcUMBYJvAr"

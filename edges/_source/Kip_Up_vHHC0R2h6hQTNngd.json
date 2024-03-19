@@ -2,7 +2,7 @@
   "name": "Kip Up",
   "system": {
     "origin": "",
-    "effect": "You may stand up from being Tripped as a Swift Action.",
+    "effect": "You may stand up from being Tripped as a Rapid Action.",
     "snippet": "",
     "rules": [],
     "enabled": true,
@@ -40,7 +40,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "coreVersion": "12.318",
     "createdTime": 1683367953807,
     "modifiedTime": 1707761797684,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

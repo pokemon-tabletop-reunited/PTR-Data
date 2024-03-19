@@ -7,7 +7,19 @@
     "origin": "",
     "effect": "The target is Poisoned on 18+",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": {
+          "not": "target:types:poison"
+        },
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.299X6pActAV8ITz7",
+        "range": "18",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "noxious-torque",
     "schema": {
@@ -57,10 +69,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707815182675,
+    "modifiedTime": 1710783856604,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!zwenT7DfRHUT4NYw"

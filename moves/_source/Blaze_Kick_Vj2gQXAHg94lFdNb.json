@@ -18,6 +18,13 @@
         "uuid": "Compendium.ptu.effects.Item.NA1Vn8A2h6JIIUhj",
         "range": "19",
         "value": ""
+      },
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "hideIfDisabled": false,
+        "selectors": "{item|id}-crit-range",
+        "value": 2
       }
     ],
     "enabled": true,
@@ -68,10 +75,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.2.1",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1709368217833,
+    "modifiedTime": 1710851940332,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Vj2gQXAHg94lFdNb"

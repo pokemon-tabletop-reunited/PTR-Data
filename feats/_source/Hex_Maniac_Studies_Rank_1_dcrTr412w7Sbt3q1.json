@@ -9,7 +9,10 @@
         "key": "ActiveEffectLike",
         "mode": "add",
         "path": "system.modifiers.baseStats.hp.mod",
-        "value": 1
+        "value": 1,
+        "predicate": [],
+        "phase": "applyAEs",
+        "priority": null
       },
       {
         "key": "ChoiceSet",
@@ -149,7 +152,7 @@
       }
     ],
     "enabled": true,
-    "slug": null,
+    "slug": "hex-maniac-studies-rank-1",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -186,15 +189,16 @@
       "sourceId": "Compendium.ptu.feats.95IZaUzisiUkD7Nj"
     },
     "ptu": {
-      "prereqBackup": "Hex Maniac"
+      "prereqBackup": "Hex Maniac",
+      "showInTokenPanel": true
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1683368078965,
-    "modifiedTime": 1707818613949,
+    "modifiedTime": 1710770077462,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

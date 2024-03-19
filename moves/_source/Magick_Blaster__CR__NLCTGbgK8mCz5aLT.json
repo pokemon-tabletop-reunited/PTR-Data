@@ -7,7 +7,17 @@
     "origin": "Class Rework",
     "effect": "Effect: Magick Blaster Flinches the target on 19+.\nLimitation: Ranged Weapons Only",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "affects": "target",
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.xE6uIFWZoYXAZQxA",
+        "range": "19",
+        "value": ""
+      }
+    ],
     "enabled": true,
     "slug": "magick-blaster-cr",
     "schema": {
@@ -59,10 +69,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1699701779793,
-    "modifiedTime": 1707822683487,
+    "modifiedTime": 1710850579204,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "NLCTGbgK8mCz5aLT",

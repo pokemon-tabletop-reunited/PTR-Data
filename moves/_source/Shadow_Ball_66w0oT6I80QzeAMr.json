@@ -7,7 +7,17 @@
     "origin": "",
     "effect": "Shadow Ball lowers the target's Special Defense by 1 Combat Stage on 17+.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-dealt",
+        "uuid": "Compendium.ptu.effects.Item.x2CZnRYV8WNoA8JY",
+        "range": "17",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "shadow-ball",
     "schema": {
@@ -56,10 +66,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707824482941,
+    "modifiedTime": 1710772583587,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!66w0oT6I80QzeAMr"

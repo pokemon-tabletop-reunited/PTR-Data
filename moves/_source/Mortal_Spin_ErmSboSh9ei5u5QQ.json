@@ -7,7 +7,19 @@
     "origin": "",
     "effect": "The user breaks all Grapples and Seeded effects at the end of this turn. All legal targets are now poisoned.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": {
+          "not": "target:types:poison"
+        },
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.299X6pActAV8ITz7",
+        "range": "1",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "mortal-spin",
     "schema": {
@@ -54,10 +66,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707761817661,
+    "modifiedTime": 1710783835356,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!ErmSboSh9ei5u5QQ"

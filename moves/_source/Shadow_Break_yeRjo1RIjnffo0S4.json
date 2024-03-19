@@ -6,9 +6,17 @@
     "origin": "",
     "effect": "Shadow Break is a Critical Hit on 19+.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "hideIfDisabled": false,
+        "selectors": "{item|id}-crit-range",
+        "value": 1
+      }
+    ],
     "enabled": true,
-    "slug": "",
+    "slug": "shadow-break",
     "schema": {
       "version": null,
       "lastMigration": null
@@ -52,10 +60,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1694870101537,
-    "modifiedTime": 1707815182675,
+    "modifiedTime": 1710852383393,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "yeRjo1RIjnffo0S4",

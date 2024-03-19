@@ -2,7 +2,7 @@
   "name": "Nimble Steps",
   "system": {
     "origin": "",
-    "effect": "You may perform the Disengage Maneuver as a Swift Action.",
+    "effect": "You may perform the Disengage Maneuver as a Rapid Action.",
     "snippet": "",
     "rules": [
       {
@@ -55,7 +55,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "coreVersion": "12.318",
     "createdTime": 1683368078941,
     "modifiedTime": 1707818613949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

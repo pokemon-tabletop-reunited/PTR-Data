@@ -20,8 +20,8 @@
       "atk": 8,
       "def": 6,
       "spatk": 5,
-      "spdef": 9,
-      "spd": 6
+      "spdef": 6,
+      "spd": 9
     },
     "types": [
       "Normal"
@@ -56,19 +56,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.Ic6g6ik9H4415Kf9",
         "slug": "sentret",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 15,
         "uuid": "Compendium.ptu.species.Item.1W4gnckSi4GkqB98",
         "slug": "furret",
-        "level": 15,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -538,7 +542,13 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Normal",
+      "1": ""
+    },
+    "stackSlugs": false,
+    "enabled": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -553,10 +563,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1689609527590,
-    "modifiedTime": 1708094889604,
+    "modifiedTime": 1710763570886,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!1W4gnckSi4GkqB98"

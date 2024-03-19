@@ -5,9 +5,17 @@
   "folder": "lWQOqDm2AOGwGM16",
   "system": {
     "origin": "",
-    "effect": "Bullseye is a Critical Hit on 16+.\\nLimitation: Ranged Weapons Only",
+    "effect": "Bullseye is a Critical Hit on 16+.\nLimitation: Ranged Weapons Only",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "hideIfDisabled": false,
+        "selectors": "{item|id}-crit-range",
+        "value": 4
+      }
+    ],
     "enabled": true,
     "slug": "bullseye",
     "schema": {
@@ -56,10 +64,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707822616098,
+    "modifiedTime": 1710851953016,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!vR404l0bXvL04MoT"

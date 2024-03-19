@@ -7,14 +7,24 @@
     "origin": "",
     "effect": "Lower the Target's Special Defense 2 Combat Stages. ",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.8Lgw7L5us5F8RLs9",
+        "range": "1",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "lumina-crash",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.8Lgw7L5us5F8RLs9",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -56,10 +66,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707816395131,
+    "modifiedTime": 1710783527259,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!T71RAH7D2ADEUgxH"

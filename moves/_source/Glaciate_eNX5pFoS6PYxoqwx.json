@@ -7,14 +7,34 @@
     "origin": "",
     "effect": "All Legal Targets have their Speed lowered 1 Combat Stage. On an Even-Numbered Roll, all Legal Targets on the ground are Slowed.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.I2nVAxBFKDMe8EQt",
+        "range": "even",
+        "value": "",
+        "affects": "target",
+        "even": true
+      },
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "affects": "target",
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.zg5BJA3J6vPpNNI2",
+        "range": "1",
+        "value": ""
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "glaciate",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.zg5BJA3J6vPpNNI2",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -30,9 +50,9 @@
     "strongJaw": false,
     "type": "Ice",
     "category": "Special",
-    "damageBase": 7,
+    "damageBase": "7",
     "frequency": "EOT",
-    "ac": 3,
+    "ac": "3",
     "range": "Burst 2",
     "contestType": "Beauty - Steady Performance",
     "stab": false,
@@ -47,13 +67,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707761817661,
+    "modifiedTime": 1710785067763,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!eNX5pFoS6PYxoqwx"

@@ -7,7 +7,19 @@
     "origin": "",
     "effect": "Burns on 18+. The user heals half the damage dealt (rounded up)",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": {
+          "not": "target:types:fire"
+        },
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.NA1Vn8A2h6JIIUhj",
+        "range": "18",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "matcha-gotcha",
     "schema": {
@@ -67,10 +79,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1694751659509,
-    "modifiedTime": 1707816250828,
+    "modifiedTime": 1710788240910,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "69HtQAbcRz0e1Tbv",

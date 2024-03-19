@@ -7,7 +7,19 @@
     "origin": "Homebrew",
     "effect": "Origin Bolt Paralyzes the target on 15+. If the user used the Move Fortify on their last turn, they gain three Ticks of Temporary Hit Points.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": {
+          "not": "target:types:electric"
+        },
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.bzZaLfYxVyKbJOCo",
+        "range": "15",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "origin-bolt",
     "schema": {
@@ -56,10 +68,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1700092880072,
-    "modifiedTime": 1707816395131,
+    "modifiedTime": 1710782545274,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "sC2mOn3R3z1jVlvo",

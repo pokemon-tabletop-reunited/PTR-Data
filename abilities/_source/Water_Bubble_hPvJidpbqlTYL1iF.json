@@ -16,6 +16,12 @@
         "hideIfDisabled": false,
         "selectors": "water-damage-dice",
         "value": "1d6+2"
+      },
+      {
+        "key": "Effectiveness",
+        "predicate": [],
+        "type": "fire",
+        "value": 0.5
       }
     ],
     "enabled": true,
@@ -51,10 +57,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707828867090,
+    "modifiedTime": 1710771640865,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!hPvJidpbqlTYL1iF"

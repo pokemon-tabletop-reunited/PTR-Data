@@ -12,7 +12,17 @@
     "origin": "",
     "effect": "When calculating Weakness and Resistance for Corrode, Steel-Typed targets calculate damage as if Steel was weak to Poison.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "EphemeralEffect",
+        "predicate": [
+          "target:types:steel"
+        ],
+        "selectors": "{item|id}-damage-received",
+        "affects": "target",
+        "uuid": "Compendium.ptu.effects.Item.FMZFXJBX6AehlKhS"
+      }
+    ],
     "enabled": true,
     "slug": "corrode",
     "schema": {
@@ -59,10 +69,10 @@
   "folder": "CKiVqPT3ASdUeaM0",
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1689606523899,
-    "modifiedTime": 1707816395131,
+    "modifiedTime": 1710852510203,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "hoz6ge2Cbtr6wwF1",

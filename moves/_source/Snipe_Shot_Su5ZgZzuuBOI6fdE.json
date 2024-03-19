@@ -7,9 +7,17 @@
     "origin": "",
     "effect": "Snipe Shot is a Critical Hit on 18+. This Move may not be Intercepted, nor may any Abilities, Moves, or Features be activated to change this Move's target. Any of those existing effect (such as Follow Me) fail.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "hideIfDisabled": false,
+        "selectors": "{item|id}-crit-range",
+        "value": 2
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "snipe-shot",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -32,9 +40,9 @@
     "strongJaw": false,
     "type": "Water",
     "category": "Special",
-    "damageBase": 8,
+    "damageBase": "8",
     "frequency": "EOT",
-    "ac": 2,
+    "ac": "2",
     "range": "Range 8",
     "contestType": "Beauty - Reliable",
     "stab": false,
@@ -49,13 +57,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707816395131,
+    "modifiedTime": 1710852422245,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Su5ZgZzuuBOI6fdE"

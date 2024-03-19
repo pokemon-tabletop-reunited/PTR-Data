@@ -13,10 +13,22 @@
         "priority": 20,
         "predicate": [],
         "phase": "applyAEs"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.16Ij0HJODJxOy5j9"
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.cu9K3c625G2F54lh"
       }
     ],
     "enabled": true,
-    "slug": null,
+    "slug": "rogue-cr",
     "schema": {
       "version": null,
       "lastMigration": null
@@ -52,13 +64,17 @@
     "xUomATnixLnn15IR": 3,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1699736627730,
-    "modifiedTime": 1707827243445,
+    "modifiedTime": 1710768786578,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!iVlB7WlORRXRFExb"

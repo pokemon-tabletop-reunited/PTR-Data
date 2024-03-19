@@ -7,7 +7,17 @@
     "origin": "",
     "effect": "Dynamic Punch Confuses the target. Dynamic Punch ignores the target's Evasion if they are Flanked.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.pLKjxFPUOZQHAcXH",
+        "range": "1",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "dynamic-punch",
     "schema": {
@@ -19,10 +29,7 @@
       "value": "PTR Compendiums"
     },
     "stackSlugs": false,
-    "keywords": [
-      "Target 1",
-      "Punch"
-    ],
+    "keywords": [],
     "sheerForce": false,
     "toughClaws": false,
     "technician": false,
@@ -57,10 +64,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707830243306,
+    "modifiedTime": 1710789268907,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!vg4sghb5ZX1spGho"

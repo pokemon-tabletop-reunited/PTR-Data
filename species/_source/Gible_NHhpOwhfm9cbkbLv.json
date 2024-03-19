@@ -57,27 +57,33 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.NHhpOwhfm9cbkbLv",
         "slug": "gible",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 20,
         "uuid": "Compendium.ptu.species.Item.VYvdsALpGps5ivBp",
         "slug": "gabite",
-        "level": 20,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 40,
         "uuid": "Compendium.ptu.species.Item.N2Vn9vKIFoehbUf5",
         "slug": "garchomp",
-        "level": 40,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -497,7 +503,14 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Dragon",
+      "1": "Ground",
+      "2": ""
+    },
+    "stackSlugs": false,
+    "enabled": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -512,10 +525,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1689609527590,
-    "modifiedTime": 1708094889604,
+    "modifiedTime": 1710768067510,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!NHhpOwhfm9cbkbLv"

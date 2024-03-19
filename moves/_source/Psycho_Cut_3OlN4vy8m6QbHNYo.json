@@ -7,7 +7,15 @@
     "origin": "",
     "effect": "Psycho Cut is a Critical Hit on 18+.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "hideIfDisabled": false,
+        "selectors": "{item|id}-crit-range",
+        "value": 2
+      }
+    ],
     "enabled": true,
     "slug": "psycho-cut",
     "schema": {
@@ -57,10 +65,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707828304487,
+    "modifiedTime": 1710770830106,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!3OlN4vy8m6QbHNYo"

@@ -7,7 +7,19 @@
     "origin": "",
     "effect": "Gunk Shot Poisons the target on 15+.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": {
+          "not": "target:types:poison"
+        },
+        "affects": "target",
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.299X6pActAV8ITz7",
+        "range": "15",
+        "value": ""
+      }
+    ],
     "enabled": true,
     "slug": "gunk-shot",
     "schema": {
@@ -57,10 +69,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707824234387,
+    "modifiedTime": 1710783793298,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!WBkN88g7D8ruzV02"

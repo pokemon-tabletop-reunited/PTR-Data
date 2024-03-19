@@ -6,7 +6,32 @@
     "origin": "",
     "effect": "If the user’s Attack is higher than its Special Attack, the user may add its Attack Stat to its Special Damage Rolls. If their Special Attack is higher, the user may add its Special Attack Stat to its Physical Damage Rolls. This does not stack with Mixed Power.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": {
+          "gte": [
+            "{actor|system.stats.atk.total}",
+            "{actor|system.stats.spatk.total}"
+          ]
+        },
+        "hideIfDisabled": false,
+        "selectors": "special-damage",
+        "value": "@actor.system.stats.atk.total - @actor.system.stats.spatk.total"
+      },
+      {
+        "key": "FlatModifier",
+        "predicate": {
+          "gte": [
+            "{actor|system.stats.spatk.total}",
+            "{actor|system.stats.atk.total}"
+          ]
+        },
+        "hideIfDisabled": false,
+        "selectors": "physical-damage",
+        "value": "@actor.system.stats.spatk.total - @actor.system.stats.atk.total"
+      }
+    ],
     "enabled": true,
     "slug": "weird-power",
     "schema": {
@@ -38,10 +63,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1710768557008,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!uVkMT6jTSPTTuAY7"

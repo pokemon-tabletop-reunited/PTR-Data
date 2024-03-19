@@ -12,7 +12,17 @@
     "origin": "",
     "effect": "Terrorize Confuses Legal Targets on 19+.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.pLKjxFPUOZQHAcXH",
+        "range": "19",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "terrorize",
     "schema": {
@@ -59,10 +69,10 @@
   "sort": 2400000,
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1689606523899,
-    "modifiedTime": 1707824386659,
+    "modifiedTime": 1710788863584,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!PCE42hdFSB3on0bl"

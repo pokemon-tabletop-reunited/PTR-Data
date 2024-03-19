@@ -4,7 +4,45 @@
     "origin": "Class Rework",
     "effect": "Effect: Choose Agility Training, Brutal Training, Focused Training, or Inspired Training. You gain the chosen Feature, even if you do not meet the prerequisites. When training, you may apply up to two different [Training] Features on each of your Pokémon. If you already have all of these Features, instead pick another Feature for which you qualify.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "flag": "move",
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.ptu.feats.Item.TQ6scoBM3iZKMuZT",
+            "predicate": {
+              "not": "feat:agility-training"
+            }
+          },
+          {
+            "value": "Compendium.ptu.feats.Item.MolTHMn3UrNiIZ3h",
+            "predicate": {
+              "not": "feat:brutal-training"
+            }
+          },
+          {
+            "value": "Compendium.ptu.feats.Item.FLSt79Zix8j69T07",
+            "predicate": {
+              "not": "feat:focused-training"
+            }
+          },
+          {
+            "value": "Compendium.ptu.feats.Item.WfLcIrUmRwblAaYr",
+            "predicate": {
+              "not": "feat:inspired-training"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.move}"
+      }
+    ],
     "enabled": true,
     "slug": "elite-trainer-cr",
     "schema": {
@@ -47,10 +85,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1699736627730,
-    "modifiedTime": 1707827243445,
+    "modifiedTime": 1710769162349,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!k6qUHpNiqGuXUpXB"

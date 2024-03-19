@@ -6,9 +6,19 @@
     "origin": "",
     "effect": "Shadow Crush lowers the target’s Defense 1 Combat Stage on 16+.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.0J9Q0qU4JWSdtMiZ",
+        "range": "16",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
-    "slug": "",
+    "slug": "shadow-crush",
     "schema": {
       "version": null,
       "lastMigration": null
@@ -52,10 +62,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1694872199493,
-    "modifiedTime": 1707815182675,
+    "modifiedTime": 1710765408603,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "Ct5RNVHWvEpGXEWw",

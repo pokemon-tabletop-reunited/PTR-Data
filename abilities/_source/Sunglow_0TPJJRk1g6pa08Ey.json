@@ -4,7 +4,7 @@
   "img": "/systems/ptu/css/images/icons/ability_icon.png",
   "system": {
     "origin": "",
-    "effect": "The user may activate Sunglow while exposed to sunlight to become Radiant until expended. As a Swift Action, the user may expend the Radiant condition to gain +2 Special Attack CS and +2 Accuracy for the rest of the Scene. You may not expend the Radiant condition more than once in a single day.",
+    "effect": "The user may activate Sunglow while exposed to sunlight to become Radiant until expended. As a Rapid Action, the user may expend the Radiant condition to gain +2 Special Attack CS and +2 Accuracy for the rest of the Scene. You may not expend the Radiant condition more than once in a single day.",
     "snippet": "",
     "rules": [],
     "enabled": true,
@@ -35,7 +35,7 @@
   "_stats": {
     "systemId": "ptu",
     "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "coreVersion": "12.318",
     "createdTime": 1692968394056,
     "modifiedTime": 1707761783909,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"

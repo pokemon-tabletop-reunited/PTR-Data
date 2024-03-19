@@ -16,12 +16,12 @@
       }
     ],
     "enabled": true,
-    "slug": null,
+    "slug": "aiming-down-the-sights-cr",
     "schema": {
       "version": null,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.epkSS2waHGQnfOxM",
     "source": {
       "value": "Homebrew"
     },
@@ -52,13 +52,17 @@
     "xUomATnixLnn15IR": 3,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1699736627730,
-    "modifiedTime": 1707827243445,
+    "modifiedTime": 1710772114885,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!kVINbHKeyV5m4wL2"

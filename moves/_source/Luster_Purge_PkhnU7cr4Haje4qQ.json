@@ -7,14 +7,25 @@
     "origin": "",
     "effect": "Luster Purge lowers the target's Special Defense by 1 Combat Stage on an Even-Numbered Roll.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "range": "even",
+        "even": true,
+        "affects": "target",
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.xN7h6F7P4ICyYLnc",
+        "value": ""
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "luster-purge",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.xN7h6F7P4ICyYLnc",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -32,9 +43,9 @@
     "strongJaw": false,
     "type": "Psychic",
     "category": "Special",
-    "damageBase": 7,
+    "damageBase": "7",
     "frequency": "Scene x2",
-    "ac": 2,
+    "ac": "2",
     "range": "Range 12",
     "contestType": "Smart - Seen Nothing Yet",
     "stab": false,
@@ -49,13 +60,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707816561964,
+    "modifiedTime": 1710783545324,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!PkhnU7cr4Haje4qQ"

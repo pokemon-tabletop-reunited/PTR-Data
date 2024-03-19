@@ -7,7 +7,15 @@
     "origin": "",
     "effect": "Ignore any Armor, Damage Reduction, or changes in the target's Defense or Special Defense (such as from Combat Stages) when calculating damage.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "EphemeralEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "affects": "target",
+        "uuid": "Compendium.ptu.effects.Item.zWy9FNpUefVctV7m"
+      }
+    ],
     "enabled": true,
     "slug": "chip-away",
     "schema": {
@@ -56,10 +64,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1707815182675,
+    "modifiedTime": 1710851107282,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!jA1lUJTWb7izUm2l"

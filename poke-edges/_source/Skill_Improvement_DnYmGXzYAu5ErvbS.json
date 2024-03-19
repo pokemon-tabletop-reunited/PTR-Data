@@ -85,11 +85,13 @@
         "mode": "add",
         "path": "{item|flags.ptu.rulesSelections.{item|id}}",
         "value": 1,
-        "priority": 10
+        "priority": 10,
+        "predicate": [],
+        "phase": "applyAEs"
       }
     ],
     "enabled": true,
-    "slug": "",
+    "slug": "skill-improvement",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -120,10 +122,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1683369202715,
-    "modifiedTime": 1707761829447,
+    "modifiedTime": 1710777646726,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

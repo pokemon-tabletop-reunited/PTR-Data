@@ -14,7 +14,8 @@
         "path": "system.modifiers.skillBonus.mod",
         "value": 2,
         "predicate": [],
-        "phase": "applyAEs"
+        "phase": "applyAEs",
+        "priority": null
       },
       {
         "key": "FlatModifier",
@@ -78,10 +79,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.1",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1694203456698,
-    "modifiedTime": 1706456271671,
+    "modifiedTime": 1710850787539,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "ownership": {

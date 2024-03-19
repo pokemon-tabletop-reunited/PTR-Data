@@ -7,7 +7,26 @@
     "origin": "Class Rework",
     "effect": "Effect: If Imperil Curse hits, all legal targets become Vulnerable for 1 full round. On 17+, Imperil Curse Suppresses all legal targets.\nLimitation: None",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.wqzPWKMbwvOWLVoI",
+        "range": "1",
+        "value": "",
+        "affects": "target"
+      },
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "{item|id}-damage-received",
+        "uuid": "Compendium.ptu.effects.Item.uxkB2vhF5HGjQAZY",
+        "range": "17",
+        "value": "",
+        "affects": "target"
+      }
+    ],
     "enabled": true,
     "slug": "imperil-curse-cr",
     "schema": {
@@ -59,10 +78,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "11.315",
     "createdTime": 1699701779793,
-    "modifiedTime": 1707822677254,
+    "modifiedTime": 1710850548415,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "9m8HrDwvIQ4zwsUW",

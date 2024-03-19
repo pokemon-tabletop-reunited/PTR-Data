@@ -4,9 +4,17 @@
     "origin": "",
     "effect": "The holder’s damaging attacks have their Critical Hit Range extended by +1. Evolves Sneasel.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "hideIfDisabled": false,
+        "selectors": "crit-range",
+        "value": 1
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "razor-claw",
     "schema": {
       "version": 0.11,
       "lastMigration": {
@@ -45,13 +53,17 @@
     "default": 0,
     "DsHOL7PqMABKgssN": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": false
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.317",
+    "systemVersion": "4.2.2",
+    "coreVersion": "12.318",
     "createdTime": 1683368826016,
-    "modifiedTime": 1707755855042,
+    "modifiedTime": 1710773648349,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
