@@ -4,7 +4,18 @@
     "origin": "",
     "effect": "-25 Modifier if the target was found underwater or underground.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [
+          "manual"
+        ],
+        "label": "Underwater/underground?",
+        "hideIfDisabled": false,
+        "selectors": "{item|id}-capture-roll",
+        "value": -25
+      }
+    ],
     "enabled": true,
     "slug": null,
     "schema": {
@@ -34,7 +45,8 @@
     "container": false,
     "automation": [],
     "name": "Dive Ball",
-    "useCount": 0
+    "useCount": 0,
+    "modifier": null
   },
   "type": "item",
   "img": "systems/ptu/images/item_icons/dive ball.webp",
@@ -46,14 +58,14 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1683368806066,
-    "modifiedTime": 1707827776133,
+    "modifiedTime": 1712495896404,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 15600000,
+  "sort": 14900000,
   "_id": "Be5yPkNoR5HYkp9h",
   "_key": "!items!Be5yPkNoR5HYkp9h"
 }

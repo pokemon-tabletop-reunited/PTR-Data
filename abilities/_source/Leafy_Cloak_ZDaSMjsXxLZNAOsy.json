@@ -6,9 +6,78 @@
     "origin": "",
     "effect": "Whenever the user activates Leafy Cloak, they choose two of Chlorophyll, Leaf Guard, or Overcoat. Until the user activates Leafy Cloak again, they gain the chosen Abilities.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "flag": "leafycloak1",
+        "adjustName": true,
+        "choices": [
+          {
+            "label": "Leaf Guard",
+            "value": "Compendium.ptu.abilities.Item.wwGnvLri2jpoS0RP",
+            "predicate": {
+              "not": "ability:leaf-guard"
+            }
+          },
+          {
+            "label": "Chlorophyll",
+            "value": "Compendium.ptu.abilities.Item.ZiTUZHmZaIq0K2na",
+            "predicate": {
+              "not": "ability:chlorophyll"
+            }
+          },
+          {
+            "label": "Overcoat",
+            "value": "Compendium.ptu.abilities.Item.aYpa4hA9aHeNGyeQ",
+            "predicate": {
+              "not": "ability:overcoat"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.leafycloak1}"
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "leafycloak2",
+        "adjustName": true,
+        "choices": [
+          {
+            "label": "Leaf Guard",
+            "value": "Compendium.ptu.abilities.Item.wwGnvLri2jpoS0RP",
+            "predicate": {
+              "not": "ability:leaf-guard"
+            }
+          },
+          {
+            "label": "Chlorophyll",
+            "value": "Compendium.ptu.abilities.Item.ZiTUZHmZaIq0K2na",
+            "predicate": {
+              "not": "ability:chlorophyll"
+            }
+          },
+          {
+            "label": "Overcoat",
+            "value": "Compendium.ptu.abilities.Item.aYpa4hA9aHeNGyeQ",
+            "predicate": {
+              "not": "ability:overcoat"
+            }
+          }
+        ]
+      },
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "{item|flags.ptu.rulesSelections.leafycloak2}"
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "leafy-cloak",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -31,13 +100,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1712498890090,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!ZDaSMjsXxLZNAOsy"

@@ -4,11 +4,18 @@
   "img": "/systems/ptu/css/images/icons/ability_icon.png",
   "system": {
     "origin": "",
-    "effect": "Connection - Hypnosis. When used by the user, Hypnosis cannot miss.",
+    "effect": "Connection - Hypnosis. \nWhen used by the user, Hypnosis cannot miss.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.3abHb5scrH2j6qMF"
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "hypnotic",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -31,13 +38,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1712498358959,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!p8Fw4crpH16CAZ5v"

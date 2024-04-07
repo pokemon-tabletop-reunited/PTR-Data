@@ -4,7 +4,44 @@
     "origin": "",
     "effect": "Lagging Items are tied to a specific Stat. When held, they set that Stat to -4 Combat Stages. Cannot be used by Trainers. Standard Action to drop.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "flag": "lagging",
+        "adjustName": true,
+        "choices": [
+          {
+            "label": "Attack",
+            "value": "atk"
+          },
+          {
+            "label": "Defense",
+            "value": "def"
+          },
+          {
+            "label": "Special Attack",
+            "value": "spatk"
+          },
+          {
+            "label": "Special Defense",
+            "value": "spdef"
+          },
+          {
+            "label": "Speed",
+            "value": "spd"
+          }
+        ]
+      },
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "subtract",
+        "path": "system.stats.{item|flags.ptu.rulesSelections.lagging}.stage.mod",
+        "phase": "applyAEs",
+        "value": 4,
+        "priority": null
+      }
+    ],
     "enabled": true,
     "slug": null,
     "schema": {
@@ -46,14 +83,14 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1683368830246,
-    "modifiedTime": 1707755855042,
+    "modifiedTime": 1712496197137,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 54600000,
+  "sort": 51200000,
   "_id": "hu4AY9fuVlsXysaa",
   "_key": "!items!hu4AY9fuVlsXysaa"
 }

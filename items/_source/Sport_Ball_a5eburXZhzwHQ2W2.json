@@ -34,7 +34,8 @@
     "container": false,
     "automation": [],
     "name": "Sport Ball",
-    "useCount": 0
+    "useCount": 0,
+    "modifier": -15
   },
   "type": "item",
   "img": "systems/ptu/images/item_icons/sport ball.webp",
@@ -46,14 +47,14 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1683368783617,
-    "modifiedTime": 1707755855042,
+    "modifiedTime": 1712495896404,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 45000000,
+  "sort": 42600000,
   "_id": "a5eburXZhzwHQ2W2",
   "_key": "!items!a5eburXZhzwHQ2W2"
 }

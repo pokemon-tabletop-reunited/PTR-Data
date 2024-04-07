@@ -8,7 +8,17 @@
     "origin": "",
     "effect": "Effect: -20 Modifier, if the target is Shadow Type.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [
+          "target:types:shadow"
+        ],
+        "hideIfDisabled": false,
+        "selectors": "{item|id}-capture-roll",
+        "value": -20
+      }
+    ],
     "enabled": true,
     "slug": "dark-ball",
     "schema": {
@@ -27,8 +37,9 @@
     "category": "",
     "cost": "1500",
     "consumable": 0,
-    "subtype": "",
-    "container": false
+    "subtype": "pokeball",
+    "container": false,
+    "modifier": 0
   },
   "effects": [],
   "sort": 0,
@@ -44,10 +55,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1697671845000,
-    "modifiedTime": 1707755855042,
+    "modifiedTime": 1712495896404,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!8bxLUIfAAdhrwPlv"

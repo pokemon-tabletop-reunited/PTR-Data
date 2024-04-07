@@ -4,9 +4,20 @@
   "img": "/systems/ptu/css/images/icons/ability_icon.png",
   "system": {
     "origin": "",
-    "effect": "Whenever the user targets uses a damaging Move on a Pokémon or Trainer that have acted before it during Initiative this Round, that Move deals an additional +5 Damage.",
+    "effect": "The user's damaging moves deal an additional +5 damage to Pokemon or Trainers that have already acted before the user this Round",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [
+          "manual"
+        ],
+        "hideIfDisabled": false,
+        "selectors": "damage-roll",
+        "value": 5,
+        "label": "Analytical: Acting after target?"
+      }
+    ],
     "enabled": true,
     "slug": "analytic",
     "schema": {
@@ -38,10 +49,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707829246269,
+    "modifiedTime": 1712497110544,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!BmvqFZyTXoO12Gik"

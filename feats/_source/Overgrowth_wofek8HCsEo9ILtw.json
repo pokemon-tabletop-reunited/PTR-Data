@@ -6,7 +6,7 @@
     "snippet": "",
     "rules": [],
     "enabled": true,
-    "slug": null,
+    "slug": "overgrowth",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -40,15 +40,16 @@
       "sourceId": "Compendium.ptu.feats.JsbpygF2jgLaOaU2"
     },
     "ptu": {
-      "prereqBackup": "Nature's Embrace Rank 3"
+      "prereqBackup": "Nature's Embrace Rank 3",
+      "showInTokenPanel": true
     }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1683368079331,
-    "modifiedTime": 1707818613949,
+    "modifiedTime": 1712494951667,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

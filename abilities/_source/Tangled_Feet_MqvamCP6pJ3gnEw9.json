@@ -6,9 +6,52 @@
     "origin": "",
     "effect": "While Confused or Slowed, the user gains +3 Evasion. The user is immune to the Vulnerable Condition.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "predicate": {
+          "or": [
+            "condition:confused",
+            "condition:slowed"
+          ]
+        },
+        "mode": "add",
+        "path": "system.modifiers.evasion.physical.mod",
+        "phase": "applyAEs",
+        "value": 3,
+        "priority": null
+      },
+      {
+        "key": "ActiveEffectLike",
+        "predicate": {
+          "or": [
+            "condition:confused",
+            "condition:slowed"
+          ]
+        },
+        "mode": "add",
+        "path": "system.modifiers.evasion.special.mod",
+        "phase": "applyAEs",
+        "value": 3,
+        "priority": null
+      },
+      {
+        "key": "ActiveEffectLike",
+        "predicate": {
+          "or": [
+            "condition:confused",
+            "condition:slowed"
+          ]
+        },
+        "mode": "add",
+        "path": "system.modifiers.evasion.speed.mod",
+        "phase": "applyAEs",
+        "value": 3,
+        "priority": null
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "tangled-feet",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -31,13 +74,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1712499608583,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!MqvamCP6pJ3gnEw9"

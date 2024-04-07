@@ -6,9 +6,17 @@
     "origin": "",
     "effect": "The user’s Bone Club, Bonemerang, and Bone Rush moves treat immunity against Ground-Type Moves as neutral. The user's Shadow Bone Moves treat immunity against Ghost-Type Moves as neutral.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "EphemeralEffect",
+        "predicate": [],
+        "affects": "target",
+        "selectors": "damage-received",
+        "uuid": "Compendium.ptu.effects.Item.OG1a1uZlWaHbc5zx"
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "bone-wielder",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -31,13 +39,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1712497346690,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!0ogwaZvuI6AUinpK"

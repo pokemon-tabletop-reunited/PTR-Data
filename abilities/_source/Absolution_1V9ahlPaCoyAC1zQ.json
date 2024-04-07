@@ -8,7 +8,17 @@
     "origin": "",
     "effect": "The user loses a Tick of Hit Points, and gains a bonus to the triggering damage roll equal to 5 + their Tick Value. Absolution may be activated ignoring Frequency while in a New Moon.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [
+          "manual"
+        ],
+        "hideIfDisabled": false,
+        "selectors": "damage-roll",
+        "value": "5 + floor(@actor.system.health.total / 10)"
+      }
+    ],
     "enabled": true,
     "slug": "absolution",
     "schema": {
@@ -37,10 +47,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1699648544234,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1712496782086,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!1V9ahlPaCoyAC1zQ"

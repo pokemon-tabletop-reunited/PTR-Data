@@ -34,7 +34,8 @@
     "container": false,
     "automation": [],
     "name": "Friend Ball",
-    "useCount": 0
+    "useCount": 0,
+    "modifier": -5
   },
   "type": "item",
   "img": "systems/ptu/images/item_icons/friend ball.webp",
@@ -46,14 +47,14 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1683368797565,
-    "modifiedTime": 1707755855042,
+    "modifiedTime": 1712495896404,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 41800000,
+  "sort": 39500000,
   "_id": "XBWS34dzmEdRKfwO",
   "_key": "!items!XBWS34dzmEdRKfwO"
 }

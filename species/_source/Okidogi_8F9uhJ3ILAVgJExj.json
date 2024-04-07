@@ -632,7 +632,9 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "stackSlugs": false,
+    "enabled": false
   },
   "effects": [],
   "ownership": {
@@ -651,10 +653,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.5",
+    "coreVersion": "11.315",
     "createdTime": 1695085163388,
-    "modifiedTime": 1708096087258,
+    "modifiedTime": 1712491464141,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "8F9uhJ3ILAVgJExj",

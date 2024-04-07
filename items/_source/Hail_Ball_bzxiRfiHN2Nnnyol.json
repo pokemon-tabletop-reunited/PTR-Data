@@ -4,7 +4,18 @@
     "origin": "",
     "effect": "-25 Modifier if the weather is hailing when used.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [
+          "manual"
+        ],
+        "label": "Hail?",
+        "hideIfDisabled": false,
+        "selectors": "{item|id}-capture-roll",
+        "value": -25
+      }
+    ],
     "enabled": true,
     "slug": null,
     "schema": {
@@ -34,7 +45,8 @@
     "container": false,
     "automation": [],
     "name": "Hail Ball",
-    "useCount": 0
+    "useCount": 0,
+    "modifier": null
   },
   "type": "item",
   "img": "systems/ptu/images/item_icons/hail ball.webp",
@@ -46,14 +58,14 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1683368839449,
-    "modifiedTime": 1707827776133,
+    "modifiedTime": 1712495896404,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 47300000,
+  "sort": 44600000,
   "_id": "bzxiRfiHN2Nnnyol",
   "_key": "!items!bzxiRfiHN2Nnnyol"
 }

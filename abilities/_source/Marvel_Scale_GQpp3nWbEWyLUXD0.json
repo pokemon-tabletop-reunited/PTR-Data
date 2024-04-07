@@ -6,9 +6,27 @@
     "origin": "",
     "effect": "When Asleep, Paralyzed, Burned, Frozen or Poisoned, Marvel Scale raises the user’s Defense by +2 Combat Stages. The Combat Stages return to Normal if the user is cured of their status affliction.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "predicate": {
+          "or": [
+            "condition:sleep",
+            "condition:paralysis",
+            "condition:burned",
+            "condition:frozen",
+            "condition:poisoned"
+          ]
+        },
+        "mode": "add",
+        "path": "system.stats.def.stage.mod",
+        "phase": "applyAEs",
+        "value": 2,
+        "priority": null
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "marvel-scale",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -31,13 +49,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1712499099988,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!GQpp3nWbEWyLUXD0"

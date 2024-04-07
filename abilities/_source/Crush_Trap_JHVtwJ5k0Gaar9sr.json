@@ -4,11 +4,18 @@
   "img": "/systems/ptu/css/images/icons/ability_icon.png",
   "system": {
     "origin": "",
-    "effect": "Trigger - The user successfully grapples a target.\\nConnection - Wrap. When you activate this ability, the user may immediately deal damage to the target as if the user had hit with a Struggle Attack. There is no Accuracy Roll and thus this damage cannot miss, be a Critical Hit, or trigger any effect Ranges.",
+    "effect": "Trigger - The user successfully grapples a target.\nConnection - Wrap. \nWhen you activate this ability, the user may immediately deal damage to the target as if the user had hit with a Struggle Attack. There is no Accuracy Roll and thus this damage cannot miss, be a Critical Hit, or trigger any effect Ranges.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.26DAmIlAg7WbPpsM"
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "crush-trap",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -31,13 +38,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1712497450132,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!JHVtwJ5k0Gaar9sr"

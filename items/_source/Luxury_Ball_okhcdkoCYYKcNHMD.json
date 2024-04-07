@@ -34,7 +34,8 @@
     "container": false,
     "automation": [],
     "name": "Luxury Ball",
-    "useCount": 0
+    "useCount": 0,
+    "modifier": -5
   },
   "type": "item",
   "img": "systems/ptu/images/item_icons/luxury ball.webp",
@@ -46,14 +47,14 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1683368782810,
-    "modifiedTime": 1707755855042,
+    "modifiedTime": 1712495896404,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 60900000,
+  "sort": 57200000,
   "_id": "okhcdkoCYYKcNHMD",
   "_key": "!items!okhcdkoCYYKcNHMD"
 }

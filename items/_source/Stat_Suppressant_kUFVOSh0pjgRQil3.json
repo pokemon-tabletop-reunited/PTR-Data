@@ -4,7 +4,48 @@
     "origin": "",
     "effect": "These medicines have an identical effect to the Suppressant Berries – they lower one of the user’s Base Stats by 1 point and only function if the Trainer of the Pokémon wants them to.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "flag": "stat-suppress",
+        "adjustName": true,
+        "choices": [
+          {
+            "label": "Attack",
+            "value": "atk"
+          },
+          {
+            "label": "Defense",
+            "value": "def"
+          },
+          {
+            "label": "HP",
+            "value": "hp"
+          },
+          {
+            "label": "Special Attack",
+            "value": "spatk"
+          },
+          {
+            "label": "Special Defense",
+            "value": "spdef"
+          },
+          {
+            "label": "Speed",
+            "value": "spd"
+          }
+        ]
+      },
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "subtract",
+        "path": "system.modifiers.baseStats.{item|flags.ptu.rulesSelections.stat-suppress}.mod",
+        "phase": "applyAEs",
+        "value": "{item|system.quantity} * 1",
+        "priority": null
+      }
+    ],
     "enabled": true,
     "slug": null,
     "schema": {
@@ -46,14 +87,14 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1683368853835,
-    "modifiedTime": 1707755855042,
+    "modifiedTime": 1712496087949,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 57100000,
+  "sort": 53600000,
   "_id": "kUFVOSh0pjgRQil3",
   "_key": "!items!kUFVOSh0pjgRQil3"
 }

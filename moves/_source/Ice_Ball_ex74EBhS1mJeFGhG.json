@@ -16,8 +16,25 @@
           ]
         },
         "hideIfDisabled": false,
-        "selectors": "damage-roll",
-        "value": 10
+        "selectors": "ice-ball-damage-roll",
+        "value": 10,
+        "label": "Defense Curl"
+      },
+      {
+        "key": "ApplyEffect",
+        "predicate": [],
+        "selectors": "damage-dealt",
+        "uuid": "Compendium.ptu.effects.Item.TLumhP0tLbp1YgsE",
+        "range": "1",
+        "value": "",
+        "affects": "origin"
+      },
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "hideIfDisabled": false,
+        "selectors": "ice-ball-damage-base",
+        "value": "min(max(@actor.flags.ptu.iceBall,0), 3) * 4"
       }
     ],
     "enabled": true,
@@ -26,7 +43,7 @@
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.TLumhP0tLbp1YgsE",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -68,10 +85,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.2.2",
+    "systemVersion": "4.2.6",
     "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1710854448293,
+    "modifiedTime": 1712500674269,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!ex74EBhS1mJeFGhG"

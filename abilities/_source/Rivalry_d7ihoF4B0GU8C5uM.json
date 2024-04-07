@@ -6,7 +6,18 @@
     "origin": "",
     "effect": "Whenever the user deals direct damage to a target of the same gender, increase the Damage dealt by +5.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [
+          "manual"
+        ],
+        "label": "Same Gender?",
+        "hideIfDisabled": false,
+        "selectors": "damage-roll",
+        "value": 5
+      }
+    ],
     "enabled": true,
     "slug": "rivalry",
     "schema": {
@@ -38,10 +49,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707829340483,
+    "modifiedTime": 1712499302005,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!d7ihoF4B0GU8C5uM"

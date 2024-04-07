@@ -9,12 +9,12 @@
     "snippet": "",
     "rules": [],
     "enabled": true,
-    "slug": "",
+    "slug": "aqua-boost",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Compendium.ptu.effects.Item.tfUh1LAtD1s76w9D",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -30,14 +30,17 @@
     "ODt7FhFvbVjW9f1k": 3
   },
   "flags": {
-    "core": {}
+    "core": {},
+    "ptu": {
+      "showInTokenPanel": true
+    }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1693118688980,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1712497194299,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "HcmWYYnYlUSLKxpv",

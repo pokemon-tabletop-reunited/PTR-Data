@@ -4,7 +4,17 @@
     "origin": "",
     "effect": "Raise the user’s HP Base Stat 1. You may only get use out of up to five Vitamins per Pokémon.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "add",
+        "path": "system.modifiers.baseStats.hp.mod",
+        "phase": "applyAEs",
+        "value": "{item|system.quantity} * 1",
+        "priority": null
+      }
+    ],
     "enabled": true,
     "slug": null,
     "schema": {
@@ -47,14 +57,14 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1683368796032,
-    "modifiedTime": 1707755855042,
+    "modifiedTime": 1712496050806,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 4800000,
+  "sort": 5300000,
   "_id": "3O9twpEcMY8OqAUf",
   "_key": "!items!3O9twpEcMY8OqAUf"
 }

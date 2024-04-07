@@ -4,7 +4,18 @@
     "origin": "",
     "effect": "-25 Modifier if you already own a Pokémon of the target’s species.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [
+          "manual"
+        ],
+        "hideIfDisabled": false,
+        "selectors": "{item|id}-capture-roll",
+        "value": -25,
+        "label": "been caught before?"
+      }
+    ],
     "enabled": true,
     "slug": "repeat-ball",
     "schema": {
@@ -51,14 +62,14 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1683368792662,
-    "modifiedTime": 1707827791171,
+    "modifiedTime": 1712495896404,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 44500000,
+  "sort": 42100000,
   "_id": "ZnKwJTJTk5p5S6LV",
   "_key": "!items!ZnKwJTJTk5p5S6LV"
 }

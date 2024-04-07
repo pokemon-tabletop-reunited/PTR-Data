@@ -57,11 +57,13 @@
     },
     "evolutions": [
       {
-        "slug": "rotom",
-        "uuid": "lQUd7UjCEI09OMWX",
-        "level": 1,
+        "level": 0,
+        "uuid": "Compendium.ptu.species.Item.lQUd7UjCEI09OMWX",
+        "slug": "rotom-normal",
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -93,7 +95,7 @@
       "highJump": 1,
       "longJump": 1,
       "power": 1,
-      "naturewalk": [],
+      "naturewalk": "",
       "other": [
         {
           "slug": "darkvision",
@@ -480,7 +482,17 @@
     },
     "slug": "rotom-normal",
     "rules": [],
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Electric",
+      "1": "Ghost",
+      "2": ""
+    },
+    "source": {
+      "value": ""
+    },
+    "stackSlugs": false,
+    "enabled": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -495,10 +507,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.5",
+    "coreVersion": "11.315",
     "createdTime": 1689609527590,
-    "modifiedTime": 1708094889604,
+    "modifiedTime": 1712492346430,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!lQUd7UjCEI09OMWX"

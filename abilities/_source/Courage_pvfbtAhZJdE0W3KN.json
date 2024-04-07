@@ -6,9 +6,77 @@
     "origin": "",
     "effect": "While at or under 1/3rd of its Max Hit Point value, the user gains a +5 Damage Bonus to all Damage Rolls, and 5 Damage Reduction. Defensive.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "hideIfDisabled": false,
+        "selectors": "damage-roll",
+        "value": {
+          "brackets": [
+            {
+              "start": 34,
+              "end": 100,
+              "value": 0
+            },
+            {
+              "start": -100,
+              "end": 33,
+              "value": 5
+            }
+          ],
+          "field": "actor|system.health.percent"
+        }
+      },
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "add",
+        "path": "system.modifiers.damageReduction.physical.mod",
+        "phase": "applyAEs",
+        "value": {
+          "brackets": [
+            {
+              "start": 34,
+              "end": 100,
+              "value": 0
+            },
+            {
+              "start": -100,
+              "end": 33,
+              "value": 5
+            }
+          ],
+          "field": "actor|system.health.percent"
+        },
+        "priority": null
+      },
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "add",
+        "path": "system.modifiers.damageReduction.special.mod",
+        "phase": "applyAEs",
+        "value": {
+          "brackets": [
+            {
+              "start": 34,
+              "end": 100,
+              "value": 0
+            },
+            {
+              "start": -100,
+              "end": 33,
+              "value": 5
+            }
+          ],
+          "field": "actor|system.health.percent"
+        },
+        "priority": null
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "courage",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -31,13 +99,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1712497509187,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!pvfbtAhZJdE0W3KN"

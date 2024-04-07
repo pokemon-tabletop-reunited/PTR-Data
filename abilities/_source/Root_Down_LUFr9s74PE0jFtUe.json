@@ -4,9 +4,16 @@
   "img": "/systems/ptu/css/images/icons/ability_icon.png",
   "system": {
     "origin": "",
-    "effect": "Connection - Ingrain. While the user has the Ingrain Coat, they may activate this Ability to gain 5 Damage Reduction.",
+    "effect": "Connection - Ingrain. \nWhile the user has the Ingrain Coat, they may activate this Ability to gain 5 Damage Reduction.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "GrantItem",
+        "predicate": [],
+        "allowDuplicate": false,
+        "uuid": "Compendium.ptu.moves.Item.2ky0KrGcz81tQ5X3"
+      }
+    ],
     "enabled": true,
     "slug": "root-down",
     "schema": {
@@ -38,10 +45,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.2.2",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1692968394056,
-    "modifiedTime": 1710770432956,
+    "modifiedTime": 1712499266165,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!LUFr9s74PE0jFtUe"

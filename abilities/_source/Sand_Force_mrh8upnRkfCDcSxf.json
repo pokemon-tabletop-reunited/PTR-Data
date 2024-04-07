@@ -6,9 +6,43 @@
     "origin": "",
     "effect": "While on sandy terrain or in Sandstorms, the user’s Ground, Rock, and Steel-Typed damaging moves deal +5 Damage. The user is immune to Hit Point loss from Sandstorms.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": {
+          "and": [
+            "effect:dusty"
+          ]
+        },
+        "hideIfDisabled": false,
+        "selectors": "rock-damage",
+        "value": 5
+      },
+      {
+        "key": "FlatModifier",
+        "predicate": {
+          "and": [
+            "effect:dusty"
+          ]
+        },
+        "hideIfDisabled": false,
+        "selectors": "ground-damage",
+        "value": 5
+      },
+      {
+        "key": "FlatModifier",
+        "predicate": {
+          "and": [
+            "effect:dusty"
+          ]
+        },
+        "hideIfDisabled": false,
+        "selectors": "steel-damage",
+        "value": 5
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "sand-force",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -31,13 +65,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1712494994111,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!mrh8upnRkfCDcSxf"

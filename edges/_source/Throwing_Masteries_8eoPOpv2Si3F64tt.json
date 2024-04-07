@@ -4,9 +4,19 @@
     "origin": "",
     "effect": "Increase the Throwing Range of your Poké Balls, Ranged Weapons, and other small items by +2.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "add",
+        "path": "system.modifiers.capabilities.throwingRange",
+        "phase": "applyAEs",
+        "value": 2,
+        "priority": null
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "throwing-masteries",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -39,10 +49,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1683367953807,
-    "modifiedTime": 1707761797684,
+    "modifiedTime": 1712495284250,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,

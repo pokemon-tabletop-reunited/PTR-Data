@@ -4,7 +4,18 @@
     "origin": "",
     "effect": "-25 Modifier if it is dark, or if there is very little light out, when used.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [
+          "manual"
+        ],
+        "label": "Darkness?",
+        "hideIfDisabled": false,
+        "selectors": "{item|id}-capture-roll",
+        "value": -25
+      }
+    ],
     "enabled": true,
     "slug": null,
     "schema": {
@@ -34,7 +45,8 @@
     "container": false,
     "automation": [],
     "name": "Dusk Ball",
-    "useCount": 0
+    "useCount": 0,
+    "modifier": null
   },
   "type": "item",
   "img": "systems/ptu/images/item_icons/dusk ball.webp",
@@ -46,14 +58,14 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1683368799056,
-    "modifiedTime": 1707827776133,
+    "modifiedTime": 1712495896404,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 69500000,
+  "sort": 65100000,
   "_id": "vwGtLLZ0U1mbHzEk",
   "_key": "!items!vwGtLLZ0U1mbHzEk"
 }

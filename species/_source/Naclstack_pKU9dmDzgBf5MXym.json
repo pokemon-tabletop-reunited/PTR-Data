@@ -32,12 +32,12 @@
       ],
       "advanced": [
         {
-          "slug": "sturdy",
-          "uuid": "Compendium.ptu.abilities.Item.AaDXWUAMnhxLbyn3"
-        },
-        {
           "slug": "clear-body",
           "uuid": "Compendium.ptu.abilities.Item.SgZgmNYHuMbt7JF2"
+        },
+        {
+          "slug": "sturdy",
+          "uuid": "Compendium.ptu.abilities.Item.AaDXWUAMnhxLbyn3"
         }
       ],
       "high": [
@@ -539,7 +539,9 @@
       "0": "Rock",
       "1": ""
     },
-    "keywords": []
+    "keywords": [],
+    "stackSlugs": false,
+    "enabled": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -554,10 +556,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.5",
+    "coreVersion": "11.315",
     "createdTime": 1693120305329,
-    "modifiedTime": 1708094889604,
+    "modifiedTime": 1712491719448,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!pKU9dmDzgBf5MXym"

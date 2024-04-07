@@ -5,9 +5,16 @@
   "img": "/systems/ptu/static/css/images/icons/ability_icon.png",
   "system": {
     "origin": "",
-    "effect": "The user is immune to the damage and effects of Ground Type attacks. If a damaging Ground Type attack hits the user, the user gains 25% of it's Max Hp.\\\\nBonus: The user and adjacent allies are immune to Hazards.",
+    "effect": "The user is immune to the damage and effects of Ground Type attacks. If a damaging Ground Type attack hits the user, the user gains 25% of it's Max Hp.\nBonus: The user and adjacent allies are immune to Hazards.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "Effectiveness",
+        "predicate": [],
+        "type": "ground",
+        "value": 0
+      }
+    ],
     "enabled": true,
     "slug": "earth-eater",
     "schema": {
@@ -37,10 +44,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1693118706100,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1712497788372,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "0b8forax0LGEg6Mx",

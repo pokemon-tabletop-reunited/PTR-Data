@@ -21,7 +21,7 @@
     },
     "types": [
       "Poison",
-      "Fighting"
+      "Psychic"
     ],
     "abilities": {
       "basic": [
@@ -608,13 +608,15 @@
     "rules": [],
     "type": {
       "0": "Poison",
-      "1": "Fighting",
+      "1": "Psychic",
       "2": ""
     },
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "stackSlugs": false,
+    "enabled": false
   },
   "effects": [],
   "ownership": {
@@ -633,10 +635,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.5",
+    "coreVersion": "11.315",
     "createdTime": 1695085163388,
-    "modifiedTime": 1708096087258,
+    "modifiedTime": 1712491471319,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "yXs3Y4b0iwr1wlZz",

@@ -12,6 +12,32 @@
         "predicate": [],
         "type": "ground",
         "value": 0
+      },
+      {
+        "key": "ChoiceSet",
+        "flag": "levitate",
+        "adjustName": false,
+        "label": "{actor|name}'s Levitate",
+        "prompt": "Does {actor|name} already have a Levitate Speed?",
+        "choices": [
+          {
+            "label": "Yes",
+            "value": "2"
+          },
+          {
+            "label": "No",
+            "value": "4"
+          }
+        ]
+      },
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "add",
+        "path": "system.modifiers.capabilities.levitate",
+        "phase": "applyAEs",
+        "value": "{item|flags.ptu.rulesSelections.levitate}",
+        "priority": null
       }
     ],
     "enabled": true,
@@ -45,10 +71,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1712493357966,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!WsNZitOqUrhu9k78"

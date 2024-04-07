@@ -4,7 +4,7 @@
   "img": "/systems/ptu/static/css/images/icons/effect_icon.png",
   "system": {
     "origin": "",
-    "effect": "",
+    "effect": "@Embed[Compendium.ptu.abilities.Item.ylT7dKJeRCFA4hRH]",
     "snippet": "",
     "rules": [
       {
@@ -82,14 +82,17 @@
     "ODt7FhFvbVjW9f1k": 3
   },
   "flags": {
-    "core": {}
+    "core": {},
+    "ptu": {
+      "showInTokenPanel": true
+    }
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.0.12",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1696245115392,
-    "modifiedTime": 1706024522433,
+    "modifiedTime": 1712498402079,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_id": "UAu1KzGwXAZYCOHP",

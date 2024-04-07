@@ -4,7 +4,18 @@
     "origin": "",
     "effect": "-25 Modifier if the target is under level 10. Target gains 1d4 levels upon capture.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [
+          "manual"
+        ],
+        "hideIfDisabled": false,
+        "selectors": "{item|id}-capture-roll",
+        "value": -25,
+        "label": "target under lv10?"
+      }
+    ],
     "enabled": true,
     "slug": null,
     "schema": {
@@ -34,7 +45,8 @@
     "container": false,
     "automation": [],
     "name": "Power Ball",
-    "useCount": 0
+    "useCount": 0,
+    "modifier": null
   },
   "type": "item",
   "img": "systems/ptu/images/item_icons/power ball.webp",
@@ -46,14 +58,14 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1683368835158,
-    "modifiedTime": 1707827776133,
+    "modifiedTime": 1712495896404,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 44700000,
+  "sort": 42300000,
   "_id": "ZrKtdENMsgK0IwAy",
   "_key": "!items!ZrKtdENMsgK0IwAy"
 }

@@ -4,7 +4,21 @@
     "origin": "",
     "effect": "The Holder’s Speed is halved, and any immunity to Ground Type is lost. Hand Item for Trainers. Standard Action to drop.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "subtract",
+        "path": "system.stats.spd.mod.mod",
+        "phase": "afterDerived",
+        "value": "floor(@actor.system.stats.spd.total / 2)",
+        "priority": null
+      },
+      {
+        "key": "RollOption",
+        "option": "self:immunity-blocked:ground"
+      }
+    ],
     "enabled": true,
     "slug": "",
     "schema": {
@@ -50,14 +64,14 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1683368783783,
-    "modifiedTime": 1707755855042,
+    "modifiedTime": 1712496197137,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "folder": null,
-  "sort": 51100000,
+  "sort": 47800000,
   "_id": "ewGvyFGcqKkMAOS3",
   "_key": "!items!ewGvyFGcqKkMAOS3"
 }

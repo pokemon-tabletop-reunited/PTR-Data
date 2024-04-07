@@ -6,7 +6,17 @@
     "origin": "",
     "effect": "The user ignores the Recoil Keyword when attacking. The user's Base HP is increased by +5. Innate.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "predicate": [],
+        "mode": "add",
+        "path": "system.modifiers.baseStats.hp.mod",
+        "phase": "applyAEs",
+        "value": 5,
+        "priority": null
+      }
+    ],
     "enabled": true,
     "slug": "abominable",
     "schema": {
@@ -38,10 +48,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1712494644256,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!W3vM5lPhAp2PKHsh"

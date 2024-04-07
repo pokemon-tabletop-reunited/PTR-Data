@@ -40,10 +40,6 @@
       ],
       "advanced": [
         {
-          "slug": "confidence",
-          "uuid": "Compendium.ptu.abilities.Item.dnokBxCkJAn5nqHN"
-        },
-        {
           "slug": "stalwart",
           "uuid": "Compendium.ptu.abilities.Item.1g5b8gZ4IV6l0g3m"
         },
@@ -64,6 +60,16 @@
         "level": 1,
         "uuid": "Compendium.ptu.species.Item.oz4V62tztR3pwqCf",
         "slug": "duraludon",
+        "other": {
+          "restrictions": [
+            ""
+          ]
+        }
+      },
+      {
+        "level": 25,
+        "slug": "archaludon",
+        "uuid": "Compendium.ptu.species.Item.Ch7ssmaFjChTHzVg",
         "other": {
           "restrictions": [
             ""
@@ -473,7 +479,9 @@
       "1": "Dragon",
       "2": ""
     },
-    "keywords": []
+    "keywords": [],
+    "stackSlugs": false,
+    "enabled": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -488,10 +496,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.5",
+    "coreVersion": "11.315",
     "createdTime": 1689609527590,
-    "modifiedTime": 1708094889604,
+    "modifiedTime": 1712492085153,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!oz4V62tztR3pwqCf"

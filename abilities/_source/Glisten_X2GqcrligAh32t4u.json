@@ -6,14 +6,21 @@
     "origin": "",
     "effect": "The user is immune to Fairy-Type attacks. Defensive. If the user is hit by a damaging Fairy-Type attack, they receive +1 Defense or Special Defense Combat Stages.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "Effectiveness",
+        "predicate": [],
+        "type": "fairy",
+        "value": 0
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "glisten",
     "schema": {
       "version": 0.11,
       "lastMigration": null
     },
-    "referenceEffect": "",
+    "referenceEffect": "Item.NgsClbaUSVeXR3v5",
     "source": {
       "value": "PTR Compendiums"
     },
@@ -31,13 +38,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1712498252055,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!X2GqcrligAh32t4u"

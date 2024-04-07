@@ -6,9 +6,17 @@
     "origin": "",
     "effect": "For each injury the user has, they gain a +3 Bonus to Damage Rolls.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "hideIfDisabled": false,
+        "selectors": "damage-roll",
+        "value": "@actor.system.health.injuries * 3"
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "aura-storm",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -31,13 +39,17 @@
     "default": 0,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1712497138586,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!Id9Q9nTyuepCBG8Y"

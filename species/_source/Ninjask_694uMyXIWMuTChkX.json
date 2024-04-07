@@ -57,19 +57,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.20WHvGxOpQopNoWX",
         "slug": "nincada",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
+        "level": 20,
         "uuid": "Compendium.ptu.species.Item.694uMyXIWMuTChkX",
         "slug": "ninjask",
-        "level": 20,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -116,64 +120,64 @@
     "moves": {
       "level": [
         {
-          "uuid": "Compendium.ptu.moves.Item.BHmRIX70tqHROfdN",
-          "slug": "double-team",
-          "level": "Evo"
-        },
-        {
-          "uuid": "Compendium.ptu.moves.Item.TD9T2QEalKGQZicp",
-          "slug": "screech",
-          "level": "Evo"
-        },
-        {
+          "level": "Evo",
           "uuid": "Compendium.ptu.moves.Item.4W8tzNRKdmn0WRYd",
-          "slug": "fury-cutter",
-          "level": "Evo"
+          "slug": "fury-cutter"
         },
         {
+          "level": "Evo",
+          "uuid": "Compendium.ptu.moves.Item.TD9T2QEalKGQZicp",
+          "slug": "screech"
+        },
+        {
+          "level": "Evo",
+          "uuid": "Compendium.ptu.moves.Item.BHmRIX70tqHROfdN",
+          "slug": "double-team"
+        },
+        {
+          "level": 5,
           "uuid": "Compendium.ptu.moves.Item.zEIiTcsXhPE8v0fF",
-          "slug": "absorb",
-          "level": 5
+          "slug": "absorb"
         },
         {
+          "level": 9,
           "uuid": "Compendium.ptu.moves.Item.IU5XxUVfxPggP6Rx",
-          "slug": "sand-attack",
-          "level": 9
+          "slug": "sand-attack"
         },
         {
+          "level": 13,
           "uuid": "Compendium.ptu.moves.Item.kBtOW4lhbgV3tltJ",
-          "slug": "fury-swipes",
-          "level": 13
+          "slug": "fury-swipes"
         },
         {
+          "level": 17,
           "uuid": "Compendium.ptu.moves.Item.aS33KlxhRCP0s5Zd",
-          "slug": "agility",
-          "level": 17
+          "slug": "agility"
         },
         {
+          "level": 23,
           "uuid": "Compendium.ptu.moves.Item.sm3q5D8SkQcEmiGB",
-          "slug": "slash",
-          "level": 23
+          "slug": "slash"
         },
         {
+          "level": 29,
           "uuid": "Compendium.ptu.moves.Item.IB7f6qhUE3A1k07u",
-          "slug": "mind-reader",
-          "level": 29
+          "slug": "mind-reader"
         },
         {
+          "level": 35,
           "uuid": "Compendium.ptu.moves.Item.uZjoE8y3gbmlRVcc",
-          "slug": "baton-pass",
-          "level": 35
+          "slug": "baton-pass"
         },
         {
+          "level": 41,
           "uuid": "Compendium.ptu.moves.Item.z5hgetbLhLvsd800",
-          "slug": "swords-dance",
-          "level": 41
+          "slug": "swords-dance"
         },
         {
+          "level": 47,
           "uuid": "Compendium.ptu.moves.Item.oxBlIL3xxTpZFy8u",
-          "slug": "x-scissor",
-          "level": 47
+          "slug": "x-scissor"
         }
       ],
       "machine": [
@@ -446,7 +450,14 @@
     "source": {
       "value": "PTR Core Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Bug",
+      "1": "Flying",
+      "2": ""
+    },
+    "stackSlugs": false,
+    "enabled": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -461,10 +472,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.5",
+    "coreVersion": "11.315",
     "createdTime": 1689609527590,
-    "modifiedTime": 1708094889604,
+    "modifiedTime": 1712492132957,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!694uMyXIWMuTChkX"

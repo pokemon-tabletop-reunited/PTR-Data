@@ -6,7 +6,20 @@
     "origin": "",
     "effect": "The user resists Fighting and Steel type moves one step further. Defensive.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "EphemeralEffect",
+        "predicate": {
+          "or": [
+            "move:type:fighting",
+            "move:type:steel"
+          ]
+        },
+        "selectors": "damage-received",
+        "uuid": "Compendium.ptu.effects.Item.1gINEWTirDjE7LiS",
+        "affects": "origin"
+      }
+    ],
     "enabled": true,
     "slug": "diamond-cut",
     "schema": {
@@ -38,10 +51,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1692968394056,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1712497648085,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!ma5jrdnjUlgFQCoa"

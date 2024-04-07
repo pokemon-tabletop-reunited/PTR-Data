@@ -1,16 +1,48 @@
 {
   "name": "Elementalist",
   "type": "ability",
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "effects": [],
   "_id": "ZrAgyqACimyx2Ty9",
   "system": {
     "origin": "",
     "effect": "The user gains STAB on Fire, Electric, and Water-Type Moves.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": {
+          "not": "move:is-stab"
+        },
+        "hideIfDisabled": false,
+        "selectors": "water-damage-base",
+        "value": 2
+      },
+      {
+        "key": "FlatModifier",
+        "predicate": {
+          "not": "move:is-stab"
+        },
+        "hideIfDisabled": false,
+        "selectors": "electric-damage-base",
+        "value": 2
+      },
+      {
+        "key": "FlatModifier",
+        "predicate": {
+          "not": "move:is-stab"
+        },
+        "hideIfDisabled": false,
+        "selectors": "fire-damage-base",
+        "value": 2
+      }
+    ],
     "enabled": true,
-    "slug": null,
+    "slug": "elementalist",
     "schema": {
       "version": 0.11,
       "lastMigration": null
@@ -37,10 +69,10 @@
   "sort": 3100000,
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1689606908412,
-    "modifiedTime": 1707761783909,
+    "modifiedTime": 1712497854607,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!ZrAgyqACimyx2Ty9"

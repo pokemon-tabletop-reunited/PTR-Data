@@ -4,9 +4,17 @@
   "img": "/systems/ptu/css/images/icons/ability_icon.png",
   "system": {
     "origin": "",
-    "effect": "You gain +1 Accuracy Bonus.\\nBonus: You no longer automatically fail Accuracy Checks on a natural 1.",
+    "effect": "You gain +1 Accuracy Bonus.\nBonus: You no longer automatically fail Accuracy Checks on a natural 1.",
     "snippet": "",
-    "rules": [],
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "predicate": [],
+        "hideIfDisabled": false,
+        "selectors": "attack",
+        "value": 1
+      }
+    ],
     "enabled": true,
     "slug": "accuracy-expert",
     "schema": {
@@ -38,11 +46,11 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.2.1",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1692968394056,
-    "modifiedTime": 1708711537372,
-    "lastModifiedBy": "xUomATnixLnn15IR"
+    "modifiedTime": 1712496805058,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!9wjZFResGW9IGmjb"
 }
