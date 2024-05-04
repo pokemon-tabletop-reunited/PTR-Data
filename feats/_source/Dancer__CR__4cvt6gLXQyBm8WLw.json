@@ -16,7 +16,7 @@
       }
     ],
     "enabled": true,
-    "slug": null,
+    "slug": "dancer-cr",
     "schema": {
       "version": null,
       "lastMigration": null
@@ -33,7 +33,7 @@
       "Class Rework"
     ],
     "prerequisites": [
-      "Novice Acrobatics or Novice Athletics or Charm"
+      "Novice Acrobatics or Athletics or Charm"
     ],
     "frequency": "Static",
     "notes": "",
@@ -52,13 +52,17 @@
     "xUomATnixLnn15IR": 3,
     "ODt7FhFvbVjW9f1k": 3
   },
-  "flags": {},
+  "flags": {
+    "ptu": {
+      "showInTokenPanel": true
+    }
+  },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1699736627730,
-    "modifiedTime": 1707827243445,
+    "modifiedTime": 1714850740745,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!4cvt6gLXQyBm8WLw"

@@ -76,7 +76,7 @@
         }
       },
       {
-        "level": 30,
+        "level": 35,
         "uuid": "Compendium.ptu.species.Item.8dNSG4cMA6qGeg8l",
         "slug": "ursaluna",
         "other": {
@@ -553,7 +553,9 @@
       "0": "Normal",
       "1": ""
     },
-    "keywords": []
+    "keywords": [],
+    "stackSlugs": false,
+    "enabled": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -568,10 +570,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1689609527590,
-    "modifiedTime": 1708094889604,
+    "modifiedTime": 1714850824062,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!FY8xfSdysNgjEK1L"

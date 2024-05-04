@@ -13,17 +13,10 @@
         "key": "ActiveEffectLike",
         "predicate": [],
         "mode": "add",
-        "path": "system.stats.spd.stage.value",
+        "path": "system.stats.spd.stage.mod",
         "phase": "applyAEs",
-        "value": 2
-      },
-      {
-        "key": "ActiveEffectLike",
-        "predicate": [],
-        "mode": "subtract",
-        "path": "system.size.weightClass",
-        "phase": "applyAEs",
-        "value": ""
+        "value": 2,
+        "priority": null
       }
     ],
     "enabled": true,
@@ -73,7 +66,7 @@
     "systemVersion": "4.2.6",
     "coreVersion": "11.315",
     "createdTime": 1698280941763,
-    "modifiedTime": 1712495153716,
+    "modifiedTime": 1714850681387,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!eO5ycOqENdnKlMiJ"

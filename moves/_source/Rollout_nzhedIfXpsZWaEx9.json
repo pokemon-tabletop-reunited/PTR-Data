@@ -23,7 +23,7 @@
       {
         "key": "ApplyEffect",
         "predicate": [],
-        "selectors": "damage-dealt",
+        "selectors": "{item|id}-damage-dealt",
         "uuid": "Compendium.ptu.effects.Item.B9MPZ7Xns8D0AtR3",
         "range": "1",
         "value": "",
@@ -88,7 +88,7 @@
     "systemVersion": "4.2.6",
     "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1712500667099,
+    "modifiedTime": 1714850904470,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!nzhedIfXpsZWaEx9"

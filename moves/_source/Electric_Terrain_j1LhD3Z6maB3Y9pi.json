@@ -5,7 +5,7 @@
   "folder": "lWQOqDm2AOGwGM16",
   "system": {
     "origin": "",
-    "effect": "The field becomes Electrified for 5 rounds. While the field is Electrified, Pokemon and Trainers touching the ground are immune to Sleep, and Electric-Type attacks used by Pokemon and Trainers touching the ground gain a +10 Bonus to Damage Rolls.",
+    "effect": "The field becomes Electrified for 5 rounds. While the field is Electrified, Pokemon and Trainers touching the ground are immune to Sleep, and Electric-Type attacks used by Pokemon and Trainers touching the ground gain +2 Damage Base.",
     "snippet": "",
     "rules": [],
     "enabled": true,
@@ -54,10 +54,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.2.1",
-    "coreVersion": "12.318",
+    "systemVersion": "4.2.6",
+    "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1709370767335,
+    "modifiedTime": 1714850781422,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!j1LhD3Z6maB3Y9pi"

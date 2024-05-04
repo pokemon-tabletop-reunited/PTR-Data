@@ -23,7 +23,7 @@
       {
         "key": "ApplyEffect",
         "predicate": [],
-        "selectors": "damage-dealt",
+        "selectors": "{item|id}-damage-dealt",
         "uuid": "Compendium.ptu.effects.Item.TLumhP0tLbp1YgsE",
         "range": "1",
         "value": "",
@@ -34,7 +34,7 @@
         "predicate": [],
         "hideIfDisabled": false,
         "selectors": "ice-ball-damage-base",
-        "value": "min(max(@actor.flags.ptu.iceBall,0), 3) * 4"
+        "value": "min(max(@actor.flags.ptu.iceBall,0), 4) * 3"
       }
     ],
     "enabled": true,
@@ -88,7 +88,7 @@
     "systemVersion": "4.2.6",
     "coreVersion": "11.315",
     "createdTime": 1692963260348,
-    "modifiedTime": 1712500674269,
+    "modifiedTime": 1714850883109,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k"
   },
   "_key": "!items!ex74EBhS1mJeFGhG"
