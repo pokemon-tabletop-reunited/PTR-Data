@@ -13,7 +13,8 @@
         "mode": "override",
         "path": "system.modifiers.hardened",
         "phase": "applyAEs",
-        "value": "true"
+        "value": "true",
+        "priority": null
       },
       {
         "key": "ActiveEffectLike",
@@ -26,7 +27,8 @@
         "mode": "add",
         "path": "system.modifiers.critRange.mod",
         "phase": "applyAEs",
-        "value": 1
+        "value": 1,
+        "priority": null
       },
       {
         "key": "ActiveEffectLike",
@@ -39,7 +41,8 @@
         "mode": "add",
         "path": "system.modifiers.effectRange.mod",
         "phase": "applyAEs",
-        "value": 1
+        "value": 1,
+        "priority": null
       },
       {
         "key": "ActiveEffectLike",
@@ -52,7 +55,8 @@
         "mode": "add",
         "path": "system.modifiers.initiative.mod",
         "phase": "applyAEs",
-        "value": 5
+        "value": 5,
+        "priority": null
       },
       {
         "key": "ActiveEffectLike",
@@ -65,7 +69,8 @@
         "mode": "add",
         "path": "system.modifiers.evasion.physical.mod",
         "phase": "applyAEs",
-        "value": 1
+        "value": 1,
+        "priority": null
       },
       {
         "key": "ActiveEffectLike",
@@ -78,7 +83,8 @@
         "mode": "add",
         "path": "system.modifiers.evasion.special.mod",
         "phase": "applyAEs",
-        "value": 1
+        "value": 1,
+        "priority": null
       },
       {
         "key": "ActiveEffectLike",
@@ -91,7 +97,8 @@
         "mode": "add",
         "path": "system.modifiers.evasion.speed.mod",
         "phase": "applyAEs",
-        "value": 1
+        "value": 1,
+        "priority": null
       },
       {
         "key": "ActiveEffectLike",
@@ -104,7 +111,8 @@
         "mode": "add",
         "path": "system.modifiers.damageReduction.physical.mod",
         "phase": "applyAEs",
-        "value": 5
+        "value": 5,
+        "priority": null
       },
       {
         "key": "ActiveEffectLike",
@@ -117,7 +125,8 @@
         "mode": "add",
         "path": "system.modifiers.damageReduction.special.mod",
         "phase": "applyAEs",
-        "value": 5
+        "value": 5,
+        "priority": null
       },
       {
         "key": "ActiveEffectLike",
@@ -130,7 +139,8 @@
         "mode": "add",
         "path": "system.modifiers.resistanceSteps.mod",
         "phase": "applyAEs",
-        "value": 1
+        "value": 1,
+        "priority": null
       }
     ],
     "enabled": true,
@@ -151,7 +161,7 @@
     "duration": {
       "value": -1,
       "unit": "unlimited",
-      "expiry": "turn-start"
+      "expiry": null
     },
     "start": {
       "value": 0,
@@ -178,11 +188,13 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.3.0",
+    "coreVersion": "12.327",
     "createdTime": 1695907824371,
-    "modifiedTime": 1707832614561,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1718112304750,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "ed6GkfPq9AmYTTnf",
   "sort": 0,

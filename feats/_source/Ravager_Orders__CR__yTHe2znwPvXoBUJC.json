@@ -15,7 +15,7 @@
         "key": "GrantItem",
         "predicate": [],
         "allowDuplicate": false,
-        "uuid": "Item.l1bMdIUsBsxeri0D"
+        "uuid": "Compendium.ptu.feats.Item.l1bMdIUsBsxeri0D"
       }
     ],
     "enabled": true,
@@ -64,11 +64,13 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.318",
+    "systemVersion": "4.3.0",
+    "coreVersion": "12.327",
     "createdTime": 1683368079131,
-    "modifiedTime": 1707827243445,
-    "lastModifiedBy": "ODt7FhFvbVjW9f1k"
+    "modifiedTime": 1718112144888,
+    "lastModifiedBy": "ODt7FhFvbVjW9f1k",
+    "compendiumSource": "Compendium.ptu.feats.FzXwymbJdrXtYPeR",
+    "duplicateSource": null
   },
   "folder": "99i7IqV920YvWab8",
   "sort": 400000,
