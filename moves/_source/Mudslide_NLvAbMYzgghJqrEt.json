@@ -17,7 +17,7 @@
         "key": "ApplyEffect",
         "predicate": [],
         "selectors": "{item|id}-damage-received",
-        "uuid": "Compendium.ptu.effects.Item.xE6uIFWZoYXAZQxA",
+        "uuid": "Compendium.ptu.effects.Item.dvdW23rD3i0jBRye",
         "range": "1",
         "value": "",
         "affects": "target"
@@ -67,10 +67,10 @@
   "sort": 2100000,
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.2.2",
-    "coreVersion": "12.327",
+    "systemVersion": "4.3.2",
+    "coreVersion": "12.329",
     "createdTime": 1689606523899,
-    "modifiedTime": 1710788147088,
+    "modifiedTime": 1721743582175,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k",
     "compendiumSource": null,
     "duplicateSource": null

@@ -14,7 +14,7 @@
         "affects": "target",
         "selectors": "{item|id}-damage-received",
         "uuid": "Compendium.ptu.effects.Item.tOcc4Jxj8sbqfvl2",
-        "range": "19",
+        "range": "1",
         "value": ""
       }
     ],
@@ -64,10 +64,10 @@
   },
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.2.1",
-    "coreVersion": "12.327",
+    "systemVersion": "4.3.2",
+    "coreVersion": "12.329",
     "createdTime": 1692963260348,
-    "modifiedTime": 1709370779099,
+    "modifiedTime": 1721743526387,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k",
     "compendiumSource": null,
     "duplicateSource": null
