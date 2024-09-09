@@ -9,12 +9,12 @@
     "number": 980,
     "form": "",
     "stats": {
-      "hp": 10,
-      "atk": 9,
-      "def": 9,
-      "spatk": 7,
-      "spdef": 7,
-      "spd": 4
+      "hp": 13,
+      "atk": 8,
+      "def": 6,
+      "spatk": 5,
+      "spdef": 10,
+      "spd": 2
     },
     "types": [
       "Poison",
@@ -114,6 +114,10 @@
         {
           "slug": "gilled",
           "uuid": "Compendium.ptu.capabilities.Item.Sr5UjqsO8FydTuNw"
+        },
+        {
+          "slug": "underdog",
+          "uuid": "Compendium.ptu.capabilities.Item.AIbbzjfDZix8YFkU"
         }
       ]
     },
@@ -496,7 +500,8 @@
       "2": ""
     },
     "keywords": [],
-    "stackSlugs": false
+    "stackSlugs": false,
+    "enabled": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "dljUGxtO8AR0tERN",
@@ -511,10 +516,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.327",
+    "systemVersion": "4.3.3",
+    "coreVersion": "12.329",
     "createdTime": 1693120305329,
-    "modifiedTime": 1708102849823,
+    "modifiedTime": 1723021862437,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k",
     "compendiumSource": null,
     "duplicateSource": null

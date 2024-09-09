@@ -57,19 +57,23 @@
     },
     "evolutions": [
       {
+        "level": 1,
         "uuid": "Compendium.ptu.species.Item.rDhV7D6UGC3Vu8u8",
         "slug": "delta-foongus",
-        "level": 1,
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       },
       {
-        "uuid": "Compendium.ptu.species.Item.oYQQRFJJlBSC6rWc",
-        "slug": "delta-amoongus",
         "level": 35,
+        "uuid": "Compendium.ptu.species.Item.oYQQRFJJlBSC6rWc",
+        "slug": "delta-amoonguss",
         "other": {
-          "restrictions": []
+          "restrictions": [
+            ""
+          ]
         }
       }
     ],
@@ -436,7 +440,14 @@
     "source": {
       "value": "Fangame Insurgence Dex"
     },
-    "keywords": []
+    "keywords": [],
+    "type": {
+      "0": "Ghost",
+      "1": "Dark",
+      "2": ""
+    },
+    "stackSlugs": false,
+    "enabled": false
   },
   "img": "/systems/ptu/css/images/icons/dex_icon.png",
   "folder": "PjOQybdSHWn87sdq",
@@ -451,10 +462,10 @@
   "flags": {},
   "_stats": {
     "systemId": "ptu",
-    "systemVersion": "4.1.4",
-    "coreVersion": "12.327",
+    "systemVersion": "4.3.4",
+    "coreVersion": "12.329",
     "createdTime": 1689609527590,
-    "modifiedTime": 1707761842946,
+    "modifiedTime": 1725872465964,
     "lastModifiedBy": "ODt7FhFvbVjW9f1k",
     "compendiumSource": null,
     "duplicateSource": null
